@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 HOMEBREW_CORE="${HOME}/Development/homebrew-core"
-HOMEBREW_HISTORY="${HOME}/Development/brew-history"
+HOMEBREW_HISTORY="${HOME}/Development/brewed"
 FORMULA_LIST_INDEX="${HOMEBREW_HISTORY}/public/js/formulas.js"
 
 function print-usage () {
