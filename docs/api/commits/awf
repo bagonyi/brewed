@@ -1,0 +1,16 @@
+{
+    "6059e4e733acfbe2017846c8c49491d0c2ab9065": "awf: update 1.4.0_1 bottle.",
+    "7f2d51b503f2d51feed42d9dbeccda951e2b0557": "awf: update 1.4.0_1 bottle.",
+    "d055a6f97eb8a6b55da0028b99b59ab9ee2e9933": "awf: revision to fix install receipt",
+    "7a8d9d28a39ac75a6266d0f1dabd1af1ccc5fb1b": "awf: use assert_predicate",
+    "cc7e648f0de39d3fd83a20035ccfff2630838e39": "awf: update 1.4.0 bottle.",
+    "d0652ad16a3cfb313e9624fb58d5de928f993deb": "awf: update 1.4.0 bottle.",
+    "875b4d14fd656001f6b73d27d710c10b2e35e282": "awf 1.4.0",
+    "8916b61590ba6b347851483edf66276a9f180436": "awf: update 1.3.1 bottle.",
+    "22bddd9c6df9434f9c8417ce18b5096b19cedf56": "awf: update 1.3.1 bottle.",
+    "d4d6857f2b6776c73fc5e1e8ba023d7b933cf85b": "awf 1.3.1",
+    "b3fa2f1c7d5625df2f20bb033b1a7c984cb26d59": "awf: update 1.3.0 bottle.",
+    "4437c599646d4a8bee1cc54815439807bbc535fa": "awf: audit fixes",
+    "730058a9877e3fc98cf77224e313cac9beb82592": "awf: add 1.3.0 bottle.",
+    "e4be191512734860f69c79fe5cb54003ba899d52": "awf 1.3.0"
+}

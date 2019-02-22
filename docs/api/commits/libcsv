@@ -1,0 +1,17 @@
+{
+    "2c795d593d5dfeeae342b0efce77cdeddaa3b206": "libcsv: update 3.0.3 bottle.",
+    "fe1ba6f8edd52d3f2ea3d2c6ae724da6fb1b83ce": "libcsv: Add test (#27870)",
+    "b94db2a13ec6283c02471537803fb5c0aa1c9f60": "libcsv: update 3.0.3 bottle.",
+    "d4cf702c870000742ad5eea14eae5a9b1858308f": "libcsv: update 3.0.3 bottle.",
+    "f02c0eddc6ea7953ea5de234281a31b1193571c8": "libcsv: update 3.0.3 bottle.",
+    "4a06015f697bcefcb5ad26a2b2af559aa8f06b69": "libcsv: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8c152379230ddff097acdb7efd109338a66910a5": "libcsv: update 3.0.3 bottle.",
+    "8cde87dc079a897bf469bb6671dbf77698b6900d": "libcsv: add 3.0.3 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "9e47ce323ed86f060a83c4abebf966c750098fa0": "libcsv 3.0.3",
+    "17266951f81e9f88d2ef3aabf49e5a6efe9f1b6d": "libcsv 3.0.2 & use configure",
+    "7f5c97349d2ee2ad4e614e8815fef5ba1990c63b": "libcsv: avoid inreplace",
+    "97bbceb4b88c1369ec857d19d8e5ea83f5d4717e": "Add formula for libcsv"
+}

@@ -1,0 +1,13 @@
+{
+    "e963aa704fe743f54d34bff943aaed7a0175f668": "nmh: update 1.7.1 bottle.",
+    "aed575e942eb18cedb00172b19a694eaf93e7f6b": "nmh 1.7.1",
+    "68a715413e7aa55712bdcc1e1c8b2c8a2edf5f7e": "nmh: update 1.7 bottle.",
+    "80c179ae2970e4cf0089ba714e74bef5d42ae25e": "nmh: secure url(s)",
+    "ccca6bbc8435e376282e9da54c29f8240ae96215": "nmh: update 1.7 bottle.",
+    "d22f419d128d29b432137c9b8298d9dcb7cfd4b5": "nmh 1.7",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0818b623c7320aa90b4395154c50657b0f10d51d": "nmh: update 1.6 bottle.",
+    "48002a7d3f66dcd9ca2fdbf008761f744836b6a1": "nmh: add 1.6 bottle.",
+    "06354d368d5cd18f2064e35dc7a0c0bd002caaae": "nmh 1.6 (new formula)"
+}

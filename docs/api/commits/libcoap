@@ -1,0 +1,16 @@
+{
+    "6d063de95e019de7724b5209c9e52f355a143f7d": "libcoap: update 4.1.2 bottle.",
+    "975fd980f218a5e83b434c5a4a72814399b8b9d6": "libcoap: update 4.1.2 bottle.",
+    "a2e9e40bad2c76c4d7e28f61befec7d98dcd3c8a": "libcoap: update 4.1.2 bottle.",
+    "11a507070c3651de1686eaca2e1a9f65e03ba1fc": "libcoap 4.1.2",
+    "39cf921f1819d6609af220798de699f8c3f90a17": "libcoap: fix audit about sourceforge link",
+    "a5b8b672167d97c8d16c85e0e0bb49ef008d4fc0": "libcoap: update 4.1.1 bottle.",
+    "bb651b73ddf233121d7c72e05ef0c9ecb661c4de": "libcoap: update 4.1.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a27f5a00ed4a974c183eb3f569ebe71823ed5e30": "libcoap: update 4.1.1 bottle.",
+    "53227ba51cdec0b186972c39cc997246d2a4bb34": "libcoap: add 4.1.1 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "1bd967b3ab384cd53e47275da71fc6445b15f561": "libcoap: C implementation of CoAP (new formula)"
+}

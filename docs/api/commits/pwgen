@@ -1,0 +1,21 @@
+{
+    "c4a014dec86e81d323f8342f245ff268d702a4d0": "pwgen: update 2.08 bottle.",
+    "6fbe540a9bbaa01fdb0d9ad6cd5b4c7e136be724": "pwgen: update 2.08 bottle.",
+    "7fe6702add39a5c0629ff3ddb764db50fd31bfdd": "pwgen: update 2.08 bottle.",
+    "e07879a8759bda8af7fff8b78332bdb5722ae774": "pwgen 2.08",
+    "b1beaa9e386a606dc2f7a3329ae43847d081dddd": "pwgen: fix audit --warning",
+    "4a1c1c7537aed2af3359e3d3f985a539ef442067": "pwgen: update 2.07 bottle.",
+    "6b796521339467cf30c886440e9f4ed2830b8472": "pwgen: add 2.07 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ed66585c21e6156accedd522b29ed1d552e8b389": "pwgen 2.07",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f78753da2b5d564a770f303ae6ac8aa427fa4fdc": "pwgen: a test",
+    "8e560896025ba31417895760ab9c7e6aba49adcf": "pwgen: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "a7a79c706992ebcf82e621771e7ca0c0982e9bdc": "Fix mandir for pwgen",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "efae2ae56b065aa70edf3326d6f97fd1d6b022b9": "pwgen formula"
+}

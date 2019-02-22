@@ -1,0 +1,11 @@
+{
+    "8990a003a3672a902498210875c11a8ff7f98a07": "diffutils: update 3.7 bottle.",
+    "bd413e6ab1151f39b9674edd8e081e2084e2e914": "diffutils 3.7",
+    "6a3faccccc9332f9a032e9617ef9a85219a2ac29": "diffutils: update 3.6 bottle.",
+    "27592d15ab967549f96f355cf5fc1c1092747e08": "diffutils: update 3.6 bottle.",
+    "ce910123bfd40294eb505d7d8d83b0abced1b778": "diffutils: update 3.6 bottle.",
+    "d33f533041ad86a4c97afd787265de8a8f557dfa": "diffutils 3.6",
+    "689f701a353ccb4e23d2d9337253e21c87d0060c": "diffutils: swap GNU url and mirror.",
+    "7160938a490f3a647c56dae27c245265e22129cd": "diffutils: update 3.5_1 bottle.",
+    "d97b4b7fba08fa300e71327d6954a055cb5c4cab": "diffutils: import homebrew/dupes into core."
+}

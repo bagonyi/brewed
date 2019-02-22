@@ -1,0 +1,12 @@
+{
+    "bf91e6b18c92bfe5685c4dc68bd002ca2c0018b7": "frag_find: remove references to pre-Mavericks.",
+    "ca1b10a38aee31a63a105ebdd990c93f40507ace": "frag_find: update 1.0.0_1 bottle.",
+    "9f30945b9b5703a33f2c6c62250f60766c317361": "frag_find: update 1.0.0_1 bottle.",
+    "4fb78606ff8405b2f9e10c949780932e5610166c": "frag_find: secure url(s)",
+    "121c7f14cf174d07783b200583f1a4edfdc66ac9": "frag_find: update 1.0.0_1 bottle.",
+    "d02349b37093ebff4fab70cfd0d664f9a660ca55": "frag_find: update 1.0.0_1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f484d07386963d4584ccfb51afda045a3621eb00": "frag_find: add 1.0.0_1 bottle.",
+    "9cbaab7b69bd7681f4fbc6c26c0e026a007ae496": "frag_find: head added",
+    "00d79ce3cbcf3dee8ee916d870aca4434d5b8c08": "frag_find 1.0.0"
+}

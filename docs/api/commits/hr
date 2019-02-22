@@ -1,0 +1,10 @@
+{
+    "08e58e9816bea4df8aa97ea55128380d99c082b4": "hr: fix head url (#13077)",
+    "8c6f42caef4a86a5382564e02f47302b0d259b9e": "hr 1.2",
+    "0eebc78556acccee854f6342bfc1b605fb5a3f4b": "hr: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "928e47e2fc2eba6c371c72b6c46168fe77ce33ea": "hr formula update to 1.1",
+    "acb1622413d8222f94dc4734c846ee5e1b564c4f": "ht 1.0 (new formula)"
+}

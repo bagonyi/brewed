@@ -1,0 +1,18 @@
+{
+    "b661b1597654d000ace84aaec78e59129f865a3f": "calicoctl: fix RuboCop Layout/AlignHash.",
+    "6ac0cbca9dda619f061b28f6801d2100c5cad026": "calicoctl: update 3.1.3 bottle.",
+    "b16e7dacf4f310bac9d661568694d75c7ff925f2": "calicoctl: update 3.1.3 bottle.",
+    "624adc3897cc7d4cf397681c428bea8ee55bab58": "calicoctl 3.1.3",
+    "efbfc933435a25f8bc6bc4cd4b21f089978b1dcd": "calicoctl: update 3.1.2 bottle.",
+    "2d72297771d6abf385cbff531e778f66632ff3df": "calicoctl 3.1.2",
+    "c90f56f9148d2cb979351468fdfe8d5843535c41": "calicoctl: update 3.1.1 bottle.",
+    "6d29bc9954ebf5efeee9a1b19018d8969d2c455a": "calicoctl 3.1.1",
+    "0f8971b3c37c8cb9c1881f953f23212da1127f3a": "calicoctl: update 3.1.0 bottle.",
+    "816d83a93eac6148d1daad1fbb45e27f1ec83fd7": "calicoctl 3.1.0",
+    "587829b1941ba26d714d78d8e9c897f0f10e180d": "calicoctl: update 2.0.1 bottle.",
+    "c8a66ca3a53876d8ac8b55648d4b8811a87b99ef": "calicoctl 2.0.1",
+    "b62c2c4365bfd0e949364170d10271c67a6d3dff": "calicoctl: update 2.0.0 bottle.",
+    "58d5d2ce7818848410e25ba243c523755fa5d92d": "calicoctl 2.0.0",
+    "66e88dd7d13d501d2de860ca43577a5bc045d2d1": "calicoctl: add 1.6.1 bottle.",
+    "07950075f3d903046e6c8c8ec2fafeb377373146": "calicoctl 1.6.1 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "744751bf3e41c3b0a9aab133c54ac91cb91fe6d5": "go-bindata: update 3.13.0 bottle.",
+    "90d821b71c5b7eb5f76b3303a1607e4f086b5277": "go-bindata 3.13.0",
+    "910320855ea5b2b6b1490fa515fa65a5bf942c8f": "go-bindata: update 3.12.0 bottle.",
+    "d38e0dfff5faf3048edda8f3e5f11b82c2b1e963": "go-bindata 3.12.0",
+    "6a87b7ce6ac0651b0b6aecba0888f71a5fa19a3b": "go-bindata: update 3.11.0 bottle.",
+    "ef67198caefc4b36b9dd19381f641585c1cbdee6": "go-bindata: update 3.11.0 bottle.",
+    "4d53125e24a1092739c39184ca74b3c3563b33e4": "go-bindata 3.11.0",
+    "1279bab488f5bb7e1d8859970985e49e6866c35c": "go-bindata: update 3.9.0 bottle.",
+    "2162c819d2d4fe163ecf47053921c415c013d6d3": "go-bindata 3.9.0",
+    "af5c672350e50be5225d38d7aea7fc7e3aad8157": "go-bindata: update 3.8.0 bottle.",
+    "313c6d452b7b1b795ed63ff246693713f7869c62": "go-bindata 3.8.0",
+    "2d0aaa0caf40d5f67a80d80214fa02735481d909": "go-bindata: add 3.7.0 bottle.",
+    "4aa3404cba34fa94c42206e18738f49138704392": "go-bindata 3.7.0 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "f55a0ebd05fef00891058bea07389dab9e797023": "hubflow: fix RuboCop Layout/AlignHash.",
+    "661112453ce464b61faf9d25cf1278f9bb514277": "hubflow: fix tag/revision indentation",
+    "7f9e58b1b9c5004cdd58e83dffe58ffdef34a418": "hubflow 1.5.3 (#23574)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "01460cb020f17427bede7a599a15814e802fa057": "hubflow: specify revision in addition to tag (#4495)",
+    "e1167499e4498651b0428ed7ec65e433a59567ef": "hubflow: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "51fcdf7709069f1e2e671b58d19bb8ef24f4a242": "hubflow: add HEAD",
+    "25da6007b9c8a858a67957a8227786a30152b80e": "hubflow: use full path of executable",
+    "8c8e187daaf0aa7fc7964dfe237ef791113056d0": "hubflow 1.5.2",
+    "102cea225c84352944fc03a20f1caa6d50841895": "Hubflow 1.5.1 - The GitFlow Tools Adapted For GitHub"
+}

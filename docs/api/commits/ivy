@@ -1,0 +1,15 @@
+{
+    "e39fcdd9a5d379e50069381e402b8a14da64f281": "ivy: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f39802034880d228fa95ff231a0fb3301f878ace": "ivy 2.4.0",
+    "909f67ca070f2714f7c67975613fc8d5c74529db": "ivy --devel 2.4.0-rc1",
+    "ba7c149a36b368f5e966695522052628f3f18798": "ivy: interpolate version",
+    "d3e02518b45640d9c94f71a091ca470389c36868": "ivy 2.3.0",
+    "37d536d0ca2facdaab5799c84d2bdad78842ef3f": "ivy 2.3.0-rc2",
+    "f50d20ec154ff7b5e55f64fccbb926776b37ae16": "fix version audits",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "a9ac9af3f94f7e6971b39b599c649b173a6e434f": "ivy 2.3.0-rc1",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "7a44e13e9bc6cb0aa4dc618bed5f255dba1cba72": "ivy 2.2.0"
+}

@@ -1,0 +1,20 @@
+{
+    "22c710892dfe83a80b84a9eae2e0405b6bbc844a": "analog: use canonical debian url",
+    "43dea2bf52fb93358c4f531cebb3956a5ea1ca33": "analog: fix audit errors",
+    "b0db574d0bd562dd83419fdcced2ee6f0f65f4bd": "analog: secure url(s)",
+    "1d802d7070840a7849f769c1f15b915820bb3eb6": "analog: update 6.0_1 bottle.",
+    "cc1ea247cd6f15de2d6a6cb90c29dd9fdeccd3d1": "analog: update 6.0_1 bottle.",
+    "1ba73b5dbf873fb7fc4eb93d05bbec15135774c0": "analog: update 6.0_1 bottle.",
+    "346c3fdeafe6a1108fa67e0f76164e078a9bc523": "analog: audit fixes",
+    "4887e201b69fe37a97e47018418c970568e053f8": "analog: update 6.0_1 bottle.",
+    "a998110b4de8883a866097edda68bafb7657972f": "analog: improve test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "888767065aa770a121e9c7c7f5b63fc3566d18fa": "analog: update 6.0_1 bottle.",
+    "f00726825ecbe95a70a0249a4262354298285941": "analog: homepage/url move",
+    "71d550722b362d2597810506a117a1b3dc9db529": "analog: add 6.0_1 bottle.",
+    "b16a0778b2ab6eb91f021de1430ae564f5a8baea": "analog: fix build DLANGDIR path",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "cf21bb3cae3aedfcad31d371b9be99169c0527c3": "Analog 6.0"
+}

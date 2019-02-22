@@ -1,0 +1,17 @@
+{
+    "41b6c37ba4c20f1c1eb47c9afa72e47e8d5f5126": "ironcli: update 0.1.6 bottle.",
+    "989474405e96f301363616837afe9c25d1ca0a0b": "ironcli: pass -vendor-only to `dep ensure`",
+    "42ee0a6f3e5e19f4d36b4650d0fda899cd26ba68": "ironcli: update 0.1.6 bottle.",
+    "86177522f5cca09975dec994fbf536f2401d9a1f": "ironcli 0.1.6",
+    "ffe8bd71d4e52dd87e2a940aa7dcecb5990091fe": "ironcli: update 0.1.4 bottle.",
+    "07fea1ba7d5e05db10322e01ea34bc7cdea24573": "ironcli: update 0.1.4 bottle.",
+    "2419272c9f33d28c17c80108749674f26b3c5c0b": "ironcli 0.1.4",
+    "8a72ecf87816a0974be2623e2bc86c877d46da8b": "ironcli: update 0.1.3 bottle.",
+    "646aa534a0874a1f0d31fedee801e0cbef54e10e": "ironcli 0.1.3",
+    "281fbb9a78a45597398352155fbc005f1ece90c1": "ironcli: update 0.1.2 bottle.",
+    "394144023af9f48e55e601ca0a1b42dee5e473ca": "ironcli: fix build with sandbox.",
+    "c047730310d22461ab28a9e2f647d079f50a3c1e": "ironcli: update 0.1.2 bottle.",
+    "354bef44a5a353ab3897d26bab438779edff3a3f": "ironcli 0.1.2",
+    "c8c7da0b4934bfdde38b3fec73d2e338ef35113f": "ironcli: add 0.0.22 bottle.",
+    "e91c7b036f5ffe1afc653dbdbf2cd2904e1e73de": "ironcli 0.0.22 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "db52a0cf6ec35a8038aa5487a44262e3cdab971c": "libreplaygain: remove references to pre-Mavericks.",
+    "d82ff499f0611be57f2875cd55ddf01130cf595d": "libreplaygain: update r475 bottle.",
+    "6ac0cce5b6ba102d509593a5ed967832918b4cf2": "libreplaygain: update r475 bottle.",
+    "f60b73754ba8d435f72b0e582605e49170089b52": "libreplaygain: update r475 bottle.",
+    "45d46b5bb9f1015af98cfab9d1411718b0608b94": "libreplaygain: use secure url",
+    "56543f89640c9fbd89290265e939f00c43e043b3": "libreplaygain: update r475 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "8266dcaa70e8d53179302efe32f727ed163dc3b2": "libreplaygain: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "398386069ba42998c0ab282ee767499045569480": "libreplaygain: update r475 bottle.",
+    "84e0fda9fb45174e290b1f1ca7272f6431dae7d8": "libreplaygain: add r475 bottle.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "d6ffb3f113c166a64bd3d321c36d08f4b656e744": "libreplaygain r475",
+    "a5a8346e75988612e016cdada0ab6339a4734482": "libcuefile r475"
+}

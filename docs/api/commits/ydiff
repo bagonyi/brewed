@@ -1,0 +1,15 @@
+{
+    "7284dd0052e8e943dcf244c8f4c5ca4805859603": "Rename cdiff to ydiff (#28674)",
+    "376a2a2b8b1feeb01f80f01db845bfd539371a2e": "cdiff: depend on python@2",
+    "47a6fbd3b5932330b042d9560c2d7616f28b22f0": "cdiff: rename python@2 dependency",
+    "858939f492eec0e5d8eb3ffd945cbff0851624d4": "cdiff: depend on python instead of :python",
+    "ce9507a78dc109266f632d71ea258852e683af7c": "cdiff 1.0",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7e21da8902706935910e9e50d04b32476df706d4": "cdiff: fix audit warning",
+    "100af0356e2779edff099b87fa0c601d486fd2c8": "cdiff 0.9.8",
+    "fd70de4bb36f97437dac67d3cc3d368d97e61339": "cdiff: fix missing `conflict` with `colordiff`",
+    "370af6ff0e63df0e0e61761257a75cc410ac9dc6": "cdiff: bump the revision as well",
+    "ba6b9082e9674e3e2167b3d50481fa9f97795abe": "cdiff: fix the build",
+    "e442ad3eb409713eefa7e69338149183fe56fcf1": "cdiff 0.9.7 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "1a3a9edae9ad250683c67d92536472b0804faa28": "ansiweather 1.13.0 (#30130)",
+    "beb202c2860b9ce4c29eed62155a30a3033712c6": "ansiweather 1.12.0 (#29583)",
+    "b6491ed7ddc45462f8bf06113372d5ce5ef5d545": "ansiweather 1.11 (#14829)",
+    "265fcdf96a71defc3ebacbb73eaedf930912aa06": "ansiweather 1.10 (#10055)",
+    "e6983fd7e1ab0a3e65e4d0c6a331d9867062a07f": "ansiweather 1.09",
+    "a52548b14371d857c01b97033903aab8d874f01b": "ansiweather 1.08",
+    "0fe1e827b721a56c87bd04086dbc03f43e0bf25f": "ansiweather 1.07",
+    "a81b203611f327523cf9c7d22fba68b69384375c": "ansiweather 1.06",
+    "aa4ac7859422fe9f428c450c613af34d5835154e": "ansiweather: fix test",
+    "12a15576bd04d5b6108d4179669b07caa1c9fc40": "ansiweather: bottle unneeded",
+    "832be821c1abcfe719721ad4958243b1c7f50d97": "ansiweather 1.04 (move from head-only)"
+}

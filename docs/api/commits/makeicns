@@ -1,0 +1,21 @@
+{
+    "6c0228197273dbe28474e4069dc41f0f77bc95dc": "makeicns: remove references to pre-Mavericks.",
+    "e3c944606278014a50d67976045589626fdb2d75": "makeicns: update 1.4.10a bottle.",
+    "a641fe99409414934c8262017f02f5604f5698d9": "makeicns: update 1.4.10a bottle.",
+    "a79b8968a759ad400f1c93a5b9f0960d17d5880b": "makeicns: add test",
+    "919ff63e7f0a92cf0bfba66601a315924ac2f628": "makeicns: update 1.4.10a bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "23a19c2c3a394b0d7d17e0300916eb65f6e2117a": "makeicns: update 1.4.10a bottle.",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "58561134ae626452ad9598b51665b1ce52ee3fef": "makeicns: add 1.4.10a bottle.",
+    "6f806c9662fd547873e69da3d034af94ff72e2b1": "makeicns: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "327bdea5d676515cb3303431f1cc6f7440dd50be": "makeicns: use checksummed patches",
+    "cc7fbdefa47e1a5d36387b6f03fb6923c55daee6": "makeicns: patch for 10.9",
+    "deba95a866fb2a84bf80f4fb0ddf311c17a3ee32": "makeicns 1.4.10a",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "79699409fef61be57fa15cbfc6a905ffacc35444": "makeicns 1.4.9"
+}

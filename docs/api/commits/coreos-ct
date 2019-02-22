@@ -1,0 +1,13 @@
+{
+    "6fc1825a863d22e265723c5f6b16932546985cec": "coreos-ct: update 0.9.0 bottle.",
+    "e701c89c926617d6d5881ad0bb3f0c56ea6cc943": "coreos-ct: update 0.9.0 bottle.",
+    "94980cdc15c1164e8b6760f81231af850b3e2b18": "coreos-ct 0.9.0",
+    "5105485adddc1cc2b2bbea2d8a1715ca3a15d897": "coreos-ct: update 0.8.0 bottle.",
+    "196ed9d75a5eae9f5a86d89d2b7834f8980d1de9": "coreos-ct 0.8.0",
+    "cd70913f6e9405292fb5fdf76a18f16c848e0826": "coreos-ct: update 0.7.0 bottle.",
+    "ee35fc486bbc9cc8f1b90444e2202f00641448df": "coreos-ct: fix incorrect version output",
+    "8d4030483a0f8e3dade13eb8d61fb1b8eba3d649": "coreos-ct: update 0.7.0 bottle.",
+    "38be2f42b4fd4b89d8fe1db443643b19180b3cdb": "coreos-ct 0.7.0",
+    "21828b1eded164895eac91d296483477b0bea652": "coreos-ct: add 0.6.1 bottle.",
+    "9b54dffdc471f07dedba32155a88c876b55b7fc4": "coreos-ct 0.6.1"
+}

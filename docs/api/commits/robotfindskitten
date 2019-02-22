@@ -1,0 +1,9 @@
+{
+    "f88f22bebb0d748efc0530b56c213e826bf8444d": "robotfindskitten: update 2.7182818.701 bottle.",
+    "94726d7e0519b8b2f6ac1551a907e3b1095dc375": "robotfindskitten: update 2.7182818.701 bottle.",
+    "3749e206d10925a6296fdc9ff1facf148b98f550": "robotfindskitten: update 2.7182818.701 bottle.",
+    "6ef9cb816dd845bf351610369062127755f4e274": "robotfindskitten: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "195646844bb51747c2d23244da16e98c04d95b70": "Adds new Formula: robotfindskitten"
+}

@@ -1,0 +1,13 @@
+{
+    "beedb24894f058bd4da9fd1cbfa1423aff42c806": "style-check: update 0.14 bottle.",
+    "40fb680c66cd493651425d40ec33049da0016d47": "style-check: update 0.14 bottle.",
+    "f0b96b04ce852f1f6868898f33af633cbeceda93": "style-check: update 0.14 bottle.",
+    "dadb0ca2325e987bba68ff394f1c31785bc86d21": "style-check: add 0.14 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "69dfad5e64cdad2b02b5ca6065dd4ec921b4ea88": "style-check: add test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6b080791d4e9b753e710c340bd5518b527d43eef": "style-check: avoid inreplace",
+    "23a15fd096f3f9628c6bb88210800bfd399b1f9c": "style-check 0.14",
+    "72e19eb5421201a2be3dce1e298861cf6aa4a132": "Don't need +x on these",
+    "736092a602b21d68e398a56d5a40366abd5658ab": "style-check.rb for TeX"
+}

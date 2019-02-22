@@ -1,0 +1,13 @@
+{
+    "d90460c9f9bf98a6b802c9293fcdc1148a1ef10f": "ccal: update 2.5.3 bottle.",
+    "3c476a3344d37edc24c463f432df5175f439cc1d": "ccal: secure url(s)",
+    "7ecd802447840ddb49a68e3759fd5bffe48dcabe": "ccal: update 2.5.3 bottle.",
+    "f7637b6dc9121d3c164d91df791274658187785c": "ccal: update 2.5.3 bottle.",
+    "18f7d898ded11896fa04481aa2d8231ffb0d05af": "ccal: add 2.5.3 bottle.",
+    "8ba699cb50eafafe98d0a69643657f1f7c6de144": "audit fixes: C 01: camlp4 - cdargs",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "488a96e240ab85a357c5d3e29cb0d8914c8d901c": "ccal: add test",
+    "174c888bd9b53d0b3cd09a9c0cb1bb1528ec1175": "ccal 2.5.3"
+}

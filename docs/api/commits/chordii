@@ -1,0 +1,17 @@
+{
+    "0d208f8d3fc6956de05bd397c6b81c47c6418ae4": "chordii: update 4.5.3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f4e603797d8d2d7e57becb8e8a853f54230aeff8": "chordii: use assert_predicate instead of File.exist?",
+    "fbffaa0b028377a11b8828287ecab13c50fe76c1": "chordii: update 4.5.3 bottle.",
+    "6fc2b6ababdf08a6cb4bcafe34114fd56f1bc781": "chordii: update 4.5.3 bottle.",
+    "133eb5cd446fc95eef4e4bf84322e1253e995610": "chordii 4.5.3",
+    "2274935d22508584842a2bd2299d1f397f325485": "chordii: use https for homepage (#10944)",
+    "aa7e6d53595e3058f47e90dbcaca1e4139978bdf": "chordii: update 4.5.1 bottle.",
+    "4078e0c4591b0d278d4809b1a88db67b3420d20a": "chordii: update 4.5.1 bottle.",
+    "16a9129d5a4045c6c4480242d56529dda3f4e76d": "chordii: add 4.5.1 bottle.",
+    "6c9cde39ebbb14e1790d8a9a6dd009cbcad64877": "chordii: add test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4baa4d95cd59128c2c80f7f2465ff71f215a291f": "chordii 4.5.1",
+    "0adb733d7355571b910563b9bc1f2af62386ed0b": "New formula: chordii"
+}

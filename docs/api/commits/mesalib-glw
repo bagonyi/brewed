@@ -1,0 +1,23 @@
+{
+    "3b835a99cd7d30919ed6bfebde1c12f154fad500": "mesalib-glw: update 8.0.0 bottle.",
+    "2486a65af133d65b6b1e418135e7ea309c317d52": "mesalib-glw: update 8.0.0 bottle.",
+    "214277c87e21041acf0eedfe2957db05ddd13c12": "mesalib-glw 8.0.0",
+    "4041f0c9f66c935148dfffaa42499caece3d68ea": "mesalib-glw: update 7.2 bottle.",
+    "5321fa6937e0d5ff1fcd8cf6a8e980a465e4269f": "mesalib-glw: update link to HTTPS",
+    "7f4699219264398e66283d45a7a14fce665ff73d": "mesalib-glw: fix some audits.",
+    "1434f6dea0d770d61d314f71f45f8b6b87582382": "mesalib-glw: add 7.2 bottle.",
+    "71d7118d5c5dbc5569c8f4950d67ddaa352ee51f": "mesalib-glw: import from homebrew/x11.",
+    "e778a92a5da236766fc52a7bc31546043e96f128": "Revert \"mesalib-glw: remove accidentally added bad test.\"",
+    "9e0d745c9e92c83253670d2cd97af9b34510b714": "mesalib-glw: remove accidentally added bad test.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "51e8b3adaa9ed4317a12aac6801c181ab26a3aab": "mesalib-glw: update 7.2 bottle.",
+    "035356cc9c1615a0d32a388df7e963e1250e5e03": "mesalib-glw: add 7.2 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "d87b027899d1ec119e1ffd964eaccdfa668049be": "fix syntax error",
+    "8927e53234e0c5b0c57c4802e0ec058803d75060": "mesalib-glw: use new dsl",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "01e9fad4a1546d7fc827a8b71c7e80d8068433c5": "Adjust XQuartz/X11 module naming scheme",
+    "b81d01e23d9bca87d66aeae865a2aa39f3213b0e": "Update formulae for new XQuartz module",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "d692c108484bc63abf454925cf49abb7942b6d54": "New Formula: MesaLib-GLw"
+}

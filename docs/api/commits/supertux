@@ -1,0 +1,17 @@
+{
+    "155fad3b6cb0062cb7d485f60ed02865b6f47ffd": "supertux: remove checks for old compilers.",
+    "93f9707483001363e4c29fa821dd1fa209e361d8": "supertux: fix dependency order",
+    "0127a92a2d2c34a20f842542d3c2947d94edb5e4": "supertux: update 0.5.1_3 bottle.",
+    "4c1cb4b182f0439262100628ca0f268b7b8d16e0": "supertux: update homepage (#30507)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "3438107f35325112af3e88508c1c5a16f38c1033": "supertux: update 0.5.1_3 bottle.",
+    "cace612d05924de5dcc2d4ca0b9382a874e9be85": "supertux: patch for Xcode 9",
+    "1c71d263d291c547aaf624d85d9748cd9566ec59": "supertux: update 0.5.1_3 bottle.",
+    "5c2d6bdaf3c755693c34f9b81c283da5c4711b74": "supertux: revision for glew",
+    "0cb38acd6692d52723c8272caf4e9cd9db82a92e": "supertux: use full_index patch",
+    "d0d9abed6a54f1a02c8d3adf055665bd90cd6ec2": "supertux: update 0.5.1_2 bottle.",
+    "b3fe26b1586ea443117fdf698b33b4136f0a8ff3": "supertux: update sdl2_mixer dependency",
+    "9e66582124e299c51e980a81795d3082eea1b3a4": "supertux: fix patch checksum(s)",
+    "dfb7162c8089e9080cbc7c4a322cae90e7765586": "supertux: update 0.5.1_1 bottle.",
+    "e57c4f5f2257a3573434090114821cfa87d447f1": "supertux: import from homebrew/games."
+}

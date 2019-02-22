@@ -1,0 +1,15 @@
+{
+    "3c03af6a71a408b0e4c90bd33c82c484beac6a87": "vde: update 2.3.2 bottle.",
+    "4906ed046d597fa5341960bc0d5ebae11dbd2d8b": "vde: update 2.3.2 bottle.",
+    "bb825e2c32b7554cc9b59665a73490ba5eb409de": "vde: follow redirect in comment",
+    "70d7b5765611e7d1cee8591cd7ba01e5bc66b76f": "vde: fix audit --warning",
+    "f760b57da6f8c27a08dca95fe637bea848c71e5a": "vde: use ENV.deparallelize.",
+    "0b70368c8ba9becb267076550e3ff512235decfb": "vde: update 2.3.2 bottle.",
+    "c0fce4da62913b8f5c43731d8d9d0ef2e4350631": "vde: add 2.3.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "a8bf1817b99422d7446ab275f0cf1656efc4d861": "vde 2.3.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ea6f1264d0aa0f35ae04c853a0f33fffa3d6c468": "New formula: vde"
+}

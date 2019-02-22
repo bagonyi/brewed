@@ -1,0 +1,13 @@
+{
+    "5122fe22599b12ffffbf6b2ebea8cd0f45df610a": "mesa: update 18.3.3 bottle.",
+    "57d0f7784c814a59d11c9e01b201908984097b29": "mesa 18.3.3",
+    "6a7bdd05fbcd598063916a7e0419e69c0409a0ac": "mesa: update 18.3.2 bottle.",
+    "b792bfb6bce61d286c4bf978cfb9607d396772c4": "update mesa to 18.3.2",
+    "4b3aa57c0fe266df7b11f6c7991dbc75c73d1eca": "mesa: update 18.3.1 bottle.",
+    "c0884947316c67886acf443f0e4dc9e75b03ea9b": "mesa 18.3.1",
+    "ab849ef8d2617d3a0656457856c1b4dec8539a69": "mesa: update 18.2.6 bottle.",
+    "04b6f09489fc43c4daf3d7f4cc3fdbe33dd86c64": "mesa 18.2.6",
+    "003fc08f9029d41ffbb87ac5f8daed7a694d5b3a": "mesa: add head (#34251)",
+    "019c73451c7e166e0adb93d2312b39b8e996574d": "mesa: add 18.2.3 bottle.",
+    "7d7f16cc3bfc7760c6d981d67567c0b0c94e9b77": "mesa 18.2.3 (new formula)"
+}

@@ -1,0 +1,19 @@
+{
+    "a87e546e54448642025fe339fb0304ea5f20d923": "st: update 1.1.4 bottle.",
+    "6f04ede70bc27f42cc3c3355e6084c8c791e0ef1": "st: symlink man pages",
+    "7dc84ec703e5dc7f803d3a6fac8a82e0a8b898f6": "st: update 1.1.4 bottle.",
+    "b3ad2c138f34b575d66ed7f03d231f7a141b8176": "st: update 1.1.4 bottle.",
+    "f8593a3a82aa5815cfa052817db8a65d73392963": "st: update 1.1.4 bottle.",
+    "48cc1aeca9482470cea42fd3711e3d2f7466c573": "st 1.1.4",
+    "e49865bf50e87669ba8e3a23516980ccf0d6e4b4": "st: update 1.1.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0ea89f692af8fd93f91a0af6296557b14b61a838": "st: update 1.1.2 bottle.",
+    "8ee07b386d4aa48ad564b47d8c9b64e4e764d14c": "st: update 1.1.2 bottle.",
+    "9e62087e5c6d2508448de6956fef3cffc7d818eb": "st 1.1.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "de5490cf57cc965168c32552093d895b28cb26d3": "st: add 1.1.1 bottle.",
+    "0bae84c3bfe933e2c98ee56c378bf411696ef6e6": "st: fix install and add test",
+    "9c6dd29a4ca1d92d36ae0ec7a7707f2e97058d5d": "st 1.1.1",
+    "f5907994cae4824070a9ba6de40cff73773896e0": "st 1.0.8"
+}

@@ -1,0 +1,17 @@
+{
+    "2a8ecbf1e361dea1b9fbbdb9301baa2b262eb8d1": "dehydrated: update 0.6.2 bottle.",
+    "ef85e8c8f8527b1183f6267deb28b31b3b24412e": "dehydrated: update 0.6.2 bottle.",
+    "87d05e641be120a154e4cd3d5a84d5479705f39a": "dehydrated 0.6.2",
+    "b47b2645c7b7f39e4ff749a5b5e2fbfa32dae7c9": "dehydrated: update 0.6.1 bottle.",
+    "979caf0b2c0b7bcdbf9d45542247e07c2fa2eb2c": "dehydrated 0.6.1",
+    "4163a6e65e0dfda8aad9f99741d1cdd2be49bb61": "dehydrated: update 0.6.0 bottle.",
+    "2e3166f7a31ae5988accef1be0b30ac31fa7f5b0": "dehydrated 0.6.0",
+    "68f5ba23cf1d82a417f2bd9c3c31f3f7f6d78046": "dehydrated: update 0.5.0 bottle.",
+    "98552b8108167e36c6f772c7a17ef667115723df": "dehydrated 0.5.0",
+    "918afd9a44c73403585c95e40819f127a542634c": "dehydrated: update 0.4.0 bottle.",
+    "2d02d666b69d16fbe1e9d3624da12b0f96acb150": "dehydrated: install metafiles",
+    "dd32dec0f42b11b15082d3c675324222ca385ca4": "dehydrated: update 0.4.0 bottle.",
+    "07e850a13f4c5022e8560465d3abdd76d3f07710": "dehydrated: fix audit 'description must start with capital letter'",
+    "0cfc37f66904a6731eb537c6145f53ecd4043960": "dehydrated: add 0.4.0 bottle.",
+    "7c961937915942a67440c13e5b4f70d138662d3a": "dehydrated 0.4.0 (new formula)"
+}

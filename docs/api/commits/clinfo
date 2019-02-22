@@ -1,0 +1,18 @@
+{
+    "e2ca31720607d026720dde3f09821146cf8570c0": "clinfo: update 2.2.18.04.06 bottle.",
+    "066ce403e0e5a67ad55aeff5058ad46f61245796": "clinfo: update 2.2.18.04.06 bottle.",
+    "e2b0368fcc300c9c92384e8291a67fbbf7c14ddb": "clinfo 2.2.18.04.06",
+    "df7d2e29c1b8a4e5ee098b7e5ba87f045b70c480": "clinfo: update 2.2.18.03.26 bottle.",
+    "ca9474ed2c1a9f15c0e702b84c9f5a1fce8a7ee8": "clinfo 2.2.18.03.26",
+    "180020c0bbcc108cc64a63548d9e2e061ec70295": "clinfo: update 2.2.18.03.22 bottle.",
+    "43c83628b6c1769e35d1ed8cc90b0bda2ae42c5b": "clinfo 2.2.18.03.22",
+    "6c5a51c9fb7a61b993d3bea32efb180259cd2e93": "clinfo: update 2.2.18.03.15 bottle.",
+    "e2c24fdde07da210b26df69c404bc12d5334c474": "clinfo 2.2.18.03.15",
+    "0b883e337f437ba21a81f72b5d858ae579ca5892": "clinfo: update 2.2.17.10.25 bottle.",
+    "ffe12c07631e14a137a578b4a307ed12874dd9f8": "clinfo 2.2.17.10.25",
+    "c0a5517f9f2319c41c83a884c140c9e3c73a1c5e": "clinfo: update 2.2.17.08.25 bottle.",
+    "63ccac3c5b5ab9af6ee974e12e3c65689215d06b": "clinfo: update 2.2.17.08.25 bottle.",
+    "1b573381fc98631e33788d611f50428abe708b33": "clinfo 2.2.17.08.25",
+    "457501ebd281bf78b133838a0dcb58c552719f0c": "clinfo: add 2.2.17.06.14 bottle.",
+    "6865e8c90ab8c02546758b017d1387d4b29fae7b": "clinfo: import from homebrew/science"
+}

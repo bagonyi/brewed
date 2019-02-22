@@ -1,0 +1,16 @@
+{
+    "69e3e015d4d1455a4f1d671c48aaef1dea5911a5": "mmix: update 20160804 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "df17697d98f106fff5fe85cda9749bd891af69ea": "mmix: update 20160804 bottle.",
+    "8202279c3efa82300faa8655ffda8154f8910b03": "mmix: fix rubocop warnings.",
+    "5abf5317d923cdababf76a82775dea0f09e3af9a": "mmix: update 20160804 bottle.",
+    "310e939ca3c6b93149281e0120e86b2766419c9d": "mmix 20160804",
+    "965c7ad780fb4d831d3f4cbd625f3fa775131cc1": "mmix: update 20131017 bottle.",
+    "1187eaed95ca50a05e4929ee4d9dc73d7fa5011a": "mmix: trigger ci",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a2b3627ef74c609cf81a54bdfd014ba0630bca98": "mmix: use full path of executable",
+    "0269cd68bc8ac1849c3b91d73ad16ea34a1e49f7": "mmix: add 20131017 bottle.",
+    "95f1530da99defc13860a41758ea14b1759ea1e5": "mmix 20131017 (new formula)"
+}

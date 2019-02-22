@@ -1,0 +1,8 @@
+{
+    "677a54fd7df01e76d172f92d9e7f6b38f05a9f96": "azure-storage-cpp: update 5.2.0 bottle.",
+    "27b27dbecc94b7c7eef5e506ce5956259c09469d": "azure-storage-cpp 5.2.0",
+    "1c96dcfb03889bc80f777c9458781ee57e9821d1": "azure-storage-cpp: update 5.1.1_1 bottle.",
+    "dab2666401177dfd642b04e648952f2119a04910": "azure-storage-cpp: revision for boost",
+    "8e30a5b515abf421f8f8eeef5f3b7794c44f7daf": "azure-storage-cpp: add 5.1.1 bottle.",
+    "460daa708e5c30c699c5547bc418fb85747d1be5": "azure-storage-cpp 5.1.1 (new formula)"
+}

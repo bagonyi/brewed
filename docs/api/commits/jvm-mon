@@ -1,0 +1,4 @@
+{
+    "03ea57325c348f6dcc4201fbc019545d3539093a": "jvm-mon: require Java 8 specifically (#24035)",
+    "8e5250d3d0b21c4dcb3823ea0bd27199a49a8ed4": "jvm-mon 0.3 (new formula) (#11661)"
+}

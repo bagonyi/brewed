@@ -1,0 +1,9 @@
+{
+    "3b8ad7f523926abc4c929ed114be6d7c8fc2a0e0": "gifify 4.0",
+    "84eb43dd97b004126b0795145b8d36734ce44205": "gifify: revision for ffmpeg update",
+    "4fb9e47abe9622b7d36a2e38321a91a580fcd816": "gifify: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2f532cfa840e708890e0548e771fdea6d16ba84f": "gifify 3.0",
+    "a14eae80c744edcb61d912fb2b81473bda998601": "gifify 2.0"
+}

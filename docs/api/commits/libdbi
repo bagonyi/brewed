@@ -1,0 +1,12 @@
+{
+    "e70f2edaefd34b35a74e15e8cd88405cc493b2a3": "libdbi: remove references to pre-Mavericks.",
+    "c993606a41f2a78fda55c20106bcd267b3f06013": "libdbi: update 0.9.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "47506b79d40364b344943f49414444858b88e414": "libdbi: update 0.9.0 bottle.",
+    "5c22df807c58fb9dccc57785b5f5ff982782fc16": "libdbi: fix audit about sourceforge link",
+    "c2d69d47d1e84084733dd4f3946cb06d69b39e26": "libdbi: update 0.9.0 bottle.",
+    "aacf3885ec155b7d4e74b859a31cbb239fe4dc4b": "libdbi: update 0.9.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4b98bb62f21d947c523b578c6709f53c0df73fe7": "libdbi: add 0.9.0 bottle.",
+    "697138c96bc0f5c9ef8a27e4421195e86f91346b": "libdbi 0.9.0 (new formula)"
+}

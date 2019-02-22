@@ -1,0 +1,18 @@
+{
+    "e2f6132ca880994fa1194a5f37a23033372568a3": "mmseqs2: reduce bottle deviations.",
+    "26831be51d1f14ea2807d4aa3ae559a489c8631e": "mmseqs2: update 7-4e23d bottle.",
+    "08e11037e696a1d45e8008ac28578516515b0f23": "mmseqs2 7-4e23d",
+    "3025e246b8ff8a4236373a37582de5f9dc1d059e": "mmseqs2: update 6-f5a1c bottle.",
+    "d6bcf215e06c7eea74978a1acad5d7d2a4d61489": "mmseqs2 6-f5a1c",
+    "7aad8fad06eff8d89fd871dcab84614ca1df824e": "mmseqs2: update 5-9375b bottle.",
+    "c6aa2a0424249d56b54744a737a37bc137fff1a4": "mmseqs2 5-9375b",
+    "1569deb9eb3012d6158c315495907c8def7693ca": "mmseqs2: update 3-be8f6 bottle.",
+    "a7280f67feee62f45b16f12af8e166b71236ba8c": "mmseqs2: update 3-be8f6 bottle.",
+    "8476ab25b5caab380a591a8b2ebb1953f82d3e63": "mmseqs2 3-be8f6",
+    "9cb748ccbf5b7fb13101f162beded24119ed0d9d": "mmseqs2: update 2-23394_1 bottle.",
+    "54ccaf17e3e90c1dd28cb34cc21498daffd8af0d": "mmseqs2: revision for gcc",
+    "2899821a480e5d7b67fcf5500860ba307a07cdf8": "mmseqs2: update 2-23394 bottle.",
+    "2a0d277a5c72b1ebd6f99484963d924b29335ed1": "mmseqs2 2-23394",
+    "a9e68dbe59e31eff012fcc0581ddde42f8ede19e": "mmseqs2: add 1-c7a89 bottle.",
+    "2039916a4d25551ff36df56b25eef397522d1f4a": "mmseqs2 1-c7a89 (new formula)"
+}

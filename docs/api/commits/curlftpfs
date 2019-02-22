@@ -1,0 +1,18 @@
+{
+    "0d202a9e04a6132f871d0c2fe535a003c52f95e6": "curlftpfs: update 0.9.2 bottle.",
+    "3087b2b178207ae43e8dc3e8a3d0868a20679164": "curlftpfs: fix dependency order",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "06f664a1dfb76a62657fa5ebec27358e7157ffd7": "curlftpfs: update 0.9.2 bottle.",
+    "402d54820490080dd42f499e485c82677c7ada63": "curlftpfs: add 0.9.2 bottle.",
+    "0b4e87a1b6d4df603de4578bf03f5276d0805368": "curlftpfs: import from homebrew/fuse.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "2ca2f6a3f99d81f5313404204f630842c53c6694": "curlftpfs: remove old automake hack",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "25229af0f89dbdf237e162db69affd0bde1c6488": "remove useless FUSE-related caveats",
+    "28002c617e298e849c7733da897ca4c99f61f3d9": "curlftpfs: use osxfuse",
+    "f38fdb17058fc137775cafb58745ff6ce3119fda": "Add explicit :autoconf deps where missing",
+    "7c9fdbc4ab9c6346433c88f28f952296e72b7c4c": "curlftpfs: Restore compatibility with automake",
+    "62fa0c4f4232c4381af50bd4a245788537f2dda1": "Use autotools symbols",
+    "c5ba4c7e70f2d3320ef19d0706b914141f5b6d86": "CurlFtpFS 0.9.2"
+}

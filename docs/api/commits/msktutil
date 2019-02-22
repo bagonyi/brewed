@@ -1,0 +1,13 @@
+{
+    "8e674bebb7b496fbebbcf9bf596aa4f1799048c3": "msktutil: update 1.0 bottle.",
+    "3c2705a968f8c61994e9736f692b9641479a1695": "msktutil: update 1.0 bottle.",
+    "3002a01fafa33a114c5294b0fd5540d5ad2e4ae4": "msktutil: update 1.0 bottle.",
+    "d6f3ac40c7f1b9b6b2a9fe20e20e7a3c24343ee5": "msktutil 1.0",
+    "187612bf22df2318af0d2c1d7e536233bc331e60": "msktutil: update 0.5.1 bottle.",
+    "12cf50bda5a6eccce26062068a697d501be06066": "msktutil: fix url and add 1.0rc2 (devel)",
+    "8d37594f310d874dfe7fb747a6a4c21116ee02cb": "msktutil: add 0.5.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9174a808b32bc990e86321632d634108adb7704b": "msktutil 0.5.1",
+    "34bee0f6aefd3c3063fa2a4afa9dc1da5e019f86": "msktutil 0.5"
+}

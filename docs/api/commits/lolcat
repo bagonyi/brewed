@@ -1,0 +1,22 @@
+{
+    "8e41cf604d0a08cab09b89d25533399424cf5640": "lolcat: update 99.9.21 bottle.",
+    "a00bf5778f33af5d27331844416a86c58ee31e0c": "lolcat 99.9.21",
+    "4babb3caf9a4ee2e18d5fa5276f88cfe8a02a00b": "lolcat: update 99.9.20 bottle.",
+    "5c7dc814b0ffedc08a36931fb66c5a79a8a3bced": "lolcat 99.9.20",
+    "8bd7a43fc27db7ab6393293b50ba007cf4fff160": "lolcat: fix RuboCop Layout/AlignHash.",
+    "1d66869a7dddd493dc382176a28ec33ddce5d1c5": "lolcat: update 99.9.19 bottle.",
+    "4a4e25323b21575dd1de4f1cd8bf41ce7bdf83e3": "lolcat 99.9.19",
+    "d3919bd369e741f614632212b7bee62fdaedd478": "lolcat: update 99.9.11 bottle.",
+    "e62640a7796064fb25121fe02d03f65c057d56dd": "lolcat: update 99.9.11 bottle.",
+    "f98a14cba43abce6462ce5f00d1079d113bc2db9": "lolcat 99.9.11",
+    "212e12f727c4e091c1c799065189ab120da499c6": "lolcat: update 99.9.10 bottle.",
+    "9c12480da6617a48a49f4d258eeb59862e326247": "lolcat 99.9.10",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9f0fb38ef8a7b4d285551ec6c9caf29d608849db": "lolcat: update 90.8.8 bottle.",
+    "425d99be1d72b87cb9ff9341bc6bd3bf33dcd10f": "lolcat: update 90.8.8 bottle.",
+    "084c6150df2e5a2d443cf23bf7fc8fd82c60dbf6": "lolcat 90.8.8",
+    "ffd5429dbeac51148b4f49e5b26dbb0540be551d": "lolcat: update 42.24.1 bottle.",
+    "f5fd31b6aca64f9f49fcb9b98d5765adcc257900": "lolcat 42.24.1",
+    "e7d4efe80f18fddb30ed59ce5ef30edf19f7ec44": "lolcat: add 42.24.0 bottle.",
+    "f02388beee0269f576f5fc71f7deea78485f2d16": "lolcat 42.24.0 (new formula)"
+}

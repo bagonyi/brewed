@@ -1,0 +1,15 @@
+{
+    "c8c91cd207ea8dad511d5920cafe3d3610302491": "xsimd: update 7.1.3 bottle.",
+    "bd543d735e73d4590cc089bb561a1046535109b7": "xsimd 7.1.3",
+    "ad903ff550d0a74a8771d7c374862861f25a60c8": "xsimd: update 7.1.2 bottle.",
+    "62891e6b420ac4b2909a056768423ae0ba0e6fb8": "xsimd 7.1.2",
+    "4767417c24ca8a9d2135748539566421c2722c08": "xsimd: update 7.1.1 bottle.",
+    "4c217acfc5a1947ea22f1117cfc4a20ecb916c75": "xsimd 7.1.1",
+    "6e68759e90ecfb9779686abffd8315c35cc6130b": "xsimd: update 7.1.0 bottle.",
+    "6e33803adb5a17594736c2ca2c682be298ea3753": "xsimd 7.1.0",
+    "67420bc0d543e97c29c1359cbbe21be900c5e4f7": "xsimd: update 6.1.6 bottle.",
+    "0bda161c5f34a893c197e9fdfaba4a507de6ca4f": "xsimd: update 6.1.6 bottle.",
+    "035996738fef2ba3d72b46ddda52e4c790cfe3aa": "xsimd 6.1.6",
+    "fa3ee0123c7db081473df126af20c25d240e0c2b": "xsimd: add 6.1.5 bottle.",
+    "2af2783ae4c092340eade9695ff4f19295c28392": "xsimd 6.1.5 (new formula)"
+}

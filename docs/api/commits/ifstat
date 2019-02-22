@@ -1,0 +1,14 @@
+{
+    "be20410907d65844ed5f29a4135feb972129f2a4": "ifstat: update 1.1 bottle.",
+    "359a033d08fd68831a8ad07f76b867854688481f": "ifstat: add test (#27673)",
+    "145f8da7a30d47f4671e71e8d7a7b0e55c1229da": "ifstat: update 1.1 bottle.",
+    "6ec6850969ac9e0a2ee176652f69ccdfa4678e43": "ifstat: update 1.1 bottle.",
+    "4bb1ab762fdb0921d14fc0b448010e9843bd5f9a": "ifstat: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2d0815f1e8fe62c994ac8bded63e61f22414dc24": "ifstat: use patch DSL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "aaf3d3e9c003ed5d46a3a5ddb37a32613fd1c654": "ifstat: reformat patch note",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2a6aef77afffdd7a822597261d3b8fe45efc22d7": "ifstat, with patch to run on 64bit as well"
+}

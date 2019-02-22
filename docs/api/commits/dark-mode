@@ -1,0 +1,14 @@
+{
+    "4de52d8b8cd0e112c1aee2b6fc8fbf7d1f19d9ea": "dark-mode: fix dependency order",
+    "8c708f079bdb5027b25fa22668ca1982a3b6d061": "dark-mode: update 2.0.1 bottle.",
+    "23894803bd22ab087d754739e425e5ddda0ae78f": "dark-mode: update 2.0.1 bottle.",
+    "a08ac82911d77663b0113b1145fef1f3004b863d": "dark-mode: update 2.0.1 bottle.",
+    "79f1ae5ba0c82c207b42ea6cb7ff93a5cc3db566": "dark-mode 2.0.1",
+    "fd1d2a69c40a0b6be7612ad0b21878fe991f4111": "dark-mode: update 1.0.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "931f08babd6e33df964e4f2dff68c7c92c5c7bd7": "dark-mode: update 1.0.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5b4266b463a463ac26bcc0f046da64316be70089": "dark-mode: add 1.0.1 bottle.",
+    "f5c30876707917e08495d0743d7560ac5812d8a4": "dark-mode 1.0.1 (new formula)"
+}

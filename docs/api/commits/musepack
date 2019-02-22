@@ -1,0 +1,14 @@
+{
+    "33511eba2d45afe334591524785951be7c09643d": "musepack: remove references to pre-Mavericks.",
+    "3d2be6c48eec31b861d37e687db75d8609e54a01": "musepack: update r475 bottle.",
+    "2210a49906259e223a699c95c84e45e29a227be8": "musepack: update r475 bottle.",
+    "3448875ee5ea863e46f6943d7d36e9424823f9ac": "musepack: update r475 bottle.",
+    "7866582fa30cc780474cf9a129f57371c55ae8a1": "musepack: use secure url",
+    "98ada10a7eedd821204b0bcdfbf5fc9406544e01": "musepack: update r475 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7bbba68772cf88b2949fb7f139f761846ae778bd": "musepack: add r475 bottle.",
+    "4e460c953c7fa7f72ae8a1d29eb1c336b7b83b00": "musepack: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "94b692172f769197725dcd659e8f26b61d0528a8": "musepack r475"
+}

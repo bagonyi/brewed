@@ -1,0 +1,17 @@
+{
+    "dd0215e4e77e8bbfa06eaf82a55288d422266f24": "postmark: update 1.53 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "52ac2f6ea845730ba09bcecec83adeae1cf89e11": "postmark: update 1.53 bottle.",
+    "43c6c6f8e14b04c83aff6646c40af55f28fa3631": "postmark: update 1.53 bottle.",
+    "bbcae9b76c8572fcd1a16fd5adde6af970111dd0": "postmark: update 1.53 bottle.",
+    "2022b5c46dd55070fcfa1ad9fdd94138d79551d2": "postmark 1.53",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f72f6f4225ae6e7339fa8fcf937b99a406f85966": "postmark: add 1.51 bottle.",
+    "57e40468fe7a339883695e9ddc5c4731bdfae480": "postmark: test added",
+    "3d368ccfd58e946a3385c3cf96a0349ec63c80d9": "postmark: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4f9f0d0bf52f8540485aa7b5e74b6aa32fa432f3": "mirror support: Mirrors for kernel.org software",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "c8935db6f75ee4b444e8bb18c38bf304e70c47fb": "Update formulae to use preferred debian mirror",
+    "200fd874380ca2186deabc47ac4d7df451088206": " + postmark formula"
+}

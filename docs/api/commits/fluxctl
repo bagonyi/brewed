@@ -1,0 +1,9 @@
+{
+    "1fe03896a024a1de58d9ce398e2b18fabf9fd97a": "fluxctl: update 1.8.2 bottle.",
+    "adbcd1afe7c20c16968310c67a5cf7f5fabb4f0e": "fluxctl 1.8.2",
+    "908e01eda68398fabe7c753fc0510bf33171c292": "fluxctl: update 1.8.1 bottle.",
+    "4bbc603894bb9f9bf8843d45c250e2e8ecac39f9": "fluxctl 1.8.1",
+    "6b9e7e2b768679043b759ba7fbaf8b68a6e1e2ad": "fluxctl: fix RuboCop Layout/AlignHash.",
+    "388425f191fb3dc7effd3863d86aec7ee5700f6d": "fluxctl: add 1.8.0 bottle.",
+    "0af9c27134b7b9f919386a163f4d6e13a3f8f073": "fluxctl 1.8.0 (new formula)"
+}

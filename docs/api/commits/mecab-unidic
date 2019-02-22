@@ -1,0 +1,19 @@
+{
+    "01ad4fcb8c285c4cde6530ccaeabb7564fef69c0": "mecab-unidic: update 2.1.2 bottle.",
+    "0c3e3af1799435d9f5a44070e21b14f2eb0eb62c": "mecab-unidic: secure url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "feec24087a214b60ce5ecdcc3d19388bf8c73fad": "mecab-unidic: secure url(s)",
+    "cf70dc4864b7c5b12ae4d1ad8f65cf8881ba3364": "mecab-unidic: update 2.1.2 bottle.",
+    "812c29a4a721d7886e9b24921935dfa0847eb160": "mecab-unidic: update 2.1.2 bottle.",
+    "208439767e5cb919cab625ee9017f9ffa402e9e6": "mecab-unidic: update 2.1.2 bottle.",
+    "ea02a2ad6e6df09304904029739de7b970d279b4": "mecab-unidic: follow redirect",
+    "a04dd693db72c73d20ece4fbf64ac4370965f5be": "mecab-unidic: use an https url",
+    "b566ff98591071a8ee79eb456349aa321d0996b8": "mecab-unidic: add 2.1.2 bottle.",
+    "4c5f2b2160304c0c536ba854085148f5097eac57": "mecab-unidic: fix for sandbox",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "78814d67baac3b8f1f8e4c53979f7e5320b41094": "mecab-unidic: use Formula[]",
+    "b4634eab4a6ebac84c607f3cd9150a1f6abf36e8": "mecab-unidic: don't run command in caveats",
+    "d1f5e6e3ca32800e09169cf0aa8bd240c0a6b2e4": "mecab-unidic 2.7.0"
+}

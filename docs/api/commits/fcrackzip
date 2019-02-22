@@ -1,0 +1,22 @@
+{
+    "12417a1598b050acca65504ef2af71ec15bf6474": "fcrackzip: remove references to pre-Mavericks.",
+    "cbe1317aa38c3493745b9dfcaebb358789e15f01": "fcrackzip: update 1.0 bottle.",
+    "da0d744bb728205c03116bafbfcf27b9d8a8fe7d": "fcrackzip: update 1.0 bottle.",
+    "5fd1602014d9b87591dd671a551e669ca2c0ea78": "fcrackzip: update 1.0 bottle.",
+    "62207f89c965c349d69aa028a1e373b94c95f40f": "fcrackzip: update 1.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6b1daf24aab703f869ac40c335ea23a97bba6ee5": "fcrackzip: add 1.0 bottle.",
+    "214c23975956276d884bf832805b56b12cb878d3": "fcrackzip: test added",
+    "9640eff579a762c42b0530d85e82d2f646a25e49": "fcrackzip: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9e05583596be046cdde7d6e97330cf35f8c288da": "fcrackzip v1.0",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "ca6083c62d37967d31974545393a687ddfc77105": "Updated formula: libogg-1.2.0",
+    "4139352243ebfd11f4b3e3d7d3d08d9acea139b5": "Reformat libogg and libvorbis",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7a6de3c8b22a9bb3d95d418ecfa232e837a4997c": "Update libogg, libvorbis, and libtheora",
+    "aa14a25a43faa8fab1a61307cae72285f0374495": "Apply new ENV capabilities to all existing Formulae",
+    "4923207da926f418ab2251477e0f210581413579": "libogg doesn't support parallel builds during install",
+    "97b1ada08d309b0c2d567251c534dfd08192b383": "Created /Library moved brew tool to /bin"
+}

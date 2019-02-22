@@ -1,0 +1,20 @@
+{
+    "db1f6e46db3e1d01d47ad32939e7459fc046a334": "voms: fix dependency order",
+    "4b55ab72aba96dac5b0a8329640dba7850e2bb55": "voms: update 3.0.7 bottle.",
+    "ac935ff11b8b573cbf7469d11840f23d37afe7d4": "voms: update 3.0.7 bottle.",
+    "5832e93f75583dc3415c9223f7f7ac0efa7e04cf": "voms: update 3.0.7 bottle.",
+    "27fea7fef66011595bb5837ffc32ee70b3e6d561": "voms: update 3.0.7 bottle.",
+    "9ee003bbd2be7b240c43b35838aa99511be6c886": "voms 3.0.7",
+    "f2b2dfcc98de06ff83d27be8beb16f968cc1b543": "voms: update 3.0.6 bottle.",
+    "31c019bb62e3f8922b9ab2927935be078516298e": "voms 3.0.6",
+    "e92014c189137eb16042f35fe26a2bef514aa862": "voms: add 2.0.11_1 bottle.",
+    "8625ce9ae8bd196ab9c609b265d372039d171c2d": "voms: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "26ddf8e8d048a35742d726662033ca232cf1d0f2": "voms: modernize autotools deps",
+    "cfb6a91fb9babe512a53b25ae37ab2e094f3ccc2": "voms 2.0.11",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "3f01a39080eb07d4c025fd884dd011b6609613bd": "voms: autotools are build deps by default",
+    "6aebd6073584e05515de58b4450d18d0cb17d942": "voms: fix audit",
+    "8f6999032284f046d7fc16549c65af0ec85c7ff1": "VOMS 2.0.8"
+}

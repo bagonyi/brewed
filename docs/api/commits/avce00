@@ -1,0 +1,14 @@
+{
+    "b1033552c57a57e275e220f335c20f56eed94e22": "avce00: remove references to pre-Mavericks.",
+    "85fdf19e7dd1b3dbbf753f1401be46551a847b85": "avce00: update 2.0.0 bottle.",
+    "5d7e8b9e010fbe4362e667ab6b1dbf7e4111a017": "avce00: update 2.0.0 bottle.",
+    "41d1dd4aa863b8aa313713c0414609a275479ef5": "avce00: update 2.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "89a8ed671317215fe0f09e0a7c7035d2648fcc80": "avce00: update 2.0.0 bottle.",
+    "b4d085f1de2f6f7a1e62e588b7fe8a39eba3a3c3": "audit fixes: A: ascii, asciidoc, atool, autotrace, avce00, avra, avrdude",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1f12c117b054d1c26e62c2ce2329ec1a9e8e49d5": "avce00: add 2.0.0 bottle.",
+    "a9006210eb28354e9f00024c2c4c8d9ec5bb1b17": "avce00: lib installed, test added",
+    "20535b69ed1471a1f12b6b2dec226d89b54bfe98": "avce00 2.0.0"
+}

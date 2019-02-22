@@ -1,0 +1,6 @@
+{
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "e42971f32d4a3243151f718d454f9416ed8191d2": "xmlsectool: remove unnecessary install_metafiles.",
+    "3eec524371b820427529469107af2cdda575b247": "xmlsectool: bottle unneeded.",
+    "860fc236a21c011c559d70b69c756deb7505d72c": "xmlsectool 2.0.0 (new formula)"
+}

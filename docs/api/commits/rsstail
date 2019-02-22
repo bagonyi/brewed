@@ -1,0 +1,19 @@
+{
+    "f8b65a31a1b2f4df9548c8fd5337d0072416e5ed": "rsstail: secure url(s) in test",
+    "062e70d326921bfd1e453ab2d12537bb8605a63f": "rsstail: update 2.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "e6c8fd074283ed1099abd8204c823253768ff974": "rsstail: update 2.1 bottle.",
+    "041425068bf086a20a12de6e537da4ac995696b6": "rsstail 2.1",
+    "af1ca1a6b8abcf6b9368d8869f738662aa103fd2": "rsstail: update 2.0 bottle.",
+    "bde2b35878e19c97364cfd3d5d7e1adcf85196bd": "rsstail: update 2.0 bottle.",
+    "a3f1c853988433cc2e8d38fe38c9d936911bf696": "rsstail: update 2.0 bottle.",
+    "eb710586b31b7de3aef7b5e0544d1a1d5dd2bd95": "rsstail: use https homepage",
+    "c3d414751883aeedb0ee0bbb6352abc90965a743": "rsstail: use an https url",
+    "fb2093d96e700c277c391cdcdf535a1cb09108f9": "rsstail: update 2.0 bottle.",
+    "99a2216f563b1d3f47289a5eeaba4d177748aaac": "rsstail 2.0",
+    "2d00b39716443cd9ee13042657c682412fbe8a1f": "rsstail: remove workaround for upstream issue",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f9c59f37e13f2bfa3cd689751bfe8fbf69ab0a33": "rsstail: add 1.8 bottle.",
+    "d5c6cb9b035fa62e99b9d3fb34472f80a64e8f63": "rsstail: add HEAD and test",
+    "a7c6b7efd5a989256578a58645fb976919b2c37d": "rsstail 1.8"
+}

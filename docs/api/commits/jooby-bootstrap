@@ -1,0 +1,10 @@
+{
+    "88859c1a6cd3897c76c0d378a7314beea621eb9f": "jooby-bootstrap: require Java 8 specifically (#28311)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e15b01eab4aa3b143e4c0b52865dd6173f1db557": "jooby-bootstrap: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cbfd15de40df6a08d21100deacf1cf91edd24a8e": "jooby-bootstap: modernize, use new Java requirement style",
+    "53edf35ff385e16fe906372db6015d1037b1124e": "New formula: jooby-bootstrap"
+}

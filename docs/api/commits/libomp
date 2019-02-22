@@ -1,0 +1,11 @@
+{
+    "6df6152194c1df4faafdc2cb3c2d6ef72b3e15b6": "libomp: remove unnecessary caveats.",
+    "13dde7a4e2004d80c4db699462561230ec339a54": "libomp: update 7.0.0 bottle.",
+    "dc7090deab74127f49eeb387f65c208280a02069": "libomp 7.0.0",
+    "c41f51d25405ed53f9457a94a12b71d6fab74518": "libomp: update 6.0.1 bottle.",
+    "046dadd0946942c4a20dc4cabb166889fe972261": "libomp: update 6.0.1 bottle.",
+    "f3970bc729b6fcb604f5cfe3e4ad1f3d4db34d36": "libomp 6.0.1",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "a9eed60523404cca2b5d0930298b92467f917012": "libomp: add 5.0.1 bottle.",
+    "3c6486f517787c8e2bf4788266736c56a343bce2": "libomp 5.0.1 (new formula)"
+}

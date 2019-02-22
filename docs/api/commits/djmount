@@ -1,0 +1,20 @@
+{
+    "eade978e44fb078ffd41580b149efff5eedf21c3": "djmount: update 0.71 bottle.",
+    "5bcb93157e1aa76f9696c5c4a2f70eca6b85ca66": "djmount: update 0.71 bottle.",
+    "f8b066518cd0b11cbcbfd662d8d68a0c8a0b2463": "djmount: add 0.71 bottle.",
+    "9f7acf8ebb9d15c7e1b90ce37d59fe4c324b9862": "djmount: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "e0ace14568427047cadf4dbc8f8b802781cc92df": "djmount: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "25229af0f89dbdf237e162db69affd0bde1c6488": "remove useless FUSE-related caveats",
+    "b58795ab5c8f0763270dfef66df81e667bd7ddb0": "djmount: use osxfuse",
+    "75b2409860d4a08e93e363ffb610e0601809227e": "djmount: depends on pkg-config",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "db85c5055ca56725949e32d0b4e005e4a6169159": "DJmount: Remove unneeded CFLAG",
+    "29a07c5720a7f14654d41a54f5c712bf16339892": "djmount: Use fuse4x as a default FUSE provider",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "ee63616db0ec7d937053aaea0b09c9aa52febcfd": "New formula: djmount 0.71"
+}

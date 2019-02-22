@@ -1,0 +1,17 @@
+{
+    "79e5cb8dfb1322f6606121c5bcd70bffe98d8ca6": "unnethack: update 5.2.0 bottle.",
+    "a6f664ac0e72d2e053773bead181840fd2248ece": "unnethack 5.2.0",
+    "b3c833be48e4fa4db4b35f3fcda713d6dc99c77d": "unnethack: update 5.1.0-20131208 bottle.",
+    "c4a278c7c112886d4e3676ca6a2e893e9b92e04b": "unnethack: remove options",
+    "44e8706d012f6c4db096a900f116925d56a7b403": "unnethack: fix component order",
+    "7a1808b8afa6f25f0295152ee3c7d726de16c393": "unnethack: update 5.1.0-20131208 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "1efb928d7795a558cdf8b88ff19abdee9c357564": "unnethack: fix ENV deprecations.",
+    "39672d5b3f2e3fcf4bb4ba14239ffbef99f48598": "unnethack: update 5.1.0-20131208 bottle.",
+    "cd9f2a4c675a96baffd7ebb2ac30a34a50301da5": "unnethack: https in homepage",
+    "4a1149b9f5745c7e6446d05dce14e732c2281bf2": "unnethack: add 5.1.0-20131208 bottle.",
+    "da13e187fbb2421ecde4af437a02d41561bb94f5": "unnethack: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "994343a31dab404211ca92bcc8c8487414a44243": "slashem, unnethack: use admin instead of staff",
+    "061bd88cddc868c371c12fc788181d60e3e5ede0": "New formula: unnethack 3.6.1"
+}

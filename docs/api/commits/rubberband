@@ -1,0 +1,23 @@
+{
+    "2c60f42242c56932410a4cd7fa1b7d31af5ad86b": "rubberband: update 1.8.2_1 bottle.",
+    "668c99e8ed92fdce7c6a54796bf1f8bd781e3f32": "rubberband: update 1.8.2_1 bottle.",
+    "13c0511aafebedb7909726b9fc08022679489f8a": "rubberband: fix versioned dylib installation",
+    "afe33c7a145c4d2005e36784fd47865dbaf59a79": "rubberband: update 1.8.2 bottle.",
+    "ae083505983962f886f96f9195a5a67c48919ead": "rubberband 1.8.2",
+    "dde058b1bb1f6b489007ce999282a55a4d24121e": "rubberband: restore canonical url after upstream fix",
+    "9974721650b61121f41eb0e4f1155e50dc4f8f30": "rubberband: secure url(s)",
+    "e7bf7a09eaf289e7af2a05105b26c749fa5ea053": "rubberband: restore canonical url after upstream fix",
+    "1ff1a648192ecfb510487d7db6d245ee5f21aa18": "rubberband: secure/fix broken url(s)",
+    "cd8e2218fa826ba610d8ade09c6dc5070f39a6ac": "rubberband: update 1.8.1 bottle.",
+    "67aa3780d917203eb80182fec10aa6ba41b945f4": "rubberband: fix audit 'description must start with capital letter'",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c4f94dbcd44d1f7fa390a9572b2cb8403f39aad8": "rubberband: update 1.8.1 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "6626d8e2390caf63c649c3adc3594ca53bd558d7": "rubberband: style fixes",
+    "bf3438728d6e980e132231e4118dff5802f1b6e8": "rubberband: update 1.8.1 bottle.",
+    "a62faecb5e385df97776845007ec93040ca91fd0": "rubberband: audit fixes",
+    "14b3076c00685e720449c33b360e2a59c36935cc": "rubberband: fix style violation.",
+    "cbf5ad62adc6851bf7c2dd12bc2b1b9e925f0e22": "rubberband: add 1.8.1 bottle.",
+    "4e173d14819084a25f7e33987bf7a3cfa36534ea": "rubberband 1.8.1 (new formula)"
+}

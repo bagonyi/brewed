@@ -1,0 +1,8 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "60d82bd514f5548a04fe257a88051aa0f84e7054": "questdb: require Java 8 specifically (#24037)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "df772d8de513e95ab8a4fd6468a863a247a1f1b2": "questdb 1.0.4 (#8381)",
+    "a079c9997f58e8e51a03f83030bebf2d7b95e206": "questdb 1.0.2",
+    "a02c171ad60d96301974fe86e81b58a01e6afff2": "questdb 1.0.0 (new formula) (#5884)"
+}

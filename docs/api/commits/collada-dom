@@ -1,0 +1,21 @@
+{
+    "7f5ad53584b5ac137fc4b9b41246180a0e5592dd": "collada-dom: remove devel spec",
+    "e169407cef45d488114a1663ad6bc326915fc1ef": "collada-dom: fix dependency order",
+    "893a38c4d39869e182e5e16b2ee22c1e1b5dacaf": "collada-dom: update 2.4.0 bottle.",
+    "10a6fe61d51a6b33c375a0d8306576f8b2a1af62": "collada-dom: update 2.4.0 bottle.",
+    "25b3c0bd14133994ae699789e2530ce0e2e94af7": "collada-dom: update 2.4.0 bottle.",
+    "97fbd9d43e2d7469241537cfcc2b3ba41fa6be95": "collada-dom: fix spacing",
+    "84ec28af36cf3b75de0d9d7d40b120cf84502a0e": "collada-dom: add 2.4.0 bottle.",
+    "f5dffceeb13dc559b7635fdcdc3a6d5027347e03": "collada-dom: audit fixes",
+    "7361e3d41cf2ec04f76df74c19720af1850ad5d8": "collada-dom: audit fix",
+    "c86ddc05941fb50b60e0a2470db93e5d4345c7fc": "collada-dom: new website, add devel and head",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7b8fa6be5f8de612ab14dcf37734cbfb8196d88d": "collada-dom: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "083f4277d4d69eb0d14764380945f672cc72ecbe": "collada-dom 2.4.0",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "d38660453fe8c947b486de6da47a3a9062f000dd": "collada-dom 2.3.1"
+}

@@ -1,0 +1,18 @@
+{
+    "7675be43ee5b4c3ecc43d7e3813694522bafa8dd": "codec2: update 0.8.1 bottle.",
+    "0a0587bae017bd785ffae705a607655a5c96e94a": "codec2: update 0.8.1 bottle.",
+    "c7c046c8c1de1b5ca3c38cd35d235b36982ee89d": "codec2 0.8.1",
+    "64f1ad62934946922ed968dbb8987544227138d8": "codec2: update 0.8 bottle.",
+    "385846dec3e56d8f2b31612e63543eab15d13308": "codec2 0.8",
+    "91233195b79fedd9a04fde65935569147a7c3381": "codec2: update url (#22657)",
+    "9f9366229d3f4f72cc7e0fded12e482279034574": "codec2: improve/secure repository url(s)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "05d23797e43e745a02ea71ab75a0ccb7f0b570af": "codec2: update 0.7 bottle.",
+    "a172013872a41619955c30613d65e14d8bbf410c": "codec2: update 0.7 bottle.",
+    "42b63e32ab83ed51673e712a8fbebb9e15d15390": "codec2 0.7",
+    "67390d8b2888212f8e43dd879c7a04bdef823d85": "codec2: update 0.6 bottle.",
+    "f5ac9fca1a44667e3e197c4335d6b6184256ed28": "codec2 0.6",
+    "f56e94a50ede0bf77b8e2eb78e26de8545dd2cd4": "codec2: update 0.5 bottle.",
+    "4fc43e9ac4dee01bce4a90fb7a14853704e0b436": "codec2: add 0.5 bottle.",
+    "ddf193986042b7b046e73e62569e3dabae61c335": "codec2 0.5 (new formula)"
+}

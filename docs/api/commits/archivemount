@@ -1,0 +1,14 @@
+{
+    "ab068e05dc280138a9013e7ea2e5c616c4a01d8c": "archivemount: update 0.8.12 bottle.",
+    "ce41565b398db2ae11bed05336b82eda9162cafb": "archivemount: secure url(s)",
+    "85cb8a8ebf9ec08ec11a51a2597239f4ee7e6c03": "archivemount: update 0.8.12 bottle.",
+    "4edeae5029d663018af03c4a444852bc4652229f": "archivemount 0.8.12",
+    "bbc22cc7213308188af1a41ca036ec6d647f32d5": "archivemount: update 0.8.7 bottle.",
+    "ca63791b8cf4cb781ee631fcb37a74e481a14da8": "archivemount 0.8.7",
+    "c83706a26c6d9e70669120df82b5a2e4503c12e2": "archivemount: update 0.8.3 bottle.",
+    "8206eacb96f4189f59751e63552834356a23b233": "archivemount: add 0.8.3 bottle.",
+    "081ede77428a133243bf7fa10e67470de6258c9b": "archivemount: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "0596de41ea2f6e3c9fa770e18a593d108cb3daed": "archivemount 0.8.3"
+}

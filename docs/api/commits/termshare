@@ -1,0 +1,19 @@
+{
+    "815a87b05b3d3221d3631cea1fca7a5a187414cf": "termshare: update 0.2.0_1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "f4b88710ed7d7fe8be7c5c019424bf7a57f85b7d": "termshare: update 0.2.0_1 bottle.",
+    "0cb1e13a226300da453d52eaf7941973eb14988e": "termshare: use GitHub repo for homepage (#10206)",
+    "2765df9a575f49a222badc339c970ed523c25bf1": "termshare: update 0.2.0_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "f49684c8a90928bf99bc64dfe27d22304d3fa047": "termshare: update go_resource indentation style",
+    "f83ce210eb329d0b67ad88988d0a2161a9c075f8": "termshare: update 0.2.0_1 bottle.",
+    "bf8eb02904161e12a6317851c247df51d4f22a4b": "termshare: fix build",
+    "027abbbb55aa64a741c05bb7fc9a446689a97497": "termshare: update 0.2.0_1 bottle.",
+    "fafdc0801a95225234cc490980e329880d52b5d6": "termshare: revision for go",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "becf794f46b97a15c5f6a6e18f574b77be49d894": "termshare: add 0.2.0 bottle.",
+    "0d0898ff33ce4e94624354fd192218b2e0543d04": "termshare 0.2.0"
+}

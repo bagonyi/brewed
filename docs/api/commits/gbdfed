@@ -1,0 +1,14 @@
+{
+    "5f71b38e74ea53011d280cceeccb015ec33ef50d": "gbdfed: update 1.6_2 bottle.",
+    "0093441cfc22431f5c53013b53f7a65bb2bf15fa": "gbdfed: update 1.6_2 bottle.",
+    "46753d4612bdc6cf5d38bac0bb7edc234a07495f": "gbdfed: revision to fix install receipt",
+    "d89a1d0010cfd15d2161d8827f43f0ece85e9efa": "gbdfed: use assert_predicate",
+    "9c1119272edf692b5c2e8050c437eca076d384c9": "gbdfed: update 1.6_1 bottle.",
+    "3aa9120beef5d8f7264b36ae8b95004d640c5a44": "gbdfed: update 1.6_1 bottle.",
+    "5781604b43028c64cadfedc5a479a8113ba67d71": "gbdfed: add 1.6_1 bottle.",
+    "8ca546310a4b6cd907ff78a7b10bdc985fb795e0": "gbdfed went quartz",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c78c172392eec5848234ed2d37da9485c1c9bc90": "gbdfed: use patch DSL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5b1302d6c4cb76d2fcefb8a1eca2eaa8e6b8218e": "gbdfed 1.6"
+}

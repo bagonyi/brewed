@@ -1,0 +1,15 @@
+{
+    "51ca3d9353bb4418132bba1929974e1cadb8a112": "webarchiver: update 0.9 bottle.",
+    "027a91e0573d5e12cc233da877de4cb8a4fa46e3": "webarchiver: fix Mojave build",
+    "1ec386e79fc7b64ed7544081d0b84262b864b52f": "webarchiver: update 0.9 bottle.",
+    "95e601ad7c47ebe228ae5109ed16db699cdfabe7": "webarchiver: fix audit 'description must start with capital letter'",
+    "0a235d4d7b3a81a94e96aa08d0da7e0c9e25ab97": "webarchiver: add SYMROOT",
+    "6c9aef5286fc8b175b55af28abb142e96e5c1c27": "webarchiver: fully scope test system call",
+    "19a8581cae30895408319b83588b55f01fa2edc0": "webarchiver: update 0.9 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "032164a15a8e7e87527f96664a632dce7ba334c8": "webarchiver: update 0.9 bottle.",
+    "f714cf9ba707b6487eb1c47ed2dfaf1185a7b815": "webarchiver: use secure url in test",
+    "da6b176b46bd5d3f067648c7abf8b7a9caf5507e": "webarchiver: add 0.9 bottle.",
+    "4728381177e3786bcc23135350b98fa7433e96b3": "webarchiver 0.9 (new formula)"
+}

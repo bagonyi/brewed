@@ -1,0 +1,19 @@
+{
+    "01c74210e038c6d3d22d778148f090ef95fe0e76": "cntlm: update 0.92.3 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "de51a8c9566b72204c7af78b1b5e4044f2a820f9": "cntlm: update 0.92.3 bottle.",
+    "86176131d7173e1c6fdb4bea370b57d609cfe559": "cntlm: fix audit --warning",
+    "de159cca2291105c9caf1fb86d938e6ca00cd05f": "cntlm: update 0.92.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "1971484b5ca6a0a9ccf4afe3e4d79541ec01dc2c": "cntlm: add 0.92.3 bottle.",
+    "d122ff49a89dc721a36af65704f35eb80b021949": "cntlm: fix plist start-stop by running in foreground",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "71de5dfb6fd28c4df133284bdf156fd19f17348c": "cntlm: fix path in plist",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "04a301258c3be426c5b3f973ea84b4a6dfe040e7": "cntlm: add startup plist",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "758aa8085ef72a6f2e4a652772a421dbebd4e5cc": "Cntlm 0.92.3"
+}

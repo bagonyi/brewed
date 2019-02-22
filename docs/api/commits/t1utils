@@ -1,0 +1,22 @@
+{
+    "75b014163a062931cb08d3a394ca0f0827da4eb2": "t1utils: fix dependency order",
+    "eb859248ca0955dc55ff444b08ad865330fe1d05": "t1utils: update 1.41 bottle.",
+    "f0ec53fb3116678dda48e1384c73c1d558a88adc": "t1utils: update 1.41 bottle.",
+    "584cf53f83bd89bfdfafd675431688bb77108478": "t1utils: update 1.41 bottle.",
+    "f337895c02579ae2bb039bca8e69e98cf06004c0": "t1utils 1.41",
+    "fc2853522dfd13204839e40253276efe4f31f67f": "t1utils: update 1.40 bottle.",
+    "574e6873af42f828d7e4eeeb9a2b155ecea5de7f": "t1utils 1.40",
+    "baf20951dc92f9cad3bd726d06797c3ecf3dbfca": "t1utils: update 1.39 bottle.",
+    "fca82d3177ad7d92cb04fa5b90a29276065b1fae": "t1utils: update 1.39 bottle.",
+    "f1ba31b1ece65944a8eb010c5044e33693bf5228": "t1utils: use https homepage",
+    "7994cbdc7199a52f57e198de6be9e815c39f1e21": "t1utils: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e2c00e61ff62eb2e381c75b394e5b20bcf2abe56": "t1utils: add 1.39 bottle.",
+    "bf6dc79b7438df9c6ce3aee49a880be1ed740e23": "t1utils 1.39",
+    "7e6da007c785a44b4bbcb6a62ca7b73f27717c84": "t1utils 1.38",
+    "055373763bf79344e0cf6908b7e29a0bffc6a4cb": "t1utils: fix test",
+    "d41c903a3da6ffca7a5e029d4eb308b0106ff7c1": "t1utils: style nits",
+    "502b5bd42cc3107aa8669feb8fccf61d34576ff6": "t1utils: Update to 1.37",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a9092e3f6e6fc26ee65b28d0d275b394020563c4": "t1utils 1.35"
+}

@@ -1,0 +1,15 @@
+{
+    "cc8caa6a9ff115db0103cb6a05be02ffcdf42d52": "sdhash: shorten long lines.",
+    "8c205b25447be4000ab04e195a3ebafa800c94af": "sdhash: update 3.1_1 bottle.",
+    "fccc5ca02eb5fd1270f6f97170981678fb9e38e1": "sdhash: update 3.1_1 bottle.",
+    "2103f7bb135623955f79fd0236dfb141c5c22fa7": "sdhash: update 3.1_1 bottle.",
+    "bc701317697850afa71e43aa6574da62693e8599": "sdhash: add 3.1_1 bottle.",
+    "cba7f9099b554b810a9b0d8924fa45f906c0fc75": "sdhash: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "ffd75d171ea113f8b9fed69ff3c8c82b997dda62": "sdhash 3.1",
+    "f8ec67754335e58f36f308455a303920d90a65e1": "sdhash: Fix typo in Makefile's LDFLAGS",
+    "ec6ce324257971065655a3255b625e2d81d09248": "sdhash 2.3",
+    "781207e70d68fd4c3bf123188881d7f5443ef345": "New formula: sdhash"
+}

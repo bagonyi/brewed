@@ -1,0 +1,19 @@
+{
+    "e7c22c2d2562a8a8250c65725e082b61b5486a9c": "pioneers: remove checks for old compilers.",
+    "7b53888b1f8fed0aa782bb5dfa9a0079c1af58c5": "pioneers: fix component order",
+    "d566d0f08041ea2ba6301205f2a803a03f489277": "pioneers: fix dependency order",
+    "760ee43d2cbb88241441e24dede745a91a7f008b": "pioneers: update 15.5 bottle.",
+    "900ea3bd36f3b7b0101e8fcbc7117704c81bd538": "pioneers: update 15.5 bottle.",
+    "893199f0bc4a5abc91d2a66a8547e807e146e6b2": "pioneers 15.5",
+    "ea0c8aa58624cc17b50fd00c432c67a4740745e6": "pioneers: update 15.4_1 bottle.",
+    "0692536a587285f14d8bb258ca08a953e4077e78": "pioneers: revision to fix install receipt",
+    "5490df126411dd91bbea0ebb54181145e680889c": "pioneers: update 15.4 bottle.",
+    "44f0d6329f2a89e16b263a935e6570312404a7de": "pioneers 15.4",
+    "8977bfe605ddaac107ef54bf27ad088431f6915b": "pioneers: update 15.3 bottle.",
+    "86100daca6efd028d4d0bd1ad903061cbdd93633": "pioneers: fix audit --warning",
+    "0c0e38bb27724e7d038c83616b384b594f304ae6": "pioneers: update 15.3 bottle.",
+    "10acd4b6acea34f16ccc574c3f05273239454452": "pioneers: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "05b9d462cf593afb418a8ac71c37a81f37d965bf": "Pioneers 0.12.5",
+    "9106f31721a755ef71179758dbd4a66d8e2d7153": "Pioneers 0.12.3.1"
+}

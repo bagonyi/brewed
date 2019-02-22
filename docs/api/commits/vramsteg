@@ -1,0 +1,15 @@
+{
+    "9876db14239710a07abc6d60f7612697a0f379e5": "vramsteg: update 1.1.0 bottle.",
+    "6512e916fe317e3e912d1294d77c1967aaed5be1": "vramsteg: update homepage, stable and head urls",
+    "5bb34f1796556c9c5551199c89a24355e031b1e3": "vramsteg: update 1.1.0 bottle.",
+    "c5fe624b0fe086634e8470471461213cff752d1e": "vramsteg: update 1.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "07c88263f7ae2b609968c956765a639be114dbaa": "vramsteg: add 1.1.0 bottle.",
+    "7364ec24def454109dccfbe7fd8174193fa97819": "vramsteg 1.1.0",
+    "ad3b17ffaa7880fef55263df616a0fcc65dd3de6": "vramsteg: use https homepage",
+    "34c057c88dd9f5db85e53da37c80e2f8607ea808": "vramsteg: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cf4141509c007ebc381d5a2ea4fd5ac56ac6b6bf": "Vramsteg 1.0.1"
+}

@@ -1,0 +1,20 @@
+{
+    "147f369b39b17533d1e93b58001acab6c1efc4b7": "pound: remove options",
+    "07f5c6544cca8cb318a97a0db20f93876ff4626c": "pound: update 2.8 bottle.",
+    "40e25555cb69073daf2a58905f7067051d6d404f": "pound: update 2.8 bottle.",
+    "fb22c9eb14317caf2fd7668ae9c8c42373bfd433": "pound 2.8",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "54ec10a4d1193d3dcba958f4bb6fcd3f1d6534d1": "pound: update 2.7 bottle.",
+    "ddf04e0f83d9ef697ddd2e0575d994c0ace62426": "pound: update 2.7 bottle.",
+    "5d10d24c038cf9e2d52ae9f9b3eed515cd39f8af": "pound: update 2.7 bottle.",
+    "6997033204ad89e0863ced429476c574028d2ce2": "google-perftools is renamed as gperftools",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74f6b432745397b16ab2c4c2973213c1b449e23d": "pound: remove overly-paranoid LDFLAGS append",
+    "608101085d80224621edac045c3231a02b7153e9": "pound: add 2.7 bottle.",
+    "1ca07d74fc730a9913908e28030c2fb4c363fd2b": "pound 2.7",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d1a2bb3c32538bb35fc0489f4310949cee59d0a8": "Use Homebrew's pcre where appropriate",
+    "7c51a76f427fc224a29d9390be4575373d02082e": "pound 2.6",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "724b224b8e0d6983e265f0dbcfcb5e478beffb66": "Initial brew for pound."
+}

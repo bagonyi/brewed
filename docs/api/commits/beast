@@ -1,0 +1,18 @@
+{
+    "1df368c7d8bfa7d1e58e10f6a74ace06b7961ff7": "beast: update 1.10.4 bottle.",
+    "7674f616714573e637693023e6160013fc30fcdb": "beast 1.10.4",
+    "84efccc82d718a9496a36ffedf62637317020667": "beast: update 1.10.3 bottle.",
+    "f8826ca3003a1795276db78fa2c18d99a35faf5e": "beast 1.10.3",
+    "e4f44018f00f42a1dfeec737e9dee79723a4191e": "beast: update 1.10.2 bottle.",
+    "3b4d70d4197591315ab2daa31fea5f42574a6985": "beast 1.10.2",
+    "41ad3d38a47c48cf7002e66333ef89a0f92dba23": "beast: update 1.10.1 bottle.",
+    "72d9d7645148df7323447d979d93359dc652c838": "beast: update 1.10.1 bottle.",
+    "ab95a681b9332f593639c9d09db9fbd97c37cf1a": "beast 1.10.1",
+    "4f17a4691e8dedbace9dd180165258db9b2bea24": "beast: update 1.10.0 bottle.",
+    "011f3c42d181b4a4e9ab88b64b3a8791bda84185": "beast 1.10.0",
+    "3ce9b95e81f16ed98fd31724c662d3eecd44ebc2": "beast: follow redirect for homepage",
+    "478b1129a42a369fb8bfb3dc55492efe0fc4daab": "beast: depend on ant instead of :ant",
+    "a09b574d545fbed0714b41372bd66876ddcf53cd": "beast: update 1.8.4 bottle.",
+    "4f49bf68903cca6ea26c2e64ff0199eadd35a91f": "beast: add 1.8.4 bottle.",
+    "0d632ed5e037b291d6233efb5c7a56f2ec77c752": "beast: import from homebrew/science"
+}

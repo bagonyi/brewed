@@ -1,0 +1,21 @@
+{
+    "b566e7c6d4cbc8cd8d18f1f581b15f1cabea72f0": "deheader: update 1.6 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c3507011a4ec5bc43475e3236832d5c9a226bd89": "deheader: update 1.6 bottle.",
+    "295eaf5aa7c3ec22858935312b0954754d96c163": "deheader: update 1.6 bottle.",
+    "fe87686b8a766fcc3ec2c27a7f99309211fca039": "deheader 1.6",
+    "0f6234f8f37669464f732c2ea152c00a2a665018": "deheader: update 1.4 bottle.",
+    "c70a8ab58ed49c23a72ea8fdf126d27c8443b93d": "deheader: update 1.4 bottle.",
+    "2d999e1033f2692c2b8eb6c4b025ac8e1fe73e2e": "deheader 1.4",
+    "7a29e4a726337cb18d80b90ca66f577df7c0002c": "deheader: prefer berkeley mirror",
+    "57f9fb191f8e454046f5e6b3b097a2427a5f2c62": "deheader: update 1.3 bottle.",
+    "a1a930c31a7e587fe270e86113f091eb3d3fa9db": "deheader 1.3",
+    "efc5e6a8229dc1d99d0a6356cf3a8efcb48d6708": "deheader: update 1.2 bottle.",
+    "b6f7afbd9c5ec355f1ad3272116ce599d208791d": "deheader: add 1.2 bottle.",
+    "94c5ca0aba20cb3bcb82fa4826609ab13e28c23a": "deheader 1.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0030272ad88f574c18a6460ba51b9413ff8fd0a4": "deheader 1.1",
+    "3e729d360687b91a6c5eff30e859d1174cf9f522": "deheader 1.0",
+    "3d75f86ddbd2ecdc73b8b4e93ff38bc1b78e4a8f": "deheader: don't depend on :python.",
+    "18347838506f230ec2c5910555377f088d51b44b": "deheader 0.8"
+}

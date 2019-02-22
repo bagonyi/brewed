@@ -1,0 +1,12 @@
+{
+    "bd07ccf3520cf0132e693abe640c70a9f3098c98": "freedink: fix dependency order",
+    "e79f034e27947c779b8e962e60a92f02a8e0d5ee": "freedink: update 108.4_2 bottle.",
+    "6bb45708749e9ce1060285d0deb316cc429910dd": "freedink: update 108.4_2 bottle.",
+    "30fc9c842ed1c04af842b0615ecb6bc94c35b7fa": "freedink: revision for libzip",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "b0ceee46602455822c0adedd9b9dd82aa924bd81": "freedink: update 108.4_1 bottle.",
+    "e4a6a9d1aed458e2b53b34fa15a883d94c33fb95": "freedink: update 108.4_1 bottle.",
+    "913f26c604c1fc7a2f88d8218ba2062f5a15d62b": "freedink: revision for libzip",
+    "a88f3c4cea6f8e1e8f124281aa39384dbc73a96a": "freedink: add 108.4 bottle.",
+    "89b2d82defa415f8106b25010a389119760d198b": "freedink 108.4 (new formula)"
+}

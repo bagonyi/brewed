@@ -1,0 +1,18 @@
+{
+    "a9f278f5c1c628446c7609c449bebea1a61a09ac": "asciitex: remove references to pre-Mavericks.",
+    "47e41521e5944d0ff1c277aede237f9ff54b73c1": "asciitex: update 0.21 bottle.",
+    "a625eb941f48eff8eadfa31ab48847cac231c2b7": "asciitex: update 0.21 bottle.",
+    "6b516a912d41e0d35b13ec809ee8e7337215823d": "asciitex: fix audit about sourceforge link",
+    "58bf38d57cb0c7e38a053da03afd2da494d57c59": "asciitex: update 0.21 bottle.",
+    "829bf7bc9c23de8ab89900c056c514579e6d5508": "asciitex: update 0.21 bottle.",
+    "620c8585cf411c33f66155a7aad4eaf0cbdf50bb": "asciitex: add 0.21 bottle.",
+    "a6cb2a4e228ba604eb74cb9e5aa7e4aa442d2093": "asciitex: use pkgshare",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "0ab65cb48f8f16d02bc6445b57ccbf898c2e7501": "asciitex: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "742fe1bde1a6257d6481f6e5a73203152cdaf08e": "Be more explicit about paths in test methods",
+    "ac23653faaa4ccd6c3e92c2d216359de54930022": "asciiTeX 0.21"
+}

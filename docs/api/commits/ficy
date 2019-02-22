@@ -1,0 +1,17 @@
+{
+    "8cc29c9ed475f42ba7f4025d5abe99f5d958e880": "ficy: update 1.0.21 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "53626b9471ef5eea242d6e09ad3c8811f347399c": "ficy: update 1.0.21 bottle.",
+    "dd11fb3c07d047bb287b445c44fcdf3fa7c95a40": "ficy: update 1.0.21 bottle.",
+    "4ea4af8eb03c1a7d24913b19b8970869a7ff05c3": "ficy 1.0.21",
+    "b6b230eaddf04f6a4ce787bfd10398f9f83a87bd": "ficy: update 1.0.20 bottle.",
+    "3f104e8f10cc12aebb74912b5634ba12c24ad2f6": "ficy 1.0.20",
+    "a59a31ba790bf6bf58bed5a555b02189a6e826e5": "ficy: update 1.0.19 bottle.",
+    "561a706a946f732dc11e767a596027ba0d9d5a2f": "ficy: update 1.0.19 bottle.",
+    "6b205f5f3864ef18de647067c25d3673ada80da2": "ficy: use secure urls",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "754bf0acbfae2ba42d6a25ddd34d3d351216bc8a": "ficy: add 1.0.19 bottle.",
+    "13efbd4b1e059ee0f26c086fa71707b933d22111": "ficy 1.0.19",
+    "da9b595ed911e664b24ada545ac587feb0ab9f74": "fIcy 1.0.18"
+}

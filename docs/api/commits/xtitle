@@ -1,0 +1,9 @@
+{
+    "2d304b8b155e1083eef9354255bcd98398a92f86": "xtitle: change test assert_equal to assert_match (#3625)",
+    "f64b5d72af87666e6cc1130f0bff42202d244eb4": "xtitle: bottle unneeded",
+    "988e9c1e07b7676d5f3272457f010e167ef566b5": "xtitle: use https homepage",
+    "995866ff092d2bea7167d358b7d9e77cbb4c131a": "xtitle: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a548b4d2b2dfb058e2dba4a8b698e0b80f2b07ca": "xtitle 1.0.4",
+    "d48d0c9f38a33ea519b663db46e206789f883ea7": "xtitle 1.0.2"
+}

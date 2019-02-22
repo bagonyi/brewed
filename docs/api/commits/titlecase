@@ -1,0 +1,10 @@
+{
+    "26306583d2b4b1e163e2004c56c364cc38c0a4be": "titlecase 1.004",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "752275bdda85a5f43ffb48a373c27d30bc51841e": "titlecase 1.003 (#24594)",
+    "b5cc0d4607c23598c82f8e77d5234415e606f109": "titlecase 1.001 (import from head-only)",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8bea1715ab2e94ff6abe7323557c422645264a66": "Added formula titlecase"
+}

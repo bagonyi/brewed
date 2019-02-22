@@ -1,0 +1,22 @@
+{
+    "7be719fe7a77fac7262c41890e609d3fc11965c2": "igraph: secure url(s)",
+    "20c9d70c0d95211599370e3fbd55717280486d93": "igraph: update 0.7.1_6 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3388541ce8b304015376354cc8c077b36fc77098": "igraph: update 0.7.1_6 bottle.",
+    "53fce03ba893af0c71cb750589913b0e3d6f09b0": "igraph: add 0.7.1_6 bottle.",
+    "c7f285225194b4f0bc87d488ae7509f2cb23f10c": "igraph: migrate from homebrew/science",
+    "a8c48b9a9e0dc7a0bb196e09ba36217902553f45": "Redact igraph",
+    "bf632342dbb9f0c9ec0b7d5c0dfa81a36e0c6186": "igraph 0.6.5",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "08791f80427c6a867a15b1d6a6039dff9c0f32e2": "igraph 0.6.5",
+    "cdbf6558ea595d1bfb104d0243d214167f8c2522": "igraph: use options dsl",
+    "6137978f96a62be7ea81d0431449a21eda26998f": "igraph 0.6",
+    "af7db915bdae2df4935c1ae02819fb0eda855abd": "igraph: added patch to fix issues with llvm-gcc",
+    "99b61b9a238156e7490a20f63b4d1c699ee781a2": "Update fails_with_llvm in formulae",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d6c5445ff1dc63fb5ebb29bcde6aeb7fb0f3be5f": "updated igraph to 0.5.4",
+    "aa1df559d2f41164942f922fe43d85610dd97076": "Normalize SourceForge urls",
+    "8835fffce9099a7d6c9bcbbc998d58c4e2e0a099": "Fixing several formulae that fail with LLVM",
+    "23c6266fcb607107a9650fdb64109704efd961d3": "New formula: igraph"
+}

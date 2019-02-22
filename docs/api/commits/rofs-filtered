@@ -1,0 +1,9 @@
+{
+    "74291a6af67a6fc138938033d5087b13fc700af6": "rofs-filtered: update 1.7 bottle.",
+    "18a6fccf2a9de0eb61a0d12ac9b6b0274cb52a8e": "rofs-filtered: fix dependency order",
+    "7a44f894e383304007c40f8196fd9689424f05b1": "rofs-filtered: update 1.7 bottle.",
+    "597ccc87a6196d515960f812e3652e150021066e": "rofs-filtered: add 1.7 bottle.",
+    "a437531cf422b2ea36106c7e8874cce755a5cf91": "rofs-filtered: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "9f1edf921bcffd826dd8e615a4312139da717545": "rofs-filtered 1.5 (new formula)"
+}

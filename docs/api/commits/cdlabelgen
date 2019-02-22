@@ -1,0 +1,12 @@
+{
+    "c325bc5fe5a8a54750a343e1729cecca4c24db8a": "cdlabelgen: update 4.3.0 bottle.",
+    "aa803bd9b51f201ff9bb4a19d30de4490d9b6de4": "cdlabelgen: update 4.3.0 bottle.",
+    "83e42ce8babdfb4fa804dc208ec4c0504be46201": "cdlabelgen: secure url(s)",
+    "f9c6c8e75ab053cb0b32d7c495137e1b922218b8": "cdlabelgen: update 4.3.0 bottle.",
+    "6ba3dae5b72a54d6dd43fd9aac923e0f6ec7ae89": "cdlabelgen: add 4.3.0 bottle.",
+    "eff89eb858eb3e659d3f8605a61f64ee0c6c85ea": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "55f2beb33091cbca2c2901081439bebef64d819b": "cdlabelgen: remove boneyarded jpeg2ps dependency.",
+    "befc43a3f864b8bf751605a9d4f193c72eb6549b": "cdlabelgen 4.3.0"
+}

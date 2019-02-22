@@ -1,0 +1,16 @@
+{
+    "2c77c35a1390bcc62afe85c75cc611ec1dc9369b": "grace: fix dependency order",
+    "bd35bbd7dd764ccadeb11d1f9def4b52b3e3e34f": "grace: update 5.1.25_2 bottle.",
+    "d69b84f441ce69af1bedca3f4ee9b214f87ce92e": "grace: update 5.1.25_2 bottle.",
+    "aee8e09e9abe81d1e745cc14c88cc5c8b3134a18": "grace: update 5.1.25_2 bottle.",
+    "90b3670aca13310bda531b0a93d3d05b7ae476aa": "grace: revision for jpeg",
+    "d07536c3120320aec0fab725b5be47debf6c95a6": "grace: add 5.1.25_1 bottle.",
+    "a5267ef81750280da65a74bdd6d6e461b2179cad": "grace: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "3fa3f987b60b880468e14fa61a4edeeff4c7851d": "grace: lower optimization to fix miscompile with clang 3.4",
+    "e53da6320fe4d660ef4b5a14b64f0f6e5f0fd1ca": "grace 5.1.23",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "030f983202b411b53b007bfa55803b21e376b574": "grace: fix compiliation against libpng 1.5",
+    "60c01380a4a2c67f41f2c2ba32fe35a881ae9ac8": "Grace: Fix formula",
+    "f328a71391ce2c2c1889f407e0d2601d084c19a7": "New Formula: XMGrace"
+}

@@ -1,0 +1,16 @@
+{
+    "a07118c17d77b1f060d7cf04dd856600f72da695": "lsof: update 4.91 bottle.",
+    "c7f021c8a9f9e034c7968427be3da1f6e632f71d": "lsof: update 4.91 bottle.",
+    "16b58bfdd68f4acbf5df9309c476e6f065f9ba44": "lsof 4.91",
+    "28918343670940bdb2e6abaa45c8da26069609d9": "lsof: update 4.89 bottle.",
+    "bd45e1ef37a467fdfe39a5c4b7b587f3dd2f54b3": "lsof: update 4.89 bottle.",
+    "5f3f18d817026402fdea234023fbb7f8190c0ca5": "lsof: import homebrew/dupes into core.",
+    "57692a49601694254e09b5346219d4692b6fa943": "Remove lsof formula",
+    "1e76cb383549b1d017f4ccca4a655ca35e5c0fd8": "remove redundant versions",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "beb166545ff46338018695e3eb18881b8ffe49ce": "lsof - Change URL to a host that is more tolerant",
+    "9f4d7764b1c6bf39bdad4358b256e6b93a743099": "lsof bump 4.84 correction (sorry)",
+    "870a7d38d999fe76c3a79d13b4050b01c5d1049c": "lsof bump 4.84",
+    "454d1819e9f20adfaac505acafd9ef574bbe0fe4": "lsof bump to 4.83",
+    "1188e94c3b3b7da4d3124ea2a869fa3c3e08b2ea": "Add lsof 4.82"
+}

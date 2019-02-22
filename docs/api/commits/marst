@@ -1,0 +1,14 @@
+{
+    "78045fb5f360bd5d1d476797c2054ae4a8ca2dbe": "marst: update 2.7 bottle.",
+    "9c3b46bfdb1a2d350e1fffa10b614ff42013441d": "marst: update 2.7 bottle.",
+    "243dd686cca8d379beb5e03ac6c30dcec29a1393": "marst: swap GNU url and mirror.",
+    "46a43cb8fb903ae415196701d4b5a63ff9ed0e30": "marst: fix audit",
+    "57e9216b0801582fe071cb7e9ed67bfbbe4678df": "marst: update 2.7 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "baf9d7550e2c649f0faeebdb4fb02430a9e1663d": "marst: update 2.7 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "065cb3d4c992faca0dfc4cdce0dcb41fc5732938": "marst: add 2.7 bottle.",
+    "2f3fd703c23dec215da155e66c64e3bcee9746fd": "marst 2.7 (new formula)"
+}

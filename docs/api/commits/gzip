@@ -1,0 +1,12 @@
+{
+    "9fe967ad7a9d194b08c28a5b6816110fc23f2663": "gzip: update 1.10 bottle.",
+    "fc1c036cc1615c5c0e6f91b12782af5c16564404": "gzip 1.10",
+    "7ee8b075ae2b368baec589f95eb5f618a5e813f0": "gzip: update 1.9 bottle.",
+    "31780f997b428b1b4dde12f3f74dd1bc23153f46": "gzip: update 1.9 bottle.",
+    "36b221c4c5d5f399174abdcec47193ca50135872": "gzip 1.9",
+    "c4f3d375212b76737db414eb1914207b7a702dbf": "gzip: update 1.8 bottle.",
+    "96e0588c87dde349fc1886d49eb2ddf91caa9452": "gzip: %n crash fix for 10.13",
+    "e86b724923267688f6f6df54147dbd6e3c09e9f1": "gzip: swap GNU url and mirror.",
+    "28ff40def08dea34ef2faa6aa5ed0ef2cbee6e49": "gzip: update 1.8 bottle.",
+    "abee08e3689167767d9ad47672cad7504b5018c5": "gzip: import homebrew/dupes into core."
+}

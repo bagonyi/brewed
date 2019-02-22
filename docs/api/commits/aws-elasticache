@@ -1,0 +1,21 @@
+{
+    "5eb7e4acdfebd8e6ebae1523b176a685e6889dad": "aws-elasticache: fix rubocop 0.65.0 style.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c84aae97826d71cef10be61454559998b9b14119": "aws-elasticache: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "896f679671f8d76e16a1aa1325720c27408f9c85": "aws-elasticache: drop AmazonWebServicesFormula",
+    "36daffda8909dbe3fa451b67ffee538206985488": "aws-elasticache 1.12",
+    "27674ba4971fe9466e4d50699890e6773bb7671d": "Define install instead of making subclasses call standard_install",
+    "e1cd655b02c826b8e2e9d29ec4700522f35a0e43": "AWS tools: always install to libexec",
+    "5ef2862ec8f0bef11588a4492cc184267aeeaac0": "aws-elasticache 1.9.000",
+    "7bfbed266742fac0dc89daae778ccebce880db49": "Install some AWS packages to libexec",
+    "edba46d29469cca515af52cded2f3638eea93bb1": "aws-elasticache 1.7.000",
+    "f878cf3bec72cc19a313cb1c3d422eee8942906c": "AmazonElastiCacheCli 2012-03-09-1.6.001",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "162706dc9952d05ba36de4be21f0eea0078b6aff": "Updated aws-elasticache to 1.6.0",
+    "2f78de2be1f2e4bd0fb58d72e44f8d73af3e465c": "Move AmazonWebServicesFormula to formula_specialties",
+    "25d7abec465f7ddf57f30dfdc0e5035fa7243549": "aws-elasticache 1.5.0"
+}

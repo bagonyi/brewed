@@ -1,0 +1,21 @@
+{
+    "ec5220174127f87ed295086f0e19f5b465a3b4a6": "gnu-barcode: remove references to pre-Mavericks.",
+    "2c768ead453da8d61ff36f8a542b95a098532668": "gnu-barcode: update 0.99 bottle.",
+    "c8c04645c0f456b0825391d64e4504de67ff2d47": "gnu-barcode: update 0.99 bottle.",
+    "898cb2d0fae864a62dc0c00d5174c7368410a5a9": "gnu-barcode: swap GNU url and mirror.",
+    "a48199ce0177135149ce2b6521e02a063cdbd8bb": "gnu-barcode: update 0.99 bottle.",
+    "5a25e0de9a394b8f587bfc7a017a4405fdd32fba": "gnu-barcode: use secure url",
+    "97779ad3482ce852b15c0d53a930e9c74935be98": "gnu-barcode: update 0.99 bottle.",
+    "bb0366b6fa3e8dab7eee23f2a9fd78f66f40da62": "gnu-barcode: add 0.99 bottle.",
+    "4f9ea28b3b71f3b8c672f8bfc5ef681567d80304": "gnu-barcode 0.99",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "749c003715821c529c2d3e518290d76c1e6a510f": "gnu-barcode: https, sha256",
+    "164682182c75e32492a42fcdcf8ccf36e88b7936": "gnu-barcode: add test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "837599d38ad1977f7114e33f8e2364c296612b88": "gnu-barcode: avoid inreplace",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "790e4007aa4965a34bd90b2450d620f137915108": "GNU Barcode: update homepage",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1de0fafa3263eeac060b15fbda84070156d4cabe": "GNU barcode formula"
+}

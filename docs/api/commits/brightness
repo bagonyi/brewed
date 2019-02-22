@@ -1,0 +1,16 @@
+{
+    "a0dcc241a88a7744be1b09c019d2efc09b490fb1": "brightness: update 1.2 bottle.",
+    "84afea9054c7c99811bcbec7c9069e6dfe9cbe82": "brightness: update 1.2 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "8bb830a95ff5bf622eb24bc93abb1fefe40e4bc2": "brightness: update 1.2 bottle.",
+    "ac8a44315fcf97a400a4cb7cf63b10cb03f4461a": "brightness: update 1.2 bottle.",
+    "7fbe9ff90a95b83b0b3a80167c1b92ce4c108788": "brightness: renamed from \"screenbrightness\"",
+    "c5942bf4e943b469812556cd87a0e2cd142903f7": "screenbrightness: update 1.2 bottle.",
+    "fab6cb40d98a87ae3ff1bb8a01cee6c17987160a": "screenbrightness: update 1.2 bottle.",
+    "ddaccb1a8e2cb3ffde74d61e2be1331b565a9d78": "screenbrightness 1.2",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7e56b0dd4b717e3f1d90c076071b3fb75e02424a": "screenbrightness: add 1.1 bottle.",
+    "212b91ad7c51ed656083a464be69a2d188ba85da": "screenbrightness: add test and modernize",
+    "196231a0784453a371cbd8e34db5fa730281b21e": "screenbrightness 1.1"
+}

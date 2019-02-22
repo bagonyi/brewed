@@ -1,0 +1,14 @@
+{
+    "431a2e3d5bdb7c5e48d69970842c0b89bb05ce51": "naturaldocs 2.0.2",
+    "3564956333c86b070afcd7f0c49567414009286f": "naturaldocs: secure url(s)",
+    "9ba552f44f48cd457467c2472bfef4663a75b9e9": "naturaldocs: use valid command",
+    "c31eb44feec57bb8f38d0d5017ae768ef6cf2ed6": "naturaldocs: add test",
+    "a46c1e64fe37aecb5b7f949735f9f3cbb8ee5809": "naturaldocs: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "73385c8c5d0b11cce25802331fa5c0f44b6bb7b9": "naturaldocs: use install_symlink",
+    "bbc5c16c0a43899e832c4b8fb76b4032cecd2882": "naturaldocs: fix audit warning",
+    "d2788c31ea8942da886787735d18271029a6660c": "NaturalDocs 1.52"
+}

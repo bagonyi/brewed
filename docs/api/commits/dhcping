@@ -1,0 +1,13 @@
+{
+    "c451fc0492347d0e3b176323fdd3f4e458101341": "dhcping: remove references to pre-Mavericks.",
+    "ac19cf721691340f4827ffba98c88a2ba9695920": "dhcping: update 1.2 bottle.",
+    "fc2f4ddd0c216a7f28d78998cc0ae871de26a99e": "dhcping: secure url(s)",
+    "abdfc09931e6876024edb6d65db3ee5f798850f4": "dhcping: update 1.2 bottle.",
+    "d33073ff057c1bf6e0c97e8f1428658eac0762c6": "dhcping: update 1.2 bottle.",
+    "4281647ab9c3be9f012c189114506a2fd55c6dbc": "dhcping: update 1.2 bottle.",
+    "96a6512bd7ea3876a59fd6441dbef77fcb0b627a": "dhcping, dnstracer: add mirrors",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ad8b2536dee568fce61f6264e3c3a0a1c33c8b96": "dhcping: add 1.2 bottle.",
+    "6a1adad2cbd28d329eb977c5818c28c417f30660": "dhcping: homepage fixed",
+    "ee4961834a4b7e8ac228da731f60f81a8398188b": "dhcping 1.2"
+}

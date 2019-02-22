@@ -1,0 +1,22 @@
+{
+    "baa13a136da43cbaadbb8e75dc0c2b5462be70d3": "charm: fix dependency order",
+    "18885ef08be4210f80c61db90ad3007fa62ca491": "charm: update 2.3.0 bottle.",
+    "5a37d6d76e09ac81af8d6d6b7d61a58dab1ee11b": "charm: update 2.3.0 bottle.",
+    "3122f8f36016d73915d5accd53f33692d2e6e013": "charm 2.3.0",
+    "aa3d92ca7d4b0fe3edfb1e09be2d4f97384614ca": "charm: update 2.2.3 bottle.",
+    "9a4fa0ee6c45bf13f091850281839ce568d1fa9f": "charm 2.2.3",
+    "00a656fbda8bb9af372faee6b580115eacb34b3a": "charm: update 2.2.2 bottle.",
+    "c97ede684708ab00a1e56429b9f8b6d4438f0bf6": "charm: update 2.2.2 bottle.",
+    "dfa96dd1d98a9fd5d0c0649cc8406e727d055440": "charm 2.2.2",
+    "bd7a79e9c127e0240da3c2a5927a4977ca30af83": "charm: update 2.2.1 bottle.",
+    "69a9b41f71e582a6a4719ef42feb72fc5a07ad5b": "charm 2.2.1",
+    "4b0250b71cfb0851610369c6910cf9b9f0726a13": "charm: update 2.2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "b390e51c7d3939d0cfebd37f90ad6830c2704b99": "charm: update 2.2.0 bottle.",
+    "a46fa453927ac8c64f751fdaba2dcacfbecb8de4": "charm 2.2.0",
+    "0ee456260c1f1b8d4ccf786d0d0dc367c2954b98": "charm: update 2.1.2 bottle.",
+    "e73a1be66e3d7541b431d34245c554c85e369aca": "charm 2.1.2",
+    "a8736ab890d2e2e550b2245b40a0904aef95e836": "charm: update 2.1.1 bottle.",
+    "10ba53ef857e578bedb6bc1a22a61beef94fd4ef": "charm 2.1.1 (new formula)"
+}

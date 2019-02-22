@@ -1,0 +1,14 @@
+{
+    "47b30a51e1f6fd3b47972448a5de1011d2022e49": "ccze: update 0.2.1_1 bottle.",
+    "05333909288e7fb919d3cffa35939f8a571a48d8": "ccze: update 0.2.1_1 bottle.",
+    "03be5bfa8a2ead1a203c88360aab976c1681b297": "ccze: update 0.2.1_1 bottle.",
+    "0981fee03a3815b9e6c73228a6993b2c9180b2dc": "ccze: update 0.2.1_1 bottle.",
+    "9304e073f8b8ec5a3d8906f523659139060545ef": "ccze: bump revision for breakage",
+    "0a02e10fefcfd1e79839fa9c0892ee5d27bfc0b1": "ccze: Fix C pre-processor directive",
+    "a838919166b293524ad9a54e76d0f92070396482": "ccze: add 0.2.1 bottle.",
+    "58694188c8bc3784bcd927a2529cbcb5c93c9e73": "ccze: use secure urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a67baaee7e96f1a547aeb97bb8cb8b383b5e002e": "ccze: use patch DSL",
+    "b9c0bffa5ac8cbb9a08999a44b029a6267cc2ae7": "ccze 0.2.1"
+}

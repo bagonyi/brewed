@@ -1,0 +1,18 @@
+{
+    "1f74b228f6fba399d1e62d9ccfa7293a73cede64": "ttf2eot: update 0.0.3 bottle.",
+    "5b1402ed1da0f8e5fe86c207e676588ee63cd429": "ttf2eot: update 0.0.3 bottle.",
+    "ed91bdaff8c9acf1e2c436fabeb3c24281a75a1a": "ttf2eot 0.0.3",
+    "55319a77334c63d686478f16315fdf1d4be9c464": "ttf2eot: use assert_predicate instead of File.exist?",
+    "6afd38dbe76a70883609fd9465a47ddb001792a2": "ttf2eot: update 0.0.2-2 bottle.",
+    "75e7db79729decf7038af2b15b2d2d8a3bc63d67": "ttf2eot: update 0.0.2-2 bottle.",
+    "cdee55d1193005294688a6e1bff774644a8fffae": "ttf2eot: add test",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "1dd7791199e54df92624faca24ff4067d1d54be6": "ttf2eot: add 0.0.2-2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "993105e573fa7affdc99791f311eec57cd2b28da": "ttf2eot: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9ff4dd7d5cd885154b7ecd52b001eb87c34ab166": "Add ttf2eot"
+}

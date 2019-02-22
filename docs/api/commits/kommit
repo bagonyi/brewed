@@ -1,0 +1,11 @@
+{
+    "6f8021b5a8d62bef461403bea1d598e7e2213a84": "kommit: make `bottle :unneeded` (#33192)",
+    "c87c4a27a5453d38ea1c089c0c2f2e402b1d41f0": "kommit: use canonical repository URLs (#33106)",
+    "7c31694fea9da6ddb422506ac6b1ebf5ebc02856": "kommit: update 1.1.0 bottle.",
+    "5c325ade8a5ecdcef3626d3025d1345f39486a96": "kommit: update 1.1.0 bottle.",
+    "65c06d6985e889d3f935d23278112ea9266bdeed": "kommit: update 1.1.0 bottle.",
+    "7a9fe4b1f930a0a4784b456a654ea5fe9d85dff4": "kommit: update 1.1.0 bottle.",
+    "de4158329465fd5a0b70ae264383f83dbba9c5ed": "kommit 1.1.0",
+    "13d55d54b6d816b495ff8a003a6a34445b026a54": "kommit: add 1.0.0 bottle.",
+    "426e10fa9966e510189548e9d444f3b92f1361e9": "kommit 1.0.0 (new formula)"
+}

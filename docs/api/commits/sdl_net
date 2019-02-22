@@ -1,0 +1,19 @@
+{
+    "091a363cceedce4f387ebe41fe2a4d0249b49ae8": "sdl_net: update 1.2.8 bottle.",
+    "925c45f958f79196878a3da5b9fa76db9ac146f7": "sdl_net: update 1.2.8 bottle.",
+    "16edac99ed280d53ee4b3ebf870653d97f551a3d": "sdl_net: drop universal",
+    "d4318306ad9ce84d67e1bfbbf079d0720999a813": "sdl_net: update 1.2.8 bottle.",
+    "351af62edbf14b22e1bc72554c1f70fd6527cfc1": "sdl_net: add 1.2.8 bottle.",
+    "a1d64b20f284945b437ea40e82a3fb21c6b35cce": "sdl_net: use secure links",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "aaf23e0a2196d671f633c725636c2a02f980a930": "SDL_net: use options dsl",
+    "b81d01e23d9bca87d66aeae865a2aa39f3213b0e": "Update formulae for new XQuartz module",
+    "fc324ed650b3d88fffcba9bd343e7713fb960159": "sdl_net 1.2.8",
+    "d68d97bb4bf355cba8b60e739bd1a56e9691695c": "Enable universal build on some SDL packages",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "a65ef785757fc842f0072b476643bd4e1551024c": "Fixes Homebrew/homebrew#77",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7d25d9a18d54f20ea66ca5958da7c586bd270e74": "Formula for SDL_net library."
+}

@@ -1,0 +1,16 @@
+{
+    "0269e764286c45e6e67813364dac6810863095d2": "afio: remove references to pre-Mavericks.",
+    "69b55fe8b2eac9b9eac7e5aa86b3dd59cd81fde9": "afio: remove options",
+    "7185f5bd43bd4f9ed22a2bd3417cae667a4ec0df": "afio: update 2.5.1 bottle.",
+    "4e93ada97bb2caa5a674cca2438ef9e648cb406b": "afio: update 2.5.1 bottle.",
+    "75bb36e7243e5e2c9b769b8fff614635137ea805": "afio: update 2.5.1 bottle.",
+    "b49f234386cd2640de4574aca013c53c7561756e": "afio: update 2.5.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "5ed87b83547af1e58f57c6a8d6b5fbbf2a9232d1": "afio: head and test added",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "37821a06715e2349092e5e6e8a8ada9bb85e253c": "afio: add 2.5.1 bottle.",
+    "8bd56f0fb81c3b4ba2706600e26b0e72f0259d68": "afio: update homepage.",
+    "0396d98cd0c29649db44916480523d6d264a347c": "afio: use version attribute",
+    "116d2d74e286c66372f5f1df0d0fe92d69b801ca": "afio 2.5.1"
+}

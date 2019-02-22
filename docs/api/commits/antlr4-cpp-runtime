@@ -1,0 +1,14 @@
+{
+    "b3b2a242f08533350a4f30d8860a6dcc00f372e4": "antlr4-cpp-runtime: update 4.7.2 bottle.",
+    "6502a039aad2cd950071174d6415fbd6f0582e71": "antlr4-cpp-runtime 4.7.2",
+    "367682c356258c2ca063ac239a8fb73d97a7d319": "antlr4-cpp-runtime: reduce maximum line length",
+    "a599b1e6d17e94f50b081d3cb4bbb33cb9b34e92": "antlr4-cpp-runtime: update 4.7.1 bottle.",
+    "f9bd79e0aef334e5542991a58dc1b4227ed6f900": "antlr4-cpp-runtime: secure url(s)",
+    "6ce8d7ba6f38bde4dd1cd2e9aaa393bfad376d9a": "antlr4-cpp-runtime: update 4.7.1 bottle.",
+    "c6d8c53e795a650c7e23321ecec8836dbbd2c26e": "antlr4-cpp-runtime 4.7.1",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3aa0b187499c63ed9c3436b616e6edafafc16c27": "antlr4-cpp-runtime: update 4.7 bottle.",
+    "55e6ef94e1f8044126f90e762554e88a79aaaf97": "antlr4-cpp-runtime: add 4.7 bottle.",
+    "ad4821c67396acfa5f41b84a5ef67fcb1ec005dc": "antlr4-cpp-runtime 4.7"
+}

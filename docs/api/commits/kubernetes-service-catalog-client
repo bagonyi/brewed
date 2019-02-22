@@ -1,0 +1,22 @@
+{
+    "593e3abf3f42f75106a52717cb64d96c2d6dcd48": "kubernetes-service-catalog-client: update 0.1.38 bottle.",
+    "c1476366a4196b858a36c0987ae89234b15c63d1": "kubernetes-service-catalog-client 0.1.38",
+    "f6196ca6dfb81346f870a4074a7d459e266ca24c": "kubernetes-service-catalog-client: update 0.1.37 bottle.",
+    "26bdf7c8786b21146ba37874f9e4eba2d09ef50a": "kubernetes-service-catalog-client 0.1.37",
+    "d678576fe518101806c27f9bb5654e314cc6b15e": "kubernetes-service-catalog-client: fix RuboCop Layout/AlignHash.",
+    "d9d78616e6ca3ecdc193007b66fcdc813ca8b15f": "kubernetes-service-catalog-client: update 0.1.36 bottle.",
+    "180978ea2ab7ea7ee47633b0f630ad75f23921aa": "kubernetes-service-catalog-client 0.1.36",
+    "b833523d4015fff712043be31fd57b2f84183d5c": "kubernetes-service-catalog-client: update 0.1.35 bottle.",
+    "f5aa7454bf951cbf23313bb4dc18e5bc5cf30a39": "kubernetes-service-catalog-client 0.1.35",
+    "9a2f4d3e0e0871cfe3268b7754f2eaeea5f1d92d": "kubernetes-service-catalog-client: update 0.1.34 bottle.",
+    "1b200153ee67cbac0ba2dbc7c0cbf0e69e738aac": "kubernetes-service-catalog-client 0.1.34",
+    "8284b965126e1f0faff56f9a66222d1d89bd5817": "kubernetes-service-catalog-client: update 0.1.33 bottle.",
+    "917fe0735ca6189fbbf1816efa26d4e779517651": "kubernetes-service-catalog-client 0.1.33",
+    "544f0ff3be25fac1dcff71eea3b65446f7ed9b8d": "kubernetes-service-catalog-client: update 0.1.32 bottle.",
+    "10b30b9775c768fca245384bcc67ab43b613d150": "kubernetes-service-catalog-client 0.1.32",
+    "00de981b71fb4f8823f6d933ae69f82bf8843c4a": "kubernetes-service-catalog-client: update 0.1.29 bottle.",
+    "e1661edcde904e678742e4adeb82c8b010b01143": "kubernetes-service-catalog-client: update 0.1.29 bottle.",
+    "6eb918857baaaea3602553ed1ce600a476dca5b1": "kubernetes-service-catalog-client 0.1.29",
+    "4f70e6a133fc13f8ae050bdf10285bdf54b161fe": "kubernetes-service-catalog-client: add 0.1.28 bottle.",
+    "edb4344e662ba27dbc5c607648b02d518bf7ab2f": "kubernetes-service-catalog-client 0.1.28 (new formula)"
+}

@@ -1,0 +1,12 @@
+{
+    "be3f1da39a8ad4c0e2aecc7e933a8336c076f0db": "makeself 2.4.0 (#27187)",
+    "b8126d549eb890be5569829f91f1eaf4f8dace26": "makeself 2.3.1 (#16607)",
+    "5bad66deb21aeecef875f9393c0707a115144956": "makeself 2.3.0 (#9098)",
+    "c070e37908b8f7008e4cc3345419a4bfe43b7d15": "makeself: fully scope test system call",
+    "7c9d31e455a8c79f63b834dc060f06cfa3b708fb": "makeself: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "646b10e794b6003183fcf61d82433a44ed0b10b3": "makeself: general cleanup.",
+    "2741b8053813f8ef039d666fc98a3afd76c6c320": "makeself 2.2.0 (new formula)"
+}

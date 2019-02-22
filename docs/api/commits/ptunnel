@@ -1,0 +1,18 @@
+{
+    "7611bf6bdb612e2d04d57703e1bd06f69a7eacfa": "ptunnel: update 0.72 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "423cc6b641be1a5eeadd154b1f94552df798269d": "ptunnel: update 0.72 bottle.",
+    "4bd2fa195ac17ed4b5cba996e19273997b0e5315": "ptunnel: update 0.72 bottle.",
+    "57865eac6161d2d22111e215045abe1bcf8d0ca0": "ptunnel: update 0.72 bottle.",
+    "d95f90e4005cdab7981374c0089adc8652e0350e": "ptunnel: use https homepage",
+    "6f301713d0f70f61dbcf4ea55330adf6477389b3": "ptunnel: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2a584c8230ba1c9183ded43ecbdb55b8d86c2884": "ptunnel: add 0.72 bottle.",
+    "9d373bbf8e723c16bdba5315a7431974031621d2": "ptunnel: test added",
+    "6a9aa6cb075f728be02f9c9915cc2aae9243d2a7": "ptunnel 0.72",
+    "1e76cb383549b1d017f4ccca4a655ca35e5c0fd8": "remove redundant versions",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "4bfbaf677b0ce65bc76c3c000510122be03e7be6": "Added ptunnel formula."
+}

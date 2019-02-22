@@ -1,0 +1,18 @@
+{
+    "7ca05a5d004ba9a0d03a5fc77366b8c3503f103a": "ssed: remove references to pre-Mavericks.",
+    "d7e174776fc8c6a7ae1c5de46a47c389d9a41721": "ssed: update 3.62 bottle.",
+    "a2832737734d54bd497ebdc1e2d6dd3892dd7dc4": "ssed: update 3.62 bottle.",
+    "0c19723233454ab818e6c9ac4befbbbcf5a1abd7": "ssed: https url",
+    "462093c3d597fdfa907090209e825c9bb03dbb9d": "ssed: fix homepage link",
+    "0c6dd990e772fb2ca84df1a221bd2570eb67a89e": "ssed: fix audit about sourceforge link",
+    "0cd16f69c030bba0da9ad3d309a780b70c4de317": "ssed: update 3.62 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "237e920d632b6f220c4062c0b98a934fa56c018d": "ssed: update 3.62 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3e36bb351b08186bbd95854be9945f780c3b78b4": "ssed: add 3.62 bottle.",
+    "96f2a6439f0dd1a395921edae25888fdd3a58367": "ssed: test added",
+    "fe8615336abe71328413c8845cba903ef57bd23c": "ssed: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6e7feca3581d26f7a7cb6e068e59dccd4aec9a78": "ssed (Super Sed) 3.62"
+}

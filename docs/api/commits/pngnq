@@ -1,0 +1,21 @@
+{
+    "3b03499f4a396121e7fb579336be097ba5fdc335": "pngnq: update 1.1_1 bottle.",
+    "8f7a5e6689736907a63ef7d2b09b3e3db0ce018d": "pngnq: update 1.1_1 bottle.",
+    "f032aeca47af4b191f7b5c3f46a8fb77dbbb3af6": "pngnq: fix audit --warning",
+    "c46d8145c4beb2fbfdea7aa6b4b1e278b6d49562": "pngnq: update 1.1_1 bottle.",
+    "f6ccb2f8fbf21a3d446e810ad38c6f73dfcec995": "pngnq: update 1.1_1 bottle.",
+    "a8d58d9ab7718ce4bda0fcbad2e8e5cd8acb7895": "pngnq: use secure urls in comment",
+    "0f1f1f1fc5ad1100f633fb4762046ec37357c9f4": "pngnq: add 1.1_1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "63ebc2defc47a4347f5b818f75e10eb579d6fe0a": "pngnq: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "92df0af1f67e24aa04406b68127c1469cc675258": "pngnq: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "9b86f22435541a6126ab8021c8860787f6cec163": "pngnq: fix compilation on Lion",
+    "b4e14487e319941b7c1032e7accf2dfb3bbcc2be": "pngnq 1.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "0deb23243727fe3ed7d2503e562c02b987e8afa9": "Pngnq 1.0"
+}

@@ -1,0 +1,22 @@
+{
+    "9d7b84acb26abfd9a4c10ec1f3c1bd92bf65cf4a": "frei0r: update 1.6.1 bottle.",
+    "b6e9d7dbb307f846589d3d008c861efbc16ffdb5": "frei0r: remove options",
+    "025062c51a5ec1eab3a9253fbc10d42f95026f51": "frei0r: update 1.6.1 bottle.",
+    "e083c75125cfc0cd9069b17dce320908756c9d9e": "frei0r: update 1.6.1 bottle.",
+    "c547d81a9b17b6b5646932d53eb99e6ed878183c": "frei0r: opencv@2 dependency has been migrated to core (#17113)",
+    "1abf32f298092a6f7785b2aa6cee70c743d21ce1": "frei0r: update 1.6.1 bottle.",
+    "ea39b2f5a58db79ab6bde0efbb43c452ec94c2d5": "frei0r 1.6.1",
+    "ceb0e87afaba21e13c75008583cf4bc2d4aceb69": "frei0r: update 1.4 bottle.",
+    "016e5041aab9b9db10f32b44abbafd16ca135b9f": "frei0r: add optional cairo and opencv dependency",
+    "a72505b1bcec6169b61ccc1abf1c8568c8fe1169": "frei0r: use secure homepage",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "17e1fad9f15791fbaecaef16dc5bddb2c199acc0": "frei0r: update 1.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "64d264cc89ac9c53d6dc5e4330d6df6e4c99f4d5": "frei0r: update source file URL",
+    "184e0c874adb7f4b9ffda64b5b679091889b3810": "frei0r: add 1.4 bottle.",
+    "c01548e4df6eec6950c3afda154fbac994e22384": "frei0r: fix audit warning",
+    "eb7a8ed7d5578f9c62388e6b094115f750708189": "frei0r: use brewed autoconf everywhere.",
+    "06c8b873baa7ab09d51e1c90b25fde98a53f8cd4": "frei0r 1.4",
+    "6fd115f27e5043affa29f46d642accf506720954": "New Formula: frei0r"
+}

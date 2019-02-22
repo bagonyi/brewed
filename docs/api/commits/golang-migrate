@@ -1,0 +1,16 @@
+{
+    "1cda0355abc490136149f5372556d8de65593c99": "golang-migrate: update 4.2.2 bottle.",
+    "594fb7a06310b168cb446f84b7a79549590a0851": "golang-migrate 4.2.2",
+    "312a35a88ea53aee98e5ce49720938848f844dad": "golang-migrate: update 4.2.1 bottle.",
+    "972a6a4dd6766791bb3b9545684efb7b664da1d9": "golang-migrate 4.2.1",
+    "548ce013c1bc5e45d0176470b77dfc98219376ff": "golang-migrate: update 4.1.0 bottle.",
+    "cd132eb9c178f276d6bdcbe108f9cfa97fef1abf": "golang-migrate 4.1.0",
+    "0bf763192b6718d8f010a2ffc3dde241d20e665d": "golang-migrate: update 4.0.2 bottle.",
+    "4e7219b273cb12ecd4c113a5aac5ff1e19b80a1b": "golang-migrate 4.0.2",
+    "8915b29f3a0fedb66fe23223a6d048e4f9958171": "golang-migrate: update 4.0.0 bottle.",
+    "5f7b424c5ed9ac3e7bdbb0438c2e7620dfa37b6c": "golang-migrate 4.0.0",
+    "5c78b7b5fd48ef45a6e23e4133bd39d0c1dbb56e": "golang-migrate: update 3.5.2 bottle.",
+    "e3ea7cbefcd578b5561a060522e3ad1a9ef70667": "golang-migrate 3.5.2",
+    "58be17b0034491d85142eef969146be843411f63": "golang-migrate: add 3.4.0 bottle.",
+    "cb71b547926fd225f44c3051b6ea3429278a96f5": "golang-migrate 3.4.0 (new formula)"
+}

@@ -1,0 +1,23 @@
+{
+    "4897dc52a52ff68dbc057adc3e74e0ef753b9557": "gitfs: update 0.4.5.1_3 bottle.",
+    "6a8dac2da8b640e4be6977a7064e8b7d5b11adcd": "gitfs: move to Python 3",
+    "77145171a0bc6070a13580b3c9c15c98a6fc5b80": "gitfs: update 0.4.5.1_2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "8eb2ab35fa0fa53e1da67c277bb945e307177cb6": "gitfs: depend on python@2",
+    "759e1c5afbd99a16b3b327e698eac5c6028f169c": "gitfs: update 0.4.5.1_2 bottle.",
+    "046905e5213210adbdf78c93ebf5d79b31dec86c": "gitfs: revision for libgit2",
+    "b29a6c24834c8bf2b91b91cdece733aea8a8dccc": "gitfs: rename python@2 dependency",
+    "7a5dfb0f66dfc10c6a35e4cfa1a1a71357e4eaea": "gitfs: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5d39b8f02da3cfb076ce0365c6f1c8e6b75d005e": "gitfs: use assert_predicate instead of File.exist?",
+    "a2d4addbbb38ffadbb07b98b0148faacbb2b42ae": "gitfs: update 0.4.5.1_1 bottle.",
+    "2a7969cffaca900dba7aaa0dec71b7f913f00f6c": "gitfs: update 0.4.5.1_1 bottle.",
+    "5d8a016c480d078c68814a8ce63ec5a75f6e2a5b": "gitfs: revision for libgit2",
+    "add1d92e9f06457912e1499f6c0e84ae556134e3": "gitfs: add 0.4.5.1 bottle.",
+    "4e2de000931dec6eb14c494bc4c078e273e13e54": "gitfs: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "658e85f829ebb31000742a6b2ec4177a75cde5f7": "gitfs: update 0.2.5 bottle.",
+    "87df9efb7c4fd7fcf3c360fe40dc72b0695e6e40": "gitfs: fix for libgit2 0.22.0",
+    "e4753ee245817088824aa91698196d344fdfad64": "gitfs: add 0.2.5 bottle.",
+    "76e697475f1b453165b493859ce8d1b2e3ca009e": "gitfs 0.2.5 (new formula)"
+}

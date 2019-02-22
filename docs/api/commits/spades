@@ -1,0 +1,23 @@
+{
+    "5b3511420bb02a9096042328107546cb9cb94046": "spades: update 3.13.0 bottle.",
+    "b223e9af3bcdcd45f65a34bf47c613679067ea48": "spades 3.13.0",
+    "8eb51d458073a33827beef36802356952939c925": "spades: update 3.12.0_1 bottle.",
+    "52548bf37c877c094c615815bb42dcb0524e1c9e": "spades: use system python",
+    "c2b8de9d09c26150b974c6ce5c30e6566630f706": "spades: update 3.12.0 bottle.",
+    "ff9613d9e75c35b1a9ac2b33bdc82b413a5193fe": "spades: update 3.12.0 bottle.",
+    "32b1e50cd87b45385a504d5b56ec123ff026aaba": "spades 3.12.0",
+    "73ceb2b1a82be213607ee80e7d37cb89f0552212": "spades: update 3.11.1_3 bottle.",
+    "a4f51428e10042e218915484b279a02979f4b937": "spades: patch and revision for gcc",
+    "f0f7fd19691abef4fbe402723dcb8fd86c68f48b": "spades: depend on python@2",
+    "8e98f04c3b775294debee0c903b6e315cc97e3bd": "spades: rename python@2 dependency",
+    "1dd7985e15a957beca9504de8402051c4e0cdaab": "spades: update 3.11.1_2 bottle.",
+    "9397858ccc76a9224668d896babe447c3a61b135": "spades: phase out :openmp",
+    "21060f7677c23117905fb9943b274fbed25c1626": "spades: depend on python instead of :python",
+    "27e827c8e7ea61207bee933459a09b0abac8081c": "spades: update homepage (#22220)",
+    "d24be8ac33a35adc07896fb7dd86258baa3c68ba": "spades: update 3.11.1_1 bottle.",
+    "2dce08e2a67f3dba710e1b9e154a8f05d4c79840": "spades: depend on gcc",
+    "d197fd5133f44aff6cd0c1a9240e6977c29238da": "spades: update 3.11.1 bottle.",
+    "08d104f4126b2d8eb47025e501d5e5d8c38c8ca5": "spades 3.11.1",
+    "2909bf0ed69a5956d1ac259242c188089525b497": "spades: add 3.11.0 bottle.",
+    "085e1ac5d6d85927119efaac4b3d0771e478c7f7": "spades: import from homebrew/science"
+}

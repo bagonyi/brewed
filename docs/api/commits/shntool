@@ -1,0 +1,16 @@
+{
+    "53f920c860e7754c75fe3aea6ac9c6c6d42b0571": "shntool: remove references to pre-Mavericks.",
+    "cac7bbf67ce60e605f9c2c8086ba77c691d1a2d4": "shntool: secure/fix/follow url(s)",
+    "433fd3e46e35c52ece93c3510895171df98210c7": "shntool: update 3.0.10 bottle.",
+    "92d81fc66a00813f958088d4c87010883b0d8204": "shntool: update 3.0.10 bottle.",
+    "1167cce6ddff4fcddf0002bc603fda8d029779ef": "shntool: add mirror (#11790)",
+    "766e9efc86aa5cab5e42730d56fab382f69afadc": "shntool: update 3.0.10 bottle.",
+    "3992098ab2e49761443601ac3f5fa9d2acc61d99": "shntool: update 3.0.10 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9e6e106050b68f647d32e59a522e9fa85bee3f35": "shntool: add 3.0.10 bottle.",
+    "1ba45ac4de7b27865491372e6b2902be480362ca": "shntool: test added",
+    "935bb99a49c57903184291258c500c1cbf801715": "shntool: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bed6969e61f7d8a7357e09abbe60429ba92b2cb": "New Formula: shntool"
+}

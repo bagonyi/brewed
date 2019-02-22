@@ -1,0 +1,13 @@
+{
+    "efe2d9d68384be50b6f0a16ea7c7da524bfb7f9c": "less: update 530_1 bottle.",
+    "150cbefc66d1aba888d2cc3586839862bbde3565": "less: remove options",
+    "851d7097f1519d3aeb145eb3e69e404f5ac73ad8": "less: update 530 bottle.",
+    "06a06708ba4ea6ec47fad0917b8351a6da19d78f": "less: update 530 bottle.",
+    "13064ec87e72983ebb4fb104d524d1d3d3c543f6": "less 530",
+    "36d7282f90bed21829816d9a6f78de351689f2b5": "less: update 487 bottle.",
+    "a8208481dbf81443b3d6e240a6f19ebb7cbc085b": "less: swap GNU url and mirror.",
+    "51aa94d9cb67f490010ceeb433cdc347f9ea1117": "less: update 487 bottle.",
+    "c51a7523f905bc4409c2736588801e6c5700da99": "less 487",
+    "4245a072f672825eb551929ca03f8c457f2c9567": "less: update 481 bottle.",
+    "e9724275455926bd151e745f5da44e796ccf1781": "less: import homebrew/dupes into core."
+}

@@ -1,0 +1,18 @@
+{
+    "2880bb2efd6b00c4feefd1bcf1f324da61e25351": "nlopt: update 2.4.2_2 bottle.",
+    "b63151fa18fdf8af6f80c569275834fee55dc232": "nlopt: remove options",
+    "702aedc7355cc315ba788261011ca8cf572124ae": "nlopt: secure/fix/follow url(s)",
+    "b5323c2118aec1a4abb42c2aba3f529f5414fd33": "nlopt: fix test",
+    "6a9dc86bb96581deb812a964e0ebe98ac17f4bc1": "nlopt: update 2.4.2_2 bottle.",
+    "b720470429a1e443ca8fd89a2c682cd7ba77b225": "nlopt: secure url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ce34e55c74a8449c4456a4fb92cbc690951812bc": "nlopt: update 2.4.2_2 bottle.",
+    "40aa5037234c73a2fd321aa835abe7f72311b182": "nlopt: make numpy recommended (#17091)",
+    "47237be919289740754fc42da0fcb7846a4f75ff": "nlopt: add 2.4.2_2 bottle.",
+    "78a33278045af005bc21baaa971e3c902fba0c3b": "nlopt: migrate from homebrew/science",
+    "9bd28407c9c4da8e4b93d1b5f51fb28940bfb0ab": "Move nlopt to homebrew-science",
+    "090d39f112483c0807fa647f6df053c1eda5e8f6": "Updated to version 2.4 and added c++11 option",
+    "6532676e41ee6c48e7025457d12166c0dc8687c8": "nlopt 2.3",
+    "5ad01c3f71dec934615df191f30fbdc6b5da39e2": "nlopt 2.2.4"
+}

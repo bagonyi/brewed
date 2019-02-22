@@ -1,0 +1,11 @@
+{
+    "6ca78aa85cfbf18ff03d2382b1c78436827cafd1": "telnet: update 60 bottle.",
+    "7bfcab22ae62b477938f1373e57a670ace9dcf42": "telnet 60",
+    "1c57f7d7a06e0da5308648c90957280d525f8ddf": "telnet: remove more keg_only reasons.",
+    "f655eff8202bafa2d1e332e7ed5291a31253f0c8": "telnet: fix audit (#25937)",
+    "166561c74b604691e47b45c803a82104625588a4": "telnet: update 54.50.1 bottle.",
+    "105e35b524d97064e8723c4f7d8d9e82d5814600": "telnet: add conflicts_with \"inetutils\", fix build",
+    "d01c24833168bda59ae456db942f30aea1d273cc": "telnet: update 54.50.1 bottle.",
+    "4ab6295f4d68090a736ff01ec3a202391b842899": "telnet: add 54.50.1 bottle.",
+    "52c1294f7ec9cb2a1cbdd1a88a490af3b6584e60": "telnet 54.50.1 (new formula)"
+}

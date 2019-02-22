@@ -1,0 +1,14 @@
+{
+    "27244ebacae383cfb3c3343889fe18901cbfb38b": "openslp: update 2.0.0 bottle.",
+    "4bef99d6a346abf004ce4fcb0c66a37293255479": "openslp: update 2.0.0 bottle.",
+    "0b22199eeeea5431ea9f4c82ef1d933e8f0a8601": "openslp: update 2.0.0 bottle.",
+    "b8a1bd4783827902a93c7a0845886389c6029706": "openslp: add 2.0.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "69c62987cb9d6b48431048763be2251236469e95": "openslp 2.0.0",
+    "676d0e38a79966bd704e4d6d2a8b7920a3c4cbf0": "openslp: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c807315895ec3283408c65b0e3cd4dea8633e436": "openslp 1.2.1"
+}

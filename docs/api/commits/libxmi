@@ -1,0 +1,18 @@
+{
+    "075f774f757f1e043a1865472cabf2e4eb9cb6ab": "libxmi: remove references to pre-Mavericks.",
+    "442e0a38e91b999dddc3600da042aedda34003bc": "libxmi: update 1.2 bottle.",
+    "43f34d214cf786a3cfd9925936f50e450a91e374": "libxmi: update 1.2 bottle.",
+    "040502e78b488c7320b71e792897bb125afb077a": "libxmi: swap GNU url and mirror.",
+    "b1ef966a5c4b4e707fc683b3a268a9d4f31f0121": "libxmi: fix mirror (#11702)",
+    "2628d76829ccf8ea1ca2cf144c48d7e21b45d4ff": "libxmi: update 1.2 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "899f5996ea4421a5aa5407099bd11aa845e955e2": "libxmi: update 1.2 bottle.",
+    "f3913839361911e0bb188177e95295993c263507": "libxmi: update 1.2 bottle.",
+    "30d078f2b0d73fd0805bc67f6a8a0017ddc279d5": "libxmi: use secure mirror",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "64b4ac66340563bb17090dde7f2572643688b5df": "libxmi: update 1.2 bottle.",
+    "3f5835cd63a17cc3183911c4cddb314108e9b15c": "libxmi: add 1.2 bottle.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4f35571bc12e9198a28185870729df3f8abfdb89": "libxmi 1.2"
+}

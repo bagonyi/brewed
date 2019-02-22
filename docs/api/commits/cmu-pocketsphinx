@@ -1,0 +1,16 @@
+{
+    "34300c47e0be57371540ce1c49d63c3b6dd7c98f": "cmu-pocketsphinx: update 0.8 bottle.",
+    "c46fd519b60f4f095efca595101f7b9558125e94": "cmu-pocketsphinx: update 0.8 bottle.",
+    "c7566c2c2441acde8904d1ddb9dbf932e116f5b5": "cmu-pocketsphinx: fix audit --warning",
+    "7870d9914b8f4c548cb692d3e878271bff78975c": "cmu-pocketsphinx: update 0.8 bottle.",
+    "6bf6ee7b1b0c2e0489a53643a78d3c4c41017f83": "cmu-pocketsphinx: add 0.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "81dd912027f9b223db3054a0a1d07a9a5c13eb64": "HEAD option for sphinxbase and pocketsphinx",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "53ba10d933ac062de89dfc66588e41e2388f2903": "pocketsphinx 0.8",
+    "4100acccdc65d72328d8f7705e7554fc4e1bfb90": "pocketsphinx: fix compilation with clang",
+    "dfc28d4aa2a94cf561ab29dbd648cb58be6b321a": "pocketsphinx, sphinxbase: update to 0.7",
+    "47218cc85e1bc9e7a70c99f667d4349667555140": "cmu-pocketsphinx and dependency cmu-sphinxbase"
+}

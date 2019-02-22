@@ -1,0 +1,17 @@
+{
+    "5d3a53fba75e0cb22d2409121b88e0c9bd8f65eb": "radamsa: update 0.5 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "cba77ffd37526f02d12628fc51de6c5c810498c6": "radamsa: update 0.5 bottle.",
+    "c5bab130156e67d1346129a3fe5602a96b1ff292": "radamsa 0.5",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2becbbcf778c772d92f5f9e92c0f5b7de19484a6": "radamsa: update 0.3 bottle.",
+    "8c09c5a6968d5e76309314f5c4e4bdfb364d94d2": "radamsa: update 0.3 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "2e8eef3805a114cd45f5d1056cae1c8d34cde19b": "radamsa: add 0.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "c1601b7422d1765b2e9010755e0a6b6db6347f71": "radamsa: fix desc syntax",
+    "894afb0239c4625515b91d428fceac1ecaaec5ba": "radamsa: avoid unicode char in desc",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "08d4d779a8220019dd2f4fda6f67f6b674f0f8fe": "radamsa: use full path of executable",
+    "d27c8c967f8491b94ff0f53e8a72d088b7399953": "radamsa 0.3"
+}

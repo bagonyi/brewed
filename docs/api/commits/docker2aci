@@ -1,0 +1,13 @@
+{
+    "0a3b2ca7ef31df05fda0a7343a0bffc0a680694e": "docker2aci: update 0.17.2 bottle.",
+    "857ea543e73b35981813800bc1203b0a306fd265": "docker2aci: update 0.17.2 bottle.",
+    "b1b56ddd063a2e661ef0c96b305b7c8ee03b057d": "docker2aci 0.17.2",
+    "f2f9f909927cf4fc050367c579a7a124d45c69ad": "docker2aci: update 0.17.1 bottle.",
+    "002ab97a2536c15c4e7748f6feac3c19fb247880": "docker2aci 0.17.1",
+    "8c64aba0892addf7e2e0e6f68ed27920cc316161": "docker2aci: update 0.17.0 bottle.",
+    "b6ca756b0e7fff7a092e835fd036901a8e6c25d4": "docker2aci: update 0.17.0 bottle.",
+    "33239ff0ece2c61c49802d02adb9a8772edbc813": "docker2aci 0.17.0",
+    "10c135adee86c536755e9c39de03f7b7024ec270": "docker2aci: update 0.16.0 bottle.",
+    "0d513118d0fa29946e2c3ed0d4e731f28c0bf253": "docker2aci: add 0.16.0 bottle.",
+    "ee2a60b0c50bdc9518ca7fda97eb0f137b21e9ce": "docker2aci 0.16.0 (new formula)"
+}

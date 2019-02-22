@@ -1,0 +1,23 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ea0333a73844e2adb5287d40b57c74b434f93810": "css-crush: bottle unneeded",
+    "57df6e11787245564c5b9fe6f8b6330277f00115": "css-crush 2.4.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8d4948bbbb7f07a9ea9f6645f4eccd8e3aa63f3a": "css-crush 2.3.0",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "47f3a128ddc3c3c85419b96a9b73c49597625923": "css-crush 2.2.1",
+    "2595df9d3fa4a7ec90cdd5fe3f95127c46d39a3d": "css-crush 2.1.0",
+    "0951febe08b3e5154ae58d72e7684b770f7168ce": "css-crush: add test",
+    "ac1b87652818ef7eeb31f2eaed85617161bf559c": "css-crush v2.0.1",
+    "b324bd4c3d40029813fb96bbcc5f307147001f00": "css-crush v2.0.0",
+    "b41771a74666568d0082199f3ea83a911ec5f2e1": "css-crush v1.11",
+    "b66d50bed5c751c758c6d91bdbd528997dc05446": "css-crush v1.10",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "ef4d25e7320ebe74d998198d2ff567fdfc51eaf5": "css-crush 1.9.1",
+    "f65c2ab6a6f05eef2008da029c9761cb69844907": "css-crush 1.8",
+    "499908cf5d54b10558c19dc1a51e46e66cf23fba": "css-crush 1.7",
+    "13afdcec6d9cd892781c1a13ce9d8023397f73d0": "csscrush 1.6",
+    "78976924945b63e83604748e921be8f0ab273325": "csscrush 1.4.1"
+}

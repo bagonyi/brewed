@@ -1,0 +1,21 @@
+{
+    "3a553a7871321b59b90e99c318c682079fe0f757": "sdb: update 1.3.0 bottle.",
+    "a2d66c34cd4217b7e17ed0147927e5cce7d9614e": "sdb 1.3.0",
+    "ec8dca274cbb4ae2502595551d044181905d570c": "sdb: update 1.2.0 bottle.",
+    "1bd026578bc5a8620c5eaa80c4518222a9899713": "sdb: update 1.2.0 bottle.",
+    "82726a7ea8c8899dcb1bb5299b848d267763396c": "sdb 1.2.0",
+    "cd896941d5408d5fc01b6f991aaadd1236c6e132": "sdb: update 1.1.0 bottle.",
+    "ab462df0413eb5aed90aeb3f371b7357a402770d": "sdb 1.1.0",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "fe4f684c0e1c0696d2060756bc3abe49d5c8e19c": "sdb: update 0.12 bottle.",
+    "0230813c309165564b7d5bfd4b90d1fc69989880": "sdb: update 0.12 bottle.",
+    "b270e6f667964269f6d6a5536516e0420f643857": "sdb 0.12",
+    "38e59e6be4e29538486a74c84323ad19fc40ce40": "sdb: use https for stable url",
+    "7660e272e1d54a0f5846bb9c3d23727765639396": "sdb: update 0.10.5 bottle.",
+    "3cddb8847e1829a33a644fcab0ecd55eb5aa3238": "sdb 0.10.5",
+    "14b0d601fab5beb1860d664ea91b96d6648a5507": "sdb: update 0.10.4 bottle.",
+    "348c158d0e2d8782d162e049006ef09caa088166": "sdb: update 0.10.4 bottle.",
+    "8775d80ee24e87068caa62e6d60a226e2638c59c": "sdb 0.10.4",
+    "e7187489ce18168f6190663ae4a5998acd7c28d3": "sdb: add 0.10.1 bottle.",
+    "532979357e383438a11f6bb572ab29f7785cb463": "sdb 0.10.1"
+}

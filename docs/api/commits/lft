@@ -1,0 +1,23 @@
+{
+    "076585d278ceb7516792a460b430ed6b136274ae": "lft: update 3.79 bottle.",
+    "45c2fea62c1b6e447fcefaadc73d03ded476b1a5": "lft: update 3.79 bottle.",
+    "7f22b03aa504189c20ee6eb904332552fb20e531": "lft: update 3.79 bottle.",
+    "3dfc12c4bb0e692659425bccaf83ab83c04685fc": "lft 3.79",
+    "7c32abe793705e9b8fd3226759f4da48f8292211": "lft: update 3.78 bottle.",
+    "be66fa8c1108f6d9acc0f04edf42556581b5d801": "lft 3.78",
+    "0a4818bb4b7f832ad1a0a8ef41c2a511088e12a8": "lft: use https for homepage and stable url",
+    "faa1e3260c178bca37b41f6f25fdf0fa6ccfcee4": "lft: update 3.77 bottle.",
+    "672fd92232f3f8361816ca69d8dad9e9ec37da27": "lft 3.77",
+    "178c58cd4f35e94942cb9f0f59c72226e62e39a4": "lft: update 3.73 bottle.",
+    "35baeb28b1d1657ef1a8ec1cbc8f201c11c938ca": "lft: update 3.73 bottle.",
+    "2a530b38661cadfa7181cb43d83fce3403546d5a": "lft: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "26cc33e0aeaa93ec105b4edf65c59f646f7a70fc": "lft: add 3.73 bottle.",
+    "480e41b02b3cc2e71e36a74b92c04e3629194742": "lft 3.73",
+    "86868615c239a2d9fc965ab18a133fc3bb555a2c": "lft 3.36",
+    "5dbb028fd7321f5f6738575b32d43a7d3e0f1ea8": "lft 3.35",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a23149c060873b317c4c76e6a2870361724ce2d3": "Added forumla for lft (Layer Four Traceroute)"
+}

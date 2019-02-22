@@ -1,0 +1,21 @@
+{
+    "0a8ca632cff175eb5931c02737f6b578d05b2e47": "mp3gain: update 1.6.2 bottle.",
+    "54bfd48368878e676ec22f2e7a06b47e399c73f9": "mp3gain: update 1.6.2 bottle.",
+    "765bc15b409081eb7fb7345898dcca60e66c50cb": "mp3gain 1.6.2",
+    "be6990d85294c9f295db520b7a4b06907150c8c6": "mp3gain: add test",
+    "32ae0018ea589011b5b895b4e3c47ce06ab1ada4": "mp3gain: update 1.6.1 bottle.",
+    "e675d40b3b02fbc2a3c9fde0ae2d96f33d2feb7e": "mp3gain 1.6.1",
+    "d4095f3a6babf610ba7318a59f16284e74bfaa61": "mp3gain: update 1.5.2 bottle.",
+    "556480061cf768737d82ff4d63a9730e29184f21": "mp3gain: fix audit about sourceforge link",
+    "d747a6050c7c1b1c4bcf8406edbad1145fa8195c": "mp3gain: update 1.5.2 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "d6e29d1a63435e783edea81495f93908ed3a8b77": "mp3gain: add 1.5.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "aab09dca6e96766d04389ccf4f85fe1f9db0ec21": "mp3gain 1.5.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "6ca5f3c86d70a50005a9e3abe1c02a4fd184eca1": "New formula: mp3gain"
+}

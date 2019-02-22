@@ -1,0 +1,17 @@
+{
+    "e27bd2873bb7ad48dc9f793cf8199fbc6dd32430": "lrdf: fix dependency order",
+    "268d4e192b1f6a4623d7dc49a51455f35f28ee29": "lrdf: update 0.6.1 bottle.",
+    "0259dc6d2ea37ee1050f2a3ea84146f00a8f559e": "lrdf: update 0.6.1 bottle.",
+    "56a6ddcf62cc058eae17588c5f7a903d20b770df": "lrdf: update 0.6.1 bottle.",
+    "2326b9be53f346a047c5c2dac6e6180bba718dfd": "lrdf 0.6.1",
+    "d202900d4870dcb9945ee668094ad77b64a80efd": "lrdf: update 0.5.0_1 bottle.",
+    "d02c60992fb3b06856edd1533ed2112e456599db": "lrdf: update 0.5.0_1 bottle.",
+    "543462428d352b35460c050ccf312a64ae114749": "lrdf: add 0.5.0_1 bottle.",
+    "386152d768874fe9083e394e076ba20d371d3ee2": "lrdf: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "531eb61ef3bb372b091c4dcb0f960f9e88b0c9f9": "lrdf: remove old automake hack",
+    "4796c6395d356d76d4dae4fd1a21757ef23591da": "lrdf: use patch DSL",
+    "7f000e41f8625af1e6fe7acda904c41ac0e87e60": "formulae: don't use GitHub zip files.",
+    "e2834128663dd5561868699cb351164085d1fe9c": "lrdf 0.5.0"
+}

@@ -1,0 +1,7 @@
+{
+    "32bb04fa3ab9a3c229ba2ff3eeb51ab37eea381a": "jpegrescan: use assert_predicate",
+    "ac3f2d6a4e52246c30761fd0199f6789ba084480": "jpegrescan 1.1.0",
+    "e53a73004a17eeea7f972819f5237d7db5a80b79": "jpegrescan: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "723d160b3fb9d2ac409cea2ef307e8abc0932d41": "jpegrescan 1.0.0 (new formula)"
+}

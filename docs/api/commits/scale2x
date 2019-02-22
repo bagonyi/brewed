@@ -1,0 +1,19 @@
+{
+    "49e8324b61d20ae2b0131b76b3e096b117530aa0": "scale2x: update 4.0 bottle.",
+    "e2e2b1a33399f3aec9c59a6b48e724cbd5a8334c": "scale2x: update 4.0 bottle.",
+    "acb9c763438262c8257866e8a3d5d63c24d69b52": "scale2x 4.0",
+    "6c1c6b3086a348a3321d311640382c64dad02122": "scale2x: update 3.1 bottle.",
+    "dd74544720a2c316f078c486fa0d1996ba0f3215": "scale2x: fix audit about sourceforge link",
+    "6676f94f876dcccb45b4e9355f9a469b066e78bb": "scale2x: update 3.1 bottle.",
+    "9cf18c580a72f981b74504ebf44fca8fc3d0d8ea": "scale2x: add CPPFLAGS",
+    "188279fa233147f06db65930f6e8b782544192e1": "scale2x 3.1",
+    "ef326a00676f3644a31ca07ca283fd33efb98752": "scale2x: update 2.4_1 bottle.",
+    "83354232c74ad1e979335ee986d0a3cd0712c926": "scale2x: add 2.4_1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "a798377a25cc9ba3cba63c0a56a0054a7d97c309": "Remove '//' from start of scale2x home URL.",
+    "a3ba84b0d10e7767001743cae37b2d8755bc9aee": "scale2x 2.4"
+}

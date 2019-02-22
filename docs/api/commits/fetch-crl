@@ -1,0 +1,18 @@
+{
+    "e60fbd87c0e94897caedc5c6f5d2398f763f0a7d": "fetch-crl: update 3.0.20 bottle.",
+    "de066a22a0000454c67f680a900aa5fdf71ece40": "fetch-crl: update 3.0.20 bottle.",
+    "6aaa8d0ec63e16bddc86bae6499aa25e6ee4a3f1": "fetch-crl 3.0.20",
+    "61d2d94c6a7cfe7b4a948bccfa0a8de7099a9f86": "fetch-crl: update 3.0.19 bottle.",
+    "fbdbc9b7c7198cfc66a7c2c19b40ef705389d6e2": "fetch-crl: update 3.0.19 bottle.",
+    "9cac8dcfffe586ece853a6aa29401e0ec1ac1d4a": "fetch-crl 3.0.19",
+    "edb2886f314662732610dfca14ccbac5503ddf2d": "fetch-crl: update 3.0.17 bottle.",
+    "dda8905089d7218bf251949fcc6741a7725d6a0c": "fetch-crl: update 3.0.17 bottle.",
+    "285d9177f5e0228973f8492ca98f55295c7f9d7f": "fetch-crl 3.0.17",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "462daab51368e75215e7fdf103fc94fdbb40142e": "fetch-crl: SSL/TLS homepage, sha256, modernize",
+    "a891c09274d7f4a0428974accb8b75ae7e4a028a": "fetch-crl: add 3.0.16 bottle.",
+    "cc5aeb036a4fb6952d7ad3a637f014548fa883c7": "fetch-crl 3.0.16",
+    "a617fe860c2c1ae3795de8706a8606edce1dd721": "fetch-crl 3.0.13",
+    "142bb8fe52b910e63de0fd06b7308e4e6a75f0f1": "fetch-crl 3.0.12",
+    "55dfa943c9f9f38b03e9e8b7483c47656f7ea031": "fetch-crl 1.0.8"
+}

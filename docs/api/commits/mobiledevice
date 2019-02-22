@@ -1,0 +1,12 @@
+{
+    "d59d8704857715f3a70967f0d73e90bdf158bc2d": "mobiledevice: update 2.0.0 bottle.",
+    "a419e81776a63a6fe58f553512fee58d52a86cf5": "mobiledevice: restore support for >= High Sierra",
+    "75da5475a781b91644563d952b5826acafc1b8a8": "mobiledevice: fix audit issue",
+    "a42d29add21404bb6989bfc1554d82eee62d4b3b": "mobiledevice: not supported on 10.13",
+    "b7adbbf9cabc4efabac3ef7efb2a8f4dd8a44e10": "mobiledevice: update 2.0.0 bottle.",
+    "c12b7d337758d8b99a2eef3e8ba5e65a90860a07": "mobiledevice: update 2.0.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d023a5cd762ba2b23bd1a2674e2a25835aa04dae": "mobiledevice: simplify test.",
+    "dd4f7a3efd2459fd03d0eab91047487ec77423c2": "mobiledevice: add 2.0.0 bottle.",
+    "4f0a26aba33f8c07a86d43fbaf37fab695bbb581": "mobiledevice 2.0.0 (new formula)"
+}

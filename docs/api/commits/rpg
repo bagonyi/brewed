@@ -1,0 +1,19 @@
+{
+    "39dc5653d83e96daebd8f73e6bb44f02a33522a2": "rpg: remove references to pre-Mavericks.",
+    "22ac669297a0f227eb91e3a6179e0ae7e00a8ec2": "rpg: update 0.3.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "1662969cd19cb8b683928209d73ed37e30914fe6": "rpg: update 0.3.0 bottle.",
+    "807286efa5d1457db6bd555aebf2c3f323cb6268": "rpg: update 0.3.0 bottle.",
+    "da184cb503c5b9362cbc6229574f66cc794c9eb6": "rpg: update 0.3.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0d528a814a927e22fa18ec23287f54483a8785f0": "rpg: add 0.3.0 bottle.",
+    "dc93ef95a023c62997fa7fae7ad1387b2f755c5c": "rpg: test added",
+    "1bd2f9273bc23d5a7957f6ff8212d0ebcfdd823c": "rpg: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "b01ef7cb80e97cb28205ad5c99c07578d84a8ca8": "rpg: add --HEAD",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "bdae288ae51ad0983b6a5a9a9a14ce075b955bbe": "Bump rpg version to 0.3.0",
+    "e76e13ff05a621a3871644776e33b924021bbcc5": "rpg 0.2.0",
+    "df6e5dfd3e2534cf830168d12fe90553ac030b6e": "rpg 0.1.0"
+}

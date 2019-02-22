@@ -1,0 +1,16 @@
+{
+    "bf5cd18b2d60161c00b600088791721ee9c204a9": "dirt: update 1.1_1 bottle.",
+    "51f39fe117097a9b6b152107cdc606d9d6155536": "dirt: update 1.1_1 bottle.",
+    "2226a29ae21f73f6dc7ca65161a2f7ae0d02a6b7": "dirt: update 1.1_1 bottle.",
+    "7235712d5544eeea3e1ae7ca2778dd40b1a0155f": "dirt: revision for berkeley-db",
+    "c82000548bdd6d2814d4535016c7bccdb8b48422": "dirt: update 1.1 bottle.",
+    "92ffd81e68292dc8f55ad95d9815f058036438a9": "dirt: update 1.1 bottle.",
+    "f24c20e44e621c9dd2c175075d50f3f8615bef84": "dirt 1.1",
+    "b4a576b7af2de5d2261d3f69c2da46e5e172aeda": "dirt: update 1.0 bottle.",
+    "e4a5635f794d680622fc358f3a0745a1900f5589": "dirt: fix URLs and SHA-256 checksum",
+    "3f9a77595ed76d5cacbb27b86815e826d5ed82de": "dirt: add 1.0 bottle.",
+    "bb33a574e7e58ff09d7a70a7836594fc9264b52e": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8dcb3ef7fdb4f58508b8e7ecf0c1f24a3f04c313": "dirt 1.0 (new formula)"
+}

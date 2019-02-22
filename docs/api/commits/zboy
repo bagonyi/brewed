@@ -1,0 +1,10 @@
+{
+    "e28fc58eec8eed06b6ff28181332c9a3c4abc6d5": "zboy: restore https for svn url(s)",
+    "1a52fd0e7e8d531b72fe4f0b4c9d9058b3855bb6": "zboy: adjust svn URL",
+    "70ae3229e65da29b3bffef13d6cc90ac7f90f5e5": "zboy: update 0.60 bottle.",
+    "2cb52a886150633439d92284193ba3025ea71d16": "zboy: update 0.60 bottle.",
+    "2f6f71b01aab207be73d1875054a7effa016636b": "zboy: use secure head url",
+    "1579aa099ca89f18ac07606481c456a6c8937751": "zboy: fix audit --warning",
+    "fe8162872104b577b4d14680d910beb744342420": "zboy: update 0.60 bottle.",
+    "09a783f34bfba5194ef8321ec25b3919d6178b4d": "zboy: import from homebrew/games."
+}

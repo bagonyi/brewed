@@ -1,0 +1,16 @@
+{
+    "609b2cd259f500ef06bd9a035fca47809ddd57e1": "pla: remove references to pre-Mavericks.",
+    "c3b0e5d5801aa4e89796aef40170fa386296dfd8": "pla: fix dependency order",
+    "087ced82f5cd87e2584984881d255e414363562d": "pla: update 1.2 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ea0424a6ab05e337816e62ec949761503cc92e3f": "pla: update 1.2 bottle.",
+    "8d3fdba89b5ce50230ab3d05d9d780cfe7c404d5": "pla: secure url(s)",
+    "2df84e0febc00d524e5ada43d0d7c2eec5c47882": "pla: update 1.2 bottle.",
+    "394110b53513dce056f3b4ccf491302a518dcaf7": "pla: update 1.2 bottle.",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "f9d6bb1dbee056bdae13aa4b92a051191cd5a27f": "pla: update 1.2 bottle.",
+    "27a841623a8d730d57f3a7bb5283df7da53cb3ef": "pla 1.2",
+    "7c222b9326020045ce274ea97b778894d4a5de52": "pla: add 1.1 bottle.",
+    "9837174c6506417a89c245d707f05f0f79b888b1": "pla 1.1"
+}

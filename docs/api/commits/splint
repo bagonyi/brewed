@@ -1,0 +1,23 @@
+{
+    "3e052ffd09bf6a5969be2a6176ff00cd6be8ab85": "splint: update 3.1.2 bottle.",
+    "4a2838a4b4d60f28f574285b5925ce1811d636a9": "splint: secure/fix broken url(s)",
+    "008ff99656dbd05837577a31d964a24ce0d15477": "splint: fix test (#23366)",
+    "077a1db8ee04266ad488727bfe05ea1ab3cb4b4c": "splint: secure/fix url(s)",
+    "c749790cf4ebdafcae699c76aa698850fa1c56f0": "splint: use mirrors (#23352)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "06cb45a7b9582a5e838b93414cd775f7293f65a2": "splint: update 3.1.2 bottle.",
+    "53baabfcf3da43e04f85194d8720f878601809dc": "splint: use ENV.deparallelize.",
+    "6811e3fbadf7237d0cec69ea1231b38d545be4d0": "splint: update 3.1.2 bottle.",
+    "f4301869ac46b11fc2f42965433fa17934f72d4d": "splint: add 3.1.2 bottle.",
+    "33f0e0c1c78cb92943a692fbbf6eac530db4093a": "splint: audit fix",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2272f94770d883f126029dc6c98b8b2554c34b41": "splint: use patch DSL",
+    "6db9b26668c5e1edab81ab28e93b8254fce6ebcf": "splint: add test",
+    "7e28eaf009627e3d30d781bd1437e7accac31428": "splint: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "87e2cf821b2fcc3b2254aff354ccd7c94e939f60": "splint: deparallelize before 'make'",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e65289eb4a78dfb534a4aedb8377803ed4f92d5b": "Deparalellize `splint`.",
+    "8c7b434a54b5211b9af522505f069cd74343340d": "New formula: splint"
+}

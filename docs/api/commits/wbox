@@ -1,0 +1,14 @@
+{
+    "33326c44ba68e30fa5609ad88e980ee4458c3aca": "wbox: update 5 bottle.",
+    "46324c3df12fd8115207c5c383991140116e841c": "wbox: update 5 bottle.",
+    "d3b50208e59272dbc2d3edaa7591dea347c8d0b7": "wbox: update 5 bottle.",
+    "2dbd562dcca5cd455351bc2e63ca81b91b682421": "wbox: add 5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ee048a2a55c907980707ca99bb7c2fe514de7907": "wbox: update 404ing URL.",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "efdcd1189a83524118f1c2446fca35b8ce29f21e": "wbox: full path in test",
+    "f384558e118d3d35a99d6d66e1f0cc14b598531f": "New formula: wbox"
+}

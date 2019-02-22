@@ -1,0 +1,18 @@
+{
+    "68c9c753c96302720b2d64bc527f3a7d61f2367a": "vera++: update 1.3.0 bottle.",
+    "a959af78fb863cbd41401de9546497b3003375b6": "vera++: update 1.3.0 bottle.",
+    "114a1115af20aebfb28022ad33972863fc618f71": "vera++: update 1.3.0 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "ea3cbbc4869775bbd6c1e8779a41b261e518e2d7": "vera++: update 1.3.0 bottle.",
+    "23a9fb6b0ef2d70df93d48df2290d47ad576a6c0": "vera++: fix build error",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d38072a6cb5a4c094305b958a7b0e892c578c5cd": "vera++: update 1.3.0 bottle.",
+    "f77aa14e310eb1490b70d06f8bd90dca7d7ae3df": "vera++: 1.3.0",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "ad32403d248e3e33381d94617940dc5e55ef0f90": "vera++: use resource",
+    "c0bdf3b0dca05ba3a05a0252aa60df2d2824b129": "vera++: use test assertion",
+    "951d73640ab30982b12bcbbb1d7587f4fa54c995": "vera++ 1.2.1",
+    "2a2471210c5728824226c4065ec98565073c0071": "vera++ 1.2.0"
+}

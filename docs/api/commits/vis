@@ -1,0 +1,22 @@
+{
+    "19d9d1b8a65410a77b5ddc5906de6e7fdf7ca45a": "vis: fix dependency order",
+    "45680b670d9fc0cae1d4b227bde11903751a8d08": "vis: update 0.5 bottle.",
+    "7f609508c82f37d787e74c6b9a7c16dafe16dbcb": "vis: update 0.5 bottle.",
+    "ae58dee0c41a178314ab5f6c79afb152e45665e6": "vis: add luarocks build dependency",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "c3852e8b072260ee743da5eab2a1320cbf039ece": "vis: fix lua build",
+    "6a07dc12dcd3ca37f45f273e52899fd6be5545b7": "vis: update 0.5 bottle.",
+    "c065bce5849ee49a43878310e469cd8320230c2d": "vis 0.5",
+    "0218d0ab660b3834ab9b9c611b59c62b70f4baad": "vis: update 0.4_2 bottle.",
+    "36afda48f6f2487c4b4097e3401559dab47db0b7": "vis: fix lpeg detection (yes, again)",
+    "b48cdc0df0097791c615e038892e327370c6b0f8": "vis: update 0.4_1 bottle.",
+    "d7d9a6bd921aee463d835aa5284ad8320f7a72fd": "vis: fix lpeg detection",
+    "44eb4596517553af0b0a243791543b15efb651f8": "vis: add 0.4 bottle.",
+    "1ba7d5bbd496067456b5359a2608f0ee777c5d38": "vis 0.4 (new formula)",
+    "eefde45bbd93dfa50d4074c84ed2bbbd5dec72e5": "Revert \"vis 0.2\"",
+    "3527efc831f663d234cc541d360c6b47ebc93da7": "Revert \"vis: add 0.2 bottle.\"",
+    "84cfd80b15225e4ea5fb66e2924ac39006b65526": "Revert \"vis: make test slightly less awful\"",
+    "bc85c12b1fd52d4e0814b3807d223d07b01447cb": "vis: make test slightly less awful",
+    "f77a63ab387988d03a004683bcda53c310db4ad6": "vis: add 0.2 bottle.",
+    "4b0765d11183104ebcb9b4e20f9251ea30b64083": "vis 0.2"
+}

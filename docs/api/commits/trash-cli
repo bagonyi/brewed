@@ -1,0 +1,14 @@
+{
+    "7acfd98cf341e4a60db5aa9c35324b24096be497": "trash-cli: update 0.17.1.14_1 bottle.",
+    "71e44926a769c7cdbba460a350e09ee9631063cd": "trash-cli: move to Python 3",
+    "1039aab3c54efed754392f44e1ebae9607137d01": "trash-cli: update 0.17.1.14 bottle.",
+    "67d806d4300e992c1e68bb70ef3e3a596fb7820f": "trash-cli: depend on python@2",
+    "2d21666e5523e47c6af43e9db318c05f50742ff4": "trash-cli: rename python@2 dependency",
+    "6af39c74e6efbdc469250b5f2add81249c647d53": "trash-cli: depend on python instead of :python",
+    "5cb464bc45c3aa3ee9dcb10de64c2b386ce19302": "trash-cli: use refute_predicate instead of !File.exist?",
+    "de1a6e99f5f14a4f4f35caa225c94640c9031a78": "trash-cli: use assert_predicate instead of File.exist?",
+    "bf203add955df2fb7a3246d46a4038550c6e8fcf": "trash-cli: remove conflict with osxutils",
+    "b4968b5072ba9728c55da33100a703bded91a0aa": "trash-cli: update 0.17.1.14 bottle.",
+    "7c818b4f9ce240f8d6b6e6544f00507bbfb745d5": "trash-cli: add 0.17.1.14 bottle.",
+    "f353ebd63ca8d7ac1f5aa70cbbf4ae287f5ce8f0": "trash-cli 0.17.1.14 (new formula)"
+}

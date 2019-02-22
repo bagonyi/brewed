@@ -1,0 +1,20 @@
+{
+    "1ddb5c5e07c0a6ee05271cee2fe27a5604faf934": "ike-scan: update 1.9.4 bottle.",
+    "0753bec83385184917281c2b5f1cb7916b3f91a0": "ike-scan 1.9.4",
+    "9aa1115f4447b1e53f9a8abfadcd47aca9a52ef2": "ike-scan: fix dependency order",
+    "227a3b3ad051740cd3265b8830041aa640a9c07d": "ike-scan: update 1.9_1 bottle.",
+    "70638661436073f37396b6fe92be4831cdde335c": "ike-scan: update 1.9_1 bottle.",
+    "4e0af4964ec76395ec572e145e1ff6a31ede016e": "ike-scan: update 1.9_1 bottle.",
+    "2a44ad2e50a726a26a075943d02a2f0fb7a39c2c": "ike-scan: update 1.9_1 bottle.",
+    "4108745793b3fa842774291c9e6b1d08ef8c0f33": "ike-scan: fix the homepage and URL",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "29b65d029fd34daf5eef3b37dfae455d1ea6b490": "ike-scan: update homepage.",
+    "12bfa69d6455060cc8584ccb5e80a3c93862ca85": "ike-scan: add 1.9_1 bottle.",
+    "b7de327db24a290c3795b5d938f18a06cacc6a56": "ike-scan: system openssl fix",
+    "a25d48ae4ac3524aa462b2eb9bb3f7d62ae70d53": "ike-scan: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "751472646526b130edd8ed1573b8d3667e19c435": "New formula: ike-scan"
+}

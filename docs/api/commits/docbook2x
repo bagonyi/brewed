@@ -1,0 +1,18 @@
+{
+    "6b797785e756f4ba7a4b51ac4fa773b7ec3c7158": "docbook2x: update 0.8.8 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "37b84f5e8ea9540cd4a4953bcad96ec78e05a573": "docbook2x: update 0.8.8 bottle.",
+    "4a53dc73befb61a8632d8d038e237e816edab8c8": "docbook2x: add test (#14984)",
+    "13ff9f6450ebeb49121868f29bf25c7917e2dfcc": "docbook2x: fix audit --warning",
+    "db3a4602082a252b3e439e357ff875f0ce705943": "docbook2x: update 0.8.8 bottle.",
+    "d2c9b5735112a8e33cc7918053d3404f50173139": "docbook2x: remove pointless deps (#1766)",
+    "230230de9313c917b9f54239ea44a4b387538fc7": "docbook2x: add 0.8.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "739ee6bcb64d04773e7bf2e91f57b6679a1e15d1": "docbook2x: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2bc2de81240f810b27acab3f20c82e00b5ff98ae": "docbook2x: add dependencies",
+    "7872cdf9d44a5d66eda6869c8e6d36ffdff441d1": "New formula: `docbook2x`."
+}

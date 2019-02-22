@@ -1,0 +1,11 @@
+{
+    "d6f543d037910e250451ea0fa7beff6113393363": "mergelog: update 4.5 bottle.",
+    "bccbe26c2e5125f7d4f8fca53a7e0c75a329fe07": "mergelog: update 4.5 bottle.",
+    "d47a3b69c0b942d1eee5657ec873ce0359e9a690": "mergelog: fix audit --warning",
+    "5e00aed5280b76f35df7692fb41ffbbdd79d02bd": "mergelog: update 4.5 bottle.",
+    "397dfb653f3eebfcfaf0832f005bee4b76e1f380": "mergelog: add 4.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "0b2de1aacddd8e8779bc4427d5e5e1068d3e4d95": "mergelog 4.5"
+}

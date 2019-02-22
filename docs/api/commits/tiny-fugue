@@ -1,0 +1,23 @@
+{
+    "9886654914bc0091e456b9058ebdd03930b3d64b": "tiny-fugue: update 5.0b8 bottle.",
+    "ae037f26c7c57c0e6eda4a06e09d5a6a8373c771": "tiny-fugue: update 5.0b8 bottle.",
+    "72908e6a94035905b2591678c7534bdc8488f88b": "tiny-fugue: fix audit",
+    "20c36176fb79354f4ef745756f1bdfa966ad68bf": "tiny-fugue: update 5.0b8 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "853777aba3650ef75810db5396b989910ed1a22a": "tiny-fugue: update 5.0b8 bottle.",
+    "6c9cd8ac257fcd519e297d128b1c14324727d758": "tiny-fugue: add openssl dep",
+    "3c1c92632b2c4efd8b65cfe9777004a7a90d7812": "tiny-fugue: add 5.0b8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "80dc3007b7a975a01681b23010cfc27b5f361f67": "tiny-fugue: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "9dc2f09d84c7745593674f59e5bd163c180860c4": "tee-clc/tiny-fugue conflict",
+    "0b042c28129bc724d4cb7101e30c8d7b57eed5fa": "tiny-fugue: fix to pcre_fullinfo calls to prevent tf warn about every custom variable",
+    "7478a0cc3106ccbdfe5c545ec76d10b470adea9c": "tiny-fugue: style nits",
+    "5860fa13cb7033628bc5fc42e43b62295a14bcfc": "tiny-fugue: change to using HB pcre",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "16775a20a57dc6af20a28b2c82174c3542c376a9": "tiny-fugue - remove duplicate",
+    "576c0173935483ef5463b7ba4da40184b8e6be5a": "TinyFugue (MOO/MUD client)"
+}

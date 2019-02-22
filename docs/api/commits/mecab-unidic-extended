@@ -1,0 +1,9 @@
+{
+    "3e7401d9ddb0b3c5fa084ea4b8198b1df4ecec05": "mecab-unidic-extended: update 2.1.2 bottle.",
+    "555d43092b578022553e1d671fde9d8b7321ddbc": "mecab-unidic-extended: secure url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "eb5d9377fe9196523a37c9fa5d990538527c59b8": "mecab-unidic-extended: secure url(s)",
+    "d089027f4c000f876c55aef83757961f7f463bde": "mecab-unidic-extended: add 2.1.2 bottle.",
+    "c316b53fbe44505e28e800309b9ca45057592edd": "mecab-unidic-extended (new formula)"
+}

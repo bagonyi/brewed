@@ -1,0 +1,10 @@
+{
+    "57f2f575be32bed06fb4b7678a37a7f6a097c7b5": "djvu2pdf: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "84cdfd7c574bd4da381df6923ae5791a2b3203f6": "djvu2pdf: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "882a9b28a610153d8900f86ac93a95208702b7d3": "djvu2pdf 0.9.2"
+}

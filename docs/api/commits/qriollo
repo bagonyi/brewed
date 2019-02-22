@@ -1,0 +1,11 @@
+{
+    "bd155773349d6c42d4edc831870a986b8d93e607": "qriollo: update 0.91 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f45be8a2f2f9226967ac56923478b508f8014c15": "qriollo: update 0.91 bottle.",
+    "ac2485d88a3d2cc7a36c7831ab3156a83f158113": "qriollo: depend on ghc (#16127)",
+    "3cdeb805fa7af24be5e767ec10a4bfbed95d43e3": "qriollo: depend on ghc@8.0",
+    "a2941783d3052ebb6e0e8af4f7064da4dc3c7678": "qriollo: update 0.91 bottle.",
+    "adad3d0869db29610b926943d54a633586ac851b": "qriollo: add 0.91 bottle.",
+    "573c52c98dddd86c45f3d28b4978d0fc22680909": "qriollo 0.91 (new formula)"
+}

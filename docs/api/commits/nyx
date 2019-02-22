@@ -1,0 +1,9 @@
+{
+    "ed611a039dc42fb8f1e35d5ce2d709fa1e0498ac": "nyx: update 2.0.4_1 bottle.",
+    "1fe90ff6b144c342a3c4b60df42a4a3894446c98": "nyx: move to Python 3",
+    "78016a00bdd01fdc5c00f0c4d8a85c052cad7bcc": "nyx: update 2.0.4 bottle.",
+    "cd918c27e8a8b299c3f78f275240c921108c08e8": "nyx: depend on python@2",
+    "cbfe20ce02836c31044f65b534a4d5d711719c5b": "nyx: rename python@2 dependency",
+    "d8ffe1067e3286022272450f201256e6f001e98c": "nyx: add 2.0.4 bottle.",
+    "3d71ce7d62c49da9973f0b8074d3968a1a4cdd60": "nyx 2.0.4 (new formula)"
+}

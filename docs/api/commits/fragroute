@@ -1,0 +1,20 @@
+{
+    "e1dd35de528c471e2e45df82ee8067d8c373f053": "fragroute: update 1.2_1 bottle.",
+    "15d965551637b4a8462fd433469d236d6a9395cb": "fragroute: secure url(s)",
+    "5d7029ed437bbfce0edd5bae14ff8f4802d7af0a": "fragroute: update 1.2_1 bottle.",
+    "8657aca75c91a2f6931252b02aaf1661e2103317": "fragroute: add mirror",
+    "1539651b5e4dfdc19bf6f24214b475d2b61fa513": "fragroute: update 1.2_1 bottle.",
+    "768b2f8f7f8875a97f4e845e502baa4790b43b0c": "fragroute: revision for libevent",
+    "b9c1da30a9ba912988013770fb88a1a45863c45a": "fragroute: update 1.2 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "b1db8a20933e0e8dafe2a3d0ba37a4db29f8d799": "fragroute: use secure urls",
+    "a99a2a4420641a9f3c1950da6f71517c0326728c": "fragroute: update 1.2 bottle.",
+    "7d923b46395b725c25052d01b86836bfc33b9344": "fragroute: add 1.2 bottle.",
+    "b1d592a3ed56bf4721e8374994444ef426e18dfd": "fragroute: fix no-clt build",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c7155e77593ae3196164f16c3693d5e20b795c4b": "fragroute: fix man page installation",
+    "e54e6ba6719559836369f2ffe72bac06cd291db1": "fragroute: use checksummed patches",
+    "286e3b02458b697a7efaa73ee3e6dd20116d8e83": "fragroute: use Formula[]",
+    "ddcffdc379e42804f4bdb43c5c3362fc51410d81": "fragroute: 1.2"
+}

@@ -1,0 +1,10 @@
+{
+    "5f32dab7084cf70239336123cdc109a45b273ac4": "bgpstream: update 1.1.0_1 bottle.",
+    "f53b5968044ea26ea796b135bdfba639a4fa7583": "bgpstream: update 1.1.0_1 bottle.",
+    "79f6d04ac6bad58fd69a581f72a32a10019f4a48": "bgpstream: revision for wandio",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "50c39e8cae5817cde7c6e29a80d1894dbf969969": "bgpstream: update 1.1.0 bottle.",
+    "9c1d103f22ed969752ea5a9676abe788a84f6a59": "bgpstream: update 1.1.0 bottle.",
+    "12335e5380dc81fb7cf1aace0d2e0487821611e0": "bgpstream: add 1.1.0 bottle.",
+    "ba195166eae029a0a882d3011bda51e50b77bff4": "bgpstream 1.1.0 (new formula)"
+}

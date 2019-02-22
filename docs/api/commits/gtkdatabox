@@ -1,0 +1,18 @@
+{
+    "898dc91f41257f79e739a2aa1668fed5d2295139": "gtkdatabox: update 0.9.3.0_1 bottle.",
+    "1628f5b87f7c1923ccb9a9105c1b45269f7056ce": "gtkdatabox: update 0.9.3.0_1 bottle.",
+    "77c8e83278022f5e4d8ce2298ac70eef29edf1e4": "gtkdatabox: revision to fix install receipt",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1d4b49abc737d4e2a16afcbfc2f5b3c86c1c0d13": "gtkdatabox: update 0.9.3.0 bottle.",
+    "f520f97a97ca7eb12335392802cab3786ad93ff2": "gtkdatabox: update 0.9.3.0 bottle.",
+    "694db40c234cefbc49b679cc9208a07dfa28d747": "gtkdatabox 0.9.3.0",
+    "982801c671f2170c5ec2d39d3853d2a67e6ea5bd": "gtkdatabox: update 0.9.2.0_1 bottle.",
+    "d393134fe361334b7277e2333414c79451a369f0": "gtkdatabox: remove compiler flags found in the environment",
+    "8e7397353c312bd1230a76f4f59c144d53e4d459": "gtkdatabox: add 0.9.2.0_1 bottle.",
+    "f6f032e3519c577d966963e8105aa308e35eeed3": "gtkdatabox: use https homepage",
+    "9f0de04450e93e43ee7fbcf8f65f94d83a1f8692": "gtkdatabox goes quartz only",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "c3f90585ac1f516372baffc52379e7f7e1a4e968": "gtkdatabox 0.9.2.0",
+    "ab0037844b939eb1f6c53007037357f19846a3e8": "gtkdatabox 0.9.1.3"
+}

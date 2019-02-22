@@ -1,0 +1,19 @@
+{
+    "261fefd0a5b039b0086c9ebbb223b84184f1e19c": "tbox: secure url(s)",
+    "24c7dc1fc1c94df3e429adf1940e4bc2b637ac80": "tbox: update 1.6.3 bottle.",
+    "7261dec48f948776603bfe1c0655bfd65cccb717": "tbox: update 1.6.3 bottle.",
+    "a9131331a09f567ec7c51e9bb030720213163c95": "tbox 1.6.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f5dd2fa004961fce49edb0b8efd14a502bb5a5c3": "tbox: update 1.6.2 bottle.",
+    "8456499a81ca9b6cb060e143da36a87efd2c73f7": "tbox: update 1.6.2 bottle.",
+    "75fb6538034bb4721bcc3155e7aaf6f8f10738ea": "tbox 1.6.2",
+    "3bc2e3e288df8609dfd4f220950b4350475f2a01": "tbox: update 1.6.1 bottle.",
+    "6976396a5e7b27e98513ae937598bc0cea37eb26": "tbox 1.6.1",
+    "3e4a7fb2a0da080929824f59e63c2bb15a78bd5e": "tbox: update 1.6.0 bottle.",
+    "6f9472f5306c0564b9c6d2d595993d6e3c176858": "tbox 1.6.0",
+    "9bdfcc672feca51498dcd8a1713ba48cf7b56ff1": "tbox: update 1.5.3 bottle.",
+    "e01e863812e2a8e4e4ea1c29c1ef8f8978c5b6ec": "tbox 1.5.3",
+    "188d1bd0d97085a12ae6e4fb709bff933524d7e9": "tbox: wrap config args to ~80 chars",
+    "0e309c842af1885dba7d0964a320f3684d425bd8": "tbox: add 1.5.2 bottle.",
+    "e7e9cf626c94db9700a63cfa56d3af2f904f6993": "tbox 1.5.2 (new formula)"
+}

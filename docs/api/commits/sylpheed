@@ -1,0 +1,22 @@
+{
+    "09a34ad86b39c9cb29313ac4a26d3be3b2bb89cf": "sylpheed: update 3.7.0_1 bottle.",
+    "864550aeb9026721d2ea7e00e3ab15fb7db5a15c": "sylpheed: update 3.7.0_1 bottle.",
+    "bdf5f77ba25860aeab460a4009c58a4c2c859fac": "sylpheed: revision to fix install receipt",
+    "e320fd5811e75f193a9dc5150e3f8bacde6f2e14": "sylpheed: update 3.7.0 bottle.",
+    "2375ea7ab5eb9d4067ce96fe3077f0b1c0c64d05": "sylpheed 3.7.0",
+    "593c987148803cdea391ddf49532034bbd095126": "sylpheed: update 3.5.1 bottle.",
+    "585fad6e4de56fb450fde11cb7806f22e220d494": "sylpheed: secure url(s)",
+    "c00675982550c23150e5cd7647435afd288574be": "sylpheed: update 3.5.1 bottle.",
+    "35a1493ada680cbf16fb0ce2417705ac48587796": "sylpheed 3.5.1",
+    "c3087a557fc0bdf957c41ac2f16fd02524641200": "sylpheed: update 3.5.0 bottle.",
+    "cb057e550a83a122758e1a83975274f23b3329de": "sylpheed: update 3.5.0 bottle.",
+    "fd1f20a182eb84c256159a310a9e15872863ddd1": "sylpheed 3.5.0",
+    "b1f5308811c115ef30d41644477411773fb8cc43": "sylpheed: audit nit",
+    "27660b4af8830c9a9c27cfde1546e319dcf2f1c1": "sylpheed: update 3.4.2_1 bottle.",
+    "04ce012932fafe92552942ab22896ed492d7437d": "sylpheed: migrate from x11",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "7fac824196318e557964eb83f40e8124d9598806": "sylpheed: add 3.4.2 bottle.",
+    "2a2a074198d4ea58bef54066906388d92b9160b3": "sylpheed 3.4.2",
+    "8a7de58f65365d3fecb47ec9d321f2f6e7ae8acd": "sylpheed: depends on pkg-config",
+    "786d7f5dee3d15aa98107c584d941e648dc6d3ab": "sylpheed 3.3.0"
+}

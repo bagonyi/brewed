@@ -1,0 +1,17 @@
+{
+    "e196c5e0bbd87955c9f9cdd67535d3322745baa0": "make: update 4.2.1_1 bottle.",
+    "ece710d0e8854186c992d29d8cb3e0bf39527517": "make: create symbolic link `man` to `gnuman`",
+    "524dfb6c68352db01390cc2c523e7e1c51cfeb7e": "make: update 4.2.1_1 bottle.",
+    "dce96029d356bc76d137abd21d34d96f17568485": "make: remove default-names option",
+    "3f620697d7ef06166c0f02111cd8545dc5b44afd": "make: update 4.2.1_1 bottle.",
+    "f97197246b6a7259078eaff1b347683c9818193a": "make: remove options",
+    "e1c6efa15bbc036a682dc7a2dd94446cbc1dc810": "make: update 4.2.1_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8220630cd57c85619e85e672f826e604f1eb6a00": "make: update 4.2.1_1 bottle.",
+    "2818ad6b2092fcbad9617bc37ff5c9eb6099907f": "make: update 4.2.1_1 bottle.",
+    "e7485374550bb6f331fdbba17da315cd16490314": "make: add gnubin and gnuman files",
+    "4c14a3ed94fea0e99922d438733f78ad1f55f9ca": "make: depend on guile@2.0 instead of guile (#12831)",
+    "3d280be3ad16efa3338c1536b18330b26577573e": "make: swap GNU url and mirror.",
+    "e950e8e6f5fb90a1df11fcff7dd75bb5d43f4202": "make: update 4.2.1 bottle.",
+    "bf06d576875f12c04e3d53c513d6d6bdfa64a72e": "make: import homebrew/dupes into core."
+}

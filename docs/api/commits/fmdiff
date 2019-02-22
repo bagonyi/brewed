@@ -1,0 +1,21 @@
+{
+    "271106a26023c96054e3b8973b60dac4a12534a9": "fmdiff: remove references to pre-Mavericks.",
+    "8845e7e01f53e72a87c54388660e628e451e5cb4": "fmdiff: update 20150915 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1cc21bfa5721b592f4a66e10476a05ac87418363": "fmdiff: update 20150915 bottle.",
+    "a772148daea39b82ea0750026c9039522b10df71": "fmdiff: update 20150915 bottle.",
+    "f910010988c23a6ce045bf26504025d355e1040a": "fmdiff: update 20150915 bottle.",
+    "caacbb7416d9b7d601c635d96de91c4bc1eefa5c": "fmdiff: needs Xcode installed on >10.6",
+    "bba8c5c7cb43cc32c2f8e1e9778fd2a18b454689": "audit fixes: F 02: findutils - fmdiff",
+    "3d0c1f46f36a2fda196950692f2a07633e1bcc41": "fmdiff: update 20150915 bottle.",
+    "2aac2e3192128a89fe2d11479746470416fe30ec": "fmdiff 20150915",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c2e0fce5a9a466471f364fd5f0d2be4a3a8a6b2a": "fmdiff: add 20120813 bottle.",
+    "07f1f5d954d984dac6242833257aaf2b1729926e": "fmdiff: modernize",
+    "7904cfb702e54f4e0e5f81ab97328cb103181c00": "fmdiff: run make, update latest version, fix head",
+    "e799f517e1f1d042f335f35f3ebfcbe3bcdd880b": "fmscripts 20120522",
+    "2ab4fa3fae4a68e12cd1e400a7ba5bb2eb647cb9": "Remove redundant :using => :svn",
+    "0b17fb7d2aef87ed3a5f22b6280ff0b67e304fec": "fmdiff: add stable URL",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "74de4e3abb4f86084162c76a22f777feffa419db": "Wrapper scripts for FileMerge"
+}

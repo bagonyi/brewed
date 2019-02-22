@@ -1,0 +1,20 @@
+{
+    "bda037bdf3b1b4ccd42c9cb281dbb3386af226d6": "testdisk: update 7.0 bottle.",
+    "cbf6f9145055c851982ee0e422b5c65e6870da9a": "testdisk: update 7.0 bottle.",
+    "82a67002a6099591398d1d865e7af4dbc4b09265": "testdisk: update 7.0 bottle.",
+    "9c711060c4de49cc0357b485738830a90ceb9ad4": "testdisk: remove formula name from desc (#3985)",
+    "196d6a1d098f22d626e321ea9f23c74656130bd6": "testdisk: update 7.0 bottle.",
+    "7666d58e3ec1ebf31761d54bbcd485340d3936c3": "testdisk: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "76d6242b5084ecfaa55cf50d1a80356ee5d902e8": "testdisk: update 7.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "153ce3c20419d3f0f2e89cc2ab56600f51525984": "testdisk: add 7.0 bottle.",
+    "744e0d9003ff5d6fc7f144c4d3417b04c08700e2": "testdisk 7.0",
+    "dee08b71823ae634e144519529913deda6a54e3c": "testdisk 6.13",
+    "5eb4b8480a13c6303c7481dca4ed9f1725c3770a": "testdisk: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "95deba6a31a23c9843150eab8d41e671acb3abc7": "testdisk: updated to 6.13",
+    "094725ad9a9f2cd3e34fd9b1e3a7fa2f662cb527": "TestDisk 6.12",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "226b8534e36e63dd495125d4818bee932b7c60a0": "Added testdisk forumla."
+}

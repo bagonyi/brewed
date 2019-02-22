@@ -1,0 +1,12 @@
+{
+    "387769e99fd8fa22964ae9524de32796929b76a8": "ahcpd: add test (#33469)",
+    "45459983515760500769a903f5078e6efac75f12": "ahcpd: update 0.53 bottle.",
+    "2bd5ac43ebf532ccda2e5401d1336f93ab1f24d7": "ahcpd: update 0.53 bottle.",
+    "11c48c644899b07faf1d11c8bdc553dd684620b0": "ahcpd: update 0.53 bottle.",
+    "893c09c4aa70cbf538b2e9fadc817f9734577f68": "ahcpd: use secure urls",
+    "9815dd9b295906cd32a7fbfd58ca66214e8ff6ed": "ahcpd: add 0.53 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c7ffe6cfa7129e63a3057ed5de794b6b9e784859": "ahcpd: use patch DSL",
+    "7ee04a1996a2036f9da3de6ccbfe984538dede36": "ahcpd 0.53"
+}

@@ -1,0 +1,21 @@
+{
+    "20f18a68eb0b74215683d265b91d997d19f2fb2b": "kawa 3.0 (#18892)",
+    "8a00d5397979f89e52ee9a4c4851b28ae445694c": "kawa 2.4 (#13090)",
+    "6c0bf2e0e8a21b186ee2176f786570ee105462d3": "kawa: swap GNU url and mirror.",
+    "46fc25e9b4728c91b1d5fcda43b5717cf523cee2": "kawa 2.3 (#8301)",
+    "c44d748d98657c83b9bceac28472a2b952805129": "kawa: add 2.2 bottle.",
+    "9dd5559060f27f7233f6231bb6791742e9e4278b": "kawa 2.2",
+    "c3dcff42a876f457e505a76099becb2cfffa3963": "kawa: fix command line argument passing (#2948)",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "b6397916eef7f98013a33387e375a40f5a85f1f5": "kawa 2.1",
+    "82bf8771a6336476b3cd6e1bd09da22cf9291fb2": "kawa: bottle unneeded",
+    "1211450574289f8ecb750703373940eff066a0b2": "kawa: use secure mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "128b2a555cecf3f64f3697b94297fb92c06e83f2": "kawa 2.0",
+    "900645676de84fdff18b9fa1c2e388e9fb4b0c27": "kawa 1.90 (devel)",
+    "b0231e74323529c3f877085a5a567635c39689d8": "kawa 1.14",
+    "d35e264cb1edc4cca6acff65409db003c47c080c": "kawa 1.13",
+    "b8384eb1026b5001488664fcb10727a2b25a4bcc": "kawa 1.12",
+    "9895f763c07afa0ceb0a32e29b501fa3bf01f9bb": "kawa: fix audit warning",
+    "facf0ff88448c7a891aca3054dc04c5c64019c1e": "Kawa 1.11"
+}

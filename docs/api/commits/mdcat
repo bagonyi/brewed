@@ -1,0 +1,17 @@
+{
+    "fea167a026b8ffb83a15b6bde607e7e7229340b9": "mdcat: update 0.12.1 bottle.",
+    "ad6f20a98be2d445a92e8258d2fc1b1ab4647c85": "mdcat 0.12.1",
+    "e8f26bcd63a38a61a9c44cdda222dee37b9aa240": "mdcat: update 0.11.0 bottle.",
+    "5d7e5de41cd2cead160abc07737a38a0f41473d5": "mdcat 0.11.0",
+    "8a78fd8ab042fdbfa8dc9b4d35ef489dee3c49fd": "mdcat: update 0.10.1 bottle.",
+    "06b140ee67989b747195a259f5babfaaa7648c41": "mdcat 0.10.1",
+    "dffa85173b94f46a78b9e53909e5bde10311ee2e": "mdcat: avoid cargo deprecated syntax warning",
+    "a693dd29a15c1eef8288d81af9d0b9f2f1763d6e": "mdcat: update 0.9.2 bottle.",
+    "66456f04a01941f41cf108cdfb46f5ba777e2f21": "mdcat: update 0.9.2 bottle.",
+    "126da693f310ad19b900710805223685c2d08187": "mdcat 0.9.2",
+    "73d2cea4d2358c6f10f20d3a2fb104999949bfb3": "mdcat: update 0.8.0 bottle.",
+    "a7d9f73ed3cdf74549807f7b8896f937ae4f45b4": "mdcat: update 0.8.0 bottle.",
+    "f0c7c182ddb7dcb266095a1d51d9e9e2833bbf88": "mdcat 0.8.0",
+    "32fb8fc45f3621584db7acd37763ae043e2b8469": "mdcat: add 0.7.0 bottle.",
+    "b1bc8c837912085d7cae4c0754b8e983b4517151": "mdcat 0.7.0 (new formula)"
+}

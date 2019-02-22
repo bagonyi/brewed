@@ -1,0 +1,11 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0302ac7b51d3ef44c6fb519f6663037927c996f2": "hyperspec: upgrade FTP url(s) to HTTP",
+    "c8bbde7c71b8b4dc2561cc0da2549ba150d759e3": "hyperspec: use assert_predicate",
+    "24ef38ec754b703acbdfbfff254adfbf3eb27f1d": "hyperspec: use secure homepage",
+    "823c0779f7f43a85bdb1dc658d9b0e56c6e84105": "hyperspec: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "62d5ecb9805abd69d39305382694ef5e3249a340": "hyperspec: test added",
+    "debbba9e89383e678043eef73c0e296dad7233de": "Common Lisp HyperSpec 7.0"
+}

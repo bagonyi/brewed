@@ -1,0 +1,23 @@
+{
+    "0d109c5b8a8c0edc569130ce0286dba7c1364ee1": "cflow: update 1.5 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4f5d3cf295750416f46c3b541935e7a00f08819a": "cflow: update 1.5 bottle.",
+    "25cc4a57b9c5ee7139402b9e6a766f2ffeef5831": "cflow: swap GNU url and mirror.",
+    "bcdfc31a02aa938bc4fdfc487b4021172a9cb95e": "cflow: update 1.5 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "dc1091862d96f8e25139c6387c745ab1a83b77e6": "cflow: update 1.5 bottle.",
+    "d03514d4eff0098486061440f9cea1df172ab8f2": "cflow 1.5",
+    "19b45a562ca2cab4652eb574dbafc796947f3fc2": "cflow: add 1.4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f565ec429592fa09beedebeb1b2127ef3e78b85": "cflow: modernise & add test",
+    "d5c9bb05ebab6857563db362c60b8fad27d0f483": "cflow: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "e6aee256b8c3eb6b0e5bab50a686205e78371ce4": "cflow 1.4",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "eeb8227fa2293248bbaeeb1549e7d1102ecfa1b4": "New formula: cflow",
+    "d7983f6e54d95f302487c7435ba027004262b987": "stow - fix brew audit warnings",
+    "1b2dcd4480668a2de3b12f13cd0abd346f1457a0": "stow formula"
+}

@@ -1,0 +1,15 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "61b5d8096acbcd801465ad3617c1afad8ce7187c": "xmlsh: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "d3f8dc232c4260dda52358599d6eee6c8f0e0ea3": "xmlsh 1.2.5",
+    "00f5363bf7b59fe2782bbff4e79763d787114142": "xmlsh: add test",
+    "91c454ad0dc5abe38393dee01f6e318e8f41c83d": "xmlsh: simplify",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "d4d0bd07185bd1879100b37eabdf844941357966": "xmlsh 1.2.4",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "c23f44eb53690199d361388d1c262535030ec994": "xmlsh 1.2.2",
+    "383a21c385122373ad94af6b6b40b1beb32044db": "xmlsh 1.2.1"
+}

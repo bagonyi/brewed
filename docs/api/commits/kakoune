@@ -1,0 +1,14 @@
+{
+    "a21184e3cf604500bda233a399c291c6dca783fe": "kakoune: update 2019.01.20 bottle.",
+    "bff9ed3ee4f94979ddf1b0206da189c6d5fc0ff8": "kakoune 2019.01.20",
+    "f319d3bb57b5cfe8dc215da543de291b04a8a147": "kakoune: update 2018.10.27_1 bottle.",
+    "2ff5af349d58f9ae73c347ed9e221070077062a2": "kakoune: depend on ncurses",
+    "c38d05d641de4309d5139ee665e45fabe02bca3c": "kakoune: update 2018.10.27 bottle.",
+    "29a4aa61f02c6a0efe16c442ae2f88245824abbb": "kakoune 2018.10.27",
+    "a01bfdcad0889a85e9bb2dbbfe685e4c1620b7fc": "kakoune: update 2018.09.04 bottle.",
+    "086121c153c5c031a93aaaab2857b4174429d6ab": "kakoune 2018.09.04",
+    "3f8da14abd73f142c188fd5b46c719f3044e4749": "kakoune: update 2018.04.13 bottle.",
+    "f06cc41c87521588fbdf03e1b3a01e23b38e6aee": "kakoune: update 2018.04.13 bottle.",
+    "e8561625765c1a3100a04ad8c73ada213f8c2f77": "kakoune: add 2018.04.13 bottle.",
+    "93c8f500c9cb1c0eebf03a4d73caa487ebe11733": "kakoune 2018.04.13 (new formula)"
+}

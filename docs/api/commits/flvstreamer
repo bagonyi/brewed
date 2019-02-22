@@ -1,0 +1,20 @@
+{
+    "afcea203bd414fbbe1da95ef09d7eae256059bc8": "flvstreamer: update 2.1c1 bottle.",
+    "c37d8b2513925b0b427f71dddb80843d227b18cb": "flvstreamer: secure url(s)",
+    "1dc56ab2af509d5dbb7b37afae6a0bb9d46371ac": "flvstreamer: update 2.1c1 bottle.",
+    "259033e28f1eec56aa182a118d6302d3b67b748d": "flvstreamer: update url",
+    "b7e8602a1f11634209409e20a221be8cbf298d09": "flvstreamer: update 2.1c1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "abf58e7b673e91056e4d4f13523a3c91feb65297": "flvstreamer: update 2.1c1 bottle.",
+    "7f8c9d0a24e67675426b0c12aaa1d3550242b9e1": "flvstreamer: add rtmpdump conflict.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5b695a8488ad0b95706e01d97e354441b3a85d1d": "flvstreamer: add 2.1c1 bottle.",
+    "29ef266c5b51709aa4adaf9eeb40a068fc09a673": "flvstreamer: basic test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "255b93c49a8e00ebf8070e65ad5a6db032c6a5fd": "flvstreamer: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "5181069f119d7e6197d45fd99e427f493a32a751": "New formula flvstreamer"
+}

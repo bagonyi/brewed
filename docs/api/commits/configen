@@ -1,0 +1,13 @@
+{
+    "ac6f8bf6e8ee677e0258804cc2bae0b9dfeb19b1": "configen: update 1.0.2 bottle.",
+    "3aa3530e39abfd6e40e31f619a942841a6474411": "configen 1.0.2",
+    "0ba028468b62b43e5b9605bb815400ff5aaa8558": "configen: update 1.0.1 bottle.",
+    "d203e65d07d17b4f6d2c83560120dba32e2e4d34": "configen: secure/fix url(s)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6581f1ca6a94d113c2a7d40a4f91a9d20bda969b": "configen: update 1.0.1 bottle.",
+    "ba166d5aad5779af71ae9f6bd7be9d33074968a6": "configen 1.0.1",
+    "0570bf5a4de6f22740023330d16b1af3bcdf0c90": "configen: update 1.0.0 bottle.",
+    "e5d7c2cf9e9f5d1c4bae196533f964c90360323c": "configen: add 1.0.0 bottle.",
+    "4b02e9340317de60ecfd360c791f07ef78d7faab": "configen 1.0.0 (new formula)"
+}

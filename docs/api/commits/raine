@@ -1,0 +1,16 @@
+{
+    "5307996c35577a92ba65f17de734c604ac0bad1c": "raine: remove stray line",
+    "51088775ea1646c76345b4aca4a280f8c13a9cc1": "raine: update 0.64.15 bottle.",
+    "24f56a26d111424f48e088e13dc114fd52dc3a44": "raine 0.64.15",
+    "73842a9afc4b657bd83c13bc00efb9a1dcaeac37": "raine: secure url(s)",
+    "a5029a2488356eab07fb44b726b2ea0f6caa2e15": "raine: update 0.64.13 bottle.",
+    "a2c2243e562ee233eb0fe46a8daf1d7633d6cce4": "raine: fix for Xcode 9",
+    "c138594237186975de75b6405d32e8bb8f6f0038": "raine: update resources",
+    "08b3fd4e2d653463251370ae3a5a45b9db7a2e5a": "raine: secure url(s)",
+    "ea5d6545b2497727b8eeacd9dd8d30538179df38": "raine: swap GNU url and mirror.",
+    "86dc170af7ab56ea1cd6f51b8b46d3b50c031fa9": "raine: canonicalize sf.net url, secure homepage",
+    "797583919a3dea45699b3fe3f08c8f764e5ad18c": "raine: add 0.64.13 bottle.",
+    "5c689e005e3d8b84702bd7380ad4934ed86ed0b9": "raine: build and link libraries statically",
+    "a92da80272efdbce2c2e80c9ff8595822da3b838": "raine: vendor dependencies",
+    "00ef07bbe099e8863ffe266fe0eebe627f41c3af": "raine: import from homebrew/games."
+}

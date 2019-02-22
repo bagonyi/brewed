@@ -1,0 +1,11 @@
+{
+    "59fb81095e2f1ff5ad16a2084c096f8825a65a44": "dhex: remove references to pre-Mavericks.",
+    "c661c03f41376340afd24d483db0deffa0989f29": "dhex: update 0.68 bottle.",
+    "ee0f27b6944f343375a1590f1dceeab1d84faff2": "dhex: update 0.68 bottle.",
+    "e5ff1c75d821bbee46776deace7e54e8a11d1dca": "dhex: update 0.68 bottle.",
+    "6ae35ba948d33ebfc2162e90d306b97af6cb12e8": "dhex: update 0.68 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "96b8f9743aad8313b19098f5d39a4dfa642aa2d6": "dhex: add 0.68 bottle.",
+    "c42fd07785bf9b0dc9f04d193a81d7ceeef0eb60": "dhex: test added",
+    "307927e44c28435df7b991d16f67fb1a8ad4a2e4": "dhex 0.68"
+}

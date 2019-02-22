@@ -1,0 +1,8 @@
+{
+    "4b055e3187566418587f71dc9412f1da61663b09": "xlispstat: update 3.52.23 bottle.",
+    "653506c788f817c08f02d4c13ffecfb38c881778": "xlispstat: use ENV.deparallelize.",
+    "72c5a8d1bc737b06f4995d2cb033eeb0433af4c0": "xlispstat: update 3.52.23 bottle.",
+    "562e1fe3a4e767738edeaaf265cbdd5f63afa4de": "xlispstat: use https for homepage and stable url",
+    "d2569111f11156dafe8d2fe74a9a01d6e62037fa": "xlispstat: add 3.52.23 bottle.",
+    "abba2745a529805ff593723f3514711a510428d7": "xlispstat: import from homebrew/x11."
+}

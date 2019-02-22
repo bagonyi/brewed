@@ -1,0 +1,13 @@
+{
+    "b09ffeed4fa85827e4d4c33706bd987c3ab7fafa": "ocaml-num: update 1.1_4 bottle.",
+    "92415fd60dde0bde768cabadbda612a5a52e6f4c": "ocaml-num: revision bump for ocaml 4.07.1",
+    "b80ec56a10b4201abd223fc111f20fa7b7ded3d2": "ocaml-num: update 1.1_3 bottle.",
+    "fb6a11299a85ce62c2c91eca707e49d14985b35f": "ocaml-num: update 1.1_3 bottle.",
+    "7998a7e8d7c3997b3dc461ee938dfa1fe44993c4": "ocaml-num: revision for ocaml",
+    "5e26635428f481b4d057180775587ebc360847c3": "ocaml-num: update 1.1_2 bottle.",
+    "f4fcafb93501813034a0f129ec41c0a0a32a3b55": "ocaml-num: revision for ocaml",
+    "63d5e022da26aaf6119f0d557a538926785e8b3d": "ocaml-num: update 1.1_1 bottle.",
+    "1babff2e040ea7b3abf1ed40715943fc807ba4b9": "ocaml-num: depend on ocaml-findlib at build time",
+    "db7a2d8f61017082dc4c19350ff540d5c5bc3286": "ocaml-num: add 1.1 bottle.",
+    "47d959cf4685081cc064f801bc26bdb610409e1c": "ocaml-num 1.1 (new formula)"
+}

@@ -1,0 +1,17 @@
+{
+    "d1d7e57ba124a74c35f9a169a4a0dd76505fdeef": "unyaffs: update 0.9.7 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "3a35a48d9f9649d45268bde87011e83c791a9737": "unyaffs: update 0.9.7 bottle.",
+    "7f7bf65ebcfd97651521ff83990bcf5217775f9b": "unyaffs 0.9.7",
+    "8968ae2cba88c044ddfe7f7b201dd9c1b3f34e10": "unyaffs: update 0.9.6 bottle.",
+    "2a84ac506961e511b8061fc5731f78b981ea6462": "unyaffs: update 0.9.6 bottle.",
+    "344a6b81386cffd988fca9e3f0e69db7ce4f40e3": "unyaffs: update 0.9.6 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d46c2bf974e5ad44d87bae48a3b467c8e00e19c3": "unyaffs: add 0.9.6 bottle.",
+    "9cb3c7a2a4b97dd432d4c4ba5e73f725893562f9": "unyaffs 0.9.6 (new formula)",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "620317ca6df6102aeb70eb73108fc3c22dbfeedc": "Update formulae to use ENV.cflags",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "0012735c227501ae1ca1b406aef090fb2a7ecc3d": "New Formula: unyaffs"
+}

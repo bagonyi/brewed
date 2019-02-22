@@ -1,0 +1,14 @@
+{
+    "616ba1b76c043a10004aa809714a69e380c1da50": "libnotify: update 0.7.7_1 bottle.",
+    "23489bfb46226b6ec3269a45114f310f3f0b3093": "libnotify: update 0.7.7_1 bottle.",
+    "b0e5ddaa91cee977d76cbe1422d4dbbc7fa4098d": "libnotify: make gobject-introspection build-time dependency",
+    "be13f67522092f224d1643a3c622b833fe3cb71b": "libnotify: update 0.7.7 bottle.",
+    "38f88a7683ed1a9f4e072752266a3f5b06daa7b7": "libnotify: update 0.7.7 bottle.",
+    "2f587bf1eb0b133dc0e024a9474d00c17d676a3c": "libnotify 0.7.7",
+    "92a2d53d2739c0010d221f1cd5321be023c2c429": "libnotify: update 0.7.6 bottle.",
+    "02dd251c4f89b756bda5279823b1daa2af3114d2": "libnotify: add desc",
+    "de34711683b14088c281d7b2da2537f665f2b523": "libnotify: add 0.7.6 bottle.",
+    "109ee8f7aa89b6c3ae44bf4d0d51fb9b04bc3757": "libnotify: dependency fix",
+    "5785335736f67444386e819b6cf4c4d6488f4d18": "libnotify: formula cleanup/remove x11 dep",
+    "60d1fc8659960a9b405b4fe6b243d3fc9506de3a": "libnotify: migrate from x11"
+}

@@ -1,0 +1,12 @@
+{
+    "6ec65be89a4f495c57d8f9b21ed3e2fed0f76fa9": "libvterm: update 726 bottle.",
+    "ed47f274e3f4db27b8b469725eed67cf5ba5a503": "libvterm 726",
+    "90822801c399538dc4be13b58898187dc077b2e4": "libvterm: update 681 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fd14a37f5e1937fb75edff6dc9c36c0ac7b7ba2d": "libvterm: update 681 bottle.",
+    "cf7e4aa558d5c8260a447d6495b128e3f3d13986": "libvterm: fix test on 10.13",
+    "709118429531cfc7bb2ef22f58c8f986157d321c": "libvterm: update 681 bottle.",
+    "76d8cccc5c95ecd43f9a5447ad4b5711b7eb6446": "libvterm: add 681 bottle.",
+    "1ad86ac3f4854a456035883dbfe02d3d27a2ff68": "libvterm 681 (new formula)"
+}

@@ -1,0 +1,12 @@
+{
+    "c250ad8a656f46966bc9d73cb1911b4a5a6c1118": "bde: update 3.0.0.0_1 bottle.",
+    "4ca1bcf7d5b737f6fd1f8fe583935ea592a54e67": "bde: use system python",
+    "c8e79f171394f5789ec80508621727e4fc6a2d4d": "bde: update 3.0.0.0 bottle.",
+    "9aa8b49ade1d99c5f266ec15b2e3195e76276b56": "bde: depend on python@2",
+    "fc0f9ff9eeb6b6540862bfd4faa5f2fc917ddbbc": "bde: make system Python dependency explicit",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ec9305ba5975d76104ff2ce0fa2d5fd6366f54d7": "bde: update 3.0.0.0 bottle.",
+    "6145635be113a59d517024684cfb80f2be0645c3": "bde: update 3.0.0.0 bottle.",
+    "fa72a6b407ef867002e9132bb441ad71ec95acdf": "bde: add 3.0.0.0 bottle.",
+    "fffe992ad484c0abc768d52cca4bddbd329b1c13": "bde 3.0.0.0 (new formula)"
+}

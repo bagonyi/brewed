@@ -1,0 +1,18 @@
+{
+    "7bf482b721492041a3d5f5390c0e496c265668ad": "svdlibc: update 1.4 bottle.",
+    "675a37514ab5f8a9e5f706c7e5bb265af6c6bef4": "svdlibc: update 1.4 bottle.",
+    "d86d572334956bd5e63d799d48da97aed9e19f46": "svdlibc: fix audit",
+    "edb7eea0baebc1927e305ea0d22b95259eae0408": "svdlibc: update 1.4 bottle.",
+    "4c276d8269799ccc871f9ca53e8c0187046477d9": "svdlibc: update 1.4 bottle.",
+    "3d05740f7f9e04d7973b5bdff44e31901482d105": "svdlibc: use https homepage",
+    "2d23796afebeab38117f5164a0de7ebf0de925cd": "svdlibc: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5f36e10aa98b958e9db6afe07644911753797bf5": "svdlibc: update 1.4 bottle.",
+    "7310dc1301042ffefc2dcdcdc3dc0a6e39a71ced": "svdlibc: update 1.4 bottle.",
+    "3298e2a5106674f29840b341637636df30454296": "svdlibc: install include file",
+    "5ccfbbb3a0770d28cca969a446e740bf58b1388c": "svdlibc: add 1.4 bottle.",
+    "eaee8b95d572eb9c5e235e54ba966ad81e93c459": "svdlibc 1.4",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2c8b3f93e9e81eae36d172204941f96e6642664f": "Added svdlibc formula"
+}

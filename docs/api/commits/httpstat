@@ -1,0 +1,9 @@
+{
+    "da8cbc096f986e403cf255a10d8baeaa7da770e7": "httpstat: use system python",
+    "bf2fde7ad61d0f100a605e68f32dba0fbbf8238e": "httpstat: depend on python@2",
+    "91022159dac733c79511033d950660ae1c069d97": "httpstat: rename python@2 dependency",
+    "06d565a0093fb79f0de2b4bf6babe49e63bc6a13": "httpstat: depend on python instead of :python",
+    "7a19380b5761a8f87c1cfcf013fb61bf93141c10": "httpstat 1.2.1",
+    "394ec27df40047f8cf6246ac30d0646a073cbbb7": "httpstat 1.2.0 (#5284)",
+    "52a0107734c61cd3b5ff613b83c96ba8a5e55fd3": "httpstat 1.1.3 (new formula)"
+}

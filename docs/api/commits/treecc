@@ -1,0 +1,15 @@
+{
+    "43ba490020ce4b678d0cb9df3ac653461541791d": "treecc: update 0.3.10 bottle.",
+    "459da47c8c96ddfaa54e72a30a44c9a837bdcd65": "treecc: update 0.3.10 bottle.",
+    "04f2b8c9dfc1a3b6b06be39e217f19523b0722be": "treecc: update 0.3.10 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "cf6b8f990b384ecdb2816d515981a30ebf650e8c": "treecc: add 0.3.10 bottle.",
+    "67d1a99bda8d03275e8a921c4368ae2ee6c6edd6": "treecc: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "f452f8c256a50c456cd14bfb2665dab699945220": "treecc: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "0212c4d943b04b7096927a5c7c48677d964f2263": "treecc 0.3.10"
+}

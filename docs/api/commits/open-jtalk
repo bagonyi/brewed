@@ -1,0 +1,14 @@
+{
+    "3568369e0b0f49fb60d34894c9e313024a18df2e": "open-jtalk: remove references to pre-Mavericks.",
+    "9940189d4dffb26a82884ed555b895f53ea2241e": "open-jtalk: update 1.10_1 bottle.",
+    "a0a08ef10ca2ba432afd43ea2fb023d56bf4449e": "open-jtalk: update 1.10_1 bottle.",
+    "3ad7176418b5808c14227370e050977fb94cfdae": "open-jtalk: fix audit --warning",
+    "a5245830cf97ea72d2a228f00d702079bdb4c4a8": "open-jtalk: update 1.10_1 bottle.",
+    "b978ca6fd369b757595217adcd07d1a79d92fc75": "open-jtalk: update resources",
+    "14e6cc51b032f4bdba49a2d9e82a352d10335e90": "open-jtalk: update 1.10 bottle.",
+    "7300a71b7ee9b232ca3edff4ab7a18c5ad00b363": "open-jtalk 1.10",
+    "54a64de0f31ad2dd0b8df601c0c9ef5b59ffe364": "open-jtalk: update 1.09 bottle.",
+    "1c8e3f0336618573b4079353b8f79d5e33c3b1b3": "open-jtalk: use secure url in comment",
+    "bc5ede6a5a70f3ea27be5352a845053a1d9c010e": "open-jtalk: add 1.09 bottle.",
+    "24044c239f8f8aeaedff27158e3f6e334ab02ce7": "open-jtalk 1.09 (new formula)"
+}

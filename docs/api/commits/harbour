@@ -1,0 +1,20 @@
+{
+    "015145dc570f5aa276ab0f959ad8d77704952e15": "harbour: update 3.0.0 bottle.",
+    "942b055c077d880cc811db85a9cb6a92dd7778da": "harbour: remove options",
+    "0c76e3cc591c9d5e21adcf66d23c1fa26b91311e": "harbour: update 3.0.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7b3b58f78a0f8b26c3e5333d69de13f106aff370": "harbour: update 3.0.0 bottle.",
+    "bd280d499f29426984878801d5e1bac60a7b2818": "harbour: Fix audit --strict expression order issues. (#5666)",
+    "4919e47cb4e4ebe4ec8edbffe229682698ced13c": "harbour: update 3.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "271608a6b808a617091c30275bcc2545bd18c393": "harbour: update 3.0.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a5cdb03d9167de10907a246f41f1b07197949434": "harbour: update 3.0.0 bottle.",
+    "2ee0890495cf98eac11d38d5a91fac68f41d594f": "harbour: make x11 dependency optional.",
+    "7ec2f165673dc5d647348369665378a9606542fa": "harbour: modernize, extend test, format test",
+    "55f7e2a336b1095e160493b2c7860455a56c47e2": "Don't use a tarball for HEAD",
+    "b2cbeb1150b1d47a6f3b6dffc7404d897b8e41b3": "harbour: add 3.0.0 bottle.",
+    "a44a1dc0483387fa234e197732213b2596b0ed7e": "Harbour 3.0.0 (new formula)."
+}

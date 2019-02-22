@@ -1,0 +1,14 @@
+{
+    "68ac9e82e5a4df5f9a3e063f7dea8b40c9ffa5fa": "libtcod: update 1.8.2 bottle.",
+    "8f9068c5f162e019025d243ab21eaa8911a1ef79": "libtcod 1.8.2",
+    "e2b3ce80b283123b9b1689b1f4ef85a7f6a68e9c": "libtcod: update 1.6.4 bottle.",
+    "21f8b43964bf267d586870998afb53e6aeab4669": "libtcod: update 1.6.4 bottle.",
+    "fd33c55f7915ff18b8fa99578560842fc334de01": "libtcod 1.6.4",
+    "50a1e018ac502db5d8a3f5c23f4fe6bde58bba80": "libtcod: fix typo in description",
+    "f8308172697fe1ce9d187a6e092872f0f6151212": "libtcod: update 1.6.3 bottle.",
+    "aa8f3c45f881446c387cb99b3137a45b2420d6f5": "libtcod 1.6.3",
+    "f305e7f9731ef0de5c482f257bf0302fddf6ca15": "libtcod: update 1.5.1 bottle.",
+    "ed6f66910e160b7ef49a8db86c5f1c775a490435": "libtcod: conflict with libzip",
+    "1d547fb9b944b0040b96afd333da5a348335146e": "libtcod: add 1.5.1 bottle.",
+    "020ebd5869ee745d692bf15071ce7adb6eccd71c": "libtcod: import from homebrew/games."
+}

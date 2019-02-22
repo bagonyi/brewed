@@ -1,0 +1,23 @@
+{
+    "23a62ee40546d892bdf7964ea1f355a73ff39419": "devtodo: update 0.1.20_2 bottle.",
+    "5903a8cad1ed6762da7d94c0adc7b64a191ccc9d": "devtodo: revision for readline",
+    "cad085e696291966035fc792dd2219a4e8f307fb": "devtodo: update 0.1.20_1 bottle.",
+    "7b5c3fe9086ff553b2201fa1866dac0694a66668": "devtodo: add conflict",
+    "5ba27b5403cdf9ace0875a0b988f844562aae0bb": "devtodo: add a test (#23097)",
+    "7266f52ed153ecefd3cc75feb4d06f3d83a3b42c": "devtodo: update 0.1.20_1 bottle.",
+    "cb34c33eeea54eb756c4167a8550296a5d7e66c2": "devtodo: secure url(s)",
+    "58b574b4b69282c8a12201b51098d0bcfab03e06": "devtodo: use https for homepage and stable url (#11673)",
+    "b206aa2949f32e62a3f8d719dba6ed95d5adc997": "devtodo: update 0.1.20_1 bottle.",
+    "c79a94e6542399b1341092245b8508f3bf65f687": "devtodo: revision for readline",
+    "d7cd0382d6f542309cbf9a8024be32c258a2a798": "devtodo: add 0.1.20 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "925dc12510d5eae7d005099356b6791117b5cce0": "devtodo: use patch DSL",
+    "8c2998215320942b1329f5b073fad7bfa33e9976": "Revert \"Rename readline to gnu-readline\"",
+    "e2f98568822c4f3f9b180b77a2ef10236189e2fa": "Rename readline to gnu-readline",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a50f16e38c1c5d538c7c181ba14b91cc34bb44c4": "devtodo: move patch comment up to def patches",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "3b02fa0e9aa37cdd7c9e48cfbd0f823554fd51c0": "Add devtodo formula"
+}

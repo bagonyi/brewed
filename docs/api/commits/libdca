@@ -1,0 +1,18 @@
+{
+    "4651f8e1a6e37b466436d72bf1e8b0b70b8b2596": "libdca: update 0.0.6 bottle.",
+    "836f0327fd2e4904db1f79c40a31d9335c725b18": "libdca: update 0.0.6 bottle.",
+    "41edee4308ddfd3c4562fd7b3a3a8e82d9582016": "libdca 0.0.6",
+    "7c36e479ce6bef206e76ae4d1ee89d43599a3006": "libdca: update 0.0.5 bottle.",
+    "9d0e374aa3285484c6258ce75d24af10445b9aa1": "libdca: update 0.0.5 bottle.",
+    "c027e2865aa5b8018207c5813317b9a90a963614": "libdca: update 0.0.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c337d46ea4416f291e255a725f209b7c58ec2957": "libdca: use ssl/tls homepage",
+    "d11e143450cbe28f45dc37b988f33cf6587e81a9": "libdca: use ssl/tls url, sha256 hash, modernize",
+    "5c713bca3a29ee8978de7142bd3547e800984194": "libdca: add 0.0.5 bottle.",
+    "472cdc6685c7be8b71203763d62ed9465c495d1e": "libdca: fix build with clang",
+    "f84a26155f3f98048fc9156ddb308507dcb399aa": "libdca: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "3d1d30ba3c6440c947393826dbf38a43d038c33e": "Added libdca formula."
+}

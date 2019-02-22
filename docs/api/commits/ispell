@@ -1,0 +1,22 @@
+{
+    "2bda0d404bdc67db23ac208c27034802a5948dc6": "ispell: remove references to pre-Mavericks.",
+    "07c31257bde704cc352c168e5d8d237d3919bdc0": "ispell: update 3.4.00 bottle.",
+    "88d6f1d0df9da1f546ed3c61e27db6514f407e82": "ispell: update 3.4.00 bottle.",
+    "ef2f5fa8988cffee63a5d5c823205a898ea4d284": "ispell: remove ENV.no_optimiziation no-op.",
+    "2094b2e01a01d471861b933027f94c64cb6c4177": "ispell: use secure homepage and fix and audit nit",
+    "d5bdbd74233f368b00a23c435c42f840748c5910": "ispell: update 3.4.00 bottle.",
+    "0998680c62efaba23adcbf4f8431b58217d3c480": "ispell: use an https url",
+    "8398b601a37f261a11535ce9dcff8929b830980b": "ispell: update 3.4.00 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cf4bc56c70de2b1f2c6787fb7ee3cfb51c52e18e": "ispell: add 3.4.00 bottle.",
+    "29f66f47980c58c073c102a865c264d086a4ab0b": "ispell 3.4.00",
+    "57c6e12c0b3ffda23d5f69e7305115fd6cf0f683": "ispell: drop no-op inreplace",
+    "d67381fad5e12f318b75ab0889456da5398c4eb7": "Rely on the build environment rather than use MacOS.locate",
+    "6736715e25a0a57ea5fdd6bcd0486e76144f31ce": "ispell: move non-libs into subdirectory",
+    "a945717dc2c057269a8703763bd733c78549efd4": "ispell: don't hard-code yacc path",
+    "7c2c990ee0765913f97c01f830ad90741445b1e8": "ispell: use debian mirror",
+    "b3c5e9d1afd59704031e47002e49d09d2cd414e0": "ispell: remove unused skip_clean",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "3efc4e0b3e476a0ac9aa53d0e19cb07adacef497": "ispell: remove pointless test",
+    "53737eb7d654df361779d8cddba08c9e58779612": "ispell 3.3.02"
+}

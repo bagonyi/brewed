@@ -1,0 +1,16 @@
+{
+    "c96e97a1a5adc16bfed397849645d0e6c898fb16": "redex: fix dependency order",
+    "39970cea5f5963ba72b5416a9415f3d8c8ffac4d": "redex: update 2017.10.31_1 bottle.",
+    "182b3f6c580f39d2700a994216b7d96d52b7d431": "redex: update url for test resource (#30640)",
+    "ad3a9ab14d52799f667851c1d52aefaf86ac27db": "redex: update 2017.10.31_1 bottle.",
+    "32c2ad62db661a0fda39c63d433ddd121c942a54": "redex: rename python dependency",
+    "b116d3e71773bb7b971174b3a9432190a3183ac6": "redex: use secure homepage",
+    "ea0fe2dbf565d5073a907a18298161c2a67699c1": "redex: update 2017.10.31 bottle.",
+    "1c00a0234756d5317e8c8780795843a5acd57194": "redex 2017.10.31",
+    "b9b4fe654f8bd7b9f8b69c2372c105817974cb51": "redex: update 1.1.0_1 bottle.",
+    "05b0c806bf30907896e8ef0d2dfa960e9dba9308": "redex: fix checksum",
+    "d622e350405db034e62385584737d4f189a7991c": "redex: update 1.1.0_1 bottle.",
+    "c6d4100fcbae0c67b36cb129202a9c126480791a": "redex: revision for jsoncpp",
+    "1f6506ce67f6188ff72a17c2e8e60a096e116f2b": "redex: add 1.1.0 bottle.",
+    "29da65572608325eea8b05d7812eaa25d02d434b": "redex 1.1.0 (new formula)"
+}

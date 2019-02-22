@@ -1,0 +1,20 @@
+{
+    "f97f01e5167dd1b1de8482f58bd1eb18ac02cf81": "duff: update 0.5.2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f2a540b27ac86ef8d1d4c208379701c07379aad5": "duff: update 0.5.2 bottle.",
+    "527a0500a6d05c19deb979fcab2089277c4a35da": "duff: fix audit --warning",
+    "02db6997a66cbda29416b89735cbf161107f6a3d": "duff: update 0.5.2 bottle.",
+    "d3d1b4d224193b3e2a770b9a0255a0a97292d850": "duff: Add test.",
+    "4bbbad2efd436de8f6e63d824e4877a49655bc4c": "duff: add 0.5.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "eb75a9c6aab15f5b0b82ea81b9eb9355497bc036": "duff: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "acf4e3d3c4c71a5b6f588474cd1c03d5ad10afc7": "duff 0.5.2",
+    "49a88bf08f146297a5d3f87ffa6b00a1ad0dda5e": "duff 0.5",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "aa1df559d2f41164942f922fe43d85610dd97076": "Normalize SourceForge urls",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "4373b73750fe2ac54329c18d488804fb90ff80f4": "adding a formula for duff"
+}

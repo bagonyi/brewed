@@ -1,0 +1,14 @@
+{
+    "056d0d6833ce950b4f1d35311fd2c1de1a1dff53": "rem: remove references to pre-Mavericks.",
+    "59e1a4c9252d2fc66834a174fb2ed50c5bbffc41": "rem: update 20150618 bottle.",
+    "3b970420d913b184a9a6137ef09e48ade7bcf669": "rem: update 20150618 bottle.",
+    "beffbdd5aa974c3b982c0fe6d0194b9492bfb2e8": "rem: pass SYMROOT",
+    "fc0511071e6636044c91b8c569c5a1235715e284": "rem: update 20150618 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "656285e1384d68426118c7b8eed47e056e3f126a": "rem: update 20150618 bottle.",
+    "478f6c8c6862e09ae7f8ea290ce363823ef5a5d9": "rem: conflicts with remind",
+    "461099230322cd7c2cceb5321f21e841cd3df7af": "rem: fix bottle spacing",
+    "5fa8a99919e08c7db2061aa8f60abe657ddceb51": "rem: add 20150618 bottle.",
+    "477e072f1fe40a41ae7905772f405c13325df084": "rem 20150618 (new formula)"
+}

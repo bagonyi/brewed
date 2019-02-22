@@ -1,0 +1,22 @@
+{
+    "03f98a9c19e75055b1e0f8256de6523dcec335bf": "instead: update 3.2.2 bottle.",
+    "4e4be21c24943cfc15b702196dda5e6d04699484": "instead 3.2.2",
+    "ac5ebe56a1e03155d31263928c8681eb9536c9be": "instead: update 3.2.1 bottle.",
+    "1a516e6f3a834ce5fba6cfd4e63c8e5ffe277665": "instead: update 3.2.1 bottle.",
+    "df1ba7ce4fb7c78da97bef108cde016390b400b7": "instead: tweak lua handling",
+    "7b6dafda2d25751a5f27b082b4a8559d7bc47850": "instead: update 3.2.1 bottle.",
+    "6690a0c0b2e5087d08a604b478f40f3d4cc31850": "instead 3.2.1",
+    "50d9c13ceaaee73edbbeda3787e0447eb1793d7c": "instead: update 3.1.2_1 bottle.",
+    "ea7d9b79ce70954dfe7c75a1cb8cc675a8f641da": "instead: revision for lua",
+    "3fad65db7fd789c426513db596d37d1ad1e02f81": "instead: update 3.1.2 bottle.",
+    "5efd6031a8e96b700a7efd1d1acc9e9d74df1b34": "instead: update 3.1.2 bottle.",
+    "68cfe7be4b47ee2fabf74a0813e0a92e51a6fe1b": "instead 3.1.2",
+    "f02c82ea60bb5594615b01ce60e81c3d581a10f2": "instead: update 3.1.1 bottle.",
+    "cf51a2200d8f460cefd1011b7687e1a30c6b22f2": "instead 3.1.1",
+    "79e7bdd27df82d2fcc9b4dab9777ef44625f0fb9": "instead: update 3.0.1 bottle.",
+    "42970015a582b9648df790dba43441593e20ad69": "instead 3.0.1",
+    "1ef8ad3e43035268a4ccc14f6ae023f27bd43007": "instead: update 3.0.0 bottle.",
+    "baaaf0bede825e568b577d4393847d0140b0e72a": "instead 3.0.0",
+    "8bf410700f1978010c0cff4a1b21ca5cab1f01a1": "instead: update 2.4.1 bottle.",
+    "c604b5e1c9b5efabe2f2f53f187212d4f7c389a3": "instead: import from homebrew/games."
+}

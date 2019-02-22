@@ -1,0 +1,16 @@
+{
+    "3cf01e1346597552a4dabc5b250d20dd77261dbd": "mpdviz: fix dependency order",
+    "551877a0c7104127dd0055871fb40e262952bf59": "mpdviz: update 0.4.6 bottle.",
+    "e10f46aa0efd57965f5e31fb406c41aa2b4098ed": "mpdviz: update 0.4.6 bottle.",
+    "0286f72f8b30881750cfeb14c7efc4bc2b22d4d3": "mpdviz: update 0.4.6 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0cf53057e9bfc066676de72e812aaae6b7340545": "mpdviz: update go_resource indentation style",
+    "330b58d97ca45f78962b70ae6e441e6698a20b8b": "mpdviz: add 0.4.6 bottle.",
+    "e8aa80fcb6eb5204b00a3e63360a140dc0fed393": "mpdviz: fix strict audit",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9b509d2887ead7741d82eed3838ba1af12f1d368": "mpdviz 0.4.6",
+    "475bcc30858cd672e733240f51b5f34bd3a91704": "mpdviz: model deps as resources",
+    "c7b5dc336c66c08dacce0f16bfbf4c1ff6e4142f": "mpdviz 0.4.3"
+}

@@ -1,0 +1,15 @@
+{
+    "8875b35fced0bb2ee9c68195397c7bbb7825d0ba": "rapidjson: remove options",
+    "a1a8f6fa135f01b9122034a46fe4a1d7351db63d": "rapidjson: update 1.1.0 bottle.",
+    "26ed67cc6bd75f0b4e7f8692f54331ed0dcc8917": "rapidjson: update 1.1.0 bottle.",
+    "3b141b7137da0810438deb4598d680762cf86ebc": "rapidjson: update 1.1.0 bottle.",
+    "1f37c406babeed81f3bff69caed22b73afe21e46": "rapidjson: update 1.1.0 bottle.",
+    "749e280750865a4225bc1c609657d5a58d621a99": "rapidjson 1.1.0",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "21693a92bd62596c879504feb7c423c775669599": "rapidjson: update 1.0.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5d2a30b32668dc3e5f265dee76dafb00ffc93907": "rapidjson: update 1.0.2 bottle.",
+    "9e83671ad690a88f7913ccdb40412a7b557ace30": "rapidjson 1.0.2",
+    "9f5b542bd5505970489b7b4d56a21addfeac33ae": "rapidjson: add 1.0.1 bottle.",
+    "7fcd6c64085289304a15ae281916f8eb538d38a9": "rapidjson 1.0.1"
+}

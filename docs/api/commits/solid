@@ -1,0 +1,17 @@
+{
+    "a08bfcfc99d3e230afd78c8e2d8928560bb60e4f": "solid: update 3.5.6 bottle.",
+    "4bb7c70a9ae9b5f9d30f3c8cd35ff675d8736b22": "solid: remove options",
+    "24567c4bd74f4aeafa9838bb883c0ae5e7f6e60c": "solid: fix component order",
+    "f376e568e06f3c359908a9afd4b6cedaf1c1bc51": "solid: update 3.5.6 bottle.",
+    "76e4d40fea1edf32b6547c3182f85e68681e4cdb": "solid: update 3.5.6 bottle.",
+    "d67a6fb9f068b0303b89b5af62595ebb5bf4d429": "solid: update 3.5.6 bottle.",
+    "ef0d9bab64d3d8ab044964a74ffeef10a15a5c51": "solid: update 3.5.6 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d2e4f113950a5d4130e62f46da6f48cf55a96f95": "solid: add 3.5.6 bottle.",
+    "a7c59f2b31fa37b3f9ed6d6a4a52ab0a3c327ba0": "solid: fix building on clang.",
+    "b7a74fc23836e1f9408805b8eb195a1214394f9c": "solid: use new dsl",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "8815dff05032531cf33d29d99bf28708e4921b34": "New Formula: solid"
+}

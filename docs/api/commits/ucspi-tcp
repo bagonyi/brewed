@@ -1,0 +1,17 @@
+{
+    "0a6e2e3d671a238b608d39edfa1dd7bfe400da32": "ucspi-tcp: update 0.88 bottle.",
+    "dc1b76eae385b43df47e4ec9c18e1b6660084d0f": "ucspi-tcp: update 0.88 bottle.",
+    "3244ac04ba6b8d3190c57facf25059f5630455b8": "ucspi-tcp: fix build on 10.13 (#22681)",
+    "cd699a75af4e6725779af0bcae72524d0169cd61": "ucspi-tcp: vendor IPv6 patch",
+    "729e165406f9d2c9a87bb9b1e219e91c125f669f": "ucspi-tcp: update 0.88 bottle.",
+    "a3c69abfe78bab3b632e2904d14be83d9d69a414": "ucspi-tcp: add 0.88 bottle.",
+    "053cf1efe24b41997e31488801a238c661b71330": "ucspi-tcp: use https urls",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "44bb17ae00edf628366e569d9eec709c04896168": "ucspi-tcp: fix strict audit.",
+    "2686bfb6ada717b9826fd62aa4e92adbeb549b77": "ucspi-tcp: fix make setup check.",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "7ada678ef7d8e2fca2cd2aa5fd2ff5d1413aa588": "ucspi-tcp: use full path to executable, fix test failure",
+    "a5a9a103eacf1e72be80a15af297511e31a65c69": "ucspi-tcp: use checksummed patches",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "af367447d4f50f8dae97efcb22beb8ddb41206aa": "ucspi-tcp 0.88"
+}

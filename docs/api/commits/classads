@@ -1,0 +1,16 @@
+{
+    "993d9688584d51e5d29922b3f3c29965922da7ef": "classads: update 1.0.10 bottle.",
+    "d77847c269c094d110bf2e1ed189cec7b3adfc23": "classads: update 1.0.10 bottle.",
+    "1cd0b2129269428ada2fea9c6418f2489887c880": "classads: update 1.0.10 bottle.",
+    "f3114615b06e60b985a27f8d0b17f7991346b697": "classads: update 1.0.10 bottle.",
+    "2f1fbfedd148571d1979de1739febf8057248d13": "classads: upgrade url to http (from ftp)",
+    "531d4457a8b5c26a8533432e96695dbacfbe22c9": "classads: add 1.0.10 bottle.",
+    "8808b40f7ad821282326ea8dc01d9bfdc08a9bc5": "classads: follow homepage redirect and readd https",
+    "e5a0cf7942bb9f0a54cb185dd92de3f4f8b12671": "classad: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2fcd5b3f06bdfa4feb58e63ef4f8ab7c1f8b7c7e": "classads: uses pcre, not pcre++",
+    "2cdad5c02eee68926191b75561a64b6be425d8eb": "classads 1.0.10",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "956a34f209e80fff8af2eafaa2ca0831157a325f": "New formula: classads"
+}

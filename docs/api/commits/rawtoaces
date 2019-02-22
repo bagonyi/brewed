@@ -1,0 +1,13 @@
+{
+    "837d6262e1610de4e1f6629fdb12faa7c648c8ab": "rawtoaces: update 1.0_4 bottle.",
+    "8cf55ed7899639a6fd29a10d02386b30088d435b": "rawtoaces: Bump revision",
+    "03c5e8aa0d7f9d33779b0cf5444007f11eb19322": "rawtoaces: update 1.0_3 bottle.",
+    "76f0b9c42219bef0ca6ac4713af41186beb8b110": "rawtoaces: update 1.0_3 bottle.",
+    "29d7bbfefb0265f47d340690e96f8a805a037b88": "rawtoaces: revision for libraw",
+    "5ef1a887a61dcb7607c17ef492c4d286516a5b1d": "rawtoaces: update 1.0_2 bottle.",
+    "1443511bd434ed7a1c7c1320c91c8f22be02e5ab": "rawtoaces: revision for ilmbase",
+    "c76f3274e0c1ff3d221f5e0fbe07a16dea597b9c": "rawtoaces: update 1.0_1 bottle.",
+    "e14874e3ccd5d123d4773f60e3079ac42ae8a709": "rawtoaces: revision for suite-sparse",
+    "273982647e3e19aeb66772d1aaaba13f4a80765f": "rawtoaces: add 1.0 bottle.",
+    "c61403d6b320708b6ea0415d255fcd49231a3d84": "rawtoaces 1.0 (new formula)"
+}

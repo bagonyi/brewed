@@ -1,0 +1,19 @@
+{
+    "5cd354aa9aee58f3dc6d5466e846d06b91c1e3de": "whatmp3: update 3.8_2 bottle.",
+    "69d61c09cece94dda758a85bd1b628997b34615a": "whatmp3: update 3.8_2 bottle.",
+    "c0f40387a59e749cc1f5c537dee82d41e8d17718": "whatmp3: remove options",
+    "310a464f2349d37bd3495976548556dee62fbcc7": "whatmp3: update 3.8_2 bottle.",
+    "efce7620cb374f587952ce72501a1966c8a8bbe5": "whatmp3: rename python dependency",
+    "e7ca30d4cb53e95f94fbb0f0b1bbafb5dbabe5bb": "whatmp3: update 3.8_1 bottle.",
+    "7447915dff887b0d4aea52a8d0f24c40b6a827cf": "whatmp3: depend on python3 instead of :python3",
+    "ec8392e5f906114e508159659f3d5b3fba3d291a": "whatmp3: fix rubocop warning.",
+    "1f899e0644bb792ea59c1d87f8f3b2c5cb0c77d2": "whatmp3: use assert_predicate",
+    "3a988d3f3114400e350867bf181083f9cae32cdb": "whatmp3: update 3.8 bottle.",
+    "a830c2a5c3cb6887ac6f1237096f018b35c6540e": "whatmp3: update 3.8 bottle.",
+    "1f958e559df5570496ddeccc19c65598aa0afacd": "whatmp3 3.8",
+    "3e12ec9430de7d8cfdc8112d81f89a25bb5daf8e": "whatmp3: update 3.7 bottle.",
+    "ae3d6c8b91cb2660f1e6c2194c0e7ad66f7fac15": "whatmp3: add 3.7 bottle.",
+    "5ecc568660e2a6ebcd508a9c88deda3d00ae71c3": "whatmp3: remove bottle :unneeded",
+    "57379604ad1d21f4cfb71a54595449f9bdada41b": "whatmp3 3.7",
+    "dbbf988f3293f0014f48e75eda9623d637664c86": "whatmp3 3.6 (new formula)"
+}

@@ -1,0 +1,12 @@
+{
+    "37d8cfd2eac72ba5fcf793c83ec1de7ca773525f": "apache-zeppelin 0.8.0 (#29497)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2aa745f71b2408c448ec5cd7057541fee1ed9701": "apache-zeppelin 0.7.3",
+    "c88f72186513b4d183b79def32f52ea13212de43": "apache-zeppelin 0.7.2 (#14547)",
+    "a0c5afd758f85eb5e76e82f1dd0fffc929f4ea99": "apache-zeppelin 0.7.1",
+    "f3fd566a09e8536d42322783b33e35d52f31ff73": "apache-zeppelin 0.7.0 (#11147)",
+    "13695dc90a9d0efd0cd62cfa460360a06256fcec": "apache-zeppelin: replace Utils::JSON with corelib JSON.",
+    "181c8501202a51d0337a50c7cf310dca0f2b0673": "apache-zeppelin 0.6.2 (#6113)",
+    "f5b48842d514bfc47a19130df63a997b60c8fd41": "apache-zeppelin 0.6.1 (new formula) (#4512)"
+}

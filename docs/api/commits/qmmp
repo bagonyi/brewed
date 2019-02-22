@@ -1,0 +1,22 @@
+{
+    "382a544cd759232ea70eb1a039a3ac85a33fb271": "qmmp: restore https for svn url(s)",
+    "4b3fb103e99a859d81b05590bb42d812428f3810": "qmmp: update 1.2.4_1 bottle.",
+    "eb544dcc90653f66db452e309cb03d5ebb36682e": "qmmp: fix broken linkage",
+    "fd1ec3fd771e6ba2955c6b3b70135ab56792f1bc": "qmmp: update 1.2.4_1 bottle.",
+    "0b73283334871fa353a55abbf9d9d75820fbacd9": "qmmp: revision bump for x264 r2917",
+    "d5ca242867aed8032dccf88b583bef9b645434eb": "qmmp: update 1.2.4 bottle.",
+    "6fdded39c3383100d124f140fa5169491806b313": "qmmp 1.2.4",
+    "178097c2c9840cf52d72fba6e6b4e46dc4e72818": "qmmp: fix dependency order",
+    "92fad9eaaeb473715d3de58d94f8ccdd84c26b9f": "qmmp: adjust svn URL",
+    "fd38675ffa3a8bf74e4d425e7a730f9982d34446": "qmmp: update 1.2.2 bottle.",
+    "6a5f897ab963face708b8592cc877cb5b0837d77": "qmmp: update 1.2.2 bottle.",
+    "c10fb965364b072a1b9aebcc89febb7fc8ba2e40": "qmmp 1.2.2",
+    "624a0be0b73996835d47b78808f885e7d8212f1d": "qmmp: update 1.2.1 bottle.",
+    "634c0bf039490c57d50e91696e505919bb675692": "qmmp 1.2.1",
+    "d14ef591c795c877471e745b91876010ab0bbac8": "qmmp: update 1.2.0 bottle.",
+    "a801d5ae5224aba767ee7f32d45c260283fc7041": "qmmp 1.2.0",
+    "60337e16dc22eb693208255b963830a0ee1120e5": "qmmp: update 1.1.8 bottle.",
+    "e5f7cd94e344a7686e446190142c2ff22496f557": "qmmp: secure url(s)",
+    "cfe9f0c530aeda68ef495ff81633b98a1e9f3615": "qmmp: add 1.1.8 bottle.",
+    "5f7c78e540c77475615913e193351e78227c49d2": "qmmp 1.1.8 (new formula)"
+}

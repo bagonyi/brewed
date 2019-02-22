@@ -1,0 +1,15 @@
+{
+    "ae4c1ccf98f65aa64b2ac417486a2ab6a178be09": "fuzzy-find: remove references to pre-Mavericks.",
+    "9017ab4de76471cd5727c29f96ffbf510159931d": "fuzzy-find: update 0.6.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "38be367f79a89aef65c90e64139ad291ad7832ff": "fuzzy-find: update 0.6.0 bottle.",
+    "e193f63b225d0ba6d7f34a2c86c94fd2ccf7ebc2": "fuzzy-find: update 0.6.0 bottle.",
+    "c01682fec41721dc26b5f6ef974d3d2574880305": "fuzzy-find: use elisp shorthand",
+    "a210332cfd8d6800e68c34f35667260e509ff029": "fuzzy-find: update 0.6.0 bottle.",
+    "b0c44da89059c25791a628b58f15ca5370c54e5c": "fuzzy-find: add 0.6.0 bottle.",
+    "df7fd1a509a44b6a14e6bbf032e07d4193057d9b": "fuzzy-find: fix desc length, install emacs wrapper",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d4b2855764317c9322c84aee0733ac6391cb5003": "fuzzy-find 0.6.0",
+    "26f503bd01372e6b4e612aebbd6c0dfb9b49fc4e": "fuzzy-find v0.5"
+}

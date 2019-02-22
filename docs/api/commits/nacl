@@ -1,0 +1,21 @@
+{
+    "2686b29149b029a66cb44c075273b42402080145": "nacl: only support 64-bit",
+    "0f9b212e8cb2204bba1842845f1485227ecc35bf": "nacl: update 20110221 bottle.",
+    "07d0110c0651771fb3b4eb6811ac9d1952409e1c": "nacl: update 20110221 bottle.",
+    "a68190e1e35babd3fcf06a837ffee0d6da2a5221": "nacl: update comments",
+    "ed5001d247dfe1a867b1de0dfad54b99f5715ad3": "nacl: fix deprecated method call (#6868)",
+    "e41ccc2293181b6733c409b973a4c64f6c94ea23": "nacl: update 20110221 bottle.",
+    "0dd8121941a2cfb60f2f3f3b5a1e537bc3b2741e": "nacl: update 20110221 bottle.",
+    "e564ca847fe02135d9ef0e75d7610b6fca91235f": "nacl: build tweaks",
+    "5dc2950dfd37a18124ba694771c01c7ac74c001e": "nacl: update 20110221 bottle.",
+    "dffb8b2ccc1587e73a29edf23410e0f07d23805a": "nacl: use https homepage",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "758eab7ad4e4c18d80b3e44464e4764205a32132": "nacl: add 20110221 bottle.",
+    "2e79b0bc371faddd6481c83654820401e3ea654f": "nacl: homepage move",
+    "66340bbe2d18eaa28dba1584b1cf03e815031077": "nacl: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "f4da330cf4c617ac040cbe498a36f30f45b4fd34": "New formula: NaCl 20110221"
+}

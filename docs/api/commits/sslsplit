@@ -1,0 +1,19 @@
+{
+    "655615151df11709510899a109440082e5887c76": "sslsplit: shorten long lines.",
+    "c45e8f21cbadd7b1f49479a666062300dd07dc86": "sslsplit: update 0.5.3 bottle.",
+    "9a9dab1dd5367c526d7283f11e3070abf449ff2d": "sslsplit: update 0.5.3 bottle.",
+    "f730ba9f9201a43673dd35dc9898f794a82b6246": "sslsplit 0.5.3",
+    "361a24848c7742c2187f62f24b7c761a00f769e9": "sslsplit: update 0.5.2 bottle.",
+    "013875e313e8dd7c2921175939f9e33ca3d25612": "sslsplit 0.5.2",
+    "52e9b845b6716c3f54329af6d1d8dccf24cde10e": "sslsplit: update 0.5.1 bottle.",
+    "c866a6dbafc8c80be504ebcde86158fab7b05db8": "sslsplit 0.5.1",
+    "b820dff7ff4833bc22483d3fa4d93bd5e4e51c89": "sslsplit: update 0.5.0_1 bottle.",
+    "a751bc5772104b517f2c32d91073cdabd1f74894": "sslsplit: fix audit 'description must start with capital letter'",
+    "0b74f8f3dae973cb0faab3bc481b4a65fa0c5d48": "sslsplit: update 0.5.0_1 bottle.",
+    "a6e63d5185415b0022b0a53c1136378a2b765ce8": "sslsplit: revision for libevent",
+    "5bd0ced62c94c4ad4b143af8c0ebef67a7fa88bb": "sslsplit: update 0.5.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "bcac649c9855e7f22e8c24de3d461ca544baa1b6": "sslsplit: add 0.5.0 bottle.",
+    "850484a31d4dbbf2b7d59e9f0745cbde89a3d3fa": "sslsplit 0.5.0"
+}

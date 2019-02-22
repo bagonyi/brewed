@@ -1,0 +1,12 @@
+{
+    "086d3421076b5e7f6b96706f5ff3f90f54ad242e": "mmsrip: update 0.7.0 bottle.",
+    "4c7b3f77c7bfd12cd68d9c0a189a99a231ccc479": "mmsrip: update 0.7.0 bottle.",
+    "ea904f014e98a74d4a0d300ce8bf93897df34eed": "mmsrip: update 0.7.0 bottle.",
+    "41bd7301afb877faeb4df42e2a626635659818f2": "mmsrip: fix mandir",
+    "52abd62695672e87d0f98393fee62acf28161b97": "mmsrip: use secure urls",
+    "5f109dec76d0cc2dd66f80fe463d02d9f7dbb818": "mmsrip: add 0.7.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "55b8b843714d9a0c4ed5cf7ab19812cb1927b638": "mmsrip 0.7.0"
+}

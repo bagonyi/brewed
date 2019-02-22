@@ -1,0 +1,9 @@
+{
+    "e7708078a53d354aafa6e4f896ed15437f18c7ec": "gcviewer: use assert_predicate instead of File.exist?",
+    "3a2006645d0480f04c81bd6bb6916ddb6396786d": "gcviewer 1.35 (#15069)",
+    "eda124527a6f0e2a938e274abde9e2e0b3c4ad3a": "gcviewer: update 1.34.1 bottle.",
+    "f4c5357ec9fb928adf44bcaf74884ddb23841b83": "gcviewer: remove deprecated ENV.java_cache",
+    "2c940c9a624b69c97019e01a6626737b80b46351": "gcviewer: update 1.34.1 bottle.",
+    "b9ba486bd8c63d4f7d4a429df1eb01e95e612692": "gcviewer: add 1.34.1 bottle.",
+    "16faacc806520afc5fd13901b74abaa935fea7de": "gcviewer 1.34.1 (new formula)"
+}

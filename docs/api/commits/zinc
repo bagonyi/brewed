@@ -1,0 +1,17 @@
+{
+    "0b91039a7dcad02018af8d60b77e1cc70504b1b9": "zinc 0.3.15 (#13195)",
+    "75892ea5e5e52d601491490d641fb412c0d98c4e": "zinc 0.3.13 (#11267)",
+    "0f6b1c80a84fb757c29d7da6ea154e1c64e6cad2": "zinc 0.3.12 (#8211)",
+    "507286d4f7bde767bbafb93d211703abb54bf8ba": "zinc 0.3.11 (#2701)",
+    "e80ff65b98e3329d6b3e3c05afced8d48b177b97": "zinc 0.3.9",
+    "2010382d53bf7300fe66da0044d52269d3035d09": "zinc: use secure url",
+    "9a79ffe48301fce7fe83eabd175154b81b7c2bbb": "zinc: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8595f5a90970fefd08e88fc52db350bb0904bf61": "zinc 0.3.7",
+    "200f7eaa0a3dd9bb5ea29efe40654fbb84a51235": "zinc 0.3.5",
+    "c23d96e3913ddcff6c3bff937cf40dd8dce2fb63": "zinc 0.3.0",
+    "c887e074e63a8ab3b5a0f41b434aa025a1b53d88": "zinc 0.2.5",
+    "6a6b05081a15557dec80b9bd3d7b45b611ca3626": "zinc 0.2.0",
+    "aa50f18cfc8eaf185526e26a290d76c900601d8a": "Zinc 1.4.0"
+}

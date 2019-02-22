@@ -1,0 +1,17 @@
+{
+    "a0be95d58f76151aae4554d8d7754bbdb8f5bddf": "apache-brooklyn-cli: remove old code.",
+    "28d8a92da60675c7b91e907a821ed116a62f7067": "apache-brooklyn-cli: update 0.12.0 bottle.",
+    "4f7ce49ae6e3d1b6699823cc0e75fb98bc0c8eed": "apache-brooklyn-cli 0.12.0",
+    "bc3f85ad8daf7890464fd11cf9d8a7d0d41cd365": "apache-brooklyn-cli: update 0.11.0 bottle.",
+    "b5a80a53fa04878e0c7b175f07a15726dc03a30d": "apache-brooklyn-cli: fix checksum",
+    "cc78a8539c0de48a2005a58ce736e5edb9a863f8": "apache-brooklyn-cli: update 0.11.0 bottle.",
+    "2f9e055be68ccce267477fe38d957d0f65119e1f": "apache-brooklyn-cli 0.11.0",
+    "e151bf001ec17ff2d6ac5683448a4bfbd083235c": "apache-brooklyn-cli: update 0.10.0 bottle.",
+    "971d75d911ff02133a92ce429fe56ba962eaff76": "apache-brooklyn-cli 0.10.0",
+    "05ea042a482c479095c2442996a187bfa3783ed0": "apache-brooklyn-cli: update 0.9.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "84fb9d94f986110f0d6df90929b3bf68c87292f4": "apache-brooklyn-cli: update go_resource indentation style",
+    "1ade054dcc9fdd89095373a9b3a190f633d2fff0": "apache-brooklyn-cli: add 0.9.0 bottle.",
+    "ee0bfdbc6b811d9aed381baf9d6795e820a96644": "apache-brooklyn-cli 0.9.0 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "622da3ae7126798dc4c6e6cef0eb3f09cab2b5eb": "vbindiff: update 3.0_beta5 bottle.",
+    "ca57e9712ff3a5a0cc1424b5b4ea1c4945ae0b40": "vbindiff: update 3.0_beta5 bottle.",
+    "0e9a136c5ed3809d88472cb93c97a0c3c08a158d": "vbindiff 3.0_beta5",
+    "a4336ecae661eccc63dbf0e13d0b2eee3b926d65": "vbindiff: update 3.0_beta4 bottle.",
+    "99b1ff6262ae8993436bf93b6895c94e8d2fb7b2": "vbindiff: remove redundant version specification",
+    "3b2708c4424c9c0f8fb3cb03bf362c35cf34c630": "vbindiff: update 3.0_beta4 bottle.",
+    "2732d5f5662e664a146867a292492401441545c2": "vbindiff: use secure urls",
+    "4a656a4790cdfc849645b46ebe6ffab5b10586f3": "vbindiff: update 3.0_beta4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "af45be242c04dcdb013e6a10baefeef3cc84ce66": "vbindiff: add 3.0_beta4 bottle.",
+    "d469e91db163cb611218e6aa903b05c4a7962a3d": "vbindiff: test added",
+    "514b3eeaeaff4f02bccd887c74f4e241ba36f67b": "vbindiff: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "caff2aa1a6be42738561ccd9f41d311240312df3": "vbindiff formula"
+}

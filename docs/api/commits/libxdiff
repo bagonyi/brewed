@@ -1,0 +1,22 @@
+{
+    "80fe1135bb4e05a05b68ee5040eafa5221b8f4ee": "libxdiff: remove references to pre-Mavericks.",
+    "ab63e40e7786de117d433428a10ecb3c0589ff67": "libxdiff: update 0.23 bottle.",
+    "208c4ba412741ab8016d670b79266ad5a270d533": "libxdiff: update 0.23 bottle.",
+    "27daa1f38f6b21fe37ca5ccfc75c6c8691be5072": "libxdiff: update 0.23 bottle.",
+    "cdc896e8e5127f76d36b090731712ff28bb2f73a": "libxdiff: update 0.23 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d5b63dd91e83359c2abcef54ab66592950b6b9a9": "libxdiff: update 0.23 bottle.",
+    "db331fc7b74d42bdc4108aa86d35d4953e6f3349": "libxdiff: add 0.23 bottle.",
+    "5603ad15646cc62439067cb24f76850b49d5deda": "libxdiff: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "56a2f770329a90aca174a075f969e9903993ddfc": "Added LibXDiff",
+    "d7affe0e64619757cf2a482b137688aec4db06e0": "New formula: btparse",
+    "7dafc00d32b3fb5954df2c84c14e4b19d65271a1": "New formula a52dec",
+    "e36852a7b4842791a9012b925d9e4d6d0a4115c2": "Fix mandir for jasper",
+    "778863b3bd0d06e8e369c61e964e72661d17c4fe": "Fixed typo in the Jasper formula",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "1247b70de2f1b7f909f84d7ba0d5b6915ebaa4ca": "Jasper formula"
+}

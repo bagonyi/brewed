@@ -1,0 +1,17 @@
+{
+    "6b027a96e35194b56d2868e9c843eddcd273da37": "kakasi: remove references to pre-Mavericks.",
+    "afeb01954a7d891a6b3a1a3bca17e68fb64f44cf": "kakasi: update 2.3.6 bottle.",
+    "69b70fafebbc2dce8ea8231871f6f1e07e96f4fa": "kakasi: update 2.3.6 bottle.",
+    "9ab726f6c7398f2a37f119899783ca0637b7e832": "kakasi: fully scope test pipe_output call",
+    "156c9e97e321c123f4dc8ecf735ea259242a7da8": "kakasi: update 2.3.6 bottle.",
+    "f07c60a7d64c7629c89fcaae617368cb69e4bf16": "kakasi: update 2.3.6 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "70ce6d31793cef97608c0a01990a8bbcb6198376": "kakasi: update 2.3.6 bottle.",
+    "a6e8ce04907a9de42fa9f93b4aa4f3aa8e47571c": "kakasi: homepage link fixed",
+    "0998cde46f9e75de07809aaff1513d4b9936fc86": "kakasi: update 2.3.6 bottle.",
+    "dd175ea99f7a6ebf5e76799d0c96c097b7403b71": "kakasi 2.3.6",
+    "fc981aecb33b40603f8ba78835eac7e5a3766800": "kakasi: add 2.3.5 bottle.",
+    "a00847086c344400fd6324b084011eea0dd0b3cb": "kakasi 2.3.5"
+}

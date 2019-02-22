@@ -1,0 +1,12 @@
+{
+    "7653d4e7851da87cbb1351ca64274cf87dc2c189": "cosi: update 0.8.5 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ed6aa2372a213099fc81bcb7914a3ecca8236d99": "cosi: update 0.8.5 bottle.",
+    "b31aa269c8736f819d54395aec39eedcd4b38372": "cosi: update 0.8.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "1771b31da6320f1019e214189910926a93c38609": "cosi: update go_resource indentation style",
+    "7a6932e7878af01b0fc68cf7b5f8dbe8a0421eca": "cosi: fix the test",
+    "f02ee0bcd530184ba6e3a0d4483f798eb9f5b891": "cosi: add 0.8.5 bottle.",
+    "e5c03a725f75fefe16b587495cd09e45bf49afd2": "cosi 0.8.5 (new formula)"
+}

@@ -1,0 +1,16 @@
+{
+    "606713b3195024449ec6e9522c231d01f0261404": "libdivecomputer: remove options",
+    "a4509f2af9935f20757ed2284dc8828f527c82d5": "libdivecomputer: update 0.6.0 bottle.",
+    "621b3dfa3cedde20b923ba6655d8362efece97ff": "libdivecomputer: secure url(s)",
+    "404e393bbdbefdbf2363f8df9fef29de9adf7808": "libdivecomputer: update 0.6.0 bottle.",
+    "f9a8a98683b9becf960757ac9c0a4dddd2abf3d7": "libdivecomputer 0.6.0",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a52fb2646f2899835a60b5e4305ed8777733e6ff": "libdivecomputer: update 0.5.0 bottle.",
+    "0ed41f840dcea22d846af7efb1a00202e725f96e": "libdivecomputer: use secure head url",
+    "cc8bcd6ad4cefe9355200171562e04802fbc4e88": "libdivecomputer: update 0.5.0 bottle.",
+    "103c38c1162337f86cb473a84025bc4b456f1497": "libdivecomputer 0.5.0",
+    "a48d6ec05bffde839b8fe3581b822edb6463292f": "libdivecomputer: update 0.4.2 bottle.",
+    "76ec009c5483fb86d55c20aaf2944c07c8d1d3a6": "libdivecomputer: add 0.4.2 bottle.",
+    "f1d447651da99b02ddb13fe69f6954af61091a21": "libdivecomputer 0.4.2 (new formula)"
+}

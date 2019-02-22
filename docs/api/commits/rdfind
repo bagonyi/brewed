@@ -1,0 +1,22 @@
+{
+    "9d1020af324877a70bdadb3d2debbf0a426edfab": "rdfind: update 1.4.1 bottle.",
+    "b843a21546c5a559821548a01fd12c2a39e41974": "rdfind 1.4.1",
+    "5df3d1650a480ed0c64a185cfbb6b03c988907ae": "rdfind: update 1.3.5 bottle.",
+    "9a1009d8f15937ca90b887684251cbb41a605d02": "rdfind: update 1.3.5 bottle.",
+    "f18c793e8338b7cca05867d35149ce748376b180": "rdfind 1.3.5",
+    "96172e7c94c3080b2c1a05c8f45437b54fe79002": "rdfind: use refute_predicate instead of !File.exist?",
+    "0e12cd4d8acfc1d6cccc329a735807c541060522": "rdfind: use assert_predicate instead of File.exist?",
+    "3b061d80ef5cae358ae503248de0d5a8ea97415e": "rdfind: update 1.3.4_2 bottle.",
+    "e85d18c246d9bf158c0f35a20794f33f9563a001": "rdfind: update 1.3.4_2 bottle.",
+    "e7089c3485966e46ef4a9718dca94d3fa0289319": "rdfind: audit fixes",
+    "6bc90271cb507c4a0579693cd1ef09b96a1e4719": "rdfind: update 1.3.4_2 bottle.",
+    "6e586298c2e68661129d71a6a8e027006e04e214": "update revision on upgrading to nettle 3",
+    "493319ffc09db9d9246ee9c6331885d9fb38a453": "rdfind: add 1.3.4_1 bottle.",
+    "2532bf7c7a91b670ae96ca8443bf0b20a2fc4b06": "rdfind: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6ca1fbc3a91f0daf78022c321a6d105a533fa168": "Increment revisions on nettle dependents",
+    "70856da32ecc28f9305b910e5008684852191643": "rdfind: fix test",
+    "632da5906c3b4cddf482ce5512df63b5a6c5e688": "rdfind 1.3.4 (new formula)"
+}

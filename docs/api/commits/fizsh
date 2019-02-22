@@ -1,0 +1,16 @@
+{
+    "d78c7ad95d3a248c808c78cfa47b682da4602a5b": "fizsh: update 1.0.9 bottle.",
+    "b9d01146c704f413d5c6b9b0d5c7f4761065f61d": "fizsh: update 1.0.9 bottle.",
+    "75a03f71e2d75fd058ef35fc0dfba21682dc37b2": "fizsh: update 1.0.9 bottle.",
+    "69cea5caae6873dcea2f89d83eafaf7e3aa705a3": "fizsh 1.0.9",
+    "8da0cb1af3896cb62f8165a9cb505ce1724f0a88": "fizsh: update 1.0.8 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6a10c83560804dcc1a1fbaf5955d8d7975f17a14": "fizsh: update 1.0.8 bottle.",
+    "bba8c5c7cb43cc32c2f8e1e9778fd2a18b454689": "audit fixes: F 02: findutils - fmdiff",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "12a7061cb6175b194c83a819e0255e8e4d723dca": "fizsh: add 1.0.8 bottle.",
+    "f96fcb7eae1c8a4ef4a9a6c9559660c9aff1fab4": "fizsh 1.0.8 (new formula)"
+}

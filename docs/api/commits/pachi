@@ -1,0 +1,15 @@
+{
+    "69f53e6148a63ce499e5cd5df3934bee66d4c058": "pachi: remove references to pre-Mavericks.",
+    "bde70e89d56654e330024916e440f643783480c6": "pachi: secure url(s)",
+    "f14662d7dcd9406f1ee3c0a6899896f663ee7905": "pachi: remove options",
+    "7413a2f14ca99de87745d21ee38664ebbe6eba0f": "pachi: update 11.00_1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "00fe9d2f83a26750586a693feade1452df21634a": "pachi: update 11.00_1 bottle.",
+    "5377c1dfb028aa251d8f1b65cad07c5d1cd06233": "pachi: update 11.00_1 bottle.",
+    "0575eca2177d91f3aa38c7c32a20be28c291405f": "pachi: various style/location tweaks",
+    "4665c13a7c3c49815bcd902845a9137b5d7351ae": "pachi: fix rubocop warnings.",
+    "99407c648fe83ce1daf2ccbd52c38a8f3e7c02d8": "pachi: use https for \"patterns\" resource and \"book\" resource",
+    "74110c0e62d698e67fafa1e71dca9593c92f4861": "pachi: update 11.00 bottle.",
+    "d3929fb8976996d036354d689ee73de969e6a54c": "pachi: import from homebrew/games."
+}

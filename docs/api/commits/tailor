@@ -1,0 +1,21 @@
+{
+    "ae8b31923d15fec7b564bbf214e3e49fe72ebc6f": "tailor 0.12.0 (#11631)",
+    "c7d1985394758d68401cd877f1dba06409a742c9": "tailor 0.11.1",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "403ca3f429fe542342cc0aa3023018af2e1e4ce0": "tailor 0.11.0",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "61f2fcaca60ed1f887c13f51d718fad6c78fa8c2": "tailor 0.10.1",
+    "5eb41d7e40484ceec686d209321c22069f3a5344": "tailor 0.10.0",
+    "333a7bedc7de7169e9aa87a4eb9d5fbcb434a9a6": "tailor 0.9.1 (#765)",
+    "088dea3d22345a8b8a8feb1c2af4dc723a2724e5": "tailor 0.9.0",
+    "017225a955df155265ca91e325e6f060c8a982c4": "tailor 0.8.1",
+    "ed04e061da4867acffb079641a9fc8cc97c0fe0e": "tailor 0.8.0",
+    "d05ea8bea7dd1dde02f4f94af65c28a9fccac792": "tailor 0.7.0",
+    "144df1604a1498cbaea48cf2fa208c864cb84d93": "tailor 0.6.0",
+    "43c8eca0cf78c95f146b7d6a2ea2ff5468a2f073": "tailor 0.5.1",
+    "df7a6d73dffd417cc0e6fe322fbedd3d16587e03": "tailor 0.5.0",
+    "4146e299984f36a231a1178560bf638c5ddebdfa": "tailor 0.4.0",
+    "6c63222229a95d6b475262eb2abee827136edd93": "tailor 0.3.0",
+    "5f0283663441f46623ff3f850959b12d429fe2ef": "tailor 0.2.2",
+    "f5b0bcf4db4ae5dce798d091033d71a404b968e2": "tailor 0.2.1 (new formula)"
+}

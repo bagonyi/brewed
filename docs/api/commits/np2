@@ -1,0 +1,13 @@
+{
+    "a070951277573325381c1fd9e39e115d022a994e": "np2: restore https for svn url(s)",
+    "e47f98acbbdbc141228b8f3600a97eb04cfaa3bc": "np2: shorten long lines.",
+    "6f0538bcd655dd43ad26fdac42169e55a73e86bc": "np2: avoid HTTPS svn for Mojave",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "c33cbc5d8393c47de1e6a2858e75a97a50bfc5f4": "np2: secure url(s)",
+    "4ba8c3284e1692defbccff3f8a62a694232959a3": "np2: fix rubocop warning.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3405359094c7163efe31aea0bcd7e024f17cb2e2": "np2: update 0.86 bottle.",
+    "cde0cedbcaf67a8cda85269b41316f60bfc65774": "np2: use secure head and stable urls",
+    "12e4affcaac8ab3032bdb38181bfe5df24cd895a": "np2: update 0.86 bottle.",
+    "cfa5e98ff7186fc02c162dfa30a28d6598c99995": "np2: import from homebrew/games."
+}

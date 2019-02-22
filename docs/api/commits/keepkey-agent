@@ -1,0 +1,9 @@
+{
+    "49174a48d64a39f1235b9528920e3e2e7f31b1a2": "keepkey-agent: update 0.9.0_1 bottle.",
+    "1b327124202d3ddf9b7ffba3c20272af05474a66": "keepkey-agent: update 0.9.0_1 bottle.",
+    "d232ea734452d3693829afc2a7820f48ed501513": "keepkey-agent: revision for python",
+    "78ff10ebd1aed0ef271a3deef9f4683819e5200e": "keepkey-agent: add 0.9.0 bottle.",
+    "90886d99ba42982058ecf435ff1c148a401a582d": "keepkey-agent 0.9.0 (new formula)",
+    "63a50b20578319ea3a8b0c6465cb33203f24479b": "trezor-agent: add 0.9.2 bottle.",
+    "e03f329bc588ab78a7e4811d3d356f38f036dc6d": "trezor-agent 0.9.0 (new formula)"
+}

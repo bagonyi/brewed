@@ -1,0 +1,16 @@
+{
+    "1284bc27941ed9753b77aa7dc03ee99dca43f490": "id3tool: remove references to pre-Mavericks.",
+    "ee00cf28f49229eb0a9af849dcbbc6150298daff": "id3tool: update 1.2a bottle.",
+    "0c1765b85585611e5ad307c225a041a5059f9e4c": "id3tool: update 1.2a bottle.",
+    "58408625346515f288e59186f1ecf380831737bc": "id3tool: update 1.2a bottle.",
+    "975c707175a16466276c7727692482b5fa837ea6": "id3tool: update 1.2a bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3b39428921e131ff5c5a33b2a37bafb7ce69b78b": "id3tool: add 1.2a bottle.",
+    "6587efcf051c2cbd6bc321817a15c8202aef93b0": "id3tool: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "bd8589e2ff7e6ddecafe748799eaced7446f67a6": "id3tool: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "881d69f81227474be58bf8ccfc31c88ecd318aea": "added id3tool formula",
+    "9e38c0309ca8568d91364e995f266fdba621407a": "New Formula: sipsak"
+}

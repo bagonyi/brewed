@@ -1,0 +1,14 @@
+{
+    "8f8fe18db0acb37730c83f776dff95c82fbb5262": "goose: update 2.3.0 bottle.",
+    "31fd92e146bed5b4666bad7961e08aa0c7a5a747": "goose: update 2.3.0 bottle.",
+    "e3646032c429523e3397690323ed9ab3680b174c": "goose 2.3.0",
+    "92003d58ad1c07591878543cfe9193634f0cdf83": "goose: update 2.1.0 bottle.",
+    "3dc55e02c26f165ca55e59c57e1f3a23baf7bdff": "goose: install metafiles",
+    "8124f77808bc60368807bc88ada04362a083ecda": "goose: update 2.1.0 bottle.",
+    "b8b9f7c65fd19ebfdb82b243ae2f715001a93b70": "goose: update 2.1.0 bottle.",
+    "d4c200f6f19b13a85077f46aaf7f279e2137bf3d": "goose: depend on dep at build time",
+    "3c591bbbad86184c936299fc22830ebe60bfb73b": "goose: update 2.1.0 bottle.",
+    "2d51312471b8d1bdc646c3bca8c5913f83fe9005": "goose 2.1.0",
+    "7d1bcb6d674fb0eb7374ba92bb3ea93e7aae7f4b": "goose: add 2.0.0 bottle.",
+    "3e4767a983499b83257acc5b6fb6bcdfc7a87d34": "goose 2.0.0 (new formula)"
+}

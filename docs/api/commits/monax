@@ -1,0 +1,21 @@
+{
+    "423925989cb3f5acd7b3c4d5132b69fb0fc58260": "monax: update 0.18.0_1 bottle.",
+    "44e14dde83df74445cea8d89b1fcdfb86a57784f": "monax: remove docker dependency",
+    "39c3b2b572c9b61d02da7da93861f8ee45bd1616": "monax: update 0.18.0 bottle.",
+    "a9f84bdc5ee15a10dee70d8cb33c7727c33361fd": "monax: update 0.18.0 bottle.",
+    "176b7b72da5ea3f2c6ef8abe10746341e9de6d75": "monax: fix checksum",
+    "adcb27551aec71f87fcb531cd8ca044e6c29492e": "monax: update 0.18.0 bottle.",
+    "09d9563510ec6e2bc2a81aca88f8b06a895ecde6": "monax 0.18.0",
+    "f3eef96c3fca4c5792cb96ef864925077fce0726": "monax: update 0.17.0 bottle.",
+    "0db0a7a8cef58a21365bba1729508195b1c15812": "monax 0.17.0",
+    "290582381d646e4749f2713e41b15d851b41bf11": "monax: update 0.16.0 bottle.",
+    "11e804013a027b32765ba430ae5f9c9ab374f1b5": "monax 0.16.0",
+    "ea572085cac36767af303cfc905f1c2111e87724": "eris: update 0.12.0 bottle.",
+    "9a1c319501e9940aa3b7e7955cfbc6e32b6af8f9": "eris 0.12.0",
+    "ba9be25d642019b22f72f06dcfa2b4fbfec4586a": "eris: update 0.11.4 bottle.",
+    "a53f0fc4c321f33189c61e70dafd00309bc6c233": "eris 0.11.4 (stable), eris 0.12.0-rc3 (devel)",
+    "fa4a0047082bbe26ac9cf95e0938c7903fcdfa22": "eris: update 0.11.4 bottle.",
+    "d6720f3881af2b5d8d983f816dade9f71bdf1bed": "eris 0.12.0-rc1 (devel) (#2220)",
+    "c04dd5ed8592011384904caa9aa1ee084a40b898": "eris: add 0.11.4 bottle.",
+    "5a77b5ef69041bba9c5b9154e943ae605a403875": "eris 0.11.4 (new formula)"
+}

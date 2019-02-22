@@ -1,0 +1,19 @@
+{
+    "55e64a711b9dd3c60c9035158d45218ab23a6dc4": "aften: update 0.0.8 bottle.",
+    "ab6a0d58b824c6ea49f32f7671c2f104fc852258": "aften: update 0.0.8 bottle.",
+    "d43d7f7b894284921e573fbee61a8959dc67ef47": "aften: use https for \"sample_wav\" resource",
+    "a84115b2d2ae02d7ff8f79c4648cd1ae242bcf61": "aften: fix audit --warning",
+    "49e40547bbb88dee65a5a033c9a771cf7ee12ce6": "aften: update 0.0.8 bottle.",
+    "5dc8c6f1edadf1f574835eb5c2173e9053542830": "aften: update formula with test do block.",
+    "a934b234589b3f9ba5ffc51e116aa90246a85660": "aften: add 0.0.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "5048ce6389e1195287af45eb06d7ec3a09a7edc4": "aften: build shared library",
+    "83b371fba5fa7cbcf31048bbb6b3132c44b22c39": "Introduce block form of mkdir",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a820f89683247e79c992af142bd563b66db14eea": "New formula: aften"
+}

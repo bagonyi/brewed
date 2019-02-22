@@ -1,0 +1,6 @@
+{
+    "4f2779c9bf1b92db9babf2633045c7f716fa02d9": "mallet 2.0.8 (new formula)",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "4030e1f50c15163ae91bf1cc01532caa625ae673": "Mallet 2.0.7"
+}

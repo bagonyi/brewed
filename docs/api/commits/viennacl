@@ -1,0 +1,14 @@
+{
+    "34a8c9561068623f667aa2230c558f746c6cc4e9": "viennacl: update 1.7.1 bottle.",
+    "3f2b17950de22b655ba616cbcafa31e8f22da471": "viennacl: update 1.7.1 bottle.",
+    "ee224ebe951201af260bd212766ff0e09d154fc4": "viennacl: remove minimal macOS version",
+    "3ef51de66598b2573f996eda2d02f475f63b57be": "viennacl: fix audit about sourceforge link",
+    "02dee5b6b901d9c7243e183a15278a6786e941d2": "viennacl: update 1.7.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0f415f511c776384f7ffb40ff84665b9595187a2": "viennacl: update 1.7.1 bottle.",
+    "137bf9563978c252b878004975612cd030af7507": "viennacl 1.7.1",
+    "e41f37b7dc1dfb2e672f513f6430856761be4579": "viennacl: remove name from description",
+    "76bd71fafb404f0485c4e3e161d38f9e28edd320": "viennacl: add 1.7.0 bottle.",
+    "bf31762932da1cbed1c6f39f6e878f7b7d3ef5d4": "viennacl 1.7.0 (new formula)"
+}

@@ -1,0 +1,14 @@
+{
+    "efdfa2ed4743f71ec77d98d41ee5dba03b0a8956": "mac-robber: update 1.02 bottle.",
+    "eaec009e8d649319a2c2c6fd6a1e2f201590603e": "mac-robber: update 1.02 bottle.",
+    "6d8f7f7bb9f72469f137a6064b0c8133ebb98c81": "mac-robber: update homepage to HTTPS (#11171)",
+    "284194a17aff2ddf0396a741d723e484efac9237": "mac-robber: update 1.02 bottle.",
+    "c189f8da3794aab4a9ee36cf328cf18eb3917c88": "mac-robber: add 1.02 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9e34d1069e579436ef12014a9b8a0906f6af8e8b": "mac-robber: avoid inreplace",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ad21504c786144eb3b04535ef0584ccabc4b4bd8": "New formula: mac-robber"
+}

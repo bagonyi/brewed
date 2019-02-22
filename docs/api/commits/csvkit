@@ -1,0 +1,17 @@
+{
+    "f9deed0297bfe6e491cf66f71f610ffdbbe2d06f": "csvkit: update 1.0.3 bottle.",
+    "064875709d01f225b63bf9e72b62fca61f23ce7a": "csvkit: update 1.0.3 bottle.",
+    "9f0321b3d0901ce6ce41fff318e216e8f2bbc0fb": "csvkit 1.0.3",
+    "7a37bef97204d9ddc14a40b8a15570cf7aa3d41b": "csvkit: update 1.0.2_4 bottle.",
+    "8f0f94495cde207007909dc522c97a0e815950a2": "csvkit: revision for python",
+    "35339e5fa081342d1152415b4301877809b61a8f": "csvkit: remove unnecessary `virtualenv_create`",
+    "c69278cdff86afcfca28098a9629990e001c8a3a": "csvkit: update 1.0.2_3 bottle.",
+    "d4948072688b37a2e9ed13a493e656ff520d96b7": "csvkit: revision for python",
+    "847d65f25c053f84efc5ce38d9158fc7f5e1ef3d": "csvkit: update 1.0.2_2 bottle.",
+    "828ab77449fba4c234e43da435f1eb328556dabb": "csvkit: rename python dependency",
+    "87b231ca4605837a1d7b068393c86bb86927a71e": "csvkit: update 1.0.2_1 bottle.",
+    "8a400e20817cb0cbefc6c163e1235658bda32cb2": "csvkit: depend on python3 instead of :python3",
+    "13bc09c3d55a94778519574d20326336e1cb0b32": "csvkit: secure url(s)",
+    "985ba3aa21b1924028e3e3dcc4b41d339d729726": "csvkit: add 1.0.2 bottle.",
+    "98da564a6c3b65330be0f1d520be60efc5c03d62": "csvkit 1.0.2 (new formula)"
+}

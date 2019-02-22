@@ -1,0 +1,22 @@
+{
+    "da8243fac9265839de83f134003b20f7d3d30f99": "proselint: update 0.10.2_1 bottle.",
+    "b43c03465022f410a5d2ca949ee85b01e613119c": "proselint",
+    "367c7933f742600bc7ad31af077a19bd512e43a5": "proselint: move to Python 3",
+    "56780660d747e9636a6681809ac46f8b74132270": "proselint: update 0.10.2 bottle.",
+    "47b0590ff7689f41126605d7f87c9b0185a1f394": "proselint: update 0.10.2 bottle.",
+    "89f25e81119b8ff86c66f766cbc1416cabba4f94": "proselint 0.10.2",
+    "0741fb0f33b009f4d678bc24960f3843c76239be": "proselint: update 0.10.1 bottle.",
+    "eb19f0807c06b3bc24d70b0f1f0e59b7e2de7bce": "proselint 0.10.1",
+    "f525108b9769f3b42373b35dc6d059d665493f53": "proselint: update 0.10.0 bottle.",
+    "015d226ea4e8265567fcbc0364d7ebc09c952213": "proselint 0.10.0",
+    "086a39f7a648d68e565301276cb5aa0d47833198": "proselint: update 0.9.0 bottle.",
+    "c6292eba64430edb55e65cdb466a23b887da99ff": "proselint 0.9.0",
+    "9518afc8f070a08a5dd0e0fb453d006774b683de": "proselint: depend on python@2",
+    "1661b0642db985b018fcf42ff0c16a58bc527c74": "proselint: rename python@2 dependency",
+    "886b1aae24bf5bb4ff79cd802d77f7c65aa0945c": "proselint: depend on python instead of :python",
+    "6faa138399720dd5678951469e683f4725ea319a": "proselint: update 0.8.0 bottle.",
+    "47f91b63d0d182c50c39ac82427d5dabb40d9fc7": "proselint: update 0.8.0 bottle.",
+    "ecd5b5b18bd7c66effb3387e2afcc63bbcd76e90": "proselint 0.8.0",
+    "f6825029229ffcdcc03c5300040e35cfade0c965": "proselint: add 0.7.0 bottle.",
+    "a91f8063d8ffb3f08b5eaea2da29fee6477f129a": "proselint 0.7.0 (new formula)"
+}

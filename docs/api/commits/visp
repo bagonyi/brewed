@@ -1,0 +1,12 @@
+{
+    "63076ce5b31626a2d25e04c74e9ac91c1d9174c1": "visp: update 3.2.0 bottle.",
+    "ae9f4d71805e5ed1ca74d157ecb2275a43000688": "visp 3.2.0",
+    "e0e840d9e1450701fdc38f58e3d87ccecfba06a8": "visp: remove checks for old compilers.",
+    "e497ccf64be4bd727139d0f2b2d8e67022b8abbe": "visp: update 3.1.0_2 bottle.",
+    "4f9e5883366792f9f97a54c46d86079a2d5d9acd": "visp: revision for opencv",
+    "c1d33089616366a2a5aad918d51a80b3e2cc354d": "visp: update 3.1.0_1 bottle.",
+    "e6dfac2a69df765bd727fbe19936b4414169f5ae": "visp: update 3.1.0_1 bottle.",
+    "069aa78e12b3c2f2a2d5f93c5a71d3532e4a1061": "visp: revision for opencv",
+    "f573c2ce6b578af80d0f460749f2be58aea8fc3b": "visp: add 3.1.0 bottle.",
+    "584aa5a643e2ee959384ccad1d9a8731790a2ff7": "visp: import from homebrew/science"
+}

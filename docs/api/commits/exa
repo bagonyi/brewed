@@ -1,0 +1,18 @@
+{
+    "e291d25fcaf588f7fd530e604a27392825bac9f5": "exa: update 0.8.0 bottle.",
+    "4a872a507b1708f7707a115851e19abc2be73320": "exa: remove options",
+    "f3fcfd0981f577b6d1a99f83004e0fc24f2c103c": "exa: update 0.8.0 bottle.",
+    "3113fa444a91db763e9db25aa155ffcf0ce7800e": "exa: update 0.8.0 bottle.",
+    "5dbf547cc97e42e366ce2354a5bd35cb7111abce": "exa 0.8.0",
+    "cdc7e92f55d722ad087d161956a1fd4b4f7b91bf": "exa: update 0.7.0 bottle.",
+    "318b81df4a87795b944d23f834af26dbe3c6720c": "exa: update 0.7.0 bottle.",
+    "ad9abf34129daa3cd29677dd414345cf654f5c84": "exa: add without-git option (#16383)",
+    "fef79f2897c0850ab5bb85b8b5506392756b6594": "exa: update 0.7.0 bottle.",
+    "39281c7c69f1eb805bdfe42d9bbfc2bd06acad48": "exa 0.7.0",
+    "610d4014b092f83b005cf68cd9775af1efbbfd4b": "exa: update 0.6.0 bottle.",
+    "179ccaa2477f945532571c15daa89dbe90e019e3": "exa 0.6.0",
+    "ceb5ba99970b9250b063641a40ed72fa1607747d": "exa: update 0.5.0 bottle.",
+    "95027e2b3989469fdcd114b44fda51fd689fe589": "exa 0.5.0",
+    "853974f9ab2645fbb5a9a0ec93d3ed5aa168b7d4": "exa: add 0.4.1 bottle.",
+    "99e1cd027004f9d3718570d4a048b74a6d39ae24": "exa 0.4.1 (new formula)"
+}

@@ -1,0 +1,14 @@
+{
+    "f5ed0cf600a4d3cc6889f46232c9621ed3dcffa3": "restview: update 2.9.1_1 bottle.",
+    "b6586f60050a0768009394c2f157dd2e04eed822": "restview: move to Python 3",
+    "2352440e04be5ce86dd21ee9c7c864e3d9a39102": "restview: update 2.9.1 bottle.",
+    "56df01881dd1125b0690207033403b659db0d319": "restview: update 2.9.1 bottle.",
+    "c0957dc7892a71d02d3d7c4f891f8235e5e564b9": "restview 2.9.1",
+    "b3965c204345fd9d2b0cb1008ff6dca4366c758c": "restview: update 2.9.0 bottle.",
+    "3aafc9287aef46723a1e5f75d614e5214f03b2c6": "restview 2.9.0",
+    "72ebaa8fe851486447346aa9a8526f1dba9cb84c": "restview: depend on python@2",
+    "97ca166e16a37fa1f5a28ed208a10659cd0e4d25": "restview: rename python@2 dependency",
+    "372f3139a4e149df2daea5d4fc3d41dcb26d067f": "restview: add missing quotes around python dependency",
+    "dc6e7485e89130b078a621caadde942c5610d25d": "restview: add 2.8.1 bottle.",
+    "78411e90694a38a32b9c8568f69fe41ffc86b626": "restview 2.8.1 (new formula)"
+}

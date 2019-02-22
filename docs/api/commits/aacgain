@@ -1,0 +1,20 @@
+{
+    "1316937d16401526c920abeaa3f6801e6f2a70d9": "aacgain: update 1.8 bottle.",
+    "c8b3768cef8c64c28f9c05e618cdce7d44d0edd9": "aacgain: secure url(s)",
+    "134ae60ee88d9617ca0231fb3c6e49832c80934c": "aacgain: update 1.8 bottle.",
+    "1f90a407e8f070f9e0b594efce85fffaa1df6753": "aacgain: improve test",
+    "5e75d5c950b179d55108c6f1ddf27ec262fa0e67": "aacgain: update 1.8 bottle.",
+    "ad6a1eda6fc8feb0927fde784ff079f8d69a9f1c": "aacgain: update 1.8 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5112fa0ebeacfb8aeb0fb28fb129d9e9bd35efbd": "aacgain: add 1.8 bottle.",
+    "e484f4ebffee9cbfd67691867212489abc1c8a52": "aacgain: test added",
+    "9a0119dcf44c6530e9f7ed2a5edbe32deb98d087": "Update docs, comment mxcl/homebrew refs.",
+    "c6bf997919bd91e095faafbfe7002276aaf5c33a": "Revert \"aacgain 1.9\"",
+    "84ed4ef99181f00d7a91202eec131191f5333557": "aacgain 1.9",
+    "556d662b1fce3c17bc2343359197893f43f4fc44": "aacgain: correct version number to 1.8",
+    "0d169c76c3e9d627edc834c666f2e4ad2475ab4e": "aacgain 1.9",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "bf84d4276a620a42b3094ba1952f1b6185469529": "New formula: aacgain"
+}

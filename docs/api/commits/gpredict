@@ -1,0 +1,11 @@
+{
+    "71d6e49b0890a850d32f5e665ff4a44a867dfc0f": "gpredict: update 2.2.1_1 bottle.",
+    "e5d344d8a1cc80f2dc36d2eb924def8115e37a5b": "gpredict: update 2.2.1_1 bottle.",
+    "6b22e10a4d42f523d8bea31427bdb422f4ecd5a2": "gpredict: revision to fix install receipt",
+    "4021354b1d4335a520c8ff5b4854a59d0d1140c5": "gpredict: add 2.2.1 bottle.",
+    "e29b7348a16ed09fd7b9bb108647bd2922e71a59": "gpredict 2.2.1 (new formula)",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "0961192abf14feeb98284bef13218e8fbb74ef3e": "gpredict: use Formula[]",
+    "9cdcb966e41eba6ef2e405565929311ce4c7172f": "gpredict 1.3"
+}

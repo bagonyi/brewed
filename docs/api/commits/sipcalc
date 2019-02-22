@@ -1,0 +1,15 @@
+{
+    "dd921aa0221bd792395728142915d748d3a4d84f": "sipcalc: remove references to pre-Mavericks.",
+    "637707d6b8ebcbb7b0cdfb7e24e9474f3d30e975": "sipcalc: update 1.1.6 bottle.",
+    "f5a24805e7e0cac97103f4c8d70914c46a9b94f3": "sipcalc: update 1.1.6 bottle.",
+    "eecc46688ebffc734026a20dc779f6eaaa844b22": "sipcalc: update 1.1.6 bottle.",
+    "41f7cc89ba09fc732250d594b5bb66a8047f2321": "sipcalc: update 1.1.6 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a8fc3bda51b49e1d9a0fcf3955eba37aac6a0cf4": "sipcalc: add 1.1.6 bottle.",
+    "5999f6bac665f762dff1b9e5613cf2299c575463": "sipcalc: basic test added",
+    "a223b588fc3b9a475b94316853488ab5d5c577a0": "sipcalc 1.1.6",
+    "d184a7c186c38151260fefe8e92e010c6cbf5e39": "sipcalc: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a761da331e250151c32cbdb9b73ca6e20a2b5794": "Add SipCalc formula."
+}

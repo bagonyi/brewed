@@ -1,0 +1,14 @@
+{
+    "c3048ae7f7af9b5bbb944b4d2ea304b45785463f": "clens: update 0.7.0 bottle.",
+    "754373d879be61cb915bd9a2965f3c3151565940": "clens: update 0.7.0 bottle.",
+    "f37c943c254fd9e63175f11822393056fa1cbe05": "clens: use full_index patch",
+    "a27d829e9ec7fa57cb3c9e7ca3b655cf6df3860f": "clens: use github homepage",
+    "2465a798deb0321f75c205b35c070cdea1a8bfa0": "clens: use ENV.deparallelize.",
+    "9153749a578e7549030d48664c0ec1da18c5097b": "clens: update 0.7.0 bottle.",
+    "8b405a8ccf8c139e5d9fe614c1112ceeda772318": "clens: add 0.7.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0ee063501222171a5786e985f87bb858a4a651ea": "clens: use diff",
+    "884d505b572dbbd77322572f816a5434a5b2171d": "clens: use checksummed patches",
+    "d812bb27551951c4f9fcd56ea7283d1d4c1f1399": "Add formula for clens 0.7.0"
+}

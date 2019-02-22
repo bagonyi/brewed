@@ -1,0 +1,14 @@
+{
+    "abea520f2d0cfc8fb6ec64d6cfd986adee9f64d8": "zsh-autosuggestions 0.5.0 (#34432)",
+    "d5ac1864f2f512aa3440b0ac12207cab5417d5d0": "zsh-autosuggestions 0.4.3 (#28116)",
+    "5cc968d60c8b9cd802c1c5b6341ab9935a8ba795": "zsh-autosuggestions 0.4.2 (#21413)",
+    "75a1f7d4f007894fa5ff01a2904c6ee2d954d289": "zsh-autosuggestions 0.4.1 (#21149)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0f6339bfab9e6ddec1dfbfb5ac8afbde4056876e": "zsh-autosuggestions 0.4.0 (#13456)",
+    "ba05beacffa17b8fae60a1b29fd1969e293bb227": "zsh-autosuggestions 0.3.3",
+    "7f49546393e7dd905fc9521c0a6df7e6d74a8a29": "zsh-autosuggestions 0.3.2",
+    "60916cbb3392b1af7d37bcbbcf238e6606c8ce84": "zsh-autosuggestions: bottle unneeded",
+    "2b3c72f8eaf71ef7b227d6265c39fc5d788541b7": "zsh-autosuggestions 0.3.1 (new formula)"
+}

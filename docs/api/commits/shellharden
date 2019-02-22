@@ -1,0 +1,13 @@
+{
+    "b17a9d6c6343d2a67f698b6809145d3e6dba9d6a": "shellharden: update 4.1 bottle.",
+    "b22d5e2b0a9cbdf52890c7fc25452589a88a0327": "shellharden 4.1",
+    "f77377dfca76dccb33cd70954c4c3bbba107f4ab": "shellharden: avoid cargo deprecated syntax warning",
+    "1af6eb5d340c7f5cc31641eef11c9b13dbe51fa0": "shellharden: update 4.0 bottle.",
+    "8922c588e08b285be5155b6b14b68b8d177b97ad": "shellharden: update 4.0 bottle.",
+    "d2a41bb1a42e2a198fdda61306252106e125ff31": "shellharden 4.0",
+    "80287a41c60b347d23890f8323fe8fbbbd429c20": "shellharden: update 3.2 bottle.",
+    "d690ef6145bef63225f35dcc84cd52b978054fa1": "shellharden 3.2",
+    "069700eb762d417e9b06e881536455fcb137c1a7": "shellharden: use Pathname#read not File::read (#28225)",
+    "b9b17070e836327db970b8a26f521efa028911fa": "shellharden: add 3.1 bottle.",
+    "6b13501ad0e1ebe304d726970397d694a9a4b9c2": "shellharden 3.1 (new formula)"
+}

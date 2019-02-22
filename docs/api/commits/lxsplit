@@ -1,0 +1,16 @@
+{
+    "c361bb424f5225802adc98eebe8c9d0495e3d2f6": "lxsplit: update 0.2.4 bottle.",
+    "109cbdfd359a89469a648d23b4fa7d5642dde8d5": "lxsplit: update 0.2.4 bottle.",
+    "a00418f3727cd2df2190ff0b2ec4b22f86337282": "lxsplit: fix audit --warning",
+    "d48d6b47cd810224f2fcfeb51ea7cfb9edbff335": "lxsplit: update 0.2.4 bottle.",
+    "631885a7b4c9fbcedda6cf109382fff3d87452f5": "lxsplit: add 0.2.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4bd4bd218cb9fdae26041a26863db2184eafbd5a": "lxsplit: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e03257564c7e8f3cd46b30162ee62f9357dc626f": "lxsplit - fix install path/name",
+    "a077fe477ad0565c80031f735c229f23fa42f2d0": "Fix lxsplit installing incorrectly.",
+    "a0eeb0a7f1e3a5afeab455268c1265c076d60e52": "Added lxsplit formula."
+}

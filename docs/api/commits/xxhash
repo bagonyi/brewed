@@ -1,0 +1,21 @@
+{
+    "177cf99fd7dc532cea7b1782221c2035cf12f53b": "xxhash: update 0.6.5 bottle.",
+    "10e11e1ac64d5866694b38109d1ff336567e9700": "xxhash: update 0.6.5 bottle.",
+    "39ec6ca7981ae0314dba57e9f9b43b42caafe608": "xxhash 0.6.5",
+    "40e1b897259d5d1ab25e3a0d138fbc733532f0d7": "xxhash: update 0.6.4_1 bottle.",
+    "5296fb6c35e87a8c084b75895ebc9a77c794d2b9": "xxhash: use \"make install\" target",
+    "3d29b540e3391a5cd509a9341bffbbf64a456a3f": "xxhash: update 0.6.4 bottle.",
+    "2eed23706e990046eede5838a43991bff7390cfb": "xxhash 0.6.4",
+    "fddb546c65b65b6fe49e5bc85dcedbe83ea72161": "xxhash: update 0.6.3 bottle.",
+    "e5b116f3ffec84dc6cfe5810839c642d9358be38": "xxhash 0.6.3",
+    "02bf6942b63ee70cee23a0539f8f8260d0742647": "xxhash: update 0.6.2 bottle.",
+    "d7842271ae2736a7d36fb98ab8bad9dfea6c6cb2": "xxhash: update 0.6.2 bottle.",
+    "86bb9878075b1070ba1238c9144ceb5473d70c05": "xxhash 0.6.2",
+    "f61e0e70616a6927ed2de7653a8ec68a9c986315": "xxhash: update 0.6.1 bottle.",
+    "efaa3982637d8ea43a396389a555616c5a0ca9b4": "xxhash: update 0.6.1 bottle.",
+    "d58bfd612d594566c7285cd19ac7ed3ec9b329ca": "xxhash 0.6.1",
+    "5c8a0f5d2c681c7cdde49f34c0ec37e56425a0d0": "xxhash: update 0.5.1 bottle.",
+    "5c8dcc3b08e1f6d049fbd768f431571f41ff7bde": "xxhash 0.5.1",
+    "377647731c490b19130d8a7e8e7dc68cb102ba2e": "xxhash: add r42 bottle.",
+    "53fbfb88158b8fb09141978633d1d4509635bbe7": "xxhash r42 (new formula)"
+}

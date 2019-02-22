@@ -1,0 +1,12 @@
+{
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a17a49033bb5a32ccad09b46ac19ade1309e343b": "zsh-history-substring-search: add caveat and test (#13567)",
+    "5337ffb4d8fce9a97fe621062a0e029a9023346b": "zsh-history-substring-search 1.0.1",
+    "8da7bad64d74fb63b93b8582c6fa40a81ddbc11f": "zsh-history-substring-search: remove non-Homebrew-specific caveats.",
+    "111967762df33a6cf9e4969bbb55c2d63181f57c": "zsh-history-substring-search: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "11b1ea8c84360e3b9cd35a24b91327b335bcdaa7": "zsh-history-substring-search 1.0.0"
+}

@@ -1,0 +1,12 @@
+{
+    "960a8f8a0c55f7cee44f8a74bd80fc1b728314c6": "npush: restore https for svn url(s)",
+    "2dc7ea8b62229d71630bf0291ac9f6afe2c94602": "npush: adjust svn URL",
+    "bcb746ce8332adb9666cb6625fca3ffe9ae3187a": "npush: update 0.7 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4f7cd12c9edf61a57e1fb3cc01349f652e89aa66": "npush: update 0.7 bottle.",
+    "3045c4026b1a0c1a85f30272cbee02f96ea1e5de": "npush: use secure head url",
+    "4816569ce156997362a57a89dda35c3567c52006": "npush: fix audit --warning",
+    "e945e7c3f541da704bd16ab92944296cf7940dc2": "npush: update 0.7 bottle.",
+    "3e42af393d2b40866e86fc100bddbefbf5ac00d5": "npush: import from homebrew/games."
+}

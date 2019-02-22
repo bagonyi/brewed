@@ -1,0 +1,12 @@
+{
+    "484f5823560f4139ce767955e81c55a7a256bc6b": "slashem: fix component order",
+    "8703b42bc079e0fb88beb5cc83c814297e313206": "slashem: update 0.0.8E0F1 bottle.",
+    "76f6635fa5ab45629b11c46c9d873d72bf2980f3": "slashem: update 0.0.8E0F1 bottle.",
+    "d51257b34d76637e8ae126bc02efb1a349016b15": "slashem: url updates (#10281)",
+    "3044e07fb1a7a2d17a9ebed8422da66917db33b9": "slashem: fix audit about sourceforge link",
+    "284c613da662ed51a344898b50992eaa7cfe308c": "slashem: add 0.0.8E0F1 bottle.",
+    "5ee00c8b6748b58985552e6af50b84cb25b7d81e": "slashem: import from homebrew/games",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "994343a31dab404211ca92bcc8c8487414a44243": "slashem, unnethack: use admin instead of staff",
+    "58dbb7c99d20a72bada1db613aa0139b1a45ed7b": "SLASH'EM 0.0.8E0F1"
+}

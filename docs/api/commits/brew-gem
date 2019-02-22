@@ -1,0 +1,23 @@
+{
+    "12f2a854caed8bf912bbd5a9c48d7fa82f4c8819": "brew-gem 0.9.0 (#31859)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7b688233a056b6bea29892204998b33e8db1c9ff": "brew-gem 0.8.4 (#23896)",
+    "a3d8caf98b1700ca0540b0b1c8a4922e5fedb569": "brew-gem 0.8.3 (#19901)",
+    "6631889a724817877e89a1811c80f8869d89ff3c": "brew-gem 0.8.2 (#16369)",
+    "e159a89311cb650d9beb1e35385e8167cb361da2": "brew-gem 0.8.1 (#5396)",
+    "21e1dcec7b38c3ff81ecaa78e948f6af77cfb177": "brew-gem 0.8.0 (#4191)",
+    "e0e0672e3829ce416547eb718a562de654700b2b": "brew-gem 0.7.3 (#1265)",
+    "3c60fb06f42d1ca002bfced6df06c52287545c78": "brew-gem 0.7.0",
+    "a7bc34e860da0ef64f74f2d12d7ca45dada99b71": "brew-gem v0.6.1",
+    "da6067489026a752f1dd217d5ac6414f86c39272": "brew-gem 0.6.0",
+    "e2014aea1fa74bab99aec433f57794c56c3a6865": "Overhaul, simplify and cleanup documentation.",
+    "51bff2d659625d0923479c2c74b2a8f00924f6b3": "brew-gem: bottle unneeded",
+    "4f188e7393e55265afc355f22ee8e05079d3eca4": "brew-gem 0.5.2",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e7cb144736fe256a589e38df94b6ad99c12b8333": "brew-gem: switch to maintained fork",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "a4b06b375038c7e3dd7f05689508a50b5300f1b7": "brew-gem: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4aac74bb63bf11b8c5831f9f9f462a310f425061": "brew-gem 0.1.2"
+}

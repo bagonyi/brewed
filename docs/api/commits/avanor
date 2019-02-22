@@ -1,0 +1,15 @@
+{
+    "9e864f7f3c763b4fe69f7a38d5714303c4d85902": "avanor: update 0.5.8 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d63806ea9b1fd92ca86ff93e42ccdd0e696b3561": "avanor: update 0.5.8 bottle.",
+    "3e42c50fd3ec3404999725a855548d587be1c7c9": "avanor: https in comment",
+    "57b4830cf346f11d31cd17df89617d146e6a576b": "avanor: fix audit --warning",
+    "8b33a9da7a940f5026635ead5dc586367c88ea3f": "avanor: update 0.5.8 bottle.",
+    "277514f62ecc4f7df12b6993418303102f4ecf6d": "avanor: import from homebrew/games.",
+    "ff28a0ebf793ad44737c5a81fea384b68512c1b3": "Move more games to Homebrew-games",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b732e6c29910f3bb341eff7261221c64e3d101b2": "brew-audit - check inreplace block var name",
+    "1f0b50cadde2d6bba31c994428df62e1459c3082": "Update Formula: avanor",
+    "f37f10b353a76d73e6065fc53364d770340a4a25": "Adds New Formaula: avanor"
+}

@@ -1,0 +1,12 @@
+{
+    "44227475b6ecbb7a1f43ec2742bae7a1b93860fc": "brogue: update 1.7.5 bottle.",
+    "05bbad8ba9a5873fbb75e3f5d799b619b365c843": "brogue 1.7.5",
+    "a8f7a098e36fdd742ecc2cc41a874e0d26dba834": "brogue: update 1.7.4 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a664b10fa0edb9e256a164a4952c3648a8c1b497": "brogue: update 1.7.4 bottle.",
+    "10ba0ad2a1f94cbf90d7431f8ea842e3e73eec87": "brogue: update 1.7.4 bottle.",
+    "f50cd14d4dbf6eed9cfb40d602fba9cabc8b3dda": "brogue: fix patch whitespace (#14641)",
+    "90f39a445814d4a990cb05e5b12bcc2dd58ccb5d": "brogue: add 1.7.4 bottle.",
+    "ee243df5145606ef1fb1fdb40818dc0402610caa": "brogue: import from homebrew/games"
+}

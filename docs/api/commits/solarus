@@ -1,0 +1,10 @@
+{
+    "09c3d2080709e273df0be3c98660b53ec2260cf8": "solarus: fix dependency order",
+    "0c3785eb141ec95da567f3f7a0df41c7bfe58f0e": "solarus: update 1.5.3 bottle.",
+    "9da430ff9a7fec5d60e79e44fca0b57e5fce81fa": "solarus: update 1.5.3 bottle.",
+    "b6fa711280bf4a9bc9819d2e9738e15ecd9ed405": "solarus: fix build",
+    "0b9900ddfa6b447d36d9dd8d6596e0432d83d51a": "solarus: update 1.5.3 bottle.",
+    "6710e5b57f2b0c1e3bdfdc6210963d60b0ce324e": "solarus 1.5.3",
+    "ba744c552e5534f0f5cade44f96695b27bee279e": "solarus: update 1.5.1 bottle.",
+    "cac35c07b9c5c304dde3906710ae1ac7ca7a7b63": "solarus: import from homebrew/games."
+}

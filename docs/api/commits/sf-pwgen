@@ -1,0 +1,18 @@
+{
+    "72a3a27b57caa78feb60a2127649b50f9b4827a1": "sf-pwgen: remove references to pre-Mavericks.",
+    "d6b83dff262f19155424788a71dd4552d9f103a6": "sf-pwgen: update 1.4 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "805711b2b453a9cf15a061a4324170ad56c4040d": "sf-pwgen: update homepage (#24805)",
+    "2346437467847b3118f5ea6be7ba1cca5d0c91be": "sf-pwgen: update 1.4 bottle.",
+    "2861453c9790976039aed03b562a6fa018416841": "sf-pwgen: update 1.4 bottle.",
+    "cf1aa86aeddc7443ac2f33c47a3be656b98a1290": "sf-pwgen 1.4",
+    "f7994da899a252daa6a16469ea54bb887061ee84": "sf-pwgen: update 1.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "749df51b9324ca0fe7b2176a49361a6646fd267f": "sf-pwgen: update 1.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "50005d202b1f1f7218f923ae084dee7c4bd633c7": "sf-pwgen: update 1.3 bottle.",
+    "e9752e4aca6c597c49b293d1ecad11431b65f322": "sf-pwgen 1.3",
+    "16f460598285ab131271f032f7b5616ad916a33d": "sf-pwgen: add 1.2 bottle.",
+    "8069ec34f29d3ee9b5c1988317b8dfd449d57910": "sf-pwgen 1.2 (new formula)"
+}

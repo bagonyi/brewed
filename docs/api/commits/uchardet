@@ -1,0 +1,20 @@
+{
+    "1c7b5f718a54f95828b4f08bac7561c414d1fd52": "uchardet: update 0.0.6 bottle.",
+    "8a0a9b268631d0ca939b54e10546d86bf6712dd6": "uchardet: secure url(s)",
+    "0241e89d864a482f5568f97e0895cd4bf2149fe5": "uchardet: add head spec (#26297)",
+    "846cf384dbcfaedd9178e17b14a55a080e04e4a1": "uchardet: update 0.0.6 bottle.",
+    "2f44cbe97b4def401b4a74b8a05114cdbba9239f": "uchardet: update 0.0.6 bottle.",
+    "6c6cd54b4ffc2d44775c88ca006002e92ffe63bd": "uchardet: update 0.0.6 bottle.",
+    "9dcaeabb862fb372dd589249d0b52ba0d65804bf": "uchardet 0.0.6",
+    "e3b5e0bedeea711dbd62254468bc618466f1caf4": "uchardet: add 0.0.5 bottle.",
+    "4fdde4ab47925cbc31e6fad3e2a5f3105a5bea10": "uchardet 0.0.5",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "8fb3cc2fe18906242a3f6f66826b0ce9cd29587e": "uchardet: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "57d0f7aaf43b161a9feb2c0c2f339d2a14a5a50b": "uchardet: use full path in test",
+    "fd6caa052e91b559184458ee33e4caaba7595c90": "New Formula: uchardet"
+}

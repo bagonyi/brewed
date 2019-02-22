@@ -1,0 +1,17 @@
+{
+    "7c5d194f57c2411e3590988f2a2fd17ba9088a13": "dxflib: update 2.5.0.0-1 bottle.",
+    "ff32bd3f16bccb7277507c0308670f180d469d81": "dxflib: update 2.5.0.0-1 bottle.",
+    "5ee2b82335a0093a8b2af02f5ef92651cf022680": "dxflib: update 2.5.0.0-1 bottle.",
+    "81465c83a59f11f7d65482458a2829e44c16e4a8": "dxflib: update 2.5.0.0-1 bottle.",
+    "0627c9782cd09b751ae8bbc2d3135c324efa8033": "dxflib: use https homepage",
+    "4e81e1134f1384622cb7fcdb710dc4b908e6f263": "dxflib: use an https url",
+    "173b458c77b3b1db0cd87e182cfc56e6f4772883": "dxflib: update 2.5.0.0-1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cad0d0fb15f1018d57b52b038cb8de2379d6a372": "dxflib: update 2.5.0.0-1 bottle.",
+    "c81c5f1e92709f212be41c9ed52c583a28aad89b": "dxflib: add 2.5.0.0-1 bottle.",
+    "f50d20ec154ff7b5e55f64fccbb926776b37ae16": "fix version audits",
+    "ac3dd3d6d4f89194273d37972c169ff912f80bf6": "dxflib 2.5.0.0-1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "67cd52950d3b2b8848bb6b1e633ac5442cc58a88": "New formula for DXFLib"
+}

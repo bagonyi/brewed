@@ -1,0 +1,15 @@
+{
+    "3483843759588399ee636272e78beee5e7077bce": "mp3fs: update 0.91 bottle.",
+    "04be580aa07ac9e29253998748d6d2840fd35f41": "mp3fs: fix dependency order",
+    "ba9143592e4012b297a51050d8298d6710aceee0": "mp3fs: update 0.91 bottle.",
+    "78d440fbf9e76b8b6fb1070165be73c35d28fdd4": "mp3fs: add 0.91 bottle.",
+    "ec92e55f267189068a5af4f8d060badd367da187": "mp3fs: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "e80dfac1757d786971f2dd73f832e3b199e7de7e": "mp3fs 0.91",
+    "83b44cffe36594a9d877800a2b27564fae7774c7": "mp3fs: use test assertion",
+    "be2eaa3dea80f5c2aeabff1c2b037487696d1f42": "Update github URLs",
+    "1dbf1856a2af986eb3164cf5e0954359608f82f8": "mp3fs: improve test",
+    "20652e9de0a6f553d06cf62c5896d2016a115308": "mp3fs 0.32"
+}

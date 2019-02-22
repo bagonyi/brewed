@@ -1,0 +1,18 @@
+{
+    "ed85b49712a645c0e6d1d4dbae2af8180fe46665": "joshua: fix dependency order",
+    "467cd77ada587b05b404f54e5448a6dee0bb28f7": "joshua: update 6.0.5 bottle.",
+    "5b01fadbfdd7511008543c2071a54acf9b0c2ae4": "joshua: remove options (#27698)",
+    "f636eb9dadb7f3d10725cf6c5e837213468da245": "joshua: depend on python@2",
+    "6b3e937b2f0610b1a064c4232530532afb29e65b": "joshua: rename python@2 build-time dependency",
+    "00eea5b204b069416142352ca24314c024f5d6c7": "joshua: depend on python instead of :python",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "1a2d66384642db28363fa49cea1b2e1320924522": "joshua: update 6.0.5 bottle.",
+    "742273d39c787928d2513363bf525cbe02121fec": "joshua: update 6.0.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "8f619a8ed8e29d3016c4c27d2ab7dd292a46810f": "joshua: fix new Website, addition of Chinese language pack and unpacking of language packs",
+    "742841b479f3b28a3ba085a59d155bcceed64e66": "joshua: update 6.0.5 bottle.",
+    "d5f91a7fdd7adc546da95b71279356154e525890": "johsua: use secure resource urls",
+    "1ff7ce66b48c61bf4737bd90de0ae47a9e5c907c": "joshua: add 6.0.5 bottle.",
+    "98b16b9ec56a9c4da1f19b4359f37d508eb48f32": "joshua 6.0.5 (new formula)"
+}

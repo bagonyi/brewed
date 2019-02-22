@@ -1,0 +1,16 @@
+{
+    "8d13cc95c8c2a36425b3e00ee7abe87da10ce02a": "osmfilter: fix RuboCop Layout/AlignHash.",
+    "a707aafeb78f65ea84bc4602f9a110803dc873a4": "osmfilter: fix dependency order",
+    "3a5e9c068aec096dbcc6c16a12c648a14b1eb8fe": "osmfilter: update 0.9 bottle.",
+    "c5f66036b990b25fad702c39f48d4fbbd89a0c8a": "osmfilter: update 0.9 bottle.",
+    "932add116e6db2c29701ce21327ae2353b1923c6": "osmfilter 0.9",
+    "6951b9d983ec5acd963a1025cd3addd7ad7d74c8": "osmfilter: secure/fix broken url(s)",
+    "e56fbe0b1e2970c5ce123ac18fcaf5b3028e5c08": "osmfilter: update 0.8 bottle.",
+    "e6668b9bfc6e82e74880fdfd6a7e1821a40d31d0": "osmfilter 0.8",
+    "12c8927ef7fd03c7f7f769de3d3eb0d97ff8550b": "osmfilter: update 0.7 bottle.",
+    "2853e58f03b21dd0ab9529f0b930c1c1055c5268": "osmfilter: update 0.7 bottle.",
+    "b1b6786dabd1f8073e4c020bfad39aca9ff84c4c": "osmfilter 0.7",
+    "2c0e40f755f077f8863c3718f70daf19aa284581": "osmfilter: https homepage",
+    "924dad5de1ca5793bf7f5e545a6973d136ab8098": "osmfilter: add 0.6 bottle.",
+    "d31187f2fbc7374351ad9a7aaffc76ee4eadd650": "osmfilter 0.6 (migrate from head-only)"
+}

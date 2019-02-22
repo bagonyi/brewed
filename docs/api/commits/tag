@@ -1,0 +1,19 @@
+{
+    "8d61dd81aacf4912a5c9b7d6b77a808a559b71c0": "tag: remove pre-Mavericks support",
+    "6eba0b11e55f2464de437944aaa34f6e3791ce51": "tag: update 0.9 bottle.",
+    "b3d7d60afb1ffb5927905b8db4549019631e7d2c": "tag: update 0.9 bottle.",
+    "4b6757f724560a782ee688d814b7139b7c73bb43": "tag: update 0.9 bottle.",
+    "7f29389ad1c934b69db046092f5a632d310eff19": "tag 0.9",
+    "04be0eb4e6000ed3f7966ba81c68aaf38bbb9167": "tag: update 0.8.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "cfe156525addd716d034e5ac281cdebc8dd6f9b2": "tag: add 0.8.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6524f7a4fc11d968107c234721834327ff2dcbd3": "tag 0.8.1",
+    "dbb461183269d62a2e657375197d42cbce60bca9": "tag: use assert_equal instead of assert with ==",
+    "cdaecb51e99d153415ba587f00025caa5f2eaaec": "tag v0.7.5",
+    "2b117f0ab3894e6ac7402e68b330a3154a16e6a4": "tag: fix audit.",
+    "2280362cad3f7f1278bcb2f0ecd0606c5c12010a": "tag: add test.",
+    "21cad72e0949dc2af78964ec6c1d721e58c979ed": "tag: 0.7.3 (new formula)"
+}

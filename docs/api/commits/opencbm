@@ -1,0 +1,13 @@
+{
+    "15c3bf5ec2f8acfd404cf4966a7c39fc80829839": "opencbm: update 0.4.99.99 bottle.",
+    "fb0bb0425e5abf0da6e3b7146b96cd6b66be1ef0": "opencbm: secure urls",
+    "cf4e939687db03c597b77d81941d0e1a9cd3f4f4": "opencbm: update 0.4.99.99 bottle.",
+    "472df10b311e85e73927fd6a22683319ee633aa1": "opencbm 0.4.99.99",
+    "17420ee26c8291bfd2fbe1c3ab7373305f846c1f": "opencbm: update 0.4.99.97 bottle.",
+    "91b13f40e1dfae4d3b937f9abd459fc7ba53581d": "opencbm: use secure head url",
+    "effa0f3d77916a65d3bec733261cf849f73fe634": "opencbm: update 0.4.99.97 bottle.",
+    "8917939a278338dad545b72f8dca9aab17dd6a05": "opencbm: add 0.4.99.97 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "064a5101077ea09299c40ab3bfbcb3c84321740e": "opencbm 0.4.99.97: open Commodore device access"
+}

@@ -1,0 +1,12 @@
+{
+    "f05e763adc8d8fed4d903172c3ad7b9e0e06eaa7": "inform6: update 6.33-6.12.1 bottle.",
+    "24f7a61d0c1f5d7177fa20e5b43497fbe334a015": "inform6: secure url(s)",
+    "c3695b20c486f67c85e1d178ebb4f6ff8262840e": "inform6: secure/fix url(s)",
+    "9eda34f5261bb9438fbd774dcc8033a91f771f4a": "inform6: use assert_predicate instead of File.exist?",
+    "35511205f87f9a4d7e48eda5ca02d5956264e6a8": "inform6: update 6.33-6.12.1 bottle.",
+    "cd4ea386072f790075a4908f0b9295243637edaf": "inform6: add 6.33-6.12.1 bottle.",
+    "395b18e8f337dc0be28d35879339a1ebe0afc0f2": "inform6: import from homebrew/games",
+    "e0fcd94c161d37eb1d344702ce8e644b52c523d3": "Move frobtads and inform6 to homebrew-games",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "53a33121f9b9cb865a7be3ac62cd7c5fef2b30dd": "Add Inform6 zcode compiler."
+}

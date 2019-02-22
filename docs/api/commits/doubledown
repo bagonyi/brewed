@@ -1,0 +1,14 @@
+{
+    "437824546dede003f8770f18e2d539fc8807d8f5": "doubledown: add test",
+    "b9904e5e2ecc0c83b58e5a286e677d03c3efc422": "doubledown: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "656df6e236f90cad673b036a9553dbcdf1179b3b": "doubledown: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "331c389646ea4acc83a7304231bf2d3e76207a2b": "doubledown 0.0.2",
+    "1eb0b66a974a5b4e55224fa19064543475412147": "Add doubledown"
+}

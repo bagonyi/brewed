@@ -1,0 +1,13 @@
+{
+    "d848813252896450239b5155c74046d9be6031a6": "jsonrpc-glib: update 3.30.1 bottle.",
+    "467b28b2dbe874453b289ac919d9eb7510d0316c": "jsonrpc-glib: build vapi",
+    "828c5aac1c38a68319b9d9798b808dd4639a558a": "jsonrpc-glib: update 3.30.1 bottle.",
+    "78ffc3790801bf00b0174f9bcaf9b3ed09254eff": "jsonrpc-glib 3.30.1",
+    "6891812bf29ede311d203dcbf4c98a227e22f4ce": "jsonrpc-glib: update 3.30.0 bottle.",
+    "f488868212af7070296090a55405560055affd49": "jsonrpc-glib 3.30.0",
+    "d287ac4f7ec95e1afa9709b199a2c8886fb9f9a4": "jsonrpc-glib: update 3.28.1 bottle.",
+    "c1125366293cdb18b7a4cf16c74a54a25a61c7f3": "jsonrpc-glib: update 3.28.1 bottle.",
+    "02b6c8d8572265b9031f37d8c5c0e572cb9cd6db": "jsonrpc-glib 3.28.1",
+    "5f40d9fb3b07151dbe3d6b4af37bdc54a2be51b5": "jsonrpc-glib: add 3.28.0 bottle.",
+    "d6f29605960941e8b1f8136ef2d53548b078c6ef": "jsonrpc-glib 3.28.0 (new formula)"
+}

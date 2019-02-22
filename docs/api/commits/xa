@@ -1,0 +1,19 @@
+{
+    "e88c036b076ed226fcfed22bd773c29ae0196ee3": "xa: update 2.3.8 bottle.",
+    "112e34ff479aefaa762adee6123f14e9320c6d98": "xa: secure url(s)",
+    "fee6a171b8a32609fcd7562c0580c23477e10075": "xa: update 2.3.8 bottle.",
+    "52f9219baf85d64bb905ec44a3584bd303dd39e2": "xa 2.3.8",
+    "9d1b9c255ce6dff7c063be6b75f998654b481f03": "xa: update 2.3.7 bottle.",
+    "98874369d28b5188ab90d1a5ce63092180f7c20a": "xa: update 2.3.7 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6393ad33b3b1d7a69298522dcb179e68e40c4d86": "xa: add 2.3.7 bottle.",
+    "ad7e33c6e27d44591f3fb3cb63dc61d13bc60981": "xa 2.3.7",
+    "9080892f623979a3b7af76e6b33f9036b90eb7ed": "xa 2.3.6",
+    "6ed7531b5077724c3d8a845c662c6fa565742de4": "xa: use patch DSL",
+    "8eed6df0dac14a303dcc180403f290cb1797e574": "xa: fix build on 10.9 and add test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "00658478c9414d20bc316b01b66c28d2aad82ed6": "xa: avoid inreplace",
+    "c2997b153471aa9706318efeaeee460df64a12b6": "Adding xa (xa65) portable cross-assembler."
+}

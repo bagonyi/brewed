@@ -1,0 +1,21 @@
+{
+    "f58c2817e2f1a02aad5634fede7872fc7eb13c0e": "rtf2latex2e: update 2.2.3 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "f3c0d75166f6a3273b8c4dc19a296e1fa1ed29b3": "rtf2latex2e: update 2.2.3 bottle.",
+    "fd2054436965484a21f238e17a08a5ebe1b4a838": "rtf2latex2e 2.2.3",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9f17932b37e9c563ab9be040783a72211cdcded0": "rtf2latex2e: update 2.2.2 bottle.",
+    "aeb22a42d542067f171c55cb1dd0fa7bd4eb4ae4": "rtf2latex2e: fix audit --warning",
+    "7e8fb26eaebbf1e9bf010ecf5059627028f7e1a0": "rtf2latex2e: update 2.2.2 bottle.",
+    "e33b077977841e4eff82c2e719f9979c978dc3b1": "rtf2latex2e: use File.read in test",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "0f2253593e90b0ec496b01868f2cb4b9f9641d22": "rtf2latex2e: add 2.2.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "c0f6c0ff30223c5aa97d9a37c3fd82bac493f05b": "rtf2latex2e 2.2.2",
+    "9bd6198f6d77111d6ae0aad1d24adda72ea9580a": "rtf2latex2e: use test DSL",
+    "8b8f4aac2804cc1299ce658e7c7feb052eeae819": "rtf2latex2e 2.2.1"
+}

@@ -1,0 +1,10 @@
+{
+    "31c60ddd528879c61cf5797493274c82821de355": "brainfuck: remove debug option",
+    "4d950819c75b6544ebf7b4f882332327d6a41e2e": "brainfuck: update 2.7.1 bottle.",
+    "f44420e6c063ae2141085b42307effb1feb387c6": "brainfuck: update 2.7.1 bottle.",
+    "7bffd495eeeeb5b1d1c0536f1c495af1fe947ea1": "brainfuck: add 2.7.1 bottle.",
+    "6f4b7e42892078ca08d86c4f7a3c4c43f8c768a3": "brainfuck 2.7.1 (new formula)",
+    "937739a76419b22ec62b08c24a07c6e9323a7175": "Remove brainfuck",
+    "12f6ae2bd0eb4e12ec47eadaf8fc245fd47edc7c": "brainfuck: fails with clang",
+    "c5d3972b05100b2ffc767dab7a7990e682914f30": "brainfuck 0.1.2"
+}

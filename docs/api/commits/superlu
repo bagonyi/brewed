@@ -1,0 +1,14 @@
+{
+    "120457e6c19711483b8d14c94eeae13eda4c87e4": "superlu: secure url(s)",
+    "270bcfe132649616d383d134ee4088cc0415496a": "superlu: update 5.2.1_3 bottle.",
+    "b14e3eed1ee0ffb94e873b93d262755257c0f424": "superlu: remove options",
+    "b06aa9314c475e1decf2ca7074f064a4ab5f061e": "superlu: fix dependency order",
+    "023426bbd7a0bf27485a40227f2746318d4966fa": "superlu: update 5.2.1_3 bottle.",
+    "ccf128a4e5e520b6a8fb1fd7f6229c83807a9c38": "superlu: update 5.2.1_3 bottle.",
+    "eca3c792adfd36632763022d16cb142c515f9afc": "superlu: do not build with -fPIC",
+    "ef5a739c2c6b6a8edfafbc6101493a6c3426be92": "superlu: update 5.2.1_2 bottle.",
+    "9d2075873a4650660bf497533e21c86b68c06876": "superlu: phase out :openmp",
+    "b17c0baf3eaa961e33c0fad222a6e961eeac140f": "superlu: update 5.2.1_2 bottle.",
+    "2b6b0a1782d2a797680bb36d7ced195ff1e47fe3": "superlu: add 5.2.1_2 bottle.",
+    "a86f1fe2afcc0c7ed0609789fbca5f5513f4a440": "superlu: migrate from homebrew/science"
+}

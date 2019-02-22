@@ -1,0 +1,11 @@
+{
+    "170e3ea8bcbc252588993b94f69adad6970593eb": "scalastyle 1.0.0 (#17414)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "76de2596fe1318cefa18b3ef3f233ee96cb5f8b2": "scalastyle 0.8.0",
+    "5cac0f53f412a9cff84c8339be275297c1aa24ac": "scalastyle: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "72a9c81b634788e1a2d0c9c5106ee4b636c47237": "scalastyle 0.7.0",
+    "340f3702948a85dde3bccbec8e6afdb01dbecd99": "scalastyle: use version method",
+    "420a8af049bd0a7fecb7ead6287d3765e70e4e73": "scalastyle 0.6.0",
+    "33990a0137756230a72e534f7049be97ab3d8c19": "scalastyle 0.5.0 (new formula)"
+}

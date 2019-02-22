@@ -1,0 +1,20 @@
+{
+    "9962a2d621d8c567218b3d745be21229926befd2": "aamath: update 0.3 bottle.",
+    "2d93ca67a7b83b7caffe91bf42eb2567e13b29d2": "aamath: update 0.3 bottle.",
+    "fa2260f297acd249623d1f3ef4361d9178616262": "aamath: use ENV.deparallelize.",
+    "1c9a0765d06d449ba7d03ab269dd3e4e0b9691de": "aamath: update 0.3 bottle.",
+    "485ae8f25fda473947bdaf43e6e0bea736fc1c81": "aamath: add 0.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "06e44b96076cc6cf6300116595004dd68c250077": "aamath: modernize, document patch",
+    "bd40dc19e074adea697ada71d901252335a92551": "aamath: use patch DSL",
+    "848302d249c0955e4af68ec828151a1aa6f1e6dc": "aamath: fix build with clang",
+    "662f8e4e390b6bd2c912736d8ef95476941cc408": "aamath: use test assertion",
+    "3bcb493830bc55af37f4195b173caf96c74676ad": "aamath: improve test",
+    "cae5649f595974c33bd314992e0cb6d7451fd6b2": "style nit picks",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "742fe1bde1a6257d6481f6e5a73203152cdaf08e": "Be more explicit about paths in test methods",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "3e3e26e014cd58c351034e1734d4d419e93c2ca2": "aamath 0.3"
+}

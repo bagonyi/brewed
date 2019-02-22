@@ -1,0 +1,11 @@
+{
+    "6f3370afeb9772d548ec6a5e1c769e10db178763": "pgweb: update 0.11.1 bottle.",
+    "7a09d2a6cfc933ae52072e91712914d20f3a029c": "pgweb 0.11.1",
+    "3cfc0aa453bf23ddff311fe5739addfe0c3e1593": "pgweb: update 0.11.0 bottle.",
+    "675b425efc96ec99c7fc55ba33d2b3d4b1e2b74f": "pgweb 0.11.0",
+    "2a7eabe916a3d961749dfe976fb38891c8eaa667": "pgweb: update 0.10.0 bottle.",
+    "3e5576889af492f3ef76a51cc874a66c4c2c8ab6": "pgweb 0.10.0",
+    "be55ea3a6879a6b45a2f46f08b63151a562035d0": "pgweb: update 0.9.12 bottle.",
+    "816e0a751107dbdf5763bab7382cfe379e49156f": "pgweb: add 0.9.12 bottle.",
+    "777709bdda6364d4decb25e821c9c10506be9a8a": "pgweb 0.9.12 (new formula)"
+}

@@ -1,0 +1,17 @@
+{
+    "db0ec83bba8d04b1ed1e7faefb9b474918de3d7f": "log4shib: remove references to pre-Mavericks.",
+    "a29a2cfda787e1bed7a95f8c2e0a06d741b965f1": "log4shib: update 1.0.9 bottle.",
+    "6e4e0fd36103464a0967411f392de08a55df5788": "log4shib: update 1.0.9 bottle.",
+    "e67d15554ebf74d91fea6bf66f0b9b8cb16faa3f": "log4shib: update 1.0.9 bottle.",
+    "00185e296c508a7b60bdaecf2ae1184f757e47d3": "log4shib: update 1.0.9 bottle.",
+    "1faf1c6639efc0653014e140beb0a45b8814ee8b": "log4shib: use an https url",
+    "adefb0ab2597091c548417d54d3dfbae2f25374f": "log4shib: update 1.0.9 bottle.",
+    "e67e2c46fa0511739678da9b5d158fbd0d395659": "log4shib 1.0.9",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d87c671cd6dfe1d793e29059cbda0df806161f9e": "log4shib: add 1.0.8 bottle.",
+    "23158ba3d85a31583d5855b17a913552ddf6db3c": "log4shib 1.0.8",
+    "ea195ba465ec39a3ce36b83e4772e08f66db4a3a": "log4shib 1.0.6",
+    "afcec453166f6c7201b48d87d1a4932bd7060e5e": "Remove OpenSAML and related software.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9e4aa1f31d4f6e1c9d4a5ed07f5ba84ade10b12a": "New formula log4shib"
+}

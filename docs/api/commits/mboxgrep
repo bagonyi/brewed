@@ -1,0 +1,12 @@
+{
+    "62c3e780a656b1af16c5ec9e0d327d43a5a42dba": "mboxgrep: secure url(s)",
+    "77f20ac01fea8db529daa60524e9d5891c680a5c": "mboxgrep: update 0.7.9 bottle.",
+    "62375ec0e523b454ce67d162dab12aa58a4217fb": "mboxgrep: update 0.7.9 bottle.",
+    "cda525d64e2b940b659bb29044932e83d09ae512": "mboxgrep: update 0.7.9 bottle.",
+    "057aac8606427c044fe44cac449d10a3c11daf43": "mboxgrep: add 0.7.9 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "a56df4758bf4d5fcceb92febdf66b57a6111596b": "mboxgrep 0.7.9"
+}

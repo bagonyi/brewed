@@ -1,0 +1,22 @@
+{
+    "6d61ec96778342226a0601afa3cc90eac1b046d2": "ec2-ami-tools: fix rubocop 0.65.0 style.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fcdfba3c7677389647a4d518156479c937493613": "ec2-ami-tools: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "49f1ce519e3ce4a8b81bb72afcabe9287b05aae2": "ec2-ami-tools 1.5.7",
+    "441bfc823fa807c4d39fd6b9c3f32bb71fe7ebb0": "ec2-ami-tools: drop AmazonWebServicesFormula",
+    "77e51faf3ba3e54dd48e26bd4a823a1825f38572": "ec2-ami-tools 1.5.6",
+    "74773eaa11aadfac02d179653c74e3889c33b59c": "ec2-ami-tools: pass strict audit, use https",
+    "27674ba4971fe9466e4d50699890e6773bb7671d": "Define install instead of making subclasses call standard_install",
+    "51378fb68690f275a62396460216913c3af588f8": "ec2-ami-tools-1.5.3",
+    "a4e039574d66814c4f731b79bd67700347716def": "ec2-ami-tools 1.5.2",
+    "f95d64d6088b4280988d382a24cc79b26704651c": "ec2-ami-tools-1.5.1",
+    "a86826b8f2bf2b623aadd0ddca44e98abb4a71d8": "ec2-ami-tools 1.4.0.9",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7e12d9f9ed36d1cbf7d2fb121d64f18b3ad7eb89": "Updated ec2-ami-tools to 1.4.0.7",
+    "2f78de2be1f2e4bd0fb58d72e44f8d73af3e465c": "Move AmazonWebServicesFormula to formula_specialties",
+    "dc0f03a6f66f54896588df4107ee79ead4b21dfd": "Fix audit warnings in Amazon formulae",
+    "3952ee22fea7873a2bfb31e88d4a4797a1caf297": "add ec2-ami-tools"
+}

@@ -1,0 +1,9 @@
+{
+    "2bc3201ae284813a1fd7d3e97ec122b9bf2c563f": "prettyping 1.0.1 (#12032)",
+    "66fba56f86fb0ef0f2678a2300dde4f4637e14c7": "prettyping: add patch notes",
+    "d13efa8bd5ec2a060f201bc084a570a34c3b74ca": "prettyping: fix ipv6 support (#1724)",
+    "77b77fffa6c6c91eee0ef8df5fa83dcb5543cb3c": "prettyping: bottle unneeded",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "43ee45f580207b9d04891ea9af46686bfb30bbc1": "prettyping 1.0.0 (new formula)"
+}

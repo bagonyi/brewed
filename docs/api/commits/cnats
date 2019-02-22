@@ -1,0 +1,23 @@
+{
+    "c52967ca9f87f371c3a31599cbee7fec02bf5626": "cnats: update 1.8.0 bottle.",
+    "39f44b4be4314206b31b7dcfaf4bf0c60a3d9c15": "cnats 1.8.0",
+    "b84b37b1202bb9b8c5310c87e0408e6c9c7b085c": "cnats: update 1.7.6_1 bottle.",
+    "56f53cb9363c55a1b1cc966ab7bee25911a3f40e": "cnats: remove options",
+    "cac16a0c0304fb91b6ba05da8afae8a6f6412644": "cnats: fix dependency order",
+    "6e28982beb5901344f29bf85f82c440e9b4cf828": "cnats: update 1.7.6 bottle.",
+    "71b6c71db45da372dafaf108bf7fda760cafa34c": "cnats: update 1.7.6 bottle.",
+    "4ac31a28c315f6d8e25f2b14425509c39163fa59": "cnats 1.7.6",
+    "5eefcc5979e7b09cf6d1125f7cccd0d34edff4a9": "cnats: fix style",
+    "751ad43aa588ce6ea62c961cc33eaaecfd60ef15": "cnats: update 1.7.4 bottle.",
+    "2145a5bc769b0de2b3d64939000d21013b01746f": "cnats 1.7.4",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7e7fac5330c8d961e77c9825ee54e113478d7ccc": "cnats: update 1.7.2 bottle.",
+    "f075ca43e06ed1fdf500fae8ead2e707da30354f": "cnats 1.7.2",
+    "635430af4c096f9740ce05525cfb27fdcfae6eb7": "cnats: update 1.6.0 bottle.",
+    "c2dd85ce64d38e4a3a8b732fe5bc6d5973edf0b1": "cnats: update 1.6.0 bottle.",
+    "d4a745f110be608143043b85cf75b30e1904d669": "cnats 1.6.0",
+    "81422a96ba3e7ff6ddf37ab670b5035b34200b8b": "cnats: update 1.5.0 bottle.",
+    "bc357fe2cecf37bba6750625fb61d03f2edb0b77": "cnats 1.5.0",
+    "6515ef801a798fb36371119464a4d4615b485716": "cnats: add 1.4.4 bottle.",
+    "a542805a46cf8ac8485cdd9915225e07227deafd": "cnats 1.4.4 (new formula)"
+}

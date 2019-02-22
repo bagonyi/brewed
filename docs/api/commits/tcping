@@ -1,0 +1,17 @@
+{
+    "bb4cba06ee72e1773d4defb4264ef0b3f533ba51": "tcping: secure/fix/follow url(s)",
+    "253ca007a487b0cea72c75aa6aa43c54aed79019": "tcping: update 1.3.5 bottle.",
+    "0ac8c616c3e17d0ece133b19b95650fb0a61269d": "tcping: update 1.3.5 bottle.",
+    "d687b9a85be4c103f2eec923c2edd0f02b880ad7": "tcping: update 1.3.5 bottle.",
+    "ec8a02cd8023eb19714696dbce537f0eedcaa6dd": "tcping: update addresses (#4653)",
+    "0392e1ffb6ff803423419752c522931bf7b6097d": "tcping: update 1.3.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "64d8d7f7200e8261005efdd007333d6ccc41021f": "tcping: add 1.3.5 bottle.",
+    "33f4fab93cb943d187300c1a444a4b7d49faa575": "tcping: modernize and add test",
+    "a59f24e12de091b540c4fa9c64c706e701930eb0": "tcping: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "93b51fbc371aeb89f38d0ab046cb3f8fa1776f59": "Add tcping"
+}

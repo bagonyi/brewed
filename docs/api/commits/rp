@@ -1,0 +1,15 @@
+{
+    "b2b5cdab35aa3eb339b0b85a9a7f7fb1e7e0a4b0": "rp: remove references to pre-Mavericks.",
+    "28b6e9dd8156d0ff9bfe3931195247793051aea8": "rp: fix dependency order",
+    "e8d3aa3c206c64cece1b549f8fb08f921e02636b": "rp: update 1.0 bottle.",
+    "0cea2b5cb0b220c98904ca39d08db96423ea287a": "rp: update 1.0 bottle.",
+    "8c6607b74487fe95c1ff2e0a7106f86050fe3115": "rp: update 1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7ae4024d4b51adf3fb6ad03b3d2ca4c72239d256": "rp: add 1.0 bottle.",
+    "a9fbcf8e94b1954f6e0b865f115571eb6435338a": "rp: audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "61aa556df4fd8e623f95b2ca909054bb4836f07c": "rp: use patch DSL",
+    "ec2df919076cd684642ef2b934c6674678b98d52": "rp 1.0"
+}

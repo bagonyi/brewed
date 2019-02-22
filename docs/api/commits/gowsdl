@@ -1,0 +1,12 @@
+{
+    "628c073cda33bec96cc91a0526cbdd2e480ffc80": "gowsdl: update 0.3.1 bottle.",
+    "632f20b7753f442a4928ca0dd8ff2ef8926eadcd": "gowsdl 0.3.1",
+    "85cefae07dfef3cef9dd93900a67b288c24b632b": "gowsdl: update 0.3.0 bottle.",
+    "223f8a413c87ef3ab51232aa8684aedcda58cf2a": "gowsdl 0.3.0",
+    "32ccbb051fb9f5ff14685f378a2532861f4d692c": "gowsdl: update 0.2.1 bottle.",
+    "e2d0b3e9026135e59c5c2e1f1994fa083f3cb2cf": "gowsdl: update 0.2.1 bottle.",
+    "18ec8b639d5c9bae2a348d3ed71136931aa942ea": "gowsdl: update 0.2.1 bottle.",
+    "a377f267e39e7a0d6e8eabf4cedf8d96a8d89f3c": "Fix unnecessary 'require \"language/go\"' errors (#4023)",
+    "a428f717ed4d41ff6ddf465072bc4431de6ae913": "gowsdl: add 0.2.1 bottle.",
+    "67a9396a43bc4453f26ca30ddb97eb9063139f8f": "gowsdl 0.2.1 (new formula)"
+}

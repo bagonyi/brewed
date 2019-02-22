@@ -1,0 +1,18 @@
+{
+    "39695708465230782e526de780432b2e9416321d": "epeg: fix dependency order",
+    "b7a3b011de8ad6b89491aca3f01b1a3931a72f99": "epeg: update 0.9.2_1 bottle.",
+    "1e3f176bb38d58cdcb47b7daa87320176c489f9d": "epeg: use assert_predicate instead of File.exist?",
+    "fd390ea93d1ead782bafe3bf0e1519e2023ac454": "epeg: update 0.9.2_1 bottle.",
+    "45070e8bcf7f868bcf74bb05d4b8b9d5b47cf616": "epeg: update 0.9.2_1 bottle.",
+    "1dabee44614debeab16ad8a755f4c6c7839d17bf": "epeg: revision for jpeg",
+    "1d36b993ed413fe4b7b789492c481f44f94c74fc": "epeg: update 0.9.2 bottle.",
+    "2b511fb411c64e7991bdf3667b9915ecbb0c9fbd": "epeg 0.9.2",
+    "6ec250d5f10cf7f792f28d980ee98d17691155a5": "epeg: fully scope test system call",
+    "fcde8659257a2e33b111671179de1878e1ee045b": "epeg: update 0.9.1.042 bottle.",
+    "43b133ea11c37d87cb6e6e4a17d0acd23dde94fb": "epeg: update 0.9.1.042 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "22d81d1037854bed15d5b2453c0fb3d4bf77a676": "epeg: add 0.9.1.042 bottle.",
+    "d816bd5453e7762a5b8416fdbb4e85fd190a8079": "New formula: epeg 0.9.1.042"
+}

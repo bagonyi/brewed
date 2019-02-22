@@ -1,0 +1,14 @@
+{
+    "9ab9678c1aeaff9ef8e7ecd41ee9c7ef09b1852e": "wirouter_keyrec: remove references to pre-Mavericks.",
+    "f6a24c24e4b19ca72c0dbaabc95ed654600f82db": "wirouter_keyrec: update 1.1.2 bottle.",
+    "605b2aeda9aea40b44f7807c23215aa308a023c4": "wirouter_keyrec: secure url(s)",
+    "77711793dea0b650ecacdad56ea77730485cbe87": "wirouter_keyrec: update 1.1.2 bottle.",
+    "f2565570d1a5d63426cf61d028fee2f5c987a6e0": "wirouter_keyrec: use mirrors",
+    "111ef21e01cda87c0a46b9ae654af12d1e4b5bfe": "wirouter_keyrec: update 1.1.2 bottle.",
+    "27400acfe9fcc3baa18ae8c29013839eb2d8787b": "wirouter_keyrec: update 1.1.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "54e0704ff310f1c183fa0f12f45342151132f9b8": "wirouter_keyrec: add 1.1.2 bottle.",
+    "121df70b9298a2c2893350b3262946669d4dead7": "wirouter_keyrec 1.1.2 (new formula)"
+}

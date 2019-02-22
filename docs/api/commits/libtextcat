@@ -1,0 +1,16 @@
+{
+    "0a64f986dfd26b91721753eca857969b32f6aeab": "libtextcat: remove references to pre-Mavericks.",
+    "901df245e64a328ca1b63d4aa0d970cf3c5684d8": "libtextcat: update 2.2 bottle.",
+    "a0b80bc6b79612bddbea66b067123fd8429c7d4b": "libtextcat: secure/fix broken url(s)",
+    "d207341697a0c269c346730cb128581bf9a702ba": "libtextcat: secure url(s)",
+    "780467aee4b388d10aa086a2380e279d5207ab54": "libtextcat: update 2.2 bottle.",
+    "88a629d5d499b649440e979dc8148cda9490b86b": "libtextcat: fix stable url (#11327)",
+    "bbc5a33a0c75a5e492325951cb7873f4a4e690cd": "libtextcat: update 2.2 bottle.",
+    "01e6f818e5c3333c0705e3071d2954b58e6fe7dc": "libtextcat: update 2.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "218f9044a220d3791ca6f6c997f0df8722e1e7ba": "libtextcat: update 2.2 bottle.",
+    "1623ef1f16bba9b8f5bd748cdb2fd056d7cf4431": "libtextcat: add 2.2 bottle.",
+    "e7e2c50429a69e5a4b55253251a456a4a7acb8f2": "libtextcat 2.2"
+}

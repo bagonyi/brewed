@@ -1,0 +1,12 @@
+{
+    "34aca75c74b6510ca4b76b877d30b6c29b50ff1d": "dbacl: add test (#33472)",
+    "29a328b65f3f8ec13e1f2872412351081a3d2bb1": "dbacl: update 1.14.1 bottle.",
+    "fb92e10c0f139e505c6cfddfaeca1144bfd0a91d": "dbacl: update 1.14.1 bottle.",
+    "9104bfa66dae5c7bd70e4b04da1cf5f824f8bf65": "dbacl: fix audit --warning",
+    "e073e6c08c18046e9770dd6086eac9fc46c32971": "dbacl: update 1.14.1 bottle.",
+    "bd2dfe7f0e4bc921f324b6af4b2d757011a25570": "dbacl: add 1.14.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "0372af31a9a6ec3dab6cb3c6529f6209cccaa3f4": "dbacl 1.14.1 - a digramic Bayesian classifier"
+}

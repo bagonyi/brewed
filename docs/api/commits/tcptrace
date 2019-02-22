@@ -1,0 +1,14 @@
+{
+    "3168e1bf52cf87a0344cdc6cf4d936ec009ff49b": "tcptrace: remove references to pre-Mavericks.",
+    "95a33ab7678fe087a0c930127c95b25d45ffe0d7": "tcptrace: update 6.6.7 bottle.",
+    "e560a64dff126d32b48de9a6a3279c2853ef160a": "tcptrace: update 6.6.7 bottle.",
+    "17eea5b37a8fdc1c37ec92d7908993d26d0ec905": "tcptrace: update 6.6.7 bottle.",
+    "55f8bddcfe77a9f8781bb57fe4e317be966c3c5b": "tcptrace: use mirror urls",
+    "23afe63d66fafd8e5a02a39310d3a3b8318b6771": "tcptrace: update 6.6.7 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c6d82ef8fd3a6f8c1b372dd8daa16175e4842288": "tcptrace: add 6.6.7 bottle.",
+    "ffce2e25c8803a1c8841920b17d7bb323bf0b40e": "tcptrace: test added",
+    "48f442e1fc8b881f4411582c1d597b9ab5f40c78": "tcptrace: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "694a1a4ac01c2456ab7a59a1ad7817546f4e0cc2": "tcptrace 6.6.7"
+}

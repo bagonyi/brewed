@@ -1,0 +1,23 @@
+{
+    "598c597e70966bef8e81b90af023fc606673f5a8": "sstp-client: update 1.0.12 bottle.",
+    "8dacb2098864e32a0e64fb71b3d0af95c387df0f": "sstp-client: fix SourceForge url path (#29293)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "6a0ae476ae5f25136b11f5f0c29a60161d7e4b78": "sstp-client: update 1.0.12 bottle.",
+    "843a1e5e9fb1172b4c50a815b2da4653be7c28f1": "sstp-client 1.0.12",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e5b1e14c805fc77bed585036cd3a1f0bea78f25b": "sstp-client: update 1.0.11_1 bottle.",
+    "0587132f74f1e7786f77b8e2e4b5d0326e7a09a0": "sstp-client: fix audit",
+    "93263866a5dbdc2c5d7203ee05b15862ca228fcd": "sstp-client: update 1.0.11_1 bottle.",
+    "ca86028eb6ce9c74a2f412a7f177ca2642db23bd": "sstp-client: revision for libevent",
+    "8b6461f54c7f7ac189ee99df84665b9788fdbb99": "sstp-client: update 1.0.11 bottle.",
+    "801c44d9e01cc1f4458094fd3b9ef98093e9d9e6": "sstp-client 1.0.11",
+    "d9acbfcc491c36946038d019d8a1a905343bca0d": "sstp-client: update 1.0.10 bottle.",
+    "32cf1193bee5cd527f680a22150aefd48a903087": "sstp-client: update 1.0.10 bottle.",
+    "83bbe6cf27c307c012816fbdc380bee013bc2dd8": "sstp-client 1.0.10",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "81f399ee3db81f230a8b6753497282e88a978d5c": "sstp-client: update 1.0.9_1 bottle.",
+    "e27e25855927396437992420f478fa3776808d53": "sstp-client: fix placement of runtime dir",
+    "075f68ecb9a88a5b802bfc637f40da001455df13": "sstp-client: add 1.0.9 bottle.",
+    "497c0171c06d3e2b2f3f347ada95710e2ba4e507": "sstp-client 1.0.9"
+}

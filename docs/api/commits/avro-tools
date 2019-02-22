@@ -1,0 +1,10 @@
+{
+    "203b56b79b3932e2f194b778a55a554bd972e5d1": "avro-tools 1.8.2 (#18396)",
+    "962fba2030db3f1bd37f9ff3cf9b72df909e7873": "avro-tools 1.8.1",
+    "96e2511a73952f27c3ff672f6df56867225bb994": "avro-tools 1.8.0",
+    "57f8aa6aee01de6d4837b89839e25388c7560c1c": "avro-tools: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6346cee25a651c5df6930ca1a9faf48aee0ca7d1": "avro-tools 1.7.7",
+    "448fc3cfdac7e9dee50c8677504300960cd69baf": "avro tools 1.7.6"
+}

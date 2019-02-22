@@ -1,0 +1,17 @@
+{
+    "cc5f2447e417bc520d3b91ac06a6f7096eb32f09": "ssss: update 0.5 bottle.",
+    "1d9dc8b7995b1aaa94a16113eedb4d67996486c4": "ssss: update 0.5 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "866862d6913108a3331c519c2bfadb51b4924a21": "ssss: update 0.5 bottle.",
+    "af19dfb0fc7fbc40504fabd374cc8de11dc27ac4": "ssss: add 0.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4d8e3a60df22e94f2702e8a11ef2648a1f31461e": "ssss: modernize",
+    "81225705026459601fe58cae51a09ba864eaa929": "ssss: style nits",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d8243fa293694f72b2d8c51a78576c980236ad60": "Fixes Homebrew/homebrew#3320",
+    "b732e6c29910f3bb341eff7261221c64e3d101b2": "brew-audit - check inreplace block var name",
+    "5f5b05feba4b86404f9a4179bb70dd0445b7463a": "Added installation formula for SSSS (Shamir's Secret Sharing Scheme)"
+}

@@ -1,0 +1,21 @@
+{
+    "4dc72624dcc889a78084568def184292e4aeb707": "Updated for apache drill 1.15.0 (#35714)",
+    "81be5f3afc871642b5cd38774490b14d7daf0666": "apache-drill 1.14.0",
+    "53a2a1c97fa68ef16cf17341fc4d64ae2ab36dc5": "apache-drill 1.13.0 (#26900)",
+    "8d186501651ab37f897388db0977334ce346f28e": "apache-drill: remove deprecated ENV.java_cache",
+    "2e16dfb1e51f4b181a45825204678835d2920d06": "apache-drill 1.10.0",
+    "bb5a430849f7725bbbf4fce4a25b9c45d181948a": "apache-drill: fix homepage and description",
+    "6213cad2350961a94a1c59b8cb84a7212146167c": "apache-drill 1.9.0",
+    "08c4d9e5b7144a25003fe66564a8919dfae30006": "apache-drill 1.7.0 (#2704)",
+    "e875233524bd72636ed7e75d75e12d8f0d7ca303": "apache-drill 1.6.0",
+    "6dc6be7fc21c8054cceca35bc28e3a4e16fb80bf": "apache-drill 1.5.0",
+    "c9e019076cdf824cc72866785eedb0a21b8a093f": "apache-drill 1.4.0",
+    "c7574eba8631ae7d3f1bdb2c97618190c06f2e95": "apache-drill: use new java_cache env",
+    "e7657fd5a33ed15d11a06b385212a969fd829fb9": "apache-drill 1.2.0",
+    "4114089df10a7f2bc29a9bbcb8bdc69299db7e5f": "apache-drill: fix test for sandbox",
+    "e4e968aaaaca5ecffe1740825d2e85bd07bd1006": "apache-drill: bottle unneeded",
+    "0e231376ccddddfecce64f129017b119a885ecff": "apache-drill 1.1.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "52ee3d3c0e71084b93f9ae36e86aa73ebf5982cf": "apache-drill 1.0.0",
+    "c494b74ae76bba6181e996025ac7b793e22f7f91": "apache-drill 0.9.0 (new formula)"
+}

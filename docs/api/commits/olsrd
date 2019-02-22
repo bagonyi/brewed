@@ -1,0 +1,22 @@
+{
+    "62f3b7fa807746ad3dd80972db4750c066d7aabb": "olsrd: update 0.9.0.3 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b7b69c2e188b1eebaae602a0eefdc9cb9d8b8e28": "olsrd: update 0.9.0.3 bottle.",
+    "02cfea6537e1765ddbc6b5c65b8d6eba2e32d19d": "olsrd: update 0.9.0.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2a9678a0080c5305acd55283208107f13fcb65d1": "olsrd: update 0.9.0.3 bottle.",
+    "f34af837c6ff07642d24de085b93e17fc4f0c232": "olsrd 0.9.0.3",
+    "b03e0d5a4256cfd61c3c060962cb9cf9f22f6dc8": "olsrd: update 0.9.0.2 bottle.",
+    "1ce3168ff953c8a254bc8f0b20e9b927fcecce2c": "olsrd: add 0.9.0.2 bottle.",
+    "ab85cd827c99839f286f5f0c8d8bd1979e614490": "olsrd 0.9.0.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b20936b17220cbbaa82cf8fbc3ddeda09c70a270": "olsrd: use patch DSL",
+    "71ca580ac1275058cecb21f643709bbf8caef3c2": "olsrd 0.6.6.1",
+    "d0956ca39ff3f3b64f15e04dc09c813ef93e6025": "olsrd 0.6.6",
+    "cd16f8ff2e7229b728a157a99247575caf2bb70c": "olsrd 0.6.5.4",
+    "7546543fe8a0fa5ac41b26c9de4dcf4d40c26f34": "olsrd 0.6.5.2",
+    "07a0083f8f3d647dd800e8bc39de8136c4a607b6": "olsrd 0.6.5.1",
+    "e55c97c42133b3df687276990a652d5762175d5e": "olsrd 0.6.4"
+}

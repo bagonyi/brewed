@@ -1,0 +1,23 @@
+{
+    "204226f6cbc9898fe31a02a287c08ec3c7c0178a": "tcptraceroute: update 1.5beta7_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ef1656f65d98080c2404e670b1ceb70d72d1fef4": "tcptraceroute: update 1.5beta7_1 bottle.",
+    "06130fbed9f2164528e7e9239f597f8d9539e1a6": "tcptraceroute: remove redundant version specification",
+    "310c4f160c42d8ebc61cd240dc182022559f34cd": "tcptraceroute: use full_index patch",
+    "c16017b1097a52820d434ed0813b07924c1ee432": "tcptraceroute: update 1.5beta7_1 bottle.",
+    "d5a326f74df1cb536c67ecf4141e866b179072f2": "tcptraceroute: pcap_version fix for 10.12.4+",
+    "ed001f5ea23bcbf8ace369eba861869f1981c660": "tcptraceroute: update 1.5beta7 bottle.",
+    "43c66dcd04a61526facd07506381c8e4625c657a": "tcptraceroute: add 1.5beta7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "170f70045c40f08c044544628db289751a197e28": "tcptraceroute: recommend sudo instead of setuid.",
+    "ad9fe37c3b675e1f57564f1d95fb332b1c6af7da": "tcptraceroute: update homepage",
+    "0b44c688a78f316b2d6d7150c8a43d5f6185972a": "tcptraceroute: fixed caveats",
+    "e01fcc17948f962b3830a9cd0484e5d3090acd4f": "tcptraceroute: add caveats about sudo",
+    "e3c951a9f767f90ec2ab3b6950be71ef6c430292": "tcptraceroute: source from github",
+    "19a1f115cc10c1b904a5d8b5f0f23de715db4eca": "tcptraceroute: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "5fea3f75e117056249d725d51931c30241239e01": "tcptraceroute"
+}

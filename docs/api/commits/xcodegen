@@ -1,0 +1,18 @@
+{
+    "fd6e943f95fdd7f3fbb8079f97f5e8d95b2a5eee": "xcodegen: add head (#36965)",
+    "0af7155e26c4dc004fc37ce487030c3fc88694ad": "xcodegen: update 2.2.0 bottle.",
+    "148a15e496c03216f2c6fca987d642bde62e5e7a": "xcodegen 2.2.0",
+    "dc984ee34193465985a81b6ca1283641414f8ebc": "xcodegen: update 2.1.0 bottle.",
+    "d75091772df2e45fadb0877babff9a9a5b3f4800": "xcodegen 2.1.0",
+    "50340c08bd96161354d432070d05046ac1e6547b": "xcodegen: update 2.0.0 bottle.",
+    "34881ad1e6aa8d43f17bbebfde2bff8c81e1b8db": "xcodegen 2.0.0",
+    "4bf481e3facd244d4578d750d3a7a507fe9ab094": "xcodegen: remove workaround needed for `rdar://40724445`",
+    "ceab76c7ca034a490b5b8883fc17493576c108df": "xcodegen: update 1.11.2 bottle.",
+    "d786642c796a62787610f202e0924a0841d1fe20": "xcodegen 1.11.2",
+    "696d3bc651b66e04acb4134df894b15e15c84d8b": "xcodegen: update 1.11.1 bottle.",
+    "07708e706a9d2ae8dc429f3394043b3ef5ec2b0a": "xcodegen 1.11.1",
+    "d248a0ff4477b9c410777d8ddab17bdd4bde4c68": "xcodegen: update 1.11.0 bottle.",
+    "a94263091cac50ebd023c80d42af366101852184": "xcodegen 1.11.0",
+    "3c14ba2fe8641c80a98331b376006d82cb779424": "xcodegen: add 1.10.3 bottle.",
+    "25bb13ce891dc1f301dbd232c5bdc87f4fd5ac70": "xcodegen 1.10.3 (new formula)"
+}

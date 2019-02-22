@@ -1,0 +1,19 @@
+{
+    "6dd865559668b1b6100edde94c7a6d9066c9f832": "wiggle: update 1.1 bottle.",
+    "94f2a940b028b1f5dac0be13fa68ed6673bc3b23": "wiggle: add test",
+    "f20caa0e4c1dba8ffe502dc5458c4addc70b5eea": "wiggle: update 1.1 bottle.",
+    "2165c4a30721e3f3d2b1673b4b9d5efd85293dcf": "wiggle 1.1",
+    "dd5b07dff6a4e6bd6946bfa752809bcf83735f56": "wiggle: secure url(s)",
+    "394331c72469a08ab61018351729e4a81ed44093": "wiggle: update 1.0 bottle.",
+    "008fbaba9498f7ace517c2fb402ee87546f92cfc": "wiggle: use a mirror",
+    "7a019fc978a256fb97383bb56d726c5f03091f7a": "wiggle: use full_index patch",
+    "f6ee1a0b76e01542fc7fd6e337b07338e343f7f6": "wiggle: update 1.0 bottle.",
+    "470db603854fe9045cd35c9414ee20e1295f7489": "wiggle: add 1.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a649d9b4eca4e9bc9ba3e52373a749a697d98416": "Use .diff instead of .patch for github commit sourced patches",
+    "64725108587cdd6427ef7ab4983edcecd0bbc7ca": "wiggle 1.0",
+    "adb5228bd016a77e96d4018cf688ebd4d8f42978": "wiggle: update patch URLs",
+    "994eea4459e9327559a0794aa6a1c9aed3ea9bad": "wiggle 0.9",
+    "55553f8a3017590774fac0bd8c5707e0133b593e": "wiggle 0.8"
+}

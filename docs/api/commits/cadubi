@@ -1,0 +1,14 @@
+{
+    "41fc0493277df733aed1eafb6de9a97813ed676d": "cadubi: squash unnecessary test element",
+    "4e7c830637b3a620ebbb447513874cb3f6b1a415": "cadubi 1.3.4 (#9177)",
+    "e14b8b4cbc62bfc8a2176d2dc44f70a09283a693": "cadubi 1.3.3",
+    "8d95d853c7234b532566a8d488088e70fb1f1188": "cadubi 1.3.1",
+    "09a04cdf82263033d813d2f2e6d5b698dc695d09": "cadubi: replace failing homepage with github page",
+    "b95f3e9c5342a81c0c48190d801fdde938c01373": "cadubi: release download was moved to GitHub",
+    "7e5434cd70bccbdf8230ab81c39b5fac2cd04ac9": "cadubi: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c03eaea9c680efe11d97fe7e006f6491f927611f": "remove Term::ReadKey dependencies",
+    "c5f41964bad0d1476b4118f658a4543b07f17c44": "cadubi: fix URL",
+    "e6aff5cb8c6e916283c36088638ae0201020da94": "Cadubi 1.3"
+}

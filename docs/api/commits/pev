@@ -1,0 +1,18 @@
+{
+    "8ac6538aeb8498c56f9e573c89e601f0b1501ea9": "pev: fix dependency order",
+    "be293dea5f058983f7096f32c11cf60d2820b523": "pev: update 0.80 bottle.",
+    "7be3f2190572b42140f0cc13546282fd03cd5fea": "pev: update 0.80 bottle.",
+    "f0ee15b97ac9ec064aba2c0d9b94977c080d83ed": "pev: fix audit",
+    "c0f28652e58aa4f0efc013270cc4158d52b28209": "pev: update 0.80 bottle.",
+    "37e32c13246e9fd37836adb36558a81eface103c": "pev 0.80",
+    "c9cdcd5868bf19b27f1d61e82481a7daadaf52af": "pev: update 0.70_1 bottle.",
+    "1013dd8bf5fdfcd170e4acb2d621e6f2f05ac09a": "pev: remove inreplace do block",
+    "fd38506c95e1de413ee3ec58902b71a1ddeca98c": "pev: update 0.70_1 bottle.",
+    "c3e7700b95e45a78887baf12fbccb72ccb09be52": "pev: add 0.70_1 bottle.",
+    "f64accc413331ea9ce39ef93d4f1beae32456362": "pev: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "9f392b875bed74f0691b5ccfac519e7667fade52": "pev 0.70",
+    "9e8069496fdc06525489e173d2296e9c79280858": "pev 0.60"
+}

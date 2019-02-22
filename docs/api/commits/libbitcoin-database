@@ -1,0 +1,14 @@
+{
+    "10dce831b695a0b282939a1610a80d9c05f501e4": "libbitcoin-database: update 3.5.0_1 bottle.",
+    "e10ac5460ebd9740dff77ff46c0d99c4ed6de399": "libbitcoin-database: revision for boost",
+    "754a74e289907fe50a57833e207ccfd8c88674f3": "libbitcoin-database: fix test",
+    "36b952cbc1c09e38667ce00096fc362f41506905": "libbitcoin-database: update 3.5.0 bottle.",
+    "689965b49bc42df405394e5c7dbc710b303bae2c": "libbitcoin-database: update 3.5.0 bottle.",
+    "16eb61930e9b8b095ec1f73d51b671f1e1a128ad": "libbitcoin-database 3.5.0",
+    "ff919cfab336098d0b1740ea14613e6062fadad4": "libbitcoin-database: update 3.4.0_1 bottle.",
+    "2a73657f10f4211d43b86b534547273920bc5b4b": "libbitcoin-database: revision for boost",
+    "d21e767227d7922397b2e46dfb53409481c750e2": "libbitcoin-database: update 3.4.0 bottle.",
+    "3a73e01e17748dcd354c0bfcdbcf3e6424e77c74": "libbitcoin-database 3.4.0",
+    "cc2ecd1bbb6aa98081a6d217dbddd93ec0df4d9b": "libbitcoin-database: add 3.3.0 bottle.",
+    "36cf98b5550e6cf9316a186d472b772a35514cf1": "libbitcoin-database 3.3.0 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "d3add287809f156e87f63fec00aedaa6fe450c1f": "groff: update 1.22.4 bottle.",
+    "3a15a2574df0cc83f32100d7c72f0cdb5931b20a": "groff 1.22.4",
+    "9a4e8e99cbc19a93304ca709b89818e0fb1dea89": "groff: update 1.22.3 bottle.",
+    "da1975623922cf2d64ced525ddee7e36511d42ab": "groff: remove options",
+    "a00da69af561e13691c9a66ca46fa2709ea752b7": "groff: update 1.22.3 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3f2fc6e0b399fe80e082b994f4c716177626d3c6": "groff: update 1.22.3 bottle.",
+    "bc5044c2858fbc9c2a905a1c5e17a84dbbf9b8f8": "groff: swap GNU url and mirror.",
+    "ef6f5b4328ffda5866b8bcdc8359e0d559e62ca0": "groff: update 1.22.3 bottle.",
+    "4104fa16c27e0c18d0cbe77359c12f15dba691c1": "groff: import homebrew/dupes into core."
+}

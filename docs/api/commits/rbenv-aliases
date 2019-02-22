@@ -1,0 +1,11 @@
+{
+    "8debbf97c4091b868a5452c0ee932434bf572f07": "rbenv-aliases: depend on rbenv instead of :rbenv",
+    "0016fe0494e227518624b482126d53e877c6c38a": "rbenv-aliases 1.1.0",
+    "ef51f531c24baa05debd40132a8aec7bd294237b": "rbenv-aliases: use new rbenv dependency",
+    "2ab5779be58a6b87b295fdf82982701477b7f528": "rbenv-aliases: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "60463dd1e01c4768bfe4d2ec5d5c750ca21d1d4c": "rbenv-aliases 1.0.1",
+    "a47193d6931feed0319045c3bb5b772f85232899": "rbenv-aliases 1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+    "8ddfd852071c52566252e1de1ca4a874241a7bf9": "game-music-emu: update 0.6.2 bottle.",
+    "bca8ed608259245ad3eee64cc76184b532cfa5a8": "game-music-emu: remove options",
+    "79c0eaa0183d01676dc2aa0338951c24469ea32a": "game-music-emu: add player (#31474)",
+    "55ba30e7e68a073530a05bb8cb9debeb48723eaf": "game-music-emu: update 0.6.2 bottle.",
+    "6f8dbb7524e6d3ee3511e0dd52dcbec59e00855c": "game-music-emu: update 0.6.2 bottle.",
+    "a4cadecdaa357928a33e24117cf6db7f826aba3f": "game-music-emu 0.6.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b425303942bad33590e17de2187b893f69c7ee0a": "game-music-emu: update 0.6.1 bottle.",
+    "0635507532b1efbe837f37a043b2853d991e4f69": "game-music-emu: update 0.6.1 bottle.",
+    "7516510d0914c3ce29a84f8bb26eea56467e6b20": "game-music-emu 0.6.1",
+    "374835678c13b3d54e443904cf704e9cef43387a": "game-music-emu: update 0.6.0 bottle.",
+    "a8c1d78bd02cb3a54c4bded12b20754129d9a2be": "game-music-emu: migrate to new upstream links",
+    "a4c3cd585709dc11fcaee0d5842153ba774bc31c": "game-music-emu: update 0.6.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "da7e4eed329b1a0293975d19c02b7ff11bc27abe": "game-music-emu: add 0.6.0 bottle.",
+    "8ff517e2243124c424da70853dabdad0d4de53b4": "game-music-emu 0.6.0 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "8ae4dea3219d51b3be521f5fcb42ac44a137edba": "tty-clock: update 2.3 bottle.",
+    "8d5f61224909644b8f15a582930b424a565f5c1c": "tty-clock: update 2.3 bottle.",
+    "8e5e78c5d28fdabcd96727c6796746fa0a09581f": "tty-clock: fix incorrect description",
+    "6a6f876ae9215d550ec4711d8d27369e13ad027f": "tty-clock: update 2.3 bottle.",
+    "9da6413886d8f081f9625d53df017cbe3379d207": "tty-clock 2.3",
+    "5185629d6f7890220bcade2c010feb7a5771da2f": "tty-clock: audit fix",
+    "1668cbc72bf4f5d38e7316774251f266bfc2f8f7": "tty-clock: update 0.1 bottle.",
+    "8b5199cd6b6e7ec8e3eb6d0227619274f3b735e3": "tty-clock: add 0.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e77892950fac3939339edf28b8fc98a9837391d5": "tty-clock 0.1"
+}

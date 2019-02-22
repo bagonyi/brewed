@@ -1,0 +1,18 @@
+{
+    "2b62d78a1bd85572b90b9557b06488b06376cfe2": "openapi-generator: handle java options (#36430)",
+    "434d28a244429616a2bf47a436af8d6655e49010": "openapi-generator 3.3.4",
+    "7ca1ac5c71c30674353f93a6d24f55c6c8224ddd": "openapi-generator 3.3.3",
+    "caf8c8bce3e53e2fc697d2bebff52dfefdfba842": "openapi-generator 3.3.2",
+    "ed3ed2cb6e45a9792afe762dcb723b396b12954c": "openapi-generator 3.3.1",
+    "53d1f029cb5694a41640cff05a3791e5ffac37c6": "openapi-generator 3.3.0",
+    "fa2a9aca6e4b0e5f21cf1ade712b1d002271708e": "openapi-generator-3.2.3",
+    "343287f347c7c03a8f0d2acf9eecf149fdcb446a": "openapi-generator 3.2.2",
+    "9a9a0a12842f39c04a3c85c1509022e19fe0c8b4": "openapi-generator 3.2.1",
+    "919c57196e6964ad8370e2d84c96db644c4b9512": "openapi-generator 3.2.0 (#30844)",
+    "977fc665ba61fb16566b3d29ac4b0764cf382bce": "openapi-generator 3.1.2 (#30488)",
+    "0b9c8e4b05d38bc6fa3e68765fc52c87c091b2ce": "openapi-generator 3.1.1 (#30219)",
+    "8bcad350641db084aa52288678bbe22f14a3df20": "openapi-generator 3.1.0 (#29806)",
+    "16755ea7785e438bb7614cc7a6c0ff5bb95966bd": "openapi-generator 3.0.3 (#29504)",
+    "7b1c45beee8dc0a15e28645b6438c1da5abbdc60": "openapi-generator 3.0.2 (#29164)",
+    "7bc3bd14037a9c976b1f0312136784a051a79036": "openapi-generator 3.0.1 (new formula) (#28921)"
+}

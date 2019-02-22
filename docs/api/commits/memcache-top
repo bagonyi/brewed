@@ -1,0 +1,14 @@
+{
+    "996e3e2a4c5cae21e8d6598dc8e3d2413a264899": "memcache-top: migrate to archive URL",
+    "5ad4a53f2120d925eaba51e216c56ed57d15226e": "memcache-top: remove redundant version statement",
+    "a954a55f9a967a6b38bdf4e70292dcdd67e27c26": "memcache-top: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "19098c62becd6a379da155c567b368cd48dfaeef": "memcache-top: interpolate version",
+    "ce74bce44bce5196e2b559c9c91c3c9eba477f0e": "memcache-top: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7490d38e84d4a332fbc831458c628303ea53f477": "Use Pathname support for renames.",
+    "d707758cf8201d78939873e25b8382ffc9834212": "memcache-top formula"
+}

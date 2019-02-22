@@ -1,0 +1,23 @@
+{
+    "7c1a61b37382cacfb1239f2e6530cc3ed79796d2": "mp3splt: remove references to pre-Mavericks.",
+    "0499de276c186d5d70e003a4b56fe405356be93c": "mp3splt: update 2.6.2 bottle.",
+    "e5ee2b1bf2a5559cee13dde7442c904077b2a477": "mp3splt: update 2.6.2 bottle.",
+    "526f3e0b687414b1981dde73ae954ebe6171da5d": "mp3splt: fix audit about sourceforge link",
+    "033bfd655eb9eb2eea0cf6bfcde6f3bafc27a748": "mp3splt: update 2.6.2 bottle.",
+    "f3e80cd76b92223748cec6708d40c339b480dfe6": "mp3splt: update 2.6.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7b97086cffd45aaf3235002e66b92ba03396565d": "mp3splt: test added",
+    "b056d454d078fea5eb4ad65063076163dae372ce": "mp3splt: add 2.6.2 bottle.",
+    "bc226abf1d62e336dab5c5399b370150d45ac54a": "mp3splt 2.6.2",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "8ed6d60e3d19d0bc496d01b978a6e87c998ed077": "mp3splt: fix use of getline()",
+    "74687a17cca83d6e31076fb873bda4b7e1b90a17": "mp3splt 2.5.1",
+    "7c1118fb6397bd2053800152fbe03022569244ca": "mp3splt 2.4.3",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "1e140c6014599b0131b462a529d5f6a08fe4fd8a": "mp3splt 2.4.2",
+    "e72f962958d9b78ecd2bc1bf23bde1d9afcc6214": "mp3splt 2.4.1",
+    "fc2b95c6048046f6c913ec562b928950421490ee": "New formula: mp3splt"
+}

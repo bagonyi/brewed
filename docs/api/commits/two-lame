@@ -1,0 +1,22 @@
+{
+    "ea07d001a7351b619616b6ae18046935a6c22788": "two-lame: update 0.3.13 bottle.",
+    "9402884e7d446a31ad8b8f8e6baf205903be778e": "two-lame: remove options",
+    "f23613acb0103e3bd70dd3bc963ce68ac80b7fbc": "two-lame: update 0.3.13 bottle.",
+    "04fae6e82abceaf548e6be8e3f1ae504c97b28ad": "two-lame: update 0.3.13 bottle.",
+    "54d2b9f494e9debca7124c9b8d75e667f2159421": "two-lame: update 0.3.13 bottle.",
+    "eadc8519a27785e8876fa23b9655f11c60186547": "two-lame: fix bottle misplacement",
+    "639cb97e39cc3305e0ccd0d2d50251119ae2927d": "two-lame: add 0.3.13 bottle.",
+    "2ff7ae8f7ceab8def9ee61160b030dd19d6bdca9": "two-lame: option syntax fix",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "2d4d78067046751fcaf0486ef0bb4d27672f8e49": "two-lame: use new dsl",
+    "56c2eb6d417ccb95ca44244d999a977c1fae2f67": "two-lame 0.3.13 + option to build cli",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "434b7a0e74a44222535393b36d7172b5a9413af4": "Two LAME",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "3a11a674d14adde52eaf7057c2be47939d0311cd": "Speex formula",
+    "7a1ecdc5a03494da3a5cb7e4dff4a840dca23bf3": "Added postgis recipe, which depends on postgresql, proj and geos.",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

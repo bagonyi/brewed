@@ -1,0 +1,21 @@
+{
+    "1d06e0ba331e7b1751c6e079b5708caae813a480": "sift: update 0.9.0 bottle.",
+    "fa9bfecc6b243dc0a6e8ba375f49bec79626aec2": "sift: update 0.9.0 bottle.",
+    "e574d434c5742e52f5e2794fc53e905fe59b05bc": "sift: update 0.9.0 bottle.",
+    "ad1bfc834732351c4864e50d8a2e6db21e5191c1": "sift 0.9.0",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "edbd9d9a68a98480cee6cf0f203f25e1c7948d5a": "sift: update go_resource indentation style",
+    "b97ca2d5953ba1c19aaae7a033e693d55d1a2f53": "sift: update 0.8.0 bottle.",
+    "14cc0dd8bca6d2dae5e9db8d5041d11b92e0bd2f": "sift 0.8.0",
+    "0e5a628aff5032ad60e2dac5e404541531cc013a": "sift: update 0.7.1 bottle.",
+    "0f34aba9ef8815c5b5da25329bed2fdc21bfa9e5": "sift 0.7.1",
+    "fa9023d8d98aa760503029d58c29175eda580f93": "sift: update 0.7.0 bottle.",
+    "794dd1bbe9107931640ede728a2515d202c5c750": "sift 0.7.0",
+    "2a51426059fd0892817392f3b096a83e1d93fdf0": "sift: update 0.5.0 bottle.",
+    "9548b9ab5cee29c759eadd5e3d81905f1fc4d377": "sift 0.5.0",
+    "fe33e6a1fcad7dbbe38305420a9f117efac0b1e6": "sift: update 0.4.0 bottle.",
+    "01f8e0e2f240a52a5005382ea10e577f2c894d25": "sift 0.4.0",
+    "4bc141bde474bec5c6c72a2e113bad784eb653c2": "sift: add 0.3.4 bottle.",
+    "35f0ec9c47228ed04f8609e0cce34deb866cb51c": "sift 0.3.4 (new formula)"
+}

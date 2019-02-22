@@ -1,0 +1,9 @@
+{
+    "6fa2094d50b362910fdc5c7f3cc6cde87528b716": "template-glib: update 3.30.0 bottle.",
+    "f5f3523b634c4f02225e7f144d4537332a267768": "template-glib 3.30.0",
+    "b8ce8fc0f0cca35fb8e3c64a728562dd9f62be66": "template-glib: update 3.28.0 bottle.",
+    "2a8344a73c63b79dc17ff4cee3981ba73ed13789": "template-glib: add 3.28.0 bottle.",
+    "bf14054ac8fd3cc9aa5a3ac8bf157134f053b2c2": "template-glib 3.28.0 (new formula)",
+    "5f40d9fb3b07151dbe3d6b4af37bdc54a2be51b5": "jsonrpc-glib: add 3.28.0 bottle.",
+    "d6f29605960941e8b1f8136ef2d53548b078c6ef": "jsonrpc-glib 3.28.0 (new formula)"
+}

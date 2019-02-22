@@ -1,0 +1,18 @@
+{
+    "99c361f57fe40dae4ff7bc098390dbadd8ab66bc": "skktools: secure/fix url(s)",
+    "22c8798a51afbe6be9fdee2170a50ee931255ca2": "skktools: restore live urls (from archive.org)",
+    "b04c91bdafaf79d0ea0dc12d210cec025ced94a7": "skktools: fix url(s)",
+    "051085ebc6db639d9c597088dbe78778e0a2e1a7": "skktools: update 1.3.4 bottle.",
+    "b7e1c5b409eaa17410d8c5c507eb4f4fd8d25ae4": "skktools: update 1.3.4 bottle.",
+    "39e844259f92986b977587fbd6fa0f8b620cacc9": "skktools 1.3.4",
+    "0d2d8e163faa6d238835546ce4aa1b61291f7690": "skktools: update 1.3.3 bottle.",
+    "45f68e701f2c658eaefc97cdc57c3411fa3cae3c": "skktools: use ENV.deparallelize.",
+    "cbc90f59fc4ac39bec21f67939a22fc3dfc8ade9": "skktools: update 1.3.3 bottle.",
+    "b4a90186de88f83b39a3c1aef14a6b1dabd5ba64": "skktools: add 1.3.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1adf8092b2f5895fdb2a93db15c9e1333f86338e": "skktools 1.3.3",
+    "b8b282b8cb6d7d8dabc9ee7d08ac77a717adfdfb": "skktools: fix audit warning",
+    "f975e5d4f89ed19d13f734ecb52d9cb0d11da63b": "skktools: fixing compile error when CC=Clang",
+    "6a8250517af9c48b251ca50df79a5de86269cf31": "skktools 1.3.2"
+}

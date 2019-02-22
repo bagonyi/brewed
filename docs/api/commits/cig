@@ -1,0 +1,18 @@
+{
+    "1a3321f8ffb211e36f2076bdd46b6c5458d97ae2": "cig: update 0.1.5 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "91818b35a4fbfecf4f8886ba88128cc0a87d91c1": "cig: update 0.1.5 bottle.",
+    "4dd9ce75709ab263369dc496fc00a3cafa55b61b": "cig: update 0.1.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7f74abd5655ae835935a9f780d234ad2d5f7dc8f": "cig: update go_resource indentation style",
+    "12b7b64da7083592e13d0b963fb16bed116eed35": "cig: update 0.1.5 bottle.",
+    "5c07d3a87ba0d49484915c0c754361edb3b1eb1e": "cig: use godep formula",
+    "6afb0700a9de8eb252c3e6244a31e9ae9de28a95": "cig: remove redundant resource",
+    "14d09a9bb74c4a3bbbd6744f12f332889934cded": "cig: update 0.1.5 bottle.",
+    "0e70834733f3335be1fbc64c242f36e432143066": "cig 0.1.5",
+    "b3840bfc6be9e14a6dcc267d0b7b6673e344cd51": "cig: update 0.1.4 bottle.",
+    "0e3b8613bb65b1dd7e661ea41b760cf552006c4a": "cig 0.1.4",
+    "7b81cc3759e265d7f73fce648453e645c1ee5d57": "cig: add 0.1.3 bottle.",
+    "c7ef7c37ada147733c286d991f60b49a82c97863": "cig 0.1.3 (new formula)"
+}

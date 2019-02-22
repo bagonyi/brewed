@@ -1,0 +1,10 @@
+{
+    "37a4c2f316e40b02ff9ede60a98c2d655fe600e0": "gpatch: update 2.7.6 bottle.",
+    "e878b8ea5dfe8ec8f9c86307ff5c5c10d21c7d36": "gpatch: update 2.7.6 bottle.",
+    "bc60f87912a3a333be58c57ab8d5921cc27108ba": "gpatch 2.7.6",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3db243b0c9cfa342c4f18d40b6489d717907ffde": "gpatch: update 2.7.5 bottle.",
+    "e6ca742f4bfc80b67239b919d7b79d230d1dca90": "gpatch: swap GNU url and mirror.",
+    "04a3d07cc430382f9640b5ce577a85fb40191c15": "gpatch: update 2.7.5 bottle.",
+    "6354c272ef7cdc8aeb6f175d184c9c1082b79a47": "gpatch: import homebrew/dupes into core."
+}

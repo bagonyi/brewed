@@ -1,0 +1,17 @@
+{
+    "b5f7f909a81fc16941141e660af9b99300779d9a": "cksfv: update 1.3.14 bottle.",
+    "478c31a868b977c4c2a1db3b2384e23961622c24": "cksfv: update 1.3.14 bottle.",
+    "93c9ad9de6cdf6655aa7beceedd137832acb0054": "cksfv: update 1.3.14 bottle.",
+    "3758c290561eb5936753b5e9747b8fac312e0c7e": "cksfv: add 1.3.14 bottle.",
+    "a4a3145580ffc156ec18fb84723d72dad6c63373": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "2d2cc8ffe01563ee88735b57282a946545736531": "cksfv: add test",
+    "a4ce4995016dfcbb5d9947809ecc6833a94e4c8c": "cksfv: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "44d5459dc4746c7781a303ed786e18d463d6f698": "cksfv formula"
+}

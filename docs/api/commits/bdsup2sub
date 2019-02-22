@@ -1,0 +1,10 @@
+{
+    "a88841f816666444d5269d52b3754e4eecd74300": "bdsup2sub: update 5.1.2 bottle.",
+    "3364790f4f2cd5fb602437e4b971690728318f7d": "bdsup2sub: secure url(s)",
+    "a97fd9967008f584450c8012ac1fb20aea52b2e5": "bdsup2sub: fix rubocop warning.",
+    "f817aab2fe7976de3000d2c9455f027658a1bc5f": "bdsup2sub: update 5.1.2 bottle.",
+    "c2331d17ba7edb1e491be56252c69a4816526db1": "bdsup2sub: fix for Java 9 and broken deps",
+    "03aeae8ad0fd209d57bed2cacb50827db64b7614": "bdsup2sub: drop redundant mvn argument",
+    "ff4640fba7e6b2f834e518aadf036d716fca558f": "bdsup2sub: add 5.1.2 bottle.",
+    "e2fd2abd72e074e4fc7600c37db9fe30156e3ff7": "bdsup2sub 5.1.2 (new formula)"
+}

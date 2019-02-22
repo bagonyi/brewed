@@ -1,0 +1,19 @@
+{
+    "261117b15eced4ed7a50e4a5da5bc3024d4a6ebb": "ry: update 0.5.2 bottle.",
+    "a5c0e1c3077aeac2f41009f5a7cb0628152535c0": "ry: install Bash completion script in the right place",
+    "235876dbadf0de5c831f37681a1564abbd19d312": "ry: remove options",
+    "950d4598b3127fb9460858cb4d9856942bc0e383": "ry: fix dependency order",
+    "d8b48b6f50cc3b20e0a6c47663b60341b57e87c1": "ry: update 0.5.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "df5fcf49b7de8801cac0bbb858807a4a6e141804": "ry: use assert_predicate instead of File.exist?",
+    "0f1ef5dda8d8d2d269be8bdb4cbc0be13f56fceb": "ry: update 0.5.2 bottle.",
+    "58df54543662a794a5ecd45079f3e0527c848cff": "ry: update 0.5.2 bottle.",
+    "438b33b1e29c15bdd84ab273a7e1eab27ff0de2f": "ry: update 0.5.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "b856f071237e15dc1f601844b0dfc29e91104686": "ry: fix sandbox test failure",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1a4ab1d45382dce4a1aa3b9a046d13c5b3521cad": "ry: add 0.5.2 bottle.",
+    "c7040df153c0c1c88cfe6e9b79c1db6903873f51": "ry 0.5.2 (new formula)"
+}

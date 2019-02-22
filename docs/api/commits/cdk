@@ -1,0 +1,21 @@
+{
+    "294a3ca03574629263b9119805f9677b7a09148f": "cdk: update 5.0.20180306 bottle.",
+    "28f49bad26cdf4b08ea6af7f4f12e29664aa6b8a": "cdk: update 5.0.20180306 bottle.",
+    "20fff0ac89e871eefbc7b3e1629c2570489a8817": "cdk 5.0.20180306",
+    "c95042e7e960a0e090b946e99f369914b822cf4f": "cdk: secure url(s)",
+    "0475c93cc0d018184ead9b4a1865731fb7a06736": "cdk: update 5.0.20161210 bottle.",
+    "517f7a17325c8bab746898947ed448233080883a": "cdk: secure url(s)",
+    "d4b2e7f8b6942afd8aa78e07723a8fa7309331e8": "cdk: update 5.0.20161210 bottle.",
+    "9c7f90439a9ce8b464cf9bf40dc85cce2bb0877f": "cdk 5.0.20161210",
+    "c63f521a31fc7455a1be05ebc0b24acb7ad0cc46": "cdk: update 5.0.20160131 bottle.",
+    "fb3ff4818610f72a4a53449ca092c3a8f2d45956": "cdk: update 5.0.20160131 bottle.",
+    "10c87154c16d19b4a1baae1ecfc2473f25f6f8a6": "cdk 5.0-20160131",
+    "d9d19d3a3f993f34ce640de0bf9b6bd110fa1a06": "cdk: update 5.0.20141106 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "15b8827551574040d50f0b3b8080f5375b08c904": "cdk: add 5.0.20141106 bottle.",
+    "0ea8bb7b5fe28bf21177e84d31375c4e6c153687": "cdk 5.0.20141106",
+    "99de40224288885997f81de74cd1322d9164dedc": "cdk 5.0.20140118",
+    "2a86229191d1a195e7c2fad300b5580ca32e0a41": "CDK 5.0.20120323"
+}

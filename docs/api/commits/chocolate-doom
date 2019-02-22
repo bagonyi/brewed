@@ -1,0 +1,23 @@
+{
+    "d4a011a58dc498c78ae76a44e9600ae8834810e8": "chocolate-doom: fix hardcoded test (#33213)",
+    "cc0c3d2d2d865cd6875745964857122647ca2089": "Add test to chocolate-doom (#33048)",
+    "34d8b23ba41e1e1f5c75282c6fba872e6bad7fd4": "chocolate-doom: remove options",
+    "328f111f03909ba4acd87155e634a49aedae3510": "chocolate-doom: fix dependency order",
+    "ac64408eee89340489486f222dc903d82a81de54": "chocolate-doom: update 3.0.0 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "2f4b46a306ca0cc092d5cefa9262760a738dd019": "chocolate-doom: update 3.0.0 bottle.",
+    "17adee0f750c293fda1f1e28195580874ee26e04": "chocolate-doom 3.0.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "45d4e5addd68ab6898d412f2065ac0d96a7028ee": "chocolate-doom: update 2.3.0 bottle.",
+    "05825b5230fd9c3a8d4b23b72345aefaf9e56899": "chocolate-doom: https homepage",
+    "6d2638250a591cda5cd1341ac25324860907e940": "chocolate-doom: add 2.3.0 bottle.",
+    "092bb98d4daa1be7f8cfd52df925eb401f645ef7": "chocolate-doom: import from homebrew/games",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "ecd073b9cdd7b6d9f725f291d0757c21d5bcf8f1": "chocolate-doom 1.6.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "9815a951428596efb6ee0a2cdaa501df3a3f171e": "Chocolate Doom 1.3.0",
+    "4086f43bcc33f33a74a73bd03ff46a73bf568d2b": "Add missing depend for sdl_mixer",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "e46430a3d71c754ee4370c886981ac5151cb824f": "Formula for Chocolate Doom"
+}

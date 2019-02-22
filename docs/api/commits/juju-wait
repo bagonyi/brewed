@@ -1,0 +1,23 @@
+{
+    "fc2a3f78fd110eb32f54264ff3732c058bbc4f16": "juju-wait: update 2.6.4 bottle.",
+    "c37938c7097be78cd70a7d94c34a9b317a174e99": "juju-wait 2.6.4",
+    "51169b387f5cafd1bd6f0343809e5260ea57c150": "juju-wait: fix dependency order",
+    "ea69392a3fb88d34f59da07c81cc3ba269044985": "juju-wait: update 2.6.2_4 bottle.",
+    "7be2051c2081346bf76e826db35548dbeddbaf0d": "juju-wait: update 2.6.2_4 bottle.",
+    "410c84547cf3a53c10491cf8d3fd842c9f6d5e9b": "juju-wait: use PyYAML 3.13",
+    "7e928e75bf76e582fe130a006f891e61bb28b4a7": "juju-wait: update 2.6.2_4 bottle.",
+    "6b07bdbb9ce25c7c351af3233b7e512089d4053d": "juju-wait: revision for python",
+    "d6714cb7c493cc2408bc380dc9fa6abb24ca3228": "juju-wait: update 2.6.2_3 bottle.",
+    "abc9c146350d7f479010b20afeacd21f256dfd6f": "juju-wait: revision for python",
+    "a8e06731148595cd81d7c3d63024350408de135e": "juju-wait: update 2.6.2_2 bottle.",
+    "da89896c42c5f3ecbc19d4c58be2f33888b34232": "juju-wait: rename python dependency",
+    "164663848842cdd01314f27a2901083d7d1d0a12": "juju-wait: use pythonhosted.org to fix audit issue",
+    "2c2e31bdee2645d024cef6238420e3d0d9d5ebc5": "juju-wait: update 2.6.2_1 bottle.",
+    "665d451216cb41dbbed9b463ef81b5406f78b54f": "juju-wait: depend on python3 instead of :python3",
+    "0cdcbe68fd6be38f28a6fb9b0c5e515e2771e47f": "juju-wait: update 2.6.2 bottle.",
+    "2d3ad5ebf24423f09c78215aaffae8d93cce8a84": "juju-wait 2.6.2",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "c6bedda5718053440d334153bac6a401508c8c22": "juju-wait: update 2.5.0 bottle.",
+    "c29d9333de17df44dfb9ec8757bec95aa2cd17d2": "juju-wait: add 2.5.0 bottle.",
+    "9446258282b354969c1cc76078e44d9939eaf485": "juju-wait 2.5.0 (new formula)"
+}

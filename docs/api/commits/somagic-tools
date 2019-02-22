@@ -1,0 +1,11 @@
+{
+    "a191d692918daf2acea661db73dee632e1b5b5e5": "somagic-tools: fix dependency order",
+    "150f35e7aed20af55c152db74f5d369b1c83cc5c": "somagic-tools: update 1.1 bottle.",
+    "5317e05317c3c3a3884a67e37cc6054b0f5af797": "somagic-tools: update 1.1 bottle.",
+    "8877def8aa40bcf41174e77021ba02580b6936ea": "somagic-tools: update 1.1 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "798f791a6b4ce84c0d4eac48cb0c0c1bb78d1f59": "somagic-tools: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "14b8a627bf304889929da7c296bb1dd30431a2e8": "add somagic and somagic-tools"
+}

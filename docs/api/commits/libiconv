@@ -1,0 +1,17 @@
+{
+    "04b17075af961947037c4d617a1651ffdef01288": "libiconv: update 1.15 bottle.",
+    "718ea8c397b06b969c343f47f32f2a41cc627c97": "libiconv: use *_by_macos.",
+    "9cebc90360b0337a14a6eeba39aa83af7657c8a9": "libiconv: update 1.15 bottle.",
+    "4dde7b84fed25a1bb4a117a9ef99ec154703c635": "libiconv: swap GNU url and mirror.",
+    "00142e63ec4f698b500723adb898b33a1e8d9267": "libiconv: update 1.15 bottle.",
+    "4f0368801c4b9cc95fd07c88082e34f8763e0d61": "libiconv: import homebrew/dupes into core.",
+    "23c7399863633d442f5d9bc6432932a39b70a7e3": "Remove libiconv duplicate",
+    "ff8ec648044c461ed1480d15eb214b5cc6963b52": "Fix some audit warnings",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "43928f72e7bdb2f98d6ae8fe82dff4c0297d776e": "libiconv: Add option to build universal",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "f3ed7a182d3fb3fe109b5cf418790dd63ec6411e": "libiconv 1.14",
+    "aad67b6025002d451d1774505e0eb05caa019c7b": "Document keg-only system duplicates.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e9b1ce845ec435f97ab7cfedca1b03124e206ca0": "Added libiconv 1.13.1"
+}

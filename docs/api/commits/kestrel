@@ -1,0 +1,11 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e2f9f8793614ac874a698e5a170fc247830e98f0": "kestrel: style cleanup",
+    "d9c6dc8b87a020ba6345ccb405c5045624a9bd60": "kestrel: fix broken links to homepage and url (#3306)",
+    "bf46f3198809972d8be0490f717837f9911a932b": "kestrel: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "27b687ed20dd0a52d3fa0136ba51194ec6ba952d": "kestrel: updated URLs",
+    "be2eaa3dea80f5c2aeabff1c2b037487696d1f42": "Update github URLs",
+    "53769f9b9f6912e375d59edf4f07dbb196387878": "kestrel: fix test",
+    "af529eac0a474e5c734930e522516cf461438382": "kestrel 2.1.4"
+}

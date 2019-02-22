@@ -1,0 +1,11 @@
+{
+    "21b5d2bdf1165fad4d074602a92dad7f3aaa83f8": "civl: use assert_predicate instead of File.exist?",
+    "19bbe8e78b7c726c1460101b62dbfd1cea57158e": "civl: drop unnecessary ENV",
+    "0a37004aadfcef850a8abad6563cc6350e7aab41": "civl: use https for homepage and stable url",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "d3e5e2ee267daf688a8458d5edf6de4012ce1d46": "civl: fix/update sha256 of tarball",
+    "a6b99a561cf09867c7613a6fdc937b53cc72ba65": "civl: remove cvc4 dependency",
+    "8280d0f3a0b726d1a74c950f201be4d2af9e7895": "civl: improve test",
+    "a549b696bf0535e2b96d2b8cf3c97a317601315e": "civl 1.7-3157 (new formula)"
+}

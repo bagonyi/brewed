@@ -1,0 +1,13 @@
+{
+    "a2f0d9588197bbabbb6f57bab0aecb52ad3ac4df": "libbind: update 6.0 bottle.",
+    "2c500a2f601bc17f7ed78b2c0251ae627e893603": "libbind: update 6.0 bottle.",
+    "646468a148fd215f60b587f2a3c1bb7bb0cc14fd": "libbind: update 6.0 bottle.",
+    "154a8500a9f761e7f5c643d7d5c116a136e3ed7c": "libbind: update 6.0 bottle.",
+    "dbac56ea532c9065fb4fe04f7855043aa4c27042": "libbind: use secure url",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "910146e2bf0038bd4dbb4b3c15ed99b38c52c7d1": "libbind: update 6.0 bottle.",
+    "e5b8c7ee7960c358edfe864ae2a59694987247c0": "libbind: add 6.0 bottle.",
+    "addca391979a20950903cf8b7df4414164fe9482": "libbind 6.0"
+}

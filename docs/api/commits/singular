@@ -1,0 +1,20 @@
+{
+    "0037dad03253799655c04a4a2101625a0a848a7c": "singular: secure url(s)",
+    "76e5fee92292fc9ecb209ac8241882af4b209b8d": "singular: update 4.1.1_5 bottle.",
+    "dfc2f808e9d47749a8f6ffc4a1658f07285b2edd": "singular: update 4.1.1_5 bottle.",
+    "2bbea4fc4623aba3ad1a33d3891fa3199c97734b": "singular: revision for ntl",
+    "dad0731ed0bce114c46b329102b324ab24335962": "singular: update 4.1.1_4 bottle.",
+    "975943747cf2fe2fd9e45fc47ecd764f7b242aaa": "singular: revision for ntl",
+    "f5f52ca00f3cc03d59446589fadb3bd94ebe3d37": "singular: update 4.1.1_3 bottle.",
+    "fb6e1ad4cf03f84b52d7e17ee5d1f1bbea29a658": "singular: revision for ntl",
+    "d25e0db7654eb5a4114763c029f6ac7cbc0ae518": "singular: update 4.1.1_2 bottle.",
+    "1259b788756fa97fa4feb168defa31f4e57747df": "singular: fix for ntl support",
+    "9d0f098d94c8e3d32fcb3a752b5daea51e9c1c2e": "singular: update 4.1.1_1 bottle.",
+    "38cdc9d20a03536cf6bfe3845a5c610940ea6f3c": "singular: revision for ntl",
+    "b4bd0610f033a2b12d290eff8b72d53545aba478": "singular: update 4.1.1 bottle.",
+    "6abdb5459f76ac6883fa1083edd9bc572d35e126": "singular 4.1.1",
+    "f788f724645fab26fb3ff90ac2daa31a02e6421d": "singular: update 4.1.0p3_1 bottle.",
+    "355005a6cd986d187b10631a76edaf8c9d4750c1": "singular: revision for ntl",
+    "4b0c3c67171a2ca15de420981b91ce9d9ec0fd02": "singular: add 4.1.0p3 bottle.",
+    "68a6d82c96507633528d65116201a8ea0d5450a9": "singular 4.1.0p3 (new formula)"
+}

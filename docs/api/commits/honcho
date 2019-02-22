@@ -1,0 +1,20 @@
+{
+    "e50052db27fca775df787194bfb98b422cf9043f": "honcho: update 1.0.1_1 bottle.",
+    "40afd3555f1796b96b21f725d2a1382d99612936": "honcho: move to Python 3",
+    "fbfe25c239d04420f9182f411cf9c0a92e26b28c": "honcho: update 1.0.1 bottle.",
+    "adf596b26e212e07d2bb17490b6f5f54d008e7d4": "honcho: depend on python@2",
+    "c33762132ec1906eff6c34ac5b04eb6b53c3f03c": "honcho: update 1.0.1 bottle.",
+    "3905f9df49d15ae3484d0e8a11f1749383ea2ae1": "honcho: update 1.0.1 bottle.",
+    "27a77b851d2f10131025f87afcc74668758b1ddf": "honcho 1.0.1",
+    "882868b56c019283f1a8ed9b91f8fa4ba026f024": "honcho: update 0.7.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "d4326556fa485e192de8a5cbd1d1925937b11558": "honcho: update 0.7.1 bottle.",
+    "e25a8a9de501d7c2f74a0838527890fd3c7bdf1d": "honcho 0.7.1",
+    "822107fc71f6c3f331d109861e9b12c97bae9537": "honcho: update 0.6.6 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c52c09956d6795ef8bb859c79f17cc0f8424b76f": "honcho: update 0.6.6 bottle.",
+    "3c095289747bf12d20629d730a860e4734a34e23": "honcho 0.6.6",
+    "62f096e61101fb446981f6aef8fd6f5497046b41": "honcho: add 0.5.0 bottle.",
+    "9909a4f9739b0fa8d0c7aae03ecc86c9f0cde51b": "honcho 0.5.0 (new formula)"
+}

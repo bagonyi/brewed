@@ -1,0 +1,10 @@
+{
+    "cdcb85efc18320d506afef7800c842983fed2443": "scummvm-tools: remove options",
+    "0b3eea688b7cc931dbb3ae81c33b57ff769b8bd9": "scummvm-tools: update 2.0.0 bottle.",
+    "40eb2d83a60c0778546ca5134e1a288b79b956d2": "scummvm-tools: update 2.0.0 bottle.",
+    "1c3d88c9d0b8bb6bf72c1f8d8076ab33ba88b27e": "scummvm-tools 2.0.0",
+    "07127dee6b994eea464b003d2d952db1effc9a08": "scummvm-tools: update 1.9.0 bottle.",
+    "dbd281b60898df097be68f4c82c9b411f02ac9a7": "scummvm-tools: use https for homepage and stable url",
+    "5baf1fed22c03228044e4f82af0c817a468628a5": "scummvm-tools: update 1.9.0 bottle.",
+    "716b04146be8c4f02ce019950d0fb88fbd7ea396": "scummvm-tools: import from homebrew/games."
+}

@@ -1,0 +1,12 @@
+{
+    "d9425a66069f1932f461f86b1db198dea4ffcfbc": "wdc: update 1.0.1 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5ded9a08b4441d1eecde178e86e16db6ca0e3b9e": "wdc: update 1.0.1 bottle.",
+    "b46c7616b2ec16fb6d9da65aa9335b592fad72c3": "wdc: update 1.0.1 bottle.",
+    "025689a43b307bdf9a22222288399b2b3bb4d054": "wdc: revision for pugixml",
+    "f593c1e26011609a3d11e663142362abe8ff03f9": "wdc: update 1.0.1 bottle.",
+    "99f39e744bf4651f7c10a5381ac876da15f691d9": "wdc 1.0.1",
+    "9084215314fcc0031e4f204d4b465ad8e52ef375": "wdc: add 1.0.0 bottle.",
+    "ae5a37394e4d857d701f0c5289175727ab60b135": "wdc 1.0.0 (new formula)"
+}

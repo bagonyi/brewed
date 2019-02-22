@@ -1,0 +1,8 @@
+{
+    "9df196b4bb3c523054577f2ddd7500eecb03f7b7": "nsuds: update 0.7B bottle.",
+    "55884dedcfc300602d9244f2b9067c7b0cb7a663": "nsuds: update 0.7B bottle.",
+    "274263468512d176ddb763d5143e95ed819b1cda": "nsuds: use secure head url",
+    "d2ac520ba0e7b4b5359664572a7a63876207628b": "nsuds: fix audit --warning",
+    "e609f208f5808f68802c9dc7f52ea2cfffeafb5f": "nsuds: add 0.7B bottle.",
+    "6ebf1021da35f9d08bb1ed771abb92dd12dd55ad": "nsuds: import from homebrew/games."
+}

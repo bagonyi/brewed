@@ -1,0 +1,22 @@
+{
+    "4b0995a887340c9966feca93db2779aa776a8051": "scalapack: update 2.0.2_13 bottle.",
+    "bf9a1a4e4c83d0331f11f6edd817cb4910510eef": "scalapack: build with openblas",
+    "8ea9d2e5d1d7708ac54fb82a07aebb4353164613": "scalapack: update 2.0.2_12 bottle.",
+    "2de42244e92c7914aac951ed4bf101f493de7887": "scalapack: bump revision for open-mpi-4.0.0",
+    "64c09b1bc3119a82168328e9a9327cfcf6f32880": "scalapack: fix dependency order",
+    "2e63ec0e2685f434ab544cece99727a3d3b697d4": "scalapack: update 2.0.2_11 bottle.",
+    "716ce744f9b88ccf0a4b4a8ac0446d5b828777ef": "scalapack: secure url(s)",
+    "1b23cc14a8162dd0bb59977b23a0e00c62941217": "scalapack: secure url(s)",
+    "80091bf721ee7df513ab13c5b1650fe886f8a1a0": "scalapack: update 2.0.2_11 bottle.",
+    "d679500e702f7d16e5de276638e50f7d94daf425": "scalapack: revision for gcc",
+    "f59c4679851e7eb5c79f209a735a8a1fc8b44cb3": "scalapack: remove ENV.fortran in test",
+    "dc84ab93482fa052f2532eed9b8988fdb6295022": "scalapack: update 2.0.2_10 bottle.",
+    "110fe00e2100602d63138aa7cf78e278d389272a": "scalapack: phase out :fortran and :mpi",
+    "1a1654d35f171edd2bf8838ab901cf417fa4dccb": "scalapack: update 2.0.2_9 bottle.",
+    "4fa4ef8a7812c70b44181cbba77f671e3dcc17a7": "scalapack: revision for open-mpi",
+    "e0f07f67ff7363f17d0ff722b99cf6da40c95b02": "scalapack: update 2.0.2_8 bottle.",
+    "d6c80a62066cb236f365f036bdefadc79b20229c": "scalapack: update 2.0.2_8 bottle.",
+    "279acb723edb3c39766b1c7f267ae3c39c460d89": "scalapack: bump revision to pre-migration value",
+    "adfa5c51bd7e16144b8a8588a671eb6d2a18f525": "scalapack: add 2.0.2 bottle.",
+    "24550df0ba320d6d7924815d0d5510ae459f5f4d": "scalapack: migrate from homebrew/science"
+}

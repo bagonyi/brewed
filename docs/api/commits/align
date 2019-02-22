@@ -1,0 +1,22 @@
+{
+    "18c317a77ff97e9908b0945fd06ca7bf9807398e": "align: update 1.7.5 bottle.",
+    "b9db870e4761a6588efe160449157d76193274a7": "align: update 1.7.5 bottle.",
+    "4d2c22d6caab7e40c82b49ba4996830ba6e3f0d7": "align: update 1.7.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "b57554370e6eb3e1872019eb6601e74a9f3aa1fd": "align: update 1.7.5 bottle.",
+    "307a34867fe837c8f87b73cf96de86875ba39c33": "align 1.7.5",
+    "5cb555d9d640409184709cb27557798c71e0283d": "align: conflicts with speech-tools",
+    "d055a89de8b4198726d986720e0008ae046576a1": "align: update 1.7.4 bottle.",
+    "f2df16fd4436a314e83da9dce8b27736fcb26aae": "align: use https homepage",
+    "fe85d793456e515fe1c7f7b50d0d844191f53675": "align: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c62068c02a8af1d1052a5ca3583b3bce80dfdd4e": "align: update 1.7.4 bottle.",
+    "7e7d7973da26802decf21a33fb63760556169c8d": "align 1.7.4",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "39a59dcfa133d39dc6d74c3174c79d066626912c": "align: add 1.7.3 bottle.",
+    "b76328a22981adcf8f70081ac79ae11d9eb1b783": "align 1.7.3",
+    "f2994fba537a23ef3b6471b78f38704ee4b25cb3": "align: add test",
+    "c9e3038230db9da0e5ddb6d75ae512fcffbda881": "align 1.7.2"
+}

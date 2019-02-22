@@ -1,0 +1,19 @@
+{
+    "855c47f3dd17c4592593a10b9b9934627aa15d3b": "libftdi0: update 0.20 bottle.",
+    "5e7b3740c1e73b0773de1d6c6843d09939ccbdb5": "libftdi0: add test. (#25743)",
+    "0aa98cdb1d9421c0d85c3333af4c49729422a01a": "libftdi0: update 0.20 bottle.",
+    "8d2159b543737eb4b430ed2abef0e52351c69b8d": "libftdi0: fix audit",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "4d5c8fdf202babb5613fe3bab551c6bc8dd81999": "libftdi0: update 0.20 bottle.",
+    "bae937020690ecbca8f7db6ecd31453ed17bf41d": "libftdi0: update 0.20 bottle.",
+    "4b115d58a906cdbe7406e379177dd3e42a1f41ec": "libftdi0: use https homepage",
+    "b492b87b2a4f1ea5f985a572286a45bbdb15cd90": "libftdi0: use an https url",
+    "309272e2219c550fc31bb5d2603719074390b415": "libftdi0: missing conflicts_with added",
+    "5c37c191120558b416fb42b68b38a0379426bb17": "libftdi0: update 0.20 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b42634f2de2aa0699a2ca4fbbff41c6e1b4092fb": "libftdi0: update 0.20 bottle.",
+    "77baf27ad730e55400c46add6f9e3d37acb1e942": "libftdi0: add 0.20 bottle.",
+    "f4902e7560d2c42efa43e7c7e5c083f3da3a5493": "Add libftdi0"
+}

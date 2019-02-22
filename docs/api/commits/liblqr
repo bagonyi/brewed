@@ -1,0 +1,21 @@
+{
+    "8a0262ed1af5afa1af55484953eb2cb500716f61": "liblqr: remove references to pre-Mavericks.",
+    "80b7996f481ade978eb2a7b4cd4c058b4ffb6510": "liblqr: secure url(s)",
+    "e1eebc7151bda6cc9bcbee5aee295172abd0f0c7": "liblqr: update 0.4.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7093d1e0833d0bbe7ac8952e31e4a80da7a9d1a9": "liblqr: improve/secure repository url(s)",
+    "ee8104f431bd36353d6a3cd2d6bbae2de71cb76c": "liblqr: update 0.4.2 bottle.",
+    "533243b0892e61a0e1c91bafa2c09479cefd4703": "liblqr: update 0.4.2 bottle.",
+    "460007b7c4ec068b65d47c66e603eab1d445976b": "liblqr: update 0.4.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a75c27b98a10f72c9e41ddd46d654e3f20ab0bdb": "liblqr: update 0.4.2 bottle.",
+    "57d11a8acc7b4d8ff3f3782515613f70707352c9": "liblqr: add 0.4.2 bottle.",
+    "39795df2146c0cb4df144ee9a84c944aefc19d0f": "liblqr 0.4.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "bc93ec4581b689280a5256eafb9808cff968764c": "liblqr: add head location",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "0cb0b18449e647b4d7a4eefdb9357d579233e114": "New formula for Liquid Rescale Library"
+}

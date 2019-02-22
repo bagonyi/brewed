@@ -1,0 +1,12 @@
+{
+    "ced6e72a12af8637029ae29f170a23ae4c5e7910": "libggz: fix dependency order",
+    "007d6b0801c2bb52b3c980dfe17e3fb739d20b6c": "libggz: update 0.0.14.1 bottle.",
+    "c1c2fcf486f9233819aa83d61f250a03f778321c": "libggz: secure mirror(s)",
+    "2229de02a3657935475dfc96aeb16b1475aa18ec": "libggz: update url and add mirrors (#22620)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "20026366e3bfd589cf8f8bf42b4859bef88c0a86": "libggz: update 0.0.14.1 bottle.",
+    "2e0015fb01748c1c0d317c29092f9df0e4463cc1": "libggz: update 0.0.14.1 bottle.",
+    "c6b5f650ff4c65c1e8213cb31d21fd139cf3fda0": "libggz: import from homebrew/games."
+}

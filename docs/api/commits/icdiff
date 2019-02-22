@@ -1,0 +1,20 @@
+{
+    "f7c2b5e97a88d24201bea27571cf1197ddca2a4f": "icdiff 1.9.4",
+    "967ef41f57bc317980925b099aefe128bb186f09": "icdiff: add HEAD",
+    "068c6f0a590326a148fb493448371fb4a8550ee0": "icdiff 1.9.3",
+    "e259d730660056b1c91563b0eb350f787c0cafc1": "icdiff 1.9.1",
+    "04135a4a4e74ffaac34fbcb0d2156e4e73af4080": "icdiff 1.9.0 (#12516)",
+    "22bef20dfa903788d18a925424a3bff55c6a2de1": "icdiff: bottle unneeded",
+    "5ab9c3d22bb945e8b94d3ad2bdbfc732be3c568b": "icdiff 1.8.1",
+    "007c456d23e4f3a73dd9ad23cbcd3297ff08526a": "icdiff: update 1.7.3 bottle.",
+    "7e184dbb519fb75fbe497a3480721ff2d8b95e3f": "icdiff: update 1.7.3 bottle.",
+    "e62514da64b01f2a2769d58bc97a33ee7d75b8cb": "icdiff 1.7.3",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8be9485268d32451f7ecce2cfcb36806e483f405": "icdiff: add 1.7.1 bottle.",
+    "757fa9bc46f042e21a4f5c5b8ecc7817e44ca81e": "icdiff 1.7.1",
+    "04a7901219a54bae87bd996edb7c9d567f130a20": "icdiff 1.6.0",
+    "864b7e1d68d232b67ac22701b29c22707fd4ac74": "icdiff 1.5.3",
+    "a1ff626c9345997936b2d32221b5cbd2a8df1636": "icdiff 1.5.1",
+    "d89231648e5f8f2d6df7a96e6db9c6f5e3937cfe": "icdiff: remove unnecessary version, improve test.",
+    "a1039163c7f608461daa874395df0286936abcb5": "icdiff 1.1.2 (new formula)"
+}

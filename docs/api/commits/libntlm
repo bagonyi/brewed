@@ -1,0 +1,23 @@
+{
+    "3ecc840fec5f97ad2014fed5a9b6c70e1cefc898": "libntlm: remove references to pre-Mavericks.",
+    "d56300336de3dfc12e2910bc0d7c15f90f7fa0b9": "libntlm: update 1.4 bottle.",
+    "57a00ed2ecdd0442d118b64bd968cedc06551385": "libntlm: secure url(s)",
+    "0c5c969937fac88d1aff083abf1bdbfcfc3f6bc0": "libntlm: update 1.4 bottle.",
+    "4aeb093a2a61c42a88a9c80362ba8e019d4f0cee": "libntlm: update 1.4 bottle.",
+    "953ac154d8f9a2997192a1f814a8c44d3bcf0165": "libntlm: update 1.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "10b4993fc7a9c99e37a01f7b25548a5c62e30cc6": "libntlm: update 1.4 bottle.",
+    "d589e961fbf4d3c4455a1b103452f1504e636173": "libntlm: add 1.4 bottle.",
+    "beb797a03fbe7f537deca30c2e9b079c98d6f6c0": "libntlm 1.4",
+    "f1fba23700dfc3740fc5d0db0da22ba2d6185093": "New formula: libntlm",
+    "1d63f94f828e3d2ee16ee33b0168433f6441400d": "popt: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dacdaf979525c8478687cb3c6ed81c0e9710b531": "popt: version update to 1.16",
+    "6442a3c7d7ba18e46ad1235b47f115f57fef4858": "Bumping popt",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

@@ -1,0 +1,21 @@
+{
+    "36d251a0716145452b86877f8ed445abbfb0c036": "srecord: update 1.64 bottle.",
+    "9952a2308955494d0d754abf6d1225f1710a9f7f": "srecord: update 1.64 bottle.",
+    "404d713f3d6ff143ed446e621cf600e027565fd1": "srecord: fix audit --warning",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "8b4080aaf82470e24d75e1ea836a5b76054f30b8": "srecord: update 1.64 bottle.",
+    "e8946ea0cef1454a6d888bb6deb703971da5cc8d": "srecord: add 1.64 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2c4d70e23cba2f84833a9ea800e6d3e9003f64f5": "srecord 1.64",
+    "008377b57e5d9169fe187ce8f5b99599f0a9a9d0": "srecord 1.63",
+    "acc7651db2ee6ae1a72f26bd320691deb796f43b": "srecord: use patch DSL",
+    "e99ea88cfc7ffa6eb1df107eaae4ba670c2de517": "Increment revisions on libgcrypt dependents",
+    "0ad26307d755cdf0d202084e0de938c175598b84": "SRecord 1.62",
+    "24e1eb712611af7e387b470788d6a2e7f6f71f42": "srecord: depends on ghostscript",
+    "09beee17976d72727f0619c66be938d5ed135db1": "srecord 1.61",
+    "ce0e1af91cd559a62dadd4868671056c90300d16": "srecord: autotools are build deps by default",
+    "f630e600d0ccfe0fd5af7e35faf6546c4bf5c261": "srecord: add libtool dependency",
+    "9bb3fcc398dc650866f17d60100164066ad21a94": "srecord 1.60",
+    "bf54f7e912a231de24d44c5e780009114996c1ff": "New formula: srecord"
+}

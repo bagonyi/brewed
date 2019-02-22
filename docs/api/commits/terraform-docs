@@ -1,0 +1,19 @@
+{
+    "82dc586c001a22051376ecbf8076473d67089370": "terraform-docs: update 0.6.0 bottle.",
+    "f4bdb810bb11323e054005f373d50239c7ad4649": "terraform-docs 0.6.0",
+    "44dc6a35e483330e2984f4275e8034db2ae04904": "terraform-docs: update 0.5.0 bottle.",
+    "07b07f9d288b3e760a3034576a6ece6d1d5e14fd": "terraform-docs 0.5.0",
+    "2b285aa49a2a4a7a52e36fa933a454b1d0dee108": "terraform-docs: update 0.4.5 bottle.",
+    "2c9d6d7acbb487fd7f1d33c6501c903d540fdc52": "terraform-docs 0.4.5",
+    "b3f420ef788e86b52a092d2ca821f9f1f1745f2b": "terraform-docs: update 0.3.0 bottle.",
+    "dead3ecdd134c1a609f3a6ceba84baebced120ae": "terraform-docs: update 0.3.0 bottle.",
+    "cc16d2e0e0e0c62644e13294f510cd44379e7546": "terraform-docs: set the version in ldflags",
+    "09eb7e58dfa71a5cb4dca90d15a02b3b1793ad13": "terraform-docs: update 0.3.0 bottle.",
+    "ee3c2a14a21c621a5dea5a2cec2680b25531272d": "terraform-docs 0.3.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "31e4f4f36c5db648e869aae0924cc54064f8a663": "terraform-docs: update 0.2.0 bottle.",
+    "d5f903396725cc889696216150b2174d695cfa7a": "terraform-docs: update 0.2.0 bottle.",
+    "3426503c59a812bdf891339c72ae725af610e466": "terraform-docs 0.2.0",
+    "813193d2b1682c91e34fe6984238a5017147096a": "terraform-docs: add 0.1.0 bottle.",
+    "00bfb51b6c50c763543c462792915b782a900ed9": "terraform-docs 0.1.0 (new formula)"
+}

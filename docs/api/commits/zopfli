@@ -1,0 +1,15 @@
+{
+    "136896f0f87bfbcb7c43d562edec55a2b76b4b98": "zopfli: update 1.0.2 bottle.",
+    "1b61c45cc3e815dcbcc7611a351eba9def3e19ba": "zopfli: update 1.0.2 bottle.",
+    "31f250a025281cbfbcc14c774cf3515f6460736d": "zopfli 1.0.2",
+    "a9f0dea44b677292b7a041dbfdaca3754e01c670": "zopfli: use assert_predicate",
+    "edbbdb9a6e7678d4a3c2df3ec8e2cf61080b71b3": "zopfli: update 1.0.1 bottle.",
+    "8ea5c2dd291c84f547575110f93e6621104f9666": "zopfli: update 1.0.1 bottle.",
+    "db5de858e6664b058f52eb15448a1f635485feaf": "zopfli: add 1.0.1 bottle.",
+    "e0a8e6c533bba3f5ff62265fd9c9f1fc954e528d": "zopfli 1.0.1",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "257a47c30adb3d6d8935bca12d356892c3beb4d5": "zopfli: fix non-standard makefile name",
+    "81369a3eb77f76d04e158bf45ba62eaba812e01e": "zopfli: install `zopflipng` when HEAD.",
+    "76aa7d41c7881b18e62c6fa987b811f0187fa42e": "zopfli 1.0.0"
+}

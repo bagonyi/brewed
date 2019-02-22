@@ -1,0 +1,10 @@
+{
+    "56634a55e466f690039f65f903f0a9dda4d5e56c": "mussh: add test",
+    "238b2e66ba3d249e4a06077138ac0b08c67718f2": "mussh: fix audit --warning",
+    "a5ff523d93eb0f6048c685f6bdce8198a4fc2785": "mussh: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "60eb911579a371a3bcd945089a9a249ad7f4fb47": "mussh: removed HEAD option.",
+    "c2864112d361b9a5a1624cd050a2b77b22c4781c": "mussh 1.0"
+}

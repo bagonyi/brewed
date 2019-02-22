@@ -1,0 +1,21 @@
+{
+    "a616156a66bfcd968645ddd15f43e9c8b2c9fc38": "aescrypt-packetizer: update 3.13 bottle.",
+    "60348bbed9e04b4ac22faab3417aaf799f35149c": "aescrypt-packetizer: remove options",
+    "0ace799ab33979d9b1bce369e3334a9ca64e027f": "aescrypt-packetizer: fix dependency order",
+    "c6099f0f8bada5e862161e9810df65487a044afe": "aescrypt-packetizer: update 3.13 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9985b59f023e51d19712923d16900b92f07e738a": "aescrypt-packetizer: use assert_predicate instead of File.exist?",
+    "a1c5c668f42f38bf4f44414ea93fe861d1735cfc": "aescrypt-packetizer: update 3.13 bottle.",
+    "b3d3186f9af25bd49813e81b5b4d87ff5f76f043": "aescrypt-packetizer: update 3.13 bottle.",
+    "8acf66cf0fac37c0877b0cd2d1845c04974dd9d5": "aescrypt-packetizer 3.13",
+    "93a0955664040bd52b7e3a943ef6f3854f7f18d9": "aescrypt-packetizer: update 3.10 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "389de97362c97260832cc51553689508ae6d4bf1": "aescrypt-packetizer: update 3.10 bottle.",
+    "e4c805a947ec76b9d53a8e97d60812636c6adc94": "aescrypt-packetizer: minor brew audit fix",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c70eb9ac3d9007410c9031cffc56c48194c30c67": "aescrypt-packetizer: update 3.10 bottle.",
+    "5dbbc6662d6041aab0c223c806aa6a7a51a1d4e5": "aescrypt-packetizer 3.10",
+    "d0c030e19fd03568cb7f4d7b128f10e0765fdbab": "aescrypt-packetizer: add 3.0.9 bottle.",
+    "8ad70f8d867b05d68fd5f9bc0b2ff6faa096bb0c": "aescrypt-packetizer 3.0.9 (new formula)"
+}

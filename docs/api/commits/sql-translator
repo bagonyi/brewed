@@ -1,0 +1,13 @@
+{
+    "5d33f7b85b9fa5c0468f8f554b0dba119f7234e0": "sql-translator: update 0.11024 bottle.",
+    "5c83af22dfe7dbd1302fca9b515e731b214a5079": "sql-translator: update 0.11024 bottle.",
+    "a666733893c377afbfd8a737f22704e0bbc6f18e": "sql-translator 0.11024",
+    "b37657d18b3a0479152c5b714592afd490e5af54": "sql-translator: update 0.11023 bottle.",
+    "883557d530270bf789b061e2e26c4442ecd1068b": "sql-translator 0.11023",
+    "2da6cdd0693f9cd07484a59c0ebd88f78392fe83": "sql-translator: update 0.11022 bottle.",
+    "3afb1cba187bbfba86d355c44bf7b4d0274605a5": "sql-translator 0.11022",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6f70c35b16160708d3128caa456fd3ec3ee6bc48": "sql-translator: update 0.11021 bottle.",
+    "d5a0cd92f72cc3c3e92058ec270467d844023725": "sql-translator: add 0.11021 bottle.",
+    "5973cb40438fbd79e10f2ed6c18d534117f8873e": "sql-translator 0.11021 (new formula)"
+}

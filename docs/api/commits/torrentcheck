@@ -1,0 +1,16 @@
+{
+    "f19f4505a671a5e2a81765eb3c554e2f9265c492": "torrentcheck: update 1.00 bottle.",
+    "cf3b8d30ce127b481159c2f5df769dd9090905b5": "torrentcheck: update 1.00 bottle.",
+    "df815e489f9994f5c0aea48666a0544777d9e394": "torrentcheck: fix audit --warning",
+    "0f3d99a3d8dbe54c53a69cb6e8a06a867444ae06": "torrentcheck: update 1.00 bottle.",
+    "52f3a073272b2070d1d9bf4c5af5cadde0de0024": "torrentcheck: add 1.00 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "13ef2a0d47a32d2605c7699acec9e7b32e64c1c4": "torrentcheck: remove broken test.",
+    "dfefdca6d16918f3f9b5857c52534005682529a9": "torrentcheck: fix CFLAGS splitting.",
+    "9ee58ca65f1e818e704946af38d31ff6420404ca": "torrentcheck: fix passing cflags",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "8504a70b2591b8ffd5cab38a7ac6101d64daf9f5": "torrentcheck: fix audit",
+    "a10eb95cd6560e9585405c1b378249e4b93d8356": "torrentcheck 1.00"
+}

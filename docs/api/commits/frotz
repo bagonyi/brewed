@@ -1,0 +1,14 @@
+{
+    "ffa25a0c42afb8a396a18b9ff57a0661469b2dde": "frotz: update 2.44 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "bb76baa09ce499a2c3c2378552e0a223b7010787": "frotz: update 2.44 bottle.",
+    "f8d5f7efd9dc75281b4a6b7a192652326103e4a7": "frotz: update 2.44 bottle.",
+    "cd2bbfde4674b70b8660a509faf3f80518eb4877": "frotz: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "92dbe0fb915ffef862847d1ed37a82ae89fb0274": "frotz: Corrected MAN_PREFIX",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "0103671fa00d7e77d7ac234816f998a21873773a": "Use new inreplace syntax where useful",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "75db7c7025fe83c9f33e8bc407e78423ae74f0af": "Formula for frotz"
+}

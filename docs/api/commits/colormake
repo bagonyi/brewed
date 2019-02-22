@@ -1,0 +1,12 @@
+{
+    "596e384176678c3e93ac43780a615586838cdd4c": "colormake: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9b992024d10401f6cb930030efefba248ec91c16": "colormake: add test",
+    "d9db98e1d06e5cfbc56c1be68fab8ac25542a787": "colormake 0.9.20140503",
+    "0e265ce0ee6df893f1871aff381f377c8819519a": "colormake 0.9",
+    "2c470cde18ad57cc8ee6d8f0302d53cce7f26e11": "Move colormake to headonly",
+    "a5202008294e0d78b86d7845e71d47e9b2c5de6c": "colormake 0.9",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7d63042cad1db26751bfa46ebb245d2b8226870e": "New formula: colormake 0.2"
+}

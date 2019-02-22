@@ -1,0 +1,19 @@
+{
+    "dc185ca758f6a8c5a332ba4d0da30a2198d910d3": "foremost: update 1.5.7 bottle.",
+    "6f6cc8d1089876027cffbf7750bc6efe8785d60a": "foremost: add test",
+    "edec5a46e5d3ac42e6eda36c8eaf68eb50d4fafb": "foremost: update 1.5.7 bottle.",
+    "4037d045834815b9292d9ca3e86bd25460030688": "foremost: update 1.5.7 bottle.",
+    "094c6bb4924daa0a1cd40dee0af18dfbec58e982": "foremost: https url",
+    "2ea60f5e570f688bac774a108be5e96e1cf112cb": "foremost: fix audit --warning",
+    "91c3a060a770e991d4e6d5430ff9469f4dbd8e4f": "foremost: update 1.5.7 bottle.",
+    "100dc7391673648647a518ac4b5e5835aeea5528": "foremost: add 1.5.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fb28f6115539c254a3c02d73e6a7b8b27b35f084": "foremost: match new etc.install default naming.",
+    "677b8a7f827d6c7394ca6f52efe01cb972df62b0": "foremost: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "620317ca6df6102aeb70eb73108fc3c22dbfeedc": "Update formulae to use ENV.cflags",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "36ffa656ebdb9a195ed7cc7583bbc838369343f7": "Added foremost"
+}

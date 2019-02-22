@@ -1,0 +1,17 @@
+{
+    "4dccdc7e8b033c4ff0bd4ac17d90cf5068c484ab": "grok: update 0.9.2_1 bottle.",
+    "05f0642b10426640e4e57f117c83b86389d8f314": "grok: update 0.9.2_1 bottle.",
+    "bf1c9df6eb937366d8d5fae01700b7fc68d9ccbf": "grok: fix audit",
+    "a68bb218d0c2021bb673839ffa1cfd157f239d1a": "grok: update 0.9.2_1 bottle.",
+    "42227280d532a8ed72eb5febbd7b009f989bdfb2": "grok: revision for libevent",
+    "0023fa3e49e86d60d44dbebbe5008895551975a1": "grok: update 0.9.2 bottle.",
+    "aaa9c03a20c4a51a75a32078218beca74b87002e": "grok: add test",
+    "d5af92bf64f46e3e79ad86c91c110a87124b33da": "grok: fix build",
+    "64590860a8689a77876a96de8e53e7104a324b4a": "grok: add 0.9.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c33bc5e1cb852d1fcae693712bc7ad43c6d6abaa": "grok: add missing pcre dep",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "90a79d872060a57dce88c85d78629c40cce448e5": "Grok 0.9.2"
+}

@@ -1,0 +1,16 @@
+{
+    "94bca561bd8eac8fe4dade1fbba860e6ff83631e": "visitors: update 0.7 bottle.",
+    "8459e20009d4e7a7c4ae3cd175af382d7192bf86": "visitors: description update (#25874)",
+    "67e432d7386338cefab5d187219ef7c4530e0b46": "visitors: update 0.7 bottle.",
+    "8f2b558632658c6ae32a249acc4394f0ca88baf7": "visitors: update 0.7 bottle.",
+    "b526a13a43faa34307548ac1a3c893501e2fed29": "visitors: update 0.7 bottle.",
+    "924632c0ad22c6060a9d3d8d5c9ca03ce2cc0be8": "visitors: fix strict audit",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c3341a41246cebd2eb19de380d8ba7d69bf140f": "visitors: add 0.7 bottle.",
+    "ee4bbd64fd8eeb4fea0ed5c206bd6a8c6ba69295": "visitors: add test",
+    "705768169773caa279ab952c83b7222f116545df": "visitors: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c270267495c1d76740decbc0a34d725b1142d87f": "visitors 0.7"
+}

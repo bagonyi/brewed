@@ -1,0 +1,15 @@
+{
+    "ed7d4cd6d4bf96ef0fd3fa756ec64aa5f9e7b443": "lcrack: update 20040914 bottle.",
+    "194b7014ee31bb225a9d498a8a033f798683df92": "lcrack: update 20040914 bottle.",
+    "b260007517e82e92af2ba68df274e88b7a2b5465": "lcrack: update 20040914 bottle.",
+    "ffd2fd772e7d60028144935cd28a2aa14ad54dfe": "lcrack: update mirrorservice url",
+    "f8025821caae129958a4ec35faf873f80fa2cb2b": "lcrack: update 20040914 bottle.",
+    "e8d451a83832f2d11b79657a3c1da8f102897307": "lcrack: cleanup",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ffc3a8d6035aba74762effc4a483ccf2cddaa99f": "lcrack: add 20040914 bottle.",
+    "58d16d4b3dc185dd240ca9cb70dc77aee4714651": "lcrack: add test",
+    "cc7d4b788f61f05a6371be9c0976b09ab46f8f3c": "lcrack: use debian",
+    "874f9d9de5915bc39074d6d8388434dd8fe42d94": "lcrack: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e429df0fe85fd09104423c12f976f64e25073f00": "Added Lepton's Crack."
+}

@@ -1,0 +1,21 @@
+{
+    "f05d549cf45b3c3c416705cc019f5c75f278fc78": "fbi-servefiles: update 2.6.0 bottle.",
+    "3b40f68ab521e1efe847f12d3c7a0d279fa37f39": "fbi-servefiles 2.6.0",
+    "f8837f7e0e929456b31943dab79a9bfcc5db8cde": "fbi-servefiles: update 2.5.3 bottle.",
+    "96d4d27877502d15a3b6867e88a5328f9767601b": "fbi-servefiles 2.5.3",
+    "36e7e12a32d49663fc06d582f2e2f05155c17de7": "fbi-servefiles: update 2.5.2 bottle.",
+    "4d4d859e4196699fae3317da1d7cffeeba7b1d7e": "fbi-servefiles: move to Python 3",
+    "2fb2170549c9614cacdbff1e72445a9a25847ae6": "fbi-servefiles: update 2.5.2 bottle.",
+    "3f482eb28a6193671ecfdae38bf2da43d149cda2": "fbi-servefiles: update 2.5.2 bottle.",
+    "3c063f0afeccd437d09c302ce13cb8651a0c7cd9": "fbi-servefiles 2.5.2",
+    "6274077d6134bcb6afd4d23727eba06714cd7f47": "fbi-servefiles: fix whitespace",
+    "2a54a0722c849b996a008ac8294b7681af54c796": "fbi-servefiles: depend on python@2",
+    "b1eb73cb0634562cc4a7be2291e278fa97418a55": "fbi-servefiles: rename python@2 dependency",
+    "c64851d190288250df8dd285eb2101422ea1cd5e": "fbi-servefiles: update 2.5.0 bottle.",
+    "1b2a2b1469be294b0b018050413a75cddb9e0ef2": "fbi-servefiles 2.5.0",
+    "6f7e58cb9a418ac7fb50a4b652d9c75b76731cc0": "fbi-servefiles: depend on python instead of :python",
+    "94db205263c0d56f0f6de7399df26d154c33f208": "fbi-servefiles: update 2.4.14 bottle.",
+    "ad715d1d35ed773af1a0ce21839e952ef949c1cc": "fbi-servefiles 2.4.14",
+    "ec65b1cea3e20327770b2657c3194606bd444712": "fbi-servefiles: add 2.4.13 bottle.",
+    "52ab423da9963de587d35b8ff872d3062b29c01f": "fbi-servefiles 2.4.13 (new formula)"
+}

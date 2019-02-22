@@ -1,0 +1,17 @@
+{
+    "677d88d3e8b0db911210c18fe49a950a88a611db": "detox: update 1.2.0 bottle.",
+    "5b25741ccd9cc97a397074f99be8652394ca8b6c": "detox: update 1.2.0 bottle.",
+    "f55da7697211eb6847e8b7b2c07a1e2c4a04fef7": "detox: fix audit --warning",
+    "924a61f5e02d67e9eb8157c59c7f0ccb3df5b376": "detox: update 1.2.0 bottle.",
+    "a44c745ed2705b746c305771d420f4e926bea7be": "detox: Add test. (#926)",
+    "1212af8dccbda280ab3aa65662ddfa413084834b": "detox: add 1.2.0 bottle.",
+    "566fab0c0be3acf49b272d1266158e1ed16c4889": "detox: audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "a7b311648b1f1945ad86fe1c64386901df0eee3e": "detox: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ec88a1051fe808eb393c2f7d3526e7e9cdcd51cb": "detox - fix audit issues",
+    "a50af80ac6c54780b67577aff68edb7c026ab3e5": "Add Detox 1.2.0"
+}

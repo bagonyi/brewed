@@ -1,0 +1,21 @@
+{
+    "d51fe162954fe60f8cb7e2295462eb74c59a4391": "csmith: update 2.3.0 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "16f2f67570c005ad981c24a5e66d87d3cdfd8b33": "csmith: update 2.3.0 bottle.",
+    "71e53c7476d7528bd17e13b196fe037bc64b0242": "csmith: update 2.3.0 bottle.",
+    "21c18338754409885eef1c4450447536ec02b032": "csmith 2.3.0",
+    "faa0316bf135d827ebc7ed5e0f0107ae9eb8f7c1": "csmith: update 2.2.0 bottle.",
+    "d384b2fa95947e7a31c338edac2ff40adad67a35": "csmith: add HEAD (#3233)",
+    "c5513e267a4496559765a31e1882e61df4e610e0": "csmith: update 2.2.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "47441defc3c59ca0fe0718aba4d7fd182778ea8d": "csmith: add 2.2.0 bottle.",
+    "d6484de8e4f6cdcd8beadacd732b230f227bdcbf": "csmith 2.2.0",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a82a3afaa132f0139c00c97c913a792c0b54162c": "csmith 2.1.0",
+    "f934846ef97f059c15f97de1929ba93b80ce531d": "csmith 2.0.0"
+}

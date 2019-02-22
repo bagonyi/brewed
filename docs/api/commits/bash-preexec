@@ -1,0 +1,18 @@
+{
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "351907d7695ed5b8fb255f15fe8eaa9a6ef707af": "bash-preexec 0.3.7 (#22872)",
+    "e2a744e5a906868a8bbad53e59a98b927e267638": "bash-preexec 0.3.6 (#20077)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "53b66ece4f6eed98594fc03d34be6049e8168ec0": "bash-preexec 0.3.5 (#19631)",
+    "1f7314e3bb656578f4211186821a44a303f37b13": "bash-preexec: use assert_predicate instead of File.exist?",
+    "7e51421d38c52b45f5d9bc784862b0cf636e3640": "bash-preexec 0.3.4 (#18514)",
+    "94fbd8c8dad9d7b49dae68a98d4dce773b434a1d": "bash-preexec: fix audit 'description must start with capital letter'",
+    "b161817fd0f9d554a975edc953fec2d8f9bf2c2e": "bash-preexec 0.3.3 (#13418)",
+    "3f5db5f8a23c77f8209b8d65e9a25c1667520023": "bash-preexec 0.3.2 (#9887)",
+    "3d84762113b52df7f2ac22fd9811e798b294e8df": "bash-preexec: replace `brew --prefix` call with fixed path",
+    "c200ce638eeff3b287aa7c890ba1ee5cab70b9d7": "bash-preexec 0.3.1",
+    "cdab6d9e3078b6a53518875be14117f8489c2bd6": "bash-preexec 0.3.0",
+    "413e98fa84d34a442f034dd15f5a00e5ca10ef07": "bash-preexec 0.2.3",
+    "96fdad90a26f1a4477e6472228ab6de0ee770ae4": "bash-preexec 0.2.2 (new formula)"
+}

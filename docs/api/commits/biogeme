@@ -1,0 +1,19 @@
+{
+    "4dd8d24462eb4b467f76716628b5ca61d3d43c8b": "biogeme: fix dependency order",
+    "7c73a804b973cb7bc714c0e86c351d0df9b86a23": "biogeme: update 2.6a_4 bottle.",
+    "cd8a4d921c294b5ad654c07435fd5e18094f13e3": "biogeme: update 2.6a_4 bottle.",
+    "5559698472138ce0b7c974398e979bc275437ab9": "biogeme: revision for python",
+    "1eefa94fbacc34e5949ffde051df0ae4d8b4fe4e": "biogeme: update 2.6a_3 bottle.",
+    "3f78773ae3b38f41c2f7892c83d8e3e60567f229": "biogeme: revision to fix install receipt",
+    "fee0a27e8798d9c08ea19cb310a14b1ecd34fe58": "biogeme: update 2.6a_2 bottle.",
+    "6ba807a42cdbee8c960a29a5678990af1fb40101": "biogeme: rename python dependency",
+    "3128fea0e1ee1e4ffb3d3d2da13faaf48522b461": "biogeme: update 2.6a_1 bottle.",
+    "bb597b4f8f86c434f89703e823fbf08866f2647b": "biogeme: depend on python3 instead of :python3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6db502b33054793e30ca3b1b4d46446c356af9b4": "biogeme: update 2.6a bottle.",
+    "053a4922883a6ae078b37363fab2b266bf624704": "biogeme: secure url(s)",
+    "7fc329fad1b6c2ea39f4b9b22e05d2f4e5d7efd2": "biogeme: update 2.6a bottle.",
+    "3c4d5323f1f419fd509beb6236fb271199886852": "biogeme 2.6a",
+    "633c3733edee0280e29b6d745d7ff2e77723bf86": "biogeme: add 2.5 bottle.",
+    "fc480372da92438a14307a349932b8304af0c9b3": "biogeme 2.5 (new formula)"
+}

@@ -1,0 +1,16 @@
+{
+    "0ff36d502e12fc9ddeabdc82c8c19216d464bc1a": "fig2dev: update 3.2.7a bottle.",
+    "a142c89a7b185e9f1d374a5328ae2de1599ab55d": "fig2dev: remove options",
+    "eb5565d4332218df4e56944104938c53815fff03": "fig2dev: update 3.2.7a bottle.",
+    "65cd6487ef26247b62f44fb9dcfa20eb928f20ea": "fig2dev: update 3.2.7a bottle.",
+    "6d90d1c321320879eb7ac3aa5a27e06c8ad66d19": "fig2dev 3.2.7a",
+    "d223751b372036f1a66c24ae54c026b6c93dd37d": "fig2dev: update 3.2.7 bottle.",
+    "458c6a6efd059adfbaaecf8a779fb99e96f855a9": "fig2dev 3.2.7",
+    "95a3e7e799300b3f32be67c9bb821128bd8b1a1b": "fig2dev: update 3.2.6a_1 bottle.",
+    "f80c2f834f59829c874d26711d6db52b2c971cd2": "fig2dev: update 3.2.6a_1 bottle.",
+    "40b3bb40bb59dedc0e9d3f15e6cc6d82d8719950": "fig2dev: make x11 optional",
+    "7b62cad6397eb4c8c9a152b4e321bb30424fd76c": "fig2dev: update 3.2.6a bottle.",
+    "0b8f916425fa1cb2db0822dd04b28a940ca82fd2": "fig2dev: renamed from transfig",
+    "ee61491e2d463283722f5ff903596979cfb74fb6": "transfig: add 3.2.6a bottle.",
+    "5e469ac0d7ab59686079bbedf554eb646479f767": "transfig: migrate from homebrew/science"
+}

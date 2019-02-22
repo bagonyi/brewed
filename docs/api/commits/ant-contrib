@@ -1,0 +1,10 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fc244929b0c00bbe05cb3bd9198626ee823fc7ca": "ant-contrib: fix audit --warning",
+    "80818271103389531f84785d425fccaa784125e0": "ant-contrib: bottle unneeded",
+    "17a6d9111707a00d10915639df88b40594a8db97": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07a296d73183d7c6c201ff2421c2a80064c09088": "ant-contrib: use ant's lib.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1513c63723fc6147d398ef89b3115ff7cd29cf8c": "ANT Contrib Tasks 1.0b3"
+}

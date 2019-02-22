@@ -1,0 +1,8 @@
+{
+    "a6036193bae921b1700f389631e2376633e29313": "v8@3.15: update 3.15.11.18_1 bottle.",
+    "9a4168681775e1a3d1eb1593dc9fcd02e668be80": "v8@3.15: update 3.15.11.18_1 bottle.",
+    "f32095f6da951cb9a7a67261eedad7a0f04f0fb0": "v8@3.15: update 3.15.11.18_1 bottle.",
+    "ddfe5c7487fa070d0702d5c254bdacbb65ec0c79": "v8@3.15: build with c++11",
+    "4226633db3630ec123cb06a757ab65bf24df7c50": "v8@3.15: add 3.15.11.18 bottle.",
+    "b76d0d19ab798c4a927ea72103e2148a9ee25d16": "v8@3.15: import from homebrew/versions."
+}

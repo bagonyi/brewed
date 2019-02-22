@@ -1,0 +1,20 @@
+{
+    "2c5975cc9d78060592f3a304f7297c6090ef5abc": "lastfmfpclient: fix dependency order",
+    "5872400e554112cb1a71b6c4618489b92f3941bb": "lastfmfpclient: update 1.6 bottle.",
+    "e8971b27b2c01519ed836035e071a6672c2d2f5b": "lastfmfpclient: update 1.6 bottle.",
+    "f13623dae3a46ccf299f656f3ac19ca24657dc51": "lastfmfpclient: update 1.6 bottle.",
+    "793e5db48f4656741ba6138d17761399361efe9b": "lastfmfpclient: add 1.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9b7f8e93f5263186199d577883cd4f4b20603d51": "Remove unnecessary swearing.",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6b01891cf3ea6a3dbf407941ac8fec8a6bf5eb7e": "Fix lastfmfpclient compilation with clang",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "7c5720e36f5d3e00f6a0ae5e5fac7b9a0e161815": "Put source path last in cmake args",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "0c4e6e8d887ac46f7267f21d469c0343e20ee06d": "Last.fm CLI Fingerprinting Client formula",
+    "f66c2ece9ea01002d3b61f008b5c12a7c04c0199": "lastfm_fplib formula"
+}

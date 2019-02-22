@@ -1,0 +1,16 @@
+{
+    "4c6b1be198e9d734a155b9706d72087c1debd42b": "ncp: update 1.2.4 bottle.",
+    "baf0ef1e36711761ed92cc13760b8115ddd6c6ec": "ncp: update 1.2.4 bottle.",
+    "f5352429fe61d937807db5c1471a5156b4619958": "ncp: update 1.2.4 bottle.",
+    "1f742247487f314259030b82e498777650c65bfb": "ncp: update 1.2.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "77adf905e80932adb5781bef47507a6bb31e6783": "ncp: add 1.2.4 bottle.",
+    "51e540cfa8feb10b9e4e0ab48769fb43b2003bf9": "ncp: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d7f3beadc7890e7ead2132c955155aace30fa03a": "Deprecate appending the CVS module name to the URL string",
+    "7e0ae2acae8d0f7c8e3ed472bada45d6e1ed168f": "Prefer :using over made-up URL schemes",
+    "ad76d9837b8c8af5b0cc0c966f01c8dcfbb5162c": "ncp: use patch DSL",
+    "8c740fa739d92a1cc628e7d4ba8ee4e5dae51e92": "ncp 1.2.4 (new formula)"
+}

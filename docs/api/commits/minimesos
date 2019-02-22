@@ -1,0 +1,8 @@
+{
+    "7481927646082a31b8a25685f0ef8abf95c3372c": "minimesos: remove docker dependency",
+    "7243156cf627c0a561ae8669d57e2a2f9066e872": "minimesos: fix checksum",
+    "3ab4268b64def356f95ace7ccfc1a0c36890cd00": "minimesos 0.13.0 (#11397)",
+    "b45334891ab91c60a60675f8266f99421bcf2abe": "minimesos 0.12.0 (#10724)",
+    "ffd42478918fcb39c250e77516260913678800d6": "minimesos 0.11.1",
+    "46851bfa4bc070fe40582ac6cc42a67a34ee3893": "minimesos 0.10.2 (new formula) (#5889)"
+}

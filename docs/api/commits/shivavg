@@ -1,0 +1,13 @@
+{
+    "743df166ca9c0e5d929ae0788856be7d88ed4090": "shivavg: fix dependency order",
+    "4bebabb4da4cb8db65fea72c832291e03d3f60af": "shivavg: update 0.2.1 bottle.",
+    "6cdbc7928bffeec97570995b40885edbcf6faa74": "shivavg: update 0.2.1 bottle.",
+    "2a2572c76f19a8a0dcad02d6b2c214488bfa7f6d": "shivavg: update 0.2.1 bottle.",
+    "a27a19b780ca4ae918d98753016c4a15ed3170e7": "shivavg: add 0.2.1 bottle.",
+    "49cb29c56c6898d802140fb0ea3e8e0b456947d4": "shivavg: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5e44f10a7ab29c9a2d480bc3bca4a05272a8b305": "shivavg: modernize autotools deps",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8c404607eb3fe77e7a0c024b7e384a8ab4ad4236": "ShivaVG 0.2.1"
+}

@@ -1,0 +1,16 @@
+{
+    "29b634249159e33fa39c0b23b1a5b5f710576ab3": "ucl: remove references to pre-Mavericks.",
+    "14e80dc40219db6ecf322617a46d1b743c7ee741": "ucl: update 1.03 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4ba57589b10c55859cc3fbf1edd70abfa164b13e": "ucl: update 1.03 bottle.",
+    "db8d833dd9c3018fdad6338c07331737a7d44b2d": "ucl: update 1.03 bottle.",
+    "00573f4b0e65b7da6dbcc27c39ba0e2ffd41dfa3": "ucl: use secure urls",
+    "5020bb0786a5dc371ae8da6728fc9197e87a1007": "ucl: update 1.03 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9412375a9a06e80174aaf2e145b5b57fb385c593": "ucl: add 1.03 bottle.",
+    "69f72c1a716436098594c17c0ae979fe06623fa4": "ucl: test added",
+    "aceed00f5b42ad4c8a91080028bdffbc095da351": "ucl: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a690ec4483b06681fd7d84e238b91502bcca8c70": "Formula: add ucl and upx (which depends on ucl)"
+}

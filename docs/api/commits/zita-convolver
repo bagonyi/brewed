@@ -1,0 +1,13 @@
+{
+    "e7a7fa579fe099d8e2d5c13189ecca9d1421cfb5": "zita-convolver: update 4.0.0 bottle.",
+    "25f22790737afab26daf284144aa8f45ccafdf74": "zita-convolver: update 4.0.0 bottle.",
+    "9bbb5a6e8264db35f88ae2d8a8f717e5ea146c67": "zita-convolver 4.0.0",
+    "f751d4bc73cd51450169837febf4c08e888a359d": "zita-convolver: secure url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1c75db82bcb3dbc01b019c0dbf16102ad9b1a88b": "zita-convolver: update 3.1.0 bottle.",
+    "c18b3545bb988782c09eae69db24ae0febac287c": "zita-convolver: fix audit 'description must start with capital letter'",
+    "f6f9d9480fb635e0dfd1cf93113820a0bac341a8": "zita-convolver: update 3.1.0 bottle.",
+    "5a79d45dd66b41a011c89963f1f1631332fc04f8": "zita-convolver: add 3.1.0 bottle.",
+    "c3d7647fcd9025248d1050df67e6d8b755d63762": "zita-convolver 3.1.0 (new formula)"
+}

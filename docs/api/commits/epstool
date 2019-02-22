@@ -1,0 +1,23 @@
+{
+    "269702dd537db5a7484a13ee9408832f60cd440f": "epstool: remove references to pre-Mavericks.",
+    "c45a77f4119e9a3476ef6705a7df6700c729a76c": "epstool: follow homepage permanent redirect",
+    "2747ed7d7fd6070146a30e651722b452dad0eea7": "epstool: update 3.08 bottle.",
+    "4a3547af780394b594dc71b1226c332055ae5bc3": "epstool: secure/fix broken url(s)",
+    "84bb093a959bf5104f258e94b66628e77eb8cf43": "epstool: use assert_predicate instead of File.exist?",
+    "6c4af25b6205cd8e737365e6357f3eb4fc35e086": "epstool: update 3.08 bottle.",
+    "85470fd7e820e95cd6a7d15bf36c3ac15c33e71f": "epstool: update 3.08 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "5c289e9f714ba6e105989c90745ec35838e45077": "epstool: update 3.08 bottle.",
+    "104bb5948607c0358228e3ca4b084a214668fd18": "epstool: use homebrew mirror",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f9d00952e8f14b22122a03e5bdff5de1dda498a": "epstool: add 3.08 bottle.",
+    "3739c2fb8c3a093b31e6fad3a332264cb6d665e1": "epstool: add test and missing runtime dependency",
+    "7e87fa31e1f708bd1b3b589319f291f6aab455b8": "epstool: replace failing url",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0f9e13c75e1eddcedfe75b53bd11bb0b81af8ce7": "epstool: add mirror",
+    "9727ce671f94a7286f30cc122860c45ad78bb6b9": "epstool: use the right compiler",
+    "35ebd730d0dd6ccc4357b038ad784da258d95cf4": "epstool: avoid inreplace",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "41d9492b944917df8be044efb685dd4ccbbc1c23": "epstool 0.8"
+}

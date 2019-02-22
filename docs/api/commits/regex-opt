@@ -1,0 +1,18 @@
+{
+    "89ac3a84fd13486fc4a9427144127c7042732f3c": "regex-opt: update 1.2.4 bottle.",
+    "5cb0e5aa5f4ca12880f80b64c2e283874ac62181": "regex-opt: fix Mojave build",
+    "11e12576b98ef1c195c5d57a37a7f38f47dc153e": "regex-opt: secure/fix url(s)",
+    "b3c55b7d2525a74dbe25d2c592558499f0444b4e": "regex-opt: update 1.2.4 bottle.",
+    "a919c2ed4eb0544e8a4ed618372ffbf447747ab7": "regex-opt 1.2.4",
+    "4c4500fbdafff67e44ca9ee17628bd62de034f50": "regex-opt: update 1.2.3 bottle.",
+    "bb7ceed3b8bd940b125157026cc38421ca35dcaa": "regex-opt: update 1.2.3 bottle.",
+    "ed60180b6a03c445a4f4647dc3b7138e0ea73eff": "regex-opt: use secure url in comment",
+    "b8b20a8c1aa97985fcb57e2ac53e13ee5f4cb642": "regex-opt: add 1.2.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "46dff0a17d147b075d9f6254d376b77014a4b2f9": "regex-opt: use libstdc++",
+    "027e4223eed9c989b1a0ef27bb3814d05b956c29": "regex-opt 1.2.3",
+    "c6b328837364c27fb3f83a35331d7f4e34167210": "regex-opt: remove inreplace",
+    "ce43fdcab0b31ee88ff19253899288005e523f79": "regex-opt 1.2.2"
+}

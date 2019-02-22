@@ -1,0 +1,19 @@
+{
+    "85dd8f4b34c76b449d18524beef55d1c78592411": "man2html: remove references to pre-Mavericks.",
+    "5c994c0d907b8f4fadf0cb938f1dfa1a083e7a98": "man2html: update 3.0.1 bottle.",
+    "5874bd1403f5d22274ad019ac14f4b47993908b8": "man2html: update 3.0.1 bottle.",
+    "c3444a1c98b24d9df40eed65c5ea7c608f1573de": "man2html: fix stable URL",
+    "e83b1807a11531f9502d69be448191ed6f4c72a1": "man2html: update 3.0.1 bottle.",
+    "aace42a38696ddb670674530d73676aaa06c6842": "man2html: update 3.0.1 bottle.",
+    "d3e29c641201822870c9cd6803ca5541617ae087": "man2html: update homepage",
+    "b4f4ffb05d93e587e0a4ced5379136d10bbbdba4": "man2html: add 3.0.1 bottle.",
+    "e246ed5666899298c05a81f6387d6ccf29f72811": "man2html: add mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ccf26205c8c6000d0ad127ba34627fbca124d8f2": "man2html: URL fixed, test added",
+    "1c13cdc745f3fbcee90c75b49d7cb94db0e692d1": "man2html: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ebd1f8c4131d7420d834e2f888d4112a9904bab8": "New url and homepage: man2html",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "2e4c473bd58c9145f40a053d71b536ee07edd774": "New formula: man2html"
+}

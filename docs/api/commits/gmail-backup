@@ -1,0 +1,11 @@
+{
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5ea83b85c1586a0f3d3be496b039de2c412c0ad6": "gmail-backup: migrate to archive URL",
+    "f6fabb349f1b74dfe851af95cb3d84e7ca08c0a0": "gmail-backup: fix the homepage",
+    "32b50ad14cf1fc1dbd5c6c0273f5e900ca73cd66": "gmail-backup: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "c277ada40f60fb9a9b422fa12f07b6beee5bb700": "gmail-backup 20110307 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "4d2a6ecbc6d6acbbca8f24565f95257d117a820f": "z80dasm: update 1.1.5 bottle.",
+    "25bfbe89c206ee7a67e058cc4e238f930da4c48e": "z80dasm: update 1.1.5 bottle.",
+    "5f1cfb03577d352b0d0b5bcae00ea762a01999e6": "z80dasm 1.1.5",
+    "5571640c7ade30a7ad8532563e226d4d78aab1b5": "z80dasm: update 1.1.4 bottle.",
+    "11c1db0764a88056d3d177ca5fa12533ce38fcfc": "z80dasm: update 1.1.4 bottle.",
+    "00ea2dbff59654ed9c8017b75a5d93a9b284cad0": "z80dasm 1.1.4",
+    "0a89d722308933882f80094e00b279d807c9a019": "z80dasm: update 1.1.3 bottle.",
+    "5a4c4b2a2a67df9ed87fe55fbf8c1db6ba8e705d": "z80dasm: use assert_match",
+    "172a5f2183122242cb3dfa9a6d729ccebe558b13": "z80dasm: add 1.1.3 bottle.",
+    "aadbff1b3553e478e076b0d835a344149524209c": "z80dasm: use https homepage",
+    "1a5f8a2b6e17317cdb4ee5e77b24d1b183091405": "z80dasm: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "7109e30c831f930d061f72128b1f31f0595c70f5": "use binwrite in tests",
+    "545d8e2f78829a27ff55e8157923ff4b3b8a15f9": "z80dasm: improve test by disassembling a small file",
+    "88baae6cf4e2e94b88f523bfa5f6433c2ab89d0f": "z80dasm: add test",
+    "4e51262ea0124c991cdfdae6f4fe961d89e2971f": "z80dasm 1.1.3"
+}

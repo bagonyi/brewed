@@ -1,0 +1,23 @@
+{
+    "a42ce81ba951db17167a910c4514ceea6148ace7": "quvi: update 0.4.2 bottle.",
+    "ec39dacbaa99e5905b5889c06fe3fc30fb922995": "quvi: update 0.4.2 bottle.",
+    "96ea98eccbc21b265b8ce572bc7d76f20752d58e": "quvi: fix audit --warning",
+    "70d577e212b44f28656480ce6439fe47dc6a7661": "quvi: update 0.4.2 bottle.",
+    "af4d40130670a2146cbc0e8fcb1330b8aa9f1055": "quvi: add 0.4.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "21183fa2ffcb81498ac6dedfde3f25d139b6a618": "quvi 0.4.2, libquvi 0.4.1, libquvi-scripts 0.4.8",
+    "f36ffe1b18f0b45e111d0a46bb4e0eb44a3ba4a5": "quvi 0.2.19",
+    "be00d38ce0e809ba1e66f0e38569e89fb2ef8072": "quvi: update configure flags",
+    "885919de0a97a24d6244b4d290ce47822cfce5dd": "quvi 0.2.18",
+    "2155a01651446fc93379b2059ad37be2375df893": "quvi 0.2.14",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "dee3e63b6b1b15b6582d6afbb64b48f630b1d15c": "quvi: version 0.2.2",
+    "6d68e8ff0edcb8db22c2c11716fd815a3cb51004": "Updated formula: quvi 0.2.1",
+    "77792abbb9f1dce056a66d4441e7d27adee23a9d": "quvi depends on lua",
+    "70b9d72eacf4c319c591a09f3f92ed980f870115": "quvi: update version to 0.2.0",
+    "339f9a10249b315ea29cbbceb798871d92db2fc0": "New formula quvi"
+}

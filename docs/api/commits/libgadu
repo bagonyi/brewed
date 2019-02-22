@@ -1,0 +1,20 @@
+{
+    "125c34ef851abdcb5b737f868d2897b246e78eef": "libgadu: update 1.12.2 bottle.",
+    "598fcdfd405dd27e7c11dc61ccbdafd0f3c3ad20": "libgadu: update 1.12.2 bottle.",
+    "356a21d6b8c5ef96648758a70bc88b9c8c9b6eb2": "libgadu: update 1.12.2 bottle.",
+    "8158efb596135cc96eda40ae5c3750889da7da25": "libgadu 1.12.2",
+    "10344c7c0a6467f19414e0af7c49c972957150a5": "libgadu: update 1.12.1 bottle.",
+    "be1a0f247e76f16fb4c2bd6bb7039fe33e869d6e": "libgadu: update 1.12.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "abff4ffb412d5fe09ba02d7d47eaa8539924280f": "libgadu: use https url",
+    "eb61859a9922a2a8b54ea4f1d7e012bc4d3ba073": "libgadu: add 1.12.1 bottle.",
+    "6a4360ae7dac68fe884d911bbbd3da1031f6f00a": "libgadu 1.12.1",
+    "72ec5444eb23273f659246c83700a739d7d2a3e5": "libgadu: fix homepage 404.",
+    "25858855220dd51b8d212bb1e3fdf3779ed5408e": "libgadu 1.11.2",
+    "f6db7989d19a9eeed95737b2056cdbe59bc1c6e4": "libgadu 1.11.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "f7b595f7c6cf45517d38aac126bfd86c3411cc58": "Libgadu 1.9.0-rc2"
+}

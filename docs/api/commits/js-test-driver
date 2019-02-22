@@ -1,0 +1,14 @@
+{
+    "baf082b6350063f2e70c43401863dc589e8958e8": "js-test-driver: migrate to archive URL",
+    "7008095a406bf7d26e1dae4bcd825dc45f70570c": "js-test-driver: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8f4034774f8c4b7a3064842247c229e6edd09f75": "js-test-driver: interpolate version",
+    "4d0682da25d8aad98fae0599faf7cb8f649224f8": "JSTestDriver 1.3.5",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "09ba9280c06405a5330925469cefc073bba290be": "js-test-driver 1.3.4.b",
+    "705158963acba847bbf96ccfc6194e20c9d2d60d": "js-test-driver 1.3.4-a",
+    "77b361fb2d5640e5ad573e7f4f54df17edba9747": "Upgraded formula to JsTestDriver-1.3.3d",
+    "156bd7acd07226145285ccb831bf9e4af343bde9": "New Formula: JsTestDriver"
+}

@@ -1,0 +1,14 @@
+{
+    "60041fb49e13af90148bd14bcf26de6b6b0dbdcb": "open-zwave: remove references to pre-Mavericks.",
+    "2fe5752af3b2ae5df126d4ee12775477c936f65f": "open-zwave: update 1.2.919 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4e769be332dc2ef9fac6d7af031a682786a7665f": "open-zwave: update 1.2.919 bottle.",
+    "8c0cef0b1ddc50719fa273f30acf29278b7a7ada": "open-zwave: fix test on 10.13",
+    "7a81f60fd842645bacecc2e0f6230d7ef352f9f9": "open-zwave: update 1.2.919 bottle.",
+    "5c263b9503dafc117090860f4b4dd5697db16e49": "open-zwave: update 1.2.919 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b77fdbdfde607748e1be7c79e32ea5aeb8e8decd": "open-zwave: add 1.2.919 bottle.",
+    "667b446ced60cf56b81318362ef2b7c63c80fed1": "open-zwave 1.2.919 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "ad55d2ad23bc086f4be0eae76585af267ff3c75c": "sloccount: update 2.26 bottle.",
+    "ba6070398b7b499db3ed7f35c2764032768a90a1": "sloccount: add test",
+    "9f35fd3468dbec77b5d0cedb8ebfa7867bf090e5": "sloccount: update 2.26 bottle.",
+    "ee18e522ff4b50ec4fc315af1b5bbc3a0e28f50b": "sloccount: update link to HTTPS",
+    "0a6f54512ecf918e4b0187c9ab7a8697dc8100db": "sloccount: update 2.26 bottle.",
+    "1f15f3bc6badbe8c6710e65487918c34a35a9393": "sloccount: add 2.26 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fcedb45c16d92f66ec1d050971622419b42197a6": "sloccount: use patch DSL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "55ea337f1317e58a7e4ce23374dbd4c62cfc1051": "Adding md5sha1sum dependency for sloccount, Homebrew/homebrew#2021",
+    "83fc35a5bf0b4b735f2c722a30888675f296acaf": "Updated sloccount",
+    "363bc3b17579082d52d3bea11844258edf1dc82f": "patched sloccount with support for Erlang",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "081d48f12857091054cc443b39cbdfdac4259518": "Shorten patch for SLOCCount",
+    "4970b3eeaf8321628bbc5f6acaa79c09b9e9949a": "SLOCCount formula."
+}

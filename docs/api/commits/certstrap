@@ -1,0 +1,16 @@
+{
+    "97f8cb34dc56434efb18ae814d1f143df6302463": "certstrap: update 1.1.1 bottle.",
+    "c8ed0ab5e7a70219ab3a38759752207e912f959c": "certstrap: update 1.1.1 bottle.",
+    "6a0f8566cfc13c4d92d3253c1e99be4374eecb18": "certstrap 1.1.1",
+    "10c26874aade4b242926056efa7253651fd1ce74": "certstrap: update 1.1.0 bottle.",
+    "65f8f3d4760f01b80d93ea53b692b71debf25f4f": "certstrap: update 1.1.0 bottle.",
+    "447227806b81698a0cac2c3f84e459ba23f4542c": "certstrap: update 1.1.0 bottle.",
+    "f0a82ce5f73764ba53db9fd6c2abfaafdcd4c75e": "certstrap 1.1.0",
+    "ed7cae7696a23f3c954b64fb940710bf1833063f": "certstrap: update 1.0.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2d0e3daf6c3c2d73ca66b73f12696c8649bc26d3": "certstrap: update 1.0.1 bottle.",
+    "a6341cbb5fe8bca2e70add9d08d679ba57f0764d": "certstrap 1.0.1",
+    "9c7bbbe18f058b7a2381c0cc4a4d1ac1736e4b7a": "certstrap: add 1.0.0 bottle.",
+    "629647b641286d76a3dbcf7294d37041eb11ea64": "certstrap 1.0.0 (new formula)"
+}

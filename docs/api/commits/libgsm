@@ -1,0 +1,19 @@
+{
+    "6715b238e8d17085408636b9877dd95adccec6de": "libgsm: update 1.0.18 bottle.",
+    "c903a78a7471b6982fc0e395b58075502a66b613": "libgsm: update 1.0.18 bottle.",
+    "3a34b17e6df68f65c984dd5dfa6f2a05a7c291d9": "libgsm 1.0.18",
+    "6c2f0a3ebfb4482fd006727aedd3e4ec6eefa879": "libgsm: update 1.0.17 bottle.",
+    "c5e178adfcffa277fd29da1bcaf963cc2e5cefb4": "libgsm: update 1.0.17 bottle.",
+    "830fb76aa9a8907e36623e858db8869e69d906c8": "libgsm 1.0.17",
+    "ff9e26ac6c4aa2fc0f15e8bd314757553677929e": "libgsm: drop universal",
+    "71e7deee143cdf7c3e684c1f3391c9bd6d3dc093": "libgsm: update 1.0.13 bottle.",
+    "8f3fee5f67e58a2222ce1faa79c6715d43b8049f": "libgsm: update 1.0.13 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c2d20c9083f94a3ea177048ba9e2c1f9bd3bc3b9": "libgsm: update 1.0.13 bottle.",
+    "0e5815de045adfef6978e6c24e0afc4b57f3c735": "libgsm: add 1.0.13 bottle.",
+    "be348aea33781d7e73a3de801b7126e1e13a0cac": "libgsm: expand patch URL",
+    "909a42bd41ea2e80c0c42c450325fb242b2bc006": "libgsm: use checksummed patches",
+    "b0dc1a90d0146f83c966c6a39831f1b283cd02a0": "libgsm 1.0.13"
+}

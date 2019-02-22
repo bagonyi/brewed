@@ -1,0 +1,22 @@
+{
+    "c164943ddf2d460a21e58dbba635737a72edb77c": "oauth2_proxy: fix rubocop 0.65.0 style.",
+    "a299f28eb7f9a93e737073966b2a0f980fac8193": "oauth2_proxy: update 2.2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "33489214b6cca21b6941653aa1145ae85c535dfd": "oauth2_proxy: update 2.2 bottle.",
+    "5df6bbd87d8b2cc36a9e0f67bb74b1f162366906": "oauth2_proxy: fix RuboCop warnings.",
+    "7f53031f5a64968b12ebb652ab0210beda851a16": "oauth2_proxy: update 2.2 bottle.",
+    "4b6eaa28689c3476d107247f70c30f0bff76f874": "oauth2_proxy 2.2",
+    "e8be70e75287c90ab545802f2b6e572284e6b644": "oauth2_proxy: update 2.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "b734b8b15cf992b4d7a2a51b5d288f12fb1d5b14": "oauth2_proxy: fix rubocop warnings.",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "cb8bdeb34b14a9414d1fda24d4503d17102609d5": "oauth2_proxy: update 2.1 bottle.",
+    "e7b11e64cb674357d8b3667bf95253d25b9072ab": "oauth2_proxy 2.1",
+    "c22eb991a8101d3bb061a3e0369a46544fbbf37d": "oauth2_proxy: update go_resource indentation style",
+    "adcde122d05d28b3f3f5f1ba4756f02a4f0ed2db": "oauth2_proxy: update 2.0.1_1 bottle.",
+    "0bb8d4d822ea372022189f69a9d1b0b33c482697": "oauth2_proxy: revision for go",
+    "96c5b46f2da8d25b2005c3ab1e030a11fc8afed6": "oauth2_proxy: add HEAD.",
+    "1f55c706ba2c7e455bed4984c4408ffdc5a51e3e": "oauth2_proxy: add 2.0.1 bottle.",
+    "a5595a3b19617a8051013260ecbb0b9f5096aedc": "oauth2_proxy 2.0.1 (new formula)"
+}

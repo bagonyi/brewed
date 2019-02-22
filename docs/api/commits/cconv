@@ -1,0 +1,17 @@
+{
+    "cb6b6cc51fde45cdcb83c6e52c3c53bd2b372932": "cconv: fix dependency order",
+    "5d457168affb1c68552258d1ff0de2307a15040c": "cconv: update 0.6.3 bottle.",
+    "036a274c43a61b7b7596742e61a759f0cc4548ff": "cconv: update 0.6.3 bottle.",
+    "aa19ed3f4785b94f06a84839ea040315ac9144c6": "cconv: update 0.6.3 bottle.",
+    "9d85c08d2f8fc566b715d07c129c32bd6ef41969": "cconv: update 0.6.3 bottle.",
+    "bd70442f0d0a6dc0f8517a55503aa19226e69972": "cconv 0.6.3",
+    "0e38df23bbbd4860eb9797fd9bb475b54a0ebf37": "cconv: update 0.6.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4c221b47c74d2f14842b0bc2ae63d4b636578172": "cconv: add 0.6.2 bottle.",
+    "3ef546f71590760590a48de5f15d6d4a135ce481": "cconv: added test",
+    "36d638750f71efb5226d611901bbb2a99ac1af84": "cconv: use patch DSL",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "4de30aaf91012f05997c6eda790b254a31e15219": "cconv 0.6.2"
+}

@@ -1,0 +1,12 @@
+{
+    "e762b344ab34349f007969cd58076572a81ef1ff": "aws-okta: update 0.19.5 bottle.",
+    "fb277dd1edcdd124748e348b219603d06deff370": "aws-okta 0.19.5",
+    "0b19a1361f184244dda0e5436f5e4bf7b5b74ea3": "aws-okta: update 0.19.4 bottle.",
+    "10bb3455870053ceaa49004e444f52a5a4f92bd2": "aws-okta 0.19.4",
+    "c874067ec8211416fd1df5490d2034e2b7207b72": "aws-okta: update 0.19.3 bottle.",
+    "3408c959e3ec1a62cf82e0aac12dff748c3b401d": "aws-okta 0.19.3",
+    "4b3d9959b290435ddf93529fea85d12c344e9ac0": "aws-okta: update 0.19.0 bottle.",
+    "7996e0e0fd4de74198e00adc2f4d0ca9be953c38": "aws-okta: squash unnecessary spacing",
+    "3fec8f70b3bf9788c180de0d96385104bf6af67e": "aws-okta: add 0.19.0 bottle.",
+    "4ede0857cced75dad23c2ad08a417c7e1e9c7c96": "aws-okta 0.19.0 (new formula)"
+}

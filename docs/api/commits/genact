@@ -1,0 +1,10 @@
+{
+    "e77441ec7ecaecbcb3d8164d92c50ac9eb7c647c": "genact: avoid cargo deprecated syntax warning",
+    "50f63b624ffdbd6b8310422a048f7ae78c782f31": "genact: update 0.6.0 bottle.",
+    "51a38ccff88c8be8f991d834f76da71d983cc6c0": "genact: update 0.6.0 bottle.",
+    "4839c33cf0f4faa03de34f05e06a1ff642e92a90": "genact 0.6.0",
+    "e128374e209a8e99422a74a5a3f79b96450a3db4": "genact: update 0.5.0 bottle.",
+    "59aeff66f66f1b6e395025b5a1c903b3b3bb9aae": "genact 0.5.0",
+    "5f24512ad4d4c5055dfe5f1d9f367ba5f93d429b": "genact: add 0.4.0 bottle.",
+    "14ed4fb254fb0ce8247fb13a0e7fd404f8fffdd8": "genact 0.4.0 (new formula)"
+}

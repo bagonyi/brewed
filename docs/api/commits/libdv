@@ -1,0 +1,20 @@
+{
+    "5f08cbb53cb7169936785bf0d9f3fa06433f5b8d": "libdv: remove references to pre-Mavericks.",
+    "4f368b5bfe831331847d2e09b1fcac62187e348c": "libdv: update 1.0.0 bottle.",
+    "fa2033ef8a89fb4499d1727d9f75836c0a1c206e": "libdv: update 1.0.0 bottle.",
+    "163283b54568bb1238ca9c9f3f63695a04d2eb71": "libdv: fix audit about sourceforge link",
+    "d935d111573d143da5a96ae8a5c8b9d6a1b9fbd9": "libdv: update 1.0.0 bottle.",
+    "fe27e49a0e6403afee174f2c40703d533b032dde": "libdv: fix url and use secure url in comment",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "dce1d5ee3ceeac488e38958ae20df8287af8eda1": "libdv: update 1.0.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7a34122f725a4aaeaff872dd5723f5b227d530a2": "libdv: update 1.0.0 bottle.",
+    "45368a6c0f1ceb09cd3ec34c275942ba219d7543": "libdv: add 1.0.0 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f6cc1c3744d5b45d20eb08ec761f3f7fa2f019cf": "libdv: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7b65d5ade8833d2ecdda144a30d3a91ccf124d7a": "Fix spelling mistakes",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "191496d46990b86c66bfccedf2e924eb31987515": "Added libdv formula"
+}

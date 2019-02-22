@@ -1,0 +1,14 @@
+{
+    "5eaf3de546ec0085ca3a098d23f4ba7d422ce22a": "sshconfigfs: update 0.3_1 bottle.",
+    "0d6737b2b8d218cf3be3ce520a87e9283b543614": "sshconfigfs: move to Python 3",
+    "dc9bef6199b370ed72738514c0af90309317a8ec": "sshconfigfs: fix dependency order",
+    "0eeeb58c0fa4b08609425049765114da8b4a7bea": "sshconfigfs: update 0.3 bottle.",
+    "f0a5b41fcd5d7529dc16a73b7ed6c844decfc619": "sshconfigfs: depend on python@2",
+    "0192cecddb348dc3c6dfde88b22035ac5cb4a09c": "sshconfigfs: rename python@2 dependency",
+    "865d2b6ad2c5916b70249b08f2f30f1c17e8e5de": "sshconfigfs: depend on python instead of :python",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2c082f85cba4e6af9bac9ccb677a8ab80648d4db": "sshconfigfs: update 0.3 bottle.",
+    "fc0a5b092decb8346f32b29c1e353a2b09153be7": "sshconfigfs: add 0.3 bottle.",
+    "1eee971fbda703551cd42e475dd4fd71d500ee1b": "sshconfigfs: import from homebrew/fuse."
+}

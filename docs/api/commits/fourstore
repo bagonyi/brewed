@@ -1,0 +1,19 @@
+{
+    "3bc268487d9c2e9fb287ac06727d7fe37e88b99c": "fourstore: fix dependency order",
+    "fe9361a73296afe1607056421ae027b0fe698e24": "fourstore: update 1.1.6 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "8a4271c9e570c34ae0d59c1bff9e7320aec8abc4": "fourstore: secure/fix url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "16795fa5ed60a9adfa1783640a3308fe24e791ea": "fourstore: update 1.1.6 bottle.",
+    "bddbf56e127dc9c7d9fca266dcf57abd3f77a305": "fourstore: update 1.1.6 bottle.",
+    "bfca446bdedca3df533f1f79a7bb90a402567529": "fourstore: update 1.1.6 bottle.",
+    "225fea79df1832b0f0fb471a00cb67d6da1852b2": "fourstore 1.1.6",
+    "28a15bb0238ff30add196ea2d8066080fa44ef77": "fourstore: update 1.1.5 bottle.",
+    "2ecb77c3b4d6b6e139e249d80c2095674d36186c": "fourstore: simplify test (for now)",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1428f417d99a3eaf4c4a8af6a332cf427b2322e7": "fourstore: add 1.1.5 bottle.",
+    "0e69202fe2b0477d46b1ad86567d7a37a193fc76": "fourstore: test added",
+    "2513138928f9a2b3c83b0eeb33d89676af15e67e": "fourstore 1.1.5",
+    "2605ee3a5cd3afb139d49ed0e95d07d3ded01eb4": "fourstore 1.1.4",
+    "28bc903871e60086c29b8cc20d27bb82d5d64a79": "4store 1.1.3"
+}

@@ -1,0 +1,23 @@
+{
+    "fc700da29cc52d41e5480f74c80683888a841b7f": "dasm: restore https for svn url(s)",
+    "88fb31f9087049aa12055ce954e1282c421e0dc7": "dasm: adjust svn URL",
+    "37ae71daaf9c66e56ebf91d2782007d225ca628a": "dasm: update 2014.03.04 bottle.",
+    "7b091949318b61697eae3975c5fda150e1a4219d": "dasm: use “squiggly” heredocs.",
+    "7065b40bad92c89062d1d912560e0c84adbef343": "dasm: update 2014.03.04 bottle.",
+    "e96a183f5033dad6856e10e02ee82832d6e26b0e": "dasm: use secure head url",
+    "92175096c060e85f58633bbb5656ad997f75aff5": "dasm: fix audit",
+    "29bc2fe119e8d977095ed3efde81453650e7fc4e": "dasm: update 2014.03.04 bottle.",
+    "7150fd5e359014ebe3e35f698a629c2215e2fd65": "dasm: update 2014.03.04 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "450dde67bd2dfcb529ae162446b0d0c13e6635e3": "dasm: add 2014.03.04 bottle.",
+    "500b0022bf9f301d47b3542fd6e1033c91ee2eaa": "dasm: change download URL and add head URL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "21e9e926f22a8481097c6b089404ec85241b4d2d": "dasm: add test",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "2a645183c7ad3aec2c2ef67e76ecdfc7bc92d208": "dasm: also install docs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "8c31715fc07e11266ccba0f7e5df50e8b6b8202f": "dasm 2.20.11"
+}

@@ -1,0 +1,12 @@
+{
+    "cc994cdd9799d869492e1a673866ff381f3d8483": "git-vendor: update 1.1.2 bottle.",
+    "254ffb1cc48f6fc2becdf90c98de8ca95e11e20e": "git-vendor: update 1.1.2 bottle.",
+    "4aeec5503cd15d618766558bfeade892cf5dd013": "git-vendor: fix audit 'description must start with capital letter'",
+    "b64ad7ac1e99aa4130c65d81d6b07994b0ff57d3": "git-vendor: update 1.1.2 bottle.",
+    "b9d442eb5f01c56083cc27c2b9355fa394602e92": "git-vendor: update 1.1.2 bottle.",
+    "146a3ca0a615749bd055af42bcf362b1cf5be579": "git-vendor 1.1.2",
+    "8994ae7b3c67d7c3552b1c906606145cdcb1ae05": "git-vendor: update 1.1.1 bottle.",
+    "af39b269c81944b145712b458fdadb1afc1af0e2": "git-vendor 1.1.1",
+    "e46416a158e96c3e53561d6c25980f974da72e06": "git-vendor: add 1.1.0 bottle.",
+    "b170fc5bfe5877282795c042cc2877b87c197c13": "git-vendor 1.1.0 (new formula)"
+}

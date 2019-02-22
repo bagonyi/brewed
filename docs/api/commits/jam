@@ -1,0 +1,22 @@
+{
+    "70800d93dff154368c95545634f489449b0ab63c": "jam: update 2.6 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0b2bacb7b167bf155dc4a74aebf240f23e41e1ed": "jam: update 2.6 bottle.",
+    "519f2e39e0af8ca875c4c3d27aa29256d347b897": "jam: update 2.6 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "4ff45364a75e2689dbbe19d9cd77eb8f38b05729": "jam: add test",
+    "2d0609f9e3decd72a0f3505e7119f5a3155a7a70": "jam: add 2.6 bottle.",
+    "d75d3936c7ee018b9883f1ea4593147d7e38558d": "jam: use https homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f8e45e8bbd456e120e38fe1f05fda54b637931a1": "Drop use of ssl3 download strategy",
+    "806d05973a2ab338dfe62978a88a793d3c4cf5b4": "jam 2.6",
+    "e8ce423551dd53b29fc68ab59449146193313c8e": "jam: update homepage URL",
+    "fe0bed3462042965dc1e5001330d80edfc00a342": "jam/ftjam conflict",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f0fe9da9f51b75de35ca965eb0df7a25714347e0": "jam: set CC and CFLAGS on command-line",
+    "5cbbb36261a89eef8d71d47f3175fff651bae227": "jam: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "cf90ae0980a7bf4302de81b355e059cd0cdad687": "Formula for Perforce Jam"
+}

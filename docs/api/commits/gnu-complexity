@@ -1,0 +1,14 @@
+{
+    "43cc1676f6458acb11c96554f2b7c0d67479f5bd": "gnu-complexity: remove references to pre-Mavericks.",
+    "3761d0b6ab92ccd365565cd8abb0548c9f804da1": "gnu-complexity: update 1.10 bottle.",
+    "f234ba80cea3ba60149c56ec31cd8b40d4bf368c": "gnu-complexity: remove :run.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0caeec8cc725da9c6fe078f5d3dbbbec3cb64610": "gnu-complexity: update 1.10 bottle.",
+    "3d98f9ee5b3c1b2d5b73ed62bdbdbaa2e60ab97d": "gnu-complexity: swap GNU url and mirror.",
+    "e448cece0bbdd72b9fbc8d691c98fd87ef7fdab5": "gnu-complexity: update 1.10 bottle.",
+    "722a135aab1586e58e34c90e6d7ea98ecb661fe1": "gnu-complexity: update 1.10 bottle.",
+    "a16beca3e0ef61338f6d431bcbda1d1f785daf78": "gnu-complexity 1.10",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "e8f879ebbad604c8a84d7dc55752147ce0e42f2b": "gnu-complexity: add 1.5 bottle.",
+    "71da5e3d246594af80dcc87623e8f758909f09ef": "gnu-complexity 1.5 (new formula)"
+}

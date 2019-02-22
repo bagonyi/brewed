@@ -1,0 +1,19 @@
+{
+    "e7d1975a067611d40261ac72cc1e80b933088a79": "dnstwist: update 1.02_2 bottle.",
+    "853660b141cfafb46ca2f1ef1c3523e35ff40bb7": "dnstwist: move to Python 3",
+    "d2e142ad171a1739931f75e854e04490d8e8c97b": "dnstwist: fix dependency order",
+    "d467f1eedf1aea5b95ab5a3d0c891b649df706d5": "dnstwist: update 1.02_1 bottle.",
+    "7289722e0d7b7fc261b69b21d5622216d554f3c1": "dnstwist: rewrite formula",
+    "7f792e4473f0080a95075b39375ea7b33eeb1707": "dnstwist: depend on python@2",
+    "066aca6e0b5653d0cda13ff521ccecf5df9ed1ce": "dnstwist: rename python@2 dependency",
+    "9b8637a82457f472a2b02a7081c42a34e45f39c7": "dnstwist: use pythonhosted.org to fix audit issue",
+    "9cfd9f00a9b65f84989e7ef501db9411456650cb": "dnstwist: depend on python instead of :python",
+    "2fd592ea25c4d90e7ed07942aa4fdd30ff7b7458": "dnstwist: update 1.02 bottle.",
+    "9b77a40ed99cc37f9cfa92d9670c7f5858d28cb3": "dnstwist: update 1.02 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "1164a314e58e2c5eb27d7558d918af2315987528": "dnstwist: update 1.02 bottle.",
+    "4356ed9789bbdede628340aac9b25fd2e34291e7": "dnstwist 1.02",
+    "c4c728906f72ada6809a4e4f9fb49369c55e24ae": "dnstwist: add 1.01 bottle.",
+    "87467b2e22f8cbcb31a0cebc99dc539f01c8eec2": "dnstwist 1.01 (new formula)"
+}

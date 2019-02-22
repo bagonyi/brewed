@@ -1,0 +1,12 @@
+{
+    "38ca3751a0c1d14c0eab0a7d6a38f01d0251b575": "udns: update 0.4 bottle.",
+    "e0888996c45cdf1f7af4b6cd641966a41c20bae1": "udns: update 0.4 bottle.",
+    "3e2e5549e4b2511b671ccd2f289794695994ee3e": "udns: update 0.4 bottle.",
+    "74def5f7cc7421a8853253bff8b25f7a8e400874": "udns: add 0.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a6fdb3727d4d53bf8446e426cd84e85eb2b8d014": "udns 0.4",
+    "74ec5c99eea0e7ad7675a65f5350e6d795a601ac": "udns: use patch DSL",
+    "ebb9e433f8f5994d5568d36f28ce6b93e9356037": "udns 0.2",
+    "a88bd352e426230eef56f9b48cf4a1cf1963a964": "udns 0.1"
+}

@@ -1,0 +1,23 @@
+{
+    "062b962d3f5c02043884cc91397741cf3d323e0e": "hyperestraier: secure url(s)",
+    "2511fb7c1543f2cabc293d90321845db54a98b7c": "hyperestraier: remove options",
+    "5b3596e6a5b3c886c34174f74c2ce47ba3480c78": "hyperestraier: update 1.4.13 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "609796b6372989cd45004e2749b8fcad28201981": "hyperestraier: update 1.4.13 bottle.",
+    "c2abf32afdaa7da4df81455742e30fd8c2fe7ad8": "hyperestraier: update 1.4.13 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "ab859b42d7659fc6e07c7c32ddc1fb3d82a88382": "hyperestraier: add 1.4.13 bottle.",
+    "e56744d5c19f026ff0bac0c087ae69cc7469cda7": "Mark some requirements that don't need the build environment",
+    "f3012e763bf85555f8625ff21e8d4d9f2b2ca78a": "hyperestraier: fix strict audit.",
+    "2343a543a164016898f1e9d856e15ee2eb2cf1cc": "hyperestraier: cleanup requirement naming.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a76de7c90d77cd3121d9d3064c9009023273f036": "hyperestraier: fix requirement initialize method.",
+    "730f82b5f5a7ca9e5f8a06bf2d9174f3e451052d": "hyperestrainer: use Formula[]",
+    "c3e173bf430198d17dabe391b60e49956fb7cdc7": "hyperestraier: fix test",
+    "e8b0e00b586c110c3bf80b77f151584a3b7d2f9c": "hyperestraier: style nits",
+    "60003eecc3d991437abc1d5aff2e867abf888f01": "Use new requirement syntax",
+    "041c9c193f0d5ff19a9881086c9b135239ce5840": "Use fatal DSL method in requirements",
+    "6f84480bf7dcbd154211cccab32a800bcb88a24a": "hyperestraier: use new dsl",
+    "31deca171ddf5d8a5495d53e9b216a3bdb2b9b0f": "hyperestraier 1.4.13"
+}

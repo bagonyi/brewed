@@ -1,0 +1,20 @@
+{
+    "be5bf557cbecfe9b6fea439747d4da829e286eea": "yydecode: update 0.2.10 bottle.",
+    "38b0c5c7335d5a28e70c64b9a55f932b6fb8ea0d": "Revert \"yydecode: add test\" due to build failure",
+    "09e6cd765151386df4a609bc34ced30089da10fb": "yydecode: add test",
+    "aa8ab1d226e49a2ade299d1777ea84b9866b988f": "yydecode: update 0.2.10 bottle.",
+    "efc1cfdfd83b0f29ad0109bcc0b4adf81191e3e6": "yydecode: fix build on macOS 10.13",
+    "396390a773b3e24c8f29e25f5570bd7bb0453b10": "yydecode: fix audit about sourceforge link",
+    "bac15d59f48eb8d4d60ec5e0b40d743cae0b10dd": "yydecode: update 0.2.10 bottle.",
+    "cca5ac8a770fd7098a7c4acc9d92b02cdd4ee2b9": "yydecode: add 0.2.10 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "25aa79ae7faa4b77dc1b8d570f63d2aaecfa742f": "yydecode 0.2.10",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "72e19eb5421201a2be3dce1e298861cf6aa4a132": "Don't need +x on these",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "a227d978eaa5ba1076e77a62f3829d05c3e7bb94": "Use shorter reference to man in several formulae.",
+    "f0d716a20f5f2b5531b6897c2ef6e68cf67effd3": "Remove left over comments.",
+    "f1c7b769e66f279f66e241c5e282604b7449ea36": "New formula for cuetools."
+}

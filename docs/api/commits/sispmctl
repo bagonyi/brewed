@@ -1,0 +1,18 @@
+{
+    "e64194f38aecd3fbb5c1eafc356078e523e14b4c": "sispmctl: update 4.0 bottle.",
+    "1ccfd091ae2c97fbea771cb932f6f2d293b92a2b": "sispmctl: update 4.0 bottle.",
+    "f6e822509d62881c6ea733ad9c9a5542cb6d5b32": "sispmctl 4.0",
+    "aacc8d32623324c85e4292368c9f98cb0fa63974": "sispmctl: update 3.1 bottle.",
+    "3b7c8f391276c1b58ab4d3a77aded7b9e71a0a52": "sispmctl: fix audit --warning",
+    "d2fd134061dffb5809dc23c7d72f18ab115f609c": "sispmctl: update 3.1 bottle.",
+    "06bc4a81f4c75d461e2e9bdc32cc12c4a2b67522": "sispmctl: fix placement issues",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "1748b1d8016ca10bc0d6d7f7aec225144adc112a": "sispmctl: add 3.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f3482a6e235f6cab29a79b39c6cf28d5ffe85b25": "sispmctl: fix dependency",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0495a89e37703de2898a9799e3494ab17db8417c": "sispmctl v3.1"
+}

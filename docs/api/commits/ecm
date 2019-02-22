@@ -1,0 +1,13 @@
+{
+    "ce78038e9deb10b3b29501693dfb420d79f0efd6": "ecm: update 1.0 bottle.",
+    "6c75122d43c219d85536b7ff141f3be0ae879577": "ecm: update 1.0 bottle.",
+    "0071817b6442ae494e664c40e44a5550e225787a": "ecm: remove protocol from web.archive.org param",
+    "84f8899c990251c2b5c1f3d04e852ddbe36995c2": "ecm: update 1.0 bottle.",
+    "c35f0df4de07cdd0bc336c2d31ed87d9efe4c955": "ecm: add 1.0 bottle.",
+    "1eaad995a519bea16f5c4d91757ca94f0a51042d": "audit fixes: E 01: ecm - ejabberd",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fa3bca5d7fcf72f0d030c998071bd5faa09dd1ed": "ecm: urls fixed",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "cb9e3e02691d430557162016f3a925bd83e04ca7": "ECM 1.0"
+}

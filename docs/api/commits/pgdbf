@@ -1,0 +1,13 @@
+{
+    "47e7490039e26704438caff4c01a1d852582dd1c": "pgdbf: update 0.6.2 bottle.",
+    "daff7d941ba9f7cb869fe0a91f160fd988ed465a": "pgdbf: update 0.6.2 bottle.",
+    "c7c8e2cb5bcde67e9b473b10260634fac5d402ba": "pgdbf: update 0.6.2 bottle.",
+    "1afd119b5522524f33cdf62f174b68795e0c9c13": "pgdbf: add 0.6.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d87063d32f8a79f931b9c49f0718cb7e55b5ffd4": "Remove remaining explicit xz build-time deps",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b5b55afc994650f34c8c2c7672fa3b0f0327baa9": "pgdbf 0.6.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "fd2a88d2120a33537ffa344aebab8e48a8b649f3": "pgdbf 0.6.1"
+}

@@ -1,0 +1,12 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bc5d059381208c3f8b3aadc13d58e8d565df262c": "vf: use opt_prefix in caveats",
+    "8f357b8abeb410cf86cceac5ba75defd797bf8e6": "vf: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "aeb218e90ddbcad28a5c1ca50dbcf2bd0847908c": "vf: test added",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "935b7258317de436eceb3e6976ffb641153a6dd3": "vf: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "424e8f02358f7b739030f1221c734e735ef49099": "vf 0.0.1"
+}

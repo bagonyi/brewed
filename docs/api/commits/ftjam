@@ -1,0 +1,21 @@
+{
+    "4bb0c49a653f523dbf9395f072b243508be89809": "ftjam: update 2.5.2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c73eedf8412f3e246b00eb0d14cbbfaa5e1e0642": "ftjam: update 2.5.2 bottle.",
+    "a5af8525763b2bc4c5f226adce6241808bb68d88": "ftjam: update 2.5.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "057773b7a2ca430769f6dc0143fcdffa046a7a4a": "ftjam: add test (#4750)",
+    "c1415987e87b8c458b7527f455c4cd7223089a24": "ftjam: use secure homepage",
+    "0df67671d2c63c7ae6b2fc22909b0786877172d2": "ftjam: add 2.5.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "fe0bed3462042965dc1e5001330d80edfc00a342": "jam/ftjam conflict",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "2201e7bf7f64a4713ca9da331b2aabe9b9839aaa": "ftjam: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "1e76cb383549b1d017f4ccca4a655ca35e5c0fd8": "remove redundant versions",
+    "41d93723f7aa25ffd823ec8cb60532d1004a4b76": "FTJam 2.5.2"
+}

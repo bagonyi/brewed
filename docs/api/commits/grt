@@ -1,0 +1,11 @@
+{
+    "462a8118c4d677ba6d17e5aed8042d19e8799954": "grt: update 0.0.1 bottle.",
+    "16e20af4073f91e185dbe85378ee48eff692e0b1": "grt: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c62ae55a316d1af9db2a468137bdc324e9d8e38b": "grt: update 0.0.1 bottle.",
+    "bd84aa4043ceee8518616d841717f8c289d4a79f": "grt: use author's new homepage (#8949)",
+    "2be52715f71a5222ef93b4f141c1364407a60fd8": "grt: update 0.0.1 bottle.",
+    "e7a933193fa642ab3471814d756247df45a4429f": "grt: use secure homepage (with mixed-content issues)",
+    "0597748e8fe7a0a29903f056ab8f36ba0f81c49b": "grt: add 0.0.1 bottle.",
+    "d43a097c9f503410abb784fcf75bd3d784120977": "grt 0.0.1 (new formula)"
+}

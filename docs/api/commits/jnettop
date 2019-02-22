@@ -1,0 +1,14 @@
+{
+    "6298c7e7dbe0a84baca7bd5d340fe1bcc2e7a55e": "jnettop: update 0.13.0_1 bottle.",
+    "b59c4644911aa0fe86399cbb86896f03aa6397dd": "jnettop: update 0.13.0_1 bottle.",
+    "61b254b29abf9db175e56fb048bf9f4619b6245c": "jnettop: switch back to the official source tarball url",
+    "071fa06995cc9fba7c7dbcd2227f899e77577a28": "jnettop: improve urls",
+    "6b42824ebb53cfad8ef5b3770edfc19e7b1b1e26": "jnettop: update 0.13.0 bottle.",
+    "100926f15b8923d38786b2a86c074d02abb98964": "jnettop: use Debian for homepage and Debian mirror for stable url (#10605)",
+    "bb0c3139afe39dbbe58daf25b604aa77c93b96d2": "jnettop: update 0.13.0 bottle.",
+    "fa64551ed4ebb7938d65397e24384f4c7a58ffbb": "jnettop: update 0.13.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c93ac1324dde9cfe108eb1f23ffd28b341521538": "jnettop: add 0.13.0 bottle.",
+    "afd95412a77d53ba21b9fcb7b6628e07f83d1a41": "jnettop: basic test added",
+    "dabd7c26ba8e233ca3c71704a06830585765c01d": "jnettop 0.13.0"
+}

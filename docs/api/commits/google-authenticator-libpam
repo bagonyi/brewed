@@ -1,0 +1,6 @@
+{
+    "cb83eea3c4a144ad10eb10ad2e3eac03ee3a0b66": "google-authenticator-libpam: update 1.05 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "07903eed0096fa7efaa555876b58edd730d2aba9": "google-authenticator-libpam: add 1.05 bottle.",
+    "286c1534d460c978037df5b13c9ad84ac2bb3f02": "google-authenticator-libpam 1.05 (new formula)"
+}

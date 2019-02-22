@@ -1,0 +1,11 @@
+{
+    "91f3eb9bf9a26366f66a5fff3e98f4c6e5565fbc": "whirr: bottle unneeded",
+    "ef28199f5ed1397acb730dc7095a51041b81e52f": "whirr: fix download URL",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "889c7308b23acd11d284b24ea6da3fd4d5c0c75c": "whirr: basic test added",
+    "8c4006a2c78fcb67afddb5d07534ffb84b903261": "whirr 0.8.2",
+    "bb4fd52451ed08cb49f48118df7c48c9f2afa7c5": "whirr 0.8.1",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "bde6edaefaf2d318f92e77378907416067df65cf": "whirr 0.8.0",
+    "c295771c9bd7391abb3fb875fed1a1566eb91ae9": "Apache Whirr 0.7.1"
+}

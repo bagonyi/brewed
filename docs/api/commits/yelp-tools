@@ -1,0 +1,23 @@
+{
+    "3d36d2cceab0cdee112d0649e23cf3955989baac": "yelp-tools: update 3.28.0_3 bottle.",
+    "abfc5c974b79f7868fec7cd0afd453e16afedc87": "yelp-tools: update yelp-xsl resource",
+    "5922ac584bf981d257abe4ef7316ff816544bfd3": "yelp-tools: fix dependency order",
+    "10aab957c28e03a021ed018404bcc1bb5e307a82": "yelp-tools: update 3.28.0_2 bottle.",
+    "820ef5fe66331eed7dfe199ea259774f9650012c": "yelp-tools: update yelp-xsl resource",
+    "10b4fc5aab68bb094d91f0d4ec9225d8a5e45d79": "yelp-tools: update 3.28.0_1 bottle.",
+    "5cba704f14dd2c03096fa215169b2030661125a1": "yelp-tools: update 3.28.0_1 bottle.",
+    "00d67def7fd9124c99b121192fe44a17c235b5e3": "yelp-tools: revision to fix install receipt",
+    "3d772533a5bca85c49afe00ff159444cf14dee31": "yelp-tools: update 3.28.0 bottle.",
+    "20d62703816f94527e22bbb4c157f31ec1e4c5ab": "yelp-tools 3.28.0",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "5d022711902116ff34d495d1712dbae51d9ca044": "yelp-tools: update 3.18.0 bottle.",
+    "17794152a51433ca779e5dd30c313040a904aba1": "yelp-tools: update 3.18.0 bottle.",
+    "74afdb8739e7e2cd1f2a8c271248abf1dfa79061": "yelp-tools: upgrade yelp-xsl resource to 3.20.1",
+    "9e2be73514322e7248c15d7ec589638098e87655": "yelp-tools: update 3.18.0 bottle.",
+    "f28f8e54cd7f2bf956804e7ad6a71cd651ba612f": "yelp-tools: convert yelp-xsl to a resource.",
+    "5ee1cb4e2f8a76ea8619a8276b8b23b7b9505e93": "yelp-tools: update 3.18.0 bottle.",
+    "3e0e201446e7b555cebf5c05929df6d9a9edd89e": "yelp-tools: update 3.18.0 bottle.",
+    "ee565e16ffbde37ac36312b28bdd755208a3828f": "yelp-tools 3.18.0",
+    "8debd7a7bca239d2512d758ef86b960b48d3616f": "yelp-tools: add 3.16.1 bottle.",
+    "1abbef991db81673ff29e5a20dbe78c22b6be0e9": "yelp-tools 3.16.1 (new formula)"
+}

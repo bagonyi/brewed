@@ -1,0 +1,14 @@
+{
+    "3c472ce989c0bb34cabb1fbef1a1ef46e0c73bd6": "git-series: avoid cargo deprecated syntax warning",
+    "84c6f4657586a61fc6dbc370de37ed279cea1d13": "git-series: update 0.9.1 bottle.",
+    "862d0c244a5f6d718d79d1e76abd419981ada1e4": "git-series: use `cargo install --prefix`",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "90ba68914f6c3377330998249034e690a0836932": "git-series: update 0.9.1 bottle.",
+    "6c863b6e4226e99edfc47e1c1e29b926ec4699f5": "git-series: update 0.9.1 bottle.",
+    "74a909ce5c03b2ff73f08de1c642e586357350e8": "git-series 0.9.1",
+    "0eda8a561099a40b029d8ae8e0b2d1d5fd32254d": "git-series: update 0.8.11 bottle.",
+    "526feff9938da32b23f770bcc2eceea3fe31d335": "git-series 0.8.11",
+    "b3662cbab65690a7d641ea7992215d33d419e252": "git-series: add 0.8.10 bottle.",
+    "482cfcde41d8bca810fea94f900b0e7475f934f0": "git-series 0.8.10 (new formula)"
+}

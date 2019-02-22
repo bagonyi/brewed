@@ -1,0 +1,18 @@
+{
+    "dc6badd266a1244917e63afe3701ca22e6e7dba9": "djbdns: change test to check example.com (#33939)",
+    "b276a15d94e5ac954b1e614f4ddc23fcb594e44a": "djbdns: update 1.05 bottle.",
+    "1ddcfc790ea45c132deb46d09667373dddf2c6b4": "djbdns: use sdk_path_if_needed",
+    "f0065755a9a28604ca8aa1768fb229afad48093d": "djbdns: update 1.05 bottle.",
+    "b0f296807b760b7fc613e9c0924fcf1bc2908259": "djbdns: update 1.05 bottle.",
+    "40db302db6cbbd2422eaf03e7a7477725a1617e8": "djbdns: update 1.05 bottle.",
+    "adf6fd67410dce4f7cc597503c28f8dff163accd": "djbdns: use https urls",
+    "e688ca583ba948bea196452af17563385b83c4b9": "djbdns: add 1.05 bottle.",
+    "7de2e1d9e7bdb92a19f29aaf760626923b67b681": "djbdns: add clt workaround",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6dcc542c0187c82532a82feee9b6450f926e1604": "Removed (currently) unneeded regular expression magic that was creating an inreplace error.",
+    "8b1d2544905531225c1364916b7c84ba6b7d0f56": "djbdns: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "474181174c7b24979c5a78e6abe33658c6fdce2e": "Added formula for djbdns-1.0.5"
+}

@@ -1,0 +1,7 @@
+{
+    "be5462a60f7c5504dc571ae51e83f0f4d7d2eb54": "ssh-audit: depend on python@2",
+    "a3f28aa4cc56becad430217ce74535b88a21340a": "ssh-audit: rename python@2 dependency",
+    "c4708f7e6735b2f106b0ef277c988f7f1dae5913": "ssh-audit: depend on python instead of :python",
+    "e796f3a54ecdc38da893e2071964209a7ed620b7": "ssh-audit 1.7.0",
+    "af06e94c657d4cc4968134101cc1735d28b7599c": "ssh-audit 1.6.0 (new formula)"
+}

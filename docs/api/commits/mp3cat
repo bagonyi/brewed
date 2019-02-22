@@ -1,0 +1,15 @@
+{
+    "68a8beb25046d40e38f121e2ad56c97d8ab1dc92": "mp3cat: remove references to pre-Mavericks.",
+    "25296ebc8686a58a4e5967b684d3f06382bb0c96": "mp3cat: fix url(s)",
+    "8fd95068bc59e785d3d7258f7abc873635a1303a": "mp3cat: update 0.4 bottle.",
+    "0ee578a545e9d4878abc0fc687a54d5b92a5a2cc": "mp3cat: update 0.4 bottle.",
+    "d1d4cc915ac73574c5f9d6edf94d636076e28060": "mp3cat: update 0.4 bottle.",
+    "93789bdbfe564228cd51a4771f217f9438a564eb": "mp3cat: update 0.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "923dfa66147c336cd788d764da3e00991163256c": "mp3cat: add 0.4 bottle.",
+    "a670a5f2633848c0761527becf677f3841e246b3": "mp3cat: modernize + test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "851b89f37034816fb23abab06f98cc91d62d4f33": "mp3cat 0.4"
+}

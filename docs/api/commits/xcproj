@@ -1,0 +1,20 @@
+{
+    "267e5dada1e1af383ded808d899d9e901affd682": "xcproj: remove references to pre-Mavericks.",
+    "5d10081ca612f458ddd1157f3c3067c27b7b9f51": "xcproj: update 0.2.1 bottle.",
+    "64057f69abcc1623dfb1c8b75a273dfdf418fca5": "xcproj: add test",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "44c98e12683b7abe8f8e15ac31c08e5c07b6a680": "xcproj: update 0.2.1 bottle.",
+    "fb33b98f419f095c74ec6339861a6bf95c76c015": "xcproj: fix HEAD branch name",
+    "60418b724acb15da0608e1d733ea1fd855e9135c": "xcproj: update 0.2.1 bottle.",
+    "d24f6bc44edb080a219bc6a1af8ed09d9851d295": "xcproj 0.2.1",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "a2c60e616907dd48fee85cbcc1620bf91e2ce4d4": "xcproj: update 0.1.2 bottle.",
+    "be1c907a8cacd9d190a0db1748ce9710692804bb": "xcproj: add 0.1.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "502ff84d9c375ef071dc4bafc0a9f7ec60732703": "Add an xcodebuild helper and deprecate system \"xcodebuild\"",
+    "959f0838816ae2cfb51cda8c78189062decb918f": "xcproj 0.1.2",
+    "667b9db15afab493f4ae6e69de7ca647d3b82d3d": "xcproj 0.1.1",
+    "d0a9f564635a44c49fb1d37ed5484c07fb6bfcc7": "xcproj 0.1"
+}

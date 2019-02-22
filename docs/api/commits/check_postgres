@@ -1,0 +1,21 @@
+{
+    "c66f914a82e567172c8fde6d8a1876a01467377d": "check_postgres: update 2.23.0 bottle.",
+    "e92c84d9132c55c604a2f374558fdf09c120c8eb": "check_postgres: update 2.23.0 bottle.",
+    "aa17e01a8f474bcdaab9af01fcea3d251283fbaa": "check_postgres 2.23.0",
+    "96e928dc41150fcce9fdd0c4aedb5db0a6c404e7": "check_postgres: update 2.22.0_3 bottle.",
+    "7268ca72a1d4e7760a2b92ffd7e2f9b4ded20d52": "check_postgres: depend on postgresql instead of :postgresql",
+    "535e38e01395dd6257f6539c31ed5d93ea4a233c": "check_postgres: update 2.22.0_2 bottle.",
+    "b00951db107c9cd236cd6f05e619f1850d6c4b07": "check_postgres: update 2.22.0_2 bottle.",
+    "169b561926c1cdffdd0e89b8dd25a06705507962": "check_postgres: revision for postgresql",
+    "f5eab7f943a91136bdb6b5b90adafb7157439643": "check_postgres: update 2.22.0_1 bottle.",
+    "7c2164f43a884a88a39427c95b8776255fc383cd": "check_postgres: revision for postgres 9.6",
+    "b0d929a47461088aa68575d9fec7aac03bbae4be": "check_postgres: update 2.22.0 bottle.",
+    "5776cd8a7c6b3dbae4506a214c52118d34893e77": "check_postgres: update 2.22.0 bottle.",
+    "7632962a1a6609f0347c0e49543625c61979c1c6": "check_postgres: use https urls",
+    "888e370430a65e5b191112b9897b6c3ad39e9faa": "check_postgres: update 2.22.0 bottle.",
+    "19b352fbe622585edfbaaa63ad31b884c57235ae": "check_postgres 2.22.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "4da5ca63d85ad51b4b72213d472d08167f542114": "check_postgres: add 2.21.0 bottle.",
+    "8f9b7526f1741496de260d8090375cf8db28e3bf": "check_postgres 2.21.0 (new formula)"
+}

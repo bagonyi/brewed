@@ -1,0 +1,14 @@
+{
+    "447cee5350d65576baf70a3602805e7ee45180c4": "dieharder: update 3.31.1_2 bottle.",
+    "51e6a87e4a66d2336142eac169b57bb7f458e9b0": "dieharder: update 3.31.1_2 bottle.",
+    "081869eaf98133c15f3ccede777310f301a00fe2": "dieharder: update 3.31.1_2 bottle.",
+    "2c4057da43da8d42cc80c8fef4f680400dbda397": "dieharder: revision for gsl",
+    "35a2c88074f1024646a842779fa946b385b0bb7b": "dieharder: update 3.31.1_1 bottle.",
+    "ddffd437828eea24a6b052feca5687642ac86cd4": "dieharder: update 3.31.1_1 bottle.",
+    "760ccbc5d3c40f31d05ad71e4c96bab2343dd420": "dieharder: revision for gsl",
+    "044368cad6f24649ecbc6dff0428bd44a4ce8a69": "dieharder: update 3.31.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "61eea0ffcb3fb83f5aaad15c5e358f57292c79c5": "dieharder: add 3.31.1 bottle.",
+    "63350141f899674312a32d049817f9bbf03b8a3e": "dieharder: use sha256 and https URLs",
+    "9d999f6708aede2fd61df7b67bf0956eac50720b": "dieharder 3.31.1"
+}

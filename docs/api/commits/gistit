@@ -1,0 +1,18 @@
+{
+    "bf5ae9c42650e89b88fd8488fd4504e008b98a91": "gistit: remove references to pre-Mavericks.",
+    "b7c0c5baafd9d3913bc4f80ae7d29c68b7aa8f7f": "gistit: update 0.1.3 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "88e9948d4443ed1da82795f2aab074f04a9cad7a": "gistit: update 0.1.3 bottle.",
+    "380e9149d66cde1e7ef5fa4e39ee20c9fec83a28": "gistit: update 0.1.3 bottle.",
+    "f4c147ac1ee50d06438badcc555b618ec231c2fa": "gistit: update 0.1.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "e271d91590aac9104801b3af230c9504fd6c6438": "gistit: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "090bb2688127ff09d90c7e67140dda3d9a5d0aff": "gistit: add 0.1.3 bottle.",
+    "9ef4a3c20a6e3bbac82e8af1d0018d68140a18af": "gistit 0.1.3",
+    "a6ca2041bbff3d04f597ca160c980310a4737290": "gistit: modernize autotools deps",
+    "f34f3b1185fb9c19e0e59e3976679e171cf135c5": "gistit: quoting in test",
+    "6598f82eb06b71ed54a3bc1967b7269e3f47050d": "gistit 0.1.2",
+    "4018b7744032d37701405cb3056ba1f9e15507a6": "gistit 0.1.1"
+}

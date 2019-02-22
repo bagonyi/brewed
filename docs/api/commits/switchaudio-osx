@@ -1,0 +1,17 @@
+{
+    "461178e783edaea70718c466aaea7aaae7f0e8cd": "switchaudio-osx: remove references to pre-Mavericks.",
+    "1194045c523e915d435053eaf42ed6b3ba67f447": "switchaudio-osx: fix dependency order",
+    "33b08b27236247534d719ad74081a2ede8441130": "switchaudio-osx: update 1.0.0 bottle.",
+    "acb3761ac596657e39c162c857e1b0527124df20": "switchaudio-osx: fix build for Mojave",
+    "69b9b4caed847a2c9dd97feea7c9fcc91b1306c8": "switchaudio-osx: update 1.0.0 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "a1c206a3b62906827ba4aac68e606f87ea57a418": "switchaudio-osx: update 1.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c2a88630f5ed65073962a3214cec945c33cef480": "switchaudio-osx: update 1.0.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4db89065db066da6e792b72e4ba6deda09a61714": "switchaudio-osx: add 1.0.0 bottle.",
+    "32a439c403d8d503abb9056ac8d9396a4c39be20": "switchaudio-osx 1.0.0 (new formula)"
+}

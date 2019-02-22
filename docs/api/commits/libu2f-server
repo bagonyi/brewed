@@ -1,0 +1,12 @@
+{
+    "2e3337e15f42d7ac0c992f1527bae627a75fb505": "libu2f-server: update 1.1.0_1 bottle.",
+    "d079aebb6af96358fe530fa2bfaae48d4ba23102": "libu2f-server: update 1.1.0_1 bottle.",
+    "9e3fbdf448e941c686b2c48e58316e12d8af349b": "libu2f-server: revision for json-c",
+    "c08227b52048155253c038676e5671e48def77ea": "libu2f-server: update 1.1.0 bottle.",
+    "ff3e363a6a5ad172a121fc6e5cfecb56f615050a": "libu2f-server 1.1.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "61b46d47d737042dd00d88e5068371a3fbf35f48": "libu2f-server: update 1.0.1 bottle.",
+    "1f021480d148df58cd29abc2a19956a92f279a6f": "libu2f-server: update 1.0.1 bottle.",
+    "bd2418ebe901b340395ec739b51a2cba29ecc97c": "libu2f-server: add 1.0.1 bottle.",
+    "2bfc76683c2443e778b4492b1cb1be0198f36733": "libu2f-server 1.0.1 (new formula)"
+}

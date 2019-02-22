@@ -1,0 +1,10 @@
+{
+    "6b62e169b1be8a6fa686bf706f7d64564a588dcc": "bar: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0a63558d16808e7dd248c5b1de1a24ebc3245582": "bar: modernise and add test",
+    "c66fa156fd3897db8963956dc1b82d73f78deb48": "bar: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "c4c96d38c63431fb283ee03d4ea75bd628db8c4c": "Added bar formula"
+}

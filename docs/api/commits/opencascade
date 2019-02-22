@@ -1,0 +1,7 @@
+{
+    "605aeb7e08891ad2d2579487f24663be2d7eeda2": "opencascade: update 7.3.0 bottle.",
+    "1de3e0d2fd0921adba04df80f8d10251daf0e7c4": "opencascade 7.3.0",
+    "c6c35cebef786891338ac17e1eb2774735ff8d8b": "opencascade: secure url(s)",
+    "7c23fbd08d61b630de4ef400184a140913808abe": "opencascade: add 7.2.0 bottle.",
+    "f83570042feaa374983b5f06ed59c068270479c9": "opencascade: import from homebrew/science"
+}

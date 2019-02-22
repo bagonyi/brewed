@@ -1,0 +1,12 @@
+{
+    "2b5f34a1d86d977bbc320e8a6878b990afa13ff1": "pgtune: restore live urls (from archive.org)",
+    "7622ef3e0517780171dfdaec762625a3d10ea3e5": "pgtune: secure/fix url(s)",
+    "b8ae4683c3ae02cf79ddfabc21d4bbeff88e58f3": "pgtune: homepage is back online",
+    "a4e9b38e5690feafb561fb16157b15ebd0b18ce8": "pgtune: use Debian mirrors temporarily.",
+    "0cdcc64509896ef183e8d27b13e5d05fea640095": "pgtune: audit fixes",
+    "92e67f1c14ef841523dbd080de7571dc84153cc3": "pgtune: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "77c8177fc2d37180dc3426b3d5cb950ed1d90863": "pgtune 0.9.3"
+}

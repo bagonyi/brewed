@@ -1,0 +1,13 @@
+{
+    "47b8250f3e9a599bf4f1b5112e72ff321128cc82": "rbenv-vars: depend on rbenv instead of :rbenv",
+    "b86aa59ebf8af9c61f6c34a94f6eed0499a887af": "rbenv-vars: use new rbenv dependency",
+    "5f5ed7ddc92f5580f913c7353fa34a9f97966417": "rbenv-vars: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "3a4f7bd7678254cfdff2f6c9a8089606b5f7216e": "Cleanup rbenv mess.",
+    "64fe7d1da0a593c72ce0eab9a92d06d8df62d043": "rbenv-vars 1.2.0",
+    "6bbedcad20989ae8d1d6c6284442192da111dc7a": "Fix rbenv to install versions and plugins globally.",
+    "bce3f10be8ccc8944df2325727e97c7073c805a6": "rbenv-vars 1.1.0"
+}

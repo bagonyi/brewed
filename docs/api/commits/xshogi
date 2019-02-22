@@ -1,0 +1,9 @@
+{
+    "200586e1e711d2a12e94dbaa10b2ce7e5900f5d6": "xshogi: fix dependency order",
+    "f51daa6db33d4138e04e4cdf6c706f2cb20cfeca": "xshogi: update 1.4.2 bottle.",
+    "354820f8a3441405c2ae4f2773fb24ce2395d3ed": "xshogi: add checksum (#22613)",
+    "69299a07cc33845c8df38a3b6f3180a7f23426fd": "xshogi: update 1.4.2 bottle.",
+    "74eaa8f57dfe31a5b2f2779027ee45fa3fdbafcd": "xshogi: swap GNU url and mirror.",
+    "28912133da043adc8a492134a307c5e295352d53": "xshogi: update 1.4.2 bottle.",
+    "e2c87c0f86b275f97f7b434c9ea9d0c6da8eceaf": "xshogi: import from homebrew/games."
+}

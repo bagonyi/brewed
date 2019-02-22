@@ -1,0 +1,14 @@
+{
+    "98fdadc1657f3091b6062ff0a33901ce4cab66e9": "openjazz: update 20180522 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "6509ee94b4a70e8bda8a804727b8ab83c4b03eb3": "openjazz: update 20180522 bottle.",
+    "f0c744d86edb66a6bfd28d338b04ce9a538ba6a5": "openjazz 20180522",
+    "4814920e5b172856635b5553a4f275be6b92cbb4": "openjazz: update 20171024 bottle.",
+    "8a563fa1e2ce988ec124df41a0890a6f6c5658e9": "openjazz 20171024",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5875bbac7d7f185bf5cc51754568075c77d06a27": "openjazz: secure url(s)",
+    "0fe170800e8f9b94227d0bc9dbcc4453de32dd11": "openjazz: update 160214 bottle.",
+    "108e1fb0b103ed769be19c9b335f5a272065136c": "openjazz: update 160214 bottle.",
+    "53536d363fb978fc50bb3952f1672adc1fb523f4": "openjazz: import from homebrew/games."
+}

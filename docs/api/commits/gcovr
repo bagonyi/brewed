@@ -1,0 +1,18 @@
+{
+    "e1af754cc6991e823d2023321ec7a5c7134f5ee1": "gcovr: update 4.1 bottle.",
+    "3522058320dc5d37498da50051f296cec1c32bb1": "gcovr: update 4.1 bottle.",
+    "da9f7b34fcd219ff1ffb1a4691fc8bc091c7fa1f": "gcovr 4.1",
+    "e087c661eb57460af0ff8dda609bf1bb8aa6b537": "gcovr: update 4.0_1 bottle.",
+    "02fa9899872bed0e07c81cc62f8bedd9d1391cb5": "gcovr: revision for python",
+    "0cf4dbcf835b68a6c52b59a96988fc224e921de5": "gcovr: add 4.0 bottle.",
+    "51d69e0249a21356071c1b2df049767312ac9c2c": "gcovr 4.0",
+    "449d380cf0b202a0fe7c072e8b6865d6a42037e8": "gcovr: secure url(s)",
+    "2112903c5df26f1d625c073518cc8311779e2b4d": "gcovr 3.4",
+    "c59d4dc09a1faa04402f2487fe299c2b2d81376d": "gcovr: fix rubocop warnings.",
+    "32da6e8d109001ec218c3d8b83f619b1c03baf5a": "gcovr 3.3",
+    "43d1e9cbb34d608e11ee99a2bfbe0303928f4263": "gcovr: bottle unneeded",
+    "5ac57e8da98c2491c91928864ddd16d175677967": "gcovr: add mirror",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9cfc95cc29b9082bad56c4cec5c5c4871c464171": "gcovr 3.2 (new formula)"
+}

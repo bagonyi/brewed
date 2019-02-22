@@ -1,0 +1,15 @@
+{
+    "9d052974d08b46eb8d408cdd0d966eb6fdde51a7": "autopsy: remove options",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "48eb885476a5b1f1c7e7e0a0fabd5e95412b0c0c": "autopsy: use https for homepage (#10611)",
+    "3aa9b2356b1bb9a86edd26a4c6a84982d030447c": "autopsy: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "af80c444c821e80cbb34b8070f5113c03679b5db": "autopsy: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7545f6a42550f61b055ce234c18ac44942d2f182": "New formula: autopsy"
+}

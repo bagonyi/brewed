@@ -1,0 +1,21 @@
+{
+    "4e21ee4c53d6be1b9b351f3901bfcb15b11b5614": "wireguard-go: update 0.0.20181222 bottle.",
+    "ebe62cd1a8a66d2ca1ef4ba052df39e19afc29cc": "wireguard-go 0.0.20181222",
+    "288c3c04495bb20f429332f8baa49b3be10df832": "wireguard-go: use go_cache (#33194)",
+    "3542c28c51ea78db6549842ccc836d188d1462dd": "wireguard-go: update 0.0.20181018 bottle.",
+    "c10f181943898172d2f0cb228f69a335b858ca14": "wireguard-go 0.0.20181018",
+    "fd9f3d11e2767e890f97219c91997bbbec9c53a7": "wireguard-go: update 0.0.20181001 bottle.",
+    "31ac0267e3ca84629965b63186a70c9bac030476": "wireguard-go 0.0.20181001",
+    "d809e120e0146348098d0d126d5643259e03f8fe": "wireguard-go: update 0.0.20180613 bottle.",
+    "77b82fe39453f7d0beb1a0df37bb1b94bba0295c": "wireguard-go: update 0.0.20180613 bottle.",
+    "40eaa5fa04095a572a8092d9364d38163a752653": "wireguard-go 0.0.20180613",
+    "cd083171a23bc9eee383b3f5e513e4dd255d47af": "wireguard-go: update 0.0.20180531 bottle.",
+    "4faa694b4e3db2693701845c61ee535b52fe2651": "wireguard-go 0.0.20180531",
+    "47ba1750124fa68fefc5b95a008da95ec9995e88": "wireguard-go: update 0.0.20180524 bottle.",
+    "a03d5b0c1b95c164e42ee4cc67c8f73b64497c29": "wireguard-go 0.0.20180524",
+    "dadebf4d9d0ead7a962422119ed0536246df76fd": "wireguard-go: update 0.0.20180519 bottle.",
+    "8c2f7aa55b380c241175202103c4d5b9f34b8447": "wireguard-go 0.0.20180519",
+    "c45011acec11d54e5667f7047d87ec366ef5f286": "wireguard-go: add head spec (#27914)",
+    "902d90c76d778d7a49551e508c1a7ecddffc0b45": "wireguard-go: add 0.0.20180514 bottle.",
+    "3e43a0048f73c71d9e77e86635828630c6871198": "wireguard-go 0.0.20180514"
+}

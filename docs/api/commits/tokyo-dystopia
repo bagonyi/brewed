@@ -1,0 +1,18 @@
+{
+    "28b98f8113adceb00059d581991ec2cf8c8f3455": "tokyo-dystopia: remove references to pre-Mavericks.",
+    "5a1db7f98a2ba3dc44283197cfb8fac9ebd5b52a": "tokyo-dystopia: secure url(s)",
+    "44d215793c2921e32323fff6121327a8b1107c63": "tokyo-dystopia: update 0.9.15 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "90dd006ef7a6f434d33ceaba394d2fbf46b2117c": "tokyo-dystopia: update 0.9.15 bottle.",
+    "94a9cb2007e220503f55cb77558484310fda7ee6": "tokyo-dystopia: update 0.9.15 bottle.",
+    "8702d438be49e53fa77a760c86e991e7953508bc": "tokyo-dystopia: update 0.9.15 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "293024dd44a75910380ce399b6ec61dde4f07be1": "tokyo-dystopia: add 0.9.15 bottle.",
+    "ceec55287ded93e40262a2f255ad319d786518e9": "tokyo-dystopia: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4b9dbbaa02367955c7ac0c5d2ca405928e2536b5": "tokyo-dystopia style nit",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "46e194938715c5deb882253d929f52dd72f4e77c": "Update urls/versions for tokyo/kyoto formulae.",
+    "8450319c0fd09c4da49f5e6bf4f3cb6c85db38ca": "Update Tokyo Dystopia to 0.9.14",
+    "6acac33c44b9c43ba1e113026d7f1e9644c069d9": "Tokyo cabinet and tokio-dystopia"
+}

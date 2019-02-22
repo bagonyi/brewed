@@ -1,0 +1,19 @@
+{
+    "294de6d61f0437eeb3b2cd78fe0fb9b5085271ab": "grakn 1.4.3 (#35580)",
+    "a24112a93b65141a555c667d6e6811d61c6f4baa": "grakn 1.4.2",
+    "60a3e9141501b2c2bcb58bd4acf916b6f960ae30": "grakn: revision for upstream re-upload (#32399)",
+    "8e46eb2ea4face5b527d934cc7673df581b00aa9": "grakn 1.4.0",
+    "7b181617646a10dcd7abe6ed4f921c4406368cbd": "grakn 1.3.0",
+    "81a6c694eee6e3552b96f9a768f80e741eb02d94": "grakn 1.2.0",
+    "9970f6adf701c1500eed19f54d7839afaa9f02b2": "grakn 1.1.0 (#24206)",
+    "a8d8e29d9be857968185c4472f90edd0ea51d0fc": "grakn 1.0.0 (#21758)",
+    "a6bd6c729ba40a5cb2319d6fe830d04ec97bef16": "grakn 1.0.0 (#21746)",
+    "31400e52aba5ac3713e2dc6c0ca74545d4185399": "grakn 0.18.0 (#21112)",
+    "133a19f972e0506da2be60dedb34169d8fe37581": "grakn 0.17.1 (#20231)",
+    "0726f5d15b0175fef949fb5f3af299b6520951be": "grakn 0.16.0 (#17136)",
+    "8a69ca78dde09bde3d10c4004400f437e0780434": "grakn 0.15.0 (#15843)",
+    "c6a6d76cd5acdeb77458f6b7f1eb5d7e72282e2b": "grakn 0.14.0 (#15426)",
+    "a301b0917894681179896a7e667df3884714eca4": "grakn 0.13.0 (#14228)",
+    "1fce1a6331171e6344683b25729683bf29f07fbe": "grakn: bottle unneeded.",
+    "3e126ae35ed2d4334cc2a3da4fe528605c79845b": "Add installation of grakn.ai"
+}

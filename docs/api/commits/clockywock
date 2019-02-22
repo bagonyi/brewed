@@ -1,0 +1,11 @@
+{
+    "e9c9187df41bb10788f1839e8b0794e1dcbd26bf": "clockywock: update 0.3.1a bottle.",
+    "70c44d41e8a2d2a6d5d3f869fdb03aa12c771a2e": "clockywock: update 0.3.1a bottle.",
+    "220c9723b2ac8e1e7f09af7dda7c9c038fca5cd0": "clockywock: use https for homepage and stable url (#10948)",
+    "c84884f90b40f5b82e5fbac1534a8c0acb06f944": "clockywock: update 0.3.1a bottle.",
+    "3245c753f28f4dd868cd90e29798632f4303e50d": "clockywock: add 0.3.1a bottle.",
+    "a4a3145580ffc156ec18fb84723d72dad6c63373": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2010e14d56fd675e273eaaed8b6294c2b224580c": "clockywock 0.3.1a"
+}

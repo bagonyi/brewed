@@ -1,0 +1,10 @@
+{
+    "b701e62f1ee91e4976b857d0c96400789a7a382d": "mp3unicode: update 1.2.1 bottle.",
+    "6156e25b0f36cec9a35131f0967e8a261b0317cf": "mp3unicode: update 1.2.1 bottle.",
+    "6a93750f72ec9ed66a8201d97c8019f1c160c765": "mp3unicode: fix audit --warning",
+    "9bc9103be6c1eed1b1698cfd5e52802bce7dfbe9": "mp3unicode: update 1.2.1 bottle.",
+    "1fbb2ab434615597d0d8cb064628d2594c27ee97": "mp3unicode: style nits",
+    "e1fa3583583583995170344266996560ebc5e6cc": "mp3unicode: use pkg-config, fix HEAD.",
+    "0b08849349858cae281ccef33c5bf60c8abbbb96": "mp3unicode: add 1.2.1 bottle.",
+    "b2bfe4e5bb0f8bd24def77b4f1c58a6de68b3e5f": "mp3unicode 1.2.1 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "f9792a914d696e5a9df88242d900b0a85f5f1524": "flac123: remove references to pre-Mavericks.",
+    "f16b2c22e1337e74a27b0d70b798994a8cdccfa5": "flac123: fix dependency order",
+    "79489d88e0ec8de667f7a36d93af82e445ab8a57": "flac123: update 0.0.12 bottle.",
+    "e756e98281210b7cb52e6fb8093c2de2ac5dcc8f": "flac123: update 0.0.12 bottle.",
+    "21f743ce1bae30270c7ee2e46be401d2d3cd5369": "flac123: fix audit --warning",
+    "196e9f9847045c716cb48d14abd6407b1942d9ea": "flac123: update 0.0.12 bottle.",
+    "66a112970a230499fb53d3c2a46a170b94b58fa4": "flac123: update 0.0.12 bottle.",
+    "fdf87bca1517c262727c353423d3d3545604a090": "flac123: add 0.0.12 bottle.",
+    "20bae5f84cf5a57defb2375cdcb702da16459abc": "flac123 0.0.12",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "59eb6414566c433989e765615a8e947f62da48bf": "flac123 0.0.11"
+}

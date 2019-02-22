@@ -1,0 +1,12 @@
+{
+    "aae7bdd2f64048bebe1b64f1ec7926da4405e478": "tinycdb: remove references to pre-Mavericks.",
+    "96029eda6c913a11214569a65188181f11f7e8aa": "tinycdb: update 0.78 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fe8e31feb36918c6a4c4c0ee1b613823891e36b9": "tinycdb: update 0.78 bottle.",
+    "de5bd29dc1a4852fd7c062819d104ea2c7072e41": "tinycdb: update 0.78 bottle.",
+    "28e092f1fce1ee55844263e37d2bf50991c43116": "tinycdb: update 0.78 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b6f27280d0b6fe8b5a01ef6c545ca9393a729d51": "tinycdb: add 0.78 bottle.",
+    "15899b988dce768a53e5fe2ba8c8dc9ae38c14b3": "tinycdb: test added",
+    "e7893832eaf1da495532f6ad8fc3d0eb3c056994": "tinycdb 0.78"
+}

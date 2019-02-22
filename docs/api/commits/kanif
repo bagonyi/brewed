@@ -1,0 +1,18 @@
+{
+    "8dd932fbd345b0bea1809d6327b8acfc989eb1b4": "kanif: remove references to pre-Mavericks.",
+    "16340b42c94662ef278addeff1660adc9ca639df": "kanif: update 1.2.2 bottle.",
+    "8e61fa437ca53f16ec27c35c14a5eed5dae3f6a1": "kanif: remove :run.",
+    "85865cd10c2bde5b2b3946e9b05bea2c9364c992": "kanif: update 1.2.2 bottle.",
+    "45e4d2015f4d2a702a231e78475ae6f7397b7d3d": "kanif: update 1.2.2 bottle.",
+    "94d1e584bfc2c35855441b114b0f6624784a3931": "kanif: update 1.2.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "e5596aa33e600afb095a80f6f9186be7ffdff96c": "kanif: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2dd05d5cdea357db16158b26e1cb4cb4bd1c856f": "kanif: add 1.2.2 bottle.",
+    "5846a479f917eadb6e398e2857ae1bf37752d504": "kanif: test added",
+    "a793e7905361d40f6fb51fd022aa8556618cd81b": "kanif: style nit pick",
+    "d91f5da96f540a85b6d6b7514902aecd5e4f0189": "kanif 1.2.2",
+    "a372b9241a45bd301d35ae6bf989f36d92ccb3f7": "bip 0.8.9 (new formula)",
+    "fa9bd6468cb6144c992680a968e8a9d0cc9a33fc": "hello 2.9 (new formula)"
+}

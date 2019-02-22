@@ -1,0 +1,9 @@
+{
+    "c31d4f4d699dcbdf26a70129ad77ba2b031a85dc": "kube-ps1: remove options",
+    "f593cabc83cbc599467db9ed9ae9bf62bb6b56d9": "kube-ps1: fix instructions in caveats (#29133)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "da42ab29c21521791a6de25183b878c5d0187cc4": "kube-ps1: fix zsh prompt (#24737)",
+    "df5743ae7310adebb98ac8ed331246ecc98a344d": "kube-ps1 0.6.0 (#24522)",
+    "60558c2ac02bbe378e169120297674b0df054f3f": "kube-ps1: fix head url",
+    "8c2a0521ccb52399ee96784627a46914f3c83da4": "kube-ps1 0.4.0 (new formula) (#22363)"
+}

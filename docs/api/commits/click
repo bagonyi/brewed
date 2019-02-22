@@ -1,0 +1,7 @@
+{
+    "baef94a51640d5a38740ecc7e7314de29fa6924c": "click: add HEAD (#35015)",
+    "1785af5b9c9184f310225af7ba6518edb455d780": "click: avoid cargo deprecated syntax warning",
+    "790d17700d335b7a2d718f1e200ceda76ad00595": "click: update 0.3.2 bottle.",
+    "94a33628b66585b403bc5e1cd63b4d1997232634": "click: add 0.3.2 bottle.",
+    "6b3304559fa537c789b9abced4f56735bc8fe802": "click 0.3.2 (new formula)"
+}

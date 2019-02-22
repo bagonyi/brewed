@@ -1,0 +1,13 @@
+{
+    "dc571ed39e0d7360bda3fd33fc02466fbde2d803": "cpulimit: update 0.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "f8d7867713c65e87c994bbc5f53be965d8132878": "cpulimit: update 0.2 bottle.",
+    "cd57f1692687d56a29f86c0a3034a2f49ed292ab": "cpulimit: update 0.2 bottle.",
+    "bef898e386021c872794cd7a35c126d8ab5467ed": "cpulimit: add 0.2 bottle.",
+    "e5ad36dc6a274c7c47ea785dc4599cff6e52b263": "cpulimit 0.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4bd95ebfaafec576dc9295fea9f837ec74c03fc0": "cpulimit: use sha256",
+    "a617922accfb82fdc5033117ddd47362b2921753": "cpulimit: update homepage",
+    "0e5ebcb99dda17bb4a375741abaf5d114c6bb038": "cpulimit: use full path in test",
+    "cb4332639e88c5b5dd5c85d10c73c3d2a6e4c50d": "cpulimit 0.1"
+}

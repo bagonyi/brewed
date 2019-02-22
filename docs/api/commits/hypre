@@ -1,0 +1,13 @@
+{
+    "dd371efa8551c8d1f509a7b03fcc5096b9c0f255": "hypre: update 2.11.2_3 bottle.",
+    "24f60fa20c797ec7cd0946e7695b27c7a88c2e31": "hypre: update 2.11.2_3 bottle.",
+    "4df9607975074388b9ceba4d56a28d28ff29ced0": "hypre: revision for gcc",
+    "a13ee903c06260eee3a2e938e6440d28c4e92d18": "hypre: use “squiggly” heredocs.",
+    "079f1df557abca9073a004f2ea9ffc66a642c257": "hypre: update 2.11.2_2 bottle.",
+    "8f81405c3b1ac5ec62f13a7bf12ebbfea783b30d": "hypre: phase out :fortran and :mpi",
+    "d95f3a91eca996eedf71765cdf29b2756a0159a6": "hypre: update 2.11.2_1 bottle.",
+    "d53bfebba5f9cf2e0b1cde3d02f8c38c6874a9a8": "hypre: revision for open-mpi",
+    "b0bc302da7da38fd71422a308733c9ce97fa853f": "hypre: update 2.11.2 bottle.",
+    "c437f3560ee781acb0539a32e0dded2a66ebb987": "hypre: add 2.11.2 bottle.",
+    "ba31ec6b49425cd7be02ffd91ba798bc2266dfbc": "hypre: migrate from homebrew/science"
+}

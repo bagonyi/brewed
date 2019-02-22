@@ -1,0 +1,9 @@
+{
+    "8f3cd0070ba7ecfe797924228c859719ad70dc5a": "orocos-kdl: restore live urls (from archive.org)",
+    "71cde3af65cceef5b922c8ba27be5c26933599db": "orocos-kdl: point inaccessible homepage to archive.org",
+    "2e08fa7273b397d28d670debcfb5baac7678d42d": "orocos-kdl: update 1.4.0 bottle.",
+    "20fa5ec6683418cf65ee4310498df9500159a301": "orocos-kdl: update 1.4.0 bottle.",
+    "ba33a238963123ff835ae49a0f1550f8095287b8": "orocos-kdl 1.4.0",
+    "1cae32b79656ecec26389d9ee3edfd5df488dcd4": "orocos-kdl: add 1.3.1 bottle.",
+    "d9cdf8e9725ce2c5feaa999cdbf3399e9f1b07f6": "orocos-kdl: import from homebrew/science"
+}

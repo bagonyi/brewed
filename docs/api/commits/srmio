@@ -1,0 +1,14 @@
+{
+    "0dfdce71f7f89809ab4b163bc6ca6eb7bea7cbda": "srmio: update 0.1.1~git1 bottle.",
+    "efc91857bf3212b1b8077190787d59df64c28224": "srmio: update 0.1.1~git1 bottle.",
+    "cc95035c19701f0cf91642ce8e35b01ab1a6398f": "srmio: fix audit",
+    "e57270c127c5106a92d402ee917c78b9ea565858": "srmio: update 0.1.1~git1 bottle.",
+    "8489b696f870834779316e6907a4195df9f11e69": "srmio: add 0.1.1~git1 bottle.",
+    "63b6bd13fc2520636ca87d03b0a6a6570dcbd518": "srmio: replace system chmod with Ruby chmod 0755",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "069a6ef9174a5b52b381fc8638eb0d235950f8d5": "srmio: modernize autotools deps",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "b2db4e471df2698c88f1aa16803d0a1e32c19c6a": "srmio 0.1.1~git1",
+    "01f9487915f83e31492fb124920ad7c9f278d2fe": "srmio 0.1"
+}

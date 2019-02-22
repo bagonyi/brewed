@@ -1,0 +1,14 @@
+{
+    "d588889ca9a5092a89f208ca2ad0f20fc76cd566": "compface: update 1.5.2 bottle.",
+    "81124fad8af64df2c624dbe56341392ce595b2b5": "compface: secure/fix broken url(s)",
+    "0c56eb168c36bfd40d57cdf974748235b92997c8": "compface: secure mirror and fix url",
+    "1c1f40ba029e12adb1183e93b6089d5c80048514": "compface: update 1.5.2 bottle.",
+    "b191599d41205cedf7297637c382c5615e001cd4": "compface: use mirrors (#10949)",
+    "c95fa6c8c8ea0117f520216f724c687152e81afe": "compface: update 1.5.2 bottle.",
+    "f2ca0b6b130b8ae39de53fc2483593a129d6ade9": "compface: add 1.5.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6802c19f5e3a7015460c98af6ee470b6ce6d6d68": "compface 1.5.2",
+    "9174a808b32bc990e86321632d634108adb7704b": "msktutil 0.5.1",
+    "34bee0f6aefd3c3063fa2a4afa9dc1da5e019f86": "msktutil 0.5"
+}

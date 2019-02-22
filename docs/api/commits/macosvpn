@@ -1,0 +1,23 @@
+{
+    "e5338d759c76f76e915c504bff26c00429ddd088": "macosvpn: update 0.3.5 bottle.",
+    "283d7f6bbe2895c34a1f89ed889e7baa99044bce": "macosvpn: update 0.3.5 bottle.",
+    "fb4635e67157bfaccbc380e2d6112ff7f3b8ca83": "macosvpn 0.3.5",
+    "ef3e0de6853e0f5692c2acca27fa655b5830d621": "macosvpn: update 0.3.3 bottle.",
+    "07276937f9c879f446e9a928bd629c57ec9975d2": "macosvpn 0.3.3",
+    "8a6f5dcb5a8df31605765663957eb6239cdfcef9": "macosvpn: update 0.3.2 bottle.",
+    "683e2db4ec05629b8d4894ea0ad60be9d517c445": "macosvpn 0.3.2",
+    "a1de3c55ade97561e68c2465f5238994a4611d4f": "macosvpn: pass SYMROOT",
+    "955805c09296cd1faa04fc556ca9f41b2ca0550c": "macosvpn: update 0.3.1 bottle.",
+    "dba17922c56407fb9f28a5dee2e6fc74d0dcf1de": "exit code changed",
+    "694967d8d0b508c930f1e89425278ff9c62edaa8": "macosvpn 0.3.1",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "7711bf554953e49075d6b785908a93a6f566b9ab": "macosvpn: update 0.3.0 bottle.",
+    "81e593290f2a219cdcd8a217dcbfa5779112b20b": "macosvpn 0.3.0",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "4f29a9d82684d36ea0c4cf7988a83dc8cef76f43": "macosvpn: update 0.2.1 bottle.",
+    "9e8893b13c74883c5c06f3daee6ad05f42034a18": "macosvpn 0.2.1",
+    "fc6a09512d69c98d65a4df9ce7096f723e352e62": "macosvpn: update 0.2.0 bottle.",
+    "c87e5702a69df481ca6b4d670f0ec5e5389a1c12": "macosvpn 0.2.0",
+    "404562e24522ee5b3bed12a669191eaffe17da57": "macosvpn: add 0.1.4 bottle.",
+    "c4412c1b895c73b5be4fc8f6e21bebbf3547377c": "macosvpn 0.1.4 (new formula)"
+}

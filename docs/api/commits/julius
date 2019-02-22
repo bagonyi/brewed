@@ -1,0 +1,15 @@
+{
+    "cec308f67c619948f709cd1d2cf498b2817c1727": "julius: update 4.4.2.1 bottle.",
+    "7e09ecfea271ce5c77f0be92e682e94e53f731ed": "julius: secure url(s)",
+    "b34852ed8aee6869b463a7d62475184db9351e7a": "julius: update 4.4.2.1 bottle.",
+    "838712c91bc0bd9244354eff706160c0b02e3d8b": "julius: update 4.4.2.1 bottle.",
+    "cb0e57584a5af8fedf72137652d756208d72318b": "julius 4.4.2.1",
+    "95c80f8be3161189a92ac594840ef1fc1bfaada2": "julius: update 4.3.1 bottle.",
+    "3e15cb474e0f1f3b5e31644de033aa0869405c27": "julius: update 4.3.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "4c1f641bfc1f83fcf1c4c74e11cf6bc9a63a4ef2": "julius: use an https homepage url",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "4c336c40601c797887c318dc54ec98becc118614": "julius: update urls, pass strict audit",
+    "ee46acf5631c9967f728c800aaab9a9e771ac334": "julius: add 4.3.1 bottle.",
+    "31f4e2c7064ef07e4b128733d6d79a06d9bfd0cb": "julius 4.3.1 (new formula)"
+}

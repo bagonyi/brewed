@@ -1,0 +1,18 @@
+{
+    "0dd0eeb6353e961d7a4def9c228697efcf1c99b7": "yconalyzer: fix component order",
+    "4642c6a80bac316001a08103d5d8d282ddaa3da2": "yconalyzer: update 1.0.4 bottle.",
+    "88a14fc456a517b441548483348a1fc1de21778f": "yconalyzer: update 1.0.4 bottle.",
+    "06781d62e61104f6f2a964612a4e37bf0d01136e": "yconalyzer: update 1.0.4 bottle.",
+    "2eadc6ebfe7a500c3a390ddafff6c58e596a6cf6": "yconalyzer: update 1.0.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "eb38e31ec993d51683a6092d8aef5982df8ee042": "yconalyzer: modernize, https, sha256, chmod",
+    "3c75d43dff36a87404fa705aca22493ffe58e21d": "yconalyzer: add 1.0.4 bottle.",
+    "3049411d32c5d4ee832cd5d391cca07c14cb42ef": "yconalyzer: fix build issue with clang.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "2ff9e8572c5b1d48c13e1fb15e054a3d2cc9d5bf": "yconalyzer: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1005997ff4edd081b29ceb5a396b636293923c52": "Add formula for yconalyzer, a TCP traffic analyzer."
+}

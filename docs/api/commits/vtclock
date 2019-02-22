@@ -1,0 +1,11 @@
+{
+    "e7ab98420a34033acbddf6b4f3d8722cff9f671f": "vtclock: update 2005-02-20 bottle.",
+    "28637c50c7b7b49f39adfb89bec7c2bd57519ada": "vtclock: update 2005-02-20 bottle.",
+    "a39695d1644468eddf8c64557dafa394aee49609": "vtclock: remove redundant version specification",
+    "30b02692be3fe6b6bf5dcba56e3f09a8737c717f": "vtclock: update 2005-02-20 bottle.",
+    "65fb5b745669ae130178901c36aae8be3cfc2414": "vtclock: use secure urls, fix audit warnings",
+    "f0156f7eddc3320a75cb8178b067070921230e72": "vtclock: add 2005-02-20 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2b6890a54acacf2ef63c22a45617f30939dad31d": "vtclock 2005-02-20"
+}

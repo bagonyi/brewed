@@ -1,0 +1,21 @@
+{
+    "16371ea5bfe42399176eb217ee405e08676e7432": "advancemame: update 3.9 bottle.",
+    "c41697068307a6542097a2ee66fefcf8f81f4e1a": "advancemame 3.9",
+    "6873f09ac528e747d88c09e08d0c933d88de70aa": "advancemame: fix dependency order",
+    "a0d2dbd1ec4a550a3c00befd3ace54d9abbb7ee7": "advancemame: update 3.8 bottle.",
+    "2365baa91f4482b4f761511148d26377a6d4416a": "advancemame: update 3.8 bottle.",
+    "5ccf3a015d733a49ba8e7b742892f38ef2003656": "advancemame 3.8",
+    "38119ae0c8db099b23742864edda1015d7140ed6": "advancemame: secure url(s)",
+    "7ab0ef6a96054c9e4fb0fa8a1119b361aa16109c": "advancemame: update 3.7 bottle.",
+    "57bc3a77bebc0f825b230873917627d8e4e2b4dd": "advancemame 3.7",
+    "f8355302e5d98ba58606dce75a7fece182c9fefd": "advancemame: update 3.6 bottle.",
+    "e4dc57de3234ca19990b32aeeb8c2bf61aadeb69": "advancemame 3.6",
+    "b817247f2dd4a7bb368d73916c14435a22bd501e": "advancemame: update 3.5 bottle.",
+    "e9fbbf9a01ee90696791184f9202de81e3fde3c5": "advancemame: update 3.5 bottle.",
+    "923136d057d86fbeeaac5a72a7e49d45ea96275d": "advancemame 3.5",
+    "250e8094977628db7445c6f3e5d7744178e025b2": "advancemame: update 3.4 bottle.",
+    "52bf3e10f5bc5b50fd10e7c993ebe08bba796ba1": "advancemame 3.4",
+    "1481f647314098eca371d08b75c31cacdd755988": "advancemame: conflict with advancemenu",
+    "1cdac5b2f9bb6f49d6ceff4ed2facda642bf9c82": "advancemame: update 3.2 bottle.",
+    "aa1d724c58610e08bd51bff6e464a2dede54caf2": "advancemame: import from homebrew/games."
+}

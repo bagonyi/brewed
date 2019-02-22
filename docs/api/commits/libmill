@@ -1,0 +1,20 @@
+{
+    "0cff155968a9fa74f2f3d3b28b3e99b8716f96a1": "libmill: update 1.18 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "92755d76c1736bfc931b35893d18b41f150a8380": "libmill: update 1.18 bottle.",
+    "e2d44e56a676e368512fbf7af554f14ba9c2378f": "libmill: update 1.18 bottle.",
+    "3bb196feca4f27d0792e84b7dc87247cba42ae14": "libmill 1.18",
+    "479bdd818e81676e94f0dcbc3d6c88eff5c37ccb": "libmill: update 1.17 bottle.",
+    "0881af9c2afc87b3add99b5a753fb59f9bb55619": "libmill 1.17",
+    "9136475dcbd765547c8fda06efe691b87ac6a8a5": "libmill: update 1.16 bottle.",
+    "52da56c3e7c9ad644d3c7506bf1e028534c0c322": "libmill: update 1.16 bottle.",
+    "154fcd6c6fe366f4650121d3524f079e73d6524d": "libmill 1.16",
+    "7a1ca5ed8fdc2f30887dc7cdaece203d7408588c": "libmill: update 1.15 bottle.",
+    "7df30ad89f111f70118f25dcaddd52fdbbdd7676": "libmill 1.15",
+    "89c1a7358d54d9adc4fc2a8316e089384e865fdd": "libmill: update 1.14 bottle.",
+    "f03ed2c1fc4a3db5b5eb8b39ee5e5e031dac5e25": "libmill 1.14",
+    "e89447bd4a2750e8dc613d75f96c21ad1e9e1ec9": "libmill: update 1.1 bottle.",
+    "8dac5d3e50989790a1fc7d03fb5e7df0579bfa09": "libmill 1.1",
+    "719d9ef424aabf87c5cd4881557167ed947ab17d": "libmill: add 1.0 bottle.",
+    "b8af4baba2a670b3ee5cd7000f9ef53c4793f42c": "libmill 1.0; import from dev-only"
+}

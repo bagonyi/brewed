@@ -1,0 +1,20 @@
+{
+    "72aca701103db5e3d3e57136d3b8b3cf2c21312f": "asio: fix rubocop 0.65.0 style.",
+    "e3fb43c0c20dff22e3da5c0ed88af20f9b51510a": "asio: remove checks for old compilers.",
+    "47c0808fc4dcc5b5e815d3a4c481e76ebf1c72d8": "asio: remove options",
+    "fc4d246bc034c28d9f03e3642de40f0ddbe05f83": "asio: update 1.12.1 bottle.",
+    "52d74de5af2d2f1d71cf6217ec07fcf589ac7127": "asio: update 1.12.1 bottle.",
+    "51abe2af46b5345a8e36fa5356d9fab3b6abe614": "asio 1.12.1",
+    "b882a2860a91f7d11277c040d4e89521263e53e6": "asio: update 1.12.0 bottle.",
+    "0821beae8a66ee99d37f5385929eed620e200c6a": "asio 1.12.0",
+    "eabbbd9b1cb9b3ee909118ee12359cf4daba95f3": "asio: remove C++11 option",
+    "76f52faeef5f6356a92b863b87fb17b8bf5bb728": "asio: update 1.10.8_1 bottle.",
+    "6a97d4d70a7b483870c40a34691bdea2c3c1d0ed": "asio: update 1.10.8_1 bottle.",
+    "fe303b47e6f1ef044b0d553b66dc7c0dcd483205": "asio: make boost optional",
+    "e47fa58548e8407aed6e1a361f0355194b3d7b37": "asio: update 1.10.8 bottle.",
+    "9a80cad3a1186e1d7ae09f479ab07322b2f989c9": "asio 1.10.8",
+    "afdc46b2c7a043527902d502b5ab102418ec8837": "asio: update 1.10.6 bottle.",
+    "3ee02cf25fa83e1b1651bc092093ebfc763d49d5": "asio: use https homepage",
+    "4cd9458d864b008d9eb5eec8fb6860a24ecbd7ed": "asio: add 1.10.6 bottle.",
+    "98d6b49abdf5e18d8e777cb1f5015a912b3471f1": "asio 1.10.6, devel 1.11.0 (new formula)"
+}

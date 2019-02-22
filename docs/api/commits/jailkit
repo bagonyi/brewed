@@ -1,0 +1,16 @@
+{
+    "4ab262f91f71900cb5a567a268a8f3d5a9316099": "jailkit: update 2.19 bottle.",
+    "f39dc7a83525faa30220a356a07d3cb4bbdb71f5": "jailkit: update 2.19 bottle.",
+    "19d09ab9b2c227a66d14e1d03d78f554279a723d": "jailkit: use https for homepage and stable url",
+    "ad03dbdaf427f1b99a408b9a8b2e872d528f7fff": "jailkit: update 2.19 bottle.",
+    "cb09d38a1d891fb755251b26f9211d1da866a2df": "jailkit: add 2.19 bottle.",
+    "ef6530d2a5f576697e10061b2f7bb6b489679967": "jailkit 2.19",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "07ce7de4fffa1f88e94760a11ba1ce8ff25c3f20": "jailkit 2.17",
+    "d1a0acfc58acceefc496bb2e618dfe6a7a61ab57": "jailkit 2.16",
+    "6d53a36b956330ffbde5c5e673aa85437090f7cf": "jailkit 2.15",
+    "f27443a4f6efa3d477031afc566fbd0e7835f154": "Jailkit 2.14",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "0dc91d4192f23b5e20bd4605e8f67c1e43ddb860": "added formula for jailkit (v2.11)"
+}

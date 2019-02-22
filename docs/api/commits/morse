@@ -1,0 +1,9 @@
+{
+    "0cb92ccb02a17eff462dff48f6b86a054ff693cf": "morse: update 2.5 bottle.",
+    "569ee5a8f77dca0566fb3453b268394881b9806f": "morse: update 2.5 bottle.",
+    "48ddaa48dab989faac854e91dd8710d4e308a9ad": "morse: remove accidentally added bad test.",
+    "48693dc79bb4d52f68881e2e218e537c28f5d218": "morse: add 2.5 bottle.",
+    "01322491d730e7b35d112bd59df7bec59344807c": "morse: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "a67b7c86ddef064659fb7d167bd3b2fa56af1dba": "New formula: morse"
+}

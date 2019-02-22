@@ -1,0 +1,22 @@
+{
+    "51035e69c371963a7d96d6ad5c64e46229a31fd7": "userspace-rcu: update 0.10.2 bottle.",
+    "1d84e187586a8bf2a8b9004194f9801c9c7473bb": "userspace-rcu 0.10.2",
+    "ae9c8fb8a92df5cf880fdbc3c29b05f0849f25c2": "userspace-rcu: remove old code.",
+    "0e1166efe7779ea7d5c04c2f206e50b6990840d4": "userspace-rcu: update 0.10.1 bottle.",
+    "17f21db1b64c7329344451d06833f5932e170da8": "userspace-rcu: update 0.10.1 bottle.",
+    "8c5f51901f53dbc8532dcc30a21242fe343ab461": "userspace-rcu 0.10.1",
+    "238f27e67641404ca9a074c3f1067adc62c6b901": "userspace-rcu: update 0.10.0 bottle.",
+    "fd13a88b9eb564cf1670bc86fee37c038b963f64": "userspace-rcu 0.10.0",
+    "07084186302d3b6aa80b0fe89daf815914c6931f": "userspace-rcu: update 0.9.1 bottle.",
+    "58b68d6f97c18964616f3e00f801b9e8624d019f": "userspace-rcu: fix rubocop warnings.",
+    "93d538b3c8af2763246c3a000eba24566c7d1cfd": "userspace-rcu: update 0.9.1 bottle.",
+    "ce2d1f0fb0be87eb5db518746c96fd106205c238": "userspace-rcu: use secure url in comment",
+    "a0dc0a61575b3fef5220e05b620f3757d08a8e3e": "userspace-rcu: update 0.9.1 bottle.",
+    "1526365979941124d39d8d2dd4b288722d6313b9": "userspace-rcu 0.9.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3787f385645ff219f9c31c7a07273471207dd939": "userspace-rcu: update 0.8.7 bottle.",
+    "e49b9e898a844334521b33c232194f95e063a2c1": "userspace-rcu 0.8.7",
+    "0566f9e23d37d2cda12bde4cbbf784ecfff01e38": "userspace-rcu: add 0.8.4 bottle.",
+    "02eb88ff9671e90072b5c3f844d235a37c6b1e68": "Use doc helper where appropriate",
+    "8af70dac7cb14747a2c28c7ff86919561f233d1c": "userspace-rcu 0.8.4"
+}

@@ -1,0 +1,17 @@
+{
+    "a9725397a1ea265aef01e53b12bc6025d7ff263b": "dcled: update 2.2 bottle.",
+    "3e9a1fa2ec66866d2eee3b3f865eb247fe7993bf": "dcled: use valid command",
+    "1a96fe377bd34fdb161fac2d85b54862fa5529ab": "dcled: add test",
+    "072b5276166f764c01e7be4dc0d0d7a9a7843732": "dcled: update 2.2 bottle.",
+    "3db78637528060c5764423ac6fd71669342fb359": "dcled: update 2.2 bottle.",
+    "5803bc5608e76989d68d455ea783fd6d058338d0": "dcled: add 2.2 bottle.",
+    "c2e38675f23a95cf787cc39c611962d1cd2225f2": "dcled: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9b50ef1dd6bd643b32e839044d821db8fecfb9a5": "dcled 2.2",
+    "afe4fb1a0c2fa55c5ba29e46a272c71f9a84ba37": "dcled 2.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "64ebd9901612a9f8c0fe7f12121b3bfd67bf941f": "Updated Formula to 1.9",
+    "eba8ad89e8f6a6b6e960124303ab074d294fcf81": "New Formula. Utility to operate Dream Cheeky USB Message Board"
+}

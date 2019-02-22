@@ -1,0 +1,12 @@
+{
+    "ad7d5a2474280811e06252284e8e5e4414ed84a7": "tomcat@6: remove with-fulldocs option",
+    "5dada9896f0fab1f0b7cc1db42c65caea0c5cdf4": "tomcat@6: add mirror",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c3dcc818ca4346093b3c9a25d3cd86bb17639156": "tomcat@6: use assert_predicate",
+    "5fb4cf4f55b5e775d9466b9a8545c2033d2e97f8": "tomcat@6 6.0.53 (#17330)",
+    "45f4e388cc9ce50a33796a8ce3a375a294c43d93": "tomcat@6: remove redundant version specification",
+    "0c791d15ee6808a897625f8926cc89c646a7805a": "tomcat@6 6.0.51",
+    "819deac6874031eb4ab240d93c82a85acdf2300b": "tomcat@6: use keg_only :versioned_formula.",
+    "b965650dd3444fd8b1e71352f70be844fa48d964": "tomcat@6: import from homebrew/versions."
+}

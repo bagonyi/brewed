@@ -1,0 +1,16 @@
+{
+    "2a2996af5336f38c64b303872a69be13ed37ed6c": "sshrc 0.6.2 (#29851)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "dbcb48f8baffdcb99325b604eb95809c2e6458f1": "sshrc: fully scope test system call",
+    "d13064e544491a998363303b479786f9bc8d1e8d": "sshrc 0.6.1 (#828)",
+    "e594edad2b911129bffed9d4ef3c588c303c30ef": "sshrc 0.6",
+    "7386fa59555b8f47a4fc9638d5a7ae5e142fbbba": "sshrc: Added HEAD configuration",
+    "7ef6b47865031408b4c8d8ac919b67c0e9e9e356": "sshrc: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f5b21004235d17413722b51ec2def485315df9d4": "sshrc 0.5",
+    "7f03b38ec9462ad46cf4e594804db75aeebdf710": "sshrc: remove duplicate HOME declaration.",
+    "6d02946441f649132924e46036ad87d945421f52": "sshrc: add test.",
+    "0a9b64d491339c5da9353edb5cff507a72c9ca95": "sshrc 0.4 (new formula)"
+}

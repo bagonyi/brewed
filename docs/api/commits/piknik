@@ -1,0 +1,11 @@
+{
+    "0011ca5aa944f90c9956e987838a3b5aff138872": "piknik: update 0.9.1 bottle.",
+    "b47f6ebe254ebc978d569f7e2710608757c527c0": "piknik: add service plist (#30215)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4936127097243868d79c1fb11c361c76370fb0d2": "piknik: update 0.9.1 bottle.",
+    "a8cd712c6ed7c4ae0b6617cd41f42fad3926ca46": "piknik: update 0.9.1 bottle.",
+    "6fb28eff7b0481cc6abb0fa96c439d2b3bc3a13f": "piknik: replace `brew --prefix` call with fixed path",
+    "bde9a46a9df538c9999b8d3deb52a535243b6f4f": "piknik: add 0.9.1 bottle.",
+    "c273bb3642d393b90486a21fbae4e50169a78dfc": "piknik 0.9.1 (new formula)"
+}

@@ -1,0 +1,22 @@
+{
+    "fc364bf847ab385a02d3b125f68469699b5dc759": "ejdb: update 1.2.12 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4ade1217ad257dd4aaa149fff2c0e9d79ab7d79b": "ejdb: update 1.2.12 bottle.",
+    "eb852b832ab49a4acf184e14734d1c2ff4f26d98": "ejdb: improve test compatibility (#11914)",
+    "f3235a2af83bf5d5e3fbd439c80ffabc93f4e581": "ejdb: update 1.2.12 bottle.",
+    "53a3bb5b79c2ff7a677cf2211257b2d3f0d3fd76": "ejdb 1.2.12",
+    "bcb3b7d283a994c2a9a2e65930cedc10d9638ff1": "ejdb: update 1.2.11 bottle.",
+    "fd0a99446f1e0b7bc99dc8d7261d5adf5c7a1a15": "ejdb 1.2.11",
+    "b7f1be67814e7c39cc541a121ad967ffd979a756": "ejdb: update 1.2.10 bottle.",
+    "77d698e10ac05c927755e50a0a8300737747542b": "ejdb: update 1.2.10 bottle.",
+    "d049401068fdf6bf92523d7dba6fa9cc07095a3d": "ejdb: update 1.2.10 bottle.",
+    "44ef41918d1ce63da1386d5493d91a50d780c5dd": "ejdb 1.2.10",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "79ec36f9768f4b491c3dff5a4f1a69e0d2c69989": "ejdb: add 1.2.6 bottle.",
+    "8121e6f537dd575e30472b1cc7d3cc5e0c85823c": "ejdb 1.2.6",
+    "b12f1eaf7ccac4d47cf64f7dda01566a3b23eedb": "ejdb 1.2.5",
+    "1e58d102b3ffd5e84298b7a61d88c42c53cecf3e": "ejdb v1.1.25",
+    "64945e90fdbcfa79d3ebb015754f65038543d307": "ejdb 1.1.24",
+    "52e1cf1eae8f3fbec71760b48d23c2bd1d4cb5e2": "EJDB 1.1.23"
+}

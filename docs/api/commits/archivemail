@@ -1,0 +1,17 @@
+{
+    "a751b7e04926c1e01f58e9098061b1cf9c8fe9f1": "archivemail: update 0.9.0 bottle.",
+    "2c45da13bbd704408856259767d9d54398fbaf58": "archivemail: add comment",
+    "51930e9bad71f9d84f43a470431d11b3fc0849f2": "archivemail: update 0.9.0 bottle.",
+    "61b3571b286b34faa9c0a789cda3323d2df13cda": "archivemail: depend on python@2",
+    "d143e4b2bc672c7218f739ae66e61e271c48b347": "archivemail: rename python@2 dependency",
+    "574086f242a9325be5ccc9a304a8c9877c9ade55": "archivemail: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "729223a42a8c85bff7080c243754906609d90430": "archivemail: use assert_predicate instead of File.exist?",
+    "7851f7c4a78950dae3741e0c78a0cec3fc61d915": "archivemail: update 0.9.0 bottle.",
+    "04e46583204b6219866e9267f21fe802a4e5625c": "archivemail: fix audit --warning",
+    "b8de55b64beddc3a49d7a93fad9b64e4ac60b105": "archivemail: update 0.9.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "788b4a353abc41399afc4d1d8b285ce9b1a67800": "archivemail: add 0.9.0 bottle.",
+    "f3e436a3b456603a73f662e6a09c5c59376bb6e2": "archivemail 0.9.0 (new formula)"
+}

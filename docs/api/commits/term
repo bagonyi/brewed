@@ -1,0 +1,16 @@
+{
+    "cda00fe2faf777fc75130c196b6391c3b115106a": "term: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "14ecacbb28a426be8512b9a45f9dc8caa699987b": "term: drop ScriptFileFormula",
+    "8ef0b46216a3ab8af8d01c6cd3c00898e020afd4": "Use githubusercontent domain",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2b97dd1ac7791bae8de8d3907aa757cb2fdc8294": "Fix inheritance for ScriptFileFormula.",
+    "83a92797f60953ad5d139a62d886c256ed693bce": "Fix term formula homepage and EOF newline.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "c81d5b6ca6dbf03658061a9ca0c4dc1650260640": "Refactor",
+    "93112b88e6f7fbd9fe02545a8059b080b324e40e": "Refactor class heirarchy",
+    "97b1ada08d309b0c2d567251c534dfd08192b383": "Created /Library moved brew tool to /bin"
+}

@@ -1,0 +1,17 @@
+{
+    "e90da0487f4bff6c785b136eaef86c095b861611": "connect: update 1.105 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "e5acda794fa5262be91c279890174b253b8f3b1d": "connect: update 1.105 bottle.",
+    "504047a71265fe3b1b9b8237254a5c67a2b95b53": "connect: fix audit 'description must start with capital letter'",
+    "4b3c80e1b05653e83601d67f2b45c14235a41ea7": "connect: update 1.105 bottle.",
+    "eca8622a6fbcd0c23ced89c907d7174f42a0e3c9": "connect: add 1.105 bottle.",
+    "ceedb4851c9cd4a4523144a78140c6f2a44281ec": "connect 1.105 (migrate from boneyard)",
+    "3e0b95b1ac8ec2c4e7842027ea49096a0afae444": "connect: redact formula, move to boneyard.",
+    "dfc265a7acce1ba93f18a9a4ca6d9a5fa8496ffb": "connect: fix audit warning",
+    "dbae90995cf7fb5db6f4998dce211cc92782147f": "connect: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6b0f64e8b4b1df7808abd2553d9e8dccb3347445": "Use ENV.cc and ENV.cxx where appropriate",
+    "8240668bbdf89be05cd4e63568614a36dcdfec89": "connect: fix url",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "02c9de37da1a36808601a05c2bec1f6d059f6a8d": "connect 1.100"
+}

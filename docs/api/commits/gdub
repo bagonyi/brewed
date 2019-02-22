@@ -1,0 +1,10 @@
+{
+    "bc04090432a43d9cfbc3a802bd2e14a026b1bf80": "gdub: secure url(s)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "ba321f06d3f2a46b34fdbf0dcb381d7aef449f6a": "gdub: remove gradle dependency (#5073)",
+    "2ca7676536d76c5e732c12d023b5bf1df220c4de": "gdub: fix audit warning",
+    "49f5a8dc721ddf505e1eb5b66008f80b36078865": "gdub: update description",
+    "4c5e2b5d74ae82bef3db9b7d6e8ea25d30841007": "gdub: use new java_cache env",
+    "d57bbedf0da491b11404db5d377c6586e3e7f6b5": "gdub: bottle unneeded",
+    "2e1f30c86cdb9f1781a82cdf93a883b875be9dd1": "gdub 0.1.0 (new formula)"
+}

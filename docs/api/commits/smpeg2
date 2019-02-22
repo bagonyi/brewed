@@ -1,0 +1,12 @@
+{
+    "5f77d047406e56fc028ebe6bb2645a488330d73b": "smpeg2: remove references to pre-Mavericks.",
+    "f9c903a2518c293eedac8e3e1fdf110293488aed": "smpeg2: update 2.0.0 bottle.",
+    "89fe0c3048be0966d0c757b5df610ea51203632f": "smpeg2: update 2.0.0 bottle.",
+    "4ab8e16f5b25da6146c7e9b2332a92e8bc176fec": "smpeg2: update 2.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "246ee695110bc86af3f7952b50250eece585a73a": "smpeg2: update 2.0.0 bottle.",
+    "8f0e6199ae648ff16e293d5c557c1f975b032ae0": "smpeg2: use https homepage",
+    "4bfe1ad31ecd5075bf3268ba89ab02bb8fa98081": "smpeg2: add 2.0.0 bottle.",
+    "5d3ebe602a40dcc3247ef00fff833d0823a66720": "smpeg2 2.0.0 (new formula)"
+}

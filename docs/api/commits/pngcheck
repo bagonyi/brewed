@@ -1,0 +1,18 @@
+{
+    "c1278309a146c0a47f6a60484db0d859950cc015": "pngcheck: remove references to pre-Mavericks.",
+    "b382779b01aba7d3f08c1fc43fbb48e4fa6983fd": "pngcheck: update 2.3.0_1 bottle.",
+    "9a4382ea08fe364d9cdb423f5a256b9a8cc84248": "pngcheck: update 2.3.0_1 bottle.",
+    "0bff67ec1268f59adbf8980291f2b38cb6030cc4": "pngcheck: update 2.3.0_1 bottle.",
+    "51bc5f46b2f4524edafba391345419ec7c8a1107": "pngcheck: update 2.3.0_1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b1050c1fb6ae50832a0a8b696e451051378f019f": "pngcheck: fix sha256",
+    "c77d17f164a20e49ea7c7ca32d1e8ba7c7df3356": "pngcheck: use sha256",
+    "4d3ad2fb2fb4bc002d0498ecf2a4682a68bdbb34": "pngcheck: modernize and add test",
+    "473643b05300f6731f2605a70644976c37d9a568": "pngcheck: add 2.3.0_1 bottle.",
+    "e4db89460959324efe385247bcdc7ded99e5a4df": "build pngcheck utilities using the provided Makefile.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "bd0f03081692048ad79b84a4aa68f116880832dc": "pngcheck: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "743e85b5f65e87fa821caace93c7ce985743744e": "pngcheck 2.3.0"
+}

@@ -1,0 +1,11 @@
+{
+    "7573888f757f08abfc7278a20bf53b877e6a943d": "php-cs-fixer 2.14.0",
+    "a078d6b22ce8087af2b7de4704c52f30df486854": "php-cs-fixer 2.13.2",
+    "3eb95887d6b646d9d5836c4526f1f2bf5dc76dec": "php-cs-fixer 2.13.1",
+    "431032bbd376e4f26d19045a5890975ed7649f81": "php-cs-fixer 2.13.0",
+    "b2c874fca2f8a24ea123450c8ff4ec00fb06c867": "php-cs-fixer 2.12.2 (#29823)",
+    "7537427ad6083b91d93881b061da8415ac81c675": "php-cs-fixer 2.12.1 (#28855)",
+    "56a3e67e9587960ea708f097be29fc7c8f6cfaea": "php-cs-fixer 2.12.0 (#28609)",
+    "aa66e88195c35b899480780a1ed62a03226213b5": "php-cs-fixer: update homepage (#25873)",
+    "0c69d4a255a421ff50d34b88298df843c2e32a79": "php-cs-fixer: import from homebrew/php (#25733)"
+}

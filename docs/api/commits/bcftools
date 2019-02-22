@@ -1,0 +1,12 @@
+{
+    "773d83183964e7c28a12b1d4fa9217ab46ea29b6": "bcftools: update 1.9 bottle.",
+    "cc1bc87532e918d754b0884f0882dbe4f7b2b074": "bcftools: update 1.9 bottle.",
+    "ded3a62c164784a0211930f3eb5f437a6474e175": "bcftools 1.9",
+    "f18fbd2e4708ff608e38f8d66386b49d1bad7d73": "bcftools: update 1.8 bottle.",
+    "f0d2007af6e0410d633fb59edd7e463b2db8cd3d": "bcftools 1.8",
+    "d64e8abd7ec8b69862a0c0db9e929ad26bcaef7c": "bcftools: secure url(s)",
+    "ec38b01cbc337bbcbd34f3ac2c52c43e2c08aaec": "bcftools: update 1.7 bottle.",
+    "0e99fe66ef61e9a2602577bc96afb5c4c79fcdbc": "bcftools 1.7",
+    "6c55913c68f2d0fc4c2c147802d827006d427ee6": "bcftools: add 1.6 bottle.",
+    "00e7c48ec957c4180729b82392cb2a36a60c2e34": "bcftools: import from homebrew/science"
+}

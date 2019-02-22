@@ -1,0 +1,19 @@
+{
+    "f17086bfc4654c73ab95903ca8cb2921cfa1121a": "libbs2b: remove references to pre-Mavericks.",
+    "1742548a104f76905bcd35e1f278ddd94ba6d694": "libbs2b: update 3.1.0 bottle.",
+    "d6669d083358e2637c88351b9a931487f7d8ce3d": "libbs2b: update 3.1.0 bottle.",
+    "656e577b3018cad64f1f58c64f77031b7d455878": "libbs2b: fix audit --warning",
+    "98945990d2c82be4b5d431d5565acbaab26677d0": "libbs2b: update 3.1.0 bottle.",
+    "f87d6efd7f168c191e1f7c9fd5d5cd86f2378224": "libbs2b: update 3.1.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0d999bd135424773a2bc7b907bd30cbe12ed698f": "libbs2b: update 3.1.0 bottle.",
+    "30f40b15227fbbb5a4081a11dd9be33fcca95418": "libbs2b: add 3.1.0 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "52648327e4718f127310d8e3b716931e8a4362fa": "libbs2b: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4a4184ad41458279a5b63393f158afcc4692a353": "Fix libbs2b brew audit whitespace complaint.",
+    "b3a77e8b8abdf2a0daa833e897d0d060eae98c1c": "added formula: libbs2b"
+}

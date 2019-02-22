@@ -1,0 +1,19 @@
+{
+    "70e1763cf93495ec07cbb9845255ac5e89c35992": "hamlib: remove references to pre-Mavericks.",
+    "f661abc5110f2518ada02714a2586aa0131e0193": "hamlib: update 1.2.15.3 bottle.",
+    "a06942409a41de07e9eba23d813d0a849f529b9d": "hamlib: remove :run.",
+    "ac7015ea64feba0a199d90f16b628ee0fcefa52f": "hamlib: secure/fix broken url(s)",
+    "2799215345aa369cb731425fb96389c358c22bd9": "hamlib: update 1.2.15.3 bottle.",
+    "cd214fb82b775dc00a2ae50b7250f5bc888ecf4c": "hamlib: fix audit about sourceforge link",
+    "17fee13c63df7293301c16207b79eb36328df3b8": "hamlib: update 1.2.15.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "6cfcc07fd44f1660ba7d4c1b8ba4503b997f827a": "hamlib: update 1.2.15.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f2003a8f593ca5161909b3d1284842317d3659f1": "Update libtool deps",
+    "673ef380a4a590e4bd372aad9852aa5734b97e8a": "hamlib: update 1.2.15.3 bottle.",
+    "8302b7b5f1a431baa3c23f9f9787227a2906ca7c": "hamlib: depend on libtool at runtime.",
+    "a7242c41bada3c1e711a358cf844c83877eebdfa": "hamlib: add 1.2.15.3 bottle.",
+    "ebd5c74126216970bf328ae2de6c7d101f572bf3": "hamlib: fix test",
+    "67568b36215fd9acd4885b63eb3398908b055c18": "hamlib 1.2.15.3"
+}

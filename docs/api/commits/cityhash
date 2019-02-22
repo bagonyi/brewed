@@ -1,0 +1,13 @@
+{
+    "efa93264d6188855c9a00f2edbc3d99955ea424d": "cityhash: add test",
+    "a2a74d8e695ca5fbb258cda6a1cfe53e83e0496e": "cityhash: update 1.1.1 bottle.",
+    "595a93e0b862a9ef32c5cdbd5a6fa6b4eeb2c15b": "cityhash: update 1.1.1 bottle.",
+    "d1351d7662c2bd148f2011c87bef896154a15bf0": "cityhash: update 1.1.1 bottle.",
+    "2253a237af5445257a95a7d86022ea4e96634633": "cityhash: migrate to archive URL",
+    "2674b87420c4156067e2150924292251235e92fb": "cityhash: add 1.1.1 bottle.",
+    "05cc53787fcdc086e6cdba48ba77a5bba9650436": "cityhash: follow homepage redirect",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "62ae9e29bb87bc5df171dbc69b6480612067c872": "cityhash 1.1.1",
+    "e553beaf2b268450a436c725ce9fe4ab571d4571": "cityhash 1.1.0"
+}

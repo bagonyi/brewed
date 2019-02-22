@@ -1,0 +1,23 @@
+{
+    "c4f080d162a69022a7f0ccc5128c0476432384f5": "fdupes: update 1.6.1 bottle.",
+    "6385add43a0bf714fdb70a941d370032645b9d63": "fdupes: update 1.6.1 bottle.",
+    "eeefcb583b47c367e5bd583a3281c7fc1f1e198b": "fdupes: update 1.6.1 bottle.",
+    "a78a38b78950f888913b20fce6e182e77b97ae56": "fdupes: bump version_scheme",
+    "16a9ea8bf85fe7187db14d5ea1eadc42982fc333": "fdupes: update 1.6.1 bottle.",
+    "26c531aa64ce5a7d1d39ea1c770207c9885aaf2c": "fdupes 1.6.1",
+    "db9b34ab890ad7cea3a777c4046616754140dd68": "fdupes: update 1.51 bottle.",
+    "20ff959c41d5f3a4c67c551a76bf6bea7dbec949": "fdupes: update 1.51 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f94560f0104947cfb5ac49a11fe6483be178e39a": "fdupes: add 1.51 bottle.",
+    "1bd1eba1a7302b04e30e306255ddcf3d5ed2cc29": "fdupes: update homepage, url, and sha1",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "463cfe47350ff5dacb7e2968dabdc0c20c189350": "fdupes: add test",
+    "44bc75a694644e03e9336f2a92db7afd3317937f": "fdupes v1.51",
+    "153f5200bb6f7b05587a7b5b4f38f7b7fbe9ddda": "fdupes: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d3c962a9c9e12dbfdae7b2f1aa822756159fb6dd": "fdupes: update URLs to Google Code",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "6700c4cbe4d99aa65acd2cd9aac8f7d93c611fc9": "added formula for FDUPES"
+}

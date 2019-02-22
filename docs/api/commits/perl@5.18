@@ -1,0 +1,11 @@
+{
+    "d1675dccfd0e63dcb27e8eefcec984803a991b7e": "perl@5.18: remove options",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "a4ae77340091d810bae54a87c03caade702497c1": "perl@5.18: update 5.18.4 bottle.",
+    "ae8114970c664ce741f912da4550d3ae92139886": "perl@5.18 5.18.4",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "cef4cc34d2a7c6cf5f54fcd4cc08788c942300ce": "perl@5.18: update 5.18.2 bottle.",
+    "78ebb760e9b96bf1e09d621481df595973f1f613": "perl@5.18: add 5.18.2 bottle.",
+    "3779396160f377bd34823ecdd810f1b6a7a1e1c4": "perl@5.18: import from homebrew/versions.",
+    "9ae7208bdf0c923b77830547a4f469c20c9a43bb": "perl@5.14: import from homebrew/versions."
+}

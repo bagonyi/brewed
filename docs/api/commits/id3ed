@@ -1,0 +1,12 @@
+{
+    "920bce42e205c31b281e480e5ccfacf5defa1074": "id3ed: remove references to pre-Mavericks.",
+    "09b3753cc63bdd065ce1efa04fe3b2223721ec90": "id3ed: update 1.10.4 bottle.",
+    "18e6ac5e45f2770377f27234f7ffdb6c99274b9f": "id3ed: update 1.10.4 bottle.",
+    "0732dea4234876592f8de3c558a63e806f18c605": "id3ed: update 1.10.4 bottle.",
+    "f0a2e12312f979f73b0dcb6fbc0cc39913e5528a": "id3ed: update 1.10.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a690545656813603405d013aba6e58ab0a06b402": "id3ed: add 1.10.4 bottle.",
+    "af5515f532d579e9d9f2c504f9e201a259641b0b": "id3ed added"
+}

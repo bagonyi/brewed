@@ -1,0 +1,19 @@
+{
+    "01e635f915e5b22af5cd6616f435685515c42a6c": "csup: update 20120305_1 bottle.",
+    "fbc79014c1f2e756dff3d23c23bdd47c1eac36e4": "csup: update 20120305_1 bottle.",
+    "8444568b465b7ae2fbe11b7ccae6425e5a4f2898": "csup: update 20120305_1 bottle.",
+    "e79d8f69ccad61d39d1c41f15321e6c365555550": "csup: update 20120305_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "718d8710cb707224a7bf674d6ec9809f1172a6b5": "csup: update 20120305_1 bottle.",
+    "7241c84a10b59993dc14209d75de4280cbe83a77": "audit fixes: C 06: csup - cups-pdf",
+    "cfbefa0f5260d160c06122da213b832b3649543d": "csup: add 20120305_1 bottle.",
+    "9a91af92984e10960508718e6455627a5f4d69b3": "csup: revision for openssl",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "1006cb2928812a2266c922521037c2f57ff6c0b6": "csup 20120305",
+    "72261292ca1a0e7a4ccea11d3d28f13dbcb28bd2": "New formula: csup"
+}

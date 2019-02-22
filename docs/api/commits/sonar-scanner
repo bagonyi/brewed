@@ -1,0 +1,13 @@
+{
+    "b7c65c8d06099c928ad1246023c1a4d12715fccb": "sonar-scanner 3.3.0.1492 (#35852)",
+    "57b804fcc5d5e776c2f5ccd8a79c626b5e743928": "sonar-scanner: download url is now binaries.sonarsource.com",
+    "4afa817d584aefe78427dc9365f5571a152eeec8": "sonar-scanner 3.2.0.1227 (#28185)",
+    "ff508f1187919cfbc2e062dac41558eb825e2539": "sonar-scanner 3.1.0.1141 (#25305)",
+    "b241b2185b053aeae1f1a7765d42d6e07e771bdc": "sonar-scanner 3.0.3.778",
+    "ba7b506d9930a378c017a4f09a4336ed46a176d5": "sonar-scanner 3.0.2.768 (#13486)",
+    "5744683ad51b6187146bf8811fd9f23408d3f806": "sonar-scanner 3.0.1.733 (#12383)",
+    "8880ddfb38c7418fcea9412f01d4597c233f87b2": "sonar-scanner 3.0.0.702",
+    "88df0d71369f6262d104f5deec25989497f71ac0": "sonar-scanner 2.9.0.670 (#11405)",
+    "37862e2cdac53fc859dc933155ba545b53dc9cd3": "sonar-scanner: https homepage",
+    "6541fb946e5fbdfe92a93b87ba365ddac8bb7820": "sonar-scanner 2.8 (new formula)"
+}

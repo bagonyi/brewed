@@ -1,0 +1,17 @@
+{
+    "d916a326219357b01ff6ce52f0294baee9a8c933": "xalan-c: remove checks for old compilers.",
+    "ef39e8a53e4e1c00d7e274ac4be80c223601b9fb": "xalan-c: shorten long lines.",
+    "6a7c2811447a1edc8553539df6f0a2fa48e2094d": "xalan-c: fix component order",
+    "83593e98e2e053647a33265ac3c94e1d97198309": "xalan-c: remove options",
+    "4f9c23701d0757c99830d1f1c6362b27e8a8e5d4": "xalan-c: update 1.11_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b8f31c6e0c23918d170c6b982fb21e27729b1b56": "xalan-c: update 1.11_1 bottle.",
+    "9e7e151ddfcfb5923bd6ca1094b5f9fc1eed78f0": "xalan-c: revision for xerces-c",
+    "395654736154c8a922172bfa654a7d99932854ce": "xalan-c: update 1.11 bottle.",
+    "7cf86c8a63597d019bfaebe8da997bc139dc5f69": "xalan-c: drop universal",
+    "f3d552fc83e017bd5b8e33f044eb6dbac5bcc2ad": "xalan-c: update 1.11 bottle.",
+    "4c65258793e34ffabddbcd63b814bb3ac8a0ba4c": "xalan-c: add --with-docs option.",
+    "75d7f735bb1c5c9d8909587668a4c98098e22949": "xalan-c: use cd helper",
+    "ce21f45862d1fd83755705bdaee171bf20997970": "xalan-c: add 1.11 bottle.",
+    "a60d90aee928792a325be0fe9b45854df963e8b5": "xalan-c 1.11 (new formula)"
+}

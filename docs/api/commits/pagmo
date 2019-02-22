@@ -1,0 +1,7 @@
+{
+    "a677b92f649c093a45101e7888a9f5341a4d94d3": "pagmo: remove checks for old compilers.",
+    "65128ae9f4177ab121d1f2c0fc8dea47732262a4": "pagmo: update 2.10 bottle.",
+    "9a2a717852259f9e7010338d1e96a4c80e229827": "pagmo 2.10",
+    "a18163a065e46dd8395e99b44b00b738c760ff03": "pagmo: add 2.9 bottle.",
+    "f914e6a8c5d33d856bc8deb1d076f7835fb47ff0": "pagmo 2.9 (new formula)"
+}

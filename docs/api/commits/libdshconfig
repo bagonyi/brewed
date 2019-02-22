@@ -1,0 +1,17 @@
+{
+    "c6e9f3fa346b05e627c1cb2b438064a9358df6ed": "libdshconfig: remove references to pre-Mavericks.",
+    "200ba04e5d7736c56456bb3855a6141346b99cd4": "libdshconfig: update 0.20.13 bottle.",
+    "de1e4c33d683830f17d624876100669be3755daa": "libdshconfig: update 0.20.13 bottle.",
+    "7e495ca37a52838e0e77a8abbe1f1d870dd98377": "libdshconfig: update 0.20.13 bottle.",
+    "979e0b246dc4dde25835ca8f7bac67ef55c9137b": "libdshconfig: update 0.20.13 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "703f89e44896476481bd97f21b3ac636e9d5706b": "libdshconfig: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1861acefa7f776bef13afeae16e66f11136efeeb": "libdshconfig: update 0.20.13 bottle.",
+    "318461b39e370a9efe497bd8a5de119a4d8b0a8c": "libdshconfig: add 0.20.13 bottle.",
+    "728f206e0bea7280a0b7847b5c74f5dbeafdd2ff": "libdshconfig: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a16c10e3b87b78957def152ea16a11945b094deb": "New formula for libdshconfig"
+}

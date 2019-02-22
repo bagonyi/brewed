@@ -1,0 +1,22 @@
+{
+    "784e7097ae0777ebbda94b0ac6dc0953a57ff41d": "google-java-format: update 1.7 bottle.",
+    "04cfeeb46f4b10a1d6623fca8354bddd482e7856": "google-java-format 1.7",
+    "1d4671e4500eba4a2fde0aa5faabcd17920b5463": "google-java-format: update 1.6 bottle.",
+    "36a4d0416b08ab7fe14349648ec5334f7c84fdc5": "google-java-format: update 1.6 bottle.",
+    "5e5aa509dca67969ac54bd3aae936ad18eb8e35f": "google-java-format 1.6",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "150c67bb6de8c16e0a8a4bb083009ed3ff8ad6fe": "google-java-format: update 1.5 bottle.",
+    "98bae07e7c8e3facedd26b7919a3036786f2d2a3": "google-java-format 1.5",
+    "7556ace2f499866ad6d3f761b27216c22d2c410a": "google-java-format: update 1.4 bottle.",
+    "ba856796d1810c06483033ea557bad06c1454272": "google-java-format: fix checksum",
+    "16ee292a384b62737b4db2b850f7a47354f2d8f8": "google-java-format: remove deprecated ENV.java_cache",
+    "72b587fff00618ec767eacb1e53c4781e96fc8b5": "google-java-format: update 1.4 bottle.",
+    "3782d0efcd9fbb283a8ba7da532481ce124ddc86": "google-java-format 1.4",
+    "0d4457d9c1b0cc164444beee084a4838f9139ebf": "google-java-format: fix audit 'description must start with capital letter'",
+    "6d35fa62ff414021f00a54c57ab68bfc625fa99a": "google-java-format: update 1.3 bottle.",
+    "d695a97ed3dd741c557da2415098c60885fdeda3": "google-java-format 1.3",
+    "49e6cbbae66ff1f43edff04e71ce8821abfb22e2": "google-java-format: update 1.2 bottle.",
+    "8834d7eeec108a91e39a1904981a0c9d4ed70bae": "google-java-format 1.2",
+    "c1356cc82fa4ef9524100ea5a9164c4af546bccd": "google-java-format: add 1.1 bottle.",
+    "d8809ccf21dcf67c387e04833db3d80b4d946a48": "google-java-format 1.1 (new formula)"
+}

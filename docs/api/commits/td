@@ -1,0 +1,14 @@
+{
+    "3d09314bbb1fd3b0b9fce0441dc09df3a9f6fa07": "td: update 1.4.0 bottle.",
+    "1c0a2353af9bc71932333b45fbdf60c2c44f8deb": "td: update 1.4.0 bottle.",
+    "b1def9882c53e964783138617181a6734d2e368a": "td: update 1.4.0 bottle.",
+    "4ff8f7bae0b7e6841cd7a551a76fceeaf7c8fac1": "td 1.4.0",
+    "e71b63bb46909976aae6e59c5aeb6520edc78d84": "td: update 1.3.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0230a8e7a76ec20be690e39e069f551bc7e60676": "td: update 1.3.0 bottle.",
+    "d1f17cd52200f2dcb7ac0f5ea7614aaff4bd7c9d": "td: update 1.3.0 bottle.",
+    "674c6757748fdb968894aa224bec1ce7d20d8721": "td 1.3.0",
+    "e2f4f21113331912be790a3c6b98f1d7b8a19f50": "td: add 1.2.0 bottle.",
+    "c54eb02368d7ed15cd01e9b3640cb5ffebf24c0a": "td 1.2 (new formula)"
+}

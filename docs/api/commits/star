@@ -1,0 +1,19 @@
+{
+    "a5f5b41f05daa51c79387f1d7c415784a0ee4150": "star: update 1.5.3 bottle.",
+    "80643ee20f51f501e590b203778f0f5cdb15725b": "star: add test",
+    "027f9efa1e5b41b65335495cf5ac06c10e507853": "star: secure/fix broken url(s)",
+    "5db611ad5fec7da4456d94d4f400e2ca55c33ba2": "star: update 1.5.3 bottle.",
+    "1c2862c6264bb8544d8127da065439a455a202c3": "star: update 1.5.3 bottle.",
+    "06988ef9386c07e68c0b07530a958f63a6b4014f": "star: add 1.5.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a4b8ecf2ed4c51195bccb7b2e6e36595e916f5e4": "Use supported API for manipulating the number of parallel build jobs",
+    "40a7c9d315afeba3f57d6636bdaa957c26d272a1": "star 1.5.3",
+    "51256c7d34f5c9ff93aa4413c6132a0d4dd4d34e": "star 1.5.2",
+    "3fa817152e55a4701edb23e39d3ecb3b34b34881": "star: adjust files to remove",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d5952357c69593a09bc001ad7169d795d198d58c": "star: also unlink manpages",
+    "147846dc9a579c26a99e2fa609c0f26b1b9b911b": "audit: smake is also a build tool",
+    "39a19ffe86d552b14dfa9ba19811c8476e1ae505": "STar: Remove symlinks conflicting with OS X tar",
+    "5adf130aef818d5cb8766a3db1ae705a2b4f68e1": "New formula: Star 1.5.1"
+}

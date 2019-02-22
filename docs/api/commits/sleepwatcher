@@ -1,0 +1,23 @@
+{
+    "006bed0a408dfeb085d3dab9e340fec846a89a48": "sleepwatcher: secure url(s)",
+    "845b9bfb0e50ddb71ad8866b7bd9c2415bf70da9": "sleepwatcher: update 2.2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c1719384d79b86c7ba094dbe6bc703a3feba9bea": "sleepwatcher: update 2.2 bottle.",
+    "471f9c13c1a06579c8b3a6fde4f6cb36ab3990a0": "sleepwatcher: update 2.2 bottle.",
+    "81a388329079f64936f374ef0732fd25dcf6ee3a": "Fix 'inreplace ... do' single-substitution errors (#4022)",
+    "c99922914edc77a9d71c19532aee8908e5093f93": "sleepwatcher: add 2.2 bottle.",
+    "2f2c0655451068f57c97c8d86eec38c57516d11b": "sleepwatcher: fix audit warning",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "de50833a2b6473217317761fb6c5f21c81e00606": "Address style issues related to use of Dir[]",
+    "5120d4b19a8390b3336cd5478edfdf9124d28c68": "sleepwatcher: fix inreplace warning",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "299aea0c44b00f6c461e9a3fbf6b69e7768f5bbc": "updated sleepwatcher to v2.2",
+    "7ab5a2d901e7db4bd8e2993084ca0075f2724090": "sleepwatcher 2.1.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "620317ca6df6102aeb70eb73108fc3c22dbfeedc": "Update formulae to use ENV.cflags",
+    "af6972cdf36c42a2b0c7b55799caee89b065e275": "New formula: sleepwatcher"
+}

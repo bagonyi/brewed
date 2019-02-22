@@ -1,0 +1,14 @@
+{
+    "88eb314189d7a85e3bc9859b6636341db45a04b5": "bwa: update 0.7.17 bottle.",
+    "32cc4da05db621ddc73e643660e73ffc7199a6a7": "bwa: update 0.7.17 bottle.",
+    "6f0cf4a7c05b6fba576d5500f1f63c974d82a9e5": "bwa 0.7.17",
+    "810e9824ad010c85edfa84441b9bbe5a39651c2b": "bwa: add 0.7.16a bottle.",
+    "97bb0db32a90d01d42313e16145f25f1f297ac41": "bwa: import from homebrew/science",
+    "f7e96b7a2666a0b2d7d2ef3e5ede2f88c5152931": "Remove formulae moved to Homebrew-science",
+    "598b3aed1ce6baa50f1ad1f4418112175170be6d": "BWA 0.6.2",
+    "38acb5f3e7b0dc77e90ed7697f8ee0fb2c959c53": "bwa: avoid inreplace",
+    "55a5c0ed70159fb05ed7ba12d94e8be4677d1ff3": "bwa 0.5.10",
+    "4ec20d19c8827178c8426a3678b7bcfe3e3c8c21": "bwa: Update to 0.5.9",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8e259804f2ef23f48c0a2dd8f374ff402c249556": "Add bwa"
+}

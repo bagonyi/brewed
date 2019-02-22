@@ -1,0 +1,17 @@
+{
+    "057d6bfed8c34d9d9aab0afd8a4da9903d704ae6": "boot-clj: secure url(s)",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "ce345d800c547078adbb3e5d754cececbc4f21ab": "boot-clj: remove deprecated ENV.java_cache",
+    "fdf2584c2697061bbb1a4edadf12121d5ff63db8": "boot-clj 2.7.2",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6cf69abd5bd24ff15d62fed6448fddd7a1434f89": "boot-clj 2.5.2",
+    "42da81ed849c016e31c67e6e2cdc65d632f46a41": "boot-clj: use new java_cache env",
+    "d82578044cb74601cd3b8b93910c70b8123458a8": "boot-clj 2.4.2",
+    "62e3d0a8a9a96d9f780a37e9fe33fc6c70b4efb5": "boot 2.4.0",
+    "1c0885a899fe236498d4abc8733526735c8ba2cd": "boot-clj: fix test for sandbox",
+    "c86914fe454c9b278517cd210b935e1e0677c01a": "boot-clj: bottle unneeded",
+    "071587cc0cf8d45c23f80056bd791ca641adcaf0": "boot-clj 2.2.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "72e5add0196c9e566ce64738f9c17c1d0dd6b678": "boot-clj 2.0.0 (new formula)"
+}

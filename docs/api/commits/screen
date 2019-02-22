@@ -1,0 +1,15 @@
+{
+    "0032ff8095abd198efefcbff482577c1f90d7a66": "screen: update 4.6.2 bottle.",
+    "8229a42aa833dbb83d9610deb67bed6b377f554e": "screen: update 4.6.2 bottle.",
+    "d278ad71161441b2226e722ee85611f89a767384": "screen 4.6.2",
+    "bbf2ff0ed214947c2209a260e96a6d548a69fec6": "screen: update 4.6.1 bottle.",
+    "576956abb8a7488a56fd14c2a9d6a07b5f8cb6fb": "screen: update 4.6.1 bottle.",
+    "320e89b915f3fd702c6e50a8fb7a2d29256e1fdc": "screen 4.6.1",
+    "144dba18c9f7d65e6c6e907d3815ab3683841b78": "screen: update 4.6.0 bottle.",
+    "354e314717c99a5779a8ccdd022c3a0dfc0b55bd": "screen 4.6.0",
+    "c1475697559053ae32232c846c200c588616c23c": "screen: fix rubocop warnings.",
+    "6682fe0e35ae00e5964b65382a23e40961eb34ca": "screen: swap GNU url and mirror.",
+    "036e1e0d5878692bfdc0cfc4fb1d3f3ced0f2401": "screen: secure head url and one more",
+    "66bba9f421a5ac6ee9b2c93edf17194205836b7c": "screen: update 4.5.1 bottle.",
+    "c6fe2d7a3b7456aed28475571ba6b664e291afa3": "screen: import homebrew/dupes into core."
+}

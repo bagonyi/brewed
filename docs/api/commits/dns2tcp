@@ -1,0 +1,13 @@
+{
+    "4c35a4ab277e1433426a45830dc551b8d473bcfe": "dns2tcp: update 0.5.2 bottle.",
+    "0738c389d1b1d9ccabe248883dbaba7b762f83f5": "dns2tcp: use Debian for homepage and url (#22619)",
+    "79d6a105d793b290255fd89c4d7cdaef65f13134": "dns2tcp: update 0.5.2 bottle.",
+    "b94b60c5ffee76860efee8b4d06f2d3b70d8959c": "dns2tcp: update 0.5.2 bottle.",
+    "7d11635ce2e3b69236749b993abbf27acc278841": "dns2tcp: add 0.5.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "51ecf6b74b89603edbe1e5bb7c77eaf1ce2b2824": "dns2tcp: brew audit --strict",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f164ca9a04baea47fdf131f95a15139038ccf248": "dns2tcp 0.5.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "042a722cf143198402f5e160858fa1d6a1746e53": "Added formula for dns2tcp"
+}

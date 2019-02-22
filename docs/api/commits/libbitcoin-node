@@ -1,0 +1,21 @@
+{
+    "5f4a5e05a30ea079746314dcca40d6c95f1b1f6b": "libbitcoin-node: update 3.5.0_2 bottle.",
+    "7460cb1504936cd589b7e8e6d49789c59594970a": "libbitcoin-node: revision for boost",
+    "f4491370fcb3b79378f826327ee101c6a112e882": "libbitcoin-node: fix test",
+    "db0a308af135b70974fb6946e60609eda69a3e40": "libbitcoin-node: update 3.5.0_1 bottle.",
+    "b94c1fa0187f1dd7c65bfb3baba404e96984d6ac": "libbitcoin-node: update 3.5.0_1 bottle.",
+    "8b4fc2edf334158c265799d0d76fee46f50a9d7f": "libbitcoin-node (new dependency)",
+    "5b194bb2d2719160f0fc67a18ebe5f7007885299": "libbitcoin-node: update 3.5.0 bottle.",
+    "a5d8a64de4fa114e3a9e2e294a4096b8462a6498": "libbitcoin-node 3.5.0",
+    "c5af2e8abcd7702c9c02e5f95bbb32e6bccffec4": "libbitcoin-node: update 3.4.0_2 bottle.",
+    "bdf5e34831788017f99fd55fd5972856e72d8928": "libbitcoin-node: bash completions",
+    "22e3e418c40a71ea52ae115cf71c339f57b36f3d": "libbitcoin-node: update 3.4.0_1 bottle.",
+    "c6e2792bfd9ccb83674a6b2f2f1fcf2c0804721f": "libbitcoin-node: revision for boost",
+    "cee3a4154f5a2171ad805a126ecf45c4d7f8137c": "libbitcoin-node: update 3.4.0 bottle.",
+    "a5475f3cc8da9ab9590961eb026aa92616ca6c2c": "libbitcoin-node 3.4.0",
+    "a92bebded394e859aea4e3911ddb3bfb06cf938b": "libbitcoin-node: update 3.3.0_1 bottle.",
+    "fdf776d185434fe299c4b5046b559c83936ecbf9": "libbitcoin-node 3.3.0 (fix linkage)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0fa3051d9857ae724a60f4587cb9b52c99ab71d6": "libbitcoin-node: add 3.3.0 bottle.",
+    "c7baf7502ad0d369588d6ad3e3d999eeddac8baf": "libbitcoin-node 3.3.0 (new formula)"
+}

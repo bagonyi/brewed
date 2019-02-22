@@ -1,0 +1,19 @@
+{
+    "e43078e2ca1f9e69d77615e4d3f8429d329f15dd": "pow 0.6.0 (#21612)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "533f2d8428d0a0f0e33921254f2e8c03dd6e54ef": "pow: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cc75e44a6f505d5b60138afba984bc1237837545": "Use opt helpers instead of hardcoded paths",
+    "d2e680dc33ff05b1e46f595dbcd81ef61024fd74": "pow 0.5.0",
+    "a4cae5c2f23e269e0ce9a7bf1bd2fab464a6bd62": "pox: general cleanup.",
+    "1ae5c0e20ff8f55a8bb8bddbb693b3140d757ef5": "pow 0.4.3",
+    "e00734b38597dbed5013cc4b500d8e381c500c78": "pow: fix installation caveats.",
+    "58ed0f51243cefba15ffc4d472d5df847b46f1e0": "pow: update documentation to avoid error on startup.",
+    "46b7b0f2008181d4863a3eda1d5fcdfb41025923": "Pow 0.4.1",
+    "6f18e2c6c9b60e5e9a9152d5f3ab93e33dbdede0": "pow: add launchctl instructions",
+    "717f6ea0e8f541f044a373490933acc34096906d": "Pow 0.4.0",
+    "00774a6f4c72b1a220fb006292bf10ada46199a7": "pow 0.3.2",
+    "f0a47047e5f51354013028e7855be79518d7e541": "Pow 0.3.1"
+}

@@ -1,0 +1,18 @@
+{
+    "b60beb8049532bfb9d9872ee0bd7a0ef9db27c8c": "sdl2_net: update 2.0.1 bottle.",
+    "fdccf4e08f1989b24e7fc2c56fc9ae128de3ce98": "sdl2_net: add test (#23217)",
+    "b815371922d218620fadf0889796c246387e577b": "sdl2_net: update 2.0.1 bottle.",
+    "9eebdb235729ce25c4940448da148942a7d7e23f": "sdl2_net: drop universal",
+    "e4a49ecb50db8cbf38994150ba9195581d4021b7": "sdl2_net: update 2.0.1 bottle.",
+    "6addbc4943a5ad29abbbb8a14449a4a336d24a76": "sdl2_net: update 2.0.1 bottle.",
+    "487884b2b7d12cdef41d8cf0a2b930b4020c5405": "sdl2_net 2.0.1",
+    "de6cdf6d72a61ebc5a4ea16556421f2333eb95f9": "sdl2_net: update 2.0.0 bottle.",
+    "d97cc176c461570ae9c76e3b8838a7dc40638d7b": "sdl2_net: audit fixes",
+    "4fb135684fb2e343f7d64280d20ef7f07edcbd17": "sdl2_net: add 2.0.0 bottle.",
+    "1c32191238588ac5754d1be386c6f59cd04affba": "sdl2_net: use https homepage",
+    "f4ac1b54dd59539c938451b53c21cb19d7d03742": "sdl2_net: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "93618d852e609d983a8fc1f255f654f25edbda90": "sdl2_net: add pkg-config dep",
+    "cd3c5ecec6bf241d26785f422983a7949f9640ab": "SDL2_net 2.0.0"
+}

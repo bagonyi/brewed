@@ -1,0 +1,21 @@
+{
+    "9828beb2ab93feaacccda64322f86977cf6c45c9": "libnatpmp: update 20150609 bottle.",
+    "0d71b88deccf957cd787043f9b0adcc923d5fd21": "libnatpmp: update 20150609 bottle.",
+    "4dca59555a4f29550acc41987337ec986ffca3d8": "libnatpmp 20150609",
+    "0d6a2bda03e38a601b7cbd2aa9dc7774d3914b69": "libnatpmp: update 20130911 bottle.",
+    "e80a76d998647f0feb375fe146435e28323b274f": "libnatpmp: update 20130911 bottle.",
+    "35f27eac39236f10ee0fd5b0cb5fc382e77ffab5": "libnatpmp: use secure url in comment",
+    "3874fb14252bb212f22b5b944a26915c01b1b789": "libnatpmp: update 20130911 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "99ec1d6458a6299efb17d43894c899768afd4fd9": "libnatpmp: update 20130911 bottle.",
+    "e8fad44f41f995acd80aea18d9fe07dad3a41a93": "libnatpmp: add 20130911 bottle.",
+    "ce1944e02cd20051d871fd610e157a481fdeed45": "libnatpmp 20130911",
+    "715ac95e2cbdf3b0cf3081edf83789aaf7a2f420": "miniupnpc 1.8.20130503",
+    "f02aa439b246ac166488a0a6e8e4b878237c3b29": "miniupnp 1.8",
+    "2f6c0635cd2f3279af7790ab5e1b139b16c3f273": "miniupnpc 1.7.20120830",
+    "c50e796d29ff7f69aa5eaa07f5540295ad6db0fd": "miniupnpc 1.7.20120714",
+    "01fa1137a4b14076dc3f3eff09ec7210252b546f": "miniupnpc: fix for non-/usr/local Homebrew",
+    "1ac30beb0d0695ae63d7c1653b56f6f3acda3ea9": "miniupnpc 1.6.20120125"
+}

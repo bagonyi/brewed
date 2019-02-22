@@ -1,0 +1,23 @@
+{
+    "04d2b12691102e8d642ff1c32fdbf3fefdbee727": "gnome-autoar: fix dependency order",
+    "c45a1adae3658ea2e110000bb7dee75d1e4f4848": "gnome-autoar: update 0.2.3_1 bottle.",
+    "41c5db55313e9c695179aaf1c7c0f406be288e87": "gnome-autoar: update 0.2.3_1 bottle.",
+    "8d4b6879bcccd605c16945ee54faba46777561fb": "gnome-autoar: revision to fix install receipt",
+    "05d3d3bd9c78cd606aa474c1b2f2ed0dd4fbbac4": "gnome-autoar: update 0.2.3 bottle.",
+    "91e162f01931e8f4d10767a8e90ebdd2d2abec49": "gnome-autoar 0.2.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9534eb639c1a799bd98f91d5e1d4460665673634": "gnome-autoar: update 0.2.2 bottle.",
+    "23c334bbd3b4aa5b3412c0ba7ed9aa3d3a0b532d": "gnome-autoar: update 0.2.2 bottle.",
+    "9ea773f87e9e2983fe01be606adff1eb2fa45639": "gnome-autoar 0.2.2",
+    "78d6240a9a99abbabd5fd2e4accc27d4174499a9": "gnome-autoar: update 0.2.1_1 bottle.",
+    "e9698478621c879d44be57b27c2a4b88db75eede": "gnome-autoar: fix gobject-introspection bindings",
+    "fa3c8dbbef77132aa1bd195c291a007b0eeec3a9": "gnome-autoar: update 0.2.1 bottle.",
+    "f260021f4031afb704b179192a468939bc0e5a95": "gnome-autoar 0.2.1",
+    "dcd5cbc1a08c581a4ed2c3b7543a0d33d2cef785": "gnome-autoar: update 0.2.0 bottle.",
+    "957ab911d92eb5edb1020fe763d6a797af6394f0": "gnome-autoar 0.2.0",
+    "3e4cbc068d1dc6dfdd71d08b1a1bc0227eac9dcd": "gnome-autoar: add 0.1.1 bottle.",
+    "ac7e9e305eb40652ca08a883ff3284d7f9c291d2": "gnome-autoar: one more indentation fix",
+    "0736daa066edbe9c8a03cae65fdb73051c1c8102": "gnome-autoar: fix indentation.",
+    "bc1e6059e25a6b3077b96f8fd5404bcfb9144f52": "gnome-autoar: add test, fix audit.",
+    "23bf27fdf3af7255313d324161d713913b7d1c98": "gnome-autoar 0.1.1 (new formula)"
+}

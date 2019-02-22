@@ -1,0 +1,8 @@
+{
+    "dd37e40109376d2426e94c254419822047a2134d": "awk: update 20180827 bottle.",
+    "6a7833b67cdfc83afdb16715d556d3f3a412d5af": "awk 20180827 and add head",
+    "795055d5848acd401aa95c13a318db134c02bcc2": "awk: update 20121220 bottle.",
+    "8635d2c8a97a7ce41a74ecddd229be524ac9b715": "awk: update 20121220 bottle.",
+    "96499ad3ed73974825ed2501f88c999cfd1d2f11": "awk: add 20121220 bottle.",
+    "e8f209934e4173b0d113ecd2e03f3c3bfc8b89e7": "awk: import homebrew/dupes into core."
+}

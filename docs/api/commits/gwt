@@ -1,0 +1,16 @@
+{
+    "9ca614ae28693d017fa2178af8715a0375b97a1e": "gwt 2.8.2 (#23126)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1f4b7a41171e1c648ec352301617e565866952e7": "gwt 2.8.1 (#19145)",
+    "50779ef94b746e9dce9c0e80a01a6be81e2c8094": "gwt 2.8.0",
+    "55b7b6cdd4ffe037ec4dfcf2b9356f121f571fe7": "gwt: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "521631c83ec9170b8c10667dd368cb5f5098a976": "Fix URLs to several Google projects",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "14b5047942c21371f56b1fc0b38074df45a78f01": "gwt 2.7.0",
+    "b57f80e0cde061f7cf3fe8ec61b2848a8ca673c3": "gwt 2.6.1",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "a9323065fbe7873da7dc503a838995f92350b92a": "gwt 2.6.0",
+    "f4b4e7530479337abb6e938822c884ef1585f76d": "gwt 2.5.1",
+    "e7474dd33bb7d443628a86a9b40569a1ff5114a7": "GWT 2.5.0"
+}

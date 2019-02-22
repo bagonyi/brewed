@@ -1,0 +1,21 @@
+{
+    "1eeac9e5cf52ece8d4b24f778b348c7688e4edcf": "pastebinit: update 1.5_1 bottle.",
+    "993b9655e5f3b1ff627aef66df07e5c94368c536": "pastebinit: update 1.5_1 bottle.",
+    "d4baff93a7bfe0c04cb6d268d2d45f33f20444af": "pastebinit: rename python dependency",
+    "4746792114c2847d12dfab5a21d1377fd64e8ce4": "pastebinit: update 1.5 bottle.",
+    "5a0af2c7b8cc80f036cdea0bc99fc1f87af2015d": "pastebinit: use secure upload and make result check protocol-agnostic in test (#11894)",
+    "c4e024246eae0f23489ca705d68c1df8e4678f0b": "pastebinit: update 1.5 bottle.",
+    "f04b02d3e33b4fb96ab954de6eca4a354d4904e9": "pastebinit: style nits",
+    "1ecec4497eea3d6389c9ddf0c9613d10c62b3dc6": "pastebinit: improve test (#835)",
+    "68d1bc1a7837cd79e94f945132776d8e9b08beb3": "pastebinit: fix erroneous commit of etc.install change",
+    "8b3e3f433edeb9c47a7f7425772ca0aa4bf583e4": "pastebinit: update 1.5 bottle.",
+    "6d311f6db3a9fb11bf470a2f773050819a90bbc5": "pastebinit 1.5",
+    "9e3e8976ce8a1696c48aa3ee0b15c63f1c1fdc87": "pastebinit 1.5",
+    "4ed4c7e55f053b0dd96b1f0f52575ed23dc33185": "pastebinit: update 1.4.1_1 bottle.",
+    "09ea1ca75c8ee1f7c0473c22b95a382db0dae8c7": "pastebinit: add 1.4.1_1 bottle.",
+    "e2db5460ef204898bcb7dd82138981fc3d45e95f": "pastebinit: bump revision for python 3.5",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d3333dcb86adc951f17bc608b09568018adb0d0d": "pastebinit: fixup etc location.",
+    "ff0f88b35986b6768786eacd17b3170b5948ed46": "pastebinit 1.4.1 (new formula)"
+}

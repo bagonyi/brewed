@@ -1,0 +1,9 @@
+{
+    "0b0cfa9e27aa0adffb83f1748a773681bc482976": "payara 5.183 (#33313)",
+    "048cdd3fb385a77d2bed886db2ca0a6a1cc78bf7": "payara: require Java 8 specifically",
+    "2bf4e37ec2e39d272c9d74ee55f3462835101a92": "payara 4.1.2.174",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6a7d2d0ee950d58e2cb1215da840e29fa914cf19": "payara 4.1.2.173 (#16891)",
+    "7ea97957c59fd1b04bdffb36b2c5b715acf8944a": "payara: clean up install",
+    "615dfcb764a90c9c642be2e69f4402d6689c1b79": "payara 4.1.2.172 (new formula)"
+}

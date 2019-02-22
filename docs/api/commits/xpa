@@ -1,0 +1,14 @@
+{
+    "05435959361764d9e62b69bd3d2edc1321743e0e": "xpa: update 2.1.18 bottle.",
+    "fc638e863b29fc2d758462d64d84debe685786c1": "xpa: update 2.1.18 bottle.",
+    "aa6e66c4eb6e4af014c109efd275583d85aaf5c7": "xpa: use https for homepage (#10997)",
+    "afcda529db50e28fb2522c76281d78d5803860a9": "xpa: remove accidentally added bad test.",
+    "08fe67fedb4195cdde63db595fda9c45c527e782": "xpa: add 2.1.18 bottle.",
+    "f388de41b379d956b8c97d81a9f76a2c588583a9": "xpa: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "144be55c51fb73e259b632c2db13595187fe3e6f": "xpa: fix checksum",
+    "3af0e73717e499f161d77af9cc669f1af07193eb": "xpa 2.1.15",
+    "ac5a5b8b34dd88901bf8292fe28a92534615f011": "xpa 2.1.14",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "d297d66029c66c6a081f14e4f9b488b77ca7bf1c": "xpa 2.1.13"
+}

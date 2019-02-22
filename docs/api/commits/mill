@@ -1,0 +1,19 @@
+{
+    "b7ffeb006793063120a4f8fab0d84887864870e4": "mill 0.3.6 (#36495)",
+    "43a0ce2fd3099abc8753b9e5436016d801bf189a": "mill 0.3.5",
+    "819797ba3c82fdc98b86ffbe234a9819f9dd5f89": "mill 0.3.4",
+    "3c1ae476ce6d40e3f6551794ed82e09cc141ec2d": "mill 0.3.3",
+    "956140aef5d80cbe434e4acc06f8d6d164677b5f": "mill 0.3.2 (#33532)",
+    "d5e19432ec84a997f9e51f8580c988a8371f237c": "mill 0.2.7",
+    "9678199e98bff88b36034ce585406d04f788569e": "mill 0.2.6 (#30648)",
+    "10633b0f7cd6c3aca1105ce775c59cbe178fe5de": "mill 0.2.5 (#30361)",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "a6e9da62b7662f2f72cb58a33cb123a81f7da192": "mill 0.2.4 (#29834)",
+    "2e4f511b285ffb75f7ded59accd452ea613317d8": "mill 0.2.3 (#28608)",
+    "f9c03e2c997ad169093335ffc647b4eff9932ace": "mill 0.2.2 (#28063)",
+    "d0574a63a3084bd5ac3fdc6e955cf0dc477fad62": "mill 0.2.0",
+    "fd9c42072e6d6d9da7da17b82fdf1df498a57971": "mill 0.1.7 (#25762)",
+    "6c70eb918e486de7bf84f8f6aa99d5a0b0d8f04a": "mill 0.1.6 (#25248)",
+    "a8b8a1d9f1971af5fd98cc2e6360e52418302016": "mill 0.1.5",
+    "01378fa63bea672c1ffa9b35dc7b7f7ccffe634d": "mill 0.1.4 (new formula) (#24651)"
+}

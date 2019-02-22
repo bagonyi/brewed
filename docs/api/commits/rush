@@ -1,0 +1,20 @@
+{
+    "f01fd0c9ac6cdddc977ceca30a31c1406ffb4e7e": "rush: update 1.8 bottle.",
+    "fd6a9d756a67d75a58bc8de2da7d610258ee3bbf": "rush: update 1.8 bottle.",
+    "43fdf6d4e08b92033a3d6b7a2428baeaacaa0c13": "rush: swap GNU url and mirror.",
+    "101788636d8c840c2e897ef1e1631c5cea424c92": "rush: update 1.8 bottle.",
+    "cf5b89a454664308d7e71e94719843cdfa1f9760": "rush 1.8",
+    "8eea3f17208b986a4cc9ced5520a0eb3a9ad6968": "rush: update 1.7 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "318550c24e9e6a48773eb6cc41f105ca431f1c27": "rush: update 1.7 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "89d11b45749262dcc889300eee80c92b08743b51": "rush: add 1.7 bottle.",
+    "f8192020af8bed2db37f98e38797268882bc3e64": "rush: basic test added",
+    "3714dfa674c36d65468194ce00abdc7257260a2b": "rush 1.7",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1eda639a6fbceaf8b0265d7c33067c8a0f5e3fda": "New formula: rush (http://www.gnu.org/software/rush/)",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "b84cb05d7604e4ef671b04325c796fb67d2ff582": "New formula: tre"
+}

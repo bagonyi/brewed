@@ -1,0 +1,12 @@
+{
+    "698f7a756a543092af83bd84b7584a33632c145a": "png++: update 0.2.5_1 bottle.",
+    "c2f6fad7ad71827399f4a431fa4e0c563f567b8d": "png++: secure url(s)",
+    "50d19c708c2e27b892e45b0489ac3ff9200f558d": "png++: update 0.2.5_1 bottle.",
+    "01bfd8ce2074321f5dd01f3b7623de13a11c59a8": "png++: update 0.2.5_1 bottle.",
+    "d96d384f159e17ce66f17e104a4e1ed525d499f1": "png++: add 0.2.5_1 bottle.",
+    "d8a37ddc959928b8834a3dc3fd5fd81303afab65": "png++: use secure url (redirected to cleartext)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "3266c7f8b4b50b92bdc6fd83bac1144d88ed1d3d": "New formula: png++"
+}

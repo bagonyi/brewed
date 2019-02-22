@@ -1,0 +1,21 @@
+{
+    "2dcc4542451fab2d007daef165e65fa7b8c6f33e": "git-crypt: update 0.6.0 bottle.",
+    "36d66fa36ce75b808a4092ffc6d25ecb23618f8d": "git-crypt: update 0.6.0 bottle.",
+    "5952a71929342baf94003d9b5eb47934b3f79f65": "git-crypt 0.6.0",
+    "e8c01bfedee02b339d0b785d27ca164fc9e78dfb": "git-crypt: update 0.5.0 bottle.",
+    "acf64b1810a26d8a75044e0940b9c4605906313c": "git-crypt: update 0.5.0 bottle.",
+    "a8b5136829de087fd22d69681c97938d170dd388": "git-crypt: update 0.5.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "38a5e84ae19313d69be9d7b2ec0bb954c821b2ff": "git-crypt: update 0.5.0 bottle.",
+    "5e11dbf9de63c2a7a44cfad720cdf5ebe00ea290": "git-crypt 0.5.0",
+    "34bb15ebd8a8b19543aa0b22a654c1d0d77c8987": "git-crypt: update 0.4.2 bottle.",
+    "a35e0af0e19b339b98023eddebd40fb03c373c70": "git-crypt 0.4.2",
+    "24068ae62a6cf8a3ecbb10d75bf4e68702457e31": "git-crypt: update 0.4.1 bottle.",
+    "34010edf01a0b5513914493107c203069f572569": "git-crypt 0.4.1",
+    "bce8cbf16ac4083e3634cd122bbb5913f8fac3c5": "git-crypt: add 0.4 bottle.",
+    "198a7df752e56c0460d583fd9ad4030c360cc64e": "git-crypt 0.4",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "5e31f1a38eb235a059ea54deccbec0277896125a": "git-crypt 0.3",
+    "584f996884ecd8bcc936a2a7f88a73054ac6ca04": "git-crypt 0.2"
+}

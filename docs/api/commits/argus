@@ -1,0 +1,17 @@
+{
+    "2acdda3ba5b98f58842a7385a236c052307d6812": "argus: update 3.0.8.2 bottle.",
+    "2e27a9a4136d9f838cc3ae78c796792e8b640af4": "argus: update 3.0.8.2 bottle.",
+    "074857990a3a3335f7c1204714a69a0efa01d11d": "argus: update 3.0.8.2 bottle.",
+    "7e0cc613f5e882c657644d356c35271e74a04b96": "argus 3.0.8.2",
+    "c7d5eafdf5889259e106b84f6174df0081e10ce7": "argus: use https for homepage and stable url",
+    "ba5b430598905e7d243cb2510281678fe12111a7": "argus: update 3.0.8.1 bottle.",
+    "cd00fbdf3cf66bbeab042ef4b1f2bfeafe7493fc": "argus: update 3.0.8.1 bottle.",
+    "129d85ab48829388850973e882fdc991ef341678": "argus: update 3.0.8.1 bottle.",
+    "eabc424c1fe72b51d43593fdf23e5231d27debab": "argus 3.0.8.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8e72ab14c66d8896151616bbede4cf035f7a33cb": "argus: add 3.0.8 bottle.",
+    "9dfc944325091dbb33f76c8435f5aa456a9984df": "argus 3.0.8",
+    "7f9d4859bb3c928542c3fec123fa4bea4e819d06": "argus: remove fails_with :clang",
+    "a19981ff58bf5bb0d0891b63cb388013906003aa": "argus 3.0.6.1",
+    "67e3222d152fd7ef3c2f36056147fb88e157d09f": "argus-clients 3.0.6.2"
+}

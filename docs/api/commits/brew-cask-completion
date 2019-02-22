@@ -1,0 +1,4 @@
+{
+    "a7225b1ae7b6ed424d803b8df13fa58dc08daa4c": "brew-cask-completion: remove bash completion (#29262)",
+    "e329be0a9cfb8a63ab2051a7d155cefe35161631": "brew-cask-completion: import from homebrew/completions."
+}

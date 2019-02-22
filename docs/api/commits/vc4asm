@@ -1,0 +1,18 @@
+{
+    "27038b4798e7ee43f9ef29ff616c7bc1aa335067": "vc4asm: remove checks for old compilers.",
+    "41c92df613fb6428b57dc5dee13dda2dd5318584": "vc4asm: fix component order",
+    "3bb15e4faa4669753cb2828180531503e826c3c8": "vc4asm: update 0.2.3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "26821fd4bfdad3c52606310e63edbf661ffd70c8": "vc4asm: update 0.2.3 bottle.",
+    "9a6e5f01adbd5e911ad329cc0e3262066986a5bb": "vc4asm: update 0.2.3 bottle.",
+    "4a74760c9014b9783204e3dfd769c8c0b4c674e7": "vc4asm 0.2.3",
+    "c52746822df2c5c3a3cd8777005c50cfa903c77e": "vc4asm: update 0.2.2 bottle.",
+    "a855406ff7c9afe3f0fae4cd755d9596440f2cf1": "vc4asm 0.2.2",
+    "2b7f4cbe147b60e9784f243a2c920bf60797b7ce": "vc4asm: update 0.2.1 bottle.",
+    "461a5957d575d7bd0481a1e81dd7759f6a8b5056": "vc4asm: update 0.2.1 bottle.",
+    "caea673e472c2a77781c82d68bedad6df9663c0c": "vc4asm 0.2.1",
+    "eadbd4f0a26e2d841dbcdfdf5b0974a6fe6da8ce": "vc4asm: update 0.1.8 bottle.",
+    "98abf63d496b132bb1bc469f7f327600a97f1f10": "vc4asm 0.1.8",
+    "f240dcd9c17090dfe07d170807cea52acf6b2ecf": "vc4asm: add 0.1.7 bottle.",
+    "3aff29330113415556da2c9f4588207c6130d322": "vc4asm 0.1.7 (new formula)"
+}

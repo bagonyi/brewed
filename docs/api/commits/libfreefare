@@ -1,0 +1,17 @@
+{
+    "75dd8dcbfc5b0fc51c98798358b82f0a312d8c09": "libfreefare: update 0.4.0_1 bottle.",
+    "a745bfb0e2f0699f02b23835103f8a950ab64369": "libfreefare: add endian function patch",
+    "39fa28ce98beedc1b65751d062557531dcb229e9": "libfreefare: update 0.4.0_1 bottle.",
+    "94118fd5b30396af0a8b54db80e2f1374283698e": "libfreefare: update 0.4.0_1 bottle.",
+    "644d321711ec6030e96c22c0d462acf4e316083c": "libfreefare: update 0.4.0_1 bottle.",
+    "01d3cb52f355324c796b7e4d6abf6c95aea46571": "libfreefare: upstream moved to GitHub",
+    "5b587ca84f2bfd55d8821d85affef38a59a8817a": "libfreefare: update 0.4.0_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9054f8dc64b8d00c0b03d42a6dd8d2907fc08064": "libfreefare: update 0.4.0_1 bottle.",
+    "adc81e5a6d0f614cf99c14977f38575d56b67d37": "libfreefare: use Homebrew openssl",
+    "0a42b9221907f951f7ce49b290c1800e1099d441": "libfreefare: update 0.4.0 bottle.",
+    "62b3bdbe52f24f024e9efc11456ac69e8fdaffef": "libfreefare: add 0.4.0 bottle.",
+    "eda04c91ae179dc62191bdb33a503beb9d3bc8cf": "libfreefare 0.4.0"
+}

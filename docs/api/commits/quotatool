@@ -1,0 +1,12 @@
+{
+    "2560f52bb7c470a48f93f07882958a74c2937531": "quotatool: remove references to pre-Mavericks.",
+    "389ce7a3effbf754f827f855a388bd2f08c0c3b2": "quotatool: update 1.6.2 bottle.",
+    "d0cd19401ec6cf29b034096d4be0c22d94300413": "quotatool: update 1.6.2 bottle.",
+    "a0cf12fb219e57ba86f6ae6769e3f56c5918743f": "quotatool: url updates",
+    "4eb9a5fb9ae58e8f2eb75aed59de828e78dcb26a": "quotatool: update 1.6.2 bottle.",
+    "bbb10e0f96c9f36f12f348f1fdcb6236f65cb224": "quotatool: update 1.6.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "44fb7c8be5c2fe2a7c39c59b76cd228183f2a81f": "quotatool: add 1.6.2 bottle.",
+    "79d02d22416b188b72a47a4653dce8dfcd3e1a70": "quotatool: basic test added",
+    "cfd2a745ee2df21378c548797d3d1c81c8efda8c": "quotatool 1.6.2"
+}

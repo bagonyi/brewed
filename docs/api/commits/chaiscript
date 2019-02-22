@@ -1,0 +1,21 @@
+{
+    "08277343a056b0e011abd43a69070cd779f5e08a": "chaiscript: update 6.1.0 bottle.",
+    "e6165003a8473782e3dfcfaecda1c8df38c44b55": "chaiscript: update 6.1.0 bottle.",
+    "aa7ffb4f7f0ed0aaf83bba69465d5d204fb11c7a": "chaiscript 6.1.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "56458e26aa7a13ce20227787762b679f5633afe1": "chaiscript: update 6.0.0 bottle.",
+    "741ef382111412201d581d7e5bf39bf7b27a87e4": "chaiscript: add head (#17198)",
+    "bba2279fbcc58945cea1e5fefad0354d2bf35a99": "chaiscript: update 6.0.0 bottle.",
+    "7aa11c8247d54697d93a0ad1d1c30674da1a670a": "chaiscript 6.0.0",
+    "22a329a01d8a81abf65020aa7ff6f5a749ab8755": "chaiscript: update 5.8.6 bottle.",
+    "ee5581e69ba20a6511868867b9df43cb6ba69a96": "chaiscript 5.8.6",
+    "1b2c5278494c6b88da74cd76a1e4cc3fbf07fab2": "chaiscript: update 5.8.5 bottle.",
+    "2ee5134eaae1c5bb6457a6b17fd9d060f8970d79": "chaiscript 5.8.5",
+    "2624c0cf3534b69c933582161781618b6049ba0e": "chaiscript: update 5.8.4 bottle.",
+    "8f4387fbf148fc464f315f5c8907475c4a713116": "chaiscript 5.8.4",
+    "04bb278cd3b5f39fbb817194a80bed1eb357adf9": "chaiscript: update 5.8.3 bottle.",
+    "d5af139db373b2c790576d904532a87e72adcab3": "chaiscript: update 5.8.3 bottle.",
+    "5ea42bd0ba1dc16e0e812ea449663662a91788aa": "chaiscript 5.8.3",
+    "b9b7e5c6c4f16de57dbb13af54b648052a34478c": "chaiscript: add 5.7.1 bottle.",
+    "be6671276cb2b7d023467d6b4e90d359282ab953": "chaiscript 5.7.1 (new formula)"
+}

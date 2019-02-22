@@ -1,0 +1,19 @@
+{
+    "0ae67a2d74c3d4cbcb3a7b7a8a45a7e697d66a81": "muttils: remove references to pre-Mavericks.",
+    "85bf73b268143bbc09e0734a983ce2e2a0c505c7": "muttils: add Python 2 comment",
+    "cbdc99660b143f964ff7f7ddeaa390e2a28b6d0e": "muttils: update 1.3 bottle.",
+    "04807d7f21b5e28fa4d07dd452e956b3225c9c99": "muttils: depend on python@2",
+    "b004fc4c9f89bff80849f2809230bfde60998c6f": "muttils: talk-filters was removed",
+    "af780083fe475f06f7d9cc908dd62c8948e6969b": "muttils: rename python@2 dependency",
+    "42536ab2e70a75997ae04379e83c1c7382e3d755": "muttils: depend on python instead of :python",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "44cbb4c3fbc80447e853558d080daaa13073d7e8": "muttils: update 1.3 bottle.",
+    "f818cd9d7b8e0647990ad58c9642504879d64099": "muttils: fix audit",
+    "0a2ffd8c1a5a738bc19555491b6674fd7544495d": "muttils: update 1.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fc0c6ebefddded0ebd3031863e11021843926440": "muttils: update 1.3 bottle.",
+    "aee8392ecf7fa9c6d63067cfb923b697fcf5cc2f": "muttils: conflicts with talk-filters",
+    "00db8de2da3d7aee2c464a65630b91c284cc3a09": "muttils: add 1.3 bottle.",
+    "5d2a42688ac915641849d99f3ef415c62270304b": "New formula: muttils 1.3"
+}

@@ -1,0 +1,22 @@
+{
+    "8e6e0c7e62755d7a145e4c557d8cf115b1311312": "mhash: remove references to pre-Mavericks.",
+    "792e82da787a05545c5eb169073ef5af21b7e511": "mhash: update 0.9.9.9 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b465410fb9177ceb010ba9e9003501e296dc83e5": "mhash: update 0.9.9.9 bottle.",
+    "2191b24409b2b93c1b43ac84b78203bbac7eb06d": "mhash: fix audit --warning",
+    "495c564a5618ce66a6918dc5181425d1048f779e": "mhash: update 0.9.9.9 bottle.",
+    "27cc11a601ba5a77a7af94443a0a655112ebbd09": "mhash: update 0.9.9.9 bottle.",
+    "e8a41779e7e8fc422d6ddc5f073385c505b409e8": "mhash: add 0.9.9.9 bottle.",
+    "bd2482dc2010e6ad4b3169e7861b1cad575d2ab2": "mhash: modernize formula, add test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "d37ac48913b2d874bd72c57e8d4e339142a84043": "mhash: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "4bb118b1f3e8ac0d71ad1c3b23f8f7866dcbc211": "Fixes MD% sum for mhash",
+    "17b742601cd8a94162af4b91ccd1889b481cd43e": "fix download paths for mhash and mpg123",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "e108130e4c27610ab4b22afb906c41de97c62582": "Mhash library formula for scoates at ##homebrew"
+}

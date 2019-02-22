@@ -1,0 +1,16 @@
+{
+    "52aad68cb6282dca038439158647a113a7d7ced7": "sgrep: update 1.94a bottle.",
+    "8eaa57099f2e9602d76884fd85eae74d202ab944": "sgrep: update 1.94a bottle.",
+    "d8569e009893051b28746d38e6dc418a2ffa7891": "sgrep: use pkgshare (#11789)",
+    "c1dafbacba849c418377570f5b528f6bb45a0e44": "sgrep: use mirrors (#11788)",
+    "49d5317b5c2129cca3414430131aae73d49bf9db": "sgrep: update 1.94a bottle.",
+    "1e851a36a93ceefa63f8204895fbad5352973afd": "sgrep: add 1.94a bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b609d046cbc51c8d2076c42c76af896bd22649bf": "sgrep: pass strict audit with test, add SSL/TLS",
+    "655e4048c7f661ce031063bbc951a32b7c94a25b": "sgrep 1.94a",
+    "95f58dc9b604a06654ed435da66fcf36827d9888": "sgrep: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "e3bcf18f14364691fb9955be1a7b40ca248459f1": "New Formula: sgrep"
+}

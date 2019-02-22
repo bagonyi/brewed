@@ -1,0 +1,21 @@
+{
+    "6886ab20133e751c04d90f9f1cc66bc2896c19ce": "govendor: remove old code.",
+    "b84b700a9af81179e921289550f113bc1d58b765": "govendor: update 1.0.9 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "652debbd109475951c4ea7ff9cc6e7ec8957df30": "govendor: update 1.0.9 bottle.",
+    "99f03d980ca22f894b08e0eaaab904c019bf894a": "govendor 1.0.9",
+    "e9a4bbaaa104a8c84c2a6a2b69c1e8c47db80888": "govendor: fix test",
+    "4f8e87ed3511d7f430238e956c0050b5d7e5e541": "govendor: use assert_predicate instead of File.exist?",
+    "cb1ec059dd4f88c2b0d331209157726548db3932": "govendor: update 1.0.8_1 bottle.",
+    "2f39aa30b724cac827ddaa961f8e7c26d63ec603": "govendor: update 1.0.8_1 bottle.",
+    "86c21483c83b8d76e5cd3745e9cd0b306511928b": "govendor: revision for go",
+    "3eadec86be75f8bbd4fa28c9328a663e6a937475": "govendor: update 1.0.8 bottle.",
+    "8166f5dcfa8a804fa7f929f19f9bd486d3a8d439": "govendor 1.0.8",
+    "dd936250ce22189710923d587ee28ae8d186d737": "govendor: update 1.0.5 bottle.",
+    "31fad237520bb9e02057e52c465b3846bd6ce450": "govendor: update 1.0.5 bottle.",
+    "6cbe82e38822c83444d154aabd92ebfee66d578a": "govendor 1.0.5",
+    "1d0e19defc8b5891b1a036009effcb202cab47be": "govendor: update 1.0.4 bottle.",
+    "1a3e932b3779be7c13ff96bed5ad1cb98989d34b": "govendor 1.0.4",
+    "c14d2d100f6e12fa97b85f7fab58c5fdc812e203": "govendor: add 1.0.3 bottle.",
+    "2c6bd8cc393da65fefd270869e835542873fcd09": "govendor 1.0.3 (new formula)"
+}

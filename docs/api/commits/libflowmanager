@@ -1,0 +1,21 @@
+{
+    "0ea2f4a1a222dd01157dd41c0ddca6c770913a83": "libflowmanager: update 3.0.0 bottle.",
+    "11a6f0d7cd07f9499df445eb48b3f5482fc24964": "libflowmanager: update 3.0.0 bottle.",
+    "bc8e1b3c3fcce5c7950caa2c3ec95e65884bdd02": "libflowmanager: update 3.0.0 bottle.",
+    "df0e8836e0165acc826ff558eb09f273018da2fc": "libflowmanager 3.0.0",
+    "2c656fdf1fe7f7d23d53fd181087ca0bebbf7f70": "libflowmanager: url updates",
+    "7d74253a39df1f78546b076b36154996f4d2e215": "libflowmanager: update 2.0.5_1 bottle.",
+    "52860651a22735497cbd22d8e93b1302fed8315d": "libflowmanager: bump revision for libtrace",
+    "a7fffe29cf968d698a3a9ca59e1f869fd98d0398": "libflowmanager: update 2.0.5 bottle.",
+    "0886f663a9040b0471da5439528fd0b03008baf4": "libflowmanager: update 2.0.5 bottle.",
+    "1377b26f5e92c9c0311d740dd67ae8e8d9e39cff": "libflowmanager 2.0.5",
+    "beeab1aa6b34a8a71d0ba1ca036b15589da9f945": "libflowmanager: update 2.0.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "71ab6407b5eb61fab764e216b0b159d050282352": "libflowmanager: update 2.0.4 bottle.",
+    "f55ddf4f2a9df25015de1250b2f0b9a06ca7a097": "libflowmanager: add 2.0.4 bottle.",
+    "b6bafa7b85980f9e65dea0aa17b3fb3c6fddf129": "libflowmanager 2.0.4",
+    "eb046456898f7ed74febceb499b91e3e2b1cbfcf": "libflowmanager 2.0.2",
+    "9676833730561b615cd6d7cd9f95e33d80205e0d": "New Formula: libflowmanager"
+}

@@ -1,0 +1,11 @@
+{
+    "67310713c716389e48adce53c60b1ea9ea2dda5b": "rbenv-ctags: fix dependency order",
+    "d8a979fd96a2468b8f96815b3f41a47d6c310c5f": "rbenv-ctags: depend on rbenv instead of :rbenv",
+    "6e822d21c8aba91893cfa230e35f9eed106571b2": "rbenv-ctags 1.0.2 (#13998)",
+    "367f81598882c0e5cf1ba7fcec7581bad91a37e5": "rbenv-ctags: use new rbenv dependency",
+    "d49628f323088b2bd55e562e21911c11b6aea16c": "rbenv-ctags: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "79b51fec529b65b5ad9fc402378a50340232a262": "New formula: rbenv-ctags"
+}

@@ -1,0 +1,9 @@
+{
+    "4357623cf1c864c57bc5b57e103dc3a37b9048a4": "dex2jar: bottle unneeded",
+    "64d867e2257f75649e2fd93d0e3fbbd53febbc73": "formulae: various audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3abca1a90629b0c6527f5b440338760834027785": "dex2jar 2.0",
+    "00b5f1b825313d963882eeba8084c9a1aa3f6998": "Prefer Dir.glob when iterating over the result",
+    "213b5833ec1edb7018907ed58bb19479cff11de9": "dex2jar 0.0.9.15",
+    "7ef74975f01ff846770ae9ab3fa9118c57b58f2f": "dex2jar 0.0.9.13"
+}

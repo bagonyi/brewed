@@ -1,0 +1,12 @@
+{
+    "076ac5039ec0f7f47435a709224f4c074b8f622a": "nuget 4.7.0 (#29963)",
+    "69df540f18c20ea9e304552b0747c7d6a7b35e41": "nuget 4.6.2",
+    "28084207a2c7a36a23dfbe66d10d50dd84e46fe6": "nuget 4.5.1 (#24390)",
+    "b8d80b6645f84a80112111130daed804e330f5ea": "nuget 4.4.1 (#21011)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8865a85b2bdbb0e61dee3f6beee1b505cc88a879": "nuget: remove redundant version specification",
+    "0ca4ab1593cad940f0e7d02fe099c82ebc98838c": "nuget 4.0.0",
+    "3433bd8e5028d847d48526cd9b259fcbdc1f314e": "use correct case for NuGet.exe filename",
+    "5c7dcf4f879bb623fb7a7fab4fa17614c345a139": "nuget 3.4.4",
+    "3b4c3b882b3e1de373d623ab80b2e449eaa0e87d": "nuget 3.4.3 (new formula) (#949)"
+}

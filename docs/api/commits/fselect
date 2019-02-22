@@ -1,0 +1,23 @@
+{
+    "307d0c70f92a8efc0fbfcc42e007021e6775cae9": "fselect: update 0.5.2 bottle.",
+    "1bcdf235b664192e4f2002579af0952a48b233fb": "fselect 0.5.2",
+    "c9c5e4cc51d1da1709056fd83a9fd7ef6cf679ac": "fselect: update 0.5.1 bottle.",
+    "b8ab805f09be5a844bcaccc2103f883576654c95": "fselect 0.5.1",
+    "bcc4e1032b479eb5fd303fe96a9f99cd03563d06": "fselect: update 0.5.0 bottle.",
+    "9168009f55111217d941a65b6dcbbb823fb07c6e": "fselect 0.5.0",
+    "85a95d5034ffe3de48939ef22ef378480a827b39": "fselect: update 0.4.5 bottle.",
+    "35ab4225b726d9d7a46b61764ba70ed0351d92a8": "fselect 0.4.5",
+    "1be4a7fdb474af606c908c82a05aba763e83604f": "fselect: avoid cargo deprecated syntax warning",
+    "12b13113fa9184574f7e2b3dae04005ee491ef4b": "fselect: update 0.4.4 bottle.",
+    "170f0a6d20dd0be42340297d0290fc96814bea6e": "fselect: update 0.4.4 bottle.",
+    "a6edeafc3b20968c1bd9a24892a3d906e68831f9": "fselect 0.4.4",
+    "f706b5ccf9af297128d883f0bb0dad183ee48bef": "fselect: update 0.4.3 bottle.",
+    "fb94a286a01c202157a56249cb5e16a820d654e0": "fselect 0.4.3",
+    "0620329af7478ffd183c2abe0bdc34d0b0f99010": "fselect: update 0.4.2 bottle.",
+    "91e48a4879c8e04a263e37d0a74fa3c2ead7bfa1": "fselect 0.4.2",
+    "c6caf935da7e75d43342101365406a4f337fbe46": "fselect: use `cargo install --prefix`",
+    "f8b8cad5627582afd02c6d265ccb002045a43a96": "fselect: update 0.4.1 bottle.",
+    "ac4b9fa34a86dd5dc454f90ca1a6deddcb54a3e6": "fselect 0.4.1",
+    "a7b73195d1c5ce7f90cfc2f94e3f857ba393eb9e": "fselect: add 0.3.2 bottle.",
+    "1d66814990599284855106a58b39ba469d5d1587": "fselect 0.3.2 (new formula)"
+}

@@ -1,0 +1,9 @@
+{
+    "31ed413cfdbb328c23c7a523677027cf0a2e286f": "sha1dc: fix dependency order",
+    "9db331622bbe79ba056c8c7d15c5d3cbcc15bfcd": "sha1dc: update 1.0.3 bottle.",
+    "5c8c6a6b78c0966f178be95e7c8bd46bcd99606f": "sha1dc: update 1.0.3 bottle.",
+    "ba99229b198ac46289d54c5523d1c462bc6f5543": "sha1dc: update 1.0.3 bottle.",
+    "12e998d3321196b45eb46af10f3d95acd8fafabc": "sha1dc 1.0.3",
+    "866104e80408d96c55399b559a474241fa9b0cd1": "sha1dc: add 1.0.2 bottle.",
+    "d33dc25d7cfd63600f83323da24ef45eec2d9955": "sha1dc 1.0.2 (new formula)"
+}

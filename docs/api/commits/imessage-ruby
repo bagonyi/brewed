@@ -1,0 +1,14 @@
+{
+    "f692ca2907c0a274284c830c73e2ae10f35c7a23": "imessage-ruby: remove pre-Mavericks support",
+    "b46ebd684c320f420c6717b327586f440da04735": "imessage-ruby: update 0.3.1 bottle.",
+    "9d5797627cb6fcd5c52fb7dd9f32e85964eeacf5": "imessage-ruby: don't use deprecated `rake` method",
+    "66d43732f5af0955af15e2edc6c1f7052608563d": "imessage-ruby: update 0.3.1 bottle.",
+    "3661a01212def5815b19d266cffd6e4d80dbb4eb": "imessage-ruby: update 0.3.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e87fd94ef4dbd9194fbce6661f32e09e787d7f03": "imessage-ruby: update 0.3.1 bottle.",
+    "d09f9e9e69c9da28d0c07d9186180f6e77d0f18f": "imessage-ruby: update 0.3.1 bottle.",
+    "ff48bfadcfbc6e64d9ce7bd8b4eeb90a0ca665e6": "imessage-ruby 0.3.0",
+    "7fe7a632e10619ecbc43968d016d0162a68437d4": "imessage-ruby: add 0.2.0 bottle.",
+    "d286050307f537a5d433810f2d4d1715461eb54e": "imessage-ruby 0.2.0 (new formula)"
+}

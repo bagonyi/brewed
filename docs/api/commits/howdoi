@@ -1,0 +1,10 @@
+{
+    "ae028ea9fb21db6f179cd2e0f3065022613af147": "howdoi: update 1.1.13 bottle.",
+    "43bcdbdc948e0c954b649e4fcf8ee98efd9de6e7": "howdoi 1.1.13",
+    "785e082c41968d83d0fbfb68f8445bcf2e97a5fb": "howdoi: update 1.1.12 bottle.",
+    "b34d1eda0eadac6b1a9f5cdfc719a7dfca5cd61a": "howdoi: depend on python@2",
+    "7bc5ea4f899b5603cedeb410729cd8c2f1a150ee": "howdoi: rename python@2 dependency",
+    "18427c6d13c5a7bf5c93aab47a852e33f5a2153f": "howdoi: add missing quotes around python dependency",
+    "5aefbfe9fe2b488cb39815dc70ea96a947a20006": "howdoi: add 1.1.12 bottle.",
+    "e2a02da8ba978d1673d6172b6d927fe1753ee4c2": "howdoi 1.1.12 (new formula)"
+}

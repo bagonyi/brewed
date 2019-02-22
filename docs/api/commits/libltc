@@ -1,0 +1,18 @@
+{
+    "e2820a21bbf352584de85c76993da68e448514f3": "libltc: update 1.3.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "87dda01a69df114d66871fa78c91812946295fe4": "libltc: update 1.3.0 bottle.",
+    "5cba34482b02c9e060831d9445799d5b0d8e4abd": "libltc: update 1.3.0 bottle.",
+    "222982e0107b60c935700809a3bbab51afbf8041": "libltc 1.3.0",
+    "115ed706f8f86bc08b27aa8adfb673b1273c5e29": "libltc: update 1.2.0 bottle.",
+    "e4eb48fd736bc4e5d2a95e3d3c6ac716d2d86c7b": "libltc: update 1.2.0 bottle.",
+    "85dd2af0b7b87adeee5da5f3ed4d1e41402f6738": "libltc 1.2.0",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "95105e99a0570ef6a183b255e9535ba89ff37ca8": "libltc: update 1.1.4 bottle.",
+    "39f8c125a0a9466a1eaee36560b6a2dd80d7b9a1": "libltc: add 1.1.4 bottle.",
+    "76c23b51ccbc3784b189e722808568ecf0bea8ba": "libltc 1.1.4",
+    "dd1a2d01d38df2759ce27fd6ce8526bb346310d8": "libltc 1.1.3"
+}

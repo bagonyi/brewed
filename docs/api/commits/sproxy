@@ -1,0 +1,19 @@
+{
+    "46734aca8e368232d2d83ba97d3db68acbd8ea6e": "sproxy: update 1.02 bottle.",
+    "26fb8f18f3631af23548b1767da68510ad6e5b1f": "sproxy: update 1.02 bottle.",
+    "4107d0431efd3a53bde17879806622159b74cd3b": "sproxy: update 1.02 bottle.",
+    "490d89173f40e77e642a67b567716994792599a4": "sproxy: update 1.02 bottle.",
+    "3a59a317bdc961765707f9ffc5f2ca2c429b70f2": "sproxy: fix permissions error in `make install`",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "dca7be655cd33ea0dadc4a3fd86c572819f1579c": "sproxy: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d466d803d7e1fc166f3bfaecd585ae1eb55ee901": "sproxy: update 1.02 bottle.",
+    "1776160f8a98abd20e283cd7d201ab7bc5029b93": "sproxy: fix broken url, sha1 and homepage.",
+    "9e5cd646aa80a572f3a0d07d3d34e9e81882fe93": "sproxy: add 1.02 bottle.",
+    "9193222433efe093a83f8f5110df8dd9286b7e45": "sproxy: fix sha1.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d1c698ad8b679fcbece56546d9f3a3cc121d1411": "sproxy 1.02",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9ff6dfd008f39437f8d1f02e7b2091ef35361d88": "added formula for install Sproxy"
+}

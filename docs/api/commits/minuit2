@@ -1,0 +1,15 @@
+{
+    "babd63875ef0035bb25c3cc2d4857e9f0bda9a68": "minuit2: secure url(s)",
+    "ab2cb769b5547201f1daaa06a62ef99984e4d839": "minuit2: update 5.34.14 bottle.",
+    "87d4d8accd2b31822d84ff1a13ddf10259b4acfe": "minuit2: update 5.34.14 bottle.",
+    "de5e7dfb81c0e2b0a8ca34d0b2a338f9a618709b": "minuit2: update 5.34.14 bottle.",
+    "fa2621b866424168562299c571b93ade8a54371a": "minuit2: update 5.34.14 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "43a210ca1311ba7c525d9bf30d3471e6add0bc06": "minuit2: add 5.34.14 bottle.",
+    "4e0e6d20e218ccefe44d31c7dc09fef92eba586c": "minuit2 5.34.14",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e58cd4d5733d91fc3bcd3354a7411be3c4efb5a1": "Minuit2 5.28.00"
+}

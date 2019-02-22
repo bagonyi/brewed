@@ -1,0 +1,18 @@
+{
+    "416521abc2bd59ffd55fff3fc7a184819cae9e6b": "getxbook: update 1.2 bottle.",
+    "3de53dd277a74596b20b1dbb6a245db5bfad7788": "getxbook: remove options",
+    "c97f2e6debff64ef233a77d85800d72cbe681c41": "getxbook: update 1.2 bottle.",
+    "35b7e2a49e65d35956401e53a2fab3ed580fe8f0": "getxbook: update 1.2 bottle.",
+    "0426a825d741a7f1f847f39a860e17810ca4a4c3": "getxbook: update 1.2 bottle.",
+    "0568ef1924d79874b70a83ddc57fcfd2426ef6fe": "getxbook: update 1.2 bottle.",
+    "ab2fbd4deb6f534030756d49e600a0bd64bc9fb1": "getxbook: update 1.2 bottle.",
+    "6ce8f0429f214aa2e71ebccd591932a7b212ac8d": "getxbook 1.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d281480a000e295deac0aaa25c51f7346a702934": "getxbook: add 1.1 bottle.",
+    "b86690595c667a56543a643694093804b83febcb": "getxbook: test added, build fixed",
+    "e61dbb3b09fda97b31d29f5f0da70cbfed7e1aeb": "getxbook 1.1",
+    "3e3ea714ffd6b9e519be48932c38ed609c1856bb": "getxbook 1.0",
+    "794cc013a4ddfb72ce785e4afe4204cf7abced7e": "getxbook 0.9",
+    "d58785809c922b21c88a56c36de8b81ab8c9cdf8": "getxbook: update to 0.8, fix clang compilation error",
+    "3b7c9bca4ed4fc1e2e644180829e0e86aa9d4706": "New formula: getxbook 0.6"
+}

@@ -1,0 +1,20 @@
+{
+    "3bbbc98592ed7f9a66c496ccbbf3d63656e45ac2": "opendetex: update 2.8.5 bottle.",
+    "583fb5ca9afc82fe191bd336d80fc9ccd5baacb7": "opendetex 2.8.5",
+    "86cd7a68fd2aa72d23732edbfcd04eb056326739": "opendetex: add test",
+    "15d5426869a9c3f6dc9c78e83c220787edd21d9a": "opendetex: update 2.8.4 bottle.",
+    "9ebaec757f78d5ee9a4bb49927f7d27b9ca410eb": "opendetex: update 2.8.4 bottle.",
+    "91f008be0f4aa9b27b6632249080aac31fbf31ce": "opendetex 2.8.4",
+    "d5b5e20dbfbaabb73e2e54b889090d75015e9c7e": "opendetex: update 2.8.3 bottle.",
+    "a7e79619741fde0621ccc81ba0810d28c754c268": "opendetex 2.8.3",
+    "2fdce6d81608953f835d45ada97e953c55fe177e": "opendetex: update 2.8.2 bottle.",
+    "230eb7d40b3dcd84c67938a5983b541ce6317854": "opendetex: update 2.8.2 bottle.",
+    "2521b5f924a1198d8e1aa469242449b286b689ba": "opendetex 2.8.2",
+    "0456affec98d65094cbef6b9953d679cebb0edb4": "opendetex: update 2.8.1 bottle.",
+    "84874e7d4235e85c360bebf8e7cf02384e054421": "opendetex: migrate to archive URL/homepage",
+    "cbf404582814156983f3dd461d013a52c268adb2": "opendetex: add 2.8.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cfe0ff658ca462cd3d8ffc27f74dc1821f290303": "opendetex: use patch DSL",
+    "e63e921824a79c4b9d7621d8c0e62ba3a32ea88e": "opendetex 2.8.1"
+}

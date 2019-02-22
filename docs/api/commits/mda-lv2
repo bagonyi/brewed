@@ -1,0 +1,13 @@
+{
+    "7ead56643e82f107e1c2ee0d5c10787f3d294ef6": "mda-lv2: update 1.2.2 bottle.",
+    "5f1ef28139243d052af76c559afd80a86b5b904f": "mda-lv2: update 1.2.2 bottle.",
+    "c5a22cd4748dd28a942bf5ece4f8a3085e39b03b": "mda-lv2: update 1.2.2 bottle.",
+    "b41173cbc85195044a46a461dabc7fd8ca2244a2": "mda-lv2: update 1.2.2 bottle.",
+    "e8671e3d520d07a82add3c9e0cab8eed9394b11a": "mda-lv2: use secure urls",
+    "c591bcd7446ec32a64a5c4479f556fbe661a5ba8": "mda-lv2: add 1.2.2 bottle.",
+    "907cead808486e236a5bf03f108f49f8cf164b98": "lv2: change plugin path to #{lib}/lv2.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0136a84ba0f600da09cc97c2ec8c9f28f73d01ce": "mda-lv2 1.2.2",
+    "25cdc60b48f2c5e66430b1befd6e3df0d12b3276": "mda-lv2 1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+    "9c6c7a8bdb2a4198e8a72eba75f3a097d687ee49": "grip: update 4.5.2_1 bottle.",
+    "12f8f680602c797c0c8691aa16c261cf681236e9": "grip: move to Python 3",
+    "a1ee1e2c70c13d1f98c5e5d2c73f5b4beacf1492": "grip: update 4.5.2 bottle.",
+    "ddedd45c512f3d93dffbf37449424f44c7a489b0": "grip: depend on python@2",
+    "63009c4256dcd9f900405f5efcff94a08606f59e": "grip: update 4.5.2 bottle.",
+    "1226032b196808389e8c8232692914a684912662": "grip 4.5.2",
+    "e74a00bc2b317a1164ef4f6815527b78bdb049c5": "grip: rename python@2 dependency",
+    "ad40f2078605b4fb56deb4b13ff15d38acc30711": "grip: depend on python instead of :python",
+    "632f0a7caf3dd797504fae3a8f11b3365ff70b80": "grip: update 4.4.0 bottle.",
+    "00bd5fd8cdcabc863e850625151a84dc75745144": "grip 4.4.0",
+    "371164502f94c260df0139638151064340961247": "grip: update 4.3.2 bottle.",
+    "f93c50e319e25bafa6177f17363ee62f6b228224": "grip: update 4.3.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0dbb92e66d320c58c73f53052af9ba74508698ea": "grip: add 4.3.2 bottle.",
+    "7960a9bfc92eacd1f67e8d78893d3594500652b5": "grip 4.3.2 (new formula)"
+}

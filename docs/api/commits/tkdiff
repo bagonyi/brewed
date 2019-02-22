@@ -1,0 +1,16 @@
+{
+    "6c7cde743003efc6b6f80c00568a2b07cba86840": "tkdiff 4.3.4 (#30356)",
+    "a2336dca7e8dc206edbf6a20f739ed4727753368": "tkdiff 4.3.3 (#30304)",
+    "3b90d0e5e1251d50ed542724b3b35e337bf1f666": "tkdiff 4.3.2 (#29560)",
+    "8b4aa73b9080bdbaa465b806bb71561e0808a2c6": "tkdiff 4.3.1 (#29478)",
+    "42b3fd253f22c4be0a2e6392fcb52919ba229c5e": "tkdiff 4.3 (#28793)",
+    "cf875fadb3e6138ee28e22cd6c21a1cfcf8fb0ed": "tkdiff: fix audit --warning",
+    "8dfd8b2e00b48fc2cafd37aff5f9e3039565ddd6": "tkdiff: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "f278a28e74fb546116fc2f00feed167a6fad9372": "New formula: tkdiff"
+}

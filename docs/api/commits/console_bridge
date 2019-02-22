@@ -1,0 +1,14 @@
+{
+    "1ebd17976b3467c18b97a913d1d7dc9096fd3c44": "console_bridge: remove checks for old compilers.",
+    "3433459fa9842722a8603d45335d827c50a6f84e": "console_bridge: update 0.4.3 bottle.",
+    "e346cb05d9038d1675ea5058650f410b621812f6": "console_bridge 0.4.3",
+    "16972e92cb33b050da5d137eac3ded1ddbc73432": "console_bridge: update 0.4.2 bottle.",
+    "a190d7a6754e2cc62a23a9671a4ab26d33a5a820": "console_bridge 0.4.2",
+    "2260f7f330f6e6f93de8b988a2deec2cc3fb335f": "console_bridge: update 0.4.1 bottle.",
+    "5d3026a33717746a42aff0332ee00427dfca3e1a": "console_bridge 0.4.1",
+    "87a60a785db5daf1e40ecbc4efedd461ae4ebdfc": "console_bridge: update 0.4.0 bottle.",
+    "c39c84d8d603f1ecf7ef0fd3a6e59d125249c336": "console_bridge: update 0.4.0 bottle.",
+    "10ba8aa63c963963ebaba9413c1cdc10916dd177": "console_bridge 0.4.0",
+    "ae521f07de6978ecfc6368eba0db3ecb9e8192c5": "console_bridge: add 0.3.2 bottle.",
+    "fa53c539a4b9a2d3854a2df2036b4c587df67abe": "console_bridge 0.3.2 (new formula)"
+}

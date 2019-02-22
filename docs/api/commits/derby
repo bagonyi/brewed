@@ -1,0 +1,12 @@
+{
+    "612df8400c4842042e4c4ecf1655a54b5ae40efb": "derby: fix RuboCop Layout/AlignHash.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "dcb76279b65c86987b530517104acaeee5045562": "derby 10.14.2.0 (#27472)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6a0b00f7b80388f6b5dd88647dc52803e9a816f7": "derby 10.14.1.0 (#19457)",
+    "3f542fe8e1968723baa4f7108b76913ec7fabb34": "derby 10.13.1.1 (#12434)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "1ab8ee98465720bc88cb4764e48907c26dbab317": "derby: remove spaces inside delimiters",
+    "2bf8d0e5a5a5099f8ad1b98b96f1ada9b5ddb633": "derby 10.12.1.1 (new formula)"
+}

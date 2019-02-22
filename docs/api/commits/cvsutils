@@ -1,0 +1,13 @@
+{
+    "06071dc3a616129f1378fe824600312ec2d73026": "cvsutils: remove references to pre-Mavericks.",
+    "7ad27c1525e89c63b026177fe8351215971e0000": "cvsutils: update 0.2.6 bottle.",
+    "1be23ddc26d41fdba13ec13cf0ebf77071a2a6c3": "cvsutils: secure url(s)",
+    "f746d6c8bfd613e84099fb0ffd41c1da2c423469": "cvsutils: update 0.2.6 bottle.",
+    "db89eb8b4e0a892a6c227b904844dd9087a5395a": "cvsutils: update 0.2.6 bottle.",
+    "b3bf460437faaad05f9e2dfc2880c3515f8aacc5": "cvsutils: update 0.2.6 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f0ac9b0e891708d315bddd507a57a1ede35afb0": "cvsutils: add 0.2.6 bottle.",
+    "7a1cb69727509c1f0105b0523d8e3f13c9a0a85c": "cvsutils 0.2.6",
+    "0eb8f86eac4335dc7e17844494fbc40eaf50ada6": "cvsutils: fix test",
+    "0582ceecfe2f5e78f95cf097f6b8f8af70798eea": "cvsutils 2.5"
+}

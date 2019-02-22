@@ -1,0 +1,6 @@
+{
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bd9f9b45e943eb8b47a984d4e1830d6c066ec6b7": "fabric-completion: fix head url",
+    "89196bef9a0635e0c392734fc8b6efc261d075a3": "fabric-completion: import from homebrew/completions."
+}

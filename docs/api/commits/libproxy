@@ -1,0 +1,20 @@
+{
+    "80e91708aefb5665c3ab68db35f4a239d5669955": "libproxy: update 0.4.15_1 bottle.",
+    "8b898c24b2528a5b58000a6fddb5bd4ca3fe7cc8": "libproxy: move to Python 3",
+    "d5d6c3d7b04606bb70c20d2107fb762af473bb98": "libproxy: fix dependency order",
+    "18a8b2cdf90b3a5c3ee8bacbad2df8a0af02a329": "libproxy: update 0.4.15 bottle.",
+    "0d303b2758ee048e4874f23c5fd6e71bbaa45c2c": "libproxy: depend on python@2",
+    "7ea0d622acd393388483ffceed29e2c73a9341ef": "libproxy: rename python@2 dependency",
+    "aaedee8ac01c458d55d12a7ac540653935053e7b": "libproxy: depend on python instead of :python",
+    "736a8e66c787a0caa0cc7ea6c24aab564f34c143": "libproxy: update 0.4.15 bottle.",
+    "5b2a9e5f261884096ac5a1664b9a56dd8e925dcb": "libproxy: update 0.4.15 bottle.",
+    "a47c4193d1e262f3ace153bfd5bf8a09d98fae19": "libproxy 0.4.15",
+    "4ee31587a2ca044bc91b706541c3168868d705db": "libproxy: tweak bindings install",
+    "7bac2fd99a2cbf67889a2b3f053de33eb61bfa80": "libproxy: update 0.4.14 bottle.",
+    "94176c9826fe6f5995135dd21380fc13fee4dc6a": "libproxy 0.4.14",
+    "b828a41deacc911de08b66daad9b2aa5792b8439": "libproxy: update 0.4.13 bottle.",
+    "70fefd185e63c92f38c8697457571929bb2613d8": "libproxy: update 0.4.13 bottle.",
+    "83729cd7846fb1d7f8ff57c7d838361d8bc00d25": "libproxy 0.4.13",
+    "51b69b3e7e160ed246c7deb86baf901aaed28d78": "libproxy: add 0.4.12 bottle.",
+    "f1bca3cc6631133e76f73f19dfa639e955fc27a4": "libproxy 0.4.12 (new formula)"
+}

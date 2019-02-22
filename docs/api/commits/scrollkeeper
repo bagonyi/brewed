@@ -1,0 +1,20 @@
+{
+    "7bed6e19348a98d8dc3d8d85b05c94759f4830a1": "scrollkeeper: fix dependency order",
+    "db82821a11c41e78878430a84cf1d4d4c5e266b0": "scrollkeeper: update 0.3.14_1 bottle.",
+    "f65bcf8c7ac9baa539dbd8a0ecd6b6b8b2446e39": "scrollkeeper: update 0.3.14_1 bottle.",
+    "b81fc797e74826024d042102948a91dc8dedec33": "scrollkeeper: fix audit --warning",
+    "911859d859ceb8c7d70f0bcd7b9b7c6817b59658": "scrollkeeper: update 0.3.14_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e6ae3b5ea450e6ae757e64596c34cb06ab451b3c": "scrollkeeper: add 0.3.14_1 bottle.",
+    "7679b434c0dfae6200b008c34ac74acb8681495d": "scrollkeeper and docbook-xsl: XML_CATALOG_FILES",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "7b374e840463b426344137ca45393da44b7696e2": "scrollkeeper: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "596476ad78ba0fe9b9dff11e70527de285e708c2": "Add conflicts_with DSL method",
+    "212cdc8fbcd3f9e3e36c9c030a9dc89f2f158cdd": "scrollkeeper: specify XML catalog path to configure",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4b88593dca5a7e055149dffc346ca9a7b7608a66": "New formula: scrollkeeper"
+}

@@ -1,0 +1,22 @@
+{
+    "6adfec5e133e6243399d5b0f293336e1cf4f68e5": "pdf2json: update 0.69 bottle.",
+    "42eabc25abc9efdbf773040312af62846631f031": "pdf2json: use assert_predicate instead of File.exist?",
+    "abb5f77e1f7f971e3f220a10cde78374cc3562b4": "pdf2json: update 0.69 bottle.",
+    "86c7fb254fe0ebc200556e02445189dc6a541e5f": "pdf2json: update 0.69 bottle.",
+    "c9eeed429eff0bae5e6c3766fa4b9a154e488c3c": "pdf2json 0.69",
+    "8e19806b9298723c8498979269c3a44dfdb72ab7": "pdf2json: update 0.68 bottle.",
+    "94e2a9b65f2a619d4f777a51a92f2d534cd3fec9": "pdf2json: upstream moved to GitHub",
+    "d3302faf82db8275683fcd3c9d4028e80c506553": "pdf2json: update 0.68 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5967ebcae23102366291e37a3db2f34e9d2582b5": "pdf2json: add 0.68 bottle.",
+    "61303fc88be86dfa1f2c27e22f8fd6af2929cdd5": "pdf2json: add test and simplify install method",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "07423776348772d0b634076674604f6476017d0d": "pdf2json 0.68",
+    "2030286ef0be159b46b21fc3fd223312238063fc": "pdf2json 0.66",
+    "dee7a09edb2d41593fb187ce057772743bc6b733": "pdf2json 0.65",
+    "104743513599aa9b0c4c7f7379caa070500fa4c2": "pdf2json: remove unused dependency",
+    "3ec366fe937a06ccdea230a6d41ef83a62a8914b": "pdf2json 0.61",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a7c601581139bbfd2c9f26a9b21da04575424396": "pdf2json: use the right compiler",
+    "46bf6a605667fae6c470276d3361484fa3ecc4c6": "pdf2json 0.52"
+}

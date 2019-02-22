@@ -1,0 +1,8 @@
+{
+    "3a9884b6bf603df47d833197d091e424a57a0f25": "fcl: remove checks for old compilers.",
+    "402ab8db5539a91367e8ed1d6dfd2703204040ea": "fcl: update 0.5.0_1 bottle.",
+    "ee15e5d55cf32acc6661ea261d5fdb0a0bac3d23": "fcl: update 0.5.0_1 bottle.",
+    "8187a61cc9a55f5c031a6c556ad0db6b6562636f": "fcl: add octomap dependency",
+    "86f2508130dcc2a869a882d0f5fb621654d8d624": "fcl: add 0.5.0 bottle.",
+    "855149dbff5449a380d97e585f7475644af87d07": "fcl 1.5.0 (new formula)"
+}

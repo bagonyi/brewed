@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@3.4.0/darkly/bootstrap.min.css"
+              integrity="sha256-a6HBWqyyXFT1Ns1ZF23UVanh2xXW2uuNgIL238JrFCQ="
+              crossorigin="anonymous">
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+
+        <link rel="stylesheet" href="css/main.css">
+
+        <title>Homebrew package history browser</title>
+    </head>
+
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8" align="center">
+                    <h1>Install old version of Homebrew packages</h1>
+
+                    <input id="package-input" class="form-control" placeholder="Enter package name">
+
+                    <table id="commits" class="table table-hover hidden">
+                        <tbody></tbody>
+                    </table>
+
+                    <p>
+                        <button class="btn btn-info what-is-this">What is this?</button>
+                    </p>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+            <div class="row what-is-this hidden">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <div class="jumbotron text-justify">
+                        <h1>What is this?</h1>
+                        <p>
+                            Installing an older version of a Homebrew package is a <a href="https://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of-formula">pain</a>.
+                        </p>
+                        <p>
+                            The simplest way I found to install is to grab a URL from Github for a specific version and install that via <code>brew install</code>.
+                        </p>
+                        <p>
+                            The problem was that when I wanted to find the URL for a specific version, Github always just timed out.
+                        </p>
+                        <p>
+                            To overcome this problem, I just checked out the repo locally and looked up the history that way.
+                            This was a good enough reason for me to make a project out of this, so I decided to index the whole thing and put a UI in front of it.
+                        </p>
+                        <p>Fun fact: only after completing the project I realised there is an <a href="https://docs.brew.sh/Tips-N'-Tricks#installing-directly-from-pull-requests">other way</a> of getting to a specific version of a package.</p>
+
+                        <h2>How to use</h2>
+
+                        <ol>
+                            <li>Search for a Homebrew package (e.g. <code>zsh</code>)</li>
+                            <li>Copy the URL to the clipboard for the version you want to install</li>
+                            <li>Run <code>brew install URL</code></li>
+                        </ol>
+
+                        <p>For example if you want to install version 5.6.2 of <code>zsh</code> run:</p>
+                        <pre>brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/4d602d14761390efaa08c262735b43601cfe229a/Formula/zsh.rb</pre>
+
+                        <h2>A few things to keep in mind</h2>
+
+                        <p>
+                            This technique will only work, if the version you want to install is not an ancient one. The reason for that
+                            is because each version of a package is installed by executing a Ruby script. As Homebrew's core evolves,
+                            so does the version installer scripts. If you try to install a too old version, the Ruby script might no longer
+                            be valid in the newer world of Homebrew core.
+                        </p>
+
+                        <p>
+                            If you already have the package installed on a different version, you will need to unlink it first: <code>brew unlink zsh</code>
+                            and then you need to switch to the new version: <code>brew switch zsh 5.6.2</code>
+                        </p>
+
+                        <p align="right">
+                            <button class="btn btn-primary">Close</button>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+            <div id="footer">
+                <div class="container-fluid">
+                    <p class="text-muted text-center">Index last updated at <a href="https://github.com/Homebrew/homebrew-core/commit/6b85c8b">Homebrew/homebrew-core@6b85c8b</a></p>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"
+                integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+                crossorigin="anonymous"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.0/dist/js/bootstrap.min.js"
+                integrity="sha256-kJrlY+s09+QoWjpkOrXXwhxeaoDz9FW5SaxF8I0DibQ="
+                crossorigin="anonymous"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap-3-typeahead@4.0.2/bootstrap3-typeahead.min.js"
+                integrity="sha256-LOnFraxKlOhESwdU/dX+K0GArwymUDups0czPWLEg4E="
+                crossorigin="anonymous"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js"
+                integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ="
+                crossorigin="anonymous"></script>
+
+        <script src="js/formulas.js"></script>
+
+        <script src="js/main.js"></script>
+    </body>
+</html>

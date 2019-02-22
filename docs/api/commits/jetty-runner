@@ -1,0 +1,19 @@
+{
+    "ecbf0f441e431a9aa007b592c9f523e2a41b30af": "jetty-runner 9.4.12.v20180830 (#32675)",
+    "a222377ed8017d720aaf1734aabf03af7e71727a": "jetty-runner 9.4.11.v20180605 (#29372)",
+    "15883bdf7b7143da80587921fa0d1b857718f531": "jetty-runner 9.4.10.v20180503 (#28513)",
+    "31954922700e0ec1c054dc601b4a51b12771796b": "jetty-runner 9.4.8.v20171121",
+    "460f0581401d3790a00a8bd47ea5eecb1a8be9ad": "jetty-runner 9.4.7.v20170914 (#18311)",
+    "cbaf2ab0dbe40e37458d3ae73d01722b17eddd88": "jetty-runner 9.4.6.v20170531",
+    "42f8074655c1748f732a3d6582862297c10e5e65": "jetty-runner 9.4.5.v20170502",
+    "5c54e42ba4806aae8e956aceb12bed3e68d62472": "jetty-runner 9.4.4.v20170414 (#12759)",
+    "19c31ab422bd1f91bf574dcb47345d1a06eb8b71": "jettyrunner 9.4.3.v20170317 (#12026)",
+    "144931c91c35bf712a02ceb83d41f6055d06468d": "jetty-runner: update homepage (#10308)",
+    "8c04635a7dd54f3d9a73f3b3f6fa3c13988d78d2": "jetty-runner 9.3.10.v20160621 (#3105)",
+    "2870b6ed7cbcff4ded992fd355e713414639dc64": "jetty-runner: use secure url",
+    "a692e4ac3bb3879f412cbd536b3e9689c767198d": "jetty-runner: bottle unneeded",
+    "85d42eb90558c813962668c8332c8b1d50a41602": "jetty-runner: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "27500be53a455a9e347d9bd9c5bf16aa56aa446e": "jetty-runner 9.2.2"
+}

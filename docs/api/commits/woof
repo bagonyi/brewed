@@ -1,0 +1,9 @@
+{
+    "1f27ae49927424305bbc5eb9cdf425eb5bba2a8a": "woof: fix ruby 1.8 test execution",
+    "e5222c843f5ef2597e77971319c69aeb1b2873ae": "woof: migrate from boneyard",
+    "93c8805edd53608456f8f0b7c7c5d132c5f19206": "Move woof to Homebrew-alt.",
+    "2b97dd1ac7791bae8de8d3907aa757cb2fdc8294": "Fix inheritance for ScriptFileFormula.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "c923f964e604cc095fc29e5933ed6771e0502fbd": "woof: version update to 20091227",
+    "71d2b0881e804b7b69f62df13e9c71196f56ab4d": "Added woof formula."
+}

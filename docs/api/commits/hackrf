@@ -1,0 +1,17 @@
+{
+    "b35a8242856301197438633801a2f6c6c826874e": "hackrf: fix dependency order",
+    "cea6130327c7d65de4c802d50ae72b7e34d0b195": "hackrf: update 2018.01.1 bottle.",
+    "31ba7be4a0acd1ad85293861de1914ad68b9baef": "hackrf: update 2018.01.1 bottle.",
+    "1168d6b745b39a01a24d6871e291bb126bd30a75": "hackrf 2018.01.1",
+    "708e6fa54750bf32fffcade34d90991c671e1b96": "hackrf: update 2017.02.1 bottle.",
+    "cb1fbbdb5c8a7ad1b8d1d938909be99df53a7171": "hackrf: update 2017.02.1 bottle.",
+    "4f2fbfaca09b446c731969e3edc18977961c5ca6": "hackrf 2017.02.1",
+    "e13972f5e399ea4865ad9528888e26c9cac27118": "hackrf: update 2015.07.2 bottle.",
+    "296441d6128287485eafa55f6b633a32107c4760": "hackrf: Add HEAD",
+    "c87765a8b3eaf1c343855699c9dada2e29c0f9fe": "hackrf: update 2015.07.2 bottle.",
+    "821760725c257f96d1fdefcda3aa171bc08a2185": "hackrf: update 2015.07.2 bottle.",
+    "784adca83f8de8fb3affac9a680d850ae184d431": "hackrf 2015.07.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "749439144e8412036fc092f902ce7fb706b05689": "hackrf: add 2014.08.1 bottle.",
+    "9c1fa7ecbc2bed0bbea33886f91fd42ce88c8b14": "hackrf 2014.08.1 (new formula)"
+}

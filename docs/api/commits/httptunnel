@@ -1,0 +1,16 @@
+{
+    "743c77e90b69f0af84f6d53d50ad3098195b19e2": "httptunnel: update 3.3 bottle.",
+    "b8f5bdfaa8a232dd7daf4fe0998eb274e935b3ea": "httptunnel: use assert_predicate instead of File.exist?",
+    "d1568cea916f6867d795e115279c77c13ea644ed": "httptunnel: update 3.3 bottle.",
+    "4dac895c662644f97066b55a5aa656617a916d12": "httptunnel: swap GNU url and mirror.",
+    "74af7848042781862d4c59255d98d3ed11ca7143": "httptunnel: update 3.3 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "b1eb34b45cb3033cef90e152662582d117f1ba33": "httptunnel: add 3.3 bottle.",
+    "ef53346d8f7093a3c6072daabca5161752dd4523": "httptunnel: update homepage/urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0599f7d22f1a6835ffcece26f10a311c59a14145": "httptunnel 3.3",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b2a64faf60d3f4cea930f76c22b34f8e72be7aa9": "New formula: GNU httptunnel v3.0.5 (stable)"
+}

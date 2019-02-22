@@ -1,0 +1,19 @@
+{
+    "aa8030b4cac5f1649a5cec32ce9cba57e6760108": "espeak: update 1.48.04_1 bottle.",
+    "a8bd8e0822aea497fde4f442fb84ce310d1065fd": "espeak: update 1.48.04_1 bottle.",
+    "802aeb6029328a5f932cc89679926e5b20428bfa": "espeak: fix audit --warning",
+    "ab206d3196855e77f2e8358c91998741b355c093": "espeak: Replace install_name_tool usage with ruby-macho.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "fd063049fad004ec46bba6faac3cf8479f1a8089": "espeak: update 1.48.04_1 bottle.",
+    "1b3c2464d7c63ad8a6633aa340f3e5bbe9e67ad1": "espeak: update 1.48.04_1 bottle.",
+    "808bdab943f7421c5ea8ce6d4b8ea468d90a2499": "espeak: tweak incorrect line",
+    "ede420140df7d184ee11b1bc0de352383738adca": "espeak: nest documentation",
+    "c37e002cf1fec2762c5c8b8af657daf0e91c7a4e": "espeak: update 1.48.04_1 bottle.",
+    "82a92f34c8130587e3c8359e5b034983b72dc65e": "espeak: compile static and dynamic libraries.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "bed1378786a81ce77da4d39fc0851c0654b46885": "espeak: update 1.48.04 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7d013512a78e677f1f0b401f520587a42cdeaccc": "espeak: add 1.48.04 bottle.",
+    "a7c006e28bbf4f3e34084f86a8468601a351782d": "New formula: eSpeak"
+}

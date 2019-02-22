@@ -1,0 +1,9 @@
+{
+    "dfea2a442ec46e5125c9ba6fe85d12884b71b644": "jpcsp: update 0.7+20160322 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1f14f5435aa74e5a7fb0db47e96a1858c39195c1": "jpcsp: update 0.7+20160322 bottle.",
+    "5312741c46594dbc30278b23a8279eeef5189c01": "jpcsp: use https for homepage (#11006)",
+    "4c52eff145fad631ed88a19f478b812bf300203c": "jpcsp: update 0.7+20160322 bottle.",
+    "d884b67f8f938c5c23f0c5f9337acce08a8a94e5": "jpcsp: import from homebrew/games."
+}

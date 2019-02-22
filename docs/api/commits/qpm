@@ -1,0 +1,14 @@
+{
+    "a1fbce1b1f2e68aacdac581839a9a4440b8dad5c": "qpm: fix RuboCop Layout/AlignHash.",
+    "a7443d3d0921065c4c8b12f84af1b79ba54b700f": "qpm: update 0.11.0 bottle.",
+    "7e13a7f401ac16fb50e6500712f8d01a5d99a5e1": "qpm: update 0.11.0 bottle.",
+    "fcf69c8c953079da66310f9b4a89547c32415422": "qpm 0.11.0",
+    "3e12137d49904edf889c4d0e12293ec1ff2c8470": "qpm: use assert_predicate instead of File.exist?",
+    "4115f734844e675d4818f201d22c0c58f210c058": "qpm: update 0.10.0 bottle.",
+    "ad9af199da1805b8b6f33f138017a0fdd197dfc0": "qpm: update 0.10.0 bottle.",
+    "129d8f6a5a930df5098071d5c5b94c19b50c284a": "qpm: fix build",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2645161105eafb00b23620161fc1997e3bbbc91c": "qpm: add 0.10.0 bottle.",
+    "0564c149d6999c1002684d345e9f3809e6ec6cb0": "qpm v0.10.0 (new formula)"
+}

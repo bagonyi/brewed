@@ -1,0 +1,15 @@
+{
+    "6268610470ec853666e60e4014b5b5101122b946": "cvsync: update 0.24.19 bottle.",
+    "bfcc4e490aaef4328fcef4d84936cf57e1450eb2": "cvsync: secure url(s)",
+    "1ca64342d1c4b17a04fdfa28941d8aee821a6470": "cvsync: update 0.24.19 bottle.",
+    "2e6c4c573aa2c42c9374b2071cf86c8c7b87652f": "cvsync: update 0.24.19 bottle.",
+    "fa566e51d2eb5c4e8a420ed3f80bfd8383a28142": "cvsync: use `to_s` over string interpolation (#3916)",
+    "528b6beabe0387dc4a958523fbb8e03894c269cb": "cvsync: add 0.24.19 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c5d396988d0ab330bf34307f0701ad0d0ba81298": "cvsync: add test",
+    "c8dabf6ac45bce5f94f732f330158af1128f381e": "cvsync: style nits",
+    "e574a4ee0a0f33ca805c12d15570363230eb437e": "cvsync: fix download URL",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "12528d7b6baec4721990a6b4b193f3254f4bcfea": "cvsync - Fix etc path from PREFIX/etc to HOMEBREW_PREFIX/etc",
+    "485c59d5d449c64541badbaca48cc3e0f3e16c3c": "cvsync 0.24.19"
+}

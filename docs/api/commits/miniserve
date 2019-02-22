@@ -1,0 +1,10 @@
+{
+    "8a4e8d0324e99caf981163a24d5eaafd02ed3ae2": "miniserve: update 0.3.0 bottle.",
+    "b8f4370c0a1722aad7fa74f83d2baa21d5646009": "miniserve 0.3.0",
+    "65855e72a7f0e83559c490f3788826c196042e66": "miniserve: update 0.2.1 bottle.",
+    "ed3394b806dcbacb8d317b163a128812ef97774e": "miniserve 0.2.1",
+    "aca67bad56235c7c11ad558dcd50ef37b73c97cd": "miniserve: avoid cargo deprecated syntax warning",
+    "c902bfc06989f2d4d77c31ce9a49737b107bd9aa": "miniserve: update 0.2.0 bottle.",
+    "357a24192484edcc4f4e0c6592e050bb279d4628": "miniserve: add 0.2.0 bottle.",
+    "f8b55705e2da3fda4936350915d2dd43b0722c25": "miniserve 0.2.0 (new formula)"
+}

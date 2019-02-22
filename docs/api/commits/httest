@@ -1,0 +1,19 @@
+{
+    "ce0a02e5bd25e0788f93ce21a5749f4ed143e0ca": "httest: remove options",
+    "d548b6ab6abf62b046de398f599d52bcf5ac1720": "httest: update 2.4.23_1 bottle.",
+    "a3c251f164bb587d6a53a77109f7aaad956c9562": "httest: update 2.4.23_1 bottle.",
+    "77f4392e27f520c5c6312b7589b0ef6153a5f3fa": "httest: depend on lua@5.1 instead of lua",
+    "39ac2e48f62ef463e2420f372d09a21209dd393d": "httest: update 2.4.23 bottle.",
+    "0b8a3f4c4ef0f608fe76d223f176e0fce1796d9b": "httest 2.4.23",
+    "6d2232d2617f7a0a0d21605fe741af135874abb6": "httest: update 2.4.22 bottle.",
+    "5e9778c60444fd2c34d863bce70862c514019f41": "httest 2.4.22",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9bfa2bca9e901b196c07e710b31ad4312eb66701": "httest: update 2.4.19 bottle.",
+    "318407feca2f36775fa43d945ddfb6fd676567e4": "httest: add link to upstream bug report (#10802)",
+    "a90f4a8b9af47b175a96b826bf2883f6e1cfd423": "httest: update 2.4.19 bottle.",
+    "9c4e621b286924a60074cfb17c941ac1d04713aa": "httest 2.4.19",
+    "2e099ec5257507929aaa1e3973f320019ce616d6": "httest: fix audit --warning",
+    "792bb6de6d6e131fb334887b8375943555a6ccb9": "httest: add 2.4.12 bottle.",
+    "26f668d1106d941d5d3cf03d43403ffca67d59d0": "httest 2.4.12 (new formula)"
+}

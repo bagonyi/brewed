@@ -1,0 +1,19 @@
+{
+    "7a789756d4a1d8cd801d8accc771d7edfc9143f3": "terminator: fix dependency order",
+    "5a3db2a1277fca0e0ecad8544fa81771442b790e": "terminator: update 0.98_2 bottle.",
+    "5b2b9363c3f0effd01a246b3d4425d4bc562e739": "terminator: depend on python@2",
+    "e872be8ee51773da5bf683f5a7c1a0d000cb5839": "terminator: update 0.98_2 bottle.",
+    "6ef6b55ba9c294dd9c7f9a66aaf2c344fc7d6a1f": "terminator: revision to fix install receipt",
+    "03550ffa4ad0126cd966e44122488453491c7ec8": "terminator: rename python@2 dependency",
+    "99d26b79f2043a5b328530a90d941c68faf19273": "terminator: update 0.98_1 bottle.",
+    "9bbb5c8cc1f875fe310aa140f29af618026e07ad": "terminator: revision for python@2",
+    "d61f8e3f211940dacce2d561653ccbb9f16ded3f": "terminator: depend on python instead of :python",
+    "8ce511d62c98154603490b6ed7b2aa1226dec9be": "terminator: update 0.98 bottle.",
+    "c40e8903bf464f1f8217a406893b38e1eac5d085": "terminator: fix test (#13350)",
+    "f7abad32881461f34cf1f1441d1fc3317490e5a6": "terminator: HTTPS homepage",
+    "3ffe4e604e445a66be4fb9faad61d9c2760cddd0": "terminator: fix audit.",
+    "cfeeeb676e0cf3da31a5757fe3358c1667c0b3c8": "terminator: add 0.98 bottle.",
+    "70d875274d93c9c5272ed28e65e64d35cce1890f": "terminator: import from homebrew/gui.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "d5f99558ae603b1d2b6b9b55f7d45bd60d9f34bf": "terminator 0.97"
+}

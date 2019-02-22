@@ -1,0 +1,18 @@
+{
+    "6e46a143073294b026cbe7b66bfddb21852ca775": "avfs: update 1.0.5_1 bottle.",
+    "1afd7d2e5016395274a1428a96a8f9c986ecd4f7": "avfs: update 1.0.5_1 bottle.",
+    "2e3992d5cd18d0817f8b8293f8eef67a03d8c907": "avfs: remove options",
+    "8dade39a565bb0168c51b1ad2860c2003618ae33": "avfs: fix dependency order",
+    "976537d73a014fb4250374fe06ca50b94efc4437": "avfs: update 1.0.5 bottle.",
+    "45480a265d0e3bdce324b63b250766bfb32ff134": "avfs: update 1.0.5 bottle.",
+    "cedeaa24c9d91080796d5ea3c0d732b1e3246378": "avfs 1.0.5",
+    "435211476dc6b1ebde32504a534968e28e739eca": "avfs: add 1.0.2 bottle.",
+    "14d635abc3de9c39e5733cf794b512d52308eeca": "avfs: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "877e20430c82aa97326e497c81049dc7ff450bf3": "avfs 1.0.2",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "c9bab4eeabd36c29b2c809597951c585770a159b": "avfs: use full path of executable",
+    "6da1dc1ce64fa2c3b8d544dcc22a42434f0e1a41": "avfs: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4b48baaa3acaceb77f272cb1da020103312f18cf": "avfs 1.0.1"
+}

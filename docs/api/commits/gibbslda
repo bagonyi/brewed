@@ -1,0 +1,16 @@
+{
+    "6aab2a44b3c50e2566124810b44f7c128a6d23e2": "gibbslda: remove references to pre-Mavericks.",
+    "992a71bd9fb98e7cc6134f10ecb8d7b9b1a67fdb": "gibbslda: update 0.2 bottle.",
+    "3403b1f4596640df34bea22b54324960b2b9c580": "gibbslda: update 0.2 bottle.",
+    "1344bb7c1bd4c0e6b80e3b18d7b2abe8cb40f76f": "gibbslda: fix audit --warning",
+    "7a7d6009975ebafc0df0455bc9e283562325b2a8": "gibbslda: update 0.2 bottle.",
+    "49ab1323e03d79ec43d9d385fd76690f908bd719": "gibbslda: update 0.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0623007347c0dc3e282494bee9ba57d2e269d897": "gibbslda: add 0.2 bottle.",
+    "92aca4148699e214b58a81a8fca6c1d2b199a39b": "gibbslda: fix compile",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c2ce50dcaf0035415a278da9ddacb2919dc1250b": "gibbslda 0.2.0"
+}

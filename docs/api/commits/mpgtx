@@ -1,0 +1,17 @@
+{
+    "8b783713c0b14a600d617767087466c93d96fe86": "mpgtx: update 1.3.1 bottle.",
+    "5389f5c03054a6b191eec3a3ab806dfc677874ca": "mpgtx: add test",
+    "2a6fcd6fc4d3b9d3b1de8fdf987bfe3f9ec69d64": "mpgtx: update 1.3.1 bottle.",
+    "957b120c63fb32db53c8b961dcd42f42a075745c": "mpgtx: fix audit",
+    "78a85d06d69cb4a71fbcc2a836325c32b308f35d": "mpgtx: update 1.3.1 bottle.",
+    "e0ed135f0c28dadc67849566fdec9b9310ffe96f": "mpgtx: add 1.3.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "81291e485c65cd718f5d110935e7e6ff9505f6c8": "mpgtx: fix build on 10.9",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "6555d71fe439043315ffedc9036b9934d2572142": "mpgtx: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b1da7087c899c95979fb4df57cd5796fa9bed52a": "Add formula for mpgtx."
+}

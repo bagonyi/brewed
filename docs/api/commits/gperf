@@ -1,0 +1,8 @@
+{
+    "e9f2d3a1554f4790d4f6f470f0630a5fe6317370": "gperf: update 3.1 bottle.",
+    "b1b05e8c796da1f92c04043ac52f8e1b1523fc1e": "gperf: remove old keg_only reasons.",
+    "a2d37fab827940e4b30ef8c3906e6cf92cdf55e7": "gperf: update 3.1 bottle.",
+    "c14cf8bdcc3e401d339918116b9fe31d0472165d": "gperf: swap GNU url and mirror.",
+    "2ae9457eda488be514c37e2d5e58fce344de1541": "gperf: update 3.1 bottle.",
+    "be967ffb569ab19cdee244b0996214b5ea047fe9": "gperf: import homebrew/dupes into core."
+}

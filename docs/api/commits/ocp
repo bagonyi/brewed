@@ -1,0 +1,16 @@
+{
+    "bf76f589d0f42a733cd3baf722c0672e8a1792e6": "ocp: remove options",
+    "f83791875f421f1f5ae3e4efd837d4f2110a4ea3": "ocp: update 0.1.21 bottle.",
+    "444acbebc07adbde909c38969b12d60f36ca7cd9": "ocp: add test",
+    "accef4b2d0bfe65973e442298b07272b5b9815e4": "ocp: update 0.1.21 bottle.",
+    "f48ab7b32129ac6ec9f97be09309990f09bb7070": "ocp: update 0.1.21 bottle.",
+    "3ce40ca0fa7f2dcfa239f8dadeb7cc7f50db5926": "ocp: add 0.1.21 bottle.",
+    "a26de3f7f074334fc4431beaeb29f7ca6b373288": "ocp: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "6af6944a91029d2e207586f58443b1310453c4ea": "ocp: use new optional deps",
+    "3a5757710d5d48554770615535e1bdecf951b8e2": "ocp: use new dsl",
+    "5f291e7bfc431dee92f880e0f18e96bfe1823c20": "ocp: add dep and fix arg checking",
+    "ddbe1d0ffb31f2d88cdad956f637e2f221d822d6": "New formula: ocp (open-cubic-player)"
+}

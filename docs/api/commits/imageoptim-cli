@@ -1,0 +1,11 @@
+{
+    "5d426b7d06f45deb227b2b26db4da0f69cd6a8a7": "imageoptim-cli: update 2.0.4 bottle.",
+    "50d189134a0248602a8a13331e828ce8c3ee30a0": "imageoptim-cli 2.0.4",
+    "b3dd149d4c8dde7dc52793723be099d71e44b438": "imageoptim-cli: update 2.0.3_1 bottle.",
+    "62059d3739d12d1a546c01ddbd922b1ec7fc4e56": "imageoptim-cli: update 2.0.3_1 bottle.",
+    "c8a4240b97888e7f54bb703fe7ea3460adccc806": "imageoptim-cli: build nexe node from source",
+    "8fd74b2213ad1e19d6b40b04d5fe94a35508d19f": "imageoptim-cli: update 2.0.3 bottle.",
+    "9434eb71e5ebf4a8434e807e7fc60b8388d1865f": "imageoptim-cli 2.0.3",
+    "abca9752a87c50cf5e815e44eefac80dbe2db573": "imageoptim-cli: add 2.0.2 bottle.",
+    "ad3ec7905f3bfb9c64cc5eb16a5753cef78d15cd": "imageoptim-cli 2.0.2 (new formula)"
+}

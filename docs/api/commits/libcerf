@@ -1,0 +1,10 @@
+{
+    "7710b1d232adb5691d8321cfc8c935592080d76b": "libcerf: update 1.11 bottle.",
+    "5709dfe832f202259b6b9cf8e53a787412d7809e": "libcerf 1.11",
+    "55d6553869deac042b6fa6e5c46f088e5b6254dc": "libcerf: update 1.10 bottle.",
+    "c0e9f15da5e669eba5579592f9e15106123941cb": "libcerf 1.10",
+    "806b4625d3aa8a7468320581bb7a76e6dcbc02d0": "libcerf: update 1.9 bottle.",
+    "84fd3e3a20ddbd01506c96365272bfdb5e8adfa8": "libcerf 1.9",
+    "388969ac574948e3c554a6c5e20ec1830ddcab1f": "libcerf: add 1.8 bottle.",
+    "4ff37359874751d823914d9aee10f09786ff3a4b": "libcerf 1.8 (new formula)"
+}

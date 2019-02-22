@@ -1,0 +1,12 @@
+{
+    "2977fde4c84adf14324a5a78e8acf893d84f5bee": "z80asm: update 1.8 bottle.",
+    "b4aa87d8dc05138d9b64c0c4223496dbefdf266f": "z80asm: secure url(s)",
+    "017f523eb9d678c619bfa7b7d9575d84f8575d94": "z80asm: update 1.8 bottle.",
+    "9e7725883bfe02a1a001ffdd076f34050ebb18ff": "z80asm: update 1.8 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "597b0285b1f493a065304d40e5e54fce19a4a336": "z80asm: add 1.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5be5c225a4d903963512de2279967e9c3d078f74": "z80asm: improve test by assembling a small file",
+    "f093b91ff0f92e4e492cabdc315179b8847ba4e2": "z80asm 1.8"
+}

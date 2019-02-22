@@ -1,0 +1,11 @@
+{
+    "f304d324d1de1a7b066755ae8fbe6169309da624": "apel: update 10.8 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "01bdf88546e93bc56e926e4ca10643bfce4eb81b": "apel: update 10.8 bottle.",
+    "773410ca0761ad68820093e6f48d6773d095605c": "apel: update 10.8 bottle.",
+    "bcff9b0901cfe53101f03775480eae2887025d13": "apel: use elisp shorthand",
+    "7ce73c13aa06435001449d9274ebc738db3b0fdf": "apel: add 10.8 bottle.",
+    "8d99ee9894e7eae12d796f717b3c0cad62128a84": "apel: formula-specific directory in site-lisp",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "99bfa2d9f6a895d5b407d0f1400c9bfd6dc0781c": "apel 10.8 (new formula)"
+}

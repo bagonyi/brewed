@@ -1,0 +1,18 @@
+{
+    "d91f3fe25d0079878eb09afa4077c06d9f942305": "spawn-fcgi: remove options",
+    "e669bc1da7c7c8e19cb62b1c6164e0468407fb37": "spawn-fcgi: update 1.6.4 bottle.",
+    "19c76137a1ccbbbb1afccd0e8e06c0a0e8c5e213": "spawn-fcgi: update 1.6.4 bottle.",
+    "7488ad9ba8b9d39dca749087ed50cf9f649a236a": "spawn-fcgi: fully scope test system call",
+    "0216009d5fe42bd183fb2c3da1c5a722ac2f84d7": "spawn-fcgi: update 1.6.4 bottle.",
+    "6924871a47a987d505de8caa866226ff2e1bcc37": "spawn-fcgi: update 1.6.4 bottle.",
+    "1b6effdb252596b05192f967571fc2c60e814f0f": "spawn-fcgi: use secure url",
+    "3616d407b9b87aee367452aab287c9dacc763b98": "spawn-fcgi: use https homepage",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ac223a7ef42b3a0f04b1fcfc862f2d25b6bda131": "spawn-fcgi: add 1.6.4 bottle.",
+    "5d3681cdd369c998b57b2b6d6eba5e08c9e11c88": "spawn-fcgi: add disable-ipv6 option and test",
+    "d768d989beb1d720f73224f911773d2aa5154553": "spawn-fcgi 1.6.4",
+    "39d4628093035004397915aaf83f28c47e85b287": "spawn-fcgi: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "c93435b023db5799d154afe18abfb41aa9c04635": "spawn-fcgi is used to spawn FastCGI processes."
+}

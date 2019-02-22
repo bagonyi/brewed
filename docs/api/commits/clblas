@@ -1,0 +1,6 @@
+{
+    "adea4d26f4b3b3caece2bead2ea3abc4f75086e6": "clblas: update 2.12 bottle.",
+    "c2fdec80091f9badb5457c61a6e3817d5c7f24b5": "clblas: update 2.12 bottle.",
+    "0eb6a51c5d6e71be5f20229f04ae024b450d3c6e": "clblas: add 2.12 bottle.",
+    "9b772bb85eeaaae67543094459ac10fe04586286": "clblas: import from homebrew/science"
+}

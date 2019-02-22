@@ -1,0 +1,21 @@
+{
+    "a8264e5db476e99d5adeba0fe9478bc5628075f7": "streamripper: update 1.64.6 bottle.",
+    "11de2d7bf7cd87fe545ecabeeaff9284522cf3fc": "streamripper: add test",
+    "f2ea9a104521dcd0d28f48f492ea80a7f81c4bc6": "streamripper: update 1.64.6 bottle.",
+    "a4992c0e07fda792b40f8d1d447c2f924ee18f55": "streamripper: fix audit --warning",
+    "2e98a9cddfade6820d3f8d5360ff347b4709ac85": "streamripper: remove unused fails_with :llvm.",
+    "9be0833490b6265acaf277070f0ee1fdb112e086": "streamripper: update 1.64.6 bottle.",
+    "4d689ff37d4148660605276345a6681977cfbc53": "streamripper: add 1.64.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "7121c1162d4e4f9f6a1953971f9107d250d66e8e": "streamripper: depends on pkg-config",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "64afeec6d43528a235ff61d2a627a829f089cac1": "Use new fails_with DSL syntax",
+    "5e3379f7927ef4b534de1bae864d0582e51340e3": "streamripper: fix build for non-/usr/local installs",
+    "6f70e1f9dc2cc0911ae7b13b21e832473c1f26ee": "streamripper: fails with LLVM build 2335",
+    "99b61b9a238156e7490a20f63b4d1c699ee781a2": "Update fails_with_llvm in formulae",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e1bb9197349c410c75dc9c7ff1dca3a78e07dfb4": "Add \"fails_with_llvm\" to formula to document LLVM build breaks.",
+    "9c592713ec28aff4645b6b4d80917b46ad31dbce": "Streamripper formula added."
+}

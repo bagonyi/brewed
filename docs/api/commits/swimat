@@ -1,0 +1,22 @@
+{
+    "18bf9abd960bfef2a0c7fd23bd7f8dc15d4ad7c1": "swimat: update 1.6 bottle.",
+    "aedab7ab4cb62801ab7a61a4f3aacff9ed3d20bf": "swimat 1.6",
+    "3f023a129ddb86a6b327e7105a2ad48db8bdfa8e": "swimat: update 1.5.1 bottle.",
+    "1cd253002de51105f1decefc58f1406d7dab495c": "swimat: update 1.5.1 bottle.",
+    "0a829683e2892fa91f63e434bc5b41dc2ea4db3b": "swimat 1.5.1",
+    "a48647280f937d44cfcc60fefbae8768c1c6a632": "swimat: update 1.5.0 bottle.",
+    "09b26b4951121b630cd05fa2ff91df3471f0ffac": "swimat 1.5.0",
+    "9c31b30ad7a62fb155bbd33ea65c29fa4604e247": "swimat: update 1.4.0 bottle.",
+    "76ff1cf1a7f0471645354fd58cb88e4694ef7cb6": "swimat: update 1.4.0 bottle.",
+    "2f98f2368d6804707be6edf6d1173117125cce18": "swimat 1.4.0",
+    "12399604ffebefbc207008267430733f8afd149e": "swimat: update 1.3.5 bottle.",
+    "dbb4580c4d6cc485e8b4e7db6e5b99f85ee88b46": "swimat 1.3.5",
+    "5afa5dcacbaf461950912a462c4e16b58d4bfff7": "swimat: fix audit 'description must start with capital letter'",
+    "77a04fd60ea1714429cd6513f0ffac5b02c2b675": "swimat: fix rubocop warnings.",
+    "a2e3457a52f42a78071fe1f1f7f601feec064606": "swimat: update 1.3.3 bottle.",
+    "d5f0b49928ad9abe28c8edda444cd7981e6af70c": "swimat 1.3.3",
+    "0b919c6971d952686cd6dc5b3a5026490ed56620": "swimat: update 1.3.2 bottle.",
+    "8d4089b4a4f102e193bd196bb8d8172a0c79f072": "swimat 1.3.2",
+    "d52fa0ed6d9d0fc95304367df4fed343e9bfebdb": "swimat: add 1.2.1 bottle.",
+    "102de272eb6c6ec58a0a56bf355139687d083296": "swimat 1.2.1 (new formula)"
+}

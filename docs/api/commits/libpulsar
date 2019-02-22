@@ -1,0 +1,7 @@
+{
+    "6b85c8b0c76964752dabf5343f0babc8fe280589": "libpulsar: update 2.3.0 bottle.",
+    "fcc845573eef8564c7fac9ddba8a9e660b2d06f7": "libpulsar 2.3.0",
+    "24c06c4c49374136d484ef8a000b1c1626f2bf79": "libpulsar: use common/short form of apache url",
+    "4ceb5e346ff2bfe7cb9b2d0f1bbdad072300933e": "libpulsar: add 2.2.1 bottle.",
+    "c2f34710ae2d378fbea076661016b87b31ce35af": "libpulsar 2.2.1 (new formula)"
+}

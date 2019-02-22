@@ -1,0 +1,20 @@
+{
+    "afac9acadd41f3a81c1156f373d174e91d02f55d": "bashdb: remove references to pre-Mavericks.",
+    "fc14821e82646505daf629060a6c9de9726ed750": "bashdb: update 4.4-0.94 bottle.",
+    "0385b5d984e0a7602bbc680075b91256bb4b9fea": "bashdb: update 4.4-0.94 bottle.",
+    "79acfa578c58469dfb131524cfd14bc49a49f556": "bashdb: update 4.4-0.94 bottle.",
+    "74ba79c716c5f5942dc53cb6b8ed9207185740ea": "bashdb 4.4-0.94",
+    "636666286624dc81a219ef1bc7b16f3a06007930": "bashdb: fix audit about sourceforge link",
+    "0e332425b12e652c78becc91d0a0da66f19aac01": "bashdb: update 4.4-0.92 bottle.",
+    "017df539fddbd046f98c60a9c82d1d3d47168b24": "bashdb 4.4-0.92",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9904e3a2791ad8c207abe7e9e9ef9db5b27474c1": "bashdb: add 4.3-0.91 bottle.",
+    "45868a3aff9333bcd96ccbca5abee24b41f18fdb": "audit fixes: B: backupninja - bigdata",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e97e4cbe8bc5e123896876c79ac1e20442a894c6": "bashdb 4.3-0.91",
+    "203bf13274c225b0b447f55ce1a9e59b1f3dc0a4": "bashdb: 4.3-0.9, depends_on :macos => :mountain_lion",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "078bb04f1666f916f56249a1ae7ea7636b43cf3e": "bashdb 4.2-0.8"
+}

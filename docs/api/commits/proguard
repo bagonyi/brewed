@@ -1,0 +1,22 @@
+{
+    "b7cb9cd569b44d63eb659d90fc75c27bad7d705c": "proguard 6.0.3 (#27895)",
+    "def77f3acc3cd20d5b1e6604b8350ff6a3e64b6c": "proguard 6.0.2 (#26639)",
+    "38a4582107ec37222a4fa0198c76871fe5b1066d": "proguard 6.0 (#23689)",
+    "23ec1195dde20674ed7f6525105b86c4c43556e2": "proguard 5.3.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9066e86589f3f984a0eb68594f06939337071cf6": "proguard: fix audit --warning",
+    "47662e3a41c8a28377f48086ae85523561ff6d05": "proguard 5.3",
+    "5c12302fdb53c464955a216f33e8b1ae7475350e": "proguard: bottle unneeded",
+    "afc357986cdafb57e563f70bf1c010c1c9d5996e": "proguard: install proguardgui",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f49b34316627f4cb652d5d38ca472e8534545b5e": "proguard 5.2.1, add test",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8933c7e50b50a0ccf2c28ddd054a88845715b7cc": "proguard 4.11",
+    "03b6e7f6af095015678a444ab8b35429a594a558": "proguard 4.10",
+    "953bc8362329521c91c783ee528e642e2918358e": "proguard 4.9",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "ce7138460dd7a9bac7b4fbff9d835aad7fc11b32": "proguard 4.8",
+    "c0f61119215f0a7d02af812fb4aeebb08934ce79": "proguard: style updates",
+    "7ece342560363483ac0a621de8f24ee4f2a1993f": "Proguard 4.7",
+    "13c50bcd8f071e896d387f42acf3c5b459cdaf48": "Proguard 4.6"
+}

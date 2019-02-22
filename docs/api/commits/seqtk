@@ -1,0 +1,8 @@
+{
+    "6b799774f4ce1b1cd600f3e759d33456fb466b25": "seqtk: update 1.3 bottle.",
+    "67aad4318b79ab61756cfff70397f2637a009e1f": "seqtk: update 1.3 bottle.",
+    "025bb0e37d9dd95af8f2ed484cc0d8a63fe9f55c": "seqtk 1.3",
+    "028286e9c3ad093dc5c0650032bc7166866c4621": "seqtk: remove head spec",
+    "c0fe5928f214183c2ab2c60ee5a16fbfc1794432": "seqtk: add 1.2 bottle.",
+    "b6abe87655468f2a27fbdfe69ba2d6419a880445": "seqtk: import from homebrew/science"
+}

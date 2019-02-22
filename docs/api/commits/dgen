@@ -1,0 +1,14 @@
+{
+    "499024568c80248ff2da7b6af84c69f94770c412": "dgen: remove options",
+    "bd72f4252674bdccb26e2a32cf39ca148ef0cdc7": "dgen: fix dependency order",
+    "05bf213ef4011ec8991bbd0813746f4b4b32432b": "dgen: update 1.33 bottle.",
+    "b52ef78f2237c546b381928326b712011ea21164": "Fix whitespace in top section of formulae (#29511)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a572ff5dd2e2c9617bb8323cbcf4c67900bc3121": "dgen: update 1.33 bottle.",
+    "cec240deffc491a2e548db9973a803139cf751ad": "dgen: fix rubocop warnings.",
+    "1ed8246af11e41e5a2fd151eccfd61ec20686760": "dgen: use secure head url",
+    "f8bd34b203cf5e7348c126208b96ab5363a46bf1": "dgen: fix audit --warning",
+    "4672560aafdb57b54cb8ac3c4274a7c8cfec369a": "dgen: update 1.33 bottle.",
+    "a95b879b8d37b435a8625cf6f16c35f151802c0b": "dgen: import from homebrew/games."
+}

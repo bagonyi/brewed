@@ -1,0 +1,12 @@
+{
+    "ecef0ca62c3b05db513c1dd0b37d50fe89b0beb8": "mfcuk: update 0.3.8 bottle.",
+    "5e8365539778e53e03da610aca29585bbe92f6c4": "mfcuk: update 0.3.8 bottle.",
+    "8b7ddf1847da34331112676a1376251d09e0ddb5": "mfcuk: update 0.3.8 bottle.",
+    "15e20bba1e2a8edd6904a95a2ddec530f3ccf74d": "mfcuk: migrate to archive URL/GitHub homepage",
+    "35d6699a2713e61a1d6829914a5791c79025b09f": "mfcuk: add 0.3.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3505ca7ad7714a999f1717cf4cf57e7b36c6e16b": "mfcuk: remove unused deps",
+    "2611f472609411401f47d89a7101ee416a92561f": "mfcuk 0.3.8",
+    "8030e9f20227a36a84edc02981cef560571b536f": "mfoc 0.10.7"
+}

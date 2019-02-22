@@ -1,0 +1,15 @@
+{
+    "df5646739dcb9fce2ef9f3beaccf40f6542c5b79": "weaver: update 0.12.2 bottle.",
+    "1ae27cc77d6417b1e5c7061c08d8b500a76c0453": "weaver 0.12.2",
+    "f739432b053c72b2b7ed7aff8c404b66a9f22675": "weaver: update 0.12.0 bottle.",
+    "683aa883853d188895a4d0fec3a07aaf6bb43fb4": "weaver 0.12.0",
+    "8f877c000c218ccb5eee5c75bed967c48044dbe7": "weaver: update 0.11.1 bottle.",
+    "6ccf1a49a98f0b0c75c998b1f87f1733c3a6b12b": "weaver 0.11.1",
+    "31ae1544a40f607331debb49ba5986ec5a952e8f": "weaver: update 0.11.0 bottle.",
+    "058c9ec4fd7a5535ef59b54313cc9a54d8a72b06": "weaver 0.11.0",
+    "6e821fff466c9267d86a15d68f58ff70160b4632": "weaver: update 0.10.2 bottle.",
+    "62414534681702b63dce1cce2919eade1df5a599": "remove workaround needed for `rdar://40724445`",
+    "12d64ddaa168758d9051d03643acf00f8c626b53": "weaver 0.10.2",
+    "3eb1be4d81fe12c203119d4404c8bba42941d0e5": "weaver: add 0.10.0 bottle.",
+    "2baaf853691e4a287eae11d2a82cea5dad1be61b": "weaver 0.10.0 (new formula)"
+}

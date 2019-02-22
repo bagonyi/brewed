@@ -1,0 +1,18 @@
+{
+    "6df91eb15292e7bf34c22ae681af5534009d7d46": "huexpress: fix dependency order",
+    "29689a523b7f7d12af5e87136746df128544de66": "huexpress: update 3.0.4_1 bottle.",
+    "d809ab9503a1bbd574f33b29888d2ae36542c866": "huexpress: update 3.0.4_1 bottle.",
+    "ee25d7932d66149870738c42dd33741215b28171": "huexpress: revision for libzip",
+    "173c79f93978310d444bbe679b52aa165e6eea0f": "huexpress: update 3.0.4 bottle.",
+    "d3cebdc40c16011473f54ebd40a5f81196cdffb1": "huexpress 3.0.4",
+    "43731753c905d0887699a0dcacd935c36a8e7073": "huexpress: remove SCons 3.0 build fix",
+    "6a92ba295a706efdbed8d1cb52f3675716106d1d": "huexpress: update 3.0.3_2 bottle.",
+    "fca3a70dda03b47e23bba32b77f65bd778171c5c": "huexpress: use 2to3- instead of 2to3",
+    "2a167c4bd5c60ce788bbda6170eb3a04bec40846": "huexpress: fix build with SCons 3.0 (#18296)",
+    "a63df6e5d788598eb5773afd536d949b2d107394": "huexpress: update 3.0.3_2 bottle.",
+    "17fd9216d2a763241968fc871a125b90cd090512": "huexpress: revision for libzip",
+    "a45a6d9f34bba0cebc3aa05fae5970579c84bec6": "huexpress: update 3.0.3_1 bottle.",
+    "499f7f724a0efbcb6c7c8cb2190d1e1a940f226d": "huexpress: update sdl2_mixer dependency",
+    "9f2c4be825da5d1f72fb4ee0650c287f2a43e933": "huexpress: update 3.0.3 bottle.",
+    "a657bc3384471d4eb53ac4b38696207a925c90a4": "huexpress: import from homebrew/games."
+}

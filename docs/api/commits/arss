@@ -1,0 +1,17 @@
+{
+    "81f09b89aabff93e07e27cdd41d9d35d498ca2fe": "arss: update 0.2.3 bottle.",
+    "bc2a6a02b1b04aa29f221251c38dc95bea1776d4": "arss: add test",
+    "266188b2ac5792fce1ad8daa8ce63edd6f57d648": "arss: update 0.2.3 bottle.",
+    "2be73ff0d1e43dc543544f088c0b99187591166b": "arss: fix audit --warning",
+    "b92be24d1bd43f29f29e6ee1b0f0588e386803d6": "arss: update 0.2.3 bottle.",
+    "f2951994a43d19a8520a22bbbb252a2a588fed47": "arss: add 0.2.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "7c5720e36f5d3e00f6a0ae5e5fac7b9a0e161815": "Put source path last in cmake args",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "127c442baa3ced970651500b524646aeb9798026": "added arss"
+}

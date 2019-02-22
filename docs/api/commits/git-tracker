@@ -1,0 +1,22 @@
+{
+    "d57b0b4cfdd7bc1fff4378a5ec1e7e88c6d793e2": "git-tracker: update 2.0.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "c6d22c32a65f21815eefd17a5536d51e8a8dd727": "git-tracker: don't use deprecated `rake` method",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "070d31222356e23f50e121d953d917e2fef77788": "git-tracker: update 2.0.0 bottle.",
+    "afd0bb4dedecf7a9a591a78bd2d0f5da72aa774c": "git-tracker: update 2.0.0 bottle.",
+    "f37ed63c06bb288ba774853b47ca3e5a3e4a7672": "git-tracker 2.0.0",
+    "7cd9d4edd431c5a2430a88ee2fceda11152711bb": "git-tracker: update 1.6.3 bottle.",
+    "b2b6c16651d9e961825b529fcbd09784e31f2f09": "git-tracker: add 1.6.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "ea73e479b9ad811a7dcf373007556d9bbd59766f": "git-tracker 1.6.3",
+    "c9d75eb7547691fa514c652fcf84376918e25861": "git-tracker 1.6.2",
+    "3ffd2218431fec472b6fd1ef8f99611c1566d163": "git-tracker 1.6.1",
+    "d2766b462eee910740fbda374215b125b5d1c5c6": "git-tracker: use test assertion",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "1205275668673fe19f00580dfe668d77974b1619": "git-tracker: improve test",
+    "d4a1426f920f78b1215cb528a16b35794821145d": "git-tracker 1.5.1",
+    "b246dd64528fde142de00d2a89d0db8c820e16a1": "git-tracker 1.5.0"
+}

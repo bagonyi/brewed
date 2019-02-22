@@ -1,0 +1,15 @@
+{
+    "081c7205a082f05428846e5d4b03dbb455956631": "ctemplate: update 2.3 bottle.",
+    "bcb2f352a2654d35dbf864b4765cb863db6075c0": "ctemplate: update 2.3 bottle.",
+    "9d3e7990526d17e0d6b342d3a92287121f6e905b": "ctemplate: update 2.3 bottle.",
+    "a46b43250f62fc9b75ce211095ac293e19022822": "ctemplate: add 2.3 bottle.",
+    "8ca8386f6c41585b49304564fb6ef51786becd78": "ctemplate: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "04c68047124f56d2a1bb5a10522543336e87a563": "ctemplate: fix version",
+    "0f1a66f955043c0e892f6b28acb5b32750b8b38c": "ctemplate 2.3",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "075e68a8e50e130e4e5aab9c986af43bc39d3a43": "Remove redundant :using",
+    "5aa2e49480f0f054ffcdaaca33ef21b834c945a4": "ctemplate: add --head",
+    "a52d256e9adb32e57dce6d0a7f679df4bd4ba7d2": "ctemplate 2.2"
+}

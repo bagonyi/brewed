@@ -1,0 +1,49 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#commits {
+    margin-top: 15px;
+}
+
+#commits .hash a {
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+}
+
+#package-input {
+    font-size: 18px;
+}
+
+.copy-cell {
+    width: 100px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+    height: 50px;
+}
+
+div.what-is-this {
+    margin-top: 20px;
+}
+
+button.what-is-this {
+    margin-top: 20px;
+}
+
+div.what-is-this li {
+    font-size: 23px;
+}

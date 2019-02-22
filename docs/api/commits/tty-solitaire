@@ -1,0 +1,10 @@
+{
+    "1d0038712ab6a84e3fd18b0d8353fa2b360452e7": "tty-solitaire: update 1.1.1 bottle.",
+    "9a5971184689d76ed0a4dea0e93723ee48d6e8c7": "tty-solitaire 1.1.1",
+    "59d05e6e99efb69350242c19f82f8d9972bb9673": "tty-solitaire: update 1.1.0 bottle.",
+    "be4ac07b372fc7ab4fe46ad6ed0a5ea336e9eaea": "tty-solitaire: update 1.1.0 bottle.",
+    "972d5e716f324bbf4142cb422df77ab44cc279d3": "tty-solitaire 1.1.0",
+    "1dcd75c0494ef6568538ddb511aa23eb6310613f": "tty-solitaire: update 1.0.0 bottle.",
+    "cf74270c2294fc359dbb90b1e00249d4e6bbad6c": "tty-solitaire: update 1.0.0 bottle.",
+    "ed292cb04ef9bf5078cd4ebf46732486bc90f31d": "tty-solitaire: import from homebrew/games."
+}

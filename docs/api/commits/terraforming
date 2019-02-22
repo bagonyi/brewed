@@ -1,0 +1,10 @@
+{
+    "5c61ae3abd7f7d81fc188b3a2a62d46887bfb1f8": "terraforming: update 0.16.0 bottle.",
+    "e333cadbf242e0ccf09c51092f5818d59db8f3e9": "terraforming: fix RuboCop Layout/AlignHash.",
+    "160df425b5b0c414db33a7fe2dc2731d7cc88983": "terraforming: update 0.16.0 bottle.",
+    "b615d24011a95ee6c80cb061c35d549c4c4a387a": "terraforming: secure url(s)",
+    "58f5dd932c1dcb10e83cec4fb031a06b5b3f7f8b": "terraforming: update 0.16.0 bottle.",
+    "c0bca51b6de29cb04e41527b58d17ca5f6f4e1be": "terraforming 0.16.0",
+    "bbc1c2783b7a1e49f12311714cfcf02c8ce85c9f": "terraforming: add 0.15.0 bottle.",
+    "371579c26b895930f36064368a6519710adfe54f": "terraforming 0.15.0 (new formula)"
+}

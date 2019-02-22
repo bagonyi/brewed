@@ -1,0 +1,21 @@
+{
+    "7948da4ecb40af5f841d8429f53f0ed73a976b0e": "flactag: fix dependency order",
+    "cc24b857b68fd83414e8f7bbf87e70e30164996c": "flactag: update 2.0.4_1 bottle.",
+    "d7d57648389312f64a9246efcb3a75496fadd0b1": "flactag: depend on docbook-xsl at build time (#23952)",
+    "546f8eb7f2a84de975bc97d012335df429d124ca": "flactag: update 2.0.4_1 bottle.",
+    "3c6aa4a2e48eb4d0839fa6b82162c1f8087bb838": "flactag: update 2.0.4_1 bottle.",
+    "6376bbf01ea10b992512c618e441c966f54c0df1": "flactag: revision for jpeg",
+    "16c8e3ee691ef92a2e54a8b0a616e2bf313f26b8": "flactag: fix audit --warning",
+    "3ebc54975ae9a92c102515186724eb16bca4efa4": "flactag: update 2.0.4 bottle.",
+    "414b274561357db5a51904ff20f1413859044ad0": "flactag: add 2.0.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b71f7cf5abf430e402ac27f6becab884ad794f54": "Prefer etc shorthand",
+    "e24ef6e3ab4e3ea6c0ee71e6f70a71515e419c33": "flactag: replace patch with envvar setting",
+    "34f294ea74faa0c7f0466f40562e6d7426c8c64f": "flactag: add missing jpeg dep",
+    "f6b8325fdd559cc2a01381b0dd2133f99a2d6836": "flactag: fix link failure",
+    "827eb370e4598f943d924af56143d693db94ed49": "flactag: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "f437b4a49b00ecc910ab01525a6652c2b4d8380a": "flactag 2.0.4"
+}

@@ -1,0 +1,9 @@
+{
+    "d3c73c8de8dbbddeb8149a51c73e88fb7bafff77": "nuvie: update 0.5 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6650c797707485e8f741e22b5ef17aa1d499b8dc": "nuvie: update 0.5 bottle.",
+    "53fd5bc58b0bf3a26c437811bb863b1f547417e0": "nuvie: fix audit --warning",
+    "8d47802edef10a7e68f164cfbfe51239f155cc6a": "nuvie: update 0.5 bottle.",
+    "a7ce77667f24681ba90497839852a8813c1bc01a": "nuvie: import from homebrew/games."
+}

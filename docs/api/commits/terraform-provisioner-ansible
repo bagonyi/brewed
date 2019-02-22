@@ -1,0 +1,10 @@
+{
+    "944a6252b7836233811e67be177c5957e4adfe21": "terraform-provisioner-ansible: update 0.0.2 bottle.",
+    "c1fcb2d8dfc6deea833a1e5dbb8710b44026c130": "terraform-provisioner-ansible: remove :run.",
+    "5d357123b12850ef4ec9b6306eb28aa3ec9bebe4": "terraform-provisioner-ansible: install metafiles",
+    "2d870df5162dc7592d36406e3fbae8ce5601a099": "terraform-provisioner-ansible: tweak resource style",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f8e3e790bcdf6b17ddd52e8161f9fe7d41de1c4a": "terraform-provisioner-ansible: update 0.0.2 bottle.",
+    "23483ce1904b4181a911d00361c43d090217e978": "terraform-provisioner-ansible: add 0.0.2 bottle.",
+    "baeb5bedce36416b0ec2cde509156ef83bee4748": "terraform-provisioner-ansible 0.0.2 (new formula)"
+}

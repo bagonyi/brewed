@@ -1,0 +1,23 @@
+{
+    "182107f8478583721a3d2b276a24e68d7aba83fc": "q 1.7.4",
+    "890d29977b49f26ec4038deaab817a93919c3929": "q 1.7.1 (#21019)",
+    "42df2b977a4324503a601a885cf6dda3406e9733": "q 1.6.3 (#12668)",
+    "87feb7327ad0b53da1b8c1fb1f59a0568a6f6d24": "q: bottle unneeded",
+    "f450ab9d54c2dd74d92ede13190efe4390f73731": "Revert \"q: add 1.5.0 bottle.\"",
+    "2d7bd285fd9e14e7d46151ae11c31f3c96dcd202": "q: add 1.5.0 bottle.",
+    "dfcc6562745afc5945a3a557115f0abbc52df95f": "q: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "90ba5c6de9f1b3b757b100dfc798d3d8f5a07ecf": "q 1.5.0",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "e0f0793c16ed6d457bc497449815782d6a2e1a54": "q 1.4.0",
+    "b363ec5e848036172ae9951c1e10c056f2a7dae4": "q 1.3.0",
+    "ba32987bd4b51b379a7265a6219f68d009616a3b": "q 1.2.0",
+    "7abf60b009038f60cca48e882e578f7aaece5efb": "q: add test",
+    "c1411aeb31055a5c65808ad3c9bef9a9ef5d6161": "q 1.1.7",
+    "257cdc7378de9edbf8cab782e36c243cb2de0a0f": "q 1.1.5",
+    "5e24d620a95e2dc548c3b5022680c06c76483d83": "q 1.1.2",
+    "348a7d4b02d42194f4f1e1a72a2adebdec07df13": "q 1.1.1",
+    "793967a457415bc91b38eafcb100c4fcfc33649a": "q 1.1",
+    "dd760bf653fa0daf600c0030a07486c775b6eb25": "q: use official repo",
+    "8d9950cfc64cc37ad292d8418170b5407190638a": "Added formula for q"
+}

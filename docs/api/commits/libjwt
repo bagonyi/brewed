@@ -1,0 +1,11 @@
+{
+    "0222c9720bbab4c1e14c0cf8d31fb71ecf089fbe": "libjwt: update 1.10.1 bottle.",
+    "fae7e3abbf3f7dcba56cae828ccdd4ef8bc795f3": "libjwt 1.10.1",
+    "2ea4723893d8fc88d747200ec58142afe1afcfad": "libjwt: update 1.10.0 bottle.",
+    "9514a597e87691bd776e374326092a9978b3ff3c": "libjwt 1.10.0",
+    "e58465f0a0209229c17eb05ffe4c71b767eff9a6": "libjwt: update 1.9.0 bottle.",
+    "be1d6596bd19a7bc510475811cedadcbe8bce475": "libjwt: update 1.9.0 bottle.",
+    "011bc66b9b6b389c08189061e3f6af82207bb543": "libjwt 1.9.0",
+    "ff19620fe0d1b5f46fd2d147fa117b106a3e61e7": "libjwt: add 1.8.0 bottle.",
+    "2fce25142638190547a8c8f0672205ce6c3b7d01": "libjwt 1.8.0 (new formula)"
+}

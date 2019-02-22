@@ -1,0 +1,15 @@
+{
+    "a22223bbf3e7b2dcd14f0a27f70afdbf0a93fa08": "srclib: update 0.2.5 bottle.",
+    "a265a9a270f2eeafc3124c5ef9e1e921cc9240f7": "srclib: switch to upstream vendoring",
+    "2b2e426252579176eeab5c1b40ac77e9b6dc14bd": "srclib: update 0.2.5 bottle.",
+    "c442564ed0fc114dde80937b666573f6f76bfbd5": "srclib: update 0.2.5 bottle.",
+    "49b81501943d306e25c03e7ef48fe95d07e93da4": "srclib 0.2.5",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "8d12effe2658a10eeec7f08c505125a2bb043cfa": "srclib: update go_resource indentation style",
+    "dc8dfc44e1224ecf7f9153f49f8220aebaf8a494": "srclib: update 0.0.42_1 bottle.",
+    "6b92e1e7442e873c4295637639c54d3fa3eb6e1c": "srclib: fix no-longer-available revision in go-flags resource",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1b798bfb198e1503678de256d50154de66ae64c4": "srclib: add 0.0.42 bottle.",
+    "db4025822398b375d87cb32d93115bb64ecfead1": "srclib 0.0.42 (new formula)"
+}

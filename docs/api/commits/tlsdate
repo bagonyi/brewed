@@ -1,0 +1,19 @@
+{
+    "42e4c29ace29a01c021b80b57be99cc1796803ed": "tlsdate: fix dependency order",
+    "a95a3f2b10f535299cc0bf03920c724e7d54fb02": "tlsdate: update 0.0.13 bottle.",
+    "52b4c7f2ea76afc18a672634c6abdd9fb7656cd1": "tlsdate: update 0.0.13 bottle.",
+    "d7bfae77cf14998f098cc85dd48c24e6a2ec6fff": "tlsdate: use full_index patch",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "a26ff8ebfb5be69dfaf7bfc2f8c3d1bbef8b5702": "tlsdate: update 0.0.13 bottle.",
+    "3cd4027038e7a40405746087b9aba17515b76cdc": "tlsdate: update 0.0.13 bottle.",
+    "e85cc34e4414bdc195da40e1a40edf27c332bf84": "tlsdate 0.0.13",
+    "2670938b6a10103ac6e5c433ed455fffd23324b5": "tlsdate: add 0.0.8_1 bottle.",
+    "8772908640e1a1384e448518d760642ee72f7c7d": "tlsdate: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b72095c42f0dea3f15976e54b71e7fe560f7d855": "tlsdate 0.0.8",
+    "d41ac1c8333fc9d8f81ee7e275e376c48a7efc66": "tlsdate: modernize autotools deps",
+    "b4eaae53e01a7a4bb1d51232a68c6dd6abe1788b": "tlsdate 0.0.7",
+    "c2d20afc7413882408fe0f8163811e786c7271f8": "tlsdate: fix test",
+    "adadefd5bfaf7ef150c5bb717dbb32e6f63e0da2": "tlsdate 0.0.6 (new formula)"
+}

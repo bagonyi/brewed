@@ -1,0 +1,18 @@
+{
+    "8743becfe4d833da08726df31a1697a896195bbe": "mp3info: update 0.8.5a bottle.",
+    "7e7b9d565cc6dda6563a53aecc329ce6fde6410c": "mp3info: update 0.8.5a bottle.",
+    "0f52ac96d29a123f3e748b5aab3c7d69d6ce50b4": "mp3info: update 0.8.5a bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "015d40d2aa7e6eb046d618c962b5ed32807895fd": "mp3info: update 0.8.5a bottle.",
+    "79fcd43de515b5caa1052e1d1bc9511c33fb0259": "mp3info: use https homepage",
+    "bbc5a5a6ab3c60d399002f12dbaa93d182b73b14": "mp3info: use an https url",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "193494c8d7eae6ce9fe558332f5f31d4f535a051": "mp3info: add 0.8.5a bottle.",
+    "d9d935447d5cc70998786636a840a7c2ae4b24ea": "mp3info: add test",
+    "b0a9286a62e6a981b8b10ce46cb4fedd67de2086": "mp3info: use checksummed patches",
+    "dd1f7abf4a679c02d49a4a1eba9b9ece6bc27899": "mp3info: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f23a7b68096899218c1dfc4994ed1ddfee31ed08": "mp3info 0.8.5a"
+}

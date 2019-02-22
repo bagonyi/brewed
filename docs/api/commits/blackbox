@@ -1,0 +1,17 @@
+{
+    "293016c9b5af5f47df2f4e5acde69c7962f21212": "blackbox 1.20181219",
+    "ae01fac920a3849cb2dbdd30a224f82bac6b69cb": "blackbox 1.20180618 (#29184)",
+    "2fc9eeb88c86c09940b42103cfed8ab5aa5dde00": "blackbox 1.20180615 (#29072)",
+    "c2ca2f3afc7d893dbe224832569e152cb30acb4f": "blackbox: depend on gnupg instead of :gpg",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "83583dfa82f46868e4afdcd601b19be08855b62c": "blackbox 1.20170611 (#14487)",
+    "e7cec687a7201d2fef476f12932604e03bd318d1": "blackbox 1.20170309 (#10820)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "d76a4bc5ea1f5fad5a2ea73340b7a267ef52b95a": "blackbox: transition to gnupg2",
+    "eb8cf0c4b0484bfeb1c4615275e3226f58f77fed": "blackbox: bottle unneeded.",
+    "62cc3da99d98bc7e55b2e7e1e4401cfcb700f845": "blackbox 1.20160122",
+    "952dc0ab5d846ec4cb860175c274759a19cc526e": "Move blackbox to the boneyard",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "cb456c03909bc014411def0296e671ae1185c09b": "blackbox 44"
+}

@@ -1,0 +1,20 @@
+{
+    "96c93eebfcf2300b04e6ae1026f0ba0aedeb2c21": "libfishsound: remove references to pre-Mavericks.",
+    "0ac9ef53159ce721030b4510e8c9b49cde0bae2a": "libfishsound: remove options",
+    "72ccde5ad5e4742c509aa88e23bfd9fa899c31e3": "libfishsound: update 1.0.0 bottle.",
+    "3fef03df4707eeee568df548756820e1d0f2332b": "libfishsound: update 1.0.0 bottle.",
+    "710f29ac04e066d11f4a6d7eba24d492c9a832ea": "libfishsound: secure url(s)",
+    "ee8d1dedb4a1e16f9dde9a553c4602d01650a322": "libfishsound: update 1.0.0 bottle.",
+    "d9a780d6534bf544c1aee8556cdecb88cbb9cd56": "libfishsound: update 1.0.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ea276eaf4b86431e76f5d9d4eb4458c9089caa15": "libfishsound: update 1.0.0 bottle.",
+    "793eb75fc0fd9676e6058b323d3f06d3f0dd9219": "libfishsound: add 1.0.0 bottle.",
+    "f5f5aa66aef5cdd5ec5eadd674e368a4c0652b93": "libfishsound: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "9f16f4b7c0f05bcad37b7d89b7be7e97aa5ca5f4": "New formula libfishsound"
+}

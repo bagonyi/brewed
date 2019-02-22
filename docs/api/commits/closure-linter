@@ -1,0 +1,22 @@
+{
+    "fd2e762985a8eddaf3eedf48b601364b34765fff": "closure-linter: update 2.3.19 bottle.",
+    "93e4e811605766fa25db84c0cb0858aa1e1785a5": "closure-linter: add comment",
+    "12fd9aa0f79f47765bae743aff53b96425f4f593": "closure-linter: update 2.3.19 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "fa83bdf59bb5295a06e8b5975d768b762ad665a2": "closure-linter: depend on python@2",
+    "7782d21672e6778013127a117e16143d5e39e972": "closure-linter: rename python@2 dependency",
+    "acce88f629b8455669aa8873c445768502679af2": "closure-linter: use pythonhosted.org to fix audit issue",
+    "b1292d7d7dec92ed8e49d12368a76243f0309296": "closure-linter: depend on python instead of :python",
+    "68c12c1ad46fbac21806a25aafac1b3298e21a8e": "closure-linter: update 2.3.19 bottle.",
+    "be7bfac5f4e90e63e6e478103c399984eb56a499": "closure-linter: update 2.3.19 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "cbcc4196b5a0695d77986aa97160b2982ef06539": "closure-linter: update 2.3.19 bottle.",
+    "ea5496d62ca7141da7456664721c29db9919984b": "closure-linter: update 2.3.19 bottle.",
+    "fe50ed35ad5d36d0a1abca14e14377e582f274c4": "closure-linter 2.3.19",
+    "c57231bc0df6d6dc7022675b6aace277f6e8c94b": "closure-linter: update 2.3.13 bottle.",
+    "ec27eb6871fbbfffe96fc62f31503f2cb4d15de7": "closure-linter: add mirror, HEAD",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0858acf59810116b45686fb34a03c50f8bb0eef3": "closure-linter: add 2.3.13 bottle.",
+    "80f95af5dbd4a9ea9fe9a7485b8d8bf314384fa5": "closure-linter 2.3.13"
+}

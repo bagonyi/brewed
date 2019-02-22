@@ -1,0 +1,23 @@
+{
+    "105b9ae234f591cf77a177821c35a16b066e4585": "fpc: update 3.0.4_1 bottle.",
+    "9c249b4199111daee27f2222e5e26e1b210c33f3": "fpc: Fix for macOS Mojave",
+    "2dfcf690f03253ad124dc1c8dae46ef0e82c98c6": "fpc: update 3.0.4 bottle.",
+    "d1f82c2947c7396e9bce7dc98db3bac2a81b6b4e": "fpc 3.0.4",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "55c0cad5fbb19e7307f989a92d6f9454f5bc7503": "fpc: secure url(s)",
+    "b854e41e267145390cebc090538dcdc5316b67fa": "fpc: update 3.0.2 bottle.",
+    "9bb88775e54061f48f99abb31b4ff7dac7d27005": "fpc: secure url(s)",
+    "62cce188d6588b25a6419aa96c8f2286b100fc35": "fpc: update 3.0.2 bottle.",
+    "8bffadba1dc387a9365d3b2b1edb7f09845dd1e7": "fpc 3.0.2",
+    "fc6b01914db94d084a095126a63224d7304034ad": "fpc: update 3.0.0 bottle.",
+    "7db2dfe36f96cc316dff88cf9a33c459b303f21a": "fpc: set MACOSX_DEPLOYMENT_TARGET to 10.9",
+    "5c8fd862daabdf43d8615162be25c4ea1539b6cb": "fpc: update 3.0.0 bottle.",
+    "52a8f9d0aec8ac679bf225ac154b11d35b0cd161": "fpc: Generate a default configuration file",
+    "fcf89a736e8c22ab2445c7aaa30399624c1fa926": "fpc: update 3.0.0 bottle.",
+    "3ca68985116b4bc1b0013d0a58355b949e110e8c": "fpc 3.0.0",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "be4a32e8f94c8029cd7dae270fdc5c358ac027df": "fpc: add 2.6.4 bottle.",
+    "81e3dea5942b08b78cb586eb1dab45bff5474d0a": "fpc 2.6.4 (new formula)"
+}

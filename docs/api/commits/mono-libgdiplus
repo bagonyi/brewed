@@ -1,0 +1,12 @@
+{
+    "526f9358378040ed74293a5582463a38bc3bfd06": "mono-libgdiplus: update 5.6 bottle.",
+    "8cdfa94048fb9ee7a67740e4239416c6ee94160f": "mono-libgdiplus: secure url(s)",
+    "70d9034fa35f99ad971d381f8137f5881b7bc35b": "mono-libgdiplus: update 5.6 bottle.",
+    "706c2f44365ed5fd4ce430fdd5c9029a46038ebf": "mono-libgdiplus 5.6",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e504d67e7c18f4e57acaccdedec91d82ee6592c3": "mono-libgdiplus: update 5.4_1 bottle.",
+    "56ede15afa7009c9378cabad633a3204ca6685ba": "mono-libgdiplus: update 5.4_1 bottle.",
+    "12bbbef3c88dd5ae8687669e893f2b63dcf63c74": "mono-libgdiplus: revision for jpeg",
+    "0097da627bb19986f07496c1ab101c2933901b90": "mono-libgdiplus: add 5.4 bottle.",
+    "99c9681800a0e038b74a68748e199e3b65c50236": "mono-libgdiplus 5.4 (new formula)"
+}

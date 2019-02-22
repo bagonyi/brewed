@@ -1,0 +1,21 @@
+{
+    "5629f67fa61aaa9c8d6bfaf84ce3b3215e828292": "hello: remove references to pre-Mavericks.",
+    "02f07b76f1e1a15887629aa7dfdc770b48a5d39b": "hello: update 2.10 bottle.",
+    "2df97b969f00b2d45370cbb94fffd53f0461150d": "hello: update 2.10 bottle.",
+    "645aa09bdb6ab9562e16bed8923c0720dee55f38": "hello: stricter test",
+    "45a0ff3c516aa3c4d173faf83773d6abe738f90a": "hello: swap GNU url and mirror.",
+    "d72cc767d527763097013541886a8f875ee7094e": "hello: update 2.10 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "03f5c90246d5ab19f283c11e029b6dfcec373752": "hello: update 2.10 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "509ca3dd6e009f2934f8490cb312128132295246": "hello: add conflict with 'camlistore'",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a9b1bd331ad05f34c0712b9e8e680588c46f5bf9": "hello: use https homepage.",
+    "d42f69d24a7e3f4d665635cd38f23bf21aeab259": "hello: add 2.10 bottle.",
+    "66bb65b0e22f8923c4ca5c22c87d70d441c269df": "hello: remove --next-generation from test",
+    "b7d8b3ba131dd487464fb26d6562381fca25c919": "hello 2.10",
+    "fa9bd6468cb6144c992680a968e8a9d0cc9a33fc": "hello 2.9 (new formula)"
+}

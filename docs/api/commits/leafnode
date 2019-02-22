@@ -1,0 +1,19 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "72c21ed5946c9e251948e02229f458947ce466f5": "leafnode: fix typo in caveats",
+    "dbd98ef0e0071ff3e0999ce3a02e7b94a2ffda86": "leafnode: add plist files (#2432)",
+    "f90315b3a06621ed778257ded5db9554544b6c6a": "leafnode 1.11.11",
+    "06787f7c9c29d0d49d231840661f0ee31239b3dc": "leafnode: remove name from description",
+    "40643cf1a0f1d528eb51e7b4042ba2874e878093": "leafnode: use secure homepage",
+    "67c9bc8bf4f7d063422f41d4b12f0a6dc66451ee": "leafnode: fix runtime issues",
+    "6f794268869dc11b2634071192c8f103ccb555bd": "leafnode: disable bottles",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "002c91d88859586e86666e8eb4b6372937340547": "leafnode 1.11.10",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9dfbfef836078f6d17ebad444b5da19439a4105f": "leafnode: remove unused configure switch",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "51a4c1098d860673fe2a7bf0a101f77ccdfd7fa1": "New formula leafnode"
+}

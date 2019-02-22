@@ -1,0 +1,11 @@
+{
+    "d156edeeed7291f4bc1e08620b331bbd05d52b78": "fmsx: update 5.4 bottle.",
+    "a017d085055ca94453a945bacea5cf4d963d493f": "fmsx 5.4",
+    "113d26eb10fe82fcf8f8b4c7f9221cb0128d4a73": "fmsx: fix dependency order",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "740591677477b841f426f5cea49e11b9ce067087": "fmsx: update 4.6 bottle.",
+    "03702b194a532d1aa8038dd1aaa957ae63fcb6cb": "fmsx: url updates",
+    "858eded95308aac78ba430c28c4ca796c6dc6213": "fmsx: update 4.6 bottle.",
+    "50ed89ccdd20f533323e67336e3c2e3a10f4e900": "fmsx: import from homebrew/games."
+}

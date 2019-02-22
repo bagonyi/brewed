@@ -1,0 +1,15 @@
+{
+    "a6d175f69889d1cb207626941363315b06d8ed29": "aide: fix dependency order",
+    "ed3d31a0cf1bb9be74215cb18d39d5e1c2ee5b71": "aide: update 0.16 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c2b899a6045a2c11fab5974f5479c79482df3b8e": "aide: update 0.16 bottle.",
+    "0eb0ad04814bf453d699e165b6f9ea44678b2cbc": "aide: update 0.16 bottle.",
+    "3461c6c639a152804986471b536a9fc3c060e5cb": "aide: use secure head url",
+    "73ac8714856f930360b9831c670c8b84cb0da28e": "aide: fix audit about sourceforge link",
+    "b0f8c968e7869a0006ab94195a24075675a7cd92": "aide: update 0.16 bottle.",
+    "96d5931af167a584cfaf9f7f40d914d0b011498d": "aide: update 0.16 bottle.",
+    "ce2523155528667c2de2216b148943f1e6e7b97c": "aide 0.16",
+    "296b02987454d7ef6d2c809b204559c3f8fce2d8": "aide 0.16b1 (devel)",
+    "1aefc4fdbff042f0090268ce35a738706f080a49": "aide: add 0.15.1 bottle.",
+    "9651f77063d1b5c5215d1c9e797abe58031600f3": "aide 0.15.1 (new formula)"
+}

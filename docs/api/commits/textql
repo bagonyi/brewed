@@ -1,0 +1,14 @@
+{
+    "0fce62c13794fceb05c3c012dbf52882d8d72d97": "textql: update 2.0.3 bottle.",
+    "17fd9584583c14ba636298b7d90a54c34a278f75": "textql: update 2.0.3 bottle.",
+    "222fb99ba2ece1226beeea7a673c8fbffeb341b8": "textql: switch to upstream vendoring",
+    "b9de3436da0643f33c1fda7415e78c3c5b2551db": "textql: update 2.0.3 bottle.",
+    "e80a066443e9b391f5f5c7a3fb2d103ba56ae7ca": "textql: update 2.0.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5bdbf1bbf85e7940796b2584c7db90962c207d10": "textql: update go_resource indentation style",
+    "8c83858e0d3487ef508ff78448b3a918c0d38bdb": "textql: update 2.0.3 bottle.",
+    "18970c5aafd1485e4072c63e1dcc53259c0eaf0e": "textql 2.0.3",
+    "61459bee1fbcbad1897f7bfeba27cec553c84c03": "textql: add 2.0.2 bottle.",
+    "335c634042053498186cdf08061f1b0c72d3417f": "textql 2.0.2 (new formula)"
+}

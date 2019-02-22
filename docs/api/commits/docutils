@@ -1,0 +1,17 @@
+{
+    "a1981ce591e322b7fcf296d87d1ed589e6118d17": "docutils: update 0.14_1 bottle.",
+    "c40a85f25102a013838fbd2dea7081af86e93016": "docutils: move to Python 3",
+    "66a67323b62e66011c35740f1dc68f73f71a0cc1": "docutils: update 0.14 bottle.",
+    "27a641c93522a50a15f85b7094fb396e259aca08": "docutils: depend on python@2",
+    "bcc7a3b28b0a37a4ea0e1695a1e59f8516b156d0": "docutils: update 0.14 bottle.",
+    "4f282ef7b41ce5bc465f4b02c113f37f2a000ccd": "docutils: update 0.14 bottle.",
+    "f3e77d2fc7d4658bc15b77aa11af9fa8774e8eb5": "docutils 0.14",
+    "3c8897d1cc17928494fc48ea4c6b0ac9b122d710": "docutils: update 0.13.1_1 bottle.",
+    "38a674d7d306ea94f6958071c5461f19043ee7f0": "docutils: use new virtualenv feature",
+    "23c6f6cdd526b94deab0c3da8653781809acfb31": "docutils: fix audit about sourceforge link",
+    "36be212caf83b3de57180279c6420e3d38d623e0": "docutils: update 0.13.1 bottle.",
+    "828973b1631a68f5c29de4b8f6203b6491734f86": "docutils 0.13.1",
+    "b5ce5ebf12d3e71152ce34635d9f0113d7b069ea": "docutils: update 0.12 bottle.",
+    "1783df54049a974584fd0c147ad70200c0da12fc": "docutils: add 0.12 bottle.",
+    "74e4e1d7fbed872f64f0f1dd39401a85961fff61": "docutils 0.12 (new formula)"
+}

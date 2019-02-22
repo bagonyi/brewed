@@ -1,0 +1,15 @@
+{
+    "1cddc0163ebe4279a7748ab0bb8b35e9c877e826": "gitslave: update 2.0.2 bottle.",
+    "c207e2ab63ab8f7eabcf84549014482f8260d66f": "gitslave: add a test (#28869)",
+    "aaca6f7fc412a2095c4da0100776d687d6acbb9d": "gitslave: update 2.0.2 bottle.",
+    "c8141437afb7f1455beb1f6b896601497611eff6": "gitslave: fix audit about sourceforge link",
+    "ab3a03bb5b2ee2fe4aa2485fe7b407d243af5dc1": "gitslave: update 2.0.2 bottle.",
+    "ed6696a84bf219aba31963793813ca9773c9d9a0": "gitslave: add 2.0.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "238e53ebb4d4930c4eecc2e7636748425612cebf": "gitslave 2.0.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "dd3f9123673db3c746725f98060e43cd3e870ea0": "gitslave 2.0.1"
+}

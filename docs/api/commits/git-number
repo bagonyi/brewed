@@ -1,0 +1,12 @@
+{
+    "49c003aa14068a52df1617cebe184a44130e7c18": "git-number: update 1.0.1 bottle.",
+    "2913c6c9c739a8f78ab8a3164f27bac67a49111c": "git-number: add test",
+    "5a6aec97820270cecc58b071beffa6350b4a953c": "git-number: update 1.0.1 bottle.",
+    "60698ad1e55153507a900e4dc6636697fe430c2f": "git-number 1.0.1",
+    "4b4a19d2512250847f9e6ddc7bdb3f6fa81ef08e": "git-number: fix audit",
+    "9988b923b6662876b4a07d86a97575499c4ebab0": "git-number: update 1.0.0a bottle.",
+    "858e5609d3110698382b1671c18329ebed7f9646": "git-number: add 1.0.0a bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c5abf3dd4a54680c8f64ec5baec74666d429bc52": "git-number 1.0.0a (new formula)"
+}

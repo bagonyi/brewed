@@ -1,0 +1,16 @@
+{
+    "362515746a6a545952407de5888ccd6026ba6b22": "takt: update 0.310_2 bottle.",
+    "9423d4f042eff8a8b510b94cd73b192be818a30c": "takt: revision for readline",
+    "163958f6fc917e59263620e55ba716f5830f7267": "takt: update 0.310_1 bottle.",
+    "19a9616b22ebb5ae5209cbfdc5c17c4b40b947cf": "takt: update 0.310_1 bottle.",
+    "5756904887dbfaed0886a5140e3ec2ba89d77856": "takt: fix audit 'description must start with capital letter'",
+    "4c50feadf950b30ec7a016d82b0f68cf636f6741": "takt: fix audit about sourceforge link",
+    "a361187a617be492525a50ef2b79f893174c0e33": "takt: update 0.310_1 bottle.",
+    "2d7c194c62e53b9967bc9301d496d0e462f52533": "takt: revision for readline",
+    "837d01ddaf934e28726adcd7f9874b9b4ba04dbf": "takt: update 0.310 bottle.",
+    "4972ea6f7762f2530011588b98280b7ca03610be": "takt 0.310",
+    "26d751a099905f75255316bba9f3506b8f40e7b8": "takt: use elisp shorthand",
+    "b262d5651da7a5e03964cf5202bc4fbb6582c3c9": "takt: update 0.309 bottle.",
+    "9b4b18886ad488a7b39f1be1d4db0022d0175e4c": "takt: add 0.309 bottle.",
+    "c18ab32a0917668752b35b6e516a5414f5ef782b": "takt 0.309 (new formula)"
+}

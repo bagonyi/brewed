@@ -1,0 +1,21 @@
+{
+    "e368704788c59ae678fda4aed05e5f8549bf197c": "liblacewing: update 0.5.4_1 bottle.",
+    "547c873a8749328256b2ea8b47b5710d2152e8f6": "liblacewing: secure/fix broken url(s)",
+    "a9c5e0d5e3029fea1cf329bbab6dda30f277f8ce": "liblacewing: update 0.5.4_1 bottle.",
+    "bd3a403a3dda86b5a85274ff35939d3e5b1601c0": "liblacewing: update 0.5.4_1 bottle.",
+    "c699e3fac9ac018428651510771dac9eba9dad9d": "liblacewing: update 0.5.4_1 bottle.",
+    "0993d4f8e83508dc1bb0ff4fa36d2447d06e59d7": "liblacewing: audit fixes",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4fb83b430974dd0f963d8449897e0e1c37458ab8": "liblacewing: update 0.5.4_1 bottle.",
+    "205a0edda73f6e7219cb261bebcd2a7526737728": "liblacewing: update 0.5.4_1 bottle.",
+    "010e1d1a0d07e808cab6fc61319796c1b7c3dbb6": "liblacewing: fix audit and remove unneeded comment",
+    "26dc0e72a8aa8d8f253e71e288d5697eb4479a84": "liblacewing: use double-quotes, \"make\", \"install\".",
+    "bbbb30323f3933d06fb3b22b0085a485a5967611": "liblacewing: add 0.5.4_1 bottle.",
+    "a2bafa27f811db0d4537c9b0e0275adff9aa9bb6": "openssl: disable SSLv2 support.",
+    "a3d23e681509fd40965102f0ee345010e6ec86ee": "liblacewing 0.5.4",
+    "62d462ae6ac6e8961918257f432991dbfa6f7c0c": "liblacewing: fix SHA-1.",
+    "16c8f90ecc7bbfce0584902d50d3ad89d055dc43": "liblacewing 0.5.3",
+    "16e5baa314d28a6e9221eebe5d1a26620d40e60e": "liblacewing 0.5.2"
+}

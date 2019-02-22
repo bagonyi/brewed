@@ -1,0 +1,21 @@
+{
+    "6da6d8b71577f478110b23e2040c164cb394c44f": "modd: update 0.8 bottle.",
+    "d7a27a7f5176c4511644bc3424e5abd0989f4f80": "modd 0.8",
+    "ff7b719ea6e9c33d705a00b4f360a91a1fce78a0": "modd: remove deprecated MacOS.prefer_64_bit?",
+    "51b14da4b4c8d1bb0fd89156131969320b1a13bd": "modd: update 0.7 bottle.",
+    "7723b6fb9e22abb73792c505373bc8f173495583": "modd: update 0.7 bottle.",
+    "2ace65406acdb59847349732ee079bc570c8f7dd": "modd 0.7",
+    "ad116c87424cba4bbc2ef75d011662e9a4e2de43": "modd: update 0.6 bottle.",
+    "5925c4fb2f7e02bb43ac5b275dc457251f30dea3": "modd 0.6",
+    "08a5bad94b647e5593985e24d66b2014e15f3649": "modd: update 0.5 bottle.",
+    "c1f4cbda870505104dd54514e609fff2fea50f59": "modd: switch to upstream vendoring",
+    "2ee2c2f5dd7228343e76aece1e14fcaaa6b1392b": "modd: update 0.5 bottle.",
+    "c53929774108fbdc62f72f90e25133494a4746a8": "modd 0.5",
+    "b1c4b8554c98fd6a11e476ffd5d7b98ad68d0aca": "modd: update 0.4 bottle.",
+    "b4355a1261022775b7dc451cdc198f04b555625e": "modd: update 0.4 bottle.",
+    "52467735cfb131a49b864b359e5d12b70bac4381": "modd 0.4",
+    "82948922ab4a06c0d4d5c7b2a0a2b690636a0d32": "Revert \"modd 0.4\"",
+    "bf1e17d0328e3c24acc7186fdb61b280719b6d6d": "modd 0.4",
+    "6247243e01fa2cd5d5fc8e4aab7b063294897d94": "modd: add 0.3 bottle.",
+    "5d52c658a3575d131f1c2275448f3639f8797b91": "modd 0.3 (new formula)"
+}

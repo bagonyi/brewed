@@ -1,0 +1,8 @@
+{
+    "f0d421da321877c694b3e146fee211b478f23e5a": "sbjson: update 5.0.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0ebc4348b54747d457a147601f5891c7c7c93740": "sbjson: update 5.0.0 bottle.",
+    "ad9c50c374e1cc344ba67492da7d20ae16abc414": "sbjson: add 5.0.0 bottle.",
+    "2c40bf4befcc61ffff212ffdca983af5cdac049c": "sbjson 5.0.0 (new formula)"
+}

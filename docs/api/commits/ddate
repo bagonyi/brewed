@@ -1,0 +1,20 @@
+{
+    "f338c94326cff7ad6e795eb3c32cfd211327c805": "ddate: update 0.2.2 bottle.",
+    "e2240265f138152bc6d97525fa9c46fc96e5fa9a": "ddate: update 0.2.2 bottle.",
+    "12219314540ac6ab22bdca74bef9f26eaff18b63": "ddate: update 0.2.2 bottle.",
+    "b046ffb708f2115669a53274d7e8de0bb74cc0d5": "ddate: update 0.2.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "bdf504682d297277e7b1a013b221221bcd878916": "ddate: add test",
+    "6ca551ea4357b87718a9550fd27cca9225aee790": "ddate: add 0.2.2 bottle.",
+    "1b24b1abaff7bf091c8f7e16bde7d6ee263a57f1": "ddate: update with maintained version, manpage.",
+    "73ebdf4cb4be7c48e7230e02eb61af0e94464df6": "ddate: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "fe81868dadbdd05aa6dbf3ca5b4c06b577a865c8": "Fix homepage audit warnings",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e834f69f51f3ee483247d7040dfb0cd274083803": "ddate - style tweak",
+    "94b9e56c651b1bb416e689aed3e1425ee3348d18": "Homebrew style is to indent w/ 2 spaces, not tabs",
+    "bb1413c837d90b66c5e6a2b8553e45ac0e813e60": "New Formula: ddate"
+}

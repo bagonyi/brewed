@@ -1,0 +1,13 @@
+{
+    "c8d5415f572a615afee196ccb62ca97698ef1fa5": "gtk-chtheme: update 0.3.1_2 bottle.",
+    "bc4317087c7b064779f78b3d8db008f8349ff1f7": "gtk-chtheme: update 0.3.1_2 bottle.",
+    "9f31bf63fccbb6d9015eef8ca1347e5f22de4992": "gtk-chtheme: revision to fix install receipt",
+    "90f7d76ffcbae1d431cec7ab61225a83b35ec9b2": "gtk-chtheme: use assert_predicate",
+    "9d3ce4f1024f807bfeec24f037f4665fd1979e9f": "gtk-chtheme: update 0.3.1_1 bottle.",
+    "be08d13c00f4565bf1e804a0593030424736d9de": "gtk-chtheme: add 0.3.1_1 bottle.",
+    "f71fdafbc0013fef09cc8450f88ae1f22b456131": "gtk-chtheme: import from homebrew/gui.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "c87b7b73a94a1cce68f0c796ceec467d47a009da": "New formula: gtk-chtheme"
+}

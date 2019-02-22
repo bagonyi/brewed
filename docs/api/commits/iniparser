@@ -1,0 +1,13 @@
+{
+    "7f9e6fe48e9416c72bf5753238628450d56b2d4d": "iniparser: update 3.1 bottle.",
+    "5a6f755ee89701f7a3b5c4f264a7c7385eb81122": "iniparser: update 3.1 bottle.",
+    "429b05c833d374cb056e8d881707709cd649b686": "iniparser: fix audit",
+    "75233ad7a37aee7f6e4b5b915c726538f26ddd98": "iniparser: update 3.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "216c2ee1c62f2803709b2582904199e4819b52ab": "iniparser: add 3.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "898fc5df95c9d3b5c07f71c47e8610a9cc8f35ee": "fastbit/iniparser conflict",
+    "2949fde36cfb68ac65210ebea6f08b3bae402d80": "+iniparser-3.1"
+}

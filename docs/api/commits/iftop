@@ -1,0 +1,22 @@
+{
+    "0788804dfae345d6586245b25aa150e74de1f5ef": "iftop: update 1.0pre4 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "242aa99ae42b243b264fe6e91ae658a037a3e174": "iftop: add HEAD (#25467)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a14c02492136c59e7ecaff045c543c3edf59321d": "iftop: update 1.0pre4 bottle.",
+    "815a1c5235c696bb973b1c0a3dee8dda8fbfeffc": "iftop: remove redundant version specification",
+    "64312062b93a5dbf372dd3211031d7e72b77f345": "iftop: add test (#12166)",
+    "09c98752adf3de5e238f9894447fb728f7bcf35f": "iftop: update 1.0pre4 bottle.",
+    "a202e3a2d0642d44f1cdd4f275fd6a5fbf5feb93": "iftop: add 1.0pre4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9a66e143e8312e5b170ff1b80c0f0dbd909663bb": "iftop: recommend sudo instead of setuid.",
+    "aa87940b8bd21b4307a9ab41cf28c605faea8fb6": "iftop: make commands in caveats copy/paste-friendly",
+    "cb1d134bf3d8ac07b3914d7d471d245b6691d592": "iftop 1.0pre4",
+    "69947cd3e23d37edf8379dc58f0b0f849dcba269": "iftop: add caveats",
+    "58d0a99abaa8111c15976d146e0402b9cf16654b": "iftop 1.0pre2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "38836535a9df3341ff85b2eed2e18102904fbccf": "Added iftop formula."
+}

@@ -1,0 +1,21 @@
+{
+    "c98abb58565f52aff0d9fbf2e84aa95b799bc077": "rfcmarkup: update 1.119 bottle.",
+    "2167e1adef057a9b68c36c794bffced777982262": "rfcmarkup: update 1.119 bottle.",
+    "98d21ce1b06830728a1622bd078faffac6b1654c": "rfcmarkup: update 1.119 bottle.",
+    "530190f23c95eaddd9c7e7844dbfe39d6ba9d060": "rfcmarkup: update 1.119 bottle.",
+    "1281c4f351ac1383d0d4e7ada9f62481b1c9da86": "rfcmarkup 1.119",
+    "a676e603755c330dd9fc05bdfac03f00f4afd3bb": "rfcmarkup: update 1.108 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "87c9f45ebeca1b6e03ce8ea8137ed19cd7a28618": "rfcmarkup: add 1.108 bottle.",
+    "9e29a1825a367bae1eba35f14ae45b32adb3c9f6": "rfcmarkup 1.108",
+    "bb89a71f2aad060b5b6fefd71be0dd5f005cd380": "rfcmarkup 1.106",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "161d652d2711f57be58f556ec1dddb1b2008e5f6": "rfcmarkup 1.101",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "06e89ec971d44d5ce39062ee9f093d9a6cb55202": "Update to 1.90",
+    "9121f7c847ef69f0b8bf3cf5de0bdcaf8114ed23": "Tweak installation of text files.",
+    "3d08962c04d9688a9b5681276e9f27af33139603": "rfcmarkup - change Python invocation",
+    "7ee066918553ec2fe94f62e9f81705f23bf96e8d": "Updated formulas: idnits, rfcmarkup, xml2rfc",
+    "c53f2273c33910f8511c06dffe57ee73d3b8d668": "New formula: rfcmarkup"
+}

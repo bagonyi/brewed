@@ -1,0 +1,10 @@
+{
+    "f19e9f6801b3ab9fbbca7b6019587ca13be57849": "mysqltuner 1.7.13",
+    "63ebba7df7fcfcce01a2b998bd1b31d491d24a2f": "mysqltuner: secure/fix/follow url(s)",
+    "b39cdd5b5f0acda2aa9ca2a27af4e1772b9d4611": "mysqltuner 1.7.2 (#13669)",
+    "d22d5ba837a3e623ce36af8723546325f28ef688": "mysqltuner 1.6.18",
+    "e4b5975d398c7b66ba1fb259829dd5f4b40a8aa8": "mysqltuner 1.6.0",
+    "baf63e8aeb6651da9c1d1223711b6f0ef4779609": "mysqltuner: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "49fb3daad15fe7cbdf755c90429aa9a160d045c4": "mysqltuner 1.4.0 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "fa8bbf3de0f76b44c25f4d6ba11b4f21410c4454": "dtrx: remove some options",
+    "3201e845dc6b73e00c4264e2249571b6c330510e": "dtrx: update 7.1 bottle.",
+    "50ef13d4d58ec8eb1df3174255a37a1329390863": "dtrx: update 7.1 bottle.",
+    "50b57f0cf186f55ed8d486c1c518426b71f5597b": "dtrx: update 7.1 bottle.",
+    "999410aecf5a1c5dbf8a878157c734c56bde74e5": "dtrx: use secure urls",
+    "6e0766a9b75f8c3cb192f1a08e5e2149ac8bff7d": "dtrx: add 7.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9a66cfb7e90751555edda920f2d583a479480390": "dtrx: don't depend on :python.",
+    "7013818137f589fb7cf6b1abebf534fe9de66b62": "dtrx: cleanup python usage.",
+    "df21842e1e46a6130e0212b3789897422d9419dc": "dtrx 7.1"
+}

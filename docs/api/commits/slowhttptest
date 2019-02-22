@@ -1,0 +1,17 @@
+{
+    "f847e10a90e0275e30040af03b92b5863c9e5614": "slowhttptest: update 1.7 bottle.",
+    "6b32e5f4f7279c8243394e3792579105c42ccc20": "slowhttptest: update 1.7 bottle.",
+    "86e5aea70809872f6649b4eeb60eb61d1d460896": "slowhttptest: update 1.7 bottle.",
+    "5f030f022657ee0ff1eccc8012e2b738908e199d": "slowhttptest: fix rubocop warnings.",
+    "4b01ab693f1ebdfe1c22e82e2786d1db4e9d5de0": "slowhttptest: update 1.7 bottle.",
+    "50bbeeee2fffb2e94a2b97fe28867f107d60119e": "slowhttptest 1.7",
+    "fad9bf23ff9f7208b50b11a0e2919a0054ff2644": "slowhttptest: update 1.6_1 bottle.",
+    "7d8f8769e4f2f0b5e5b4506ff538ae52df564a8f": "slowhttptest: use secure url in test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cf76c077f80054972072930ac60adb908dc6cedb": "slowhttptest: add 1.6_1 bottle.",
+    "bc5187762557ae062be17b7f8c7f8389c68fded4": "slowhttptest: fix system openssl linkage",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "4ac8a08485737d43bda9f003296a54003f18a8a1": "slowhttptest 1.6",
+    "e163d2e95e75a99e66b8ace6c0d341c2a3ad31c7": "New formula: slowhttptest"
+}

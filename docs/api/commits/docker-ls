@@ -1,0 +1,9 @@
+{
+    "94a82facdf33c8804eeff5f29c67700836d2aad6": "docker-ls: update 0.3.2 bottle.",
+    "8cc6ea56c4d911b6ab4cbfbc936d45c8b5f000a7": "docker-ls 0.3.2",
+    "69d630980fea18e272d76bf09957d30df4aa99d5": "docker-ls: fix RuboCop Layout/AlignHash.",
+    "913994c9e468e43ce11ac5badc12c1a18f667029": "docker-ls: fix tag/revision indentation",
+    "fd31bb507a2445430855739a370fe06aec88bf00": "docker-ls: update 0.3.1 bottle.",
+    "8fbfe2875e6ccce150d4fb823c4c5b4554aab6da": "docker-ls: add 0.3.1 bottle.",
+    "a1cca6562568d13106514b0ee91f220b3951c8f2": "docker-ls 0.3.1 (new formula)"
+}

@@ -1,0 +1,21 @@
+{
+    "fb86d3d2d089e5ec8ba4fd7e56684b76b07480ca": "serd: update 0.28.0 bottle.",
+    "75fd085c3354936c46536c6b6365381f79016c37": "serd: update 0.28.0 bottle.",
+    "5c0aa68e61473ba14fbf7d22fbe2831f2fe5fb6e": "serd 0.28.0",
+    "aff0bdbd3a7dd79e164062726fd2e9c6797644d6": "serd: update 0.26.0 bottle.",
+    "96ffdc930ed3e0a295dcc35a788c282b3205452f": "serd: update 0.26.0 bottle.",
+    "692fa7a42858c1ec345ce9760ea95e7310b8dd62": "serd 0.26.0",
+    "1e85b72814f121c02d97247479c45bc0e8ac2012": "serd: update 0.24.0 bottle.",
+    "614ebd1b48442d5e6139badfba4b5b0870a49b90": "serd 0.24.0",
+    "ad7d316ead5e5387ed07f4431e725b1d270c3c8b": "serd: update 0.22.0 bottle.",
+    "1bc97d3099633eb050f54328ae695177b2708276": "serd: update 0.22.0 bottle.",
+    "d46b03fe0d9eee866918c47c196875613a359c29": "serd: use secure urls",
+    "37c3deac48cae098b02b640847ca5791fae37e7d": "serd: update 0.22.0 bottle.",
+    "59041af2293769cc4d880f7a00c8cef3d32082fe": "serd 0.22.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "af55415fbc83ce00ec8d93e6d0e325d27b9a2079": "serd: update 0.20.0 bottle.",
+    "34855f437bf19f6c1ce3653e6f96c0b591119c23": "serd 0.20.0",
+    "08a86aeaa60dafc27f7800017978b4cbfc8f879c": "serd: add 0.18.2 bottle.",
+    "b292f3bc178089dc728f0916e50e8543590aba81": "serd 0.18.2"
+}

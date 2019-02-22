@@ -1,0 +1,22 @@
+{
+    "23d5e9104f0c0ddecd308293a0787b448379f57c": "chruby-fish: update 0.8.2 bottle.",
+    "b577fa18b7e020e5e5edfc7d4b1f1ec0983eb566": "chruby-fish 0.8.2",
+    "75443dbfd644415f7f485af5762e6d08a1d108a9": "chruby-fish: remove options",
+    "dccb8bc6b1dc72507b5ef652dca8dff19399ec83": "chruby-fish: fix dependency order",
+    "90c65512926e0401803f112b34963004317830eb": "chruby-fish: update 0.8.1 bottle.",
+    "529946242828b3c358ee198b1458b397638817bf": "chruby-fish: update 0.8.1 bottle.",
+    "2e4196e73fe321341c3ad6f5f06a0f3f00b24fdc": "chruby-fish: update 0.8.1 bottle.",
+    "9b88a08e81eb345ecd7de674bd86407260d69efb": "chruby-fish 0.8.1",
+    "4bf19ad20258fa58b7091ed47b3963fa8b7484a0": "chruby-fish: update 0.8.0 bottle.",
+    "4a69e256622cb344dceebdf5212fada97ac22992": "chruby-fish: update 0.8.0 bottle.",
+    "023eac1adb05cd3a803bc06310e4b29c9b24e285": "chruby-fish 0.8.0",
+    "f2a4b5b162b0eb215e21c6f1eee065039b9e41cd": "chruby-fish: update 0.7.2 bottle.",
+    "0fc298ac77d5565055b18c8ea51caacdf5215ebe": "chruby-fish 0.7.2",
+    "1fcbfacdcec2657523565805d0006680ded5e73a": "chruby-fish: update 0.7.1 bottle.",
+    "db099ca8a8365b358bdea602174cd4dcb8e95859": "chruby-fish 0.7.1",
+    "f474bb54e7524ae9fce97f181f3161b6376fb657": "chruby-fish: add 0.6.0 bottle.",
+    "a4a3145580ffc156ec18fb84723d72dad6c63373": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9234182a8a50ac5a3bfe41c862c079573691ad90": "chruby-fish 0.6.0"
+}

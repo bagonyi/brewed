@@ -1,0 +1,14 @@
+{
+    "d6b4b632a96a7fb1cf56ab9237435074ebcdbbbd": "stdman: update 2018.03.11 bottle.",
+    "bdfd06c40dc0060c377f86c1a8aa4f1973c37181": "stdman: update 2018.03.11 bottle.",
+    "491a83e29db849f691042488aa949c161ee97099": "stdman 2018.03.11",
+    "e0bd252bcfe7f1c907baeeace432fb0c75845f86": "stdman: update 2017.04.02 bottle.",
+    "2268980a28f7ff1bee8b2df8849908c2aa6d6173": "stdman: update 2017.04.02 bottle.",
+    "03d5fc7b03d2ce227ca713ec56e4ece8b49b35a3": "stdman 2017.04.02",
+    "c865b9d45693a3bca415209f453e8c3d47501271": "stdman: update 0.2 bottle.",
+    "0573ab2478768a20cb00d625654f5d5b0ec0144a": "stdman: update 0.2 bottle.",
+    "492de6580bd0bbed61bbcc1ee5bef0ed3f1d9fd5": "stdman: add 0.2 bottle.",
+    "88c23be2d3655d564080131a4aaf1a14fcdaa3b4": "stdman: simpler test",
+    "dff92edf18f91164586f70d4352d4743fa9e1b22": "stdman: add `test do` block",
+    "f096c9d491540d7497004ad5580d223e311084dd": "stdman 0.2 (new formula)"
+}

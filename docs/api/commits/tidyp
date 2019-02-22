@@ -1,0 +1,22 @@
+{
+    "0571af74257f61c63196f5c8d1e48a68e4acda71": "tidyp: update 1.04 bottle.",
+    "efabb51ec9a66924686667e3c2a816710bcf2eb9": "tidyp: add test",
+    "23783abfccf7250dd9ae2eafb87e44e109b271c3": "tidyp: update 1.04 bottle.",
+    "2763c9806b80448d03af299ad5ca926708543fce": "tidyp: update 1.04 bottle.",
+    "3e2423c27eac84d90eac1f903aa05b75b419ec84": "tidyp: add 1.04 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8ef0b46216a3ab8af8d01c6cd3c00898e020afd4": "Use githubusercontent domain",
+    "81c8fc85cdce93662c62a761c60c315462b6f2d9": "tidyp: use resource",
+    "ba0ea3e02e92a8d052d88e36738e297176e3a5ae": "tidyp: use gzip helper",
+    "6dd4caa72d1f29a2f571d4cfd69674cbc565a677": "tidyp: style nits",
+    "5ddc7617b3611a5c18740dfb83163e77125f25b2": "Fix subformulae sha1s.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "8c21427fa0a183da7cdff5706a16a9022e95255d": "tidyp: use https for GitHub download",
+    "559e12c916bdaf1e505b6df6279f8ae3da0bd137": "Tidyp: add manpage",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9e35609b3a2948e03b123bc1cbeeb400413e3fab": "tidyp 1.04",
+    "1eda639a6fbceaf8b0265d7c33067c8a0f5e3fda": "New formula: rush (http://www.gnu.org/software/rush/)",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "b84cb05d7604e4ef671b04325c796fb67d2ff582": "New formula: tre"
+}

@@ -1,0 +1,6 @@
+{
+    "08f343e59d691e09fe647e0dc2c65d147a2752a7": "tnftpd: update 20100324 bottle.",
+    "e27c4c3214ceb2d678f1b9030b2bc1ef2c5b1d3d": "tnftpd: remove more keg_only reasons.",
+    "e66e27d6a61eb9363bbad2b9fc94d760a55f2d0b": "tnftpd: add 20100324 bottle.",
+    "e0181772e8489a38f78f616ca3efeedce0f749dc": "tnftpd 20100324 (new formula)"
+}

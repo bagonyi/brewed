@@ -1,0 +1,16 @@
+{
+    "65b8412c952d9b42e0e2c32642f48d6afd439c4f": "cmockery: update 0.1.2 bottle.",
+    "f56ac16f000b272a0a303577d801e88f4f6db73f": "cmockery: update 0.1.2 bottle.",
+    "f9639ef8a217db3897dc378895703b4729c3b242": "cmockery: update 0.1.2 bottle.",
+    "cf7f1be42c7ad9746a90374b5f46cd2b8f19f06c": "cmockery: migrate to archive URL",
+    "2eb1e45e6396b88606e7780b970f0685735f2bff": "cmockery: add 0.1.2 bottle.",
+    "4ff7577626727db6700a7ec1059ae170a2cba160": "cmockery: use secure url in comment",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c3fb67716b911f9da4b741790543745cf9632648": "cmockery: use patch DSL",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "a54dd264a53475037dcb3df73720fd57bbecab61": "cmockery: style nit",
+    "c59873e91d7f949588a9d8130aad6da7cf46f7e4": "Fix spelling mistakes.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "21ba3bd0e6312055575ef7c642d4b97ba8f3de89": "New formula: cmockery"
+}

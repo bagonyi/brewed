@@ -1,0 +1,9 @@
+{
+    "a8408bddd776bd7ea2167da3f08df515f9317afb": "liblzf: update 3.6 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b5e9529d23f91a39f857250d9a2465af2dbdcf4c": "liblzf: update 3.6 bottle.",
+    "e6733887a9e62c31f729b6b05f1994ef6f439d31": "liblzf: fix test on 10.13",
+    "399698df9843290fffe4e45e5788a9fe5123e0f1": "liblzf: update 3.6 bottle.",
+    "0a64c82a96f4b974a8f554e69d7f370d2ca3a260": "liblzf: add 3.6 bottle.",
+    "37371300ffeadb67062c5772f806e79f0d5ac4a2": "liblzf 3.6 (new formula)"
+}

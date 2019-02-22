@@ -1,0 +1,16 @@
+{
+    "9f34da26877f7a69cf7e6af45c8999a2d58c83dc": "mkcue: update 1 bottle.",
+    "b44149d06a32daebccf916eb93cd135d10fead0b": "mkcue: update 1 bottle.",
+    "572a65c7bb0ed0be7c957696b87d9b7bf4cf6cd9": "mkcue: update 1 bottle.",
+    "b79ac24f5810019966a8a0eb4a42fe581fa87f9c": "mkcue: update 1 bottle.",
+    "73c79652508c8c4d3ddc7541151e9095d6f4b257": "mkcue: prefer berkeley debian mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a63595bbbf43df8f8baaf0e2ba6d585193a9cd9a": "mkcue: update 1 bottle.",
+    "9bb07bb478924c7eeccaf0dc2c938ceae3d182e2": "mkcue: use ssl/tls urls",
+    "7c2382963d3c4bb46cfb863204d695dbd3730fe9": "mkcue: add 1 bottle.",
+    "3bd60651cbc0c414d88b622e7116ef1b162ab545": "mkcue: test added",
+    "ec4d8009117219e6a240c21a7786e7c34e54d7d8": "mkcue: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "79bc92fbad704f3731919dc27881baa7b9be3d85": "mkcue v1"
+}

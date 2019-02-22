@@ -1,0 +1,18 @@
+{
+    "ac24ad8b48a2d6854dda4b0e55190828d3f1ecfd": "adns: update 1.5.1 bottle.",
+    "c9c31ed00fa32adfcfebda586cd81dd14fd6f245": "adns: update 1.5.1 bottle.",
+    "6a09d4ca1766e0224b952b754b72c518b143dcbd": "adns: secure url(s)",
+    "86c36021cd3de88194fb3c1372b1f3976b8ab2d6": "adns: update 1.5.1 bottle.",
+    "613b68e20b4e62959b81988d5a9541a4142183ad": "adns 1.5.1",
+    "4c6e0d4c16cdd148457c0320a3407b37e920ecd3": "adns: update 1.5.0 bottle.",
+    "f38186d8e9490af946d565f1d53217a357713599": "adns: update 1.5.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ef964ff51824964d79560d7327683723f7667060": "adns: add 1.5.0 bottle.",
+    "f8593769e7c4cce65e0f02d79b5d34ecc8690fbe": "adns 1.5.0",
+    "85618ae3ba7cb5bed07c37cf1c2497ff1ee6f5c4": "adns 1.4",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "77ea102828da04bf04fce5b3e293c0f1fd0211e1": "GNU ADNS 1.3"
+}

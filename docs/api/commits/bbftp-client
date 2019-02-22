@@ -1,0 +1,17 @@
+{
+    "34d23134c224acb4be09124ddd3e42ff5f56331e": "bbftp-client: remove references to pre-Mavericks.",
+    "1e5f03c36c7a885da5cde5f855fe7097b48a8b4e": "bbftp-client: secure url(s)",
+    "d7b072827237280311669e8378f4c1c7c30a89e9": "bbftp-client: update 3.2.1_1 bottle.",
+    "6f47301f01c5c6c01291d9c36f40b94f851ef42a": "bbftp-client: secure url(s)",
+    "8d709c96eec4131d2be84675c0838a4be82f2882": "bbftp-client: use canonical urls (#18251)",
+    "5c0e96743d0ee4b4bf26d3061b2b63eac5dbdb41": "bbftp-client: update 3.2.1_1 bottle.",
+    "0f926a8e8ad21341b64ade6dd27283d8cf773d60": "bbftp-client: use mirrors and remove patch (#18218)",
+    "0dfdb686f6013ce1d03a4e396556179e91a09d11": "bbftp-client: update 3.2.1_1 bottle.",
+    "7484bc70f12dd87d53bbca05fd32ebfa63a0ab3a": "bbftp-client: update 3.2.1_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7488b3e091193a98cf60c1939e84a62b4ba0d094": "bbftp-client: add 3.2.1_1 bottle.",
+    "f298a42719edefe1f5c1e9e773f9c0762cd7d844": "bbftp-client: fix openssl linkage",
+    "6ff4c338ebaf76d195bd8c36ad05b19f5540f069": "New formula: bbftp-client 3.2.1"
+}

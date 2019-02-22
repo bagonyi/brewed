@@ -1,0 +1,11 @@
+{
+    "7b2d7d11a1869614fd3b501e0634db58235ab296": "diffstat: update 1.61 bottle.",
+    "99f607fbbf414230d728aa3463331557611f5ebe": "diffstat: use “squiggly” heredocs.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2e88e9331916d6d8e58125e23259bfec55a9bfc0": "diffstat: secure url(s)",
+    "1ff0b24ff8c36ddcfbb83439728fbedbf008272e": "diffstat: update 1.61 bottle.",
+    "62b204760a6ee49972d49957a96feddfa56c2876": "diffstat: secure url(s)",
+    "f8195fcf7f5ac1d33c4acd2419be226999a0657b": "diffstat: secure url in test",
+    "493b69302e429ddde7e32526b84c5ac08258e529": "diffstat: update 1.61 bottle.",
+    "f74907900719fbf7a55125c6ac5dce18f059fefd": "diffstat: import homebrew/dupes into core."
+}

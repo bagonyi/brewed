@@ -1,0 +1,17 @@
+{
+    "aec766721d6dc5046ab2fec245604adf2cc12268": "libcello: update 2.1.0 bottle.",
+    "e6adeb840336ba6224089316f0056c6bed8bea70": "libcello: update 2.1.0 bottle.",
+    "bf39c04d4866f87766c0b2c9a99ca1a6e50e9371": "libcello 2.1.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a6f580f8c300bacbd2f61ce8b1ebcd4d2e91b063": "libcello: update 2.0.3 bottle.",
+    "246511435c82f55892c7a95c2ab5e60e825f653f": "libcello: update 2.0.3 bottle.",
+    "c75710366c87781b1676a0c260b0073473b2c76d": "libcello: update 2.0.3 bottle.",
+    "ef6720cace5eaf4319d2649c085e10475646ae75": "libcello 2.0.3",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c4e32287436b31f3678a68ae6de54e4dee777c4e": "libcello: update 1.1.7 bottle.",
+    "94d497f8d3f99a6a1ce784b255e5b3d6c0c95c43": "libcello: add 1.1.7 bottle.",
+    "75826f22aa53b807a8b8a9747d8e2c4ec782921c": "libcello 1.1.7",
+    "4a8c9ec4eabe523500aba2dceb6396f015f6185b": "libCello 1.1.2"
+}

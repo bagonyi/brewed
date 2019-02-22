@@ -1,0 +1,16 @@
+{
+    "af9b840c736cb7646499625aaac296c4bdbb7fba": "gcsfuse: fix dependency order",
+    "aab69d54b2b1b956ee7c1ebdd8ffddfc3410cd45": "gcsfuse: update 0.23.0 bottle.",
+    "38c30f632586d50cad65ab5e253e7640212445f6": "gcsfuse: update 0.23.0 bottle.",
+    "0e986d186a8d6b4bb5668cccd2cbfdb09d151d5a": "gcsfuse: update 0.23.0 bottle.",
+    "c7781e363b391eff29040a66460160043517dc79": "gcsfuse 0.23.0",
+    "ab7294908e27977d6484bbd5b10f6a09dfefb72d": "gcsfuse: update 0.22.0 bottle.",
+    "e18b87bdb12ae2a5f8b9e54b21f9ea6498818183": "gcsfuse 0.22.0",
+    "9701e9ba5989bec5e7a35bfe1148a6a86d2bdb48": "gcsfuse: update 0.21.0 bottle.",
+    "323e65f1a9fabe48f8b50366536301fc459323d3": "gcsfuse 0.21.0",
+    "c65e6106379ec0f9bc6c63afde38372932dcf2bd": "gcsfuse: add 0.20.1 bottle.",
+    "b2664dd236ff6d7acb0f2155aa8474712e16eb71": "gcsfuse: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "acdca0495b7d332ab6d58f1eba5bccb30ea023ed": "gcsfuse: add 0.1.1 bottle.",
+    "5b370b3edbe71098b7a251725635f550e8ebd2e2": "gcsfuse 0.1.1 (new formula)"
+}

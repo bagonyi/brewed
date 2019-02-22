@@ -1,0 +1,21 @@
+{
+    "bf0ca13e8730a96a89e7bdc005d0c3c5ce6deb4e": "lv: update 4.51 bottle.",
+    "704ca393c67c2595b82e0cde1d81cde7dddd7e29": "lv: update 4.51 bottle.",
+    "f989298a2d2bcbc1e8ab57ca0812cb28511cce06": "lv: remove protocol from web.archive.org param",
+    "35d413ee4263e294e6168f3a1e51bcec0573ee06": "lv: update 4.51 bottle.",
+    "7cc900d275bc0931d724da84059c53605faea267": "lv: bottle revision to rebuild.",
+    "af17b01ca4a0bdf41f7bfb8b3217f16eb56b16c0": "lv: fix URL.",
+    "4952ceaa6275077df6bf951e15af96e65be18d52": "lv: update 4.51 bottle.",
+    "1c21ba1c467533de5278f811467a8ee64cac7851": "lv: repoint URLs to archive.org",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "39befafed2370a3436b3aca2b0776366471f7dad": "lv: replace patch with inreplace.",
+    "bdfee95dcd5f4f6f14bcc6331fe9320ceaa5d684": "lv: general cleanup",
+    "587658a94b5eee8bb883439b8908f14a4d0a0f72": "lv: add 4.51 bottle.",
+    "e3301626101979a8abdbbc020a21c1abae95e3c6": "lv with gz_filter patched",
+    "a7f7318574e19f4e4c51a956ce3eac0098a22d0a": "lv: symlink lgrep too",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "40715668b09a2d2480f8e04de1ee71dc30c1f807": "New Formula: lv"
+}

@@ -1,0 +1,22 @@
+{
+    "61363a67df1596ab813043437f9d351b7a3066e1": "rsnapshot: secure/fix/follow url(s)",
+    "eccdb09a2d7590063c51a8c1b6da0b1006eebc00": "rsnapshot: update 1.4.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "63d083fbf965f1b080f5950fc4929f1d6e474a46": "rsnapshot: add test",
+    "4811cc43df96951ab4ddcda6eb595fdc2f61e509": "rsnapshot: update 1.4.2 bottle.",
+    "e2ef139c1306d83072694f59757dcf30290d854d": "rsnapshot: update 1.4.2 bottle.",
+    "d694582b9fe7c23dfbb032edeccc03f7a76bd955": "rsnapshot: update 1.4.2 bottle.",
+    "f32b93d6b58e3fd2d6c4fb368d0dfb0865f19288": "rsnapshot 1.4.2",
+    "4b7eb81626b7d5486ad131342ac6720d8494ef95": "rsnapshot: update 1.4.1 bottle.",
+    "f0553503a0d29d88a9ac5b322e2795d0c94b0dd7": "rsnapshot 1.4.1",
+    "d27a31a7006132a0873330c86d6ee73194ad1f32": "rsnapshot: add 1.4.0 bottle.",
+    "e935a889a4c68b9a16194ccdb8c4d925ec78ae49": "rsnapshot 1.4.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6a643ae68215191b0de7d61da4519146ce22a929": "rsnapshot: fix pod2man error, update head",
+    "22768b2714332d1c24431d8782f2b958a57db5f6": "Added empty password for anonymous CVS access.",
+    "461001ccd8dfe9281c0eb0af352e16a301f39e05": "rsnapshot: style nits",
+    "932603e9577286b231d2e9cdbd534750a4dbbfee": "rsnapshot: add HEAD CVS",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "158261caae5b5ee05d43cda8603e4fe0a50ced48": "Fix mandir for rsnapshot",
+    "930c5d7eab104312fb1cb7065d4272dc148f8a72": "New formula for rsnapshot"
+}

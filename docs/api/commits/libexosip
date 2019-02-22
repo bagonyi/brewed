@@ -1,0 +1,21 @@
+{
+    "be671a061fb5176c78662450f8fe9aba5f09ad7a": "libexosip: update 4.1.0_1 bottle.",
+    "c735d24ccf938297429694e00bf5279a34ed4a88": "libexosip: update 4.1.0_1 bottle.",
+    "820d88f63bae80b112663f90e796cfc4874b13e4": "libexosip: fix audit 'description must start with capital letter'",
+    "93d90849716f30093e69a9f626ca1fd0106a0e2e": "libexosip: update 4.1.0_1 bottle.",
+    "ff1130c1295e55bdca894fe5b8054cb16bd4ec03": "libexosip: revision for libosip",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "7aafad83c4f081893a2d87f9cc320dbe5b35e4c6": "libexosip: update 4.1.0 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "8848fb876e12f257845a3fee6173d05bd68ce9f8": "libexosip: use secure url in comment",
+    "3ce8b8b3f337e9d3559f03c35b09e7161f919626": "libexosip: update 4.1.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "760e31d0726ec0dfc6c6234708c2765a677fdf03": "libexosip: update 4.1.0 bottle.",
+    "3775a5d8680cf817af7531b23a755c47a31c7f06": "libexosip: update homepage",
+    "f5dd54adb9ceb269b5e7f77bddab1a9d9a247cae": "libexosip: add 4.1.0 bottle.",
+    "949b82cfbd98d0849543bc26f52435319a0db2e4": "libexosip 4.1.0 (also added openssl dependency)",
+    "4dee0b14132ffc6f5a7cbb462fb9dd4ad3626d97": "libeXosip2 3.6.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "17a88bb8350f71682a6d20b90ea4a9df595dd497": "New formula libexosip"
+}

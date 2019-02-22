@@ -1,0 +1,12 @@
+{
+    "3d71a34d6e13c0daf7398e29fa8d2a0d8f7f9bee": "ired: update 0.6 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ddb1bd4543fc52e862a06eb7e51502ef13b94768": "ired: update 0.6 bottle.",
+    "4b22350aa1ac49418685888e190339f17b77e8b8": "ired: update 0.6 bottle.",
+    "98736ea776f11965ea835db37b45e10996627c11": "ired 0.6",
+    "a746352be0c7d907eea83bc2cd40f975fc7d7d69": "ired: use https for stable url",
+    "e66dcc578aa917ba117053b6fc34fe722b31e028": "ired: update 0.5.0 bottle.",
+    "2dd30b12d722e27ff5fe8b0eb8dd0f00fa33b2b1": "ired: add 0.5.0 bottle.",
+    "23674a4a07ef706a087cad4ebb540385953d190c": "ired 0.5.0"
+}

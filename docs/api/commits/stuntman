@@ -1,0 +1,17 @@
+{
+    "43a17adecc6624c1f5836b280adce3cc166d4b6d": "stuntman: update 1.2.13 bottle.",
+    "8383136459ffdc8c1b5bec3b0162ae080c449adf": "stuntman: update 1.2.13 bottle.",
+    "a0b7f165d6b76ce1a37cc510ff4e89f283c18c0b": "stuntman: update 1.2.13 bottle.",
+    "b1beb2076bee9ff2aa74a2851f5f649876c12a3d": "stuntman 1.2.13",
+    "ddef43f698b9f876632859407692afe90086092c": "stuntman: update 1.2.10 bottle.",
+    "2995acfe0b526356198a6548ac99ba207f28aa26": "stuntman 1.2.10",
+    "8863f4919ec31e30527826b119ebff8adc863a23": "stuntman: update 1.2.9 bottle.",
+    "2646679a7bcd7a272bebf5266abb355dcef923cc": "stuntman: update 1.2.9 bottle.",
+    "e93203166c6e648d5dbb37897c4eb75f234fda22": "stunserver 1.2.9",
+    "726da7072aaa60fe9beef400326d2dcddab5e853": "stuntman: update 1.2.7_1 bottle.",
+    "00bf8588bc3b493a63ea794d4521df58b826656d": "stuntman: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c892635896f1967ed6d8d18cd5a6508cbe23cd3d": "stuntman: add 1.2.7 bottle.",
+    "25d7dc6947ca54e1e8327998325906712b0a43b1": "stuntman 1.2.7 (new formula)"
+}

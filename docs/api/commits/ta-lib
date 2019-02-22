@@ -1,0 +1,22 @@
+{
+    "34a924385d41c7d4a4ada6677810e69b798f39a8": "ta-lib: remove references to pre-Mavericks.",
+    "c8b089cb25bde37a00a77670939c66d5d160e9cf": "ta-lib: update 0.4.0 bottle.",
+    "930eeb584a6695e8e5399e7ff9f3e60ceba48c73": "ta-lib: update 0.4.0 bottle.",
+    "099c4ba8f43b65d14afdb173a53f21d1253a7de5": "ta-lib: secure url(s)",
+    "593b971171bb1877475503333dc85e801868798b": "ta-lib: drop universal",
+    "2c3bc3d22ee7d1f25c43a3691b32aa1f3a159b2b": "ta-lib: update 0.4.0 bottle.",
+    "8238cf444cb5febbe5201bd5e3e98d86ebb02e4b": "ta-lib: update 0.4.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74f95ae871ba927924fa87a1f591e752399f045f": "ta-lib: update 0.4.0 bottle.",
+    "b74453ba0bf0dc9ee38a7b9f3f04cff0d36992b7": "ta-lib: add 0.4.0 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "29422badc372b140b04ee3f54dea6d47dd04b336": "ta-lib: support universal builds",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c25e59587fbe68c9fbef34561a7faed36f974dbe": "ta-lib: style update",
+    "0ee0f676f1de84868dfba170b6d924e27860153a": "ta-lib: use full regression test, remove comment",
+    "1ee4d197c68fec23331b8910162612c1d16f7386": "Added ta-lib.rb a formula for the TA-Lib : Technical Analysis Library."
+}

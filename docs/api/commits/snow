@@ -1,0 +1,12 @@
+{
+    "1b993f45fed53f466ae786cbafd72d935581b9ab": "snow: update 20130616 bottle.",
+    "39f421e243f44b65dc9d9887dc2712832abca635": "snow: update 20130616 bottle.",
+    "c8405d4ee9f817b80a40ff91486798bd01219be2": "snow: update 20130616 bottle.",
+    "1c94ed399332ccea1f0b34706fd536f7a3155d05": "snow: update 20130616 bottle.",
+    "19229dcc4a83e4035f362802f7c30b359e1248af": "snow: use brew mirror",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b6313feb0bc312404ccf419d2e8b882d0ceaa167": "snow: add 20130616 bottle.",
+    "c1be4800c681d4e851718d454b866081037325d2": "snow 20130616 (new formula)"
+}

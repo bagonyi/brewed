@@ -1,0 +1,23 @@
+{
+    "227318ba6bd8ad7afba54a2f2d1df709223ab171": "hping: update 3.20051105 bottle.",
+    "5a8e7aaa30e5ea69aaa2fa942cacaed57c8391c6": "hping: update 3.20051105 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "9e1faef7d9f87588d3558d04d5e61a5efee8025e": "hping: update 3.20051105 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "8263b3f87f3e4c049e7f4c0ce35765b584d18c49": "hping: add 3.20051105 bottle.",
+    "c4d9c2a99cdecc15c99c16ee7385ab23fc79e7b8": "formule: migrate various patches (part 1)",
+    "ef3bf7845203ddb98f01bb1bc9b692a7abc6991b": "hping: use homebrew mirror",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "08d7af3fa1e1df213678e6ceb772dc1a6e5d3307": "hping: added mirror",
+    "0f698e9d0a153ebac155ff89b9da098161c109c0": "hping: use checksummed patches",
+    "2013dc3f5630d948e0e7cf054102151b4d19c716": "hping: patch out strlcpy declaration",
+    "cfb1d4f674488a4a26708ad7bf190f3367e9a925": "hping: fix building with secure strlcpy.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7e4a255233759a55c910db4ff7b74304e2b83e19": "hping: style cleanups",
+    "97ee52cefba2b0b504bb05a4fce681716d6bccc7": "Use HTTPS for MacPorts patches",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "a2c3d59d1da51678d285f4511e39f956ca1bd3df": "Update hping to version 3.",
+    "5d8a71035c904dbcfdfdb1c19fc1b0420602398c": "Added formula for hping2"
+}

@@ -1,0 +1,17 @@
+{
+    "66e2091137f72abe5f71efb9ffa2e4b88c2918b4": "libcmph: remove references to pre-Mavericks.",
+    "5b06a8cf187629364027ed3ef8fef2411aab4b3a": "libcmph: update 2.0 bottle.",
+    "6d97e7424ba67dd9712e20446934ebc70591bb95": "libcmph: update 2.0 bottle.",
+    "5c32f589004c61fad9b880d537a5d4486fec3892": "libcmph: fix audit about sourceforge link",
+    "9c4f274b9e4002af9cb66c3a04bd5e3ff72d18a1": "libcmph: update 2.0 bottle.",
+    "1a3e31994842c1d59f440e5a906a72c8fd73ba8f": "libcmph: update 2.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "db0bcca1cf8ec43e4ec4ce766c6a899133532d0a": "libcmph: update 2.0 bottle.",
+    "1e44069699403d61945d1c77eb6ddffdb50d0bd5": "libcmph: add 2.0 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "14a0d0942faed305a1e6b9afb1203f013723a1e9": "libcmph 2.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "69d47c304f64eeea66274701de7cf562239b5404": "libcmph formula added"
+}

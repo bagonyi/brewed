@@ -1,0 +1,18 @@
+{
+    "04c7016e00901c19e37679982e5deec696c97ce4": "exact-image: update 1.0.1 bottle.",
+    "6233d1c50663d53ddba611b23955143eb102689c": "exact-image: remove options",
+    "2158ec2b79c00fc30d1f1bc26cf85bd2b8519a1e": "exact-image: update 1.0.1 bottle.",
+    "6e9ac5e44663f2cd87ac01dd1f7b6979c2217580": "exact-image: update 1.0.1 bottle.",
+    "ea3589f7a9d42d8e7d04444a6c569151ee1b238a": "exact-image 1.0.1",
+    "085136270aeacc5b2eff8809e528ff1656982483": "exact-image: update 0.9.2 bottle.",
+    "15278eece3c471377649ae053589d5f05ab6216c": "exact-image: update 0.9.2 bottle.",
+    "79f83876a35613e972b52aea25bba734fec54e5f": "exact-image 0.9.2",
+    "bed916a9ddabd11bf695faa7af9df89e976d5c3f": "exact-image: update 0.9.1 bottle.",
+    "294d8ee70fd70aa3b71a9442523bdfe545b0ddeb": "exact-image: update 0.9.1 bottle.",
+    "3013c22c6779a15d407346234034687ba3453252": "exact-image: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "ad36910ea42588c65e94796d0bf6de9a5ecca198": "exact-image: disable GIFLIB",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d417c0d784e2473fe520040114fb6e548066bf94": "exact-image: add 0.9.1 bottle.",
+    "1fbef46e2e79d1920d6d4c9dfd1726b0f585c8a9": "New formula: exact-image"
+}

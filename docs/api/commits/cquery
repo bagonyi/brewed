@@ -1,0 +1,11 @@
+{
+    "69cd3479452edbcecea1f5115b15236fa05ee2e9": "cquery: remove checks for old compilers.",
+    "f858defcdedeed5c651d3e1d49d410900020d7ce": "cquery: fix RuboCop Layout/AlignHash.",
+    "e607d7e7a823cf1ff59a4b68d4735f53f2e72c1d": "cquery: fix dependency order",
+    "42be2179d9c355687ebaf69f46d7c880a3880f9b": "cquery: fix tag/revision indentation",
+    "ba85496e418f8b99c2d747637a6adb2232e48644": "cquery: update 20180718 bottle.",
+    "8b12163d1789cedffed58643bb19d349d76be2a0": "cquery: update 20180718 bottle.",
+    "8c02ea2fdd22d2c3f20c463d249c28d057ae362c": "cquery 20180718",
+    "245c444a8a37b80ca76e3fdaafa67691d5a846e7": "cquery: add 20180302 bottle.",
+    "f44fb6f4a9362b3265392612635d4f6dff449bae": "cquery 20180302 (new formula)"
+}

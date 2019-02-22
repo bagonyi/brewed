@@ -1,0 +1,10 @@
+{
+    "dc75e6160bdb93082d642b5c1b3e87ec999a43ea": "sz81: restore https for svn url(s)",
+    "d4d147930229dcf84a51541c3e5f1da79167e360": "sz81: adjust svn URL",
+    "70158d563732a4475794e657e8014f213dfff19a": "sz81: update 2.1.7 bottle.",
+    "3e564c403510e06629b8ca1dfe0b63920f37f64b": "sz81: update 2.1.7 bottle.",
+    "1e4dcb795571ae3a4a94d1420f3b4480f7aa3ab3": "sz81: use secure head url",
+    "660107689abcc3e157f18411135c71d12baa8128": "sz81: fix audit --warning",
+    "d4e475ff31904fb277ed316409638b8397b9b1e3": "sz81: update 2.1.7 bottle.",
+    "f8f378bb794cc44b17221a3b6ff73097502ff617": "sz81: import from homebrew/games."
+}

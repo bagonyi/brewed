@@ -1,0 +1,22 @@
+{
+    "0f3975a4def8e804aa089f32cf69c6dc2fa885dc": "scrcpy: update 1.7 bottle.",
+    "2a116a02ea36556db4cf33ec09c2e475697995c8": "scrcpy 1.7",
+    "2546d32097b064cb470f70869f0fb4a675ac2d0c": "scrcpy: update 1.6 bottle.",
+    "49f5087b680a69246ba8c2eda0fbb48ef23d1227": "scrcpy 1.6",
+    "cffce1712168c9652cf49fd8cbf15029bc948e0e": "scrcpy: update 1.5 bottle.",
+    "7df90fb031033a86421449c005c6847376d91ecc": "scrcpy 1.5",
+    "da04a2ea4a4d14f1403a1ca40a427222fe7d6196": "scrcpy: update 1.4 bottle.",
+    "b34934aaf89273806ff04bd25d74293309b415cc": "scrcpy 1.4",
+    "0695878a2157a1eaf3fad4b91328ff9800075cee": "scrcpy: update 1.3 bottle.",
+    "ff892da4a4651c1a2c9be89826367788227aa453": "scrcpy: update 1.3 bottle.",
+    "707fc4939d263e6b7922cc208bc0a6847646e129": "scrcpy 1.3",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "2d5f3d9a252daf766a8715c0d1a42de939b0345b": "scrcpy: update 1.2_1 bottle.",
+    "bf176bc7934a3df9fd50d68637b22a5c5a5af80e": "scrcpy: use buildtype=release",
+    "cccc7797290152891baa9c7a798d65e8d86b61a8": "scrcpy: update 1.2 bottle.",
+    "6981a5286b2860890c2cabf9c301e146bb361f76": "scrcpy 1.2",
+    "679aedee990b1e2caf2e32461fcdf17ea6017168": "scrcpy: update 1.1_1 bottle.",
+    "d2f0b33c57c78e06c9e9f8130407add2750ad3eb": "scrcpy: revision for ffmpeg",
+    "379e36b32ae3b7b58e7fd5d02db6ee6c48883b29": "scrcpy: add 1.1 bottle.",
+    "b23958e64e0bf4a8513e1eaa184c5830aac7004f": "scrcpy 1.1 (new formula)"
+}

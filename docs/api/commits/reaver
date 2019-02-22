@@ -1,0 +1,15 @@
+{
+    "3e55038f4b5b31a4ec407b79f4d0d6e8dd065711": "reaver: update 1.4 bottle.",
+    "177893d578338eba1227e66a1d01eb06e4a1d5f1": "reaver: update 1.4 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "438c6573c1db2cf740d926e55c31ce7c9430d82f": "reaver: update 1.4 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "2ee2e824420682e8e61316c93b316caa71be87b2": "reaver: add 1.4 bottle.",
+    "ce6cd382656bd2cf31d2d145969d6cebf051a2da": "reaver: use secure url in comment",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "25cba8daf7aa7df373bc6ffdf67841a7e26c6044": "reaver: expand patch URL",
+    "cc1703b7c1126dc8b623190a7d1e220a0a937723": "reaver: use checksummed patches",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "d6fda817a94d163fb4994898d9e406d064a7f583": "for reaver 1.4"
+}

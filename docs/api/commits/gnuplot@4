@@ -1,0 +1,19 @@
+{
+    "2fb4f756ba89e34f1ad0514e9416546ef4744a7a": "gnuplot@4: update 4.6.7_3 bottle.",
+    "b1fdf5f82253f648c9e9c06d52c445f1e1e6ebdf": "gnuplot@4: revision for readline",
+    "cf08a64f8b446465915b0828c7b3ad2910526ecb": "gnuplot@4: remove options",
+    "ea0b08e37f47ec7c05614c2dbfc59ff6c8a28c74": "gnuplot@4: fix dependency order",
+    "d52fc57bf54d907ba378bd150ff51c3420336441": "gnuplot@4: remove options",
+    "8f37deb286d4997b227b2345fe5ebfd9d2fdbac1": "gnuplot@4: update 4.6.7_2 bottle.",
+    "39b932616318df37a7f885c6b067aa36ad025dee": "gnuplot@4: update 4.6.7_2 bottle.",
+    "24789c70af407e5d6a738c76416d3edb89ee5bbc": "gnuplot@4: depend on lua@5.1 instead of lua",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a591951e847bee41e2bd8083a48dcf201e94342b": "gnuplot@4: use assert_predicate",
+    "e8ebb1abf69c29cc7b58ddc4a68f97451b430dcf": "gnuplot@4: update 4.6.7_1 bottle.",
+    "4e0df70174972bae7288f5ac4da8dfe78388b27a": "gnuplot@4: update 4.6.7_1 bottle.",
+    "9c549a134edcbfb9238f0b48fb804acd86797ec6": "gnuplot@4: revision for jpeg",
+    "ac3261c429d32b27a155f88bc55df245a71a3888": "gnuplot@4: remove tex (#11679)",
+    "9fbc382dc220059753be595ae4413c35e3bf78e6": "gnuplot@4: add 4.6.7 bottle.",
+    "5ed18f793ca3d557e12e47ea0b0478c4150dd01d": "gnuplot@4: import from homebrew/versions."
+}

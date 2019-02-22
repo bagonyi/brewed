@@ -1,0 +1,16 @@
+{
+    "511d93ee0956d43d44510b3586e4d079018008c3": "pcal: update 4.11.0 bottle.",
+    "e8a6aa4ff89e89bddacc7110f6decbc90c881b95": "pcal: update 4.11.0 bottle.",
+    "3978c8f306ec36578eeb0e5da251ecd2878ad1a2": "pcal: fix audit --warning",
+    "cf888233a2015e738f496b884468d6af9704f94a": "pcal: update 4.11.0 bottle.",
+    "331ccce5ea769951f5dc8931218b417d513deff7": "pcal: add 4.11.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9747ba865a2456e7bfbe99d694ec2b74b0b2d1b4": "pcal: use double-quotes everywhere.",
+    "3bfadd9676676d3cba5df28aa7d63ed29c8049d5": "pcal: use \"make install\".",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "eb5d1f43e7cb5179acc870bbb19f14b55d42cd50": "pcal: remove unused skip_clean",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "8f321bf191b812f9961fb9320045a1caf3fe3b77": "pcal 4.11.0"
+}

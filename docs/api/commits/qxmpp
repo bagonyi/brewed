@@ -1,0 +1,23 @@
+{
+    "62e5cbc7602a9f8aa42f91f80968919562c68395": "qxmpp: update 0.9.3_2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2c7dcb9796ab77023d34b54a4d4de4105f9b3a8c": "qxmpp: use assert_predicate instead of File.exist?",
+    "0299068130db2ee3ab9691107efaa718c4118048": "qxmpp: update 0.9.3_2 bottle.",
+    "b199af33b3e5f4b5e1c194e4bee91644bec8fb06": "qxmpp: update 0.9.3_2 bottle.",
+    "1ac2df85e5787ac71c6804ccd8e5c273cc61ce1a": "qxmpp: rename qt5 to qt.",
+    "4207682ecc53e3bc9fcd1e509f80e6644c7aac12": "qxmpp: update 0.9.3_1 bottle.",
+    "bcd858d9c0a481ca58d460dc1a09909ad793a5e9": "qxmpp: add test.",
+    "5e17dbc38445b416a6c27cc285c72dc10b94a0de": "qxmpp: use Qt5.",
+    "02b56f76ebda87f30c0fabba69f5f65203302c17": "qxmpp: add 0.9.3 bottle.",
+    "d183157829e3bcbc85acb89f2478250b7f4102ee": "qxmpp 0.9.3",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fd517c76f2621dfd957c8715ac3c1f7968a632c2": "qxmpp 0.8.0",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "aa1cbd1bfc5dcbb9508303296e35751428ca000e": "qxmpp 0.7.6",
+    "ecc0d4c3d9b8e122c60d7b0bae0f705f99762077": "qxmpp 0.7.5",
+    "8a48017298b5fcaee5f10fdd2e9b5923b064150a": "qxmpp 0.7.4",
+    "5a66065fda71fe37b2d931405a2d8eda6f2df5d5": "qxmpp 0.6.3",
+    "dd7e8ece3573fed4ca612b0de1bc2a733523ad89": "qxmpp 0.4.0",
+    "3a9a612ae450bcbe923d95368d9c5c60214ef9db": "Qxmpp 0.3.92"
+}

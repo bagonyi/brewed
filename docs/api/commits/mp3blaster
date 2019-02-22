@@ -1,0 +1,13 @@
+{
+    "ffc0187b367658279fc0afc280132a728b722714": "mp3blaster: update 3.2.6 bottle.",
+    "6d7563b82f65961843ef575fcf09a286a240034d": "mp3blaster: update 3.2.6 bottle.",
+    "90877369607f1e56ee69ecfc7d735dd11704d8a6": "mp3blaster: update 3.2.6 bottle.",
+    "0b08796c1437788dc0d9d77031d98cf6b139b325": "mp3blaster 3.2.6",
+    "66caf9f81ddff0786fd56f449ae8c12d61b11ebf": "mp3blaster: fix audit about sourceforge link",
+    "003bf03cc4c0eb5be4f5e2604dfe3953a460dd1e": "mp3blaster: update 3.2.5 bottle.",
+    "e9ae4863f42a62c756839832532f599c116898f8": "mp3blaster: add 3.2.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "5e2492dff9939fc127dba90ac6662eacee8e8be5": "mp3blaster 3.2.5"
+}

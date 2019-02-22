@@ -1,0 +1,21 @@
+{
+    "d04899bb41cb0714d235a7eb7b5ce778ac91f210": "snzip: update 1.0.4_2 bottle.",
+    "86a99cf14986b898e9316dba8198d128d3a6043f": "snzip: update 1.0.4_2 bottle.",
+    "030c440e43422722caa2633536ba42b3701017f0": "snzip: update 1.0.4_2 bottle.",
+    "f3a1e6de2ab6d6fb38abdbd1f59619df05be6c99": "snzip: revision for snappy",
+    "f67f29b26fd2cc6b26354579c3e32dc6b7c701a4": "snzip: update 1.0.4_1 bottle.",
+    "8ecc8d1cc14f6d8f6387eeff0e6bbb4f3f8e9dbf": "snzip: revision for snappy",
+    "83f54c2fe8d276c1d34cbdf5930f2914f3443a8c": "snzip: update 1.0.4 bottle.",
+    "27d20076412bb93f776dbaa671ea5da4c42cc8d8": "snzip 1.0.4",
+    "9cdbcc6cfc77656132b9126018dea0a873da1d64": "snzip: update 1.0.3 bottle.",
+    "0cd0d58d07b35459b8bbc7685da419e980711e09": "snzip: update 1.0.3 bottle.",
+    "da09db570c30738cbb87e39f93c8069b10064f49": "snzip 1.0.3",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "80834cc4d23d7f4fb9dc7f2d6227ebd3b7260aaf": "snzip: add 1.0.2 bottle.",
+    "6e4a87db73551f406406d1c451bbb387dbdc5450": "snzip 1.0.2",
+    "7b14f503e87ab93eec1288c402687fd50b5c81ed": "snzip 1.0.1",
+    "b8ecb2835a3c84c0aa84998b104a670984ba751b": "snzip: improve test.",
+    "87c0a8e4f246618514ec4cdd2f900ea2782156bd": "snzip 0.9.0 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "99286aad013bd37502af8cb5566da3b5b5353124": "github-markdown-toc: update 1.0.0 bottle.",
+    "e9b28c81177a6eefa0b494348c329e9e0676029d": "github-markdown-toc 1.0.0",
+    "0e22143c6770bc17db62a38cc7fc50d987c10a1d": "github-markdown-toc: update 0.8.0 bottle.",
+    "0306a3d4da47580a59b4ea3c2d848b9af687fa63": "github-markdown-toc: update 0.8.0 bottle.",
+    "baa24ba3508090515218c8ee683b0f786fe3a5c6": "github-markdown-toc: update 0.8.0 bottle.",
+    "e3d1342366be61fdae3e7ad7c6aa7391628339b6": "github-markdown-toc 0.8.0",
+    "3c9cbad781031697d9ce5ebb846bb060c829b64f": "github-markdown-toc: update 0.7.1 bottle.",
+    "8c066510beceaea8fe637cec65ce1a207452cb60": "github-markdown-toc 0.7.1",
+    "2294609faba74e02f928a460f236119124c8ade7": "github-markdown-toc: update 0.6.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "8170bf962665fd9e1d07da62969e45e8497b00b4": "github-markdown-toc: update go_resource indentation style",
+    "57ac7bea97511d855811ad29e2040425a0422356": "github-markdown-toc: update 0.6.0 bottle.",
+    "40199e7c55be7e199abf740fd0725531bed2b9b8": "github-markdown-toc 0.6.0",
+    "e624086b00b9f2aa8216c04e24d24e3e870adf7d": "github-markdown-toc: add 0.5.0 bottle.",
+    "0fc6b4a5fa3f1ed8d671c1cee71a36dd4d43ac6e": "github-markdown-toc 0.5.0 (new formula)"
+}

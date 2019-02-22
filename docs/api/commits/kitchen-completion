@@ -1,0 +1,5 @@
+{
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "a903974a02cf22737953071e2362c4c52b388639": "kitchen-completion: fix audit 'description must start with capital letter'",
+    "d4047f65fb64f75e0f3002a9928f5811fefbe7b9": "kitchen-completion: import from homebrew/completions."
+}

@@ -1,0 +1,14 @@
+{
+    "21a7add944baa4b3485653bf2d324080047f0366": "uni2ascii: remove references to pre-Mavericks.",
+    "2d466992fe603d2db247a658d458db9f84bb756d": "uni2ascii: update 4.18 bottle.",
+    "bf86b67303098099940be7468ebd2762283acee3": "uni2ascii: update 4.18 bottle.",
+    "9ad05431d833015f7faca185f2f68e27e7aab51a": "uni2ascii: change homepage to HTTPS",
+    "d1f97f5e4d71ce062aba6e83ed9acbae2df0e1cf": "uni2ascii: update 4.18 bottle.",
+    "9b3f933b9edd5fdabc56573eddadc5b64e46fe6c": "uni2ascii: update 4.18 bottle.",
+    "1de04fac78cd34444f2bd52bfd7f0a172c9a89ff": "uni2ascii: test style fixed",
+    "d527b8ae3b568b6a755c5271c2a44f613eadcb2c": "Remove encoding comments from formula files",
+    "f85be02a0d4ad37d07a366d9dd7ebc7dd31b6daf": "uni2ascii: use debian url/mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1b0d7925e84522f445f911480f118f8d2902792c": "uni2ascii: add 4.18 bottle.",
+    "dec73bb5e532864da62d8aa07850fd3757d50355": "uni2ascii 4.18 (new formula)"
+}

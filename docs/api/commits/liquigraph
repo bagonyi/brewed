@@ -1,0 +1,23 @@
+{
+    "d4bf33a08bc824edc0b95098050f32ad71fcc4e7": "liquigraph: update 3.1.0 bottle.",
+    "eaa532ea6f83e149c29f256fa88f38b6d94a4462": "liquigraph 3.1.0",
+    "cfc6cd258e0e08f15291b0220614c9dee7fd65da": "liquigraph: update 3.0.3 bottle.",
+    "91c644795d5c4787fc0efe55cb5097eba4b5f359": "liquigraph: update 3.0.3 bottle.",
+    "77c2fc6ec5ee6ac2fec1ff9b61c3ad3089f3ebd1": "liquigraph 3.0.3",
+    "9db6240d932980ec580e8104b01bf7c1c07faaf4": "liquigraph: secure url(s)",
+    "81b8d88038ddd1b857e36e4a7c43424d70ad2dfc": "liquigraph: update 3.0.2 bottle.",
+    "dc895dd7c9332767b83fcc131ed3436e3da1570e": "liquigraph 3.0.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1a5c3351658ffca2c6b8c4d87acc616cf9fc2033": "liquigraph: update 3.0.1 bottle.",
+    "65a4cf5c03f7beafd18c4b1a23a34694c85fd3ad": "liquigraph: fix checksum",
+    "927a621250ce3cf572f5334ea175d6392d799e4c": "liquigraph: remove deprecated ENV.java_cache",
+    "9b0ccbfcac5049328b5bb92ec46e630c4ff98ac7": "liquigraph: update 3.0.1 bottle.",
+    "49fa797562520ceb3d9c27b1c93a65f02c4cff40": "liquigraph 3.0.1",
+    "571497a3cb03f07c3a36a5676a31c45eac34c8e1": "liquigraph: update 3.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "edf3f089eec4fec5020ae08e069d0f5dbded3a40": "liquigraph: minor test tweaks",
+    "bddd15ee6a3b4df82a1900b1d96dd4589de20e27": "liquigraph: fix indentation.",
+    "8b2ac13eaa91574994c0047bda3265767bbe8f51": "liquigraph: add 3.0.0 bottle.",
+    "ad0d155f43a558a38ec9edf4f87db20c7875a5a7": "liquigraph 3.0.0 (new formula)"
+}

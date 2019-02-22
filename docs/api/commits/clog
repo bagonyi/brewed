@@ -1,0 +1,18 @@
+{
+    "e65531e22026bf351c703e5477be3ca38c9bb016": "clog: update 1.3.0 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "131a163e1347d57729509b27e6be658269a3c363": "clog: update stable and head urls",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "35105cda1e5f218ad437520f15f366c05d084226": "clog: update 1.3.0 bottle.",
+    "b4dface0a61b07389e168d1db0531e07b3090f20": "clog: update 1.3.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "cdd52d3254f8d9d44c1530cfd0add1d59f830110": "clog: fix homepage (#2550)",
+    "318adadef58213ba796b2820bab3f7865beea8ad": "clog: update 1.3.0 bottle.",
+    "6446e2ba6f1176b02ca69f540ab9c880d02ce872": "clog 1.3.0",
+    "fe2b5f5df51936c340e042b99a80608a07c59401": "clog: audit fix",
+    "a655a5eaed5670351941a5b4547e8006c1679595": "clog: use secure urls",
+    "5dbe4952d3a8a5a2e349c4730bfe210fde37d4db": "clog: add 1.2.1 bottle.",
+    "c983d2948fcd8c317ff53db92a552ff85938c650": "clog 1.2.1 (new formula)"
+}

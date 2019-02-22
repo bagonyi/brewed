@@ -1,0 +1,16 @@
+{
+    "7ed55ddc71428aa2c013d4d858fa1c99cfaa7e28": "dcal: remove references to pre-Mavericks.",
+    "ea2784e626870d5e10794bce41e905018cf10b49": "dcal: secure url(s)",
+    "5a60ebdb90cad105b0290ac3f7417d08e8de09af": "dcal: update 0.1.0 bottle.",
+    "81e62b38f171b107e090dd02b80793b0f262dba5": "dcal: update 0.1.0 bottle.",
+    "d5f65d52be8d04260ac61c4d3f4d16e3b21fbe11": "dcal: update 0.1.0 bottle.",
+    "b6e0ff7e20e02785d97b8a55e9642ff1573a08f3": "dcal: update 0.1.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bd05797b634f0f7e0d898f729fb16af896a08eb8": "dcal: add 0.1.0 bottle.",
+    "caaf759d711c1c216e688ab075dccd88b7d8f2fb": "dcal: test added",
+    "05487307707e3135878ab7f9fa05df73a0c3f8e3": "dcal: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5bd598db3665bddce91e6e171c64d1f5c75744bf": "Use ENV shortcut methods where applicable",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1798f74884191e41901cb1a181998badb3ab10fb": "new formula: dcal"
+}

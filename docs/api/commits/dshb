@@ -1,0 +1,12 @@
+{
+    "bd1bec9bc47e9d65c7abef2acb5f837da13ad7d7": "dshb: update 0.2.0 bottle.",
+    "d46413a167143208b5187c03f7ec1fd5ef91d063": "dshb: update 0.2.0 bottle.",
+    "ac754597df9eff2c4c3fe5265522ee4a5fe48595": "dshb 0.2.0",
+    "627a123496725e031707002f33d00198ae3ef975": "dshb: use 10.11 bottle on 10.12 and above (#17496)",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "92c20c184d64b13b37859da5199ebea35bd85c82": "dshb: do not manually set TERM in test",
+    "26e7ad61afe56342083fc5058898d5eb43eca200": "dshb: add 0.1.0 bottle.",
+    "ebb2644d5b790291dbab2bc6adfd8a5c10fcc652": "dshb 0.1.0 (new formula)"
+}

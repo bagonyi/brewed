@@ -1,0 +1,23 @@
+{
+    "ff7f8837fd4a868aeba02973e514bd9b61f915a2": "sntop: secure url(s)",
+    "f4bdcf668bfce43f2246cdcba1f40faa782d981f": "sntop: update 1.4.3 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "22ae2377549a8847ef1fd7fb889a1895d0e95973": "sntop: add test",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "958774259dfa1079214870322fb12159ba3f3d53": "sntop: update 1.4.3 bottle.",
+    "410c1659313385d37c9ec29e26f79879cab3399f": "sntop: update 1.4.3 bottle.",
+    "d94d497df3fc8cb2d463baea4cbdd1b52e8fb281": "sntop: fix audit --warning",
+    "019a58d0a837d919651d0bf36305e2238111238a": "sntop: update 1.4.3 bottle.",
+    "27109f54be6f38fc520d3adb39d0c893327db442": "sntop: add 1.4.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d0dc32f52102f305a100e01ddc75384610a7d344": "sntop: recommend sudo instead of setuid.",
+    "a44aba82e825a11e66da3045c4dd72919470b318": "sntop: Ensure that the manpage is installed",
+    "301359a4470f3bf7c2ea31495b25f719922e27ed": "sntop: create etc directory before make",
+    "bd8195af87e6bf5339d95a2fd0584c5494a4bf77": "Switch url for freebsd distfiles",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "fb4804a7fd349b32e57d17a003ab60f5f800615d": "sntop: style nits",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "395f3aa941dd9fcd4f04e6d466b23820eb902aca": "Add caveat for sntop to warn about fping.",
+    "f88414729f4ff5d2c455371d959df32419adb0a6": "New formula sntop - simple network top"
+}

@@ -1,0 +1,12 @@
+{
+    "d352b5939b11a7d580a6be3f0e0787274b4912fe": "zmqpp: remove checks for old compilers.",
+    "c35a9f62d1244e3ed95f7d1cb4f9c5d6b96c9d12": "zmqpp: update 4.2.0 bottle.",
+    "41b3be9a2e0d338c99a4cb115b9e3a90afc11fa9": "zmqpp: update 4.2.0 bottle.",
+    "c22a377e34930b9bde2e52cb525daeb81411d4cb": "zmqpp 4.2.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f51342adaf7d93761b6367bb7cd2023aab77fcec": "zmqpp: update 4.1.2 bottle.",
+    "a51575f70413c8fafdb96c473cf4b547f328271b": "zmqpp: update 4.1.2 bottle.",
+    "d4acdc3b0bb517ddd70b721956bf2a1202a62944": "zmqpp: update 4.1.2 bottle.",
+    "58799765e5186965e899c9b3e40360120d30cd9f": "zmqpp: add 4.1.2 bottle.",
+    "4ef1dffef0ab09404fbb2e17f8f18fe50ccaa3c3": "zmqpp 4.1.2 (new formula)"
+}

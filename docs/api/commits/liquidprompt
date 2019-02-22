@@ -1,0 +1,19 @@
+{
+    "310736cc7cf888f37a492719f06b93d9da83222b": "liquidprompt: point HEAD at \"develop\" branch",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e96063c80600228a85a1e1e332e0034563fc2a56": "liquidprompt: remove non-Homebrew-specific caveats.",
+    "91a45347ef8efdc7ee2fa5247ceda6b04c634594": "liquidprompt 1.11",
+    "b89da345b00c9ee69c62e5307371185603153b2d": "liquidprompt: update head (#1629)",
+    "5eb0f407b3ce426c74f02c35cce322d8514df44b": "liquidprompt 1.10 (#1624)",
+    "6a50a5c38cfe9c20368e65a41a7f7e435dd22bdf": "liquidprompt: add HEAD.",
+    "2819c5c36b9142b2653a4179b0b10569e997e12a": "liquidprompt: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8bc87655f369592ccf81698338bd2dacb2e6a6f4": "liquidprompt 1.9",
+    "324129e3196eddbb7e9a68e760c0e7af649a2f69": "liquidprompt 1.8",
+    "6994c35e84ba8fdd2d66498c2ef38d05420e9098": "liquidprompt 1.7",
+    "6cba2dddeeea6329869856aaf41a154e0c485727": "liquidprompt 1.6",
+    "9d351f25f7ba0fdaf998970c42e1c99fcd0456e5": "liquidprompt 1.5",
+    "400990d5ca36cca1ef68a4d51f43121f6ac8caa5": "liquidprompt 1.3"
+}

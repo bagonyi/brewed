@@ -1,0 +1,16 @@
+{
+    "a5b759da07d21441dfd70ddb5b4d5e5b91a912d1": "flasm: remove references to pre-Mavericks.",
+    "37fe71203ac4d381b0b7f623c5f9acd29d321421": "flasm: update 1.62 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "721fc67c2e4d94c2e46d0ec71407d88e8a36b4ed": "flasm: update 1.62 bottle.",
+    "753bb6cad8b11a320e202297b88b8697f9dfff86": "flasm: update 1.62 bottle.",
+    "d5ae729d0b3725e7ff8194f81ef1abb75eca155b": "flasm: update 1.62 bottle.",
+    "bba8c5c7cb43cc32c2f8e1e9778fd2a18b454689": "audit fixes: F 02: findutils - fmdiff",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2569550f6caeadff2ba7a6c6caef9d95d55f82ff": "flasm: add 1.62 bottle.",
+    "cfe509b6dc4fc062ce9e0328fe7e0246aa6c1044": "flasm: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "8d178b37b3ba9af90a7dd9c22bb578648ca32d9c": "flasm: style cleanups",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "f4792b72dbe7b7def2ec9fa290b4b1ca83b5fb54": "Add flasm 1.62"
+}

@@ -1,0 +1,17 @@
+{
+    "9a83ccae73494e09592eb1c4982ceaf0d25e21c7": "rarian: remove references to pre-Mavericks.",
+    "fef87f5e5c39d1434916fd79154deccc66911d24": "rarian: update 0.8.1 bottle.",
+    "323af4a9b32e7c38393c8d9a83a230b5b5ffbdb5": "rarian: update 0.8.1 bottle.",
+    "9e7358a95f3bfcbaab3902cd8e62360b7049a4e6": "rarian: update 0.8.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fb7a29217023f0290ccd17b91c9bbac280322742": "rarian: use secure urls",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "683f75bc8bbb440594cb988d7591d228784136a3": "rarian: update 0.8.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fe685c4ade8936e9ac5fea001888f2d79a1caaa2": "rarian: add 0.8.1 bottle.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "596476ad78ba0fe9b9dff11e70527de285e708c2": "Add conflicts_with DSL method",
+    "7abf2b85c06643449a44d6a1f812b1d702b92468": "rarian 0.8.1"
+}

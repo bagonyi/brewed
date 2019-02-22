@@ -1,0 +1,23 @@
+{
+    "42f6e61c6c17132780d5b4bdcc2440af33db76e5": "ncftp: add secure mirror(s)",
+    "23dfcbc6f79f69fa451240fb467999b56095f7a0": "ncftp: update 3.2.6 bottle.",
+    "85dbbd329ef13b5886742340c7ba175abe1b0c41": "ncftp: secure url(s)",
+    "b8a4a0b0690bde34ecd2d7f472c6a10545260681": "ncftp: update 3.2.6 bottle.",
+    "7ab47adaf3e485f0a4e3ee4c85b3bbd738e94ad1": "ncftp: update 3.2.6 bottle.",
+    "fddeb8e589bf155e8c28dc17022d37c23d857007": "ncftp 3.2.6",
+    "ab81e7059fe615d868bb9d2b262555ae0f210762": "ncftp: remove ENV.no_optimiziation no-op.",
+    "01956f9fcb1795d318b2c2aa47b4530b3c7c8719": "ncftp: update 3.2.5 bottle.",
+    "90514bc78e2f7c96d68df7e0590050e39f6e543e": "ncftp: update 3.2.5 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c4b43c54a715b3cfbfbc7947772461c3af66b46b": "ncftp: add 3.2.5 bottle.",
+    "bdc361f257b3aaec39a6224e2c1b4404ae3abac9": "ncftp: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8d980967fc1be4e4f44582353f0bfbdfafccfd9c": "ncftp - disable optimization to work around build issue",
+    "efe689088303b500ff271834c607de98e75b9dea": "Updated MD5 hash for ncftp",
+    "d841e9787bc2e6927ffd2e648140aafa6dd62be9": "ncftp 3.2.5",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "f4ed9050d841e87e0be71e1a374bda8030cb79f9": "Updated ncftp to 3.2.4 and fixed mandir issue",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "6f8c2dbb45e9920f4420bf3d6d7177dee01c13d4": "NcFTP 3.2.3 formula"
+}

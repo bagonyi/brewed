@@ -1,0 +1,9 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c874c37bdd2fe12c7a98b8efe665c97c84c3ecf8": "dropbox-uploader: Install dropShell.sh to $PATH",
+    "c14c90ca567378079ff84b6b57d32edb3d9d26ac": "dropbox-uploader: update homepage (#9036)",
+    "ef560dd1994c79d8248cc3a6313eb5fdf4b2315e": "dropbox-uploader 1.0",
+    "1f587df9be166b1466d5e1fe6d17a78f0b621c75": "dropbox-uploader: use secure homepage",
+    "38c196460b6118da91e337ea7d02b9ec73de7487": "dropbox-uploader: bottle unneeded",
+    "6af3295abb1077e326473061a04a7fcc11c15767": "dropbox-uploader 0.16 (new formula)"
+}

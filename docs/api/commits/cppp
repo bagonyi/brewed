@@ -1,0 +1,10 @@
+{
+    "9464b6e1d7b034fd0021399ec00c453c234a3dc9": "cppp: update 2.6 bottle.",
+    "bff8ce9f96e62dab37e7dae34586318c23705835": "cppp: secure url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "87e52623831c1fc255544d38d3721eb4e1522575": "cppp: update 2.6 bottle.",
+    "4e4b30379b60682118f25e42abd8c941e39f3015": "cppp: update 2.6 bottle.",
+    "4d459925c2e377f37cf54d910b0cbf439a3c4f5a": "cppp: add 2.6 bottle.",
+    "5a1d58b393e060efe36089465543e32921c792e6": "cppp 2.6 (new formula)"
+}

@@ -1,0 +1,23 @@
+{
+    "dfbf7ab0eedef2b3078e0c6009b02827fa5d32ca": "rmlint: replace deprecated scons call.",
+    "d075778fe40e9f7927605bb46c3f31140657721d": "rmlint: update 2.8.0 bottle.",
+    "22d0f5647c4648d5374fe10173628ee8c2423487": "rmlint 2.8.0",
+    "69467c3235e81ecd4e4c728781566d69de3c12ce": "rmlint: update 2.7.0_1 bottle.",
+    "574462ae7c745ad3cf9ee308f5ee70aeada0852a": "rmlint: remove options",
+    "87748de4635c9c91de9486a73201eca7b9038c84": "rmlint: fix dependency order",
+    "788055fc50c525ea85d6956fcee62a7ecadfd662": "rmlint: update 2.7.0 bottle.",
+    "378002a2e17b83fd13b503889975bf6a2e85a25c": "rmlint: update 2.7.0 bottle.",
+    "c729a1f6ecec1acc277d20b6d118809b884e5719": "rmlint 2.7.0",
+    "7c9b569ecebca5ae8f4e1728dd4457b424a01674": "rmlint: remove :run.",
+    "8f58494011fe64331e3efc74e2cb615239417be9": "rmlint: update 2.6.1 bottle.",
+    "2431e2ff755eb94071399eaa62fd0e3763bb9fb3": "rmlint: update 2.6.1 bottle.",
+    "2b537c650a4b280ba5132c13580147e4c953c80f": "rmlint 2.6.1",
+    "f1a2507ccd803e0048e68f6d24a2d74ce4d01adf": "rmlint: update 2.6.0 bottle.",
+    "cb123d840fc96655cf3b4111d75ce0ab61850705": "rmlint 2.6.0",
+    "08866e0a73f429a35112f54a04a3c0440a976d31": "rmlint: update 2.4.6 bottle.",
+    "0d812f0f055ca59c7accc5e5e1ec91ab9b8e426f": "rmlint 2.4.6",
+    "736fb45bb76939b7bbac1027c127c90c47176b57": "rmlint: update 2.4.5 bottle.",
+    "4819938f2f32bff960428a85e5910edd121c233f": "rmlint 2.4.5",
+    "ab7a88fcdc2e3ea6b096ea6cc903f45bfa9c0ac2": "rmlint: add 2.4.4 bottle.",
+    "2282396a6f4e04b94a650dde8a470a082f458b55": "rmlint 2.4.4 (new formula)"
+}

@@ -1,0 +1,16 @@
+{
+    "0661292fe02b70ed5128ded9abaa5a06605f403a": "gplcver: update 2.12a bottle.",
+    "4a86fc4f37586250548d5c6738d0f057df14eeaf": "gplcver: update 2.12a bottle.",
+    "b82af6ac5fd07eb10f3101df3ed40c08266027cb": "gplcver: fix audit --warning",
+    "16a20829b2ff0948a2fcadf9363ccf418f5cd167": "gplcver: update 2.12a bottle.",
+    "7e13adf70509b40f526ccd1528964ca686de7b13": "gplcver: add 2.12a bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f7da7a001bf25826435cf7406b846d25dd9a7901": "gplcver: fix build with clang",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "56287c5bbc09d9b3623f6e9d433ef0fe561a933b": "gplcver: style nit-picks",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4f4d5db74f0c30db1980a82ca396273af2901aab": "new formla: gplcver"
+}

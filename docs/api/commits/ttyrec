@@ -1,0 +1,16 @@
+{
+    "ea0d675b8a889aa3dc0dae9c083c14fb6c3b71c4": "ttyrec: update 1.0.8_1 bottle.",
+    "1223b5e60b91525adeb6d239c57bffe86fec6ee6": "ttyrec: update 1.0.8_1 bottle.",
+    "8868e4dc65b2d5498b4e63d21350196a39d434a7": "ttyrec: macOS has openpty(), use it",
+    "da07163de39bf69af28de3926982718bdc4408dd": "ttyrec: update 1.0.8 bottle.",
+    "28cb807ae9ec350076e77071101619220cf30c90": "ttyrec: update 1.0.8 bottle.",
+    "c281c83e574003c250f1eb54977dfcbae2fa376c": "ttyrec: update 1.0.8 bottle.",
+    "090c469fa04af8bdf2cbe5b403b497a7876c8c82": "ttyrec: use full path in test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4648bd2f6638821c2802f17db4ff2187cd2bfa3e": "ttyrec: add 1.0.8 bottle.",
+    "ac7d6a85fa39356aaf74df9789555a87dfac9243": "ttyrec: test added",
+    "4409bca3296cc8a44ef5e685553aec59e7e7185b": "ttyrec: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d5430894955e75349ec6728ff08866c8f41f6b94": "Added ttyrec"
+}

@@ -1,0 +1,21 @@
+{
+    "13181a3c7fbb4e386987329684147b48a20133d9": "cocot: update 1.2-20171118 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "ea425f12f576113ee0c45217b77e43f6b65e1588": "cocot: update 1.2-20171118 bottle.",
+    "70af9f6c4c04a5dd1418a005e48ad104335d024c": "cocot 1.2-20171118",
+    "a46a83b94bd4c99bc38750ef42c2ba1e9ea5482d": "cocot: update 1.1-20120313 bottle.",
+    "222e78fa7da4c5eb3a257d013d95179a8d470dcb": "cocot: update 1.1-20120313 bottle.",
+    "212b7ee957b5b861bb2a173fe580b872f7b3d58a": "cocot: use secure homepage",
+    "151d25bafefa79d2a97bc80ec34a529a933e2404": "cocot: add 1.1-20120313 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "0eb17fd6249c95d2575e0b60619c7fbbfe5414b5": "cocot: audit warnings",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f98e12885c696551452cf5a4cf0c409b1f9880f1": "cocot: 1.1-20120313",
+    "1f990f40f7ecbd0b80a8da9de789e77166b6f198": "Remove cocot",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "006c0fa835461585a111a5a57619d1f7c692f81e": "New Formula: cocot"
+}

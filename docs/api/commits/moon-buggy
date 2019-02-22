@@ -1,0 +1,16 @@
+{
+    "20cc002cd143ad98024ffc36cc464e138f7a20ca": "moon-buggy: remove devel spec",
+    "a3c16580d7de6ff77af868bfe8b0b8f26ce75c94": "moon-buggy: update 1.0 bottle.",
+    "47df78f6e93eacae5f882707ebbf4ac916de64f9": "moon-buggy: secure url(s)",
+    "70c8ee2a3ab184af8bb56a7afbf15d3cca899644": "moon-buggy: update 1.0 bottle.",
+    "ebc847aa762ad31d7403ac6a0d01437770cd88d5": "moon-buggy: update 1.0 bottle.",
+    "b47450e6ba89250104affdc25cb7044628a486ee": "moon-buggy: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "2f5f7ea7cd39de131ec9ded167357eb35ee7e1be": "moon-buggy 1.0",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "91eeb8c9b711ff2a0f89f3dc1ee9a0960d824a29": "Fix man and info paths in `lightning`.",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "255319d7ba790836e0e21ba31b41ad9f296257a5": "GNU Lightning formula"
+}

@@ -1,0 +1,13 @@
+{
+    "2df572d05f4396119b2817295febad3f0cf3554e": "safe-rm: secure url(s)",
+    "6da1444788f31d62507dabfc314b5173cf052eed": "safe-rm: use refute_predicate instead of !File.exist?",
+    "4ac7d733911f2a4aa20e612112363388a1ecaa0f": "safe-rm: use assert_predicate instead of File.exist?",
+    "e79b93b743e01824a5e5dfe134e3f3fe6c86e926": "safe-rm: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b0fd4c06607857479ddcbf29b3c24773f2227eeb": "safe-rm: fix HEAD url",
+    "6bcbbf960f299edda2b046a2186acd0338c5609e": "safe-rm 0.12",
+    "a593b00191c4536b0a7983cda5bcaa20699f47d2": "safe-rm: add head",
+    "66f8fc223af39a8e74def3d0dda06f08e98c24fd": "safe-rm: update URL.",
+    "b84f6442fea1fa2ab6f8199ecc4675bb8a8b6e0f": "Silence some Ruby 2.1 warnings",
+    "e2e07b6d91177651a2deb56eefb971e344e85c84": "safe-rm 0.10"
+}

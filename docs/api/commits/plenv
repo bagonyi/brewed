@@ -1,0 +1,23 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "dca19db2f0f934ca2f4393cfb46fc4a022a1453e": "plenv 2.3.0 (#28306)",
+    "39f39c778615a7946900de8cfb37924d09212c24": "plenv: add test",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7f2f894498033643c2e029227b5195689f9a6944": "plenv: bottle unneeded",
+    "c9001e089b3ecd1616cc6daaefcda0ab35f33dc2": "plenv 2.2.0",
+    "3642ac3dbf27f6762d4c0c2f175380e2a3819a0d": "plenv: Update for zsh users (caveats section)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b2bff640cf88c9fa5a46d637757d9adac11b3c47": "plenv 2.1.1",
+    "d85e0a908557bcbefc2ad78172166973a7e7e922": "plenv 2.1.0",
+    "4034f667bb508aa9f702c6263278f6f7c044da77": "plenv 2.0.1",
+    "ec41b54c5de822ca1c0b217c724596c1f78afdf5": "plenv 1.9.4",
+    "821581d13768a89f0e6492235be5c77ae287bd0d": "plenv 1.4.15",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "c73fa70d64dca75cc19c0e7ca3556b35910968cc": "plenv 1.4.7",
+    "2330cef504f3e6b415ff5b4c01db5693993ba37a": "plenv 1.4.3",
+    "69cf4832760f6c319af8e1957c0dea3b30c22bd3": "plenv 1.4.2",
+    "0a2ef0d34b83fc30fba464b7380d20d034c96aea": "plenv 1.4.0",
+    "61ddf2e722092a0d0a374cb58774194669afeac5": "plenv 1.1.0",
+    "ccb0c6c260381a2f3389555f8f14b0b385e24489": "plenv 1.0.8"
+}

@@ -1,0 +1,14 @@
+{
+    "4aea35607574fd89082b05481cefc99d883465bd": "cifer: remove references to pre-Mavericks.",
+    "ab6b91f40562a6f6e340f5b9c188da45ffacc0e9": "cifer: update 1.2.0 bottle.",
+    "047cfa662faf07327897ce40d8ffbfdff70cc43a": "cifer: update 1.2.0 bottle.",
+    "bd0060ef11b202ea749314a4810fbc2475490dd6": "cifer: update 1.2.0 bottle.",
+    "d48d288c8358f382e75f6b43a82e4afe675adf5c": "cifer: migrate to archive URL",
+    "4f0145f3e85347ee1ddd10135e1fa0ac745ec053": "cifer: update 1.2.0 bottle.",
+    "608e5978bce706adf7cfa48a3d1f26780adc9947": "cifer: add 1.2.0 bottle.",
+    "90b5d1a18c3bd367bde746a2751abf9d25fa1ef1": "cifer: use ssl/tls",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "975231677bfe3ab82bc10fc9c11706c6d00e18b6": "cifer 1.2.0"
+}

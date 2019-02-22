@@ -1,0 +1,23 @@
+{
+    "9b5cd7469c71701e4264e952015e393283b64edd": "pumba: update 0.6.2 bottle.",
+    "6c70d4d00eb5793182ca1bc820376cd82ad61b4f": "pumba 0.6.2",
+    "37da51b9d5f7c49424769c48d712dc779e0203ad": "pumba: update 0.6.1 bottle.",
+    "8cb8fc24bc17484cb8c0e383e5a81456b689ebe8": "pumba 0.6.1",
+    "ce865ab5a4b35ff8b6632cd2c1e49bed6765268d": "pumba: update 0.6.0 bottle.",
+    "449d8bd8d80a075cd91427d693958b6c50fe708a": "pumba 0.6.0",
+    "da2e74635ece842e6ab1ede0eaa99454b9f1c381": "pumba: update 0.5.0_1 bottle.",
+    "024c79ef371ef6e7b179f64ed80ba1f35104d50a": "pumba: remove docker dependency",
+    "1555f6f6c4b7889261afebb91ec8e3be398fbb8e": "pumba: update 0.5.0 bottle.",
+    "c0c4b6fb352e961341598b56f846f946ffcec3c9": "pumba: update 0.5.0 bottle.",
+    "f1a72a6ba8c768e32e029fbfdf5210b0d78810d3": "pumba 0.5.0",
+    "630c40b05d88e0712f2027b679853b0434874913": "pumba: update 0.4.8 bottle.",
+    "5dd9f65eab06bdc16aafdbfa22e0346512421604": "pumba 0.4.8",
+    "471c6768a9302e418eed2d1a1b474a4e95ff2106": "pumba: update 0.4.7 bottle.",
+    "f8dc0a2f2c27de206e6b00b41998aafabfad7078": "pumba 0.4.7",
+    "0bc37727c940906d14752bafa364448ff5c514cb": "pumba: update 0.4.5 bottle.",
+    "d4605691f928507dcd5c7e351b0ad58f9a44ce25": "pumba: fix checksum",
+    "e7fe817504dfeb2ae9c0ca5ba17314ac54ebda71": "pumba: update 0.4.5 bottle.",
+    "c9c1d0c4c6562f7e0b0e2bfc2aa0aa35b19c248a": "pumba 0.4.5",
+    "3c9a207102ecef8fdc8346242db2b179960fb57a": "pumba: add 0.4.4 bottle.",
+    "4c1be212c453506db66e935c8c543f2a1bbc7fbc": "pumba 0.4.4 (new formula)"
+}

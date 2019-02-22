@@ -1,0 +1,11 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6b5328dce720b4410c8fb0601409de55ba9b3f71": "apache-archiva 2.2.3 (#13767)",
+    "a28db8c35fbc7f1897741c1e0955f059a43d34b0": "apache-archiva 2.2.1 (#12427)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "311cff67497ab42395bfb2c2f7319b8782f652ff": "apache-archiva: fix audit problem.",
+    "49d36a8f26bef02abb6741716eee17d3a7c2ce11": "apache-archiva: bottle unneeded",
+    "faf66418a66c1d752cad0f42af57d53855a93079": "apache-archiva 2.2.0 (new formula)"
+}

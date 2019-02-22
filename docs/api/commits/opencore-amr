@@ -1,0 +1,18 @@
+{
+    "9b948789d62893d8058e3ec1941d38d5ff4a1452": "opencore-amr: update 0.1.5 bottle.",
+    "e1c5d32a8d420c122ed1c5ec2d0f7da3f9027df3": "opencore-amr: update 0.1.5 bottle.",
+    "8322b5d7cb2ee2f5fc49c7cda08609925577ef29": "opencore-amr: update 0.1.5 bottle.",
+    "df09fef3fec42cf6e6a97a3daa85459be9335c80": "opencore-amr 0.1.5",
+    "c2dae7b6ef0b48e4ec609e075f9fafd3b2269504": "opencore-amr: fix audit --warning",
+    "c5c1e101d542139dc67cda4253819a54937309ce": "opencore-amr: update 0.1.4 bottle.",
+    "5ac1e81c9497d956fdceca245a25755ea89cba44": "opencore-amr 0.1.4",
+    "909781b2a733b8c1015fc695c00cdc391f97308f": "opencore-amr: update 0.1.3 bottle.",
+    "302e7ac8fcf870872d0574f5eba161a41ab32c59": "opencore-amr: add 0.1.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "3c5ce13e738be2a41ea48966a5ab00d3068dda91": "opencore-amr 0.1.3",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "f8515139b1fd1cf31010bf8320d4de7022f6de68": "Added opencore amr library"
+}

@@ -1,0 +1,11 @@
+{
+    "858c482ecd31159d06b035cec6c276b1d5600cd8": "xar-mackyle: update 1.6.1 bottle.",
+    "2b03944383131d894483413b0c6d3c7fbc971889": "xar-mackyle: use assert_predicate instead of File.exist?",
+    "03cb4ea32e1547bb9ffca46c68a15b1e19fe5386": "xar-mackyle: update 1.6.1 bottle.",
+    "e1c3e7549052d3a375d78ede97d9190195752b6a": "xar-mackyle: update 1.6.1 bottle.",
+    "c7e0ee0ade92d3be628b28c7211d19c73ac4f77d": "xar-mackyle: deparallelize make install",
+    "a28a3e836261292d053cfa08c99a007f33a9220c": "xar-mackyle: update 1.6.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "15ab156718120d445a03c1a44165fb027786ed9c": "xar-mackyle: add 1.6.1 bottle.",
+    "a1bfabc2adc04be9d8bdeaa79a0e901614903b8f": "xar-mackyle 1.6.1 (new formula)"
+}

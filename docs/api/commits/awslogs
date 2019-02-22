@@ -1,0 +1,15 @@
+{
+    "a1ae880502c06572daa6c845183865ca2614341c": "awslogs: update 0.11.0 bottle.",
+    "785745f218aac2e347c6b8b62d7dd6a85795222a": "awslogs 0.11.0",
+    "ecfd22cf3365f89495269894feec4d602cf04816": "awslogs: update 0.10_1 bottle.",
+    "383b045c92596f07e3510a2ed9e19b982c457a02": "awslogs: move to Python 3",
+    "e366ac2ce30b68c5488b8d3ce21ba16df51321f3": "awslogs: update 0.10 bottle.",
+    "23471130606fb154ba3b736d03358bb6dd1fb9dd": "awslogs: depend on python@2",
+    "a37fbbd48454c7033dc08842b38d4cb12190b455": "awslogs: update 0.10 bottle.",
+    "0afcc9d9999c10b9fe9dbad3592a7257ded704f5": "awslogs: update 0.10 bottle.",
+    "b321254e81a410b42a75dc6ff534292282a2ecde": "awslogs 0.10",
+    "55a4328a6721f098f77f2a162d4655dc1600703a": "awslogs: update 0.8 bottle.",
+    "5e0329dde764f2d1ea7f304ce263e5f56c9303f7": "awslogs 0.8",
+    "c9ea2e7f2354365c8bf7e8cd537762344c57ce43": "awslogs: add 0.7 bottle.",
+    "3517e9fa2d35ab3cfe405452e26d44857037112d": "awslogs 0.7 (new formula)"
+}

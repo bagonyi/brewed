@@ -1,0 +1,14 @@
+{
+    "e59dd895aff5c3bb2d5c5b7881a9d9adf1b4f3db": "libngspice: update 28 bottle.",
+    "f69e06d64e9952bec74e1d6534f329b7e519207e": "libngspice: update 28 bottle.",
+    "1f96be919d01df95fced69aaf6cda90c78775766": "libngspice 28",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "47eaa4ab4f922a6f5edf9de9bf3cb0f753f975a0": "libngspice: update 27 bottle.",
+    "f6aef7a4a6b419b320766d8ca2fc86350fc8f2c8": "libngspice: update 27 bottle.",
+    "6d0f6b88414895b9fa71baddb6c85f74a14b45b1": "libngspice 27",
+    "e1c0c9f308175425a506073cd95b8f83fdd03d92": "libngspice: use secure head url",
+    "efea07b61cc089c23eecc0800d1ac932dde56dea": "libngspice: fix audit about sourceforge link",
+    "44551eef00620e907af976a152f9deac85d40fb2": "libngspice: update 26 bottle.",
+    "61d21c5bd8a2557d775ecddd5bb60217b35b3047": "libngspice: add 26 bottle.",
+    "4f360cb8faf31ae4e243c2f5bd47036249a7a474": "libngspice 26 (new formula)"
+}

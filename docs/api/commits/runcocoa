@@ -1,0 +1,10 @@
+{
+    "5c5af0f9d44919ba3da696842a4515487043579c": "runcocoa: add a test (#19794)",
+    "49837de49ec552b1a88d48aa15379570008a78a3": "runcocoa: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "f0c35d529b327696ee244a33a2bfa97475c5e5f9": "runcocoa: use sha1",
+    "e88a0a6d5568d52cb8f950f3df02563e53a91b4f": "runcocoa 20120108",
+    "2414f22573154389bb0be14a597418b4be4de722": "Runcocoa; unversioned so I used 'a'"
+}

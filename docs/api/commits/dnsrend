@@ -1,0 +1,15 @@
+{
+    "59aa83d01ab718a269dcf7293ebc0147d164fc56": "dnsrend: update 0.08 bottle.",
+    "de594c4fded0347c0bc11a270c69f91c9f8bade4": "dnsrend: remove retired search.cpan.org mirror(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b79006cb6f03401e3178e6b701d5e853b0d54258": "dnsrend: update 0.08 bottle.",
+    "f71b10558c9698ede17a3aa34a431a0e8773d324": "dnsrend: update 0.08 bottle.",
+    "fd998f09c990e91866944fe4a7ced89c18c2cfbc": "dnsrend: update 0.08 bottle.",
+    "f261dcf20be468a14e967ab9e10dd014beeb8b2b": "dnsrend: remove insecure cpan urls",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "60914edbb0f6d62e20cc06bb3f0a2b92a7534552": "dnsrend: use SSL/TLS mirrors, pass strict audit",
+    "210957a0a859fc7b81f5a55ecb9cfe85a0141f7d": "Provide a method to access test fixtures",
+    "8d3d52188026ad625aad8d51bf8f83b7d272fa7a": "dnsrend: use pcap fixture.",
+    "2ddb12e2ee22acc7ae6ef8e4430b0d8eda264a73": "dnsrend: add 0.08 bottle.",
+    "5c7711edc95eb11715ff1bb0ffbeabd98de6f821": "dnsrend 0.08 (new formula)"
+}

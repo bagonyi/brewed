@@ -1,0 +1,10 @@
+{
+    "c9b424e9b78ed28688486c43931a9a3bd91011aa": "swaks: secure url(s)",
+    "ad6f4301928c9c507333f5409c2657cee7aef1e9": "swaks 20170101.0",
+    "1d18ca62c160f13d0d99202731ba2ceb56c1d445": "swaks: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "437e8f463d14426efb145e6063845e52ec4736ca": "swaks 20130209.0",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "913f85fbd6aa338d6f3595d0aa7c9094d3a93b2e": "Swaks 20120320"
+}

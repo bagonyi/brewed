@@ -1,0 +1,21 @@
+{
+    "5008640adb438af350e5e4336099837db382888f": "fondu: add secure mirror",
+    "e36af7c617bbbb00cba9414459cf2a577f40459a": "fondu: update 060102 bottle.",
+    "f757d22d22a1c7460ccbe55ea360e1715be23dfd": "fondu: update 060102 bottle.",
+    "fa054d9b044c645b8a09e11e5b8054db4ae9fb04": "fondu: https url",
+    "e30614dcb98ad5e7dd0d5fb29e9dada322afd8e5": "fondu: fix audit --warning",
+    "c3aaece36fee3daa9c68319328b063d0ec028bd5": "fondu: update 060102 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6d2450cbaae1b77f41465f9944435d0ece3f582f": "fondu: update 060102 bottle.",
+    "d35de4dfde3ad7792635a03c034b626ff4e820db": "fondu: add conflicts_with cspice",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5ae2f0e49be6ff0ff3d28a504aceee577fe478fc": "fondu: add 060102 bottle.",
+    "7265a953caabcd000e3237fb7e2045ae489d1bc2": "fondu: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9ff7b91e3c3628ff058e35d6a94d8327fee7dca5": "fondu: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "29f06d5501c632e2712fdb4f1fc5687ac2badd1d": "Fondu formula."
+}

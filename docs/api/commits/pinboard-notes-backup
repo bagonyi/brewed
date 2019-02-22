@@ -1,0 +1,7 @@
+{
+    "1e6eb03bb4b88217d5b4f77334bcda3d0ba57cd8": "pinboard-notes-backup: update 1.0.3 bottle.",
+    "84560b9275c9405ad2c6322c608bf7560e15edcf": "pinboard-notes-backup: depend on ghc at build time (#28548)",
+    "aba62b31ae4bbe1c6831aa321a1d47e66e0d6a60": "pinboard-notes-backup: depend on ghc@8.2 at build time (#25528)",
+    "4a2013ff97457b14dfa2b8a9b1b9a1e9631ff752": "pinboard-notes-backup: add 1.0.3 bottle.",
+    "a2f5380ef1428c9883a5845fd7ef032fc6b1665f": "pinboard-notes-backup 1.0.3 (new formula)"
+}

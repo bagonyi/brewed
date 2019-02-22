@@ -1,0 +1,19 @@
+{
+    "1c7bff59209c531b69440564de24fb8c3fa5ed25": "webdis: update 0.1.4 bottle.",
+    "d2b058012adcbdfe9698b6aaec8b6d9811580f4e": "webdis: update 0.1.4 bottle.",
+    "fb4fe871f9dcf16a38c3d732e991932144a42597": "webdis 0.1.4",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "56bff4b74bdafe77165ce785cf1a817e1f20fd56": "webdis: update 0.1.3 bottle.",
+    "6147ce38f31129d29f95144eca94b1b50c92ede7": "webdis: update 0.1.3 bottle.",
+    "3646cb42cf9ca0d9b63188ea4bac09572cc412a8": "webdis 0.1.3",
+    "f6b5bd6b8f4dfbd461aaa7f297d8e3173c793054": "webdis: update 0.1.2_1 bottle.",
+    "0f75e2a2f4e08ac3235afcecdcb7cfc52fbe9471": "webdis: revision for libevent",
+    "88279a86f5440002a5ad9c171adcf38ce8cac87b": "webdis: update 0.1.2 bottle.",
+    "44aea641c0bbd5b4129dffe6d2134ad09d7e81a4": "webdis: add plist file",
+    "040ce9676ed451bbbcd77d74a2bc60064631f8c6": "webdis: update 0.1.2 bottle.",
+    "8f35a6b808a98f5bfaee546644f80564bd95ae40": "webdis: secure homepage",
+    "3ba85cfdd9a788203f7d79e2f64294477d9f0b19": "webdis: style cleanup.",
+    "37e4327f8c84e1985aa832a26d99e96c50fd2b2f": "webdis: add 0.1.2 bottle.",
+    "0df39eaf83c243a01859bb8996a7a2e38819db71": "webdis 0.1.2 (new formula)"
+}

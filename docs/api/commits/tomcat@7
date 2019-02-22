@@ -1,0 +1,16 @@
+{
+    "6758ffecb54d8c2c2a88c49a9debf93186db1aa4": "tomcat@7 7.0.92",
+    "36aaa0bceda5f960a9a1020fd53dfac873b1725e": "tomcat@7: remove with-fulldocs option",
+    "15c1f58f5628c69223e4455264f9226406be8608": "tomcat@7 7.0.91",
+    "cbbf6ce2d04b5cdd0ad96cb05b10ec5f9de36d1c": "tomcat@7: fix component order",
+    "fa7405d82179962b0979734ffdeaf52262583689": "tomcat@7: add mirror",
+    "1d09442e763d215da09d0fc4c60592cdc2c997a9": "tomcat@7 7.0.90",
+    "c5b0618d6aab43791816bbd32db0103cb5fbf12d": "tomcat@7 7.0.82 (#19219)",
+    "079a9f8a2c928875dc0f27ea98a42207da6e979a": "tomcat@7 7.0.79",
+    "cfde227b12e92a4091dcea02461d0e1a0112322e": "tomcat@7: remove redundant version specification",
+    "efafe56b4e930817b6b13ebfd05b471bae43bcf2": "tomcat@7 7.0.77 (#12128)",
+    "36d08000f6963e5bf8fd8ded6fec073786543e7f": "tomcat@7 7.0.76",
+    "dfb7c7e196bea937c935f93ec40486ff91caf939": "tomcat@7 7.0.75",
+    "b09e43d3f9df94d9ae1326b00b5088f66ce88a56": "tomcat@7: use keg_only :versioned_formula.",
+    "767dc8fb03a0aca8d73c116cc00d18691334ec16": "tomcat@7: import from homebrew/versions."
+}

@@ -1,0 +1,16 @@
+{
+    "41feb7941bd812a1c72d0b323e3e6587f1e92d9c": "rsync: update 3.1.3_1 bottle.",
+    "ee727e0f8985027fc889b0c35d7eaacdef4c0d02": "rsync: update 3.1.3_1 bottle.",
+    "3510320c8772fc7430fa3ed05b5ea1679e5a44ef": "rsync: reapply patches",
+    "9105ffbc684a2d1fc95fbaa6dba8522c36235c80": "rsync: update 3.1.3 bottle.",
+    "6157bf155be65bcaa587d85e73d2f6dba0b88678": "rsync 3.1.3",
+    "92d78a8387b16fdfbfa6dff919c7ce8a110243cf": "rsync: update 3.1.2 bottle.",
+    "05a8b90f029256b614fbb8985b4e13d1ab6badb7": "rsync: update 3.1.2 bottle.",
+    "40f0e9d1e2463c8b6b1328b2ef7141bcf8851559": "rsync: import homebrew/dupes into core.",
+    "13acec4bd07f6eade692c8f226fdca3c473e5be1": "Move rsync to homebrew-alt",
+    "da637b07c03ff81da4d7f3e977b54bfe184e8137": "Add iconv support to rsync",
+    "e00d9678fba8ce31797b900382088acafc03ef95": "rsync - A couple OS X patches",
+    "4fc915a343866d9594a04faaac6fbb8c558afb5c": "update to rsync 3.0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "8fdd59fcf77d65539261144200f9f888d2ab259e": "Rsync formula (3.0.6; 10.5 comes with 2.6.9)"
+}

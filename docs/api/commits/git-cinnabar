@@ -1,0 +1,15 @@
+{
+    "5ca6abaa4d9e07a76b4e4146fa821756381edc1d": "git-cinnabar: update 0.5.0 bottle.",
+    "8cc5e13cade7bde5eb405f867de2e0a764796e1e": "git-cinnabar 0.5.0",
+    "9879973d4c15af6c5794f23f888ad0659a55a89b": "git-cinnabar: remove devel spec",
+    "e38c893938957ae84cb3a7294845e2cf337e0923": "git-cinnabar: update 0.4.0_1 bottle.",
+    "8a8877c90f1a4f4cd4f39b6e9f19c93cd1cdb456": "git-cinnabar 0.5.0b4 (devel) (#30105)",
+    "96eb67be3bec4c19a6ec2570d04998def6e7e4db": "git-cinnabar 0.5.0b3 (devel) (#28030)",
+    "70ea522dc2cf43337602e93c645220e9898ba13c": "git-cinnabar 0.5.0b2 (devel) (#22928)",
+    "987687bd9d45a7965ff5be23656b0183dd3d3722": "git-cinnabar: depend on mercurial instead of :hg",
+    "895caf6e42868184143a400f7db068ac4ea7e1ba": "git-cinnabar: update 0.4.0_1 bottle.",
+    "c6059441b7b9a63c86db4ee85ba0e64da084e0aa": "git-cinnabar: mercurial 4.4 compat",
+    "fa210b8d087ce94ce34dd05a3cd867db564bf038": "git-cinnabar: update 0.4.0 bottle.",
+    "283b093e314eaccffa15e6464a1e571255d8476c": "git-cinnabar: add 0.4.0 bottle.",
+    "846a7a2d79fe77746a196be62b0623abc9b76743": "git-cinnabar 0.4.0, 0.5.0b1 (devel) (new formula)"
+}

@@ -1,0 +1,7 @@
+{
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f091f834eef22f74535bab5c3a768e2f6f49408e": "excel-compare 0.6.1 (#10705)",
+    "a7f58e9f4b898966ad24408bd7d1b223fe6fbcac": "excel-compare: add bottle unneeded.",
+    "de7610f0a5833facdcc40bd391a48bc1148245dc": "excel-compare 0.6.0 (new formula) (#7678)"
+}

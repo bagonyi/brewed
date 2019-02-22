@@ -1,0 +1,17 @@
+{
+    "e0444421c530c5e0ebae3af0ebfc6a065318c384": "ebook-tools: update 0.2.2_3 bottle.",
+    "75df8d68aca67374a5e6d27604e799a4845210af": "ebook-tools: update 0.2.2_3 bottle.",
+    "0d0c76ef3eb14607a991c590ade35b2b75d0ba77": "ebook-tools: revision for libzip",
+    "bbb06043cae36342b67415a25b89b9f94af39e8b": "ebook-tools: update 0.2.2_2 bottle.",
+    "f471670d3f9289a9e44a8908152c4f6e8da119d0": "ebook-tools: update 0.2.2_2 bottle.",
+    "ba2e43a8417c122c5bd741a3a71bf489d6e8561a": "ebook-tools: revision for libzip",
+    "b0dfe2348a66d276cf6f3dad3e0b2b2eaf68e499": "ebook-tools: update 0.2.2_1 bottle.",
+    "e0f380d9b86d813b9c250cf55a8053a04c31b3a0": "ebook-tools: update 0.2.2_1 bottle.",
+    "bb00b059f8be43c125400745c169b870a21852e8": "ebook-tools: use secure homepage",
+    "e208228529a4c79b7f2ef9619267278abaf25305": "ebook-tools: update 0.2.2_1 bottle.",
+    "bba27dda3801c8dc31f8eb13516a73ac53bbeb79": "libzip 1.0.1",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bedad3398cb85400054873e44dd12637db87fa1d": "ebook-tools: add 0.2.2 bottle.",
+    "fdaa6a89fa17f42af9be2383ccba7981102c9a37": "ebook-tools 0.2.2 (new formula)"
+}

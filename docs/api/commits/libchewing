@@ -1,0 +1,11 @@
+{
+    "a3ca67c260ff60a353834bc74437382b98018ce5": "libchewing: update 0.5.1 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3f3f718090a313153e0ebe016d4cdf3e592f9d76": "libchewing: update 0.5.1 bottle.",
+    "16697e2e799517fe6796202fa9f09923bf8b52d3": "libchewing: fix test on 10.13",
+    "db8e0860e9ec8e8d72bda9f7f67fa60a9af48395": "libchewing: fix rubocop warnings.",
+    "2f9040ffed3dd73f364073ff01af0f69fadcfba1": "libchewing: update 0.5.1 bottle.",
+    "f4f49b8b57dca5667b58c40bd16c3068a1a52d82": "libchewing: add 0.5.1 bottle.",
+    "a8f60a292382b9b3ce0d64b19d9524d912015ae9": "libchewing 0.5.1 (new formula)"
+}

@@ -1,0 +1,12 @@
+{
+    "2d2bd9af5ad1c68b91f046e49e874036e4389809": "bittwist: update 2.0 bottle.",
+    "b18fc1e09bb951d663621264de8e0150072e6d28": "bittwist: update 2.0 bottle.",
+    "a6869e8194d2459e6c2a25bc91d39e88266047a8": "bittwist: fix audit about sourceforge link",
+    "aa72b7248ef6ad9c4c218fcbba805b03b84fea2d": "bittwist: update 2.0 bottle.",
+    "a657b5318747b7828c98635dfc62641e80a9159d": "bittwist: add 2.0 bottle.",
+    "f0feaf62ea235c33748b94d5ccc05cb2f990c962": "audit fixes: B 02: bittwist - blockhash",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "3631ae15c438c8c00f79e4b06fbd0efb1960a294": "bittwist 2.0 (new formula) generate and edit pcaps"
+}

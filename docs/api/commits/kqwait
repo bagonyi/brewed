@@ -1,0 +1,11 @@
+{
+    "0eb5ff0b52b0bb9ccde78ba053e117b62023c3c3": "kqwait: update 1.0.3 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "c1c5a3da68f8ff1e48805ad23156332532970409": "kqwait: update 1.0.3 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "33478d2855f076bb133566d84975b5d8c431c2a5": "kqwait: update 1.0.3 bottle.",
+    "a29c874d5dc64b492af850bf0b34035b0503f0a8": "kqwait: add 1.0.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e6d30c1771561a5a7b099749d5a820d3ec55b001": "kqwait 1.0.3 (new formula)"
+}

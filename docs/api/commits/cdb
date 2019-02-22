@@ -1,0 +1,19 @@
+{
+    "76dec2af619fa461f9c1fee8f3ab5e5fca40164f": "cdb: update 0.75 bottle.",
+    "8ce92dc9d9a63a1174f3c7bbe4cec22e90c36fbf": "cdb: use assert_predicate instead of File.exist?",
+    "69c3fea58a314fb73683863d53a737bf250f3100": "cdb: update 0.75 bottle.",
+    "bd7ba3bb14720b28fb49df020365bb874be3893b": "cdb: update 0.75 bottle.",
+    "d6e3d98fe75b412bdc85c023d0262ecc80533038": "cdb: update 0.75 bottle.",
+    "724ce2b4f37ffc96f0fb8dd4d6596d0bc8682572": "cdb: use https urls",
+    "6f57bb3d7ff49143a2f513847b0d172fbffe5966": "cdb: restore Ruby 1.8 syntax support",
+    "5ed210dd57ad081d92829adb2018dab2e10e8986": "cdb: update 0.75 bottle.",
+    "eff89eb858eb3e659d3f8605a61f64ee0c6c85ea": "formulae: various audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a79372973301442c2481e4958e684e40853c64ff": "cdb: add 0.75 bottle.",
+    "6eab8eba30de6ae85a99e3d4be021fc389c47389": "cdb: test added",
+    "f0f77af28026c70aa4aa4db8618ec0cdb786a86a": "cdb: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "623be191e9d5585c3f6648b9f35459b70c25aa7f": "brew-audit - catch more interpolation style issues",
+    "d7a3295ad652084df0c9eae9d36edca86e1637ff": "New formula cdb"
+}

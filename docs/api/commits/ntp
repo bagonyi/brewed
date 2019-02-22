@@ -1,0 +1,11 @@
+{
+    "c28e66842a6e8b7495983466afc6db920e285e86": "ntp: update 4.2.8p12 bottle.",
+    "da9b3b2f0f7c02bfa15a8066bd6b94b3aa4b8174": "ntp: remove options",
+    "90b0b076a24ad63f19b8df0210029ea892d61ae9": "ntp: update 4.2.8p12 bottle.",
+    "0be549d0a15a4359bdcfbeb54bdb20f655fbb969": "ntp: update 4.2.8p12 bottle.",
+    "d7180628786da38b87af439b7a297d2f1a5aa1e7": "ntp 4.2.8p12",
+    "e7b11c38329f4653437486d5c9233c4ae5eb97f4": "ntp: update 4.2.8p11 bottle.",
+    "5836b1ee5371cb4daf2dc74fb798e9a3d8d15bdc": "ntp 4.2.8p11",
+    "7abbb82651fb6998b7710b752611e1188e1476ed": "ntp: add 4.2.8p10 bottle.",
+    "c520283ff69279b3708f5c1ecac8a3dd5de9f004": "ntp 4.2.8p10 (new formula)"
+}

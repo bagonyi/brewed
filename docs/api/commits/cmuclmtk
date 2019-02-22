@@ -1,0 +1,11 @@
+{
+    "5d49f68c281ddd1911e218d1bebbafc69817b354": "cmuclmtk: update 0.7 bottle.",
+    "0002875a95cc241214b85c50000fb69eedc3352b": "cmuclmtk: update 0.7 bottle.",
+    "ff66b4c4642773660bb2f812bc647ba9b79c6c36": "cmuclmtk: fix audit --warning",
+    "4384e5de44970a1122b9333b79ef89c1fda1c266": "cmuclmtk: update 0.7 bottle.",
+    "22e07ea2176c5d352a1978fab271f464c78c622e": "cmuclmtk: add 0.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "5022a78a0e5c9a1b2f7e099f8fdbab2e4b2c1aba": "cmuclmtk: 0.7 - CMU Language Modeling Toolkit"
+}

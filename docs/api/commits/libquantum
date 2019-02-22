@@ -1,0 +1,13 @@
+{
+    "ff8fce3ecd3f05f450d6ed28c183642760b6a87d": "libquantum: remove references to pre-Mavericks.",
+    "c837e24c2bd3db1b4f6060277026bd07bc0180d6": "libquantum: remove devel spec",
+    "73443807204a6dfe17684aecb6dcbd2b14a9a0ab": "libquantum: remove options",
+    "7f30f4274b2b1851febe19d6e0d9ff2e4d6883b7": "libquantum: update 1.0.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5afd6108396fe103948f8560817cd66086b58fb5": "libquantum: update 1.0.0 bottle.",
+    "a1a64e7674db7b3938b3af0d91f5d619c23a14df": "libquantum: fix test on 10.13",
+    "3391b57e151254f03b47126ba8820691d87f1ad8": "libquantum: update 1.0.0 bottle.",
+    "13e1aeb71d94112f730c47545d40e5f8a9a68f5d": "libquantum: update 1.0.0 bottle.",
+    "74d579aae9efe64348cb7d087e9216f7e48b50b5": "libquantum: add 1.0.0 bottle.",
+    "c3bd5f2c702cb8a35214d9831480f7cd0a849476": "libquantum 1.0.0 (new formula)"
+}

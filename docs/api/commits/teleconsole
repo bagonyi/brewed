@@ -1,0 +1,9 @@
+{
+    "5f22cfdc427ffc68832db70033c66e6c3d377a14": "teleconsole: fix revision indentation",
+    "e91f07a97415028a0c452a93ba4072306ee135ba": "teleconsole: update 0.3.1 bottle.",
+    "1dab9251a3c110a3555cc3a584a6a96b75aed253": "teleconsole: update 0.3.1 bottle.",
+    "4278d5df6bc212d08115b0f75d5abe60b300ad48": "teleconsole: use full_index patch",
+    "689ffd958d3a69b89fc8834e79c1992220f72e1a": "teleconsole: fix audit 'description must start with capital letter'",
+    "f777e0defd4b0cdc8ac9f2ffeb04fe65cb8fcc99": "teleconsole: add 0.3.1 bottle.",
+    "534218b721e08b36e38b82927ac85b3efa6d270f": "teleconsole 0.3.1 (new formula)"
+}

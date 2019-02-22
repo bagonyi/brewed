@@ -1,0 +1,15 @@
+{
+    "a6d9f76f795143b2f94097352797ea61b0a6db44": "ent: update 1.0 bottle.",
+    "c4e1f09c6f556eb0d51eacb0e027246622e8143a": "ent: update 1.0 bottle.",
+    "c9c1785665188a9a82915ec1a357509fe7dca485": "ent: update 1.0 bottle.",
+    "88332930e8e4c08ac0c5cd4d8701580ddec50123": "ent: audit fix",
+    "b978e58f4501739acd7569e1cdd5d963339d4584": "ent: add 1.0 bottle.",
+    "7d0bc1758f39669253b41642debe08be358cbbbc": "audit fixes: E 03: ent - ettercap",
+    "95fb49cd7c99dd1d4aff29248c4b3d2d17618c46": "ent: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "7984db7558440b800b9bf5b3b0c5942cd6a0f4e2": "Use https for GitHub URLs.",
+    "53b49fc0f3e4f81e7e7561e547ae59d40a474bda": "ent: use test DSL",
+    "57dd1570929ba2e07aba895bd2b2d0abeeed1f9d": "Ent 1.0"
+}

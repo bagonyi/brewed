@@ -1,0 +1,20 @@
+{
+    "c4438be093be767446b436261788586cbc177aee": "file-formula: update 5.36 bottle.",
+    "c51beb7d4c9523755e4ca1ad086062ac940a63ae": "file-formula 5.36",
+    "c3d81735996453f4cddbd7188a5c91ff21e3235d": "file-formula: update 5.35 bottle.",
+    "35e6bf66a595c6e493cacf2e2ff2a7c7f73e91c9": "file-formula 5.35",
+    "c933051091ea6e0b28757395b03292a453736408": "file-formula: update 5.34 bottle.",
+    "90ca871de56951478c9f082075620ce2d0d302f2": "file-formula: update 5.34 bottle.",
+    "6d412ddf4fe70f08e210e61ef7a1cc0467f4343c": "file-formula 5.34",
+    "b149fa81b366ee4f11df3ec516e7638cbb0c4424": "file-formula: update 5.33 bottle.",
+    "a11eaef59bab1093f3d778b1bd2888d141f10a95": "file-formula 5.33",
+    "8b0d4edc6bb0c4a622f3ddd9fd1de95ef2f3530e": "file-formula: use *_by_macos.",
+    "4e42cd816a09325542e641136276c4d577055331": "file-formula: update 5.32 bottle.",
+    "88842af54afeabd7cd336686c202f03994d590be": "file-formula: update 5.32 bottle.",
+    "64c898e200b17d62bf0ec3fa0a9e9597b8fda3cb": "file-formula 5.32",
+    "a01594dec94834809ee6b9784c933f7ccbfe6e82": "file-formula: add mirror",
+    "430b3ccfb5880238b776c405da1e172862392135": "file-formula: update 5.31 bottle.",
+    "0acd89a4c1ffccb35a5e6599bc999a0722841b4f": "file-formula 5.31",
+    "f4fb4848a203c52f8033f44b3dc0c1427e2caafa": "file-formula: update 5.30 bottle.",
+    "dd0280565bee1430a19b22eb450dafff4abdd271": "file-formula: import homebrew/dupes into core."
+}

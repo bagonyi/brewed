@@ -1,0 +1,13 @@
+{
+    "5bd6847e11794b4b1ee11b7588b7b2f08655ea78": "alac: update 0.2.0 bottle.",
+    "43b6b0563c8e10efe5c4027f1ed544602cda0ba7": "alac: update 0.2.0 bottle.",
+    "c210fcb68a3a402fb441a7e76dd60094f97ef543": "alac: remove protocol from web.archive.org param",
+    "9627a4688271caf6f03f3b1cd884b443286da4f2": "alac: fix test",
+    "8d66c297e0d4fc711bacd9d2d0cb627209148185": "alac: update 0.2.0 bottle.",
+    "8f4a74776f30a48782e5baf45199ebffaeecffc6": "alac: add 0.2.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "471259d64f327782f31e14a5473e3c6f6717be6c": "alac: test added",
+    "2d00dfa2dbf30dfda08ec48baebcd117e97cd667": "alac: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6ec51340b4053b81e53ebfdd390774b579a663c3": "Add the Apple Lossless Audio Codec decoder formula."
+}

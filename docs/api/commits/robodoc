@@ -1,0 +1,21 @@
+{
+    "1f67e00060c89c5fd9d12cbef79b01be7917407d": "robodoc: update 4.99.43 bottle.",
+    "61f2e8dd84e38a66beefcf5263dcb16d96ac8111": "robodoc: update 4.99.43 bottle.",
+    "2cddaa23deee7b0ef941b17ff8b0d41871d5469e": "robodoc: update 4.99.43 bottle.",
+    "c7978212c7c0f0117455c18f914ab5b762966c65": "robodoc: update 4.99.43 bottle.",
+    "bba6596152bbef7718cfaafc5cad0853e0a2705f": "robodoc: use secure url",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ff820c252ae97b6764218f0f913e040b8d777e33": "robodoc: add 4.99.43 bottle.",
+    "31518fb47e522034a5616a905fc28b104a22437e": "robodoc 4.99.43",
+    "f18e29c6fbe49cc324bf87c9961125e0a6cc01de": "robodoc: modernize autotools deps",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "3ed65362345023c80bd4c63c9750434d0950ebed": "robodoc: use spec deps",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6eaaf42a59629abfe74a9df855c4e501fb8d7550": "robodoc: use new dsl",
+    "823d389c9c054e91db7dc675b26d392be7147245": "robodoc: use new dsl",
+    "62fa0c4f4232c4381af50bd4a245788537f2dda1": "Use autotools symbols",
+    "d224636ba42329300fa5f36a107d14648565b219": "More formula that now depend on automake",
+    "2c3b868ca0a996689edae6286ef2a7ea4ab142c4": "Use HTTPS for GitHub HEAD clones",
+    "a6454a2dcda2887e9544c81033106ca4848d8a48": "robodoc 4.99.41"
+}

@@ -1,0 +1,22 @@
+{
+    "3d81c8bbc7a3af250a7aede947f9d10f926f2af1": "libsvg: remove references to pre-Mavericks.",
+    "09385af4ecd64ad664abb2d4bc8eddfb174c8f49": "libsvg: fix dependency order",
+    "826979717d5d3ed5417d6e6146e27ba38e1ad57b": "libsvg: update 0.1.4_1 bottle.",
+    "33a1812fb2f8085f79a9e1a172f5c2baf08a2e21": "libsvg: update 0.1.4_1 bottle.",
+    "5382a374fa8e610a509254440dad0d43a16f4af3": "libsvg: update 0.1.4_1 bottle.",
+    "590ff003acd02eb6fd6d8fd3d214d4fad3eb8e19": "libsvg: use secure urls (#919)",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "5079e2efd395742027017c4e363cfab02b83cb9b": "libsvg: update 0.1.4_1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "06ec80dd86164dd3930945f3247a28892b629ffe": "libsvg: update 0.1.4_1 bottle.",
+    "1c88f213675a9500d6813a577cab41b69f30cc89": "libsvg: add 0.1.4_1 bottle.",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "b8e850ec6e6308ebe5125d29cfc1201c0f7ef300": "libsvg: style nits",
+    "f5bbc46abaf7bce11db67fd9477273928f19b185": "libsvg: depends_on 'pkg-config'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "9d54af4cff6fd121fcba1d427e61a020580dbb2a": "libsvg: use system libpng",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "06676d0d6e6bd825ac7e8633c62af28feb3d9032": "Add formula for libsvg"
+}

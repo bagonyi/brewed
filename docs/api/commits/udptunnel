@@ -1,0 +1,12 @@
+{
+    "0ed90ee72b38e9232effe0c291cc907752f0a998": "udptunnel: update 1.1 bottle.",
+    "bf9eac2560bd28358c2321293c104636f5b7b70b": "udptunnel: secure url(s)",
+    "4bc619b7e8088b06a3434de1b6fbb533aab26633": "udptunnel: update 1.1 bottle.",
+    "602d95af1acae29a1c33ee95e61299fa6beb4d39": "udptunnel: add mirror",
+    "1be3e03221a74e8833ec5381f0c93e3892190cd8": "udptunnel: update 1.1 bottle.",
+    "39a4d1a05e1ddfcb391b9148937696659a458f0b": "udptunnel: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "75059d64c2130b139c49215f782a0953091d055f": "udptunnel: install docs",
+    "8f9956cefab9f449b06706f02ca3fd087cad142a": "udptunnel 1.1"
+}

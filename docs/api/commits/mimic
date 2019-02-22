@@ -1,0 +1,17 @@
+{
+    "41bb340258c0e2829b9a27dcd8aad52d2cb355fe": "mimic: update 1.2.0.2_5 bottle.",
+    "bffe3ba56d07da9a967335e347255a138ff28abd": "mimic: bump revision for icu4c",
+    "2254d42a4109b0eefd1ee1cc7bdd12a6619ea2fe": "mimic: update 1.2.0.2_4 bottle.",
+    "0caeb77866ceecd52c163a3b66db22e0f0c26b59": "mimic: update 1.2.0.2_4 bottle.",
+    "8109e0fbec259a258bfa61a16035e9fdf055ea09": "mimic: revision for icu4c",
+    "13493f83caf38eb3703fb9df553a5f165d585ed4": "mimic: update 1.2.0.2_3 bottle.",
+    "c9323ac8f0dd81cea73575a833b2b1216eaac9a2": "mimic: revision for icu4c",
+    "5370047b59cbbfa8e5a84f1922561ec0c04d9cc4": "mimic: update 1.2.0.2_2 bottle.",
+    "3c1a24a38a50b26f243b6debd0b304466aef3fc9": "mimic: revision for icu4c",
+    "8afeae6c347c9bdefc3d1e7b82cdb10eaf64c389": "mimic: update 1.2.0.2_1 bottle.",
+    "292121e3b4edc07ddebfc50351784130830286ec": "mimic: revision for icu4c",
+    "15729a8a3bf4f266f35a4a348170abb354dc6693": "mimic: use assert_predicate",
+    "0e92140ee4bda1d35c482b87728515a4a3d25de0": "mimic: update 1.2.0.2 bottle.",
+    "e6b2b2911808e5ee34430ad3fab53faf481e7f11": "mimic: add 1.2.0.2 bottle.",
+    "782ab08566e9254f909b58017e909f2a2b93d2ca": "mimic 1.2.0.2 (new formula)"
+}

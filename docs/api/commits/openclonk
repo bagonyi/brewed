@@ -1,0 +1,13 @@
+{
+    "83d7316b61528142faec594d190b8af1595f2c11": "openclonk: remove checks for old compilers.",
+    "56c3cfde92f22019222ac0d9bff8dcabcebd148d": "openclonk: fix dependency order",
+    "080ceff952d9ec04b1bc093b5c7856339d5cc048": "openclonk: update 7.0_2 bottle.",
+    "42161ece3a24f6610945fbba28101ca294cef1ac": "openclonk: secure url(s)",
+    "064d27593bd48383c72573cd09606368fdbbbbaf": "openclonk: update 7.0_2 bottle.",
+    "4a84cd3143b5f02f0e09db73fc817b3ce9a89e5a": "openclonk: update 7.0_2 bottle.",
+    "b6d98b8dee69456cc61261ddb456b34005f986fe": "openclonk: revision for jpeg",
+    "2a0a251d20093c44c91d7a3a62b9cdd66853633a": "openclonk: update 7.0_1 bottle.",
+    "e3492c57a2659f05c7be9ae9d5cde47dbd0ae531": "openclonk: revision for glew",
+    "fae2e763cec588407812a4cac1177b3e2c7f07ea": "openclonk: update 7.0 bottle.",
+    "584f3864d5e9789c677523a75ae0c9922a8a44c9": "openclonk: import from homebrew/games."
+}

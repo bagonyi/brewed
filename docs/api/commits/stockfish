@@ -1,0 +1,13 @@
+{
+    "c74f26ce6fe71f49eb6919060da96b30d30b2aab": "stockfish: reduce bottle deviations.",
+    "f66f0555ab4b26fffe6a5dec1f5591e0cc0e6a4e": "stockfish: remove old code.",
+    "7a2655bf1b5f515bb9d6ee50d02c4d28b5ce3ea2": "stockfish: update 10 bottle.",
+    "3ddab3e6ff594d67301f8fbb7cf45ababd281153": "stockfish 10",
+    "f57d1db0eb43989138a1e77b1c3ff083bfe5972d": "stockfish: update 9 bottle.",
+    "71a50e6b54a7d959b77c08466775792d5c2a1c44": "stockfish: update 9 bottle.",
+    "bea7ca3f1405d5b56a45f31a4d3ecbd127c40a75": "stockfish 9",
+    "1eb091e60be4ced75e2b894d146d7cb57ffb3d15": "stockfish: update 8 bottle.",
+    "260c2f4af56b3f6f69758233d4c23ad0922ad916": "stockfish: https homepage",
+    "4844163b5a81069a382dfec087d03201ae37ab10": "stockfish: update 8 bottle.",
+    "a4c09278771da2721397baf5a8dc5e8775deefed": "stockfish: import from homebrew/games."
+}

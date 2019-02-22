@@ -1,0 +1,21 @@
+{
+    "c3b5c736dc786f06c921512a86732ef50d2c60e4": "crush-tools: remove references to pre-Mavericks.",
+    "828e1613c2c2815cbf5cdf323e829a80e35006c5": "crush-tools: fix dependency order",
+    "5be3919b28192918e9ce759a900004e918a5f744": "crush-tools: update 20150716 bottle.",
+    "31d2ea48de53586fc8d1a90a70065e1986bb758a": "crush-tools: update 20150716 bottle.",
+    "beb0dee444be8a56f0c6fabdd94c9e09e6ef9043": "crush-tools: update 20150716 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "4f7d5c1bac89fb406eaad079121445fdc4a2c074": "crush-tools: fix audit warning",
+    "b391b75bf8fee70e3fee84407af89a7da60cf5f7": "crush-tools: update 20150716 bottle.",
+    "b93c61bc69604d8618574cb46f970456f5d014f8": "crush-tools: conflict with 'num-utils' added",
+    "f3dc30d7fd510f6384f0efa4b6503529fe282287": "crush-tools: add 20150716 bottle.",
+    "06b0fc302fa57dfb9a662de3f2b9a73c10cb0036": "crush-tools 20150716",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b575c55db1d83dd58689d8af0409feabd4572ac0": "crush-tools/aggregate conflict",
+    "019d28fd0e4b15f20bba1a209a04e73084699a1d": "crush-tools 2013-04",
+    "ad75f263449f618f3d7ea50df0861b0e99b2584d": "crush-tools: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "3deb687b09c7c050e4694a203de640169cafd796": "crush-tools 2012-02",
+    "0238f7adb76b4a9cf1d85176b0881c44994a460d": "New formula: crush-tools"
+}

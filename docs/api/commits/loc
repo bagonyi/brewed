@@ -1,0 +1,13 @@
+{
+    "412e40cac276f648d9c24539cad5ba8d7147a7ea": "loc: avoid cargo deprecated syntax warning",
+    "eea5b9b1d09183754f9e206b16e1f4e57a1fdb86": "loc: update 0.4.1 bottle.",
+    "9857ada4cfcf46ebac55e7e7fda14fc394489226": "loc: use `cargo install --prefix`",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5327dab242222ec28bb09926ece22e3d7925c38a": "loc: update 0.4.1 bottle.",
+    "272d961f3632102d50f969248ccbdcfbd126d60b": "loc 0.4.1",
+    "2f613ec467be2946355514dfb6dc1162b3c47112": "loc: update 0.3.4 bottle.",
+    "545a79b463308d1d16c4e4e512f66789820c2bda": "loc: update 0.3.4 bottle.",
+    "d3536fe19c96ab0fc5dca8ef18890a47a4b67f49": "loc 0.3.4",
+    "dae6d3ebeb1e9f269092adf6677aa0922d3680b8": "loc: add 0.3.2 bottle.",
+    "24eb702b7c28e818134434b4d2cab8802be3f124": "loc 0.3.2 (new formula)"
+}

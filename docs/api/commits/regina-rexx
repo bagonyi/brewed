@@ -1,0 +1,19 @@
+{
+    "906a048e7787627e4f4604c5089b420b79cb3d3d": "regina-rexx: remove references to pre-Mavericks.",
+    "868a65cad48b1462033dde1c52929f55248dc3db": "regina-rexx: update 3.9.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ca4380823a4ac69230c28f99401a1e42a31dd0dd": "regina-rexx: update 3.9.1 bottle.",
+    "b3c9949ca2948ac4613ca502a2bc4c2f930ad6e0": "regina-rexx: fix audit --warning",
+    "76738ae9cfda924c7867715a58b20ce73e9d3095": "regina-rexx: use ENV.deparallelize.",
+    "e5c1b656634bf4584ed02de97109a4700cabbb45": "regina-rexx: update 3.9.1 bottle.",
+    "d21313605fb9dd2d94934daf8d66e4f0596d64d0": "regina-rexx: update 3.9.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "76942a13dc499f4621334dbd6df6fdaf6206874f": "regina-rexx: add 3.9.1 bottle.",
+    "56963249738fce13298959f8a95155a72590abf9": "regina-rexx 3.9.1",
+    "526d4c06df02e910dae13db9b69843b7be3c65f6": "Regina-REXX 3.8.2",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "029f02426f5daafde84addb88223eded7e64b9b2": "regina-rexx 3.7",
+    "5648b4ff4cb9de6513fab417df654c1915708bc6": "regina-rexx 3.6",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "f8fa135f0eaedc9bf1512022a1acfa48e774a68b": "Add formula for Regina-Rexx language."
+}

@@ -1,0 +1,20 @@
+{
+    "13e255f4021ac9646395446f13c7781bfa7bc72b": "pinentry-mac: remove references to pre-Mavericks.",
+    "6d3ecf7c1efb41a2120efa88c2fe9758f427295c": "pinentry-mac: update 0.9.4 bottle.",
+    "4902a3100645c6591b184ad0c7b86d733c818130": "pinentry-mac: patch header files for 10x Xcode/CLT",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0598be16f06095448f065110d1db35bebf0a7bea": "pinentry-mac: update 0.9.4 bottle.",
+    "e4b279ed793ce911755ffafc4422df97dc5d8780": "pinentry-mac: add test",
+    "9e3e6685ff4980d5b880127d2f7cf91e6c1867a4": "pinentry-mac: update 0.9.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "a60206fe530d778e60a0d697fb9ed501fc40fac8": "pinentry-mac: update 0.9.4 bottle.",
+    "f6b964453c758b61c2934b83cca8f774a1ffd903": "pinentry-mac: update 0.9.4 bottle.",
+    "ef12cd330dd89142507b8a3433bdd6e76f133178": "pinentry-mac 0.9.4",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "096db6e93eacd1869c3438a8adc490cd43f2f012": "pinentry-mac: update 0.8.1 bottle.",
+    "00a89c86252207c3e90918cac0899fe814e741c1": "pinentry-mac: halt remote-code execution in make",
+    "864510f3c74a6aa13ff297d237386b7bae53e0b0": "pinentry-mac: add 0.8.1 bottle.",
+    "0d547ceb8187deeeaa48be18b9256e3f2f5dbcdb": "Add pinentry-mac v0.8.1"
+}

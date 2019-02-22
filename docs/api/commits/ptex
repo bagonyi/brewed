@@ -1,0 +1,16 @@
+{
+    "542446ba8b1e8e589653e8df648ca91fc327f59c": "ptex: update 2.1.33 bottle.",
+    "c38bfe85eccd76fbfd8d3e8847e2530a74e34cd6": "ptex: update 2.1.33 bottle.",
+    "2808fa05818efae057ee7ca71067dbe9152cee2d": "ptex 2.1.33",
+    "6e3533683a95e63205db24293ca081e99dc61b5b": "ptex: update 2.1.28 bottle.",
+    "5b07077de1374e37a5f2f2f392ad1513cc36b99c": "ptex: update 2.1.28 bottle.",
+    "61dc937bce94fa1f05a3e4e4f5b323e53bcfa484": "ptex: update 2.1.28 bottle.",
+    "18a5008a6030c6f04e3021b66f220562f3076949": "ptex 2.1.28",
+    "e997ada62ffe5463aa3d1666da9f942d016de8e5": "ptex: add 2.1.10 bottle.",
+    "08992982cdc0c115759cdb7b92010302f12732e1": "ptex 2.1.10",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fc88ffe264216bcf52a4d7a92bed5c29ec9da7f0": "ptex: use patch DSL",
+    "0f046ba095986aced527d4c2423b56a2491dcad9": "ptex v2.0.42",
+    "c80fca1bc5c0fc54574bbc70c20b21148a846d3a": "Ptex 2.0.32"
+}

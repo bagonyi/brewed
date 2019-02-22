@@ -1,0 +1,12 @@
+{
+    "bf77ef5a326e903928d3dedb23c67004a59f3403": "pyenv-virtualenvwrapper: update github url",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "3401354f6517001a53af89c72f19287402e348e9": "pyenv-virtualenvwrapper: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fadbf0b1f6672aab335659ff16e1a743c4c82f58": "pyenv-virtualenvwrapper: modernize",
+    "b2a9d9cac94a39a0392316aa62ccd06534175efb": "pyenv-virtualenvwrapper 20140609",
+    "c5d3ebab890d5dcfc1cb32cf7380a7181b52a2d5": "pyenv-virtualenvwrapper: upgrade to v20140609",
+    "8cdeab37a07c53df33614922f874c59c4cc01293": "pyenv-virtualenvwrapper 20140321",
+    "73e3fb70377a7653a9469d18e712e6958cd963b3": "pyenv-virtualenvwrapper 20140122 (new formula)"
+}

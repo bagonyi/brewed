@@ -1,0 +1,13 @@
+{
+    "8a7b0f07db9f35d770923cc733d14ffd31a3d3b1": "uberftp: update 2.8 bottle.",
+    "481ba7177e4c30e5d4cf15084cfc3206ae74ebe8": "uberftp: update 2.8 bottle.",
+    "38a41afec62e2ea6b2645f5fffe1efeb718f355f": "uberftp: update 2.8 bottle.",
+    "d1b5f7732aa011d7b22c53f198bc5731a4089cae": "uberftp: fix homepage (#5030)",
+    "335f55f184800833a4550ce2348ad4827ee9170e": "uberftp: fix indentation (#3980)",
+    "b6f4c61bdb7fcaaf66cb7eebc4f54d2d2603089f": "uberftp: add 2.8 bottle.",
+    "351b87fd591cc5454973ad6a470edf65e7010b1b": "uberftp 2.8",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "395dc6bb4181d5ca7d4ae1aca5fbe858e439a6e3": "uberft: use Formula[]",
+    "4333133c214c7935fa4bc83a8bcacf0460fa057f": "uberftp 2.7"
+}

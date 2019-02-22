@@ -1,0 +1,17 @@
+{
+    "c12664f63c86fa7dda87eee7942813b715400b12": "kedge: update 0.12.0 bottle.",
+    "fa08c1263665004b8dec1ab62f97e80273f17f82": "kedge: update 0.12.0 bottle.",
+    "39bf0127f628365c89868db370629c342b8d48e1": "kedge 0.12.0",
+    "0d93c21cdea71b1f4e4685ccd0d6d365b5f31b63": "kedge: update 0.11.0 bottle.",
+    "10bec820abc383dd42e198354d2dba678aeed75b": "kedge 0.11.0",
+    "7cefcf9d6440ccb3080761c2f991c0a8f45983d9": "kedge: update 0.10.0 bottle.",
+    "b80108c173ff5ca7380ad45f2d570fdab07b470e": "kedge 0.10.0",
+    "5f8d462f8a415b7a982969c162b566d2f04896ec": "kedge: update 0.9.0 bottle.",
+    "a7f854507a33c3d39c0b7fdc1e294d6eba4dbb6a": "kedge 0.9.0",
+    "5577cdb04fd12aeeb5e9fc7cd1c6c5b8986bf1df": "kedge: update 0.8.0 bottle.",
+    "791305fb67141bc76bcd2fe1193f8a36d2179fea": "kedge 0.8.0",
+    "cf62deac42a0abe83131b10e8e78a75f8bdd7444": "kedge: update 0.7.0 bottle.",
+    "e84ce202644ed31ecf862a6f0af337a468527b9a": "kedge 0.7.0",
+    "187062e5e625edcec0d98a3bf338531cd8fb94cc": "kedge: add 0.6.0 bottle.",
+    "ab9992ed56fd699113ed6fdbb7614c69d6743612": "kedge 0.6.0 (new formula)"
+}

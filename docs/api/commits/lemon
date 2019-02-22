@@ -1,0 +1,19 @@
+{
+    "496a1e4a351087021d427ab30eaa430ce85e8101": "lemon: remove references to pre-Mavericks.",
+    "183891f2ff23d6793e520ca448afa07032635a1e": "lemon: update 1.69 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f898c8beac68b15808cb3945f17df7726a0ad00b": "lemon: use assert_predicate instead of File.exist?",
+    "ae2ce3812cf21b0ea4ac3cd1d6bdc33b094db723": "lemon: update 1.69 bottle.",
+    "3a22ed03153ce9f9ddbc2d77b286a22ce3b18e51": "lemon: secure url(s)",
+    "892f94008217344e3dbc0a43dce6bada28a37aea": "lemon: use pkgshare (#11698)",
+    "63093299a1eeed206021d4d24a78918a028af21b": "lemon: update 1.69 bottle.",
+    "a468712c2effb1e840495ce67a4a0b3e6db11bfa": "lemon: update 1.69 bottle.",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0a655487da1146d514c0ac34a190959a1e6ca419": "lemon: add 1.69 bottle.",
+    "8bbe92269e013645266e9567aff4a8c4570c017f": "lemon: test added",
+    "7ef0bf4b49d02998950320eeb46d8b6d65e9124a": "lemon: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a3c823c98b343e06ee7003a150df824b34c0a6fd": "New formula: lemon"
+}

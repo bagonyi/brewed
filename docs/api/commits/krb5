@@ -1,0 +1,18 @@
+{
+    "9c7fe3bb9379ac18f2de02b981086413116f654e": "krb5: update 1.16.2 bottle.",
+    "124cf819be3004f284cba5760ef982aeb280007e": "krb5 1.16.2",
+    "8a3112b1ecc42f58cea9f5883f8c27598e836bb9": "krb5: update 1.16.1 bottle.",
+    "09ba2b0cbb489e09a892491ed322de8b0e5e76c6": "krb5: update 1.16.1 bottle.",
+    "ef4afc84e3a9ab1b721ca22115ded0d5734c0560": "krb5 1.16.1",
+    "6fc12a109c81f6d227e716e1cf4c2b971f20899d": "krb5: use *_by_macos.",
+    "d2842337ee72ba82e018537f2a44bf499b915947": "krb5: add --without-system-verto flag (#22328)",
+    "1046dbfe515b5ce289f978c7efc2faff3e4f6428": "krb5: update 1.16 bottle.",
+    "0416ad58b8d49ca60c74f5c054ede74004205bc7": "krb5 1.16",
+    "d1dc6cb166eeaa71ba40ce4c817427538b3404fb": "krb5: update 1.15.2 bottle.",
+    "9b1b0cf7955feffecea2dee396e557d715c1c8f0": "krb5 1.15.2",
+    "8b5f1b021d33fcaa60f98e245b188aedd3b8a82e": "krb5: update 1.15.1 bottle.",
+    "92bb0e6314a1e75162bd2b556c53e4c96b06eae9": "krb5: update 1.15.1 bottle.",
+    "23cf09125dacdc7f43939483c060c33d360c2779": "krb5 1.15.1",
+    "f50d9880498b5f282231fa40f5285930b27aeb29": "krb5: update 1.14.4 bottle.",
+    "145651f218e6dedbc5bbf7339b721f5355c5f1d8": "krb5: import homebrew/dupes into core."
+}

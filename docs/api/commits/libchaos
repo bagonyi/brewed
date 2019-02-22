@@ -1,0 +1,9 @@
+{
+    "23c01437a133e04ac48197983a2a8ee4cbc6cc7c": "libchaos: remove checks for old compilers.",
+    "0d99743d6eefb59e3b78879c803e78ed27eb418c": "libchaos: update 1.0 bottle.",
+    "679f2b2498be1e83fe4516bb8b4e5fb71c3d1674": "libchaos: use “squiggly” heredocs.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "3f5fe460aafd3e9fe53e1b016b67bec7e533df82": "libchaos: update 1.0 bottle.",
+    "a463252198f1de74cf8f72cc395d382a1f7d3b83": "libchaos: add 1.0 bottle.",
+    "de484cc0ab2879160fa6aa290e42f67a00881e93": "libchaos 1.0 (new formula)"
+}

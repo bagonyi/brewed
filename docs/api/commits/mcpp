@@ -1,0 +1,23 @@
+{
+    "81644dc5180e24a8cab9b1c4c120cc68dcd04e8b": "mcpp: update 2.7.2 bottle.",
+    "3f4a7b2955971d0d3b492ad08568cdd2425e7b6a": "mcpp: update 2.7.2 bottle.",
+    "497f925f179571113fa3d96b94f3c6b042ab0e1a": "mcpp: move patch to formula-patches",
+    "7759097e29a23698e2cacf7757cc24c8836ccb47": "mcpp: fix audit --warning",
+    "95f69e23aa54a96c4fca0636c00ed0ed240d4093": "mcpp: update 2.7.2 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "31da4c7e728639b5e64b5f37e0ea30b7840a2935": "mcpp: update 2.7.2 bottle.",
+    "71c478084fd4536b3a5aed9efebd77ef88faa6de": "mcpp: use secure url in comment and follow redirect",
+    "2275712a7243bccd5cdc50967820305bfe59882a": "mcpp: add 2.7.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f1fd88d42bf2179e02ade9c6a16ccd556113d2e2": "mcpp: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b79f5cf7b4f8d86204be096b67d91fa3902e5c58": "mcpp: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "dc3cbe95dcedb4584202f6c8efcf16434fcb414e": "mcpp: Patch from ZeroC for handling EOL comments",
+    "c9016c2b927a7266b61e2cf58cedfc3fa95e41a1": "mcpp: move patch inline",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "5a5b2fd66c375e65d335f79873242f4484765725": "mcpp.rb: also build the shared library",
+    "359a8f94fc9e70b1107ecd0c655088b0544f4626": "Add new formula mcpp"
+}

@@ -1,0 +1,9 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7d52d8c973e88f143547fa3cc01d22a372e40f13": "bltool 0.2.4",
+    "780f9883c41810b45ef87a55bc15e3998a2ad80c": "bltool 0.2.3",
+    "abe47453ba50810da185f2212629e1a012ce3bfb": "bltool 0.2.2",
+    "1a62a6edfc433decd18aba76022f93948155228c": "bltool: bottle unneeded",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "a477adf79e0aa87f6f9a879cedaf11327ce555e2": "bltool 0.2.1 (new formula)"
+}

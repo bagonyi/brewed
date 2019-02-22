@@ -1,0 +1,16 @@
+{
+    "f4ecd9a0df97c879f244c3973f68d7e992c3d1fd": "rnv: update 1.7.11 bottle.",
+    "a1a437b5479bbedfc589e7516efbfb48678773a7": "rnv: secure/fix broken url(s)",
+    "af82c3574e5f3a03a138e6221cd815c5e6665a7d": "rnv: update 1.7.11 bottle.",
+    "518eff691aaf4d3ce2e55af7c47444431dc29e34": "rnv: conflict with arx-libertatis",
+    "598ca3d2a015e26b6248db56b6f625351bfb70dc": "rnv: update 1.7.11 bottle.",
+    "2dbd0858ab27e6245f88cc406920358974a142e5": "rnv: add 1.7.11 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b6a6711c592ab835e4a48c243dfc4dd9b640781b": "rnv 1.7.11",
+    "c08d3dd92db13122747ca3852cef940866499fa5": "rnv: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9b62839ec2c6b3a4f5687404465ef546e58127bb": "New formula: rnv"
+}

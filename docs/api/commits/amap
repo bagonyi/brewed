@@ -1,0 +1,17 @@
+{
+    "740414bc2c81a73f7049cb5053c0a35e7962eddf": "amap: update 5.4_2 bottle.",
+    "c44925e28a0a61f5f5ea6345ce4d47c5f6b82555": "amap: update 5.4_2 bottle.",
+    "a03d1c0e393d97e77b74a2429e541e1976795051": "amap: add mirror",
+    "eae2d0bb4658888860b1ff2d86c64a4d2fcabc03": "amap: Replace otool usage with ruby-macho.",
+    "317e6decc4cbb7b80ea8bae66205d4136ede35d6": "amap: update 5.4_2 bottle.",
+    "babe4a85e10948420417615922fafe65323bab21": "amap: update 5.4_2 bottle.",
+    "d0b9c61089d9fe0d80a46b5847678efa455f3750": "amap: fix openssl build",
+    "0f6785b86a12dd9d6d886cfee0dc9156ccfade4b": "amap: update 5.4_1 bottle.",
+    "680e8ff5cdc29eb05d2d73a08d8b0bf48403d327": "formulae: various audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ff55df7030b2f0b45ec5d4429912094ca2009dbf": "amap: add 5.4_1 bottle.",
+    "91a74e3a5c35bf84ace59c57139e824740cf4997": "amap: added openssl dependency",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "910a9cd44966ab720fcd92bbe232f71e90654fe6": "amap: style update",
+    "439545fea4a24f4b2cd1f18b69d3d728c3da0913": "THC Amap 5.4"
+}

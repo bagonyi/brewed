@@ -1,0 +1,10 @@
+{
+    "0f631a87a7534f84da319b3c0c40d68f1a2dcfba": "bzip2: update 1.0.6_1 bottle.",
+    "f1e9c699aab398d2e24c6763bfaacca43785f53e": "bzip2: secure url(s)",
+    "14e8fcdff7430fb793b66ab7a867bd1cad2d5622": "bzip2: replace url",
+    "c7c7ea209acc4dda339133a41206a658c082ebc1": "bzip2: add mirrors",
+    "5e0d22ce150c08b2033704ff142f72ab4dbdb1de": "bzip2: use *_by_macos.",
+    "6bec19808fcb0b3800af03674c72a35a6c7012f3": "bzip2: update 1.0.6_1 bottle.",
+    "011281a6252de594f6fabb7fcd6cf032f1fd919a": "bzip2: update 1.0.6_1 bottle.",
+    "a158ded996db8715fe9ee32ed4c2a4d22f727b84": "bzip2: import homebrew/dupes into core."
+}

@@ -1,0 +1,18 @@
+{
+    "011bdadb0f4f3bd8ef34883468c3e5309e4db75e": "chadwick: update 0.6.5 bottle.",
+    "7f506cae5932bfd60a12c701b952244c2546a9b2": "chadwick: fix style",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "142ffce486ee04d0224271041f857686d80202b5": "chadwick: update 0.6.5 bottle.",
+    "9f370d4795e6293f078187f516d84bf2c7d806e1": "chadwick: fix audit about sourceforge link",
+    "67f331a5d9fdabd07d534ca34721e308851a98a7": "chadwick: update 0.6.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "edc9d014838d8efebf9f16ed06dbd2d503958a26": "chadwick: update 0.6.5 bottle.",
+    "b3fa095734118417b82216231d87a6ba0282b794": "chadwick 0.6.5",
+    "ed3cf802712b10c513999011217d6851dd445e18": "chadwick: audit fix",
+    "10614bc274e9893561ae3c6e6d23d5c2d74f607c": "chadwick: update 0.6.4 bottle.",
+    "eff89eb858eb3e659d3f8605a61f64ee0c6c85ea": "formulae: various audit fixes",
+    "99441c5b80c7a9b69172eecef7e0b29c9922daea": "chadwick: add 0.6.4 bottle.",
+    "4adb1d90f3f34b095ad1fc3e88ddd648e27f7135": "chadwick 0.6.4 (new formula)"
+}

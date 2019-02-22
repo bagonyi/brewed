@@ -1,0 +1,9 @@
+{
+    "cbfd0d1ac9c2ff99fbb14770e9c11a6af4d626d0": "m4: update 1.4.18 bottle.",
+    "b3ee8fe18637e830c2eda78f2d7b6a13a0170605": "m4: use *_by_macos.",
+    "81dc7dc304ee7e76bb41c81b0d2d941fdd52d5a6": "m4: update 1.4.18 bottle.",
+    "13e5f2cc7f7e3ac77068e4aaa207e8f50885e037": "m4: %n crash fix for 10.13",
+    "661fa374d2739ac537a47e8ed8823e751434dd5a": "m4: swap GNU url and mirror.",
+    "a088972a26fe6ef0827316ff444eb326dd56f5e6": "m4: update 1.4.18 bottle.",
+    "7a13d00f616cae3fcc040131dda8b25ab4fd41dc": "m4: import homebrew/dupes into core."
+}

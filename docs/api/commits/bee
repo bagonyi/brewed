@@ -1,0 +1,10 @@
+{
+    "a8f298ac3096fb0fb512f87d4194b686f935ed71": "bee 1.63",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e8f47b2e13c2d141dfe5b399c879991a67b3ebc1": "bee 1.62 (#14197)",
+    "f357ad114e56c8f9fc385e30fcce076d2aae3ee6": "bee 1.61 (#10259)",
+    "20f5d9c0484498d912e5e74ee5f996166325f66c": "bee 1.60",
+    "7a71576ce5b01d18c6f55711899dbb3994872cd6": "bee: bottle unneeded",
+    "6637ea336e93f0709cbf5ef580c2344e56607cf3": "bee 1.5.4 (new formula)"
+}

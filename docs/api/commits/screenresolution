@@ -1,0 +1,15 @@
+{
+    "b3b16a4216292829ee6df1a095d819cd6c3968fc": "screenresolution: update 1.6 bottle.",
+    "6822346214101af108ffeb705e166c3f18c34222": "screenresolution: update 1.6 bottle.",
+    "b8d3d253ef6c4271056be2d99a75f093d7884a59": "screenresolution: remove minimal macOS version",
+    "8426b566319b94da179c43fdd2b47dc693fa59ad": "screenresolution: update 1.6 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "d3f649bdbd179dceb80abcf55635c8cf712cb49d": "screenresolution: add 1.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "917dc6f7b86736aaa207287f29428923a6de7821": "screenresolution: requires 10.6+",
+    "865a66c73ad5be32b4597802aa7258211c71794b": "screenresolution: specify compiler",
+    "7d679ac6fc916405e74424023cdab4298d59243c": "screenresolution 1.6 (new formula)"
+}

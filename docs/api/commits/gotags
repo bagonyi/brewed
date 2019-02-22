@@ -1,0 +1,16 @@
+{
+    "4897edeeb013f491156f33c318308b5876633344": "gotags: update 1.4.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bdf6f45ff0d4dd63667ea5ac37bd2731d2f60624": "gotags: update 1.4.1 bottle.",
+    "e2367b0738fbe7900d266679c5ee939144667a32": "gotags: fix audit 'description must start with capital letter'",
+    "f26ba0ad88a4cb3e1d5557330327a41d0d94a640": "gotags: update 1.4.1 bottle.",
+    "9024fabd60f5891f915a034c1c7dd2bb25c6dd6c": "gotags 1.4.1",
+    "077792e39270700f1ac4d26297b3a58d6ae3fa19": "gotags: update 1.4.0 bottle.",
+    "556db7afb804c68ec97078f3f6fcc5e6e778eb1a": "gotags 1.4.0",
+    "cad70caa803dd4fb099462b5c119866a4ca5dd07": "gotags: update 1.3.0 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "5a0f44d073f29fcedf83923b8d0a8a85f738d985": "gotags: update 1.3.0 bottle.",
+    "08517797de777181e23a6a3e785c0c3b2621236a": "gotags: add 1.3.0 bottle.",
+    "4491dfec6f2bc0f4aec01d4067f099918d4717e5": "gotags 1.3.0 (new formula)"
+}

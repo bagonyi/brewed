@@ -1,0 +1,19 @@
+{
+    "760f3e5a242d0bd7914bd237ca1bd1bb76b0f446": "haste-client: update 0.2.3_5 bottle.",
+    "51c010b7d30ffcb7e8fc6970beae48121c7dc3f7": "haste-client: revision for ruby",
+    "bd051dcce4a6754c7a59c40335373f1ac8f4a8da": "haste-client: update 0.2.3_4 bottle.",
+    "c51983fc8bf407674056242138c9a81eab2c5d6f": "haste-client: add JSON gem for <= Sierra.",
+    "246eaa3db0d05171326497e0f6d1ef3f7ec77760": "haste-client: revision for keg-only ruby.",
+    "826d4843fb745f5a61a7a019c3eb3cf4ac163a0f": "haste-client: update 0.2.3_3 bottle.",
+    "a30e85aa4c2ff97d4cd43333cba6b11f79ec1438": "haste-client: update 0.2.3_3 bottle.",
+    "6bbef1e1b5068711008282feba328faf5f59200a": "haste-client: depend on ruby instead of :ruby",
+    "70b06cdfd5941a5334c06441c13defc6cbf402ca": "haste-client: update 0.2.3_2 bottle.",
+    "f7dbc3ee07845c0a2caada710cbeb3001e64605a": "haste-client: revision for ruby",
+    "5779c7a56fdcf7cef9e47e0710b90f3e301920d8": "haste-client: update 0.2.3_1 bottle.",
+    "1b2fe14d41f3b4e62a1563cab46cb3afe3be2e87": "haste-client: revision for ruby",
+    "01a0feeae106786ed71080778646652d11e85f92": "haste-client: update 0.2.3 bottle.",
+    "898e3663c3de3264bf30d94660519880355de524": "haste-client: update 0.2.3 bottle.",
+    "773506f7c64012fbad1b903e6e5a9437d05934b8": "haste-client 0.2.3",
+    "57eda6ce967b9fee82f6b7e4abc4d5bdd7b2e21f": "haste-client: add 0.2.2 bottle.",
+    "d820853db2d047c7ebe2e52285fdc126c88adbd5": "haste-client 0.2.2 (new formula)"
+}

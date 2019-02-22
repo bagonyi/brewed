@@ -1,0 +1,10 @@
+{
+    "cee0e24033b53e908026468a10897ae90cfa91df": "libbitcoin-client: update 3.5.0_2 bottle.",
+    "88781ebd6fcf8bec656fdacd78ca5d76a42d295d": "libbitcoin-client: revision for boost",
+    "cf650fa9c2170444039c46f342d292aee7bcb669": "libbitcoin-client: fix test",
+    "c88fadb2a42dc3bddd2fb7271ac6e42b9c49e0e9": "libbitcoin-client: update 3.5.0_1 bottle.",
+    "f8faad556d858bfaa502c7999ae5d3951b13687a": "libbitcoin-client: update 3.5.0_1 bottle.",
+    "2b6ae9933a8645a4eda6c348d35454314b5a1f6a": "libbitcoin-client: depend on libbitcoin-protocol",
+    "42281d74e56cb43b929c61c2db450506b79dcad4": "libbitcoin-client: add 3.5.0 bottle.",
+    "8501a31313704ad0654c5fd8d9a8af55b15e4669": "libbitcoin-client 3.5.0 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "1190732b0f36841327047fe15d2e7e94c6b8c3cb": "rlog: update 1.4 bottle.",
+    "68634254c4c61aeebe7a1ca5d71f9cf60aa59497": "rlog: update 1.4 bottle.",
+    "22140952ca95b1c7cb2332476b138dfaaa7f06f8": "rlog: https in homepage",
+    "6ad57acf1ec42a87439e851894e53b596914270e": "rlog: update 1.4 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "180e67fda1c5a6de7c6d0cd5c92ab124882a8ed5": "rlog: add 1.4 bottle.",
+    "ea52b2db1f19cc9db31b41e63066aaaf03e668df": "rlog: use secure url in comment",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "80f2a0dfcc27fb9154a97dfdaacdd2aebc729b49": "rlog: use patch DSL",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f1110febe6cf428e2ff61a9a73ab2ca41475be90": "p1 the default patch-level",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "615e4b7d051798281e8a6a4f9495bfcea602097a": "rlog 1.4"
+}

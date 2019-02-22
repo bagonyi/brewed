@@ -1,0 +1,9 @@
+{
+    "64b29cd4cd53b5df428c3884e3742f241b0637ff": "mysql@5.7, mysql-client: remove comments (#36765)",
+    "b377c7fd6c571ccac9569f5449b2249893e5f01c": "mysql-client: remove references to pre-Mavericks.",
+    "757dff257b56ef58fa4b7e87cf5a1b71916576a6": "mysql-client: update 5.7.23 bottle.",
+    "47c6e760ed0d42b88b8f398f3dc0138a207fb0c2": "mysql-client: update 5.7.23 bottle.",
+    "a5852f9d8320921a76b9431cc03bd59e5485ae30": "mysql-client 5.7.23",
+    "77f2f73af73f527521f689b9ba336e4a40617db6": "mysql-client: add 5.7.22 bottle.",
+    "3d825b98f909c682355c180a905e3ac842232c50": "mysql-client 5.7.22 (new formula)"
+}

@@ -1,0 +1,16 @@
+{
+    "cd0cb7236b4287591391cd6a71a14bd532352689": "libpoker-eval: remove references to pre-Mavericks.",
+    "9296b8cb490affcf1bee47c81e8421ca7c64ef22": "libpoker-eval: update 138.0 bottle.",
+    "350ca166904e3d8f254107611be01febb34200e0": "libpoker-eval: secure/fix broken url(s)",
+    "8a9517655f6a7b381d0e247f43a9c7e0d3c21b68": "libpoker-eval: update 138.0 bottle.",
+    "b9158ef5c1215aee1c3479e239f80839885e9f24": "libpoker-eval: add mirror",
+    "1cc91c980171d9d135df6b51e754031082b5146d": "libpoker-eval: fix audit about sourceforge link",
+    "b5ff653d009f768c13c41dc9a64ef54922550ab4": "libpoker-eval: update 138.0 bottle.",
+    "a486182155d75dcc79c91dda3c26bd0f674a8669": "libpoker-eval: update 138.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bfc994aca17480d09a1e0947e8e35198f20949d3": "libpoker-eval: update 138.0 bottle.",
+    "f8026054d26ed93c549b40c093f968a248e6c294": "libpoker-eval: add 138.0 bottle.",
+    "21cd4ef945b8e785c8921a28d5c798ecf082ee19": "libpoker-eval 138.0 (new formula)"
+}

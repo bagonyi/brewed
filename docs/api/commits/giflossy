@@ -1,0 +1,16 @@
+{
+    "bc97105dea56d835fe4a7e847307361285dd7592": "giflossy: update 1.91 bottle.",
+    "ad5db32a6f583b8b7b4f45b07bf413cd3483c6c3": "giflossy: remove options",
+    "4e7802304254b42723cc89edd00ceab328e037d0": "giflossy: update 1.91 bottle.",
+    "78aea5875f3c9fc46870d13936fb015296bef0d2": "giflossy: update 1.91 bottle.",
+    "2cc79d272db6deedc2ffd1647234937d9530f122": "giflossy 1.91",
+    "99511694fea77121b9a27bbca52f45d347aa2167": "giflossy: update 1.82.1 bottle.",
+    "b883bac18399a3e9fc8ce224fb55f9ff5199a2bf": "giflossy: fix audit strict line order complaint.",
+    "9ff5db96f2e1557db16c6d0230d3540993836ce9": "giflossy: update 1.82.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2f49f911c6a33e08893cfe6145ef33408a41527c": "giflossy: fix missing comma",
+    "379cbdd825a69a932137fbecd64baf560df870a4": "giflossy: update 1.82.1 bottle.",
+    "98592baa693b0a6d38542a9dcbbf0b46c8fa444f": "giflossy: add 1.82.1 bottle.",
+    "9aee55751282fd4afdb7c34cbf847db1e9427f28": "giflossy 1.82.1 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "efa2016e8ce05f7e06b6a539844ec5f58b0e99f6": "conserver: update 8.2.2 bottle.",
+    "7a76794864decefde104ba2e1afcca7c409377e0": "conserver: update 8.2.2 bottle.",
+    "ce28989b274fd38c772098ccc34036fdc2b3d8fb": "conserver 8.2.2",
+    "26fec02d13e0b293305aea32a76644df424b5293": "conserver: secure url(s)",
+    "49c40817a3136335e38d56f185c21cf22db38073": "conserver: update 8.2.1 bottle.",
+    "2feca876660f0c2aa71e1305bde7137cc3c85961": "conserver: update 8.2.1 bottle.",
+    "3bf8825634b9dbdc49fce9c822eedaaf7feda1b4": "conserver: use secure homepage (redirected to insecure)",
+    "e5897193521bba88ba48994664f9500d0c6ebdfc": "conserver: update 8.2.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "24d7e6fda465590f571d5c1aace267985ac25f5a": "Use exec instead of system",
+    "e88452430e910de758d2ab4ace98ae25e085ce2d": "conserver: update 8.2.1 bottle.",
+    "7ea742f89609e538768a78634d266f2a9b2f8fc3": "conserver 8.2.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0d997596185ce6495439109223184e3707fffe25": "conserver: add 8.2.0 bottle.",
+    "d86766da3ec65446c2828ddf253c0a5a7c04da59": "conserver 8.2.0",
+    "215b40af9815b454b7d0a4b9dfa9574129d83afa": "conserver 8.1.19",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7be43263b818025447c61f77d5267c51c897209c": "conserver 8.1.18"
+}

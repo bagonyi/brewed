@@ -1,0 +1,18 @@
+{
+    "7a06573cb6ad09ce1f9b775fd4d2d3e2d82d9b9b": "flashrom: fix dependency order",
+    "eb645ec3089c143cde1476a48fccacf18e47f23a": "flashrom: update 1.0 bottle.",
+    "27c2ecd6a17fabacc5f0111d77049dd0e399625e": "flashrom: update 1.0 bottle.",
+    "9c7f1ffde0d445cb3e18d245ca6f912bfc5f8c7e": "flashrom 1.0",
+    "854e9950d6b78097f84e067350d9952778fe0ff8": "flashrom: update 0.9.9 bottle.",
+    "3ff93f86a0f2d21afcc68abeef63f413639ccb8c": "flashrom: update head url",
+    "834b73d3a8672408de9298c7daf027ecbe7748fc": "flashrom: update 0.9.9 bottle.",
+    "9d3e00e1758d8e4c3af7f14e0c094c9f99edc17c": "flashrom 0.9.9",
+    "e8c3afdca0c9505ed7decae18cba201885d635ac": "flashrom: update 0.9.8 bottle.",
+    "a61dd7ae794737ad3f94d1367fdd99e3e9082850": "flashrom: use secure url",
+    "32c87a37600ab3f5ef9c784b82a07f22a3f54c66": "flashrom: use secure homepage",
+    "835bcbc67ee10dc7ee0175ad8506cfd443986240": "flashrom: update 0.9.8 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "177d7b79e4bf88694a1872269816b0786ad6ac3c": "flashrom: add 0.9.8 bottle.",
+    "2f3656a03ba4647084477b21c90b032b82baba8f": "flashrom 0.9.8",
+    "992ab81716f8492be94b5d510666c95e189813cd": "flashrom 0.9.7"
+}

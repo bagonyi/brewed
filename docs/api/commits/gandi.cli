@@ -1,0 +1,23 @@
+{
+    "27d60b06207177c80a997dc04b0d4a507639dd9c": "gandi.cli: update 1.3 bottle.",
+    "4777c0d7aa3deb05e4327dfa6a30696fab126232": "gandi.cli 1.3",
+    "166942ae10e49537b18ed867af86c379faae8f4c": "gandi.cli: update 1.2_1 bottle.",
+    "be527e08c2df2fa6f1062bc35481cc834bd815b0": "gandi.cli: move to Python 3",
+    "7edde8403d9b996f189ed7ab785ead9698287db5": "gandi.cli: update 1.2 bottle.",
+    "27e7d3469ce8e04c56eaa4cf659b0af072012cf6": "gandi.cli: update 1.2 bottle.",
+    "2ee9d330f96d8e35304d8165971e49afb38ca1c1": "gandi.cli 1.2",
+    "46970835fc33d24fa8302dafbfd08830ab7620e0": "gandi.cli: depend on python@2",
+    "cff258f5f8afab53da87fde3e58c7ec2e088b5e5": "gandi.cli: rename python@2 dependency",
+    "12957c4db7f7afa313bab75f1917d018bf865e70": "gandi.cli: secure url(s)",
+    "4b22620de4675fb981cff9834d5f9613f97459b9": "gandi.cli: depend on python instead of :python",
+    "52c84b5989c38e996cff8001a7144c58ed79eb0a": "gandi.cli: update 1.0 bottle.",
+    "057798bcece999d8e461422c8b300c2ee102ae56": "gandi.cli 1.0",
+    "355ed12b4bfc5d73f5bd0e868d591cb97f30dc83": "gandi.cli: update 0.22 bottle.",
+    "a407c5b2282e80563ad3a2a08efe00cb6bd3e28c": "gandi.cli: update 0.22 bottle.",
+    "95e872e15362ff8ace73afe385b3d8c92ce6845a": "gandi.cli 0.22",
+    "87d4f3778002b74e80252a6983a2532ea0fdee9f": "gandi.cli: update 0.20 bottle.",
+    "84f63e0ae08e170dc52bfcbd711052e236333fe5": "gandi.cli 0.20",
+    "78b0a4a44ea8523bf3de99a102c024f2b4371aec": "gandi.cli: fix audit 'description must start with capital letter'",
+    "0f705928d91671b444b8ed15849f1848611529c3": "gandi.cli: add 0.19 bottle.",
+    "97ff52fc7218326b481afd982dda3a50f8eaff2a": "gandi.cli 0.19 (new formula)"
+}

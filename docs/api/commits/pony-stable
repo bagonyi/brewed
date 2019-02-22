@@ -1,0 +1,23 @@
+{
+    "d79befe534290491e5a78f29f02a0e961bb090be": "pony-stable: update 0.2.0 bottle.",
+    "9c90734fee909644ef38716c9f66e39ae12dd682": "pony-stable 0.2.0",
+    "5b21ce0d4ab3fdf9a116aaa21c16782d9cdca06c": "pony-stable: add HEAD (#32954)",
+    "c5883f4afae1164acd048073a2259f1a2ee707fa": "pony-stable: update 0.1.6 bottle.",
+    "6c3f3cf6fffbea372fabd4fb3437285f6e28cef6": "pony-stable: update 0.1.6 bottle.",
+    "c7cbebe73ed031a26fde3b52f2a04a5b9fba4a58": "pony-stable 0.1.6",
+    "24a750ecfaa81adf40166e7704e44745260d0661": "pony-stable: update 0.1.4 bottle.",
+    "6df4045d140b8a3fb6cce52e83e6c392684a1192": "pony-stable 0.1.4",
+    "e27c3145a808ffdfd8c098bcc4636ba1db10a866": "pony-stable: update 0.1.3 bottle.",
+    "69fc822aae43e993ea14f3a54924dbb8929f79e4": "pony-stable 0.1.3",
+    "35783ab25c60714ef0bd4a48f199aacaa7182827": "pony-stable: update 0.1.2 bottle.",
+    "100033e3545598d2a7a4fa6d93e7c7b6a29d1608": "pony-stable 0.1.2",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "03f288606a13fc304c25e7f98b99992390884802": "pony-stable: update 0.1.1 bottle.",
+    "b4bdf283985127913cb3d6936750b4998e2d68ff": "pony-stable 0.1.1",
+    "44a6b31a28bc1e3285c93c4b995ca85cf7dccb60": "pony-stable: update 0.1.0 bottle.",
+    "f3092135a3801f0ba8c5152f28718f9827004e93": "pony-stable: update 0.1.0 bottle.",
+    "a8599ef9eabee84ff55c1bc7d0ee6d1e3fc3fb5c": "pony-stable 0.1.0",
+    "c7d848cba74b3d5d53bb455f64fb3e9fc692dc26": "pony-stable: add 0.0.1 bottle.",
+    "ff7971f35f1b2f899fe481e6267566dbbd90393b": "pony-stable 0.0.1 (new formula)"
+}

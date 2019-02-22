@@ -1,0 +1,23 @@
+{
+    "e5e54c5d783e28312f0b0056106517bd9b25ad5e": "utimer: fix dependency order",
+    "43e41250df8caa7817afbfaac9989417a98a8941": "utimer: update 0.4 bottle.",
+    "d74738b7abcd241501cfa5604238015bb9918e5e": "utimer: update 0.4 bottle.",
+    "b7b00e8bfe944f5310bb1323478340c5de254e1d": "utimer: add test",
+    "d8c6152f7b0f10f28f5f5be5482d3b82062f7a0d": "utimer: update 0.4 bottle.",
+    "b4d7767b7250443d7a7cc6ec404e899d45899ef7": "utimer: add 0.4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "543c70cd67c1fbae101ae65c2cbd0e361e623858": "utimer: update URLs",
+    "e715ccb24f21f9d4b33b6c60ff1708ed1c103c35": "utimer: modernize",
+    "1212446726954291509e7bdb3ad28f343f8b0835": "utimer: intltool is a build-time dep",
+    "7a0cf1b10854af5a61f5e0e69abfdfb997ecf4f4": "utimer: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "dc19ccdc3ba806bd6b3898d7fb1d8db343fc86c7": "New formula: utimer 0.4",
+    "7cacf8e065523043226ecf4b0117343f5717bf8e": "Glade 3.8.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "5e6e5a3363e8e563a5e6356507e7d6f2bf7a3718": "Add formula for gtksourceview",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "839b2a754a9070995600dd14e408451e6bc775e5": "libgsf: update version, add depends_on glib",
+    "d202b6248fdd9e0247da6295ffde3d586f73de41": "libwpd 0.8.14",
+    "3ff702e513e95b8fec48a6666b1d927a7adaf3a7": "New formula libgsf"
+}

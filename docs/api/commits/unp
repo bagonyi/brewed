@@ -1,0 +1,23 @@
+{
+    "dc90118fdca0493d3cde8c056237e03c71b6f957": "unp: remove extra spaces (#3936)",
+    "6e97f75938645b94bd0101299fcf1853e281b60a": "unp 2.0-pre7-nmu1",
+    "d03b0c080615a83873681caa8688135eaf045508": "unp: prefer berkeley debian mirror",
+    "29f1fbca9b8805cdc8b809aed9d7b683bd5ef39b": "unp: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a2976541d995cb59989211086316ca927b9d1c29": "unp: test added",
+    "0bda3ad3e72c265a0d1d3f96b7f8a6a1f1db2b08": "unp: fix https, sha 256, remove require",
+    "3d4f2dc9cdacfd13265ec036978c8198afb143c2": "use bash/zsh path helpers",
+    "03b17093be74fbf415c65ce0717be211a2f022e8": "unp: update downloads",
+    "a0a8de14b12741befc1846166e2cf8c4f8175bfb": "unp 2.0-pre7 + bash_completion",
+    "4f9f0d0bf52f8540485aa7b5e74b6aa32fa432f3": "mirror support: Mirrors for kernel.org software",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1bb89e3a10a26616c4eed85f6940796262580c9a": "unp 1.0.15",
+    "c25d4763cfa840afe4020cabf79a5a058d1bac3d": "Fix `unp` homepage.",
+    "c8935db6f75ee4b444e8bb18c38bf304e70c47fb": "Update formulae to use preferred debian mirror",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "990237b7d368667f1478b700a970484fdab3dafc": "Fix case of README.Debian.",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "c665eac117367bc9294be25677a2bfa330db9df1": "Dependency resolution with fancy syntax",
+    "bf7a82e66d5957db1d9b0897311b36071148f24e": "Dependency resolution",
+    "32ec3665a62a007859f87da44a6d3bb46b546f73": "Universal unpacker (unp) formula"
+}

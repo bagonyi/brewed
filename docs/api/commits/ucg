@@ -1,0 +1,9 @@
+{
+    "3bbcaf384069563c7dcd5196c67125a5f442d454": "ucg: fix dependency order",
+    "dce36d2bf782f05e800544a899905f571db9bfc3": "ucg: update 0.3.3 bottle.",
+    "733e92904c3c377901b4e208574a451045c06c13": "ucg: update 0.3.3 bottle.",
+    "a1f51ce98694592f402de3ff961d90d9e77542fa": "ucg: patch for Xcode 9",
+    "0726d829fd4d6a655b0b8966449e01e6ff6c404d": "ucg: fix audit 'description must start with capital letter'",
+    "f3ec7987398861c9b300174218f53e1c251fbf13": "ucg: add 0.3.3 bottle.",
+    "6bc2149788e0cf996cd41f054065b78a1349663f": "ucg 0.3.3 (new formula)"
+}

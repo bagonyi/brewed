@@ -1,0 +1,22 @@
+{
+    "f777d76a140fe3c375f974fb79e9245c84273800": "tcc: update 0.9.27_1 bottle.",
+    "6e8d130975e9ec3a383445ece0ceb63de90b160b": "tcc: remove options",
+    "c08e380adef9e0e7678548a94e544405b5c46fd6": "tcc: update 0.9.27 bottle.",
+    "b69b28a20e93e63d7ee084eb0ae3a4fd147cc257": "tcc: Add MACOSX_DEPLOYMENT_TARGET in make for Mojave",
+    "72c88ef9d79048295b42d2e879e7a691b7f5dac6": "tcc: update 0.9.27 bottle.",
+    "006bc63e8baa9e76528c33f810b62088d8ca11df": "tcc 0.9.27",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ceebcba4b1473d9fba553c10ab9990f9dc5af163": "tcc: secure url(s)",
+    "5e1f0f90d0faf02d79104ad7b1366f9cdb068588": "tcc: use ENV.deparallelize.",
+    "0ec96d2f1154304fe32949988e9093d73542b8d8": "tcc: update 0.9.26 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "7455dc6d0c1c1a1ab8b23aefe72b5347eb303bea": "tcc: update 0.9.26 bottle.",
+    "c828bf55304c47f08afbced9254704643b734585": "tcc: add mirror",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "06c7a262b1a5bec353586899f123126f8650ea93": "tcc: add 0.9.26 bottle.",
+    "cac84c7368ffaf1e5a49aada321ede673ca6118f": "tcc: add cross option",
+    "8d993ccb48becadea08b0e18e9ee2a2562d97193": "tcc: add a test (hello world with `tcc -run`)",
+    "42d0dae86aec677e3cc2a988d315d5340e1295f5": "tcc: fix Xcode-only build",
+    "5b1511226a4faaa40c9864bb238b0a0df1441258": "tcc 0.9.26"
+}

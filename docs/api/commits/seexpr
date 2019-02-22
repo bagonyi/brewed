@@ -1,0 +1,13 @@
+{
+    "d7f9d2fc06f4dc5d00c11c074aa7ccfaad4447c6": "seexpr: update 2.11 bottle.",
+    "86c44ec29a482b111cf295af8f94c34454790877": "seexpr: update 2.11 bottle.",
+    "4e2b3c3f3036336576c308b2553c0f2cc2e55f74": "seexpr: update 2.11 bottle.",
+    "e3c412aeb04a1b751db35e391c32a7f6e17dd8cc": "seexpr: use secure homepage",
+    "acd510cad9f22fe61f4f09c0ff652237251f6f16": "seexpr: update 2.11 bottle.",
+    "5af0b93738e2ba2c24835de8bd7f66739547cce9": "seexpr 2.11",
+    "2962036b50e4e87af0d181d656a71ecb3559b5d6": "seexpr: add 1.0.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2f1c85f35f916c75c2b8f678a71cba90654ef0d2": "seexpr: mark doxygen as a build-time dep",
+    "c79eeb5120b20be7f72f306307820b4358be6309": "SeExpr 1.0.1 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "2024a2555a2e46632fd693198b7c55ebb70e3b26": "colortail: remove references to pre-Mavericks.",
+    "350dde3d2b95cd54850f5f658d202d051571ac74": "colortail: fix dependency order",
+    "a3c90c0ce7784b423028e46f4e64497a5a42d068": "colortail: update 0.3.4 bottle.",
+    "7172d06cb32215ec542185291b0b04b659d3974e": "colortail: update 0.3.4 bottle.",
+    "fae92208153cc76ece87c395c6691841be700b54": "colortail: use full_index patch",
+    "a5357f985dbae068e4beda2beab48c3c5b557ae8": "colortail: fix patch (#12106)",
+    "9f32443df781aa7a8bcce2fec2b6bb55f599f8db": "colortail: update 0.3.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "09d1696992e78f4c2c836ebaad4efa6993961b76": "colortail: update 0.3.4 bottle.",
+    "558cde5a2799ef7dc6b8e153c253f2f7402aab21": "colortail: add 0.3.4 bottle.",
+    "e23a161ae0b8a0c821c456a37c644c45546ec646": "colortail 0.3.4",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5b0e7c18cf708747416f6898b6bd0de0298269a0": "colortail: add test",
+    "32d1037d39813f184ce249be8feb21cb03185f24": "colortail: modernize",
+    "f0d5eb04a20a320e7b5ee66ff79010709e50b027": "colortail 0.3.3",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9b76438410ccda671004d2b5fe5a1fd57183bf82": "Formula for colortail"
+}

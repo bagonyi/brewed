@@ -1,0 +1,12 @@
+{
+    "6071ea6e92b8e6a308d447aa6d5d8f361bd291d1": "google-sql-tool: add test, various style fixes",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "2bdb6a94940d421637a3ec8a98e699c9ef9a4cf0": "google-sql-tool: bottle unneeded",
+    "521631c83ec9170b8c10667dd368cb5f5098a976": "Fix URLs to several Google projects",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d68d5a221cd20e007c1f230faf5bb9b968868996": "google-sql-tool: use https, modernize",
+    "8d9b728bb2f6cc4ed37eaabde23c8f148ad53488": "Less snark",
+    "7285844f96a3d6d344b215d312d0674e0d883aef": "google-sql-tool r10",
+    "775643c264848e8f52c3b9db995e73b1d639ee7c": "google-sql-tool: use install_symlink",
+    "52f0a45a1d61da987a80152942f4e7be7b3b6e49": "google-sql-tool r9"
+}

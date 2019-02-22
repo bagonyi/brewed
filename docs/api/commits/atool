@@ -1,0 +1,20 @@
+{
+    "448a2ec89b28f2e6de305505421f38192924ac67": "atool: update 0.39.0 bottle.",
+    "d58370e701f223cf4af78a1173312f59ae50ea31": "atool: update 0.39.0 bottle.",
+    "152ab942f1fb00eb81935dd51a1212fd359f36bb": "atool: update 0.39.0 bottle.",
+    "c3fee25b8b9b24cc02f177d2f7e13422aa71c6fc": "atool: update 0.39.0 bottle.",
+    "60deedd5ff50894fd05a8e1b30558d729f6b124b": "atool: use secure url (redirected to cleartext)",
+    "6ce2d278a9d78258678bacf1cafb43b5907b53dc": "atool: update 0.39.0 bottle.",
+    "155b03169c18dbb54ec85ab74c51a58b85280606": "atool: follow url redirect",
+    "b4d085f1de2f6f7a1e62e588b7fe8a39eba3a3c3": "audit fixes: A: ascii, asciidoc, atool, autotrace, avce00, avra, avrdude",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "52a9d9308a882486f0264f78a2fb6350fae845cd": "atool: add 0.39.0 bottle.",
+    "40c775e89b6e86a2507ade689cfa3db556db886f": "atool: added test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e5f574267bc7d281b5f2d55babd844b212438704": "atool: no longer requires gnu-sed",
+    "43d4067b07749ea6a5f2678df698ad5edab65679": "atool 0.39.0",
+    "0b9e2ed34dc6c61dcb70b72abf44666b723c721b": "atool 0.38.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "bd861ecab567a74e0c3f55c292602c4dc1fa5a40": "atool 0.37.0"
+}

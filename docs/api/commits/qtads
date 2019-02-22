@@ -1,0 +1,13 @@
+{
+    "f5dea31bedc7c12adce0128134627ff8b96ed924": "qtads: update 2.1.7_1 bottle.",
+    "153bc294782b7ffa4085b77ee3f36f73e2da7ef2": "qtads: update 2.1.7_1 bottle.",
+    "b1d1f1a6de1ae15d48c388aec25748fb3930adbf": "qtads: use upstream fix for Xcode 9 (#21609)",
+    "a96d91113002793e32fcd5ec3889cb37f0d1e519": "qtads: fix build with Xcode 9 (#21558)",
+    "37039a45481db84f3e6d1b206aa823c0d16ed05a": "qtads: use assert_predicate instead of File.exist?",
+    "902d9d434a864515a923a6ecd0ed1b59eace9008": "qtads: use full_index patch",
+    "5ce1eb3c4e9dba0a71172394729d5ff6aac3ff67": "qtads: update 2.1.7_1 bottle.",
+    "d1f3007600fa3db4905cf3565ef7445849311028": "qtads: rename qt5 to qt.",
+    "464a33b8476126513aeca94413021a277226a733": "qtads: fix audit --warning",
+    "82286ee093d5ebecd034c4b481fd55a1bd9e1653": "qtads: update 2.1.7 bottle.",
+    "80fbcc926af49d2f113574754d5815ca38a1f632": "qtads: import from homebrew/games."
+}

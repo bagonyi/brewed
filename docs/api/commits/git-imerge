@@ -1,0 +1,14 @@
+{
+    "517d2cad0475da621f3c149b70690177b421394c": "git-imerge: update 1.1.0 bottle.",
+    "72695d5907ceb7ade086d6db9f8539f3f13d59a8": "git-imerge: update 1.1.0 bottle.",
+    "598144722f49d19384f7f6caa6c517365251d3ae": "git-imerge 1.1.0",
+    "939cefea720a2646a509ed0d0a38d3e135087ed8": "git-imerge: update 1.0.0 bottle.",
+    "743b674acae63c962c04fac84bb1b8ead96b3dd1": "git-imerge: update 1.0.0 bottle.",
+    "9a8bdbe6db9e9ba3716341333bee25758ae92ace": "git-imerge 1.0.0",
+    "510f52853f180a62c09cb825e7d2a5a5a2a0020d": "git-imerge: update 0.7.0 bottle.",
+    "8c5256e0182d558965fcedc2f63c3fdd604f9b2d": "git-imerge: allow completion (for HEAD builds)",
+    "206c774043df83ffba000abc18c8dc74e21ec79c": "git-imerge: add 0.7.0 bottle.",
+    "ddd6de8014150c1d02982c5761f61cfa74fdbd53": "git-imerge: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "18c521c846988f08d00c8536b3ccca67df492673": "New formula for git-imerge"
+}

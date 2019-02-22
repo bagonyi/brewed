@@ -1,0 +1,16 @@
+{
+    "2e50f7803a30c26760c718f6b70ee343f7d81bc6": "livestreamer: update 1.12.2_1 bottle.",
+    "5333e34a9b8eb3f5151c0f3db90ae5283c6cca81": "livestreamer: move to Python 3",
+    "25c89155b8dcfd0607b44af758eee36e6fabaf1a": "livestreamer: secure url(s)",
+    "d8d3d71659257f5e70506cefd08f3979b36c5f50": "livestreamer: update 1.12.2 bottle.",
+    "1ee5c77de5ce02b4be54e46b46651047956d3106": "livestreamer: depend on python@2",
+    "4b98ed7746ce7e3b89f4a3c95dde66f525ef5deb": "livestreamer: rename python@2 dependency",
+    "b3876eea1b5d05c6d0460e5002edd360f14e04e9": "livestreamer: depend on python instead of :python",
+    "735ac9b90ffb117552c883f459d6ed3099c90e52": "livestreamer: update 1.12.2 bottle.",
+    "096874dd62d43d5cb21651a1cc427e0a16a9fd6f": "livestreamer: fix audit 'description must start with capital letter'",
+    "5fa1f1da32b3b239964cbfd8816a29c40f8c7605": "livestreamer: update 1.12.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5f06247e793db45ee3557694ea8cc55f5eb07d5f": "livestreamer: add 1.12.2 bottle.",
+    "e2743d9f6c540941de6d8c6ed2a6b427c7dd8fd3": "livestreamer 1.12.2 (new formula)"
+}

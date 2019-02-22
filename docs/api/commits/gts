@@ -1,0 +1,22 @@
+{
+    "f63e084c1a3cc44a1cd511f6c89f234e1a0e1825": "gts: update 0.7.6 bottle.",
+    "bb2bc292e2e3dc20a95865da2b1445567215aab4": "gts: update 0.7.6 bottle.",
+    "4a3f4203e348cd38a9498dfeaf484ca944d37541": "gts: drop universal",
+    "d412c11719ae52bff77018984d2f938ea775ee65": "gts: fix audit --warning",
+    "7c2104f44c02cc32c8101bdccb25ce9f9651aa36": "gts: update 0.7.6 bottle.",
+    "22f95972c07935aff64d52fac3753e391eebac22": "gts: add 0.7.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cae09df8132e617af2f220814a9eafa16cfa201": "Drop conflicts with removed formulae",
+    "5435b2c0b2d03ef5cf8a4726b18313b016dcf35b": "gts: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "30fd267597365c0ab497bf9553b7b9d2d78b550b": "gtc/pcb conflict",
+    "7bd19514e22d3e34356c11b42e8648bbd8509d6f": "gts: add netpbm dep, fix build",
+    "b81769b308ca0a00aa7fa8f09570cc794aa6bb96": "gts: depends on pkg-config",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "bd57b2f9268d0f538f674dc65be9cb257e44781d": "gts: add --universal option",
+    "ea9a27ff22b0562056e7023d05075303430db5b6": "gts: style update",
+    "d7a0ab68896ee75182b4442f706f3c8b79a1f94d": "gts 0.7.6",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "5d6581640fe428b0e7fcc0ed627b9965d0e19454": "new formula: uim"
+}

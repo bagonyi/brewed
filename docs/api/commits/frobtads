@@ -1,0 +1,20 @@
+{
+    "def087b51b53d8a205bd33d03e05ce8a9a65f91b": "frobtads: secure url(s)",
+    "933046660ab211ac7989b1ba40fac4c1fa89767d": "frobtads: update 1.2.4 bottle.",
+    "2d510c0cb58c402bf9b955c13a19903e474225fc": "frobtads: update 1.2.4 bottle.",
+    "0c784b231cbeda11ada29b1401d6394db6bb8252": "frobtads 1.2.4",
+    "32b02c2d70f19985db71a3a627accd6395cf4b0d": "frobtads: update 1.2.3 bottle.",
+    "98f27cad0139f867be82b289fa086be25440139a": "frobtads: fix for Xcode 9",
+    "67c56c1f0ebd53cdd91c63895a2a93780f2d565a": "frobtads: update 1.2.3 bottle.",
+    "87f99b75b6a6226751f407929a2e123403f8a56d": "frobtads: import from homebrew/games.",
+    "e0fcd94c161d37eb1d344702ce8e644b52c523d3": "Move frobtads and inform6 to homebrew-games",
+    "a2d17c6ff8717bd67d187805900bef3dddbe9313": "frobtads 1.1",
+    "1c8a0668c9da67f8f6f6b40463dd55e61c7081e3": "frobtads 0.13",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "621cd38ce1d0c4c1610d63325601e21dc01072b9": "Add FrobTADS (interpreter only) formula",
+    "6e4723c7350523d73b5d4639afe6f93c02fd8f51": "Jansson 1.3",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "701a8276a307e2b0d53f86aee00ae65e3f525f35": "Update mediatomb to 0.12.0. Fixes Homebrew/homebrew#174",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "53b8e10e9442f1368b1d9ac6920d1a0def6fab5f": "Add mediatomb formula"
+}

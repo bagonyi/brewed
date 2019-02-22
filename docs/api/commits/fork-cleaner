@@ -1,0 +1,14 @@
+{
+    "44d13887778a8632f00caab105777aef551efa9e": "fork-cleaner: update 1.4.3 bottle.",
+    "03840b9d67747486d3794980bb78f5e0b09b307e": "fork-cleaner 1.4.3",
+    "3732f8bd622cf6da7af41fdca03a6bdfe4b76d23": "fork-cleaner: update 1.4.2 bottle.",
+    "ae9325dcc3dd05ff01bdeeaa524b5a233f15fc9a": "fork-cleaner: pass -vendor-only to `dep ensure`",
+    "a0d7f95172382bacc5f87ad7fca98ba7a75d7304": "fork-cleaner: update 1.4.2 bottle.",
+    "0f80cac2160fb389bbd57698bae87d952713f37a": "fork-cleaner 1.4.2",
+    "bbea638c62b043531e6b0ecd2018632aaa9f0862": "fork-cleaner: update 1.4.0 bottle.",
+    "1f53bbcdc868a9c3c780f9e1251c017a4afd88c4": "fork-cleaner 1.4.0",
+    "ee237a07bfa7ca665de1782749afc19d5322ad99": "fork-cleaner: update 1.3.1 bottle.",
+    "69bc17df5a783ff87194f8d43c25a73ce4d4f013": "fork-cleaner 1.3.1",
+    "51c2dedb178dbdc40d35545b8dcf2ad3ae5ddbc5": "fork-cleaner: add 1.3.0_1 bottle.",
+    "b6edc8d78afcde436052b3a2b183ade860ef4e75": "fork-cleaner 1.3.0 (new formula)"
+}

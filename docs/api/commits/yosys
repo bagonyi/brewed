@@ -1,0 +1,15 @@
+{
+    "293745f260ee44b57362a21c3b249d1ad7677713": "yosys: add head (#36199)",
+    "9e867eee4ea8f4663d192684239b712320cd0563": "yosys: update 0.8_1 bottle.",
+    "28f91313d89bd8fefd7bf29375c32c2b0783e9aa": "yosys: revision for readline",
+    "435600ec7dc7ba0912feab4f09319065c4dfc65d": "yosys: update 0.8 bottle.",
+    "8e01a951fa3320d423503baa8d1dcd2521618291": "yosys 0.8",
+    "35a8d08004aa8d034cd9353f897c09010017b1c4": "yosys: fix component order",
+    "be837bde95905eb863811324700262b96e431555": "yosys: remove options",
+    "6be29933dc5b0ec4b663a4c1beb83bfc21c3e691": "yosys: update 0.7_1 bottle.",
+    "5517bf4eb2c8d40a233ad57ea109dab4c2776dbf": "yosys: update 0.7_1 bottle.",
+    "6b0fb70b5b5c44407f54d9ff146f69596a9bd4d9": "yosys: rename python dependency",
+    "27826fd52bad76238b9cb537505cfdf8b77c1c39": "yosys: update 0.7 bottle.",
+    "ab5cb0aa89b67c0f313f47f071e775235b6b9bd8": "yosys: add 0.7 bottle.",
+    "e9d10d69a949fae64576d8bc9cf17a5916b7d235": "yosys 0.7 (new formula)"
+}

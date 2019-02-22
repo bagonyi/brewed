@@ -1,0 +1,18 @@
+{
+    "4820e4597aa8701469a042e090f675b37254af2a": "wait_on: secure url(s)",
+    "0cb75fa49ee6d79d9d76c3913e5ed3bd57bc78ac": "wait_on: update 1.1 bottle.",
+    "8e71e9ec49159a44d704e86036b20d0d1a2dfc50": "wait_on: secure mirror(s)",
+    "b5aff0b10fdece9f54722f87ac9dc4db6cec2937": "wait_on: update 1.1 bottle.",
+    "d857e554a2244630de9337e4efbd564262b2e553": "wait_on: update 1.1 bottle.",
+    "977c888a10919644ffa1c593f78e09f1284435e7": "wait_on: add 1.1 bottle.",
+    "def2f9f4d48e6bc4752b0a46b4cc29c2c1f9a2cd": "wait_on: use https homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5dd6d0cf988e303c9633f1528957cd5becb2bc97": "wait_on: modernize bsdmake dep",
+    "bd8195af87e6bf5339d95a2fd0584c5494a4bf77": "Switch url for freebsd distfiles",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "5bc2224d0765852b43ced192cf6714cb6fb56ddf": "wait_on: fix URL",
+    "11c72b9621208f61595275468f5360695c626d68": "Use :bsdmake",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "5aa90ffb6b752daff90791ce299981311ceee8c5": "wait_on 1.1"
+}

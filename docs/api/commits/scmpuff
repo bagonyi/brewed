@@ -1,0 +1,13 @@
+{
+    "4ad859f737ca356b83cc76378625c1added547ea": "scmpuff: update 0.2.1 bottle.",
+    "3d677b70797387592be6367dbaffb0b5b6b62d21": "scmpuff: update 0.2.1 bottle.",
+    "1ded67613aafcb959acb3bc20b1ea806f9af40ca": "scmpuff: update 0.2.1 bottle.",
+    "887be81284ec4a6184cf88b8bd70681f5493c7a1": "scmpuff 0.2.1",
+    "b3c044bdc0043d8ef329cc94fdc6fdd24c58b84b": "scmpuff: update 0.2.0 bottle.",
+    "8156817ade194dc85cb65a0e9b48002c6d77baa2": "scmpuff: update 0.2.0 bottle.",
+    "c3eb2e4c5a4aeee2f62aceb7ca18ee4957d6bc78": "scmpuff 0.2.0",
+    "df9a27d7d953d1e1b4bb7d52da665a4d57a01612": "scmpuff: update 0.1.1 bottle.",
+    "04b11ea6d2fbd63ff6c642b4fb749c8fb9282fd3": "scmpuff: disable GO15VENDOREXPERIMENT",
+    "0ebb2de5c4fcba756a59dfbb35559360dfba407a": "scmpuff: add 0.1.1 bottle.",
+    "8c91e763f493b59c0fb709732e24e832b4a917ca": "scmpuff 0.1.1 (new formula)"
+}

@@ -1,0 +1,10 @@
+{
+    "626d0073127559968acabdce22d6606855b650a5": "ski: update 6.12 bottle.",
+    "288da4298e06d4b544c43353a4532a9bda336b35": "ski: update 6.12 bottle.",
+    "e5c1cec78bc11f21201db68f324e1356b5339193": "ski: update 6.12 bottle.",
+    "162f0907a6b99a12a538b5633167d44be97ea7a7": "ski: import from homebrew/games.",
+    "ff28a0ebf793ad44737c5a81fea384b68512c1b3": "Move more games to Homebrew-games",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "153f34fa2ed68099ae7047233b1865866f81ec55": "New Formula: ski"
+}

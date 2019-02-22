@@ -1,0 +1,23 @@
+{
+    "01f8d5a9dc7a9a2ae9e5c97737d4fd47f5592a83": "google-benchmark: remove checks for old compilers.",
+    "03857b18f2aae6524433128def110b3d20a36956": "google-benchmark: update 1.4.1 bottle.",
+    "03733f654b2e4124e7d66a25be729f93b8c5e02e": "google-benchmark: update 1.4.1 bottle.",
+    "55a6fe34a8c907b48f1dd37db458f4fc6b5de3ad": "google-benchmark 1.4.1",
+    "a7e2a29c00f25d1cd3db3251b3ded016a0f8aec1": "google-benchmark: update 1.4.0 bottle.",
+    "18b6ac299f2e7ecb131f9bd19090d3c21e4ef8a7": "google-benchmark 1.4.0",
+    "f24bdd1f783c33423f2915109741a947d64e8eaf": "google-benchmark: update 1.3.0 bottle.",
+    "4cf0afa36316dab69fe8e720e332c684b2da7534": "google-benchmark 1.3.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "57c581ffd6e55489c332eb881e1f8176309a0dd5": "google-benchmark: update 1.2.0 bottle.",
+    "72e6ff2fd33340a03f34fd77c023e5dfbc2a8b3a": "google-benchmark: update 1.2.0 bottle.",
+    "8eeb5bf31ab1587f72342d09efb60a342980fb14": "google-benchmark 1.2.0",
+    "b0ef1aa261dcb3e8e9c1da672f865fa57a62154b": "google-benchmark: update 1.1.0 bottle.",
+    "6f188f31e6cf9799a5052f9578b9927fa23447fc": "google-benchmark 1.1.0",
+    "7992690eee0aba988c69ff8c956302947fe355bd": "google-benchmark: update 1.0.0 bottle.",
+    "a6ebbc6d22d16b6273a2fc97cb0c24adc6338cef": "google-benchmark: update 1.0.0 bottle.",
+    "bf4938c2cb852ddad132325cd4f91e8a765f9e99": "google-benchmark 1.0.0",
+    "cefdf91b826fdb2eb6aa8c18546999da83b96add": "google-benchmark: update 0.1.0 bottle.",
+    "2587f6be2f608b012db4b40843c77d34c4d1b725": "google-benchmark: add head",
+    "0c564fee6d93f056fd37d9f9b0989a07463c26a2": "google-benchmark: add 0.1.0 bottle.",
+    "127ab286b19b6210a2071355a5a90a2b0d6f39f2": "google-benchmark: 0.1.0 (new formula)"
+}

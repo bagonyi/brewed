@@ -1,0 +1,20 @@
+{
+    "25a33a5a96fbad00e80b226f2088c2267ce9253b": "xmount: fix RuboCop Layout/AlignHash.",
+    "4b07855023ea8eff3c073e8c5da2a31b05472a2f": "xmount: update 0.7.6_1 bottle.",
+    "4d9dcbf8490f0eb822e1d6d1fb87659f03d43b1b": "xmount: update 0.7.6_1 bottle.",
+    "d008a59486d72bc09162a39cfa0f92aa963df42b": "xmount: revision for upstream retag",
+    "d5edac13ea016fbb0239103fcb660231b5a0d3f5": "xmount: update 0.7.6 bottle.",
+    "7847a07fdac7897fc0865ac2ee9ae010aaa91935": "xmount 0.7.6",
+    "1041d50b0f8355fb61ca1dde639c9278c947f717": "xmount: update 0.7.5 bottle.",
+    "fbc9c73ef11b96d6a51addf8841d90c5633e597a": "xmount: fix PKG_CONFIG_PATH (#16251)",
+    "7c535ad453974b0d61f63b3f621920791a3490bf": "xmount: update 0.7.5 bottle.",
+    "48a7a5a078e0778c52e04842ac055b381289c7e8": "xmount 0.7.5",
+    "b4766a7eb2818c27366a34ccddaae89032ff1d0b": "xmount: add 0.7.4 bottle.",
+    "3d6b9c3c607a1b30cfca5da300c919094b4066b5": "xmount: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "0a68e33c8513c7e1b32457608c26c257b7b8f681": "xmount: fix URL",
+    "ce9b5be40de87620c52b2621212b98674e009327": "xmount: use patch DSL",
+    "25229af0f89dbdf237e162db69affd0bde1c6488": "remove useless FUSE-related caveats",
+    "fa802fed621b681d5c0a414e7021ebebc4c8c361": "xmount 0.5.0"
+}

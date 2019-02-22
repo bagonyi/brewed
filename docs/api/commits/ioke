@@ -1,0 +1,14 @@
+{
+    "129b0779903dc06f50f97900ef46d093d2c704ba": "ioke: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b20e93249deebe4a3118783b26bcacb609d12a93": "ioke: ssl/tls urls",
+    "045e004e206cc4dfddd64cd78a0e727285137732": "ioke: test added",
+    "dfdbf1c710789bc8c9e8c822b84aecbf54172897": "ioke: install ispec and dokgen",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "623be191e9d5585c3f6648b9f35459b70c25aa7f": "brew-audit - catch more interpolation style issues",
+    "1b1f19ce1fb62ed8412258a457680b90981d479b": "ioke: install jars in libexec to avoid conflicts",
+    "95d9785ff54d3d55a19a0a1ea711674f956b02b1": "Clean ups to several formulas, including:",
+    "8eb2b65a860af0c8846a7520aea6b5c7e6aaf66a": "New Formula: Ioke"
+}

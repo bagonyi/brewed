@@ -1,0 +1,18 @@
+{
+    "b06ea7e371befc25430876eab4a6d2100b4832b5": "cbmbasic: remove references to pre-Mavericks.",
+    "87c14cab4f7503774facae363ab65ec396e8c6a9": "cbmbasic: update 1.0 bottle.",
+    "a65304d06b84a919bc808455d3764e19fe8b936b": "cbmbasic: update 1.0 bottle.",
+    "58831827aa3a0678b3cc04ad0ad9c56190f07093": "cbmbasic: update 1.0 bottle.",
+    "185ef08196e748178361daefb5ae2fc960378bd5": "cbmbasic: update 1.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "548686c3c4181ad0bfd061e88b5e0baf9c469f0d": "cbmbasic: add 1.0 bottle.",
+    "821820f819b5cc8b0406aaf69c1084ec97cdb02d": "cbmbasic: head added",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f6ef36e386d71cdaf410846feb819682047add08": "cbmbasic: use test assertion",
+    "f594a81d2205e58debf60a93ede6a1526c41a819": "cbmbasic: improve test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "585e67a78a5852c49ae0231ee76740d550d9fd07": "cbmbasic (Commodore BASIC) 1.0"
+}

@@ -1,0 +1,6 @@
+{
+    "f659eaf7212ee2faabb1cbd64c5ac34894dc408d": "node_exporter: update 0.16.0 bottle.",
+    "a501ea67ab62f8a58a6565d720952e4f5fe83854": "node_exporter: add caveats around configuration location (#29439)",
+    "15acf158321330fbfbc15930f340692dec916c9b": "node_exporter: add 0.16.0 bottle.",
+    "7cec41a6408f82ba6ec6df3ed73216b096978dea": "node_exporter 0.16.0 (new formula)"
+}

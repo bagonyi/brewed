@@ -1,0 +1,23 @@
+{
+    "0ceabb910162634d38894fff9abd1a5966dbfaea": "unifdef: update 2.11 bottle.",
+    "ae85ed35be96afc3a26a4597971063307f4448c5": "unifdef: use *_by_macos.",
+    "c6d7af40077a7ea22d266f12e2f94b0c26802a0d": "unifdef: update 2.11 bottle.",
+    "2246e0e33525111beea8a694fa4d5f70eda15af2": "unifdef: secure url(s)",
+    "7fad297a78c45fbf1d099bd72c2af50f0f3bb491": "unifdef: keg_only style tweaks",
+    "2864421bc9c4dadeeb8d6d074af7abe418e0d784": "unifdef: update 2.11 bottle.",
+    "3a3a495b4734601b9a5f2798ee4ffe7432dd2bcd": "unifdef: update 2.11 bottle.",
+    "f952e7975c16a425e5943c2d99be0e15079fb536": "unifdef 2.11",
+    "75c228892c011d0ca93481c872c081f29b2f9c68": "unifdef: add 2.10 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f45e18751d2d2d7d5bc29530ea0025ec61d500e1": "unifdef: quotes",
+    "e4535979a512a9e8eb47c0b5f84d73664d039cba": "unifdef 2.10",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "faf92b8834358e3c34931d42deccba6e831f1653": "unifdef: fix install prefix",
+    "103acc655175a9fd66b2b3bd5b03c3f2d02dbaa3": "unifdef: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "742fe1bde1a6257d6481f6e5a73203152cdaf08e": "Be more explicit about paths in test methods",
+    "6df66cd7e5121e90e829ecd1c56f8fd8512947eb": "New Formula: unifdef (keg-only)",
+    "953c33cbd0bfce7f3ae05e32ee96758be92e5ab4": "added unifdef formula"
+}

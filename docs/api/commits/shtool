@@ -1,0 +1,18 @@
+{
+    "e4a4b9d6bbe4a5b4a4771fada592b046b77b7a2e": "shtool: remove references to pre-Mavericks.",
+    "14618f20cebcf4ddb7a90e53918a98b5a2fa88d1": "shtool: update 2.0.8 bottle.",
+    "9cfb29ee0b61ba628c8e68b8890e3cdf7262bc4b": "shtool: update 2.0.8 bottle.",
+    "1b661b8b52e4a4522b30467639f6638dfd231ff6": "shtool: swap GNU url and mirror.",
+    "57060a4d720dabf9e6d15a670e01fa45ae59bc8e": "shtool: update 2.0.8 bottle.",
+    "f857e4821a286cd6aba380f71fab179524c025ef": "shtool: use secure url",
+    "cd9ee365a086414383a11cfbcac471f24d3a0a29": "shtool: update 2.0.8 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4ba0d6276cf80fc242b99d22ce27635a62331eed": "shtool: add 2.0.8 bottle.",
+    "ec78e5870d61360fd9b377de8333ff330c8364c1": "shtool: modernize and add test",
+    "b314b2eab216c2141f89deaab166065caf8f4108": "shtool: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b0f4ddd04fd477f9f076ed9c1171508617ad340a": "New formula: shtool"
+}

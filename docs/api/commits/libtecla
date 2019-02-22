@@ -1,0 +1,21 @@
+{
+    "fd4a53916d818bd62f3f1ca2b3c07e480c3ce47e": "libtecla: remove references to pre-Mavericks.",
+    "d911f73ef3aee2080c394229171749ecbbfb8c29": "libtecla: update 1.6.3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e9febefc3fbfdfa98942ea09bfe06e50627f5575": "libtecla: update 1.6.3 bottle.",
+    "16565cc36996fd541932734c622d79937746790a": "libtecla: add test (#11844)",
+    "2f374c0d31c85d7b41a5725ed94958d6e110e9ad": "libtecla: use ENV.deparallelize.",
+    "2230c6e9ededdc2578b8c21155f63ceb6ea0aae3": "libtecla: update 1.6.3 bottle.",
+    "75fe4d639fb1358490da095469d3a5024e182d1a": "libtecla: update 1.6.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8035c2074bd2d11ffe79cdd47a9e05a97467c211": "libtecla: update 1.6.3 bottle.",
+    "38c85ce0d211f98e8c7265c6af6c59f36f7f84f1": "libtecla 1.6.3",
+    "c86d7248c2302ce16c555848715635d5a0c4ad00": "libtecla: add 1.6.2 bottle.",
+    "2fb27a5bd0ca8b0f519d20b6c9e57981d2ef2520": "libtecla: 10.8> fixes.",
+    "edfd12b08d680754eb0d3127387884273214cfe0": "libtecla 1.6.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "cb2d7ff91a30ff6473bba75028b83a8857fad6c2": "New formula: `libtecla`."
+}

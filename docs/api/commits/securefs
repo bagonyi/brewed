@@ -1,0 +1,12 @@
+{
+    "84828dc2ac020317f406494fd521d9d8e9a30ffd": "securefs: update 0.8.2 bottle.",
+    "25c45d0ac3f1701e216df69f450bab6b9ac7e000": "securefs: update 0.8.2 bottle.",
+    "a24ec7b8b095d4a48b65fec2d32554be2a5bc1a5": "securefs 0.8.2",
+    "3ed19fbb5dc089f478d91da4096a74860a191732": "securefs: update 0.8.1 bottle.",
+    "6b1938b1de89e98a5b0f0646f202d09bf91383c7": "securefs 0.8.1",
+    "77df20875a7319c3104c6be7512140e769394178": "securefs: update 0.7.3 bottle.",
+    "93d6222e76f8b76a54155c498c4dc34c5e08c81d": "securefs: update 0.7.3 bottle.",
+    "d16be7172bd1ea6b8e40d504af1ddd894a5cbd78": "securefs 0.7.3",
+    "7275fba77914679c8ea18b9825e44342a78bc258": "securefs: add 0.7.2 bottle.",
+    "50ad6f68bb0b859099de2f0bb97f3e25a14b2b4a": "securefs: import from homebrew/fuse."
+}

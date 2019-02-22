@@ -1,0 +1,17 @@
+{
+    "3f989d5de450f0b50c57e75f5e6a599f47e55b07": "cppcms: remove checks for old compilers.",
+    "f803e92ead6af12d54fda7554d29fd030461b70b": "cppcms: fix dependency order",
+    "7ac62465d62eb7436486e7c43679885c42815527": "cppcms: update 1.2.1 bottle.",
+    "469c9074f218f445e5ed9dde392ce4cf1fa37a99": "cppcms: update 1.2.1 bottle.",
+    "2af38ac76611b078fa9e8cb31ee38a66c0ab0a13": "cppcms 1.2.1",
+    "74b92c2eba8742ae85fda994887d306dffff2139": "cppcms: update 1.2.0 bottle.",
+    "5b5ea09e727eff56f2779b47c20d2b4ce2c25587": "cppcms 1.2.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b251f1649fb076b2ae90edb83203804246660560": "cppcms: update 1.0.5 bottle.",
+    "1a49543f76bae9b19920832eeea0c4b2a343c918": "cppcms: fix test on 10.13 (#15287)",
+    "c6d6d2e061bdeb6a09c039fdd4cd6ace1d7d6a66": "cppcms: update 1.0.5 bottle.",
+    "0091b88382b3ee5140ff2488288798d74d2a827b": "cppcms: update 1.0.5 bottle.",
+    "018bc85c4c80e4df4993ea21f5de507ccf636bf9": "cppcms: a few style tweaks.",
+    "67f9dc3c11736f764078a1794ab50e17a215dc75": "cppcms: add 1.0.5 bottle.",
+    "04a773ec0a293afeae86695a44bc59042abdc282": "cppcms 1.0.5"
+}

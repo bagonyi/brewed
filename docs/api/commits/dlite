@@ -1,0 +1,17 @@
+{
+    "4815bc20ec5c631793580fe81ed458ca14c63cd6": "dlite: fix dependency order",
+    "3b69d555cf3f190222d00a53a688be3deb0d6387": "dlite: update 1.1.5 bottle.",
+    "3b98479e0c1c978fe66f3d726cd34dfad00c4596": "dlite: install metafiles",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "36d7ca54f948d0f19a8776de15ba35b52853eae1": "dlite: update 1.1.5 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "fce5ec76971b4021ac3b9b3fa1a6a520eca9cf32": "dlite: update 1.1.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "d8ad02ef5b30f3dd572eb86748d0af0af8f78fe6": "dlite: update 1.1.5 bottle.",
+    "2b18f0ada69372ca9ad93fbaeb53d80cd2345264": "dlite 1.1.5",
+    "4f8c10267f5c6acfb1c5a61984906d8967559e92": "dlite: add head url",
+    "73ee022c5138ce6a6eab41dab9084e8c282d5ca7": "dlite: add 1.1.4 bottle.",
+    "22be0c9ae009f8810031d2d07a77bce6b7878e2d": "dlite 1.1.4",
+    "99cef2ceac1df285b1d35828ae4b95fd54b0ab26": "dlite 1.1.3 (new formula)"
+}

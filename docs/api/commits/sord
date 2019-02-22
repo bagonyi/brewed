@@ -1,0 +1,21 @@
+{
+    "ffd596fff4d2baf91c75e2b4fb636135ce6c93ff": "sord: update 0.16.2 bottle.",
+    "bc104e10916752989e339a2cd8b8e46aa80a6e43": "sord: update 0.16.2 bottle.",
+    "9b0a725797100f47fd67cb0e14f357ebdc90cff7": "sord 0.16.2",
+    "09bd3ce08c1997827f372674846a890934b7045b": "sord: update 0.16.0 bottle.",
+    "c70a7d72cdaef7e2da0a64b5a21cf89678e32ce9": "sord: update 0.16.0 bottle.",
+    "3e8f41468fdb46126e2e28c443b49da1881e0bcc": "sord 0.16.0",
+    "4bf4babeb7d6e562b04328e4716c5beaf720c8fe": "sord: update 0.14.0 bottle.",
+    "59355bd52e01683c702870a9a8091e4d4b96c55f": "sord: update 0.14.0 bottle.",
+    "d54fb1c4780363a88554fd806941201c5b83e317": "sord: use secure urls",
+    "f872e597f4e63ac2caa4c9bed4a6cb8abd6d55ad": "sord: update 0.14.0 bottle.",
+    "3844ed5440745d284c1bb934090bf6e1ec3557bf": "sord 0.14.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3cbd5a89ed72d6bed3f08c08128beb7899cb2984": "sord: update 0.12.2 bottle.",
+    "484bfe0b259d283317dd9a6f88b2b15e5b501527": "sord 0.12.2",
+    "7dda82bcdb0b25248991f3ad08948f07d8075a6e": "sord: add 0.12.0 bottle.",
+    "90319a877eeb3cad18e2f2bae1edd56678c56090": "sord: depends_on pcre",
+    "e6e415e7825791bb5c8040a9e901343e9e814b55": "sord 0.12.0",
+    "1c581c241ba907270c5bb275525d4a9d8701c9f5": "sord 0.10.4"
+}

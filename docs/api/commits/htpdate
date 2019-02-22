@@ -1,0 +1,14 @@
+{
+    "7197a63d4cc15d69444d8381597586237d94e843": "htpdate: update 0.9.1 bottle.",
+    "f35fb6e560cad99087cc945c49d1e04a7f8a4632": "htpdate: update 0.9.1 bottle.",
+    "6d80a33c263178093fb8f8f0a60b9a006a7486f7": "htpdate: use new homepage (#8950)",
+    "550cc6328b97e3441d8d816029fbf5279f6f801a": "htpdate: update 0.9.1 bottle.",
+    "9625626a4f0a86334e019e7a67d31f5508256656": "htpdate: add 0.9.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "0c9b25f0a6d953a9e62550592650ac857bc79ff5": "htpdate: new location",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "d1208237d82884b6c008a36f19cffd4f3bb2df8d": "New formula: htpdate 0.9.1"
+}

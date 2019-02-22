@@ -1,0 +1,22 @@
+{
+    "c474d0c5121b51fb4fae674c49b1954bbdf0d038": "gnu-chess: update 6.2.5_1 bottle.",
+    "92e0a8f285c152cb97688839c4faba57f43770cf": "gnu-chess: revision for readline",
+    "ec12854119ced69924dd47e59971d14829ed72db": "gnu-chess: update 6.2.5 bottle.",
+    "e12ebc431324abd703182427bf062d10dddd5838": "gnu-chess: remove options",
+    "c3d739568f0fb85d32b7fc76c80c53e932d53b3e": "gnu-chess: update 6.2.5 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "587b24dd2c2831beef5b29d490d601bf6e07532a": "gnu-chess: update 6.2.5 bottle.",
+    "ca4bbae0b5871fc741b9d96ce5c3f1d9027d34a0": "gnu-chess: update 6.2.5 bottle.",
+    "5f9aa7b72eaa7875e760dac6ef67a513ee25a954": "gnu-chess 6.2.5",
+    "a99868033fdcc05dcae118ebcfee31ceac5e402e": "gnu-chess: swap GNU url and mirror.",
+    "540c6de26bdeedfcabd06b092c90b0cd30bd5b3b": "gnu-chess: use secure head url",
+    "cd1c2a41aef9512b1a87578e87acb7a1c3f4afad": "gnu-chess: update 6.2.4 bottle.",
+    "e31e15c899281ac2d8f9430157e7487a529532fb": "gnu-chess: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "7d76bfc7b0435a6b2b455e2f6e89464eecc8972c": "gnu-chess 6.0.1",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "6963074873db515c447f245e76d2e011106dd849": "Added gnu-chess formula"
+}

@@ -1,0 +1,9 @@
+{
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7d5ea03780d4977584f0f0dccabcbe741d4ad672": "sdedit: fix audit about sourceforge link",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dd59cdfa31574aa39f5f2b2464e70953daddc9f9": "sdedit: bottle unneeded",
+    "3697efc3c4777427718e0e92c19a8298280bb27c": "sdedit 4.01 (new formula)"
+}

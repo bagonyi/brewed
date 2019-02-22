@@ -1,0 +1,16 @@
+{
+    "ffea58f6386ad750532f0803d0791e763a9944d1": "dsh: update 0.25.10 bottle.",
+    "d8afe4ef34f5dfef398cac614a354a42d05629fc": "dsh: update 0.25.10 bottle.",
+    "a1bd2611083242709c5f097f26b96d6b24c63cc1": "dsh: update 0.25.10 bottle.",
+    "ac46241f105a233e0f9c9c912acb65d851e67f9c": "dsh 0.25.10",
+    "82817b79d80a02fc40501c44a5b43a2640e332d6": "dsh: update 0.25.9 bottle.",
+    "5de4760326f619e6e0809cec59a313f18da8ca72": "dsh: add 0.25.9 bottle.",
+    "eac1f97382755021589129cde098211740df4939": "dsh: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d0cf0ab91998fb6851613848bd76f915dbb85be0": "dsh: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b17b6b62e5eb9ae573b20b1801536e1a043c21c3": "New formula for dsh",
+    "a16c10e3b87b78957def152ea16a11945b094deb": "New formula for libdshconfig"
+}

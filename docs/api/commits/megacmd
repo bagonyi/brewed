@@ -1,0 +1,23 @@
+{
+    "653978ffa742f93ef7dea562b1c0219bf9d0e517": "megacmd: update 0.015 bottle.",
+    "858c56de33baaae737b46850a06695d1af8a2203": "megacmd 0.015",
+    "2bea0994b239ce2fb2c36a6663f312f3197ccfa6": "megacmd: update 0.014 bottle.",
+    "3a48175a88ca10b617fea99dcb42ee778f029f4b": "megacmd: update 0.014 bottle.",
+    "8395521389d3b1b304211d6eff0536b1c79da06b": "megacmd 0.014",
+    "7ea36d36a43aef0ea88a5760bca269028e296389": "megacmd: update 0.013 bottle.",
+    "d5958b532720ddbecc1bb889249ac1f0d3c870ef": "megacmd: switch to upstream vendoring",
+    "7a4f5f932dfe459a1d64cf532d4e3ead86a2843c": "megacmd: update 0.013 bottle.",
+    "660c5814025eaebfa34d66edaad4545e3643aec9": "megacmd 0.013",
+    "1a968b1da42d7121dfd7e7660920581b728bfbfe": "megacmd: update 0.012_1 bottle.",
+    "0d2b8f2df82ea83221c74fc2492d6f92e1a7b50e": "megacmd: update 0.012_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "4a12500aded9350fb058eb1ce68b35a7b7e6c0e5": "megacmd: update go_resource indentation style",
+    "e2f37c380f54e3daa93a182f81851567e3f77258": "megacmd: update 0.012_1 bottle.",
+    "d6dc42e333c3f47f932cd22a5ed1d1ab8d26ff9c": "megacmd: revision for go",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fde6c61b696ac2475d30def1282866ba1c22d836": "megacmd: add 0.012 bottle.",
+    "6e7578a89f6fdf228ab387c89f89a3e87cc8c7d1": "megacmd 0.012"
+}

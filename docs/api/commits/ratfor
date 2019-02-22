@@ -1,0 +1,14 @@
+{
+    "c7a0208800ae1adef3f6c87707e87ba5dc099914": "ratfor: update 1.03_2 bottle.",
+    "79a4e2f14c0061427f54d98a8725379f49735d29": "ratfor: update 1.03_2 bottle.",
+    "d85817ba622e83a616ad38a87de80c4d7f41e90e": "ratfor: revision for gcc",
+    "ef750504ac6f6ad3c7d4cd3371fb8f6f399790c3": "ratfor: update 1.03_1 bottle.",
+    "dfcb06a62ca4eaa41b104d8f3ae07246dd947703": "ratfor: phase out :fortran",
+    "44140892c614be8372c2b8f7bbfd602c832f461a": "ratfor: update 1.03 bottle.",
+    "921ce5cdddea21c05f119eeadc5c19615c9505e5": "ratfor 1.03",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "165650a79491db1e696c3c69d86179e46a2d6c5f": "ratfor: update 1.02 bottle.",
+    "468aeeb8f75c9bd4429039042ddf186488fd33e8": "ratfor: update 1.02 bottle.",
+    "00e1a49a9e693b56dd551921e1be9aa35fb848cd": "ratfor: add 1.02 bottle.",
+    "d0c9f1ba394a9b368e3afe09a337c7a244f50c75": "ratfor 1.02 (new formula)"
+}

@@ -1,0 +1,23 @@
+{
+    "b4af44c9571cb3597aef3d3a7abf3f72b27e2a97": "git-octopus: update 1.4 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2a7d6d5873dd5f84c155e5dda007cd45e5fff616": "git-octopus: update 1.4 bottle.",
+    "959df8388517bb8c9074e1ebcb996fbfde3debdd": "git-octopus: update 1.4 bottle.",
+    "f8aaa78fa8ee3541213bfa45db184e8663ef44a7": "git-octopus 1.4",
+    "c52c8fe868490b6b56b92baf526a054d2c8f88c2": "git-octopus: update 1.3 bottle.",
+    "c9116af49a7bb7de3a4252f244c942d7c633947d": "git-octopus: update 1.3 bottle.",
+    "f4970c893c3ca7df1247625c5cb8cefe52f38555": "git-octopus 1.3",
+    "881e38084487c857a7e446fd9d08610ef082b9e5": "git-octopus: update 1.2.1 bottle.",
+    "4b543e50ab143886c9cc766da5ee2dcd13707038": "git-octopus 1.2.1",
+    "87a9e75ee5379a00ad3ea09544d8fa2933356c57": "git-octopus: update 1.2 bottle.",
+    "551b28f4c9dde297639078ba7d5616df62567505": "git-octopus 1.2",
+    "7a7cdff0d4fc332e35d1cfe25d89cf42338ee9a3": "git-octopus: update 1.1.1 bottle.",
+    "91bb568fec7b7bd80da8d300bebb22cb1fff326e": "git-octopus 1.1.1",
+    "e66e43d578e0b29c3493211bb0761ff019356840": "git-octopus: update 1.1 bottle.",
+    "40154a22c0fab99662380d2494a447f02463a7b1": "git-octopus 1.1",
+    "3474e2452f2a509b3c7352cfa466d00e3a42ebc1": "git-octopus: add 1.0 bottle.",
+    "80bc9cf8cb737e35f53343e25c4211faa05a08a4": "git-octopus: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "762a2ad3aca1e70045eedc5737279a547d4c3875": "git-octopus 1.0 (new formula)"
+}

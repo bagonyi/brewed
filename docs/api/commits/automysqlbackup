@@ -1,0 +1,14 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "486013cc588031b627e132e95fd00579eb09cb31": "automysqlbackup: add plist_options and test (#7901)",
+    "81a388329079f64936f374ef0732fd25dcf6ee3a": "Fix 'inreplace ... do' single-substitution errors (#4022)",
+    "99b6cf137473a06f5d6d3ba34f37a14dff01411b": "automysqlbackup: use secure homepage",
+    "581f7318d314ad405dd0ce5784fec8eac24223eb": "automysqlbackup: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e3878b53c24c052e6bb3b8a26a41276bfc7dee30": "add minute ket to automysqlbackup plist",
+    "fb175de87dc1b388355d7af1381bc0c237c6c740": "Remove unnecessary/unused UserName plist keys.",
+    "f785a2c3ed58e9faf8e8e01eb7c985c868275606": "automysqlbackup 3.0-rc6"
+}

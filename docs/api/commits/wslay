@@ -1,0 +1,17 @@
+{
+    "1e8ecd2b3b3e575f7d5d8392884058aec03044d6": "wslay: fix dependency order",
+    "ded0399f1b6b250f73286b24dbd7561821a03591": "wslay: remove options",
+    "c2ba9515785e3f26ad9fb8d2c998f4e8b987e014": "wslay: update 1.1.0 bottle.",
+    "81a7e6b47f428c36c7e8cf9787a60921ef499358": "wslay: update 1.1.0 bottle.",
+    "1ef44d2b9d0b906fcdf66002fa83acbf0c2e36f7": "wslay 1.1.0",
+    "2054cd1a989942d43053bbfaf50caf9d0d38bc83": "wslay: update 1.0.0 bottle.",
+    "4173a3de2d394a60ac0cade1c0e1011446d5ca42": "wslay: fix audit",
+    "5f9bec8d32bd5da5ba0099e31d483c88946d8a04": "wslay: update 1.0.0 bottle.",
+    "06ecec7b7a6e1ee4fb50b096d5e6ab5acf5b9cf2": "wslay: update 1.0.0 bottle.",
+    "76976156122ac69001db48957c361c7732754b87": "wslay: use sphinx-doc",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a693655039fc72da50ab784466f82d64bd1a8403": "wslay: minor build fixes",
+    "4bc8d82a3fb9e45ce76b00dd4b70ab43a3da7f39": "wslay: add 1.0.0 bottle.",
+    "31682e2ae3cf637063e6267a937db1e598f1603e": "wslay 1.0.0 (new formula)"
+}

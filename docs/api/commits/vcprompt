@@ -1,0 +1,22 @@
+{
+    "30a3411f206e194de8b00e360190db9c6541ebda": "vcprompt: update 1.2.1 bottle.",
+    "21668784b41787ced764ec339d6eb633025caf28": "vcprompt: update 1.2.1 bottle.",
+    "77d7cdd27472bd7ace4d1f829e66e6edd247f4b1": "vcprompt: update 1.2.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "05479c28e3d5abcc428324672350b436c760b09c": "vcprompt: update 1.2.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7e0ae2acae8d0f7c8e3ed472bada45d6e1ed168f": "Prefer :using over made-up URL schemes",
+    "572944010a0c264c6a1968c082810e1adf3f336d": "vcprompt: modernize autotools deps",
+    "b20550f157492a644db19d78e2f213fc3d93f39d": "vcprompt: add 1.2.1 bottle.",
+    "575c30bc457b63ac9975ab7163741379622be52a": "vcprompt 1.2.1",
+    "dd2a9a508814305abfbf61d7e00c445fe7fa7792": "vcprompt 1.2",
+    "438eb115a21eb03e6dbc3bc1ecaea66594471814": "vcprompt 1.1",
+    "15abacf949a94756e06f0fd86a03161e3c25d5ba": "vcprompt 1.0",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "84f4088f9c9605c4c1de07e9e6bc4efc99d71429": "vcprompt: use upstream hg repo instead of git mirror",
+    "8b5b16d5a870e2876abcf37979ff26ff2f54e5b1": "adding vcprompt formula"
+}

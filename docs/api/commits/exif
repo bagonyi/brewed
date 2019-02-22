@@ -1,0 +1,22 @@
+{
+    "295bb2dde29965c5c9455c55b0b58fe6bbdefae7": "exif: remove references to pre-Mavericks.",
+    "3aecd3ff189198e76e299b04194c5c1c38e67920": "exif: remove options",
+    "966fadb55fc79b6d549bbbd9872d6196eb4728d7": "exif: fix dependency order",
+    "3fbf77aa146e933ab411f3b47d53d277e77a0074": "exif: update 0.6.21 bottle.",
+    "051d0e267910f426a89120b18241249ee6a77077": "exif: update 0.6.21 bottle.",
+    "2a24acf82a59bbe3b80a769a06aeb1a8f9bd00a9": "exif: fix audit --warning",
+    "52ada77064bbc8ebba7404d01e27db4a2ebead54": "exif: add test",
+    "10c44d69671505896c32aa771ee51e96ffe477be": "exif: update 0.6.21 bottle.",
+    "c2676549c5900607b52fa16968ca3f0d34624c0b": "exif: update 0.6.21 bottle.",
+    "c164bb27fdbb4030ee56eb89691cb36e1eedc276": "exif: add 0.6.21 bottle.",
+    "2da3ed17e0fa092aee5bade9bab75b9e87fd7b33": "exif: make gettext optional",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "dd063ea22b5339052e72bdd1aaa515b221b0f82c": "exif 0.6.21",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "8a561b6409dea99c3606ddc5fcc49116b6830250": "Add missing dependency 'pkg-config' for exif.rb",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "453ee0394e9f8132ad4ef8b22e6638864b1ddb1d": "Exif formula"
+}

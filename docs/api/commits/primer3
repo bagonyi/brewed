@@ -1,0 +1,10 @@
+{
+    "9218976cc30d3402c0e4d82caeac21b1c14aff68": "primer3: update 2.4.0 bottle.",
+    "3c42b32a3afa5fe78c1c095bc5ac0d36b5d16e6f": "primer3: update 2.4.0 bottle.",
+    "fd7fe03a7bbaa51cfed26da542e7cb36ff2532b9": "primer3: migrate from homebrew/core",
+    "f7e96b7a2666a0b2d7d2ef3e5ede2f88c5152931": "Remove formulae moved to Homebrew-science",
+    "7400304be63abb5d777ac3137db8c7f911751e25": "primer3 2.3.4",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4e01a624f1c421fd39ac78293c35201cb78db5f6": "Adding formula for Primer3, a bioinformatics tool."
+}

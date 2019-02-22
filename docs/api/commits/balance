@@ -1,0 +1,17 @@
+{
+    "5147235feaadd3a0147ad2009153477db0bcbf02": "balance: remove references to pre-Mavericks.",
+    "a3dcca278340a0bad352cf09e9724a21f60cdc3d": "balance: update 3.57 bottle.",
+    "a3c840e75be7f631ae8e85654cc032f31578d129": "balance: update homepage/URL",
+    "e6d0187586c3721257782d50828024358e47a8df": "balance: add a test (#25793)",
+    "979aee3d12ad6b344c4a70db1d21cbbd9ac141f2": "balance: update 3.57 bottle.",
+    "14312cdad61d161ce3e387f3de44909075a2ac90": "balance: update 3.57 bottle.",
+    "9120bdcfc244016a516c30a5843eaec764529d11": "balance: update 3.57 bottle.",
+    "1cda217ef064659fa4b769470b17052b4c77df32": "balance: add 3.57 bottle.",
+    "e90938c5b09239d686cbd9636254fa95b38397bc": "balance 3.57",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "351d437317c39032dedc8d286e5e4ee732cc948c": "balance 3.56",
+    "3da4656cdff7ee018386e46374720a4770137055": "balance: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "177c1b79d7665822a95b1a39d7ca73c404bebef3": "balance 3.54"
+}

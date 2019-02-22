@@ -1,0 +1,20 @@
+{
+    "52af92b30786aaa0a3e2fa0b3e60e41d75191591": "yacas: secure url(s)",
+    "a56d48d79d5a9af9b28b4c91f46c50fff7b35271": "yacas: update 1.6.1 bottle.",
+    "2715061e8d0a2a089e9d2490030c58fc89ae9e52": "yacas: update 1.6.1 bottle.",
+    "75b70140f9ba353054f827c36eb6963568ca3900": "yacas 1.6.1",
+    "b17f585176a572db1458a77a47889f9fe7e31982": "yacas: update 1.3.4 bottle.",
+    "892f532dfe7dddbfaa336d3e2ca8843c880293f6": "yacas: bottle revision to rebuild.",
+    "a42c60cf843d054adae1d36fee057cc43d7a0807": "yacas: update test.",
+    "8f3c668b8379acfff064b8ecbb4724f3a4d2f2c2": "yacas: Format install args array (#3616)",
+    "e8a55c6cf73d38cad497be25ed56a560b9262518": "yacas: update 1.3.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "734e5cb2d5b0afb3f59b55f0a92361708513690f": "yacas: add 1.3.4 bottle.",
+    "7ab597f835469843af639dbc4f0944ec65dcfd6c": "yacas: temporarily remove bottles.",
+    "ff89cc70ad2d4f1ba34eab5188696a827630af69": "yacas: add 1.3.4 bottle.",
+    "93e92e4008680c3de23abd8829f102df00f9674f": "yacas: fix 404.",
+    "618df09967b0f037eec4d75d3f2659792dc62fa8": "yacas 1.3.4",
+    "96385c493a6d5c8c674cf011cd1de7ffe5cdc31c": "yacas 1.3.3"
+}

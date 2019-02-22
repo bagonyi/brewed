@@ -1,0 +1,16 @@
+{
+    "7cfba1c1c8092a4bd1e414d3f948ce9f046b2271": "xmltoman: update 0.4 bottle.",
+    "9c3cfb6136ea967063750aafeafce6201ee0a4c2": "xmltoman: update 0.4 bottle.",
+    "7553e480ff7f6da7d21beac182517a8f4f81d2b2": "xmltoman: update 0.4 bottle.",
+    "6468ddf41cfca7e61aaddb9b4e3e0dc9c181401c": "xmltoman: use pkgshare",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "b5e007311fa7f28601019d2214b0d3cd8ea83519": "xmltoman: add 0.4 bottle.",
+    "3d924662bd41549a06cd3516b64c5aa4a9e4fa45": "xmltoman: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "561d1fe738c804fd640cde3d3c5bfc9f8a9642a1": "xmltoman: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d24e34304233d080ee311738ec69e8e2b9ad9a41": "Installation Formula for the xmltoman scripts."
+}

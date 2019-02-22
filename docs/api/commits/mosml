@@ -1,0 +1,13 @@
+{
+    "8a1709713c02d5b2b50493243266d584213118c7": "mosml: remove references to pre-Mavericks.",
+    "48825ec5fd8dd56173d9e652af19e936fe8dc229": "mosml: update 2.10.1 bottle.",
+    "99998c6c41f883513e42d10737add28eabc42607": "mosml: update 2.10.1 bottle.",
+    "32844d4291e7e01282e549d08d9772b34b285cef": "mosml: update 2.10.1 bottle.",
+    "ae30501568d506963c5ce6ab54adea757dce451a": "mosml: add 2.10.1 bottle.",
+    "8527fb68a910479ec1fd8098462435a1128e659c": "mosml 2.10.1 (new formula)",
+    "0d1e047a6711c1126b3066c721dad81cdef0b523": "Remove mosml.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7dfdc98b6ef49f14f81e3f47cbedd6e450cba2d2": "Half-fix MOSML",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "131c5a1024da1b90a31724338d199ba825993052": "New Formula: mosml"
+}

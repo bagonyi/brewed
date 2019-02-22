@@ -1,0 +1,20 @@
+{
+    "dcf01068d84a3fdd52e506ad5c91bff1a3bc0c48": "testssl: fix RuboCop Layout/AlignHash.",
+    "1b25ed36cb841b27c7d9307d90ce89d4e3e0f3c2": "testssl 2.9.5-7",
+    "38761862b16c471f63de0678109b91f72f835f6d": "testssl: fix HEAD branch (#26913)",
+    "67f6f33bbace20e447500efb903078f1692eb65e": "testssl 2.9.5-5 (#26601)",
+    "cd7f966b1ee2aab49b7a24e9aa5974931e88d853": "testssl 2.9.5-4 (#26344)",
+    "1041093e6fca5b4ed1949e920b1c6ad185c81d80": "testssl 2.9.5-3 (#25730)",
+    "f51bb2c639fb49db5aa90ab3bc1553102bfb37be": "testssl 2.9.5-2 (#24485)",
+    "04ceea7fccc02e6a3ea4ac25de6f052c2a3b2e0f": "testssl: install etc files and set correct path to openssl (#18662)",
+    "ade7669d561fbdd85f89a582b4a0b9d64b059aac": "testssl 2.9.5-1 (#18364)",
+    "f8ef764133ed2c1659dc519ca75b7b0fc6e5ebea": "testssl 2.9.5 (#18321)",
+    "adf31bc0f5339d5e748592761976c4f7abae22f0": "testssl: upstream updated release (#13492)",
+    "45a2180dfb96e1376e6bd1b00217439b4c4a7e6e": "testssl 2.8 (#12312)",
+    "ad3a1c17551d7e20da33a30ebedf6e47eb407bcb": "testssl 2.8rc3",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c96c44f4a988544a369827157e71a7db0495eb67": "testssl: add HEAD option and pass strict audit",
+    "a27325e34cfbdfcca52f61e01d27fa689cfd62e6": "testssl: bottle unneeded.",
+    "39dcf38ec45b966d1c99d6d3d4037e194b45ce31": "testssl 2.6 (new formula)"
+}

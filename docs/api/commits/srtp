@@ -1,0 +1,23 @@
+{
+    "841d6d95759f3d904431f92013c5065255954212": "srtp: remove options",
+    "33c38374aef79720e0f684b18b8b6e3696136a99": "srtp: update 2.2.0 bottle.",
+    "4fe2b10d4a596206767cd569696456f9278cef7f": "srtp: update 2.2.0 bottle.",
+    "0c5dbfa97b564d3c22afe247d3e4c77e58746a4f": "srtp 2.2.0",
+    "471177db2a8f7540c47fc8dc7e23b418c4ff7aa0": "srtp: update 2.1.0 bottle.",
+    "026bdfbc74f32572d2fbd590f51cffbbf08a43dd": "srtp: update 2.1.0 bottle.",
+    "7180be3e2902aa4a4c4596b742268499a9168ab0": "srtp 2.1.0",
+    "c670861331f60bdc922efafba2c579434d80da33": "srtp: update 2.0.0 bottle.",
+    "0f8b7a970110c0777e775b423c68ea1af4640f44": "srtp: update 2.0.0 bottle.",
+    "c8c5d8ba43b32ab3e584b23c4c29db3cc2edab84": "srtp 2.0.0",
+    "e3d6d868156ccc9d7592db3206d165712710d8da": "srtp: update 1.5.2 bottle.",
+    "cf9266f2ed5e9e9b62d02f6bc714f3862731f748": "srtp: update 1.5.2 bottle.",
+    "ae468cb0a9107ea394e9d0c09153f295ac549e2a": "srtp: depend on pkg-config",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6f03a576d6a508864350a9cd7a981cb583e11c1d": "srtp: update 1.5.2 bottle.",
+    "b3b69730cc4b01834c7e81b17083228d4a6d8a2d": "srtp 1.5.2",
+    "2895697251ca4c925bc83f8ac077f6a519c0dd90": "srtp: add 1.5 bottle.",
+    "224a56dfb29b0b50ded7d1380204cacd1c549627": "srtp 1.5.0",
+    "eb5587ee77ee75917ffcd0c8277f69fd7b85ad81": "srtp: use checksummed patches",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "bb1851b8b4e77fd27bfa0cec5116b7549e07e4b7": "srtp 1.4.4"
+}

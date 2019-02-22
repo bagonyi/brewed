@@ -1,0 +1,18 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "2092e4a60d38ddf9b179fde88fe4d4b04c3e8e35": "griffon: add test",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "96af2a7c08b6221f93101a40dbaf99d3c6bf47a7": "griffon: fix homepage",
+    "082b1f9c9144b395e876d142b04a6e0d18297003": "griffon: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c73da329ef7c9be6804e5fd29bee33a1eba49a17": "Griffon 1.5.0",
+    "c0c60ab168ea9045996a6097837b6786e6c2c974": "Griffon 1.4.0",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "103ffab9734eaf71de00fa3927f0e07f7c902b81": "Griffon 1.1.0",
+    "3359d66f1063275067d13975075f6a0b3090ffd1": "Griffon 1.0.2",
+    "8ac415b47fa283289e731fcfa542a5d173d8e8a1": "Griffon 1.0.0",
+    "dc755a77fc896dad59f6fb3fb611ff62bef3930a": "griffon: Update to 0.9.5",
+    "0e93da3414e882514381f74bda599f867eb7f026": "Griffon 0.9.4"
+}

@@ -1,0 +1,8 @@
+{
+    "fb5b15a7505f717779509cecd3ea295d06e4d31d": "python-yq: update 2.7.2 bottle.",
+    "6544c4e735a59db8a906376ed94c91ce38430c92": "python-yq 2.7.2",
+    "7d850befb17af2ba3e5049e80a3c295fe9379841": "python-yq: fix RuboCop Layout/AlignHash.",
+    "fe91d965cd8fe7c06afcb2860b564a49fabb2a89": "python-yq: update 2.6.0 bottle.",
+    "ef8b847d840aba6231d62e24ca95054e353122ce": "python-yq: add 2.6.0 bottle.",
+    "ebdac91cfb1a8f1cfe838d1197352ea98a4e2fa2": "python-yq 2.6.0 (new formula)"
+}

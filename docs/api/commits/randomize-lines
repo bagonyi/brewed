@@ -1,0 +1,12 @@
+{
+    "b7af871ddd6c6fa9f41992da0e809cbf565deb49": "randomize-lines: update 0.2.7 bottle.",
+    "1de3e331046c8045f94108ebe8e102c7f706a21e": "randomize-lines: update 0.2.7 bottle.",
+    "83acc1019f10634dc30426eea3ce1c811f018a02": "randomize-lines: fix audit",
+    "23c52802ab72e7ca6b839b0223f6a06831ab9b70": "randomize-lines: update 0.2.7 bottle.",
+    "a4ab7a766ded55ca8ca7e993fd174df9064c4ae0": "randomize-lines: add 0.2.7 bottle.",
+    "83880a1c3f0f5a9027096b9d63ad9d26bf893e7a": "randomize-lines: use secure urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f845f885cf9a0060dbf0bcd28030eedd86ec7d4a": "randomize-lines: quote bin path",
+    "11c117693b9a390b7ccf74d6e050a9c23dcd40af": "randomize-lines 0.2.7"
+}

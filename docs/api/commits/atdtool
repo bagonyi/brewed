@@ -1,0 +1,17 @@
+{
+    "38fd417e43141059accf605ba7632f6b8d98d085": "atdtool: update 1.3.3_1 bottle.",
+    "9cf7a9fe3becf00735bb069a063abbe1d51ad045": "atdtool: move to Python 3",
+    "dd28c04a235e1fd7b995ca3fd7465cf019a8100a": "atdtool: update 1.3.3 bottle.",
+    "eb338514e18be25eab8643fbb98ebbc193b3cd11": "atdtool: update 1.3.3 bottle.",
+    "5389029657a5b7b28c94bbe5fe73ea0887daadef": "atdtool 1.3.3",
+    "d07d303085cbe4d7412cee08852659725cdadf5d": "atdtool: update 1.3.1 bottle.",
+    "ed477d7eeaf7973131d3e8ffa4ba12d7b8235c40": "atdtool 1.3.1",
+    "a1eec5017ac865f65a14186326136adcf36f45d9": "atdtool: update 1.3 bottle.",
+    "4bae82cb744578f2c616af8d3e720dd876d353ef": "atdtool: update 1.3 bottle.",
+    "d2558c50f9b189caf7374f3bd35e2c193239ad4d": "atdtool: add 1.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "efb3577dc0c81e5c1b41bada82f84849a5d41b6d": "atdtool: don't depend on :python.",
+    "7f000e41f8625af1e6fe7acda904c41ac0e87e60": "formulae: don't use GitHub zip files.",
+    "44a897d00dbb9944cedd9a75a595e04c80a70ff5": "atdtool 1.3 (new formula)"
+}

@@ -1,0 +1,22 @@
+{
+    "2ecee998c2b5a7d6080134f61cbbef235a612de4": "jed: update 0.99-19 bottle.",
+    "5cde26367cf16c3706b6e470cc9ff0f95000c2a9": "jed: remove options",
+    "5962d3d87e2bd6abf4388f7dfce1453f5352b71d": "jed: fix dependency order",
+    "0f8db6f1b4e71c1dd3cdf6639ddd2e77d50d21bb": "jed: update 0.99-19 bottle.",
+    "73c9da8dc5952043420e79a52cba9819a125c5e4": "jed: secure url(s)",
+    "6cf1f9e3d662287ab1dea6ee13ec69867794ab82": "jed: update 0.99-19 bottle.",
+    "1f5d0a3eb8eb8a50fc8f915761235d7cfcbc8685": "jed: update 0.99-19 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fd654180a4630dc551779a31f60f0456bdc882a3": "jed: fix audit warning",
+    "462e0e02e723168c4369668e210cfe324698cf57": "jed: update 0.99-19 bottle.",
+    "6e02c4acb7edf0e410c2dd1f20eacaf35fafe783": "jed: update options to configure script",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "581c77619ddd5dc7beba5f3a61c881e195a3f186": "jed: add 0.99-19 bottle.",
+    "932be39890760fb175fa0a1475e65e6c284f9299": "jed: add HEAD, mirror, test",
+    "a31a127a07ac023fbc96d63d276ead1555075afa": "jed: add optional X11 support (xjed)",
+    "3ddf7bd92e1db3be86c94d4741a98359748dbd78": "jed: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "eb204999b2b32b23fde1d0567e4dad27b7da2ce7": "Add a formula for the Jed editor."
+}

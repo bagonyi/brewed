@@ -1,0 +1,13 @@
+{
+    "2a3dcdb76724a827abe0ecfab7a8a3abc4c92634": "poster: update 1.0.0 bottle.",
+    "37478bf35c05a384d35ac7e9df8ae7c3af313e38": "poster: update 1.0.0 bottle.",
+    "bbb0ae17cfd2b7f8adf227418e1c7f1a8235c682": "poster: update 1.0.0 bottle.",
+    "52db9733204d3f75a3a19013c4b53fb660be91d8": "poster: add 1.0.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "78d507806ff0333191ad2902169e765f646e232f": "poster: test added",
+    "be2eaa3dea80f5c2aeabff1c2b037487696d1f42": "Update github URLs",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9de4e091f3da62cf0a77a34570ceecc9e9feb532": "Poster: style tweaks",
+    "08762e32dfd5706b1ac4aa1ead240505730122f8": "Added formula for poster"
+}

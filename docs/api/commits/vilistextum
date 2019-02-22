@@ -1,0 +1,21 @@
+{
+    "72ab1e0ec9f6d2b574164b5cb6d2d328af505029": "vilistextum: remove references to pre-Mavericks.",
+    "fab8d3c1cfc515906555d9f64fe90648b32a5960": "vilistextum: update 2.6.9 bottle.",
+    "7321fdc1dfd2c5b3a45ff756147c46b6565145ba": "vilistextum: secure url(s)",
+    "93a8200c17986038585a140cce4a9bc93e4a3f86": "vilistextum: update 2.6.9 bottle.",
+    "36fd3455e7b6b74d3e82a1a4f93d12d10c68bb49": "vilistextum: update 2.6.9 bottle.",
+    "8236a8db217107342839a7940ad28645de948c29": "vilistextum: downgrade to http (#5287)",
+    "47d33683fdcc927f0fba5285d2e73cfc840dd843": "vilistextum: use secure urls",
+    "d00b42e70fb053ae9307007579ade4f771822d25": "vilistextum: update 2.6.9 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cce487f8ce7ccfba3c75285ead441a686b3ab9d4": "vilistextum: add 2.6.9 bottle.",
+    "0d3000e787f3545099cb7959ac2979e5c597add8": "vilistextum: update url, homepage",
+    "cd0282d1d2495a88aa0b174ac0f08ef7c34c0daf": "vilistextum: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "9bf40ff6338f7b38e696fcf96e6f109ff4d51bb9": "Vilistextum formula"
+}

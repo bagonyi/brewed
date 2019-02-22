@@ -1,0 +1,16 @@
+{
+    "c17d28079676ec1469e3d83952661622447364dd": "readosm: update 1.1.0 bottle.",
+    "6a865bc5240bb24acf0d9147e6d9d1876034a3f1": "readosm: update 1.1.0 bottle.",
+    "2fbb562ff65e28bc0ef4de2b3d48a315db7156ad": "readosm 1.1.0",
+    "ea053cd821565d921abbf27e3a6ea638e849d4e1": "readosm: update 1.0.0e bottle.",
+    "5614847e5c04d37160fa3cf90238944a9fc58e5c": "readosm: update 1.0.0e bottle.",
+    "ea7199e8736aace0dc46acdc97152de095322bf1": "readosm: update 1.0.0e bottle.",
+    "5e7fa2ac334247bca46f0d749d70fca23f38d770": "readosm: use https url",
+    "e7ab1746c2a7fda727a207a300b79399b959a8cb": "readosm: update 1.0.0e bottle.",
+    "54c3bbe5ed8e3c01dc9b45c2b85975b0e420a32d": "readosm 1.0.0e",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0532276d13e7271e0a40deef9bca1b7ce8243abe": "readosm: add 1.0.0b bottle.",
+    "443150ab4184907cf92cff7470c5535914b15fd9": "readosm: Update to 1.0.0b",
+    "1f776c8364ca798ad66c930fd2dc801743eb8c11": "readosm: Update to 1.0.0a",
+    "b32a978f0ec6770715fecd3c3520593a1005ef4a": "New Formula: ReadOSM"
+}

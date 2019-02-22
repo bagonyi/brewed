@@ -1,0 +1,14 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f1a046990b78e244b76a9afc660c1bf20fd467ca": "drake 1.0.3",
+    "6aaba8fa0fee37429bf8cd5c447649fb9b04d95b": "drake: update 1.0.1 bottle.",
+    "1239e1cf771135600e8ccc212786dbf427d0d21f": "drake: update 1.0.1 bottle.",
+    "3c821c666e4a4bae2292510f56c986cc94f91727": "drake 1.0.1",
+    "af6a61ecab12d3d14dd45717dc3aaa59ba082d58": "drake: add 1.0.0 bottle.",
+    "259b774cec602cebab06e059097ea29040d44b6b": "drake 1.0.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6ddc16e2bcd9674ad1bfda9abbd3cba8f6ab73f4": "drake 0.1.7",
+    "61030cf06792353ea3f4244879367eeebae2dff6": "drake 1.6",
+    "d1c2d8e7d649c0e7b56b79e76f4a1f3f1e2d1cc5": "Clean up some concatentation inside interpolation",
+    "8cbc92f68fbea8e57c867ab9ade2d561be7942fb": "drake 0.1.5"
+}

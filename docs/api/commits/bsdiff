@@ -1,0 +1,18 @@
+{
+    "87c78330a247cbdcc5e39c03a168a58d2c244fa4": "bsdiff: update 4.3 bottle.",
+    "d74b2652ea04f94e18929832b817f712a8686725": "bsdiff: secure url(s)",
+    "a073fffcdece4768f4eabac299fbd77ec0c6382a": "bsdiff: update 4.3 bottle.",
+    "1947b8e0a4f207bb15a388d8b4ec7370c509d022": "bsdiff: update 4.3 bottle.",
+    "28add4fc3a4e320da1e43a0dd4603fc9eb652ef1": "bsdiff: Add test.",
+    "10a91ea4d39eebc519a4b6abbeee006af13fc249": "bsdiff: add 4.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "247066afd4eb11da7e5b175e1676c27967d03617": "bsdiff: modernize bsdmake dep",
+    "2649ce21ab46f870b842418c1c72df7cc9c16a43": "bsdiff: use patch DSL",
+    "11c72b9621208f61595275468f5360695c626d68": "Use :bsdmake",
+    "a52ab0c49da9fd9887ead28e90ff7a29248a30c1": "bsdmake is a build-time dep",
+    "f0ab6455bb403beedb7fd68ecf5e000721ad4b96": "Depend on bsdmake where necessary",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "94b9e56c651b1bb416e689aed3e1425ee3348d18": "Homebrew style is to indent w/ 2 spaces, not tabs",
+    "c4a7ac496e47bbad88e6992cba85fefab9c2cc92": "Added a formula for bsdiff"
+}

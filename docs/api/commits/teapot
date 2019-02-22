@@ -1,0 +1,16 @@
+{
+    "5ef2cc06bc50bb97d297179ec5f49e32574cc74e": "teapot: update 2.3.0 bottle.",
+    "d3ff067ccca916e55e53d1f7c5c31494e38279e0": "teapot: update 2.3.0 bottle.",
+    "cf32cccced7d457228e41ff5c6cdcc3391373bc6": "teapot: update 2.3.0 bottle.",
+    "61e4776ed4baa0d4ed72590bdc3efd55491c8eb5": "teapot: update 2.3.0 bottle.",
+    "1b0869f769d46d6258fb3823cc46f989f28a7f06": "teapot: use https homepage",
+    "4843d5af7a1cfbbd6d9f2867150aaf223468875e": "teapot: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ffd818b00d86a2518709c8be46753291384aee15": "teapot: add 2.3.0 bottle.",
+    "07314fa73e7ff39211f8bd66812f91268bdcc1e4": "teapot: patch in correct version number; install LyX doc file",
+    "31668ae139e3c9aa7ea91c58b98f3d5a7a5af36c": "teapot 2.3.0",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "44a8558c25d569437e4173f6097191cf04abd776": "teapot: new homepage and download URL",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ad33101916e393861818edbba5121a6e8e479c43": "teapot 1.09"
+}

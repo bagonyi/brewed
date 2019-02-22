@@ -1,0 +1,13 @@
+{
+    "1f66f6efb2282de4e19b5fe2aae86cda7b3345f8": "pacparser: extent use of standard domains in tests",
+    "0ccedb3341239f5f323161452a26d13c22e32344": "pacparser: update 1.3.7 bottle.",
+    "2a66e433ff4a1d22dd642fffc7173e33fa2be6cf": "pacparser: remove options",
+    "670950438781503d4c5fdcd8708cc2b9a866c98c": "pacparser: update 1.3.7 bottle.",
+    "d019dc222479a2e2c486525efc97cce03628f8bf": "pacparser: rename python@2 optional dependency",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "25a4a11e44b9a80712f13f7a0a7ea4d9a2790d48": "pacparser: improve test domains (brew test-ed)",
+    "18e910c8adcb0eed2fb66d27a96ec06de7a4cf59": "pacparser: update 1.3.7 bottle.",
+    "fbd616ec357151ab7d9114f0ff45e5f877afbacb": "pacparser: typo in comment",
+    "3f574566984121f373c3e1af4beded4c13eed21f": "pacparser: add 1.3.7 bottle.",
+    "ee87fd6a2c37c3aaf74deb240161ae5bc3ec0552": "pacparser 1.3.7 (new formula)"
+}

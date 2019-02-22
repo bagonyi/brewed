@@ -1,0 +1,15 @@
+{
+    "a6146b4e9773b82f66bd9423bf2b5ca107d51074": "neatvi: fix RuboCop Layout/AlignHash.",
+    "c623ee184461c962a7db33116fcb4cdf7d3eeb5a": "neatvi: secure url(s)",
+    "84e5e32d712ab02b1a36cb75577ad5bba0bad78d": "neatvi: fix tag/revision indentation",
+    "cfc78af98ecff7233fd6c94163352569e244b811": "neatvi: update 06 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "950bbb0f0ed487bb070ad05d26d06cb567bcea84": "neatvi: improve/secure repository url(s)",
+    "f11c5081ecdfb8449b36293e9ecd55db274ee659": "neatvi: update 06 bottle.",
+    "0159d95f348a4fa84d2953df31eaf3d6b8ca0db9": "neatvi 06",
+    "13eb0f8cd99ca9a4f2fc42f651b048ee969cdc76": "neatvi: update 05 bottle.",
+    "7402c82da29890649777f67c990a8d7cd76d7a79": "neatvi: update 05 bottle.",
+    "c330929e40f2144e66de6cd97f4685a0f0625cad": "neatvi 05",
+    "c4db32e225fce25d46489fbe13a1ea489ff9140d": "neatvi: add 04 bottle.",
+    "d30f3b0ed3737130bd3911fb1aff9b0400ddff57": "neatvi 04 (import from head-only)"
+}

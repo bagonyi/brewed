@@ -1,0 +1,9 @@
+{
+    "8eeabae2d5984d9db2f6c8c23846b4984731e68a": "mozilla-addon-sdk: use new canonical domain",
+    "c137fadae5c9ff484a9d0ba9e3725e5da1e97be0": "mozilla-addon-sdk: bottle unneeded",
+    "76ae6f36b104cd8e24366d99756c232dc935322e": "mozilla-addon-sdk: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2d5de4b4272ac472008ef322b04b6afa4bab9847": "mozilla-addon-sdk 1.17",
+    "7e9a6c5c31e4bd797d62236c15f78d9abfa3e1da": "Mozilla add-on SDK 1.16"
+}

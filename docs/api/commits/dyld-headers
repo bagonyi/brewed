@@ -1,0 +1,12 @@
+{
+    "6f2861f97d21ac4aea0af4fc3c54be473c9abeb0": "dyld-headers: use *_by_macos.",
+    "0f4b5636f217d51cbb15994abe3ff3c0a27d49c1": "dyld-headers: remove Tiger patch",
+    "e82d11078b3e09eb37b83f62e1150e4f96730bb5": "dyld-headers 360.18",
+    "a8436717057fe6fedfe82bc0cac0f81d87e1f3bc": "dyld-headers: bottle unneeded",
+    "3178559f4802e7eab371e4c3fa1c0171097a4bfd": "dyld-headers: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "29ff7983903b4f52901a4e27565cd2abfc11d8f0": "dyld-headers 239.4",
+    "c2a5a33c7fadafa4057ae647f4befa34b29afe5b": "dyld-headers: use patch DSL",
+    "e88c67bd719fafe4dda658375148fedd579eddff": "dyld-headers 210.2.3"
+}

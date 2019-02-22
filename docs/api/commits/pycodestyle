@@ -1,0 +1,8 @@
+{
+    "635f9f048b00d727d7603ede20c1bed28e644922": "pycodestyle 2.5.0 (#36519)",
+    "c1c4c9c1eb25a5dcb003c248dcc8d9d4a1a74d0c": "pycodestyle 2.4.0 (#26422)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "277b620ceb4cdc70e32095037680bd240f3cd401": "pycodestyle 2.3.1 (#15075)",
+    "85e374d8ebdd5b8f287e0307d6045ade0a0290cb": "pycodestyle: add 2.2.0 bottle.",
+    "be10f489129f0ea930a861eef98cd095bc60e5ef": "pycodestyle 2.2.0 (new formula)"
+}

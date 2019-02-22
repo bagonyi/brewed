@@ -1,0 +1,20 @@
+{
+    "6e28c3821b2a0884a7bbc7b02d60b281ac947d85": "sqoop: fix URL (#32331)",
+    "231fa2d7ca2b32fadf8cd46aa9faca27df50f1ba": "sqoop: fix dependency order",
+    "a21926ac32853a1e64fdf23c74cec2d9e98cb0a8": "sqoop: point to hadoop to pick up hadoop-config.sh",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c3bac8971a73a655013b1b3a1e55ec9677f36ad8": "sqoop: move patch to formula-patches",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "10f7d72d3d2d8db1280eccf580c99e5768240334": "sqoop: update wrapper script",
+    "7b6222089aa7a2aa263d256e9d98370f61366a20": "sqoop: bottle unneeded",
+    "ee0b9ab3c10a161c698016aac0e00cb0f83aa761": "sqoop 1.4.6",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2e8cb6e7822993edfb800b947cceb8e242f16abc": "sqoop: use apache geolocated mirrors",
+    "522d88fb6375dd0c7e52f1cc7acd76d14b6cfbc5": "sqoop 1.4.5",
+    "02d471d31f60c34652a8b162aa289c2e489cda9d": "sqoop 1.4.4",
+    "8055beee1d63d8a2b56aedf1bd1916c4ff7854b2": "Sqoop 1.4.2"
+}

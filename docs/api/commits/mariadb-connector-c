@@ -1,0 +1,13 @@
+{
+    "1cca7974a535ad4c79b977b82d2b1f28573371b3": "mariadb-connector-c: update 3.0.8 bottle.",
+    "964bd2b47190373a777be9ef09355eb339e49bb9": "mariadb-connector-c 3.0.8",
+    "4e192f3f49e00c4be996c5195d00df1560dd1bf0": "mariadb-connector-c: update 3.0.3 bottle.",
+    "41ef30785830565dc6eebe689afba5cbc42d03b7": "mariadb-connector-c: update 3.0.3 bottle.",
+    "337bd8139e9791e1ddf19246e9a749113598dcf8": "mariadb-connector-c 3.0.3",
+    "1ea62184de8410f2c8b3fb89ea1cc573fc9c4f92": "mariadb-connector-c: update 2.2.2 bottle.",
+    "ea15d5a1243a8a090da396ea67928aaf65096354": "mariadb-connector-c: update 2.2.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "a494ebe120168947526b98b2d44fa271d34cadac": "mariadb-connector-c: add 2.2.2 bottle.",
+    "6d28978218d10a8ae7026915b051442c5e2140c3": "mariadb-connector-c 2.2.2 (new formula)"
+}

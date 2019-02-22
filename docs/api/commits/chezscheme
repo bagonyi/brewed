@@ -1,0 +1,12 @@
+{
+    "5e1a03c66e002be70c289804d5c6694307c6651b": "Merge pull request #36364 from MikeMcQuaid/xcode-installed-check",
+    "db7dc78f2361cc020b4e82f79eb8bd2634633dc9": "chezscheme: update 9.5 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5b2488911168542e6b4d67d80329590fd4377dc5": "chezscheme: update 9.5 bottle.",
+    "e27c46e2835c48126d1c09456b7be4975e0ee64b": "chezscheme 9.5",
+    "c7015ac1895ef099e9aa5cd812706d0624857fae": "chezscheme: update 9.4 bottle.",
+    "672a41a272ec5f51a2b7eb4617f9feb5321e04d9": "chezscheme: update 9.4 bottle.",
+    "286abef4a4ee6f54042bea4d50dfa4f150528447": "chezscheme: fix the build on 10.11 with Xcode 8",
+    "053a787a59e07c249bf207d7fe423c7e0588956c": "chezscheme: add 9.4 bottle.",
+    "c5b6f0e1adf458257861688a3360f5f8faa56ad9": "chezscheme: import from homebrew/x11."
+}

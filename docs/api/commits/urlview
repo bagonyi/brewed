@@ -1,0 +1,23 @@
+{
+    "3c720c1f72bd2f3c3ba0636c178220f09f5b938c": "urlview: update 0.9-20 bottle.",
+    "7ea202021857fd9c3487d6ca8bf047a93ca26bb4": "urlview: update 0.9-20 bottle.",
+    "89d0d02924be05de580f0e61c3f81c9efb822648": "urlview 0.9-20",
+    "0257364b1721263ad8cead34315edd9de357a7bb": "urlview: update 0.9 bottle.",
+    "74378a18b2167d5e13305ffc57d0542bb0cdaf39": "urlview: update 0.9 bottle.",
+    "dff45ca5da13baf7fe978c70eeaa55e05f492abe": "urlview: update 0.9 bottle.",
+    "a5575f93f2030dbea6ca1764d03ec567dab47689": "urlview: prefer berkeley debian mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8042a320c3142fc805ea9f932b5fc2ea365faa6e": "urlview: add 0.9 bottle.",
+    "f173972ed5325988d9c5e9ce1bb5d5ea0b580136": "urlview: use ssl/tls link",
+    "1708d162867cd57953f01e0cc974798dac44711c": "urlview: use checksummed patches",
+    "eb64c07c0d2ab6ee3c322c339c6c1e90226178b8": "urlview 0.9.19",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "39e6f9c273ee7de85005e3a669333097f31715da": "urlview: fix patch url",
+    "4f9f0d0bf52f8540485aa7b5e74b6aa32fa432f3": "mirror support: Mirrors for kernel.org software",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "c8935db6f75ee4b444e8bb18c38bf304e70c47fb": "Update formulae to use preferred debian mirror",
+    "a609954ef6ee395d8e4452db6304b4d72b8102a1": "urlview - fix md5",
+    "b27a8b76a84c16bab284bbf81c6ff4346a686fe7": "Update Formula: urlview",
+    "13201b73183254a5dbf5bd81dba6de0bd7fde18d": "Update formula to use Debian version style",
+    "9c3bc53f0f44cb93fb88f3e81a334255cc0947c7": "Urlview 0.9-18.1"
+}

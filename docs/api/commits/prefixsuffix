@@ -1,0 +1,13 @@
+{
+    "8d2a97c9dc938bedd22e683b9c0e8e8ee0879b51": "prefixsuffix: remove checks for old compilers.",
+    "28923474d5c3f08ccc5c2ac003fcdc9b06c83a09": "prefixsuffix: fix dependency order",
+    "142b6930f3bc728d3378f240fe3793a4493d684c": "prefixsuffix: update 0.6.9_1 bottle.",
+    "6e6df8c9d6e04e2e59c3604e0498510aa62ff3ff": "prefixsuffix: update 0.6.9_1 bottle.",
+    "564d5365388cad3f9d555dcb064a36ac5293983b": "prefixsuffix: revision to fix install receipt",
+    "c96ef9d922a72d5179f209d4169b0ed91746fc71": "prefixsuffix: update 0.6.9 bottle.",
+    "03f9dd13e8e5ff2a26a8d5361f33aa84461122fd": "prefixsuffix: update 0.6.9 bottle.",
+    "b722b28eb16585570d59f9c5940c4655e96a9168": "prefixsuffix: update 0.6.9 bottle.",
+    "c386f0fe2de0274456dd50ed08fb6546e37d44c0": "prefixsuffix 0.6.9",
+    "4cb2916b87b2114448a8502c052966639d460fe3": "prefixsuffix: add 0.6.6 bottle.",
+    "144102cb418a4ba80a28d49e12b1ef297385e0c9": "prefixsuffix 0.6.6 (new formula)"
+}

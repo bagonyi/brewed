@@ -1,0 +1,14 @@
+{
+    "ff2e28f6d16263a03397d9b1fdd58205affced2e": "viewvc: fix rubocop 0.65.0 style.",
+    "e293e672d48ee1e17fd7f6354996b14f44cad876": "viewvc: update 1.1.26_1 bottle.",
+    "388384a3ada1893ddd101be148d5a19990c09c4c": "viewvc: update 1.1.26_1 bottle.",
+    "bde9c9a621c90519852688f3c988090f175ec6d1": "viewvc: remove \"with-python\" option from subversion dependency",
+    "f8a8e832dd3c361f3d68f5503dd3f332a654c6c5": "viewvc: update 1.1.26 bottle.",
+    "1c5424cc3eac4f9d9fbeee580723fccd7ebd688c": "viewvc: update 1.1.26 bottle.",
+    "3cbacb4e7bd6fe88e72bcf918779ab0440fb5d44": "viewvc 1.1.26",
+    "49aac9c2129f31c2bf0b0a228960b366a0483a4d": "viewvc: update 1.1.24 bottle.",
+    "e5a91f65744f108180082fb26bc62963bfb7886a": "viewvc: update 1.1.24 bottle.",
+    "1d16cd206dfae777f32b71498115ecc157cbc6d9": "viewvc 1.1.24",
+    "f4d5f74190fcdcaa35971983b27095ee53f8fa7a": "viewvc: add 1.1.23 bottle.",
+    "898377023643b3601d767fe14570097301aff9ed": "viewvc 1.1.23 (new formula)"
+}

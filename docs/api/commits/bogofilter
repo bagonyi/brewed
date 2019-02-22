@@ -1,0 +1,21 @@
+{
+    "8ea01a52767c2a58799e0df1e4874ca4622b5c9f": "bogofilter: update 1.2.4_2 bottle.",
+    "60fd9841cfcd2913b0af357e8da1702945b88adc": "bogofilter: update 1.2.4_2 bottle.",
+    "09365458ec2cc8b4ca99132de36637ccafd84e49": "bogofilter: revision for berkeley-db",
+    "2b5f37552f3b5ff9c85eb3dbf046e159840a083c": "bogofilter: add test",
+    "c0793713195063769f2c778ce9dc2bb6d0b8b3b2": "bogofilter: update 1.2.4_1 bottle.",
+    "db4db1bef22af1e89dcd443e69a551464d8b8727": "bogofilter: fix audit about sourceforge link",
+    "1a7010ff4b27bfe926a09e05eb38fe653a88e56a": "bogofilter: update 1.2.4_1 bottle.",
+    "84d1cab7db34a733717ab8ff64326b0269de4b26": "bogofilter: revision for berkeley-db",
+    "ed317c25d19e945070fb7da96a8af093c8a98dbf": "bogofilter: update 1.2.4 bottle.",
+    "d0b62454ad7805f8d5b4b1e652e1fc95faa369f5": "bogofilter: add 1.2.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "c1ebb754fc21f5dcfaf79d46dfa1c11905ecd6af": "bogofilter 1.2.4",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "02cfdc6cbd506ce271715bdd0577d7f59fe79a7f": "bogofilter 1.2.3",
+    "ce0dfa2e540201db1d27240cbf80bbde2b742707": "bogofilter: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9243c931574a2265018278f5238a94e8401488d5": "bogofilter 1.2.2"
+}

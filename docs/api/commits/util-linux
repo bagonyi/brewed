@@ -1,0 +1,13 @@
+{
+    "487d9015cb809f246d02add6428528cf8fe4feea": "util-linux: remove unnecessary code",
+    "201a3f10ba9cc21e060e912b0029affdd00db5eb": "util-linux: update 2.32.1_1 bottle.",
+    "fa1f32b223c1a7035e99cd87a18a00938c4c71fe": "util-linux: update 2.32.1_1 bottle.",
+    "5d47c1792afd7a0fb343148691456260829360c0": "util-linux: add conflict to rename",
+    "13497e51e9dc703ecd37f55c0ff9468091038377": "util-linux: update 2.32.1 bottle.",
+    "5eb1c127a513de7078e57d875ea201fa52db1f68": "util-linux: update 2.32.1 bottle.",
+    "b27d3e4fb169351a3f975297cfed6455bff167a2": "util-linux: install bash completions",
+    "042bc9afafcc069857a4887a0aaedbe16be434a5": "util-linux: update 2.32.1 bottle.",
+    "2ba99db3aac424694b7979bf53b99dbe729c47bb": "util-linux 2.32.1",
+    "1fec4f48e6cb96454f1f3460139007f0c4c19a3b": "util-linux: add 2.32 bottle.",
+    "041004778effcfa086c61ec35374d6aab69c3824": "util-linux 2.32 (new formula)"
+}

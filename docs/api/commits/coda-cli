@@ -1,0 +1,12 @@
+{
+    "31f7939ab91d354fab9e4d7f2ad1ce9f495ccc16": "coda-cli: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c6f1142dcbfd996b9ff12221d3a9ecc571cc594": "coda-cli: basic test added",
+    "d9698f652b36678dcc018f33b480aaaaf8eef9c7": "coda-cli: use archive URL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "cbe8470e2e642ff5a0af30467ee4f593706618c0": "coda-cli 1.0.5",
+    "87e1196a7d4f210c4180b997e3da5f336896e0e5": "coda-cli 1.0.4",
+    "aa6bf3f372bfdd93274a1a6eff0e288ae3d5832b": "coda-cli 1.0.3",
+    "757015210dee633791936b5bdd5bbaf12ffc5a2f": "coda-cli 1.0.2",
+    "b94c72c2853016dbae2a48e497ca6f586d8f7c96": "Added coda-cli formula."
+}

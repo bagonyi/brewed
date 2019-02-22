@@ -1,0 +1,15 @@
+{
+    "1f14e234640cf0fe443519913ed1979ccbc585a5": "kubectx 0.6.3 (#36486)",
+    "f01c536c55beb7c7296d3882528b5cc5fba425d4": "kubectx: remove options",
+    "2b08672da541ddfe5cfec175fb2328dad576236a": "kubectx 0.6.2",
+    "c561f273046260e9edf3b4da4b391bd9965bdbd4": "kubectx 0.6.1 (#31438)",
+    "98958e872552009a7ac908bb83b5944df43c86bc": "kubectx 0.6.0",
+    "489e188b1883499f15009752472548689341db8a": "kubectx 0.5.1",
+    "3d822c7944ebcf654fdf4fcd65d8d0b0353807d6": "kubectx: rename fish completion files (#28871)",
+    "cd759ff63ddee382c71f1495536d919d5a482609": "kubectx 0.5.0 (#26365)",
+    "af75d456177c2b5d6ef33872f10ff1ec77be176d": "kubectx 0.4.1 (#25972)",
+    "e68039998cb5dd7ab6989e69bd5191e56924fc57": "kubectx: remove :run.",
+    "b2a5587775b3c2944c105a8aee3b70310283596a": "kubectx 0.4.0 (#20479)",
+    "86ab7d590297bdb384b8ba025ebe045776ef486d": "kubectx: make kubernetes-cli recommended (#17906)",
+    "bcefc9868a6932162be9c175da40bd4b49438d02": "kubectx 0.3.1 (new formula) (#14207)"
+}

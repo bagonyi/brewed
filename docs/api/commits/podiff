@@ -1,0 +1,14 @@
+{
+    "741e4d6995de779190622cc0baf76b3e6fc0101b": "podiff: update 1.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "aa954b737915721a1d660a46ae13ffaf5eb6afd2": "podiff: update 1.1 bottle.",
+    "6bc4872cc1b3654ad152881f3de531611c86a908": "podiff: use secure url",
+    "4b72275db267b5c3b3bdf2006917127f5b91bd87": "podiff: update 1.1 bottle.",
+    "100f6b1465ec25fc84a7cae852bddc03c8239bb8": "podiff: use secure homepage",
+    "6fba5946cdc24372f155e129e706f7d127d83481": "podiff: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "052879d5cebd461444c63290a50f8df3f8c6c24f": "podiff: fix test",
+    "e637dd95c0c9b0e8e05adc85951cb70bc92e6186": "podiff 1.1"
+}

@@ -1,0 +1,17 @@
+{
+    "6df8fa90d765794828eb03e005c787a99dcef21d": "rkhunter: update 1.4.6 bottle.",
+    "c98221431b7026ca8846fda8ef30efe9084271cb": "rkhunter: fix checksum, validated by upstream",
+    "9858f2273f2f7aa8e36260d9b72fc38acc2deff5": "rkhunter: update 1.4.6 bottle.",
+    "648fa60d9419d2b86c1f841fc441aa28edf26aa2": "rkhunter 1.4.6",
+    "1b84422d6a9325b97deb54cc3ccd95a342520ca5": "rkhunter: update 1.4.4 bottle.",
+    "e9c133e633b3492aafa97e29f184987c7d5cf0a9": "rkhunter: update 1.4.4 bottle.",
+    "55268662dfa159eb37d95ad910330bd784844d0c": "rkhunter 1.4.4",
+    "54646c0079a818d82cde9f2070dec076ea965c9e": "rkhunter: fix audit --warning",
+    "51b8e502c74cd542711161bc2ab26902c49089f2": "rkhunter: update 1.4.2 bottle.",
+    "0509c81a406ae0c5c006062fdf3e3c2fd8b51684": "rkhunter: add 1.4.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "34edbff63d2a3e0d6064297acd9cf9ff5471f13f": "rkhunter 1.4.2",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "406fa8c035fdb9cb63c9c0ee1b2c99f195977341": "rkhunter 1.4.0"
+}

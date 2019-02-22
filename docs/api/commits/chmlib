@@ -1,0 +1,17 @@
+{
+    "f777303621dcf51a58974d2405296fef05c71dac": "chmlib: remove references to pre-Mavericks.",
+    "92412d233a963aeb2864f77744dd1a18314ffeaf": "chmlib: update 0.40 bottle.",
+    "aca78b093a65d3adf48674791d689f58546262f1": "chmlib: update 0.40 bottle.",
+    "c604e984b94ff5247e3de670b38a3824b053251d": "chmlib: new mirror (#11670)",
+    "acca4bd46b8d5d122766a35ab947e32020af286a": "chmlib: update 0.40 bottle.",
+    "cc65e7b6ff69461154658ef4b5997a6f03af67cf": "chmlib: update 0.40 bottle.",
+    "6446c0c3f8508a59d3e0e44da95975fdcce4117d": "chmlib: update 0.40 bottle.",
+    "ff926ca8075989821d69ebf8e417bea588e96105": "chmlib: add debian mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "80cf40f0d57ee3488727fa7e72d8dda85558b0c7": "chmlib: update 0.40 bottle.",
+    "060363a9e23633fdfcf681674dcace017ab0572b": "chmlib: add 0.40 bottle.",
+    "128ca938a7c4473ca5d5002fc7d28e38e06b875f": "chmlib: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "f7c283e8bbbe7cb403bb919f50ecd1c99cea1806": "CHMLIB"
+}

@@ -1,0 +1,20 @@
+{
+    "76d0f0d024b6569e9fa3f6130fd21344c2fda1d8": "dfc: update 3.1.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "c54a8beee356615a4b0e265664c78308b9817fba": "dfc: update 3.1.1 bottle.",
+    "dc53903fcaab7270ef8e3058e1af8e72c459931d": "dfc: update 3.1.1 bottle.",
+    "bcf1618afb9a492b83eddfb710d3a83b605a901d": "dfc 3.1.1",
+    "d67951a9489c180a5d4888ee0acf76f2a794d69c": "dfc: update 3.1.0 bottle.",
+    "0eaaf5a9b58601f19e9d8e6eaecc183e626b24e8": "dfc 3.1.0",
+    "8062e39cb5c01e1235a846ab10491c55035aa49b": "dfc: update 3.0.5 bottle.",
+    "570c6a94898cfdef1319f9c37e751cffa3f704c8": "dfc: update 3.0.5 bottle.",
+    "e175c5b756502cb40a5ca122e36886a2da0271fa": "dfc: use secure urls",
+    "1c6e6f2434072fd513599ae4a7f184c1ee1d9f9f": "dfc: update 3.0.5 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b7dc4b02c35708b7accab1b675028a881c7e1736": "dfc: add 3.0.5 bottle.",
+    "6a2e94bd312eba8f7da999961ebcac0bcdc4a9bc": "dfc 3.0.5",
+    "b30fab752058ceeadb7286e43cb6b3eb1263f75c": "dfc 3.0.4",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d5a05810751e27359e615b90784c087728705f9a": "dfc: fix audit warning",
+    "1c3a2d23c9be2d83678df769b23a2fc5db74c662": "dfc 2.5.0"
+}

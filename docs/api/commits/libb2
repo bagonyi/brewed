@@ -1,0 +1,18 @@
+{
+    "efa5bb520d8e1e077130d078566b9cd302731138": "libb2: remove references to pre-Mavericks.",
+    "91717c1b3483dd7b260b935aa83995c92b587b03": "libb2: update 0.97 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "28208816b2386278cd95ea8048aeb15e54f4e4b0": "libb2: update 0.97 bottle.",
+    "18d1faf9310a79cd8e7070c2b6736b9106858e22": "libb2: fix test on 10.13",
+    "b40d4ac44c0ec55104d90d8153bbc07432dbd768": "libb2: update 0.97 bottle.",
+    "bd5b31151791c906fdff6e9a17acaed0b479cb2f": "libb2: update 0.97 bottle.",
+    "beac2d0245e8c0a62feff3ac850d61cc7d9003b1": "libb2: update 0.97 bottle.",
+    "ab9c41287a0c1e43db39877c62b90e40c2aeedd2": "libb2 0.97",
+    "d39cfa5575c9aaea6d1ef59bb5fa5ba6e24208b3": "libb2: update 0.96 bottle.",
+    "4394e0893a5af2adb0e87dbe467cae2aa01c98db": "libb2: pass strict audit",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f9b6473e6c963c6854424ac6976b6854247a30b1": "Prefer ENV.cc to ENV[\"CC\"]",
+    "a5c4e6cd874a69072820ccac6919b9e7b114f1a7": "libb2: update 0.96 bottle.",
+    "88d76fc995d2a86b6e557ffce6ecdfd4b6b7f28a": "libb2: add 0.96 bottle.",
+    "285b2ba3e5ec4a24a8c8dcbabdf9b67e8d1dc2ce": "libb2 0.96 (new formula)"
+}

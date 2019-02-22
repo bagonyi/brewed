@@ -1,0 +1,17 @@
+{
+    "f0e488796fb376fe40789d07658ccb46ccc51e16": "backupninja: secure/fix url(s)",
+    "a89a389f52cc89cdd0776438f6d4beecaad8adc7": "backupninja: update 1.0.2 bottle.",
+    "e2d2e4fa82083cb89a5690ee5d944bc114c950da": "backupninja: add mirror",
+    "afb45fd1e73394257ace03f2eeb051c0ddf8c182": "backupninja: update 1.0.2 bottle.",
+    "e60240aa68127d680deb04a0cab01fee04fb9ae2": "backupninja 1.0.2",
+    "46afd685e3ef7ff6a869ccae370c910e000f5f48": "backupninja: update 1.0.1 bottle.",
+    "7e974f6379f49d374617c294476c1368b01ac52c": "backupninja: remove head (#10613)",
+    "97dce3cc04e5c18e35220a60f381c5e793e133d4": "backupninja: update 1.0.1 bottle.",
+    "c9fa2953a0b7f7058c043b6f37b89be6babbf766": "backupninja: add 1.0.1 bottle.",
+    "45868a3aff9333bcd96ccbca5abee24b41f18fdb": "audit fixes: B: backupninja - bigdata",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "63630930147bfca39b77beff070983b06d8e51be": "backupninja: remove unused skip_clean",
+    "8d3e0413c393a161a58cfebad11bfcfd3d34e354": "backupninja: update homepage",
+    "85ee96764717d79ae8addf37c248eaf52604eba0": "backupninja 1.0.1"
+}

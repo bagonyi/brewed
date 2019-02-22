@@ -1,0 +1,21 @@
+{
+    "cdbea8d6a2f437543488139bddd2f4df03899c7c": "drip: update 0.2.4 bottle.",
+    "c5d554ed1d367504dbf4fcdd80357bdf079183c3": "drip: require Java 8 specifically (#28314)",
+    "67d32306309777329ce5eebd756946560800ee01": "drip: update 0.2.4 bottle.",
+    "bdaaba32c5f2dc2e3fe64b39c034767c920ae93c": "drip: update 0.2.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "28d3ca9619df42a70f5d9569f68264480e1cfbd2": "drip: add 0.2.4 bottle.",
+    "f1c9d78c67e0eece7f7bbb700bf35fa1504ec2d9": "drip: depends on java",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "122e5fab1586daac9ae3bdbc6cdc388371c51893": "drip 0.2.4",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "bea44ce08d61b95bd8965b69f8c57897a31460e4": "drip 0.2.3",
+    "d1ed67e3b601b4450d929b0da57fc3e9726d27d6": "drip 0.2.2",
+    "288502d19196dc554b6e73e1c1008894a0112c24": "drip 0.1.8",
+    "44b7e5b3fe4e1cc282bfce332e2f15df5facd682": "drip 0.1.7",
+    "98b5e635c72b0bb5ae176b3d6c4a7535d2d95f75": "drip 0.1.4",
+    "cc0d6ac352ee01b4a0c06005dd51acc24f967397": "drip 0.0.4",
+    "1793b546daf0de0d09edf99ed379f6fe1f25f33f": "drip 0.0.3"
+}

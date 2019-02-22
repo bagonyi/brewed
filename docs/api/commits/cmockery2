@@ -1,0 +1,16 @@
+{
+    "05201065b38f6a08627149094772b40a8603e4fd": "cmockery2: remove references to pre-Mavericks.",
+    "4b8c6b38c51727c5fda539f29e96e000083ba595": "cmockery2: fix dependency order",
+    "59f050127be124fa7786532120d0313f264a1cfe": "cmockery2: update 1.3.9 bottle.",
+    "f7f7f94f2c6a7c1e18031824f7101d2d632548d1": "cmockery2: update 1.3.9 bottle.",
+    "a2c745164c8c596cdc6a9b67e2b900d09cc8d0ba": "cmockery2: fix test on 10.13",
+    "ecb6d49366ced1c20b266fd082be9160392bac66": "cmockery2: update 1.3.9 bottle.",
+    "3db8670bc71abca99d077fc5316414d5655d852a": "cmockery2: update 1.3.9 bottle.",
+    "4b5598cd92a65129c1120422d21aab653bdc672c": "audit fixes: C 04: cloog - cowsay",
+    "e4bf6aa10a51bf86c28618637ed6c21ce4138578": "cmockery2: update 1.3.9 bottle.",
+    "2feec80b6206a4f164179da2602faccef3676e06": "cmockery2 1.3.9",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2f393ce2452f8cc11aa0fd764637c41164c0a0bf": "cmockery2: add 1.3.8 bottle.",
+    "4e34fcd515b6bef02b8f278ab63ed0f27cbf1875": "cmockery2 1.3.8"
+}

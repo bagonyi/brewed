@@ -1,0 +1,23 @@
+{
+    "257c2eec0c02f64f9f001aea6dc91669d65c15a2": "suil: update 0.10.0_1 bottle.",
+    "930953785af85ba499523c7249dd67b27200b2f2": "suil: remove options",
+    "9417ff172ef495152cfd180904f380e6fa01b826": "suil: update 0.10.0_1 bottle.",
+    "9fd5be48dacd460ff402b02e968c5462ae371b8b": "suil: update 0.10.0_1 bottle.",
+    "1b6e90ee0ab3faed9c68769af7b4ed8a4a9366b5": "suil: revision to fix install receipt",
+    "5cdb3d62bec989987b6367ccf8cbef6884ee084e": "suil: update 0.10.0 bottle.",
+    "7ab6c145c3168c2d390652308d4a794cc1c367ab": "suil 0.10.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5424198829a2472ebf446a72f9add532bafca2d8": "suil: update 0.8.2 bottle.",
+    "19855072f72198eaa995d68d96f84c80e9382ada": "suil: fix audit 'description must start with capital letter'",
+    "70b53515876f5091db5a7cf844531759edac8bce": "suil: fix test (#13349)",
+    "5481f6e84e1ca3115182e204cf6c4890e368a6bb": "suil: remove Qt4 support.",
+    "d86a8c8432ec1b1ec42d89aec555bd3a67baa63e": "suil: update 0.8.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "79b67faffa47cac7bea281ff23eabe89aa165f84": "suil: remove non-existent support for Qt 5",
+    "476aada2e474a948a19254fb4548f6cf2b570309": "suil: update 0.8.2 bottle.",
+    "b7dadd60f9e05d3d47c520c97ca1ecb86af9d4b3": "suil: use secure urls",
+    "4f24b38ac48aefbb5c0b0190812855deeff6b772": "suil: particularly fussy style nit",
+    "29d832df01358767db0242b08c3f945daaf45d2b": "suil: add 0.8.2 bottle.",
+    "7d1206acd9e73ff749866b86df34fd27c8648491": "suil 0.8.2 (new formula)"
+}

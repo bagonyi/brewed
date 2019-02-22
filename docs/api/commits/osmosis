@@ -1,0 +1,21 @@
+{
+    "eb1df00b62c0cc27726e53ae5b29d03d879be0d9": "osmosis: secure url(s)",
+    "337852ba959759eb57c5cd6e4b389579a1f08f87": "osmosis: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d86ccdb2bb26e1e6ed7be6c317d1cb8bd84bc625": "osmosis 0.45 (#6345)",
+    "a8084f63c2afca98e260956130c8004351a9c8bb": "osmosis: use secure homepage",
+    "bc7458499e1f7c0cfd2bdd36740f36fe2000822f": "osmosis 0.44.1",
+    "3627a4b85f6e6b814e05e1ee409136569a45ead1": "osmosis: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7e0b61529e4c401955ae25309b09735266b3f25d": "osmosis: use patch DSL",
+    "402696746b7541324433563bb5419b4fbc0a737d": "osmosis 0.43",
+    "2dec7565c4b295f515243df8393ffaf0370bf734": "osmosis 0.42",
+    "ddd53952713e6430f5a296edf841642cb8147d42": "osmosis 0.41",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "fa6b6817b5d949b4c588e859099a1b76e4029ca8": "osmosis 0.40.1",
+    "0484062e3eb62d24020e1593d27bdc5491c4d249": "osmosis: style updates",
+    "62b6971635cba89a4af571212f9fcb06b9576b9b": "osmosis 0.39",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b0127d26f8fb2e4e4b45f84eaaa4089d10de62f4": "New formula: osmosis"
+}

@@ -1,0 +1,15 @@
+{
+    "653f3ae37b3fe1a18c1a77420a69c773c636c78b": "bpm-tools: update 0.3 bottle.",
+    "69d57b3dd6005baadc511161dfb17a7905da3b19": "bpm-tools: remove options",
+    "6583695de35438dd3ddafb8b75175aebf156e727": "bpm-tools: update 0.3 bottle.",
+    "fe2b7ed166c3f8d348babd81f696b5afff4d0d4b": "bpm-tools: update 0.3 bottle.",
+    "992fce43a01e7bc90c4c03a1c71ecd936531aa4e": "bpm-tools: update 0.3 bottle.",
+    "5034600b03971dadbccaacbfa2f031b353cc2277": "bpm-tools: add 0.3 bottle.",
+    "08831041ee4a802c80e059dccd5484ce12927724": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "845a65029e7e94b1d0ff122495826f6d10ed707a": "bpm-tools: combine conditionals",
+    "0bb445059215681fe9d733dbd89bb8bed4a693de": "bpm-tools 0.3",
+    "075e68a8e50e130e4e5aab9c986af43bc39d3a43": "Remove redundant :using",
+    "7bafca263f0b123acd24511b238672f5abab8e4b": "bpm-tools 0.2"
+}

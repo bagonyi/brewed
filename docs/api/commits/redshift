@@ -1,0 +1,23 @@
+{
+    "4da3c6b498733f97bc2f5cd5b46babe309197aab": "redshift: fix dependency order",
+    "7fa66fbf242b3f07032f164b87650dbed973ab81": "redshift: update 1.12 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "04cb203a194588dc5abbe7a8aff3d5a094dd2ef0": "redshift: tweak caveats for config location change",
+    "d829750ea4f6de1928132ea72f9a06ab6df7cfb7": "redshift: update 1.12 bottle.",
+    "7287dfd8a182d7c450e2aa6fe8ae7291e9071d93": "redshift 1.12",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d168cc15ee39d814e8f909f6b9d934890f8dedb2": "redshift: update 1.11 bottle.",
+    "166c69dbfdbd9f76679b3abd8da783ff2e1b0d05": "redshift: update 1.11 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c02cef102c44ea2633b7e2d369b8083c4f0eacf1": "redshift: audit placement fix (#2818)",
+    "6a8dcaaab1335f49745cab602bf883ccab1e1a09": "redshift: update 1.11 bottle.",
+    "6130205fe66bb4e4ad75e12245d87a914e317afd": "redshift 1.11",
+    "6cf1faceb7b493f632c98fb77b9865f97e5e7606": "redshift: update 1.10 bottle.",
+    "3da49aefd3104f07b5cec42f34ea31b8cf2f8eb0": "redshift: use opt_bin in plist",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "09039da10f812215b49189de6179958123c57db1": "redshift: add 1.10 bottle.",
+    "0fc939520984b6ee53cbcef3b6fe80a5c31e214e": "redshift 1.10 (new formula)"
+}

@@ -1,0 +1,10 @@
+{
+    "fff62e1c1fd9908dd7a9b5d859707dc79c4a0762": "fetchmail: update 6.3.26 bottle.",
+    "4fbaec9d6522acd78e5b546a7c9c22da44e53941": "fetchmail: update 6.3.26 bottle.",
+    "9305b52d8ae5b5550ebb7bd8ff97b7a9e13a36d2": "fetchmail: fix audit 'description must start with capital letter'",
+    "64b0daaad7e1e5938270957ea9c7aac44c8c2a81": "fetchmail: update 6.3.26 bottle.",
+    "2509261cf2502526050e87109a2e27a4245135f6": "fetchmail: update 6.3.26 bottle.",
+    "94c64117a32a3bf6f14125f163d2cda2ba4c25b7": "fetchmail: explicitly specify openssl prefix",
+    "1eef59992f69a26f763e6dd402040bc54611ba29": "fetchmail: add 6.3.26 bottle.",
+    "ab3639671ac1cf2f5f0cf1d94ebdb570c5a24578": "Import fetchmail from homebrew-dupes"
+}

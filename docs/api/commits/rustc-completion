@@ -1,0 +1,5 @@
+{
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "cee57d491a9dd9f6c06af1cc30bfcecec9d32a9e": "rustc-completion: use full_index patch",
+    "35238f74759a2e3a53614f7ea5c6128e71929244": "rustc-completion: import from homebrew/completions."
+}

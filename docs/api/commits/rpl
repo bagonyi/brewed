@@ -1,0 +1,18 @@
+{
+    "19bccfc773aa0e432dfa4e3cffd519a86668ba11": "rpl: remove references to pre-Mavericks.",
+    "1b5205ba3de6c369cc06ceee06523fe28f59db73": "rpl: fix url(s)",
+    "a2671cc72e6fdef35b6fcf4c9945fecd7967b594": "rpl: update 1.4.1 bottle.",
+    "182e10e1d38b1116fd176afe2fcf5815d7d2e087": "rpl: update 1.4.1 bottle.",
+    "55627771a5d3e9d1dbf29c3dfa543baff15832e0": "rpl: update 1.4.1 bottle.",
+    "aab19f2044ce019b11315b2d67fdae366fc1f36a": "rpl: update 1.4.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d743148c50f0eb0b189bd84f099740dd6728ffaa": "rpl: use http protocol in url (was ftp)",
+    "7a6cef0e4fb813dc867c550c0b3553e911165658": "rpl: add 1.4.1 bottle.",
+    "5470d2a02b99840ba496d3118bf79c0e723c1c9a": "rpl: test added",
+    "691054ceb0829f5fe011c0596b06460c1d9cd76c": "rpl: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a616193bcbfa7cd7466f4f48a15cb1dfa5ebb34b": "Add rpl formula.",
+    "99fef61dd1757600ab0f8f628408a4018ccb1f5d": "Fix mandir for potrace.",
+    "4c6509567b377da9c6148a4f62890b8956fccbca": "potrace 1.8"
+}

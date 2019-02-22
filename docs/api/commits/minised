@@ -1,0 +1,15 @@
+{
+    "f17f28c1ebd983ab12a85c17738a1908c0bd43ff": "minised: update 1.15 bottle.",
+    "7be729326995aa44a484a0b1daec32ff3d32e7f3": "minised: update 1.15 bottle.",
+    "907dfffb1a7b3f4cf7458b16c9be0350a22d2850": "minised: update 1.15 bottle.",
+    "ab845255d152ae930af74f405017b11178de21fe": "minised: update 1.15 bottle.",
+    "57838c6a91ad738bb520bf30a4196e5aae886c73": "minised: use https homepage (and fix bad redirect)",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "18f35564e08ac2173f18705599dfb9695e62a4f9": "minised: add 1.15 bottle.",
+    "194039158fa0ad70c239cb83eb16f2b84d47fc15": "minised 1.15",
+    "1ff143e5d598a6ba0fdab93e28d74f6cc715e233": "minised 1.14",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "93c98f10d3482cee7707cee2bb779156abe56161": "minised: avoid inreplace",
+    "1f39f8ccc6766d4b9d04f0c09332f14af12f77f3": "minised 1.13"
+}

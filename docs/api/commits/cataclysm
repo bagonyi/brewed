@@ -1,0 +1,13 @@
+{
+    "4b3453e2c76be46e7f93a1a15bdfdf31ffc5f543": "cataclysm: remove checks for old compilers.",
+    "e5fc295da217d6e5a71a862a9195d6dc12dc1d0c": "cataclysm: fix component order",
+    "57501b6d2c01cc75a8b41be00dcae01e36f1988c": "cataclysm: update 0.C_1 bottle.",
+    "b603eda588f4b9f818a7b0d6e6ff0fa627709777": "cataclysm: build with tiles & lua support by default",
+    "f9b7184eaa6af79b22db5441979be7c9c8919b90": "cataclysm: update 0.C bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "a359bc5c50a74e6806e02ba165302bb0854bb755": "cataclysm: update 0.C bottle.",
+    "027f3ecac9acce85f7096bdfec3e9cb7cf5e70ca": "cataclysm: remove Leopard hack",
+    "b7e27e954b2ca8a1eb3143c90a67436941ba68d5": "cataclysm: import homebrew/dupes into core.",
+    "3ac37f6a34e91b58e9ad7ef470f0869f9fb36d82": "cataclysm: update 0.C bottle.",
+    "c6cf9e30627b65c76ca0964e0065b5aaa00a3839": "cataclysm: import from homebrew/games."
+}

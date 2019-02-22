@@ -1,0 +1,10 @@
+{
+    "357dddc6436f98d155836e583e5b0edb9e017952": "gerrit-tools: buttle unneeded",
+    "1a01cf36ab047b9bccd40fa7ad52fd6567082e9f": "guerrit-tools: import from head-only",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "4af6dda4788fd8c0bc886b9570ca95572031d32f": "Add formula to install gerrit-tools HEAD"
+}

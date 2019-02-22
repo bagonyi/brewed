@@ -1,0 +1,14 @@
+{
+    "fe73c782e9999663f3f6cdb478adeaf95b2b8844": "wgetpaste: secure url(s)",
+    "80f18defefc814d60d3799e58835cbeffc8e93c8": "wgetpaste 2.28",
+    "80fc1f3f5e8aec72b425d063a9c1a985913cda0a": "wgetpaste: bottle unneeded",
+    "de02cdf176917f628419bb8ab763358fadbd071a": "wgetpaste: add missing wget dependency",
+    "16d077e95b5978c80710f0fb0b11648fa341130c": "wgetpaste 2.26",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ef768107b1f4e6092f70730c47efb27d1461cf81": "wgetpaste: add test",
+    "a52115ff6867f71502246659100354d71ca74f13": "wgetpaste: quotes",
+    "13410cad309ac98aa90736cc45d27ba39efb3e90": "wgetpaste 2.25",
+    "0a3cd8145fbbe204d1daf76e995cd02ce7eb224b": "wgetpaste 2.23",
+    "366ec41e034a8f39e8552f92c3c169545653bcb0": "wgetpaste 2.22",
+    "e2cdea608df2cdbb8ffd6c69b35b8be00f1b353e": "wgetpaste 2.20"
+}

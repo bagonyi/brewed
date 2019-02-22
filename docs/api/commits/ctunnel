@@ -1,0 +1,20 @@
+{
+    "a21e9e937a531efbcac0f6d833b22ec9dd7409a7": "ctunnel: remove options",
+    "a3fe4c715ef4cf93c4647d69e91b98a50882ce3b": "ctunnel: update 0.7_1 bottle.",
+    "be8c57b6ba62f09e8cdc447d7239adb35c2349bb": "Revert \"ctunnel: delete (#22658)\" (#22662)",
+    "298a89db51fe744b6a4edd8cc89cc1957ec17222": "ctunnel: delete (#22658)",
+    "cfd8d1142da3f9fc18cab29d025d184bd7e1de69": "ctunnel: update 0.7_1 bottle.",
+    "59f27f3ad91b8abe1b967953f4eaa9892c392353": "ctunnel: fix url (#18223)",
+    "e9df2e835f73cceb182787575ae1dd7c0060bff6": "ctunnel: update 0.7_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6d848d324fa63aa8a6ac3e6d99bfce37a1a983aa": "ctunnel: update 0.7_1 bottle.",
+    "77716443039111388a334544ccd37285f9ed5029": "ctunnel: revision for tuntap removal",
+    "caede75219130a2bffe70564f1918d74c90c43d5": "ctunnel: update 0.7 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "05f30a088d3e5301e0b05fee3dbb2c72a2eb582d": "ctunnel: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "39a2350812edc1570beced83fdcdbacb064d2fa4": "ctunnel: add 0.7 bottle.",
+    "986dfd19869344b068bb60900122d0f59571e577": "ctunnel 0.7 (new formula)"
+}

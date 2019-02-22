@@ -1,0 +1,22 @@
+{
+    "b530850442130ca9b1bfd67c4941f3b4c9ea396c": "dfu-programmer: remove references to pre-Mavericks.",
+    "308aae131364aad12211eef59f35a31db10dfbc9": "dfu-programmer: fix dependency order",
+    "417aab6a149485b51b8ed33b32796332ffe687d0": "dfu-programmer: update 0.7.2 bottle.",
+    "f2499a97503effa0827254ce9f9e60dc002832d8": "dfu-programmer: update 0.7.2 bottle.",
+    "60f35f37f527be6114c11f5025c99f52962a1c36": "dfu-programmer: fix audit --warning",
+    "932229a016f51792cb1d34a4e25fbe31c626af73": "dfu-programmer: update 0.7.2 bottle.",
+    "3d8134d0c87c1e5158fca3eb4e689bea915773f3": "dfu-programmer: update 0.7.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0e6ffb70c3f0899d1d69c2e31817c383ca629cff": "dfu-programmer: add 0.7.2 bottle.",
+    "a8ea19f3eb40a9c92a59316460c1ae65236f947d": "dfu-programmer 0.7.2",
+    "40c737d39fafff3e18a0224cf19466548c1b13a5": "dfu-programmer 0.7.0",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "90fc3a9e2b666252e99be7b6ebffb7548d096f17": "dfu-programmer 0.6.2",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "e0b55117812a3e49a757ae2a21b8bc8d5e3e00d9": "dfu-programmer 0.6.1",
+    "f8b85a22aac28f965d82f72bb90eefdda9ae658e": "dfu-programmer 0.6.0",
+    "930477ef5e5c0a385e491255633cfd277156a4fd": "dfu-programmer 0.5.5",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ba029913a9e732786c0c0b329beeeb14484a01be": "New formula for dfu-programmer"
+}

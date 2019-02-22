@@ -1,0 +1,18 @@
+{
+    "bdb33fd6754e49f42f53428ac2f24da26c5b1c30": "mp3val: remove references to pre-Mavericks.",
+    "a2392c4932a360d4cd44ae0826e10cb1ae910cba": "mp3val: update 0.1.8 bottle.",
+    "c86029a979783eceec92f2260a12d8cc0ae4c2cd": "mp3val: update 0.1.8 bottle.",
+    "e14030a9669b31ab92018e291ef5ce3cf65929b8": "mp3val: fix audit --warning",
+    "3b4096ae5815cecf5c4e1e6428406fe3f8fa4441": "mp3val: update 0.1.8 bottle.",
+    "c26a7f0c159888d57c60058ea75934f28204b4b3": "mp3val: update 0.1.8 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "824563ec0afa5772b1e79fd1633363cee827bb01": "mp3val: add 0.1.8 bottle.",
+    "1a09b195148a724d407b069860694244a9c300aa": "mp3val: modernize + test added",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "0faa759083beb229c3a8114e0f584f9b10e7781a": "mp3val: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "29e16bc64b7ee3c852864025b29f987f2a3431a4": "Added \"mp3val\" - MPEG audio file maintenance tool"
+}

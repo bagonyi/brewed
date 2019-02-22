@@ -1,0 +1,19 @@
+{
+    "5370dae724e36e03a7a6054b85ba060b54065c4d": "twine-pypi: update 1.12.1 bottle.",
+    "61fc9cd7ea43b4f4410ade8f46a9dad1348ddcf4": "twine-pypi 1.12.1",
+    "9123c639e4cc01d8d424d34a1019dbd3c0363eb3": "twine-pypi: update 1.11.0 bottle.",
+    "5ba5ad32071baa5b96ff91ea2c707775645cdd8d": "twine-pypi: depend on python@2",
+    "e6173cb5cd8154dcd8fcaee423a107a54d8edb84": "twine-pypi: update 1.11.0 bottle.",
+    "94f3e093917407a1b3845ddfa0d98f137949bc51": "twine-pypi 1.11.0",
+    "bd52bf13b6d967007b87530030088e99d214dc96": "twine-pypi: update 1.10.0 bottle.",
+    "3949e6fbf1e18430621efdc7152575a1ce6e725c": "twine-pypi 1.10.0",
+    "26545925a4daadc40c6c64d778dd0548513968ed": "twine-pypi: rename python@2 dependency",
+    "7d8d5264993fd73b2cacf21b3db30fc940c0d77f": "twine-pypi: depend on python instead of :python",
+    "ad1ee0205e7eca796ff382f20c997cde719dbff2": "twine-pypi: update 1.9.1 bottle.",
+    "bcb2583ab1f849ba3194ec3226887be953d7e1e6": "twine-pypi: update 1.9.1 bottle.",
+    "904f25bde51027c7c0546f9dd6b9b51b5d1b68db": "twine-pypi 1.9.1",
+    "7446457b46090cda4565e9cb81a2c78ad5eb748e": "twine-pypi: update 1.9.0 bottle.",
+    "716453ff0f72ab620978d3174645f0fdbcacab24": "twine-pypi 1.9.0",
+    "9000308303b672d6c22aa7f79d6e0c289ff377e3": "twine-pypi: add 1.8.1 bottle.",
+    "09c60442137c5bcc613af60f7c816541e3072576": "twine-pypi 1.8.1 (new formula)"
+}

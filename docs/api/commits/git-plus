@@ -1,0 +1,14 @@
+{
+    "dae43c0f669ae16a66c4d5b54fb6ca454a9e3a8a": "git-plus: add Python 2 comment",
+    "bdd639536a2f8611da9b8afb2f3c7cd2d761ee09": "git-plus: depend on python@2",
+    "70f00d8e179771d912685522ec127f12c98afc4b": "git-plus: rename python@2 dependency",
+    "47fbf7cdfeeff63fa4d7884d5a482df50ec6759b": "git-plus: depend on python instead of :python",
+    "82120523538a0f4c3123cf6359d1fa17ba4199c3": "git-plus 0.3.1 (#11551)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "df4e1b8742933209bc9d31c6251deb561d5c43bd": "git-plus 0.3.0",
+    "ab9f49ea0bf160af5b392cf046b8e0492464cc65": "git-plus 0.2.0",
+    "63d1bf3bf7dc928c14a3a228a397d73c970f0895": "git-plus: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "799d19fcd57ca92d040a030e597e43d6e7f97d7c": "git-plus 0.1.0"
+}

@@ -1,0 +1,13 @@
+{
+    "29368668ac6a8dd8bad5cf287f75cc5de9d06bc9": "scalariform 0.2.6 (#21007)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "90f4c70dfea7b902b958ce3334de516a0eed1323": "scalariform 0.2.3 (#17270)",
+    "0ddd0756249bed7d3ed47ef64611fbb549cc72ec": "scalariform 0.2.2 (#15874)",
+    "33d4b073ba13323ac970d8474bb218b19a9f0e46": "scalariform 0.2.1 (#15677)",
+    "2b70bb12010e2670ce0f2d9265c857f2862f9c28": "scalariform 0.1.7",
+    "101a3db961cffca794a8e719660e3c6b41417e7c": "scalariform: move bottle modifier",
+    "ace72be2b7db5432d4cc7f9cf98e2955258bf66a": "scalariform: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d3fc9a4b5959dd1455836a79fe8e618e75d4f897": "scalariform: add HEAD",
+    "1054ad64fcbf2f908a0349a7e4a046b1a280f18b": "scalariform 0.1.6 (new formula)"
+}

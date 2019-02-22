@@ -1,0 +1,9 @@
+{
+    "07c5d51a3c03789138dba5668a735879724b1630": "crc32c: update 1.0.6 bottle.",
+    "c04c17c54d3e9175b5df98cf96e93e7abe4a14cb": "crc32c 1.0.6",
+    "ad4cf42099ba2a1b8d4884e5134f4b9db54223e0": "crc32c: update 1.0.5 bottle.",
+    "e4c8f082da78557a94dbd1ed1be84832c7d52e3b": "crc32c: fix description",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b3b1dc7db9002a121ee0647dcdccb0e15aa65c96": "crc32c: add 1.0.5 bottle.",
+    "cb837f0fa36cfea9f77c3d735bc5a82a543bb5e3": "crc32c 1.0.5 (new formula)"
+}

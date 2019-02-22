@@ -1,0 +1,23 @@
+{
+    "f3b8c6a74fed41299ce141d07c175d6e03568db2": "git-now: fix RuboCop Layout/AlignHash.",
+    "8ffad90b93e1e563092af9e6e98daa60c8d2ff9d": "git-now: update 0.1.1.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "54604bb04dcd97c4fd39ed89757ff1024fc45c51": "git-now: update 0.1.1.0 bottle.",
+    "91adedf14e6ba38735064ff96f14a16384c1138a": "git-now: update 0.1.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "afb142ad2642e40e77f2317e2afb820bd950a028": "git-now: add 0.1.1.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "db707e86d65f74a4b91e4f0a40f6be15c049a8d1": "git-now 0.1.1.0",
+    "d368d6223b7d9f1928da3e97f22bba22c02cb719": "git-now: use patch DSL",
+    "8847fd0f1fc07c0c7928c7a09d342d33e09d8c47": "git-now: install to libexec",
+    "e963cd92f88d44d89473c1d2975fd765040c2548": "Detect versions in tag specs",
+    "3d4f2dc9cdacfd13265ec036978c8198afb143c2": "use bash/zsh path helpers",
+    "a209c24ac2707e3e8ec6f46424686b05de9c4673": "Automatically append shell completion caveats",
+    "2963cd12ed33263faeab01362af26232a66cc53c": "git-now: fix typo in caveats",
+    "867de6aceb59e6d86f74f5a850fc5825089ecb78": "git-now: install completion into site-functions",
+    "4aebfe31c4f639fb52a1b8a587534ea11e87e078": "git-now: install zsh completion by default",
+    "31898e19a4386ca341681eca6843f4d0de5ddbdc": "git-now: update options/caveats",
+    "7b0c388360014dbc64ae1745f99007fa1b4d3b08": "New formula: git-now"
+}

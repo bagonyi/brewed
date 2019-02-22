@@ -1,0 +1,20 @@
+{
+    "607a0fe132c3ce357423f3d6074608adbd723a16": "i2p: remove old code.",
+    "7e1454746c9339398df177ced5a11e5e4953e433": "i2p 0.9.37",
+    "350819557ff8e441f97f022fe6910b7a247ee0f5": "i2p 0.9.36 (#31403)",
+    "e3371447aa38d2b4b53479b5733d38ffcafc9498": "i2p 0.9.35 (#29467)",
+    "a8b8079e55623ee3ad6c926eb4a5ee319de727be": "i2p 0.9.34 (#26489)",
+    "66c9024f18038552e5c5068674cba67b07956482": "i2p 0.9.33 (#23500)",
+    "f6eedaba3287da8f30311ac0cb11959202e9b9cb": "i2p: add mirror (#22618)",
+    "dfb5bffcf26ec18cc22ab2456557eefb8bd37fcc": "i2p 0.9.32 (#20541)",
+    "c8a4a4907059a6c95fdf57a3b71b0337a7cd959f": "i2p 0.9.31",
+    "2fecd73e1382a30a9e7a7cce555edeac1e8e9b4e": "i2p 0.9.30 (#15190)",
+    "0ca1494eba05cfb9f3da39cf432c362c3e961d15": "i2p 0.9.27",
+    "66507c32f683bb7a6f7cf0ec6062b3f0c4844313": "i2p: simplify test.",
+    "7b2687bcfe5e457834686aa5188efd98d288495a": "i2p 0.9.26(#4529)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "b7af2bf3d8af41f8b0f4b3d53cfb5efd488fe030": "i2p: fix audit warning",
+    "dafa2ee0942fbe141d6307cb248718ce6227d011": "i2p: bottle unneeded",
+    "979eecee0d25654f54934b576e701adad1f17293": "i2p 0.9.21 (new formula)"
+}

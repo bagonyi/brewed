@@ -1,0 +1,16 @@
+{
+    "1d36d9811c8e1bc7bc87f5ae6d57958a9ddae062": "makefile2graph: remove references to pre-Mavericks.",
+    "7c13366fd0266e5344ec0beb56a192600301fd30": "makefile2graph: remove options",
+    "a43831cc07be0bcd72a420e0030c8af006a81c93": "makefile2graph: update 1.5.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a025f39c487e667acb30fa9a3adfbcff1426b664": "makefile2graph: update 1.5.0 bottle.",
+    "e04152b0fd746f6843cb2a459044dbc9cdf0402c": "makefile2graph: update 1.5.0 bottle.",
+    "2300b7dc464d2129868c2855647f201fb595f29d": "makefile2graph: update 1.5.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "150c543b2ee9d6aca43991d8ba58b24f03d8359c": "makefile2graph: update 1.5.0 bottle.",
+    "598282161ff35b11dbe9c4fd6822baaf730f73ac": "makefile2graph 1.5.0",
+    "c52d9b067650a15ad86ec45847911ab89fee401d": "makefile2graph: add 1.2 bottle.",
+    "0015f031c6cbc09ea10488919ccc417c10d67506": "makefile2graph: New formula"
+}

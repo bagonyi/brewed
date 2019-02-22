@@ -1,0 +1,18 @@
+{
+    "93fac6ce711b315bcc591bafd14d914e96c09d65": "autopano-sift-c: update 2.5.1_1 bottle.",
+    "9da41ae385146cf853ffc7422c8b169f1e022353": "autopano-sift-c: update 2.5.1_1 bottle.",
+    "06d95097d2ebd4aeca6f8c3f016f5408803c3ebc": "autopano-sift-c: update 2.5.1_1 bottle.",
+    "29116fe2d8d8978a649fd1aafa7055a3731860c2": "autopano-sift-c: revision for jpeg",
+    "4f5b76d6c9ae345ed031cc6c850272fd989a6746": "autopano-sift-c: secure url(s)",
+    "4d70d7a6ca50ed1d3d73ae626ebd16c27c0bdcc5": "autopano-sift-c: update 2.5.1 bottle.",
+    "3b2b4cb8ef3349eedaa6ff3dd69ca275ec850aa6": "autopano-sift-c: add 2.5.1 bottle.",
+    "1444813b2548b0cb9c77ad87553a9e3f0043d5eb": "autopano-sift-c: style nits",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "3eead0eef988d06df7f98fd194285cc286fded78": "autopano-sift-c: use test assertion",
+    "476b68c46c37aab026cc9c06d1f74ed8254cd196": "autopano-sift-c: improve test",
+    "db29f48b9d90eb710ea07e32c45b9f11950b7000": "autopano-sift-c: fix :build tag",
+    "b5a91681c215ab2c452a4c1ad077c200c6d98fe9": "autopano-sift-c 2.5.1"
+}

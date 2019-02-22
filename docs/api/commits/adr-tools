@@ -1,0 +1,9 @@
+{
+    "65d8869965052ce6a83e4e557449a2ee870c0694": "adr-tools: install bash completion",
+    "2d9f20ea0298726e3558de35e7010a0d614ce4e8": "adr-tools 3.0.0 (#30479)",
+    "7ca78343652f4b7e4d4371573c765821b6797c42": "adr-tools 2.2.0 (#29738)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8d1ae1b8967a6b77cc1f6f1af6bb348b3268553e": "adr-tools: drop unnecessary regex",
+    "697a84404f571a5fc2ce577becbc04ed59984776": "adr-tools 2.1.0 (new formula) (#13081)"
+}

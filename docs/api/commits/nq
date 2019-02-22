@@ -1,0 +1,17 @@
+{
+    "6b83433974d7f993d86df7b00df08e7067a724a9": "nq: update 0.3.1 bottle.",
+    "92b764b1ae056d8385d0111f488437f7eca6540a": "nq: update 0.3.1 bottle.",
+    "c32e0d09a911db8cd00dcb9691524bac31f77ada": "nq 0.3.1",
+    "1eb722b39fe9ebacbd86cac95977c3249079b8ab": "nq: update 0.2.2 bottle.",
+    "d2a70850cb563a7cdf653509d93d1d8a841673fc": "nq 0.2.2",
+    "a6d3e79c381b11f5481fa86a27966b9d7694cd5d": "nq: use assert_predicate instead of File.exist?",
+    "0781a116d81f28d6b66df2c8344ba6a7333ca0d8": "nq: update 0.2.1 bottle.",
+    "78c5cc9de64b7608971138ef3b73218339468b20": "nq: update 0.2.1 bottle.",
+    "33ca02097a6df6684d07caa2efc9d7992fba4138": "nq 0.2.1",
+    "0b154bdb4a262890851b05ed6731123739fda578": "nq: update 0.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "af82e350617b87b632a62c30096d03b019cbff15": "nq: update 0.1 bottle.",
+    "a8514cc82fb520dc89214f7d729107d49ff023f2": "nq: add 0.1 bottle.",
+    "4e40fdad8a749f23ffef73a437176188c170943d": "nq 0.1 (new formula)"
+}

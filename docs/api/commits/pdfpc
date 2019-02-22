@@ -1,0 +1,19 @@
+{
+    "76c38a09e9f165156046fb9b07eb585af2581e73": "pdfpc: update 4.3.0 bottle.",
+    "d9e30b0c55ff2aa1fa6c7ad58f7b7b46ca4e55c6": "pdfpc 4.3.0",
+    "3c92e8b9da216e575006f54df4b1cbefaf10f113": "pdfpc: update 4.2.1 bottle.",
+    "2c741428c4d33dce0371a91a49c6af32d39b4227": "pdfpc 4.2.1",
+    "a419e0e34ddf37f72268440671f6673188ded3b0": "pdfpc: update 4.1.2 bottle.",
+    "277601f18b8b897bd393cbce556916cfc7fd97ad": "pdfpc: update 4.1.2 bottle.",
+    "c8b179719e2022bf6990267cc703f8e458a794f2": "pdfpc 4.1.2",
+    "1f71584c34c49fe84931851faf6f3adea891ef4b": "pdfpc: update 4.1.1 bottle.",
+    "b9b950c19baf2e1d46167fc2be84b65bbc785f02": "pdfpc 4.1.1",
+    "9d85650b4762e46a928eaf60258de42bacd13ded": "pdfpc: update 4.1_1 bottle.",
+    "8275d5032c5e4fb2aa56809c9e2fe27b80f99228": "pdfpc: revision to fix install receipt",
+    "f85c319e27d462abeb7101698e80ba80cd574926": "pdfpc: update 4.1 bottle.",
+    "6a296d982c5c28e8b0ea0062278878fb6abe4ad1": "pdfpc 4.1",
+    "c031f181426168718b7f2fcacf967e5e42a51816": "pdfpc: update 4.0.8-2 bottle.",
+    "5298ed2743fabb887fd3df550184e390cabdae69": "pdfpc 4.0.8-2",
+    "625fcf0453b7cd8bfd457509417553bbf3d9824d": "pdfpc: add 4.0.7 bottle.",
+    "2ad36e60e513e003e628a86b26484e7469b93938": "pdfpc 4.0.7 (new formula)"
+}

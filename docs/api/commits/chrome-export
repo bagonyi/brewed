@@ -1,0 +1,7 @@
+{
+    "2b31a5154ce19439a6fff222220f4ea5f73ad129": "chrome-export: use system python",
+    "526d5aefb0854156f1c985f3c00aa5d574a32415": "chrome-export: depend on python@2",
+    "05ecfca0376cb6fe25aa3308dd090bd203d2142a": "chrome-export: rename python@2 dependency",
+    "0506692a7442db88286a35d596dce0d7b40600a1": "chrome-export 2.0.1",
+    "8efa859027065c6d49470b9949d512e6dd5925e4": "chrome-export 2.0 (new formula) (#23755)"
+}

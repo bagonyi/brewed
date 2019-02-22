@@ -1,0 +1,20 @@
+{
+    "9317912215e1d23dc2f21288b4d5b28c25881a12": "sipsak: remove references to pre-Mavericks.",
+    "12615ceb20bdad63059590df69a96d78f912f4e4": "sipsak: update homepage (#35870)",
+    "8cc15afab05c5e9f41cf99047514dcd82850df9c": "sipsak: update 0.9.6 bottle.",
+    "3789a04ce71afa5b0e2717452a07652a5fd84fc5": "sipsak: update 0.9.6 bottle.",
+    "ce8b1ed8949466e61ea6e0018f0a36beef153c75": "sipsak: update 0.9.6 bottle.",
+    "16aa5c76b4f90c3aada80041f671977bbaa7f088": "sipsak: update 0.9.6 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d903e6903a0ecbd230e21161a9754d4350f43e55": "sipsak: use https homepage",
+    "70c8f3e926713afd9340278a74e0c3f53295db6e": "sipsak: add 0.9.6 bottle.",
+    "017b7472e345f379f7e9b5aa2f004546f782d124": "sipsak: update url, homepage",
+    "68ea1ea908c8c82f7ca591a651b0baee7fdb6557": "sipsak: fix build with clang",
+    "8150da608a38c75330e086c384f17764e37baa38": "sipsak: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "9e38c0309ca8568d91364e995f266fdba621407a": "New Formula: sipsak"
+}

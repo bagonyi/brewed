@@ -1,0 +1,15 @@
+{
+    "4616d27fb2a1f427b5aab6d26d32158e723557fb": "redsocks: secure url(s)",
+    "ac2c4212522f7983cade490c0641e202c514ec18": "redsocks: update 0.4_1 bottle.",
+    "a5ecea9cfe8b2765090f4f7f73d5ee403c1331d8": "redsocks: add test",
+    "1eb1fa0487b65f5cea41f1d72de2457ad9914e10": "redsocks: update 0.4_1 bottle.",
+    "b162dd98f487988b37ce51720c331c51a4b5a853": "redsocks: update 0.4_1 bottle.",
+    "3ec8238d8c9ab939240df4a3fb8638f9cf5f7bc7": "redsocks: revision for libevent",
+    "dfa6c350cd736450d8483044c33b2a1fcda4c05e": "redsocks: update 0.4 bottle.",
+    "9877de270427724ac23f8a347c5d41162661a157": "redsocks: add 0.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "d71554a12f19bdb2667239c164e01a2fc7a770b7": "redsocks 0.4",
+    "d2a0c4a2d364d5a44d56ef9252a383af66daf998": "Redsocks 0.3"
+}

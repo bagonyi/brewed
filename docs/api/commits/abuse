@@ -1,0 +1,21 @@
+{
+    "190b7b71411877e0eccf7d90cdfdc154bbb463b7": "abuse: fix dependency order",
+    "790077c8d25e58d8e8cc3ee8e418b59f29c030e1": "abuse: update 0.8 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ca52c3f070c4bb6187862dbed3187fde409a14ad": "abuse: update 0.8 bottle.",
+    "dddcf30abf7f1ce70f0ede0d861709e368bb651a": "abuse: fix audit 'description must start with capital letter'",
+    "fb692d697f4847cffc1c4b7edef4296a4e409dea": "abuse: update 0.8 bottle.",
+    "b3792e052e2e36274ac7801da06d95a31291f514": "abuse: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "7378d20c9b1ab7d92a728106a55c2afa5b047407": "abuse: fix quoting",
+    "6adec7d74b0277dbf0ae9186c2e919ac330ec528": "abuse 0.8.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "aac2513938194d7b70dc9c0860bd057ed8660146": "Abuse uses pkg-config now.",
+    "bcdff7ccc383e503f4a25e0fb81b2e256283fc9e": "Update Abuse",
+    "c202c88dc95bc5caaa97a607083813ae501884e0": "Abuse depends on libvorbis and needs ENV.x11",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "e5e0bbfb346a04f8eabeb42a8e640c427bb875a2": "Formula for the side-scoller game 'Abuse'."
+}

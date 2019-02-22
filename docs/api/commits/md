@@ -1,0 +1,15 @@
+{
+    "dba3ba4040a74484b1b64b93798fbc4eef3b9c0a": "md: update 147 bottle.",
+    "ba3b3757c1856602f4bb6e526f6369b8dfcfc109": "md: remove old keg_only reasons.",
+    "3c7e219882fab7b9ca0b08348f4833d615a4021f": "md: use refute_predicate instead of !File.exist?",
+    "97498deacaa6134cc743e15e15c1f02b23142c98": "md: use assert_predicate instead of File.exist?",
+    "37cb6b699c4277c763bb33c345be9147b10e00b9": "md: update 147 bottle.",
+    "453e11a586d77b0a2e9e626e80f2da0fecbf8f8e": "md: update 147 bottle.",
+    "2a4fb00f04b0860c4935a901ae8c59fd8f75eac7": "md: add 147 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "71af2e89f4339b4a82d60a5354a09513c37a07d3": "md: use https",
+    "54bed71cde6644830b09e5c8b40ff86c51e6a46f": "md: add test",
+    "b050517c77b909b5055dd6a1e15630e46890a63e": "Fix missing keg-only on pre-Mountain Lion formulae.",
+    "53473b6bf518b2e648cdec2ca25374dc7e285721": "Clean up MacOS version method usage",
+    "f8ea5675739a4cc92e15bf33f535e4363d279773": "Added formula for md (1), which is missing from OS X Mountain Lion"
+}

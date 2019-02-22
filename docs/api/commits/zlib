@@ -1,0 +1,9 @@
+{
+    "e04016232f811bb104fce5381ec3f4557c88cf9c": "zlib: update 1.2.11 bottle.",
+    "3405b293d63bff1e81040032391fbc1756cf1721": "zlib: use *_by_macos.",
+    "c9a125e031fef3a5c6133ab528a1a26beee33a62": "zlib: use assert_predicate instead of File.exist?",
+    "9c039fa84300877f9d3c33131544f0b2551341d8": "zlib: update 1.2.11 bottle.",
+    "688094ad7c7d551856bc287923c79db9b78ba30a": "zlib: secure url(s)",
+    "68fe052398ea0939315ad87b0a08313c9d9a95af": "zlib: update 1.2.11 bottle.",
+    "4557e3b3b21231a8cbd247581a6557a4cb4cb918": "zlib: import homebrew/dupes into core."
+}

@@ -1,0 +1,13 @@
+{
+    "2de4e46daaab141963dbbf0863287e18bca895ef": "msdl: update 1.2.7-r2 bottle.",
+    "7bbf0cbcac1ad1610a7d0f9b851de8df0d884d85": "msdl: update 1.2.7-r2 bottle.",
+    "6be006a90d5fd0b70bfbbb48956d25a3760bb066": "msdl: fix audit about sourceforge link",
+    "1e6365385d9161b6ac39eca335a6d2bb88cd768a": "msdl: update 1.2.7-r2 bottle.",
+    "488980a0a875b367d26ab954fade32265c97aa6e": "msdl: add 1.2.7-r2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4942d68ddeb0451c6726d946d5ca988415acac00": "msdl: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "9a0119dcf44c6530e9f7ed2a5edbe32deb98d087": "Update docs, comment mxcl/homebrew refs.",
+    "f0388425f8dd13a5a740db39db4bad9a7fcade08": "msdl 1.2.7-r2"
+}

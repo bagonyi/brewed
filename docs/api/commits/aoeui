@@ -1,0 +1,16 @@
+{
+    "d8040b4b9df91f9b2661c83128c8e26deda19b05": "aoeui: update 1.6 bottle.",
+    "03facf38745d8aba5ec7b77201c6b9f5d833ce3d": "aoeui: update 1.6 bottle.",
+    "6322666f6b56788a9d6decf876435c4f03716a45": "aoeui: update 1.6 bottle.",
+    "a2ef7a1bd088ffd0bdd4cde143e53114d2b4374a": "aoeui: migrate to archive URL",
+    "138bc31fd20314987450f4527e28308b7e339435": "aoeui: add 1.6 bottle.",
+    "d1497120ed85ab4e7c64506c66e56bd52038c9d0": "aoeui: use secure url in comment",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "7c9cc9693be097cf6583fddb45ed2beb656b68ec": "aoeui 1.6",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dd65524399c66ff63f7d3f341bc03cca9b71d6a7": "Updated formula: `aoeui` version 1.5",
+    "791d29c5ed688db0a54e3fa434f87861ba181e11": "Fix HEAD support for aoeui",
+    "cae2da1e44740ffc451b02a1623f18bd6a056458": "New formula: aoeui"
+}

@@ -1,0 +1,18 @@
+{
+    "27fde0c885f3bd8c413e54657d1a60c83f297711": "gtmess: remove references to pre-Mavericks.",
+    "c0a7ae822502b0510ceec0cfecbb9e1c3bfbf7ac": "gtmess: fix dependency order",
+    "37ef1568a6bc5aa975d247b08ff706e98692f501": "gtmess: update 0.97_1 bottle.",
+    "2bab509480ecd96301dbcb7c387a96b920cc1265": "gtmess: add test",
+    "9e6b984d9f78af6cfef1a9f33e0e05c002f9cc9c": "gtmess: update 0.97_1 bottle.",
+    "3d2c085d9190a89fba40a7d2cc6b24897f3574fb": "gtmess: fix audit --warning",
+    "361dbe73e9ed2a8bb6f105d4776e0631a4fa1a81": "gtmess: update 0.97_1 bottle.",
+    "d552b9a3f23c7f323dd518e3fe173ee97ede66f4": "gtmess: update 0.97_1 bottle.",
+    "a61b9d856de2a377776f03f46b76e44c4650be81": "gtmess: add 0.97_1 bottle.",
+    "e4bf8f9de20b0953b1f7aa52f19437a3c9d89109": "gtmess: revision for system openssl linking",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "740cfc03b0a33d14864ef7b232c7fd8ceba65c11": "gtmess 0.9.7"
+}

@@ -1,0 +1,19 @@
+{
+    "d73480c09873b404ac8c656bd9510dcb0253adb1": "git-subrepo: update 0.4.0 bottle.",
+    "248ec0dca1c8d24d8200dd85f3b42ed7a28f95eb": "git-subrepo 0.4.0",
+    "be1774e88bc05bcdb08e9284e9b2f4fde347adf5": "git-subrepo: update 0.3.1_1 bottle.",
+    "44a049e499a55d100295b9bb046e4bff76c895ad": "git-subrepo: update 0.3.1_1 bottle.",
+    "c4e9eea566b997182dbb8a5524315b354932ab9c": "git-subrepo: update 0.3.1_1 bottle.",
+    "c3992b2211fe793f3babf8a9af8810117212a9f9": "git-subrepo: install shell completion",
+    "37753671e689aec7836f1c8e23a3483aacfe53ec": "git-subrepo: update 0.3.1 bottle.",
+    "4cdc2681116161cde1fd229122da03b9ba787b85": "git-subrepo 0.3.1",
+    "42e29739cd227d1642c9a97384534b006a59696e": "git-subrepo: update 0.3.0 bottle.",
+    "9265ec1298dd9b9f6bcc9f6a23e19d8888c2cb50": "git-subrepo: minor style nit",
+    "e2c6883ea3b502a1b00c04d6465dad310e23c7f5": "git-subrepo: update 0.3.0 bottle.",
+    "321f873cb2a42d0617065ca3a96bc5edee177074": "git-subrepo 0.3.0",
+    "10a90ec057af5e9a7c3dc4118c7eb709dab9eb1b": "git-subrepo: update 0.2.3 bottle.",
+    "1e331ef2b635956126e52409659e2a1ec1694487": "git-subrepo 0.2.3",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9a4d82942457ab051a0f9bfbefeb9bc58d9340cf": "git-subrepo: add 0.2.1 bottle.",
+    "9cd7413aa1a6d08bcd55abd397e2acf70797b344": "git-subrepo 0.2.1 (new formula)"
+}

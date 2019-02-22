@@ -1,0 +1,15 @@
+{
+    "a6dcd94d06916c9afc750d45f4dccf4716982349": "spandsp: update 0.0.6_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "453d7654dcd414dd678bedcce2332f3cfd796809": "spandsp: update 0.0.6_1 bottle.",
+    "028900532e0906c779623dcc8d55b8e5045da6b0": "spandsp: update 0.0.6_1 bottle.",
+    "6f15b8ee42e3c0253f57a6b200795772eb21ad99": "spandsp: revision for jpeg",
+    "760a94830f6341a0e31982873314edcf826e870f": "spandsp: update homepage and url to HTTPS (#11173)",
+    "0a4225a232fd19d6a53237886927e30581fcd9f8": "spandsp: switch to http for homepage and url (#10204)",
+    "323d5fd32101a8f3cb70a089fe4d9735cb7eceab": "spandsp: update 0.0.6 bottle.",
+    "e188958122346517aea0cdbfe0d14ef8ce3a50f4": "spandsp: update 0.0.6 bottle.",
+    "0f4abaef6ef79f13e313e9dfaae1dabaa5387af3": "spandsp: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "3f8bc24cab262d274787b1bef6be325f7b19c4fd": "spandsp: add 0.0.6 bottle.",
+    "b5a1744d82eba60ea2c0ca3352d512d2eee00619": "spandsp 0.0.6 (new formula)"
+}

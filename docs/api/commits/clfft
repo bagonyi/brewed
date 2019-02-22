@@ -1,0 +1,6 @@
+{
+    "968715e655045ccdd49814afade60e65349d69e8": "clfft: update 2.12.2 bottle.",
+    "0125f5ede1c04cc28b4ed0fdd9dcc81dbb05f676": "clfft: update 2.12.2 bottle.",
+    "207d1d86c228cb00a8cf875f7c560f9c9b6e9f05": "clfft: add 2.12.2 bottle.",
+    "1389072593f35760b967adefcfe93b9f6a53534d": "clfft: migrate from homebrew/science"
+}

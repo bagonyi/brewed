@@ -1,0 +1,14 @@
+{
+    "e61d13469c3931aba097783bd42fdda08b8ad447": "sparse: update 0.5.2 bottle.",
+    "359eea7eb46ca9e0106e679b5d575ccc8af14e54": "sparse: update 0.5.2 bottle.",
+    "4905edb1be1c8e2fb2d92841029839aa8b70c525": "sparse 0.5.2",
+    "fb7eb195a90a4f6f90be27585a746344e1ad051e": "sparse: update 0.5.0 bottle.",
+    "fc1e3ff846d9c074d2488feaafc37d44e3585b32": "sparse: update 0.5.0 bottle.",
+    "8be22b5d10690c6fc24b656e1fa3650d12eb1c5c": "sparse: update 0.5.0 bottle.",
+    "8dfdc6462d7e5853293583e90b0203e437234f76": "sparse: add 0.5.0 bottle.",
+    "2ad2048d73b9d595fdd47ade015fc8e382d21d58": "sparse 0.5.0 (new formula)",
+    "587b7aa6f96b346e4c4ea0b6eb52ea8542b6d0c7": "Remove sparse",
+    "4f9f0d0bf52f8540485aa7b5e74b6aa32fa432f3": "mirror support: Mirrors for kernel.org software",
+    "60b706206e68e52a04bff865e8c164c5137d4f87": "Add HEAD to sparse",
+    "0e15c7e2f5878206f871de8463ab11d0a9f159c8": "sparse 0.4.3"
+}

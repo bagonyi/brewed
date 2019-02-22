@@ -1,0 +1,19 @@
+{
+    "9f7e47c1557650bac6098bb8f96a04245a355ac6": "xhyve: fix head (#36308)",
+    "1662e63855c573f28af809037afba6b5a99c27e7": "xhyve: update github url (#34606)",
+    "9e5ac67d7b88b2b718a9408a96f93fbcad764629": "xhyve: update 0.2.0 bottle.",
+    "464b5178c224e077dbdfa9e4a98d61299e27715b": "xhyve: description update (#25867)",
+    "2ad9f85599ad52bd3ddcf1beba26385b419c824a": "xhyve: update 0.2.0 bottle.",
+    "31f9f6448bf337bcfadf2856f132516245c8e079": "xhyve: update 0.2.0 bottle.",
+    "60aefa6c517a0e99a71dcc5f5ec040d2b093d04e": "xhyve: include test, examples and manpages.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9b5a2ad1975fcf3ad5453e7d4eecdfc81a1f83ff": "xhyve: update 0.2.0 bottle.",
+    "ae3bca01bb81feaa31d7bb3204213a62e4d15a0d": "xhyve: update 0.2.0 bottle.",
+    "cd90d6005ee3edeaa2313c5151a02e73632c584d": "xhyve: update 0.2.0 bottle.",
+    "93062dd58b9a7436e3d946edcd916d64e26444c1": "xhyve 0.2.0",
+    "910a0f7fff4ac0eeb9ac105c8d3c580d699c9596": "xhyve: update URL and description",
+    "70adb714c48c8920e18138e6fafac8e51790342e": "xhyve: add 0.1.0 bottle.",
+    "c11c53557e9ece8b607d8914a0f4a1c311a9d9fb": "xhyve 0.1.0 (new formula)"
+}

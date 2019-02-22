@@ -1,0 +1,12 @@
+{
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5164ef2f3e89374af5773b3ea124a234b0dba6ce": "plod: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "03015b15517fabca2e6c9ad91faa93dbf5e4a9e9": "plod: modernize, test added",
+    "9cb76dd36a5e625c2563f434d3fc16da12ca9269": "plod: style nits",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "08a3f260a4cf3df944cdfab9f94bd7ab602b7f12": "Add plod formula."
+}

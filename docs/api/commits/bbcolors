@@ -1,0 +1,15 @@
+{
+    "90e777488150502974871adea0ef7329def7ec80": "bbcolors: remove references to pre-Mavericks.",
+    "4d876e8b836345f1038eb14661a5bab607973250": "bbcolors: update 1.0.1 bottle.",
+    "30d5eb742294606ad9bb2e44cb747655bd0bfaef": "bbcolors: update 1.0.1 bottle.",
+    "218c8971f2bee50fd88c2c30c40330372647e77c": "bbcolors: update 1.0.1 bottle.",
+    "ee27a3e3ee41c8889ca17a3fe6116c6b64cb3ffa": "bbcolors: update 1.0.1 bottle.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ba24136cf2de4b4b2438ec2c91edce49b46127b3": "bbcolors: add 1.0.1 bottle.",
+    "92c91774f9b41fb35b045313f61f78dfa361378c": "bbcolors: test added",
+    "26a2a64b1598f6a942b9fc56bf58fa4a206c449e": "bbcolors: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "994592f5bf20bba95c0722c701837a266509f75e": "Added bbcolors formula, a tool to manage color schemes for BBEdit."
+}

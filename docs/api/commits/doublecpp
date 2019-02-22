@@ -1,0 +1,14 @@
+{
+    "322961ada8fbd8a6d829d14d482bc2991e9a1786": "doublecpp: update 0.6.3 bottle.",
+    "d0d32d66ec03236c6e4f383cc9a18aebf31e974c": "doublecpp: add test",
+    "248b385c53211c29afedcea394cedcce74df7f2a": "doublecpp: update 0.6.3 bottle.",
+    "af444d655945ebbc8e971da06b85d86fdb8581ed": "doublecpp: fix audit --warning",
+    "83798016eed661209ac172dda941dc8d00937d2d": "doublecpp: update 0.6.3 bottle.",
+    "65ca4a3d156c11643842526497ef8c3fac7c4205": "doublecpp: add 0.6.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "ead76f996de8e91e47679cd6fa04883431fa6f7a": "doublecpp: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5e49b29998d72e7217adbaa7eb8209371af6e5f4": "doublecpp 0.6.3"
+}

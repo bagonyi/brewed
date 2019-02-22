@@ -1,0 +1,19 @@
+{
+    "27653273ab81bbaadb5d6264f9d55f413e5bde71": "vamp-plugin-sdk: fix dependency order",
+    "bd7d3cbd6401a11186aea879c05ec28329dd5432": "vamp-plugin-sdk: update 2.7.1 bottle.",
+    "55dec71226498a14d289a2f998f267c41b9cdb06": "vamp-plugin-sdk: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9b360946eec77679995e77e3a22062646bd41646": "vamp-plugin-sdk: update 2.7.1 bottle.",
+    "1e48c18918642a97f1345b6a1818aa153878b8ee": "vamp-plugin-sdk: fix audit 'description must start with capital letter'",
+    "fc2890b604e032ca29eb589f2044918f15aded4b": "vamp-plugin-sdk: update 2.7.1 bottle.",
+    "898255dcf40be4bbf4d378a97f9d26e594c57700": "vamp-plugin-sdk 2.7.1",
+    "062be8317229df22755f3e97332b03258ccd271d": "vamp-plugin-sdk: fix audit",
+    "b60e1801b9e351f45a2a536e7b0620600d0cecff": "Undo erroneous \"(Mac) OS X\" to \"macOS\" changes",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "4ebd78d4eeb3168caef8bc2c9fa40ee38a81d2df": "vamp-plugin-sdk: update 2.6 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "427fbdabe18880344d4ebd907f61de99573ceecb": "vamp-plugin-sdk: add 2.6 bottle.",
+    "751ca26d157a8b6ce1eeea9ee77589d49d6b941f": "vamp-plugin-sdk 2.6 (new formula)"
+}

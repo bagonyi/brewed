@@ -1,0 +1,12 @@
+{
+    "01251e4a17e0be65eebe44721d05ee43e5f6433f": "freetds@0.91: update 0.91.112_1 bottle.",
+    "d490f95b317f0f121b88b53d3bc9d073d448d1cb": "freetds@0.91: remove options",
+    "2af4a45a714e5e4db721b90abdc0a8155012736f": "freetds@0.91: fix dependency order",
+    "2123b945c3ae1e99be59a522b4b4d9896d171c51": "freetds@0.91: update 0.91.112 bottle.",
+    "9801f2e317ddb16ced0f333bc4be21c65ef99e3a": "freetds@0.91: remove unnecessary `if build.head?`",
+    "4b2d8d25e62768e9e45c1400d00a2e207d1c8ecc": "freetds@0.91: improve mirror url",
+    "ad9cb4d455a80079b72c77a13fdafc625de2f6ac": "freetds@0.91: update 0.91.112 bottle.",
+    "c49b30d6b9a5a6b8594dae04294b3b3af0a1dd53": "freetds@0.91: fix rubocop warnings.",
+    "b712eaf6b9831bae56a29cdfec2ca3681b37b95c": "freetds@0.91: add 0.91.112 bottle.",
+    "2eb8f45c86a76694a48c4a46df4556520c109b98": "freetds@0.91: import from homebrew/versions."
+}

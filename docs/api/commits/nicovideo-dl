@@ -1,0 +1,9 @@
+{
+    "116eefab8581aaffe8d29a25e13175eaf6589381": "nicovideo-dl: secure url(s)",
+    "12357be177d14b075b543820c9afa299c37cd6be": "nicovideo-dl: secure url(s)",
+    "142611ebee2ebdf9ca56ab1f05cfecec67f7c0be": "nicovideo-dl: bottle unneeded",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "24c1bb7e83c3c4482e3efa7ce6791387aba7f1e2": "nicovideo-dl: update urls, pass strict audit",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "c22d0662b662f2336afaaa37f63e94ae3df5cce3": "nicovideo-dl 0.0.20120212"
+}

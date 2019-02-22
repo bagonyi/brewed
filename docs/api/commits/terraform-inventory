@@ -1,0 +1,15 @@
+{
+    "0c61ad44cb468360b8458af5e7eb2e456a3bef5c": "terraform-inventory: add dependencies for HEAD (#36505)",
+    "fe7e13acb09bb46dff1569449a9d105c25412ca3": "terraform-inventory: update 0.6.1 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e37391e39c2ba1098fb72aabc5d31724e49581a1": "terraform-inventory: update 0.6.1 bottle.",
+    "54f24963e9769a39a7688b1871698a0253630c8e": "terraform-inventory: update 0.6.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "3d30ca3ca3e766a107462772d0907872245af2e8": "terraform-inventory: update go_resource indentation style",
+    "5db06d3b4477ee2f24371559d49150e510dc69a3": "terraform-inventory: update 0.6.1 bottle.",
+    "cf7f01a3b619ddb65f70da9dcd9e4425f7df44cb": "terraform-inventory 0.6.1",
+    "81cd15643ef6abdb396be2915153e3e7a5e2db11": "terraform-inventory: add 0.6 bottle.",
+    "ceec0f7655421fd9b97d3a11c5c30b6f22bd5cee": "terraform-inventory 0.6 (new formula)"
+}

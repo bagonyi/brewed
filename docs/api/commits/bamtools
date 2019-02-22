@@ -1,0 +1,11 @@
+{
+    "ed2a65bbff013cc9f84d66bddb609bd70a6549c5": "bamtools: update 2.5.1 bottle.",
+    "9db14806faf2334663f01c8757aff73b393dc186": "bamtools: update 2.5.1 bottle.",
+    "6899e00237a950d165cd8bd004f09883caccd51f": "bamtools 2.5.1",
+    "f1907dea0890ef018d8a8c1a300ecb76a930c9be": "bamtools: add 2.5.0 bottle.",
+    "6b49fd0d5e9aa52ebea7e8c344022a1661297d6c": "bamtools: migrate from homebrew/science",
+    "f7e96b7a2666a0b2d7d2ef3e5ede2f88c5152931": "Remove formulae moved to Homebrew-science",
+    "ee3b3ad90bcc8fa85a5197e2476c580a28dd27b4": "bamtools: fix an indent",
+    "ae4d2422b639d447a166adcc062bbaddeef321cb": "bamtools 1.0.2",
+    "43396b090b268c6fe5e33c1354db7f20a089deb9": "bamtools 1.0.2"
+}

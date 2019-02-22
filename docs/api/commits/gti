@@ -1,0 +1,22 @@
+{
+    "460b01c263f2b34f807334a37873943f74165454": "gti: update 1.6.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "b933b49a4fa64557b610d35a5d23e2efdd195561": "gti: update 1.6.1 bottle.",
+    "6e3636ddf0da76029ad3d5aa03b16632308877ba": "gti: update 1.6.1 bottle.",
+    "1fa86aadbf1b60583bebfaea08cef8a9e10050af": "gti 1.6.1",
+    "57a65b15d2eca77c35e5a9f2866360332786e416": "gti: update 1.5.1 bottle.",
+    "40d3e3f39ff3066b5b6533300109c2d175c8712a": "gti 1.5.1",
+    "93ad213edd2ebd935034c7f0dfb67e0b4b444e1f": "gti: update 1.3.0 bottle.",
+    "06fa321c8568d1f05d494adc832989a0ac3ceefe": "gti: update 1.3.0 bottle.",
+    "ef1b44d0e821a92c6ce879f045962dcd4e1ec6c7": "gti 1.3.0",
+    "13a801742dfac26ff132bd9157e0212a1f443085": "gti: update 1.2.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ab49861f5d7697256cb4bb29aa7cd196aed52efd": "gti: add 1.2.0 bottle.",
+    "5bceefdf2ce326c0a9a7ff7df0255a29af712691": "gti: test added",
+    "77cf8495d69badb2742d48386d5a43b25e191b28": "gti v1.2.0",
+    "a20a30594649f1c82fbe9cd303a75fbaf900f2db": "gti v1.1.1",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "f3d999a16e377f708418ed9c330ae7f1eaf93c97": "gti v1.0.4",
+    "6318e9af265efcd303cc73932041eaa003c01772": "gti: fix audit warning",
+    "82930641eb3def427633c9414a7702273c504128": "gti 1.0.3"
+}

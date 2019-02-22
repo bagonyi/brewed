@@ -1,0 +1,18 @@
+{
+    "1638aaa3a94be905fd093d312b2720c2b7bba418": "igv 2.4.18",
+    "cd9274f7732317ec47895cad08d40228836ebb59": "igv 2.4.17",
+    "81ce27022363b4ee602de73cdb07a96875d3fd4e": "igv 2.4.16",
+    "1713a2d4b1ac1e3da709746dbf11bf3525a76708": "igv 2.4.15",
+    "9d58dd0a44d1790268031dd43c126df74d8d2093": "igv 2.4.14",
+    "e6fba07c72a0af746b8977512219a62aafea9f07": "igv 2.4.13 (#29991)",
+    "1fd177a0c321980ba7e1ae5e5f9f0a325df6c4f0": "igv 2.4.12 (#29948)",
+    "be44ef7a64b7562b792a954f75fa0961f70600a3": "igv 2.4.10 (#25563)",
+    "37f97d1c53d87e2be1617caa5e49d1a986b7f3ec": "igv 2.4.9 (#24894)",
+    "c4f24d3c0a5ca1dc46c33c36e6e0c9eba6d6b402": "igv: use shell_output()",
+    "ac2ba2b02772708fe648363e4ef9dad891d89ef6": "igv: install the executable in bin (#23781)",
+    "5daacb7398191e2ac3f82685260f28c92e96ff25": "igv 2.4.8 (#23619)",
+    "dcbc578d4f5616294bb4d196c87bfd4f29d902eb": "igv 2.4.7 (#23376)",
+    "ecab02326bfa89b304cc496a94d98a152686912e": "igv 2.4.6 (#22688)",
+    "c0596f2ffa02399cedcd08f27b941e20ccad54da": "igv 2.4.5 (#22212)",
+    "565d754993e9d6b1c0df4262ed763283b88a47dd": "igv: import from homebrew/science (#18736)"
+}

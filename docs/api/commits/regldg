@@ -1,0 +1,10 @@
+{
+    "3cd02cfe2d7fc5875b6703f40d641f0d7a6e37fe": "regldg: update 1.0.0 bottle.",
+    "62249b01493622ddab83516455107488f3cd5fa0": "regldg: update 1.0.0 bottle.",
+    "df9ea5cabe423e370ca142489837c55f3e72879a": "regldg: update 1.0.0 bottle.",
+    "1f176c6bf77062e17d5b36fb492eb325f7408aec": "regldg: use secure urls",
+    "86ad8ad35a810e704f901a360485e95188e0d65f": "regldg: add 1.0.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c853e9cb0da7d037d2d7578ca2916ceda9e9845f": "regldg: 1.0 - a regular expression grammar language dictionary generator"
+}

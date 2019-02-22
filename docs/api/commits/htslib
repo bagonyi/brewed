@@ -1,0 +1,12 @@
+{
+    "a8d28456f30fe19af26f06df60d11ea12e64cb87": "htslib: update 1.9 bottle.",
+    "9c2bf565bb8e52fe7920f9bc49165e899c9f85b9": "htslib: update 1.9 bottle.",
+    "955e107b1d0f0eba4c7dc9ae1b76c47f41c0c326": "htslib 1.9",
+    "43167e3ee97a5490d2e41af58cecfe50a42a552f": "htslib: update 1.8 bottle.",
+    "1d404f1fe3cdc765ebbbb84ef422f5acf8396868": "htslib 1.8",
+    "5a5ce0710273595397ba2c2f2918cb7edd0d33d9": "htslib: secure url(s)",
+    "9c8a9a07a7d90b494a4ccd08885ec235c46aa223": "htslib: update 1.7 bottle.",
+    "84786db993e01fb6b7138396e2679bf6b2e48e24": "htslib 1.7",
+    "c170898285ce44453b4ac9ff88151c0330950dd1": "htslib: add 1.6_1 bottle.",
+    "3b1e811f4c4ec57fbbb0ca86b4080bff7d569b16": "htslib: import from homebrew/science"
+}

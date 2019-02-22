@@ -1,0 +1,17 @@
+{
+    "f0d6d972a1a2a5cbbe7276d72b1f7d56445eb3a1": "libbinio: remove references to pre-Mavericks.",
+    "1f35dd3a54f813a8e2603575231bc0d15a98fa2c": "libbinio: update 1.4 bottle.",
+    "d68da51dbe9a8490a1ea69d96cec48e7a3b5519b": "libbinio: update 1.4 bottle.",
+    "9dee8a28b53e6af7e49dd95dccb6bc4c583a84c2": "libbinio: fix audit",
+    "dd16ec97547989fd490bcad20da271abefaab521": "libbinio: update 1.4 bottle.",
+    "cda50e1f7dd89ef2b4f4e3ec51cff6e78cb51e2f": "libbinio: update 1.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fc84cacc861ce06acedf650227aa779682909dc6": "libbinio: add 1.4 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e529fb79113ce29dea45a94a77267c9516984414": "libbinio: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "396de29a4995a8cfb13585a4668baeec6369e428": "Add libbinio"
+}

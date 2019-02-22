@@ -1,0 +1,17 @@
+{
+    "ab56c597c80d2d243a6bc2a3d957aad4d90b1e8c": "crunch: update 3.6 bottle.",
+    "d6080777123b56cb9968ef3562cce7f4a5d92af0": "crunch: use valid command",
+    "40fe32607a6d54ed7548cf4a6cbed3c9035700af": "crunch: add test",
+    "611acbfae2b7d45f3e63502a29ac6c6545d45838": "crunch: update 3.6 bottle.",
+    "24122883d0f929cfd3b05612bf62177bed7091fd": "crunch: update 3.6 bottle.",
+    "1dbfa7d6e399b9bd02958278a19db2f3d68a487f": "crunch: update 3.6 bottle.",
+    "3dcc77eda4d995749872da0524dfd369925200a2": "crunch: use secure homepage",
+    "bae393f40e4c0793bccd4eb27bea42f869328723": "crunch: add 3.6 bottle.",
+    "a1616393ac137637cec618390fa4fa0222e2b5fa": "audit fixes: C 05: cpmtools - cryptopp",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2ce2e91a9048c499aa4dab31130854872cb6739a": "crunch 3.6",
+    "b7678ae56135943ebe597497976f6549078b1904": "Change some SourceForge urls to use https://downloads.sourceforge.net",
+    "afc7189f034cc2f4045da2124492be2858bb714a": "crunch 3.5",
+    "a0fdd20aa5293ee14a2fc123d1bd98e9a81ad922": "crunch 3.4",
+    "e73e50d87eb4a8655456495b5b43389242d644b8": "New Formula: crunch"
+}

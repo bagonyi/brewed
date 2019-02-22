@@ -1,0 +1,13 @@
+{
+    "87504d56157a0538a1735ff3c93d669e53f71be7": "vavrdiasm: remove references to pre-Mavericks.",
+    "bbe1ba4e7bdf12f31c87f707d6be79c73ba8d237": "vavrdiasm: update 3.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b81c90cf3d1144a89d209ec8b638962a34cb47e5": "vavrdiasm: update 3.1 bottle.",
+    "729b0ef53c9fcc88ec18daeca97fe9a60cbf1e7b": "vavrdiasm: update 3.1 bottle.",
+    "63302cccc451dbc84d67ec22a39fb859effba0b3": "vavrdiasm: update 3.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1640088a3cb7ef5be8ff96068602074b1d16a742": "vavrdiasm: add 3.1 bottle.",
+    "5e8d136659c0a0bf8d40e323bc750820b69b6542": "vavrdiasm 3.1 (new formula)"
+}

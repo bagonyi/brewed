@@ -1,0 +1,18 @@
+{
+    "115a846e06b26420c457e35f69535fa4c4f33f7f": "sec 2.8.1",
+    "975bb49f626d34ad13cd902e88d57107e3043ffa": "sec 2.7.12 (#21626)",
+    "b490ca1404d34b91ac7186b3b94a47b4bbe60a8c": "sec: fix audit --warning",
+    "8815b5a075041e2ba3c6fdfd8ebbe13b7900656b": "sec 2.7.11",
+    "f6894f252f01d6f2a7296fcb496e3ecc8fa881b8": "sec 2.7.10",
+    "86fa95bcc06cbe6c0a73996f6f6cd1256b905844": "sec 2.7.8",
+    "30d899e738a3812f76aadc1c51efc8e71f953f07": "sec: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a4ec8b38e88ffc0648f6f8aa8a8b72a56e9177a2": "sec 2.7.6",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "6de20ce0158e4c1ed96ad8c692dce8ef8a0dcd22": "sec 2.7.5",
+    "92d7c115ccfcc7ce1b76ee0e4cdcc01736eb6cbd": "sec 2.7.4",
+    "48d3fe99cd630c4987f838066ebf1d6d61cae6b4": "sec 2.7.3",
+    "0ae598a2b766ff1930d3467dad3cf6a196569ade": "sec: fix test",
+    "82324e9d77a1168950e420523e24bbf6c24fb77b": "SEC 2.6.2"
+}

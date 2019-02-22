@@ -1,0 +1,21 @@
+{
+    "c522173683ea381d7d4c948664ce5461e639e1ac": "corsixth: update 0.62 bottle.",
+    "2d2968db81cc02df92f3bc06296c7f54bf1030eb": "corsixth: update 0.62 bottle.",
+    "aa6f0eb3abf8fa9a6023f874c35346b4dbd4a3b1": "corsixth: add luarocks build dependency",
+    "13c38fc87b0a0efc5da1230b5ea20baad3d69166": "corsixth: update 0.62 bottle.",
+    "97a91e07be4db4f270d75ee26f7cc2b586a8904e": "corsixth 0.62",
+    "c13af0fe8d30b1910a49ff3b5a37310f1297cfc3": "corsixth: fix Lua headers argument",
+    "6035e8698d34f6108fca7d8a82556a438f71e5b0": "corsixth: update 0.61_1 bottle.",
+    "cf352eb08411837f4f46aef7433cefe281f67950": "corsixth: revision for ffmpeg",
+    "af5ea8fabe96e33747f9b6ccd3a5404c44410c0c": "corsixth: update 0.61 bottle.",
+    "40fecc0d8eb10dde9b75548a90d33af891498793": "corsixth 0.61",
+    "4a59fd1f86896968fe43318aa26abc61e8160328": "corsixth: update 0.60_2 bottle.",
+    "ca4ad63df733643e01add4345daf9e24969e1358": "corsixth: revision for lua",
+    "2fcf9ad1cb7ff055c276595ddaa1d9025946bbfd": "corsixth: update 0.60_1 bottle.",
+    "b5611d6f0180bdbf903ee846b9317465eec97dbe": "corsixth: use full_index patch",
+    "0a44a359c796dff38f3656034316226b14ae29a2": "corsixth: remove extra blank line (#13992)",
+    "e4bd14bf7b1e97d9484317a779a0e941df61fdb7": "corsixth: fix patch checksum(s)",
+    "9c855a2bf5022986db3e860c4c13d51a0c5f7378": "corsixth: add 0.60_1 bottle.",
+    "439f9dc9b074cd9c3c2915c2d687ec58381924c8": "corsixth: vendor lua resources",
+    "0318ef345d75b55cecda6181426f6855f2d38787": "corsixth: import from homebrew/games."
+}

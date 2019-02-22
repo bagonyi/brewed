@@ -1,0 +1,11 @@
+{
+    "ccf26a7e496f40f2c3a3e0e210287c496bb954b4": "simple-mtpfs: remove checks for old compilers.",
+    "b75a456cb23329422f16a91dc363d2108673a392": "simple-mtpfs: update 0.3.0 bottle.",
+    "8b944f622f838913113192c0080c9adb76be486f": "simple-mtpfs: fix dependency order",
+    "e92e8024fc3d8eb625d57f6bb763aa9aac7520dc": "simple-mtpfs: update 0.3.0 bottle.",
+    "7d837bac84b447f8da9af93e205d974e749cd95e": "simple-mtpfs: add 0.3.0 bottle.",
+    "e0fe92c40ec99123970301471662a17b70a08edf": "simple-mtpfs: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "141d767828d663c59dcf8fcc864a1dfc0e06a683": "simple-mtpfs: add 0.2 bottle.",
+    "85f9a8816c7038af613453c974b6569348377d79": "simple-mtpfs 0.2 (new formula)"
+}

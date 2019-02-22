@@ -1,0 +1,16 @@
+{
+    "47633a76f80e90c7f069e66402d89b74375a3c22": "bwfmetaedit: update 1.3.6 bottle.",
+    "7146b11314d36223e3b8af904f06df6f8ef7393f": "bwfmetaedit 1.3.6",
+    "24ab09b84ca9d2d8fafecc7b71a73861cca1ac6a": "bwfmetaedit: update 1.3.5 bottle.",
+    "23d3be8b2e0417d2ace931800089bb4e4a8ab9fa": "bwfmetaedit 1.3.5",
+    "e6df7c0af77db2478d72058f882f2686a25c190a": "bwfmetaedit: update 1.3.4 bottle.",
+    "febda79c67ef8e1192c8f12d99c0c00d0bbabd4f": "bwfmetaedit: update 1.3.4 bottle.",
+    "9a62e10835c49abee39dc775f6c09a177ee3fe2c": "bwfmetaedit 1.3.4",
+    "060a2bc6d19c38cec0e1c740da010dc27f3b569d": "bwfmetaedit: update 1.3.3 bottle.",
+    "b8e3d9e47a8c53956470b6b5ec7de4d7dae6feb7": "bwfmetaedit: update description to fix audit issue",
+    "db14b0822f0fb8d24f0f59bd0812e781c6f4bcd2": "bwfmetaedit: update 1.3.3 bottle.",
+    "38520a8f350ab144e975a09bcab58e4ad4363186": "bwfmetaedit 1.3.3",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "388ce8a426523e5853b86e23417e924e40ca15a8": "bwfmetaedit: add 1.3.2 bottle.",
+    "be2609545b6d5174749977190c4ee84f7229a6c5": "bwfmetaedit 1.3.2 (new formula)"
+}

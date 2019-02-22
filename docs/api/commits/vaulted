@@ -1,0 +1,20 @@
+{
+    "4d2b27d7fe36c69bb43a58be505ddc54f643f7ed": "vaulted: update 2.3.0 bottle.",
+    "4af520700d82c22492625263a81ae702fba4d59d": "vaulted 2.3.0",
+    "bf8a15aa8e15932d1ef9d6a35e42a04638ef41b5": "vaulted: update 2.2.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "0bad2506d0a366f32d8e2dbb05a801a1e8ba9258": "vaulted: update 2.2.0 bottle.",
+    "8731c570156fa069621477bd171dc300c929e419": "vaulted: update 2.2.0 bottle.",
+    "b68da5d81646c601269a143e22ce2593d8fb77f7": "vaulted 2.2.0",
+    "a1020ac05f65681af58859d6b3cbd9318086b980": "vaulted: update 2.1.1 bottle.",
+    "24d21b29dc3c165ced3fef66d90dbf71f77676b1": "vaulted 2.1.1",
+    "14e55613bf62eef276f1d8a818a37dc4616cd02f": "vaulted: update 2.1 bottle.",
+    "ec4f3b4a66754d874c9fa396a4c0cdf3dd61445a": "vaulted 2.1",
+    "0686eb475bd772d3384b01e0b7f5bc63d009bff0": "vaulted: update 2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "37966f11a8178b3471fa4b4db11b6fa1cd72a11c": "vaulted: update go_resource indentation style",
+    "ccc66325e870cc94e96fb2b633d61b3ea8852fe1": "vaulted: remove unnecessary code comments",
+    "151febdeacf9d040430945d6879debfa2f15e39b": "vaulted: add 2.0 bottle.",
+    "2ebd1bb36fce4c3e8c81bce923e01a633ffdcb47": "vaulted 2.0 (new formula)"
+}

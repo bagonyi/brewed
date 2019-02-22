@@ -1,0 +1,9 @@
+{
+    "c061e9c12d270b28860eed5cd393fb7574125b9f": "brag: fix audit --warning",
+    "a750c282a025b0242715fcd7dc4d451a290db1a5": "brag: fix test (#9952)",
+    "14e07eec02721a10051fde372b074c3fbbe2c54e": "brag: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "28fb6206a1dbab6907ed38671ad3c3164d540382": "brag 1.4.3"
+}

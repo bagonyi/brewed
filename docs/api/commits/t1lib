@@ -1,0 +1,17 @@
+{
+    "28ef00022f2b05a60ced96e979e586fc552ee826": "t1lib: update 5.1.2 bottle.",
+    "0ca71217d92f609d4f42a8db07eeb13dc547119f": "t1lib: secure mirror url",
+    "4a69b764c8f8d6d26d6506d36d7688d52aaa09e4": "t1lib: update 5.1.2 bottle.",
+    "a3a67bd703d1b2583d54b510c8864e01db74a8be": "t1lib: secure url(s)",
+    "a3fbff003aad51ca0af48e5808a31809182c1250": "t1lib: update 5.1.2 bottle.",
+    "093ae849a9553ab2d089d9fe19276539a3b17dbb": "t1lib: update 5.1.2 bottle.",
+    "2ce3f2b16b445b3964db496750569dfe26e68cf8": "t1lib: use secure url and add cleartext mirror",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d44be49d1ff1a29e6f7f913bd302a21749a6793e": "t1lib: update 5.1.2 bottle.",
+    "ed3212552202133e2dc0bebc00b4046e805c773e": "t1lib: add 5.1.2 bottle.",
+    "fcc438d2e5ae013fed11b5fc057d4c4e1be3a8d4": "t1lib: remove failing test on >=10.8",
+    "0a40fd6a58fafa51ca05652878392a18ebb80e68": "t1lib: use share.install instead of cp_r",
+    "7c85c1d7c507551830323cdd765500e34cbc42b5": "t1lib 5.1.2 (new formula)"
+}

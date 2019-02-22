@@ -1,0 +1,18 @@
+{
+    "a15310372e83d549424fad053ac551117f605859": "colorsvn: update 0.3.3_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b2e1e89ae9f03af5b5ec9cf53a90b2d198b8cdcf": "colorsvn: update 0.3.3_1 bottle.",
+    "39c0bb26565204090b0d80adb0d10d70a79a8f85": "colorsvn: update 0.3.3_1 bottle.",
+    "c6c8090ab76eb21a641393006e911ed06039e33d": "colorsvn: update 0.3.3_1 bottle.",
+    "d69a839451a44ac81c98bb057ac2000bce990f00": "colorsvn: fix lookup of 'svn' to exclude SCM shim",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ebde34dd96c101d623145e4beaefaae9120cf282": "colorsvn: add 0.3.3 bottle.",
+    "1ad0025270c01454e68b55cdc9fb164192864d43": "colorsvn: add test",
+    "b0c937887eee335a509c768fe424423f80d23b68": "colorsvn: use patch DSL",
+    "0aea3be2e1233c7feb987b389238ac3bd795ee1f": "colorsvn 0.3.3",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f86d110568fc89c8a416e3eb6f73b87a22180986": "colorsvn: use correct config file path",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dadf1194d046e3754422e97222c4a634a7c831cd": "Colorsvn 0.3.2"
+}

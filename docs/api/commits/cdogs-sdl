@@ -1,0 +1,7 @@
+{
+    "5257b6e4f27dfc3124bb9ff064daf943bac4d2c3": "cdogs-sdl: update 0.6.2 bottle.",
+    "2c3f36697fdc1f231fe7789a3e06c1bf0bd04411": "cdogs-sdl: update 0.6.2 bottle.",
+    "4da2e9e31d673798d3f8e40c18f7212d7f7d0830": "cdogs-sdl: fix rubocop warnings.",
+    "d1d48511a5ea828763f84b0a08ca443a25f97f59": "cdogs-sdl: update 0.6.2 bottle.",
+    "8bf8805d0f4a17746e6f63a7d6a64fecccb3a6da": "cdogs-sdl: import from homebrew/games."
+}

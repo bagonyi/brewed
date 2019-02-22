@@ -1,0 +1,10 @@
+{
+    "84d6276330ef78cae05d028999ac812b6dc37d62": "ipcalc: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "577bf0e0beb4440e93c758c9ae8fdf89751a473b": "ipcalc: test added",
+    "7ebbd0a060f11bbccd2040d6e35e91ce7825d4ea": "ipcalc: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "6496e51a62440ead95c2a7027de4215f241e35a6": "Cleanup ipcalc",
+    "2500e5491ac9999811cd6d2eef930a7ea9e4ab6f": "IPCalc"
+}

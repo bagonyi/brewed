@@ -1,0 +1,17 @@
+{
+    "a1a8748bd86836890d519e8948dd98afd0fe7726": "json_spirit: fix dependency order",
+    "f63efb08ecee49a0dc59974b33ec55821e2e7a55": "json_spirit: update 4.07 bottle.",
+    "2be9bfb090413bd5037aacdbc1930e114ba1e52b": "json_spirit: update 4.07 bottle.",
+    "702caa1d1862f9b37aad125498436162589aa29b": "json_spirit: update 4.07 bottle.",
+    "3fa40f493d1c6349da368bc1c5e2d99136349225": "json_spirit: use secure homepage and follow redirect",
+    "9d1de83012a775de17969374d407cb36f437ed58": "json_spirit: add 4.07 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7f000e41f8625af1e6fe7acda904c41ac0e87e60": "formulae: don't use GitHub zip files.",
+    "d3726291091d5b0448f1e56d92106d6404c3ae04": "json_spirit dylib generation + static",
+    "ff7310825ffb3fd6e745807ee8130506eded75ef": "json_spirit 4.07",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "7c5720e36f5d3e00f6a0ae5e5fac7b9a0e161815": "Put source path last in cmake args",
+    "32cb2e6e0ba9bc67eb0988ead76f8deacefc62b1": "New Formula: JsonSpirit"
+}

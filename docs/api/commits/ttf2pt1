@@ -1,0 +1,17 @@
+{
+    "6732f880091ca846ed48ca6b98bc8d93b35da5bd": "ttf2pt1: update 3.4.4 bottle.",
+    "e71253a5abb6cea42a9d28e2ca7c4ec2959a2a63": "ttf2pt1: update 3.4.4 bottle.",
+    "73541567069a1c8d4271da8210a43bc907eb7b0a": "ttf2pt1: fix audit --warning",
+    "741646a4662fc7ae40a644bfd29c49cb79c19af8": "ttf2pt1: update 3.4.4 bottle.",
+    "9bb8a4fd71fb4e4d37446494f6c324621ebfeb11": "ttf2pt1: add 3.4.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7acb42a77b40d47e402d9e5f310e9cee05f8bec3": "ttf2pt1: remove patch",
+    "ba302ed38aacc5c1d9c782bed2223d7795b083c9": "ttf2pt1: use checksummed patches",
+    "f91414392e2676b058b8e08bf4507fdd33c29ef1": "ttf2pt1: fix patch declaration",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9135810b4ce823fb76b5d1d60009e26298231340": "ttf2pt1: remove inplace",
+    "97ee52cefba2b0b504bb05a4fce681716d6bccc7": "Use HTTPS for MacPorts patches",
+    "a3546b363f818a8e1009f8860887de2ac4b74753": "Added new formula: ttf2pt1"
+}

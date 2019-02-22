@@ -1,0 +1,21 @@
+{
+    "8f9a7191d2ccd2b2d2ed0802a6efb3be1e2837b9": "fatsort: update 1.5.0 bottle.",
+    "d63baed4a07f7929cb232779563dc5d6f89adf59": "fatsort 1.5.0",
+    "693b76cf69ebe4b8b6c46883d7228ddc0895006e": "fatsort: update 1.4.2 bottle.",
+    "4020f247f2ed2e7e70897a62f3d8d2a4269b07f8": "fatsort: add test",
+    "7da2ad596ac9b398a239ab3f3cab8fe6c157fcda": "fatsort: update 1.4.2 bottle.",
+    "9804fc7f157a10b15540b4a1d8c02bca0e1ba723": "fatsort: update 1.4.2 bottle.",
+    "798cc6bc0e13cdf396f7fe631e5fc05cc467197c": "fatsort 1.4.2",
+    "4d4f5c6ff372be9dec83533522629d1de617103d": "fatsort: fix audit --warning",
+    "dd4188e03705879c4a24dec570a2d23b4f4e7aa9": "fatsort: update 1.3.365 bottle.",
+    "4efbbcbd80c0229f8b1c7c6fb5f416f0e9f3da97": "fatsort: add 1.3.365 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a1956ae47472ec30d1a0b86355fde8fa4febce53": "fatsort 1.3.365",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b19f31693214fbb123446a2b4f7bf848ea957226": "fatsort 1.2",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "7b6391c61acbc6b0e5240145757b2dab19f5bc69": "fatsort 1.1.1/build 336",
+    "4f9f05c01c0547ee728fee1c5923d8cc70c66c87": "fatsort 1.0.1.314",
+    "17bc9048f4c054aa27c539580a93de58ee7379b6": "fatsort 0.9.17.269"
+}

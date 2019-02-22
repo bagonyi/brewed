@@ -1,0 +1,14 @@
+{
+    "c80d4c3a00f024954d7085e4fead85b3d78e6784": "thrulay: update 0.9 bottle.",
+    "ce1a9be8986784e025f12b043f28119a5b01495e": "thrulay: update 0.9 bottle.",
+    "35f5836ef0df61adb93061107b3e34d8aab5cbd9": "thrulay: use ENV.deparallelize.",
+    "3aaa1ebbd7dcea63768d9b6a6d02c74175e60d4a": "thrulay: update 0.9 bottle.",
+    "bc92a41e45251ac87ab64b0929ff11aa51a6583c": "thrulay: add 0.9 bottle.",
+    "455ec749e96287792108531606e59210b3cc01fa": "thrulay: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "2b9e05501885079f7c9153418a3862310df7b1d8": "thrulay 0.9",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "232fb832fdcac52c5c41c9e199e8984285137ae7": "thrulay 0.8"
+}

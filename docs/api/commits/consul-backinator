@@ -1,0 +1,23 @@
+{
+    "393a704bc55836362b16a12b59a63cc31618d59d": "consul-backinator: fix dependency order",
+    "48ddd5d8729045fcb6f4d80dbc646d3588a6e879": "consul-backinator: update 1.6.5 bottle.",
+    "07f4906b3ccfddc1ee74585afc1864f0cada360e": "consul-backinator: update 1.6.5 bottle.",
+    "589764b2b1dee6d9eab9108e198c8c7982028af5": "consul-backinator 1.6.5",
+    "977602501f3815b61f35c37b24d0bf1b262ee0c3": "consul-backinator: update 1.6.4 bottle.",
+    "adf98509ef28ca83114660a69d8dfccc9b1cfa82": "consul-backinator 1.6.4",
+    "5624a5e24117e11c4970fcb8ea2fdc7963ba1a34": "consul-backinator: update 1.6.2 bottle.",
+    "b9c82fbd0473323e7622fde048acdf8b691525cf": "consul-backinator: update 1.6.2 bottle.",
+    "1abcfba5eabd07234e2d2238505d5ba8f2299ef3": "consul-backinator 1.6.2",
+    "0933a43ca054dcce123fdd16f30267764dfb651b": "consul-backinator: update 1.6.1 bottle.",
+    "bb8933649b21547732cb6a21ea7d88424bc8370a": "consul-backinator 1.6.1",
+    "c7b3d261c97f28b69b8f7b38449b33e1095effae": "consul-backinator: update 1.6 bottle.",
+    "a6bb6802b3e661df3c9b835500b27fa7944568fe": "consul-backinator 1.6",
+    "79c4c5cfc59d67f58f9e2800c0273a1d8c569e47": "consul-backinator: update 1.5 bottle.",
+    "a852159146920d88f58b72aec862ef35c7f4d030": "consul-backinator 1.5",
+    "0fb6e67c656203c6974cfea998b39ab197bd5086": "consul-backinator: update 1.4 bottle.",
+    "4fdb706827021b7f28a475953f348a2db50393c7": "consul-backinator 1.4",
+    "456a857373781287f962061761e02fcc974d1218": "consul-backinator: update 1.3 bottle.",
+    "0dfb7b71a9741e4955f2c3f3350b7588278d1a0f": "consul-backinator 1.3",
+    "bc4820f5d1a9c069c12d6809f4f75084371dddb7": "consul-backinator: add 1.2 bottle.",
+    "42b721a2b17e0a2f41a117b2e85116efe9ff6b83": "consul-backinator 1.2 (new formula)"
+}

@@ -1,0 +1,12 @@
+{
+    "2d55ed791d5ed73de8e2cc5e0e2f321d561620c3": "hostdb: migrate to archive URL",
+    "fe47dd50de401a3463b25e16d4b02af7ee013fb0": "hostdb: bottle unneeded",
+    "053d20ac8eb6a44372dcf2b011ec9503ea6a23da": "hostdb: use pkgshare",
+    "daec1ec1b79ec17d4308c2c75a1dcd1e338f52c7": "hostdb: add test; `brew audit --strict`",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "11add7288ab4dd4d5552150025517c9c4f30cd26": "hostdb: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "799dc993fc81047b24deadeba6d2bad748e14025": "New formula: hostdb"
+}

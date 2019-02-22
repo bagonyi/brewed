@@ -1,0 +1,18 @@
+{
+    "c9996728e44a6141c318f46deb5b99a06806ca86": "cvsps: update 3.13 bottle.",
+    "53ade03628d0d10c3842b589efc12b52e3dc8c38": "cvsps: update 3.13 bottle.",
+    "ce0d4dc7199a93dce8afa046eaa48a949a9cf5f1": "cvsps: update 3.13 bottle.",
+    "e218b7b5125a91dfb3f2b1562e18cad627e1ab15": "cvsps: add 3.13 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2f5c9fe75515a3f50f3e6617bdf0fb457cb7371c": "Cvsps: quoting style",
+    "45dd355eb56f0830579923e7669f88aea6cb67fe": "Cvsps 3.13",
+    "98a0573727284fcd38850c548ee19d225d441ca9": "cvsps: fix building manpage",
+    "2f6f8ea9530ab331f3e00d3a2afc127699afffd0": "cvsps 3.10",
+    "fc86d13ee2fee26f1d7b5c7a0e8376fcfe1ae249": "cvsps: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "bcbcc3f8ddc686e0311b4913151f75db66fa311f": "cvsps - manual install steps",
+    "43df524f8dcd2c253ec4168c4f4f0027c5e9c040": "Added a formula for cvsps."
+}

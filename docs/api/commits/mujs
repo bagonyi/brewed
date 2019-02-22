@@ -1,0 +1,19 @@
+{
+    "ab38b51c866ebb7f9e5ec868f28f5693ff57ca69": "mujs: fix RuboCop Layout/AlignHash.",
+    "03753233c42d961042dc37381a4a9bf000f2d963": "mujs: update 1.0.5 bottle.",
+    "2f23d2f63d6b82ca0ad458eb5c770752b6625a2d": "mujs 1.0.5",
+    "4b40861ac023f67c0913079eda3ad8803fa202ef": "mujs: update 1.0.4 bottle.",
+    "0ff3b171240ce47466a43df9d943f120bce8d19e": "mujs: update 1.0.4 bottle.",
+    "3436fe397ae22f1a5c0b8161b63a5b58d991ef4d": "mujs 1.0.4",
+    "de109e0067f368ffe5426385f628d033db20df8f": "mujs: secure/fix url(s)",
+    "9eb365a2c8dc36f728def8c21775b6979317ed7f": "mujs: update 1.0.3 bottle.",
+    "4395e5c62389701c48d26658a7584eb846bcab94": "mujs 1.0.3",
+    "8ae8d3ffc18b6aa7c53addc7373605682ad351bf": "mujs: use “squiggly” heredocs.",
+    "ae4f781d1ad3da1ddacb1b98c41674377be087cd": "mujs: update 1.0.2 bottle.",
+    "45c0219e8258d04e080fda73d5484c031889a644": "mujs 1.0.2",
+    "aead537eba437dad7dfca64dcfba669ebd8bb364": "mujs: update 1.0.1_1 bottle.",
+    "5e4140e5382f1079e2ae9ba345bd5e873ad571a4": "mujs: fix version in pc file",
+    "81852ccc085d4f782095bb956cefed0bd92f8192": "mujs: update 1.0.1 bottle.",
+    "f7041ef6ea223b90f5cd48d2f048bb6d45ae21cb": "mujs: add 1.0.1 bottle.",
+    "bb85a798eeab9f38ca1a6335c3c5f5c4025e2036": "mujs 1.0.1 (new formula)"
+}

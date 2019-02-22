@@ -1,0 +1,15 @@
+{
+    "e0cd924505d72bbabf6844158dacac0db6922a9c": "sersniff: update 0.0.5 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "928442de1022710aef5ab93d0902181171aec77f": "sersniff: update 0.0.5 bottle.",
+    "836a670f47017586978ebab7b2aeb5b6ac95ca3a": "sersniff: update 0.0.5 bottle.",
+    "9c91d5a39c9a563c768b05fed885b7c5832e41c0": "sersniff: update 0.0.5 bottle.",
+    "f5341cfd8dfba405a70d2b14758434e93a43e5bd": "sersniff: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c354976c1ce568d1f64597b929833995834a01d8": "sersniff: add 0.0.5 bottle.",
+    "e238bf99fa02dc47fe7e334de7a9b77de749227c": "sersniff: basic test added",
+    "7b2623c2f94cc86c7d195a9f10e2ac9a4c6c1003": "sersniff: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4e59b8ed68d785dbb728d7d66a13654cbd7d7a9e": "sersniff 0.0.5"
+}

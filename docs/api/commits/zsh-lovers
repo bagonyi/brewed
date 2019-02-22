@@ -1,0 +1,15 @@
+{
+    "d30f231bf022cf81867013d9af738ac34195dc84": "zsh-lovers: `.deb` is not auto-detected as `.tar` anymore.",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "a19674619e9f0e1afffa24cce23664ed7eb5db87": "zsh-lovers 0.9.1 (#23124)",
+    "c36231ef6105883ef4a2e2dd5bd5f4802dba65dc": "zsh-lovers: Add test block. (#5678)",
+    "e1017e1ec2f8005790c2ca2144c921b2f3b09217": "zsh-lovers: bottle unneeded",
+    "c2b272ee37bff29a8d32553c2354489c5f8b7880": "zsh-lovers: use https homepage",
+    "0e2b798a3bd9c9d2ccb29302d3c6f34239ac1a5b": "zsh-lovers: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3ece0af067f58d3000c6d0eba6e09d3fff7485d2": "zsh-lovers 0.9.0",
+    "cbcab3bf109252e1e4ff1c4058ec34384099cd3d": "zsh-lovers: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "26c46cf6c1519947cab99d7453e938c6788dc614": "new formula: zsh-lovers"
+}

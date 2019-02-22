@@ -1,0 +1,19 @@
+{
+    "28a95acb987b77a2c5e59f0e9d9538d5b7455d57": "libucl: update 0.8.1 bottle.",
+    "232cea53edf9d0b8e4227d8e24d07c204a4a829e": "libucl: remove options",
+    "5a90a5f723975ff816bf1e4e1b672984373d3196": "libucl: fix dependency order",
+    "45273f8a30e55713ffa5132ec65a14ee95cec1b8": "libucl: update 0.8.1 bottle.",
+    "f43a5482e655db4671698e2631199e473fea0911": "libucl: compile ucl tools",
+    "93dd433b706ee4ccbb35d68a8fc8cdbfdf0c866f": "libucl: update 0.8.1 bottle.",
+    "4ab60c9d4a197a3adda6b2a5dcd22921b2788605": "libucl: update 0.8.1 bottle.",
+    "d2354c877b3fb7028156e81d5b8d6208ce38308d": "libucl: update test",
+    "9205e884e4754183eac62c7eb313af650053dcc9": "libucl 0.8.1",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0ad77454ec0ed7dcff696187214653f96bddde0a": "libucl: update 0.8.0 bottle.",
+    "ff775c9f61640aa7bdf8fabf0bd92060619d788d": "libucl: fix test on 10.13",
+    "742bb0a03da5c6571ad266d5806916652f106513": "libucl: update 0.8.0 bottle.",
+    "2481a148225760bead6172a3ddb465a7c1372ad2": "libucl: update 0.8.0 bottle.",
+    "9ccae319022e94a33a2162f94126b74bd24dafc0": "libucl: Add optional lua dependency",
+    "5ede9878672e5951081fdcdc52f885d6f806a386": "libucl: add 0.8.0 bottle.",
+    "472fa66bcf17b58ce912b7c1ed65aa510d5e0148": "libucl 0.8.0 (new formula)"
+}

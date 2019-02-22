@@ -1,0 +1,21 @@
+{
+    "ef22b520005df223742f73c450a98eced7749d44": "dosbox-x: update 0.82.15 bottle.",
+    "92521351546061d692202f05520479d0d93120ac": "dosbox-x 0.82.15",
+    "518a97ce896ca5261ffa36d3c586fe3f9fa42a4f": "dosbox-x: update 0.82.14 bottle.",
+    "c9834980884f69239a9aa903892c0cab10c3d3f2": "dosbox-x 0.82.14",
+    "b2ad3829bc04e9eb40eade1dfe542d8caa1a27c5": "dosbox-x: remove checks for old compilers.",
+    "fcd0f7b9a9256a9ce0519536edbc2bb6ea0be12c": "dosbox-x: update 0.82.13_1 bottle.",
+    "85bb1f4c28c5412f97c718db6415077c35481acc": "fluid-synth 2.0.3",
+    "0b065fecf921a476627009d9496437cf0a5ea215": "dosbox-x: update 0.82.13 bottle.",
+    "fcaaadf7083aaa40d682a308312d176a9766d607": "dosbox-x 0.82.13",
+    "63fc1e4cc14feb1308ab5ed0512be545bc2a7cae": "dosbox-x: remove unneeded `build.with` (#33446)",
+    "5e14400f91f644d23dc01e916364bd06dbf8b61f": "dosbox-x: fix component order",
+    "2e17e122ba7eb1b2325ab723a92fbab887ec4de9": "dosbox-x: fix dependency order",
+    "45a84afd06f5c8851c3a21c82dcb85023197fa45": "dosbox-x: update 0.801_1 bottle.",
+    "113df283a77499d78b91fddb44a901638f2558df": "dosbox-x: update 0.801_1 bottle.",
+    "8db98539400159a95746d71a7bcf66193c4b60cd": "dosbox-x: fix Xcode 9 issue",
+    "7ee2b00bb80298e135d0191dc82e9caf76d9ce4b": "dosbox-x: update 0.801_1 bottle.",
+    "228208f7e567306e97b39cd337f67444526cfae9": "dosbox-x: update sdl_sound dependency",
+    "c047a362b0864085669ac1d29ec4f34ce554a8eb": "dosbox-x: update 0.801 bottle.",
+    "3b8e824780845843d89f328ead9248bd9b79ac3c": "dosbox-x: import from homebrew/games."
+}

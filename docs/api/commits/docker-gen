@@ -1,0 +1,11 @@
+{
+    "e3fd5fe2015041da848619d0873e4988b9abe1d2": "docker-gen: update 0.7.4 bottle.",
+    "8f41a3cce0562f72a01f4a6e9f9ae1753658dd62": "docker-gen: add 0.7.4 bottle.",
+    "7f8c93dafe61a14c1e370dffea2ac7ac3355cd93": "docker-gen 0.7.4",
+    "1a934f9c273215d1ad541954a654b29031949706": "docker-gen 0.7.3",
+    "e681a01378c763f91266f980654cc9499d125ad2": "docker-gen: bottle unneeded",
+    "f6db31c5b06aa9da43eeb05d455d5daa6e41efc7": "docker-gen 0.7.0",
+    "3ba8df1f7588aae9285b3b057127f63e24db969e": "docker-gen: spelling fix",
+    "c74565a5590cef675798cc7676dbe996e2f6e17d": "docker-gen: add 0.6.0 bottle.",
+    "5b9156fc51443bfd1f53e209ab2a67ec1f2d852f": "docker-gen 0.6.0 (new formula)"
+}

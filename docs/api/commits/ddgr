@@ -1,0 +1,15 @@
+{
+    "58c8d8c4d518112cef73d8495973e6cf56bcd7d5": "ddgr: update 1.6 bottle.",
+    "a53dd23a2bb2db2c717963da5234635830f71e1f": "ddgr 1.6",
+    "5c8e598f6072cf6782b3208b079c25364dd6ccbe": "ddgr: update 1.5 bottle.",
+    "88737840b604d85af9e569a510931d69a996e8db": "ddgr 1.5",
+    "f7e2b5eb8a8527e48253b0c4b506703f3a351446": "ddgr: update 1.4 bottle.",
+    "6e903cf6a645ef30540f5e61b71752826b3001bc": "ddgr: update 1.4 bottle.",
+    "914a97de9d92748912c27528636b898c6d716ae2": "ddgr 1.4",
+    "ac42695ebac441a776d0c61215e77e856d9d5ad8": "ddgr: update 1.2_2 bottle.",
+    "b9e9fd45e5f9e593c3dafc8193617c2ad6d29457": "ddgr: rename python dependency",
+    "0a9b56a4816445bbf01a6e7859835b626f2772ca": "ddgr: update 1.2_1 bottle.",
+    "ca03e7400a50fa0df7930b1f91837c9e2b6c4f6f": "ddgr: depend on python3 instead of :python3",
+    "27e5486c96251c5ac03bb0714a16ab303528601e": "ddgr: add 1.2 bottle.",
+    "6edb9948e61ece9ceb29983e2b9ffea7ecb5acdf": "ddgr 1.2 (new formula)"
+}

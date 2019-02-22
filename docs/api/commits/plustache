@@ -1,0 +1,19 @@
+{
+    "9a77efc8b76c736e121e9309a2fb6c88174fd4ac": "plustache: update 0.4.0 bottle.",
+    "f7c751b0ecec394ccbaccee381059f65d0020c1e": "plustache: update 0.4.0 bottle.",
+    "8b7bcadd8d609fa4af33b244d7a7e01448a91ae8": "plustache: update 0.4.0 bottle.",
+    "237dadfcbf4ddcf820beb44c987477ad5fa0dfbd": "plustache 0.4.0",
+    "c85706eaac05c017faf9cbf192c8de10ee650f2c": "plustache: update 0.3.0 bottle.",
+    "eab5859ec9b0fa23490ede664d310af0fdecc754": "plustache: add 0.3.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bc45b44780b98788f01555afd1ca94c933ebe4a3": "plustache: modernize autotools deps",
+    "0fb44a812aed17c99c2c3f0f1a768f1767172050": "plustache 0.3.0",
+    "96b67b771ac06f18aedd20ef103154775b79a9cf": "Convert remaining github tarball URLs to archive URLs",
+    "79020fe2ebdb89991f10c9afbbcb19a5f8544e9a": "plustache: use new rake function.",
+    "c87652c689472174d7d01edb6933ca4c38f89d3d": "plustache: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "3e3da8ff79354c3c20cc980e9c33a5d40fb69bff": "add plustache formula"
+}

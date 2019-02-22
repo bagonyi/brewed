@@ -1,0 +1,12 @@
+{
+    "67c6bcc9847d645a3e42e729fceac0f487fdaed6": "chcase: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1e71e85d661a6cc8eff3f28a3e11dc378d496476": "chcase: drop ScriptFileFormula",
+    "34249a2f2645dc3d5631600a81d05d47f16839aa": "chcase: use patch DSL",
+    "6ab59291836686831c0f1d1fb7b6af7f2faacd3f": "chcase: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2b97dd1ac7791bae8de8d3907aa757cb2fdc8294": "Fix inheritance for ScriptFileFormula.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "8d1031428ebcee34af798d4fd992b2884fcd4ed2": "Added formula chcase"
+}

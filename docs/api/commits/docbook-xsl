@@ -1,0 +1,21 @@
+{
+    "b065fb7d97de3864378f9a28fe92c1a2faa0d24b": "docbook-xsl: update 1.79.1 bottle.",
+    "c431c53819ac6d5b85e3123f88819b9e0d7d83a0": "docbook-xsl: update 1.79.1 bottle.",
+    "c0cb42d519ed3b57142ad4ad1e46cdfcae8e540a": "docbook-xsl: fix audit --warning",
+    "986995812ec71437bf963eb391b61622049d2937": "docbook-xsl: update 1.79.1 bottle.",
+    "04fe38e75fa23a69ae20aac977dc1dd0cabd3e7a": "docbook-xsl: update 1.79.1 bottle.",
+    "4bc4d1576518edf92ba2e39c52ceedca5650f23c": "docbook-xsl 1.79.1",
+    "6ac21379f8bb3c849e42a5528ecd7df9b67cc84c": "docbook-xsl: update 1.78.1_1 bottle.",
+    "7679b434c0dfae6200b008c34ac74acb8681495d": "scrollkeeper and docbook-xsl: XML_CATALOG_FILES",
+    "3c03394fcc6afc2b7951c799e58bdd88aec2d5a8": "docbook-xsl: update 1.78.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "251130fc6b7157074b872ed726a51d56da6d971e": "docbook-xsl: update 1.78.1 bottle.",
+    "d986118369221928336893873018cfaae6ddb9f6": "docbook-xsl: move xmlcatalog update to post-install",
+    "cda9361d2d027cae3ccb6cf9af51fbb0d947186b": "docbook-xsl: add 1.78.1 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "fe95555607b9ebb2eaa6d16d5141c9f3c7758b5f": "docbook-xsl: use resource",
+    "651c27dbd5584c28aca380f0a7ee39e18bf2b45c": "docbook-xsl: use write_exec_script",
+    "8267c7012956d59d7837973ba1a6d8816d0caf19": "docbook-xsl 1.78.1",
+    "34bcc955ce3ac820a57c805f5d1bd5c3e5122285": "Split off docbook-xsl from docbook"
+}

@@ -1,0 +1,14 @@
+{
+    "198527afd0ce9eedc7d5d255a84f3fab96c54590": "imagejs: update 0.7.2 bottle.",
+    "659feabb7c3d2824ef4ca6d92f75b52d3d4b71af": "imagejs: update 0.7.2 bottle.",
+    "2917c791c00be452205c7c0a49fd0195bfb6b5f0": "imagejs: update 0.7.2 bottle.",
+    "4a3cab90656e9c57e9eb40e546c7ee0f7ae6dc7a": "imagejs 0.7.2",
+    "91b6a8ea940153a9c7fbc92f0b9279e91baffec0": "imagejs: update 0.7.1 bottle.",
+    "282a153ef3998661c49ae335fe5b5f342dbdaba0": "imagejs: use secure homepage",
+    "6d42c141528d91c680ee88c48baa81cc43151096": "imagejs: update 0.7.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "dcbc02bbdbf8822b287134fcfb2aa124172025f5": "imagejs: add 0.7.1 bottle.",
+    "6e0f76b510f121e026c181ab0d1701e28cc0a2cd": "imagejs 0.7.1"
+}

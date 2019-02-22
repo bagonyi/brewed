@@ -1,0 +1,7 @@
+{
+    "9fab1c6a2fd5f6c063d9e89d67dcb3c165bf880c": "sickle: update 1.33 bottle.",
+    "68ad718233b77b8672745d2763f8e318632309af": "sickle: also check for new line character in test",
+    "89962f8deedf9f0d50b3cc99f5eadedcc21dba7c": "sickle: fix test",
+    "dbfed2e80893afcbb904efbe13d46612b03a8f55": "sickle: add 1.33 bottle.",
+    "0b40ed2446e2d7fe7e359438877f8458f6d89d4b": "sickle: import from homebrew/science"
+}

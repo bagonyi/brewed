@@ -1,0 +1,17 @@
+{
+    "1a8856185cc55a7e7b16d4529b4ef12f8aa00c67": "xml-coreutils: update 0.8.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6568e70a47581fab21a961811c016212d5de39a8": "xml-coreutils: update 0.8.1 bottle.",
+    "11d09d790b5fc303e8b5614144bba8a22fe93f3e": "xml-coreutils: use https for homepage and stable url",
+    "214f7a034ac82ac62d1c54f13493a015840eebdc": "xml-coreutils: update 0.8.1 bottle.",
+    "0768bccb18c12a8f3df4f794ef0bfe7a0f900fda": "xml-coreutils: update 0.8.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1abdafc3f1f5c34c4b841dbf27d0d9a6d83a04b3": "xml-coreutils: add 0.8.1 bottle.",
+    "3b7209abbe8edadbc2cbd5243d6fb1f174977ff6": "xml-coreutils: add test",
+    "b8f7b122eb941bebc6ea5195ca929ca60467fbe8": "xml-coreutils 0.8.1",
+    "370a3be58da42199345c8f0f1d4d2405879dc1be": "xml-coreutils: fix dep name",
+    "38a8a98a65a48ba59c32004dc03b4e7f171cee5a": "xml-coreutils 0.8a"
+}

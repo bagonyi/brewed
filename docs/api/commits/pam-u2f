@@ -1,0 +1,19 @@
+{
+    "138b20052144736f394f07042e7b5adb39aa5ee8": "pam-u2f: fix dependency order",
+    "65a343a156e961a540767e7d7e3e2e4a479826e6": "pam-u2f: update 1.0.7 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "3e639d6d821043a6771ac74e2cebb4ea48b5252f": "pam-u2f: update 1.0.7 bottle.",
+    "d674f2eda30f8aa101e42560abe644d6749bf3d0": "pam-u2f 1.0.7",
+    "6c692d07b0ca442c06e5bddf07fc1d287f4dece6": "pam-u2f: update 1.0.6 bottle.",
+    "cedc7c1c5178d3d17d55f32b9f72db06815e1cea": "pam-u2f 1.0.6",
+    "37ca4c4c62b4638a961b99f519e8e5c91624da0f": "pam-u2f: update 1.0.5 bottle.",
+    "e43b6e5c538dc28ff676cb0fb389b4b67e8baacf": "pam-u2f 1.0.5",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "00a408186b2a3db9b8458cd2382b32d4e7b3b29b": "pam-u2f: use opt_lib rather than lib",
+    "8287cf39dfed8feb5012b5ca99dda22c06ff80d7": "pam-u2f: update 1.0.4 bottle.",
+    "e66c5b019641a32a39db567733b2256e326167b0": "pam-u2f: update 1.0.4 bottle.",
+    "74cd5b4b0ce536ffe71350b7fff7bf0594423f9f": "pam-u2f: small correction for caveats section path was wrong.",
+    "6b4e86c6d1f640ecafd7dff79a414a8d84e4f224": "pam-u2f: style nits",
+    "22957a45522851ad670e7770d9b70b985bbb7605": "pam-u2f: add 1.0.4 bottle.",
+    "c6b7d423fb8d778267042e0fb904120adc5e2886": "pam-u2f 1.0.4 (new formula)"
+}

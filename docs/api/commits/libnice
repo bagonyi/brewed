@@ -1,0 +1,21 @@
+{
+    "7ff83264bb45906c8ec144a498ff95a53139e6af": "libnice: update 0.1.15 bottle.",
+    "f0eca2216290169de44690093a87845e5042434d": "libnice 0.1.15",
+    "b33535ddb2e18b5b322b22b55986df2369d63304": "libnice: update 0.1.14_1 bottle.",
+    "439987d330a36387f18c2efce5092a3f18f0a2dc": "libnice: update 0.1.14_1 bottle.",
+    "4e9129aae5563fe6fe33646f06dee3ab9becd350": "libnice: revision to fix install receipt",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a2eb97bcef1314f92251b6769ecb0b06cfd50754": "libnice: update 0.1.14 bottle.",
+    "957d30f794e87a0be7d46779454bac34fd3c8966": "libnice: add 0.1.14 bottle.",
+    "aa526ea1005a300ff67d54b8b8eae677b22de8fb": "libnice 0.1.14",
+    "aec5838c97cd4cb03136ce2c5b10d4a383923d51": "libnice: migrate to boneyard",
+    "a0c53ed53295af953e3cc883046f38797a71137f": "libnice: update 0.1.7 bottle.",
+    "24b1aa6d5d818aee83084998ab532a45426a0194": "libnice: update 0.1.7 bottle.",
+    "2c58e4c98dd091d691235bb6390d93efd678a594": "libnice: use secure urls",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f6ddef182e53221d76a7afa5a699cead24c70d86": "libnice: update 0.1.7 bottle.",
+    "9e21af68be2998f73f214485499850b95a2a53f7": "libnice: add 0.1.7 bottle.",
+    "1db3837f7459946d5141940e9786712bad1a61f3": "New formula: libnice"
+}

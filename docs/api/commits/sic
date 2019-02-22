@@ -1,0 +1,17 @@
+{
+    "858669c513b0324d7fb040dca3a1c946c35af16a": "sic: update 1.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "a7130ea8e666abc8aeb4b3379f23d4cd0cc29bdc": "sic: update 1.2 bottle.",
+    "64e3c77e717e2e89bf697ab40ae6cba83de64a69": "sic: secure url(s)",
+    "87aac5609f370c840039e0b634b2e52876166185": "sic: update 1.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fb31898a1574a5b754980536f9ec527f60ce01c8": "sic: add 1.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9b6628c7b2eb33c3bec11df27835804a44b547a6": "sic 1.2",
+    "1a4339dc2a51a8a526652ace9431578d70a9278d": "sic: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "affc9663556351f81adc1e26502b622dd73443ec": "New formula: `sic`."
+}

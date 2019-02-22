@@ -1,0 +1,17 @@
+{
+    "4cb5cdcc8650e48d69cdc295d28feec843b719f6": "libxkbcommon: fix dependency order",
+    "68ec1fd7ba89fd401083069f114b10591e89397c": "libxkbcommon: update 0.8.2 bottle.",
+    "0b1bc871225be395f006dee323dd7944bf91de8b": "libxkbcommon: update 0.8.2 bottle.",
+    "90a9d7cffa9357f05f82f9d7ea46f3511486de7e": "libxkbcommon 0.8.2",
+    "6f3f6e0d211ac8fe8eecefb5ea946f8f42655df0": "libxkbcommon: update 0.8.1 bottle.",
+    "e417522ec9d1c25c8a9df97180d967a8e078a4a1": "libxkbcommon 0.8.1",
+    "175e14d89d415fef5cd329b74f05cd64d17d81a8": "libxkbcommon: update 0.8.0 bottle.",
+    "676d013fb01b81c726e94706a15e3a9e8f13de04": "libxkbcommon 0.8.0",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "82918262bba3a782068886b1aa5705ed037e19e9": "libxkbcommon: update 0.7.2 bottle.",
+    "21d297e03a97bbf8b2f3983012b718b5afc98898": "libxkbcommon: update 0.7.2 bottle.",
+    "8780279c78b64be596fa702f00e7f9782ae6f166": "libxkbcommon 0.7.2",
+    "cc4fe44ae85ac206c28771203a75df1517b34c8e": "libxkbcommon: add 0.7.1 bottle.",
+    "74e953f891b065428f5216199633f6a9e8218972": "libxkbcommon: import from homebrew/x11."
+}

@@ -1,0 +1,22 @@
+{
+    "93cb414ceba8519c33fdb55b27031ebc2addca68": "arx-libertatis: remove options",
+    "d8919af5d262e3b95b53b8815c0bee899fd15773": "arx-libertatis: update 1.1.2_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c2fc570896e85fbeb256b2a79d8d0e8be4e29dc5": "arx-libertatis: update 1.1.2_1 bottle.",
+    "d5b43b9b9f3af8f03c53920755289f9af0b0f1e7": "arx-libertatis: update 1.1.2_1 bottle.",
+    "0a6ca79f1692d6a0897b68d1a1f08472ba2315f7": "arx-libertatis: revision for glew",
+    "b07b28095a41991dd23f190ee1e39430825b40e7": "arx-libertatis: use full_index patch",
+    "709ea4125ef4c1a50e06f779f0306b809ed6d78c": "arx-libertatis: fix patch checksum(s)",
+    "8d3013351ea8376151c583c5c46d2cb9559a493f": "arx-libertatis: conflict with rnv",
+    "c5894a8be77885053ee09c926f0a7890e8134bc2": "arx-libertatis: fix audit --strict",
+    "bdfa7525db2dd8f5ef3e3a3349d3b1301c298362": "arx-libertatis: add 1.1.2 bottle.",
+    "0c1551bf97fefd3d6296c513b6242f134a750a25": "arx-libertatis: fix inreplace",
+    "554b123d2c992ed84506df566dcd44b2f739825d": "arx-libertatis: add patch for missing cmake include",
+    "12443272ae6e7f5ecfb7b0540cf01ceff41f7d19": "arx-libertatis: remove separate make",
+    "cea35c82c848d17daa9c6b48073643b0b8e5353c": "arx-libertatis: add comment to time commit",
+    "ff45afeed50219f961dffe435505d70c33d69c88": "arx-libertatis: move innoextract dep",
+    "d6d3642fa315c74fd815ef20dbe48801af5c1bad": "arx-libertatis: fix stable build",
+    "4c6c5e1369819f4008e991d9a939c92f4f0fbd46": "arx-libertatis: add HEAD",
+    "a5a47663f0f1d9f6beac0f7d1f494d12b7f3f801": "arx-libertatis: import from homebrew/games."
+}

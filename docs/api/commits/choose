@@ -1,0 +1,18 @@
+{
+    "df0bf80100e7d2950c000b79bc9d31aad3cfc5cf": "choose: update 0.1.0_1 bottle.",
+    "a273e3650ebc2b38e5ee5c641951006f48ceea26": "choose: move to Python 3",
+    "ca4311d9453a84834cdef4f37bc0a163101d408a": "choose: update 0.1.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "fcc3b751dbe1e392498074b54e0ae152b7c72e4e": "choose: depend on python@2",
+    "9f95b92e98b03d82274d420312bbe431bbeedb98": "choose: use pythonhosted.org to fix audit issue",
+    "17ce27736cdcdd77b2d39db6aefb44df7abbd3c9": "choose: use assert_predicate",
+    "194242395eb3dac51b389d6d7c3c694ccd48237a": "choose: update 0.1.0 bottle.",
+    "a241c97cd090eed7718bafe2319d544d5d79c781": "choose: update 0.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "cfdc52ff2a779650ff081dd083fbbf1f7a454b29": "choose: fix audit warning",
+    "4222a59bbab1d1e2293389a4c682a156dde415ec": "choose: update 0.1.0 bottle.",
+    "ffd23f2dc625ad32cb22c0a526a464fd24112eeb": "choose: adding conflict line re: choose-gui",
+    "5b4589a4588c006402e5a5c672572484169b1479": "choose: add 0.1.0 bottle.",
+    "1abbb539fedf802ae590d1a56e6d367aa48a3c6f": "choose 0.1.0 (import from head-only)"
+}

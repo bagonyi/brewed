@@ -1,0 +1,23 @@
+{
+    "c63950baeb579f7f961ba6ac39d0d2429e556bf8": "sdf: remove checks for old compilers.",
+    "6718b17128aa1cd43f5551f931ad5a140a6ac973": "sdf: update 2.6.3 bottle.",
+    "3235c00713753ffb00b056dd74272ef7162b32fd": "sdf: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "69018c3e80a411f115bfedb9b40ef1d6e5bd4926": "sdf: update 2.6.3 bottle.",
+    "1b150dccbd493c8005377c9a7afdb9fa7575bb49": "sdf: use ENV.deparallelize.",
+    "bc2be03980e1264f190728832562e898f010c665": "sdf: update 2.6.3 bottle.",
+    "2ab7195a07de731fcd3d96a2aafafcff0bd96e73": "sdf: update 2.6.3 bottle.",
+    "d5a2764cd17a6e983bd9d11e363649b23044ef6e": "sdf: trigger ci",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "937fceb0b03bbdec62bb6e0bb4a246673d8b8bc1": "sdf: add 2.6.3 bottle.",
+    "7ea0ea88477fdbf504cb2366498c1c527f501d86": "sdf 2.6.3",
+    "3f7b7b8982ec7394ff3d99ee0a561f82dfa2338c": "sdf: depends on pkg-config",
+    "ae9bc80493a13133678b31b220e3f53a7c21bf96": "strategoxt: Moved FTP Server",
+    "454fc5adbe6c48be9d3fdf815d8f2d6f70714a0a": "sdf: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "68a6e1036899aa0701fa3cd18da135c0a7bd5829": "sdf - fix audit warning",
+    "55ffed059654714b961eda4032956a061265f2e9": "Add formula for sdf"
+}

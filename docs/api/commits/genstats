@@ -1,0 +1,19 @@
+{
+    "f428500210df591de84fd41cc10af30e4b31a37e": "genstats: remove references to pre-Mavericks.",
+    "3305243165e7d788e40ee782c5b02b541066c7f4": "genstats: update 1.2 bottle.",
+    "204a8816f24dd3bb4018ebc4dbbfba212d1c3137": "genstats: update 1.2 bottle.",
+    "0c91e68cc65bde28dac5ec38c3b06d8534405c4c": "genstats: update 1.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "1ab68e94d3fc9da3c3004c38c3fb84b1ff35c0b7": "genstats: style tweaks",
+    "45784d03add5af18a0e598a0017cf4a7af8aa895": "genstats: remove inreplace do block",
+    "bdc4cadd6a60add1a0291cf645675f237014aea2": "genstats: add 1.2 bottle.",
+    "549407e6b5a1322911e004614a9a156830c32958": "genstats: use https homepage",
+    "792e65356c24b6e747089acee819a0fa0c21a8a5": "genstats: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "960d07e0f5281510883a326e39e96e2e5b86b192": "genstats: use full path of executable",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "0ae40dc4d7ebeb43ed2bf3d4b7bbb3df712e0382": "genstats 1.2",
+    "979ed58475241edb837adadfeef20cad84b34eb6": "New formula: genstats"
+}

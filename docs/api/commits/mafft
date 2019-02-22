@@ -1,0 +1,18 @@
+{
+    "2a2293094329836ff99d342c9539fdbff615a6e9": "mafft: remove references to pre-Mavericks.",
+    "1ac63f3f12ac8589a3cda8ff16b97bf90c4d531a": "mafft: update 7.407 bottle.",
+    "ceb031ae81dc7ba1a536628917cd11a7aa25d0c8": "mafft: update 7.407 bottle.",
+    "9d2309658c35accacd808b0378195f0638f1decb": "mafft 7.407",
+    "1038b137c8e4f13ebfafb9785b74e412e95d9510": "mafft: update 7.402 bottle.",
+    "8f4ccc70528257d47d75863de079e23732a0ba24": "mafft 7.402",
+    "68c5443d2f4ec5875c4bcc00c29588332ef894d9": "mafft: fix compilation flags",
+    "982e5c17ecd1e16cf8c140fce486009b2518232d": "mafft: add 7.313 bottle.",
+    "956a27083eeec999ceac8344aeca39cbe9facb70": "mafft 7.313",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "3609b865c05b40ae1a16a481c9467d627b77ad06": "mafft: fails with clang",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0c89a5c8dd99ce83693278cd653132d011839ae8": "Remove redundant versions and update version tests",
+    "b10fdb8494936c56440d96b1313a59ccfcd12340": "mafft: avoid inreplace",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8e5b4132d7b7869fed4a267542bc9b26fb04b1ef": "Mafft multiple alignment tool"
+}

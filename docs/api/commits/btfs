@@ -1,0 +1,21 @@
+{
+    "5805abea2a579a72e9e273e70c0a5aa875223697": "btfs: update 2.18_2 bottle.",
+    "86153e7da81f2477466baa064bcb08402dd96c3a": "btfs: revision for boost",
+    "34204ddb5dae9cb5b1afc3ab38e2ba74b15773be": "btfs: update 2.18_1 bottle.",
+    "358e83be2bd152c98bbc2d8bd85f08fe4f995290": "btfs: fix dependency order",
+    "345cdfdd71eb4c8772261c5ba2765b3bb63c166b": "btfs: update 2.18_1 bottle.",
+    "9a82a4da5cefb1b8afea714c03dfbd02d0999e4a": "btfs: update checksum",
+    "fc70581140fdf53ce0a93b2c772c4e32d3c7dcba": "btfs: update 2.18 bottle.",
+    "767d0681d598828820ca18547f266e4bce2fbc86": "btfs 2.18",
+    "6f7e649f7237120131ea833e3e497b1bc1dde154": "btfs: update 2.17 bottle.",
+    "c2a303481fadf0d5f51b2e287c7e6406345c92df": "btfs: update 2.17 bottle.",
+    "c3cf0862d25697947e6f5383fc7418b3abd81d0b": "btfs 2.17",
+    "18eec0d2464267c9a8883d0dde5d043010a2e040": "btfs: update 2.16 bottle.",
+    "f5eac75addf041dd76a00b60dd9f0e7c9e6b3af1": "btfs 2.16",
+    "0d58f28d25fd18a4c2e8009a69681bd253696b25": "btfs: update 2.15 bottle.",
+    "322474b535aeecc641f93150c011ed752ebc5bc2": "btfs 2.15",
+    "96b9605a8069c3092080601676451742e468e3d8": "btfs: update 2.14 bottle.",
+    "b5fde06f595f1bf18db541db92190cbd97769333": "btfs 2.14",
+    "3551b36332638e400a82b46eef41341fa284930b": "btfs: add 2.13 bottle.",
+    "6f1d4270b68f828b0d45a236a672d9fa27a27c7f": "btfs: import from homebrew/fuse."
+}

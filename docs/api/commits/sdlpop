@@ -1,0 +1,16 @@
+{
+    "93ab6c6e2738d3a12a68d47e100cd94ae3d4c59a": "sdlpop: update 1.18.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "e4e22951d28644964df2139a57b1bb4fefa62cbd": "sdlpop: update 1.18.1 bottle.",
+    "9f40ab8a184b9017d0c31e584aa75e53dd4773e8": "sdlpop 1.18.1",
+    "0dfdc46b4b0fc6868ccd0420a7569334854ae27b": "sdlpop: update 1.18_1 bottle.",
+    "aaa76c18462527a2154d5f8fb4a9a4582b6b47ce": "sdlpop: install data files in libexec",
+    "0680f311b21ed54a3060127659d2db46b55940f9": "sdlpop: update 1.18 bottle.",
+    "81cf7891379337b88e1d126936d647d4cf7b1398": "sdlpop 1.18",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "49be0a7332caf00c27eef0814521fdc858e0d567": "sdlpop: update 1.17 bottle.",
+    "f0dc5fca16166a2cdf51dd87ba1288067b9379ac": "sdlpop: update 1.17 bottle.",
+    "534374ae16dc8f5c3e083c5e8438c177be5c1ecd": "sdlpop 1.17",
+    "7f6a6145760b4eeeb2ccd1474cc63a0e92ee76f1": "sdlpop: update 1.16 bottle.",
+    "e47eee411613f69f71db460203de74dfccef1a24": "sdlpop: import from homebrew/games."
+}

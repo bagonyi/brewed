@@ -1,0 +1,9 @@
+{
+    "125d6b99999963aee6e66eefdda0af0eeb5f21e4": "wego: update 2.0 bottle.",
+    "337e9932ee9317f45752170a2837510fc30d1367": "wego: update 2.0 bottle.",
+    "5e52b3cc3f147176ee116e0b0a0e11726e68a741": "wego: update 2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e83be3cd33ee7c70871834df354c1e51651a418a": "wego: add 2.0 bottle.",
+    "0ec6e9f48a04b01859c1fd24ac899c42f7c55592": "wego 2.0 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "3be072feb7231f23e75276b59cf60454e6170743": "ltl2ba: update 1.2b1 bottle.",
+    "90d11f57217230be034a6c3e7e24172b3ba6aa7b": "ltl2ba: update 1.2b1 bottle.",
+    "e754cbf9bb6768014a26d4cf91ad971147579a3a": "ltl2ba: update 1.2b1 bottle.",
+    "9dfefc4dfad4829bc90a9fbd41a403af0e014d2c": "ltl2ba: update 1.2b1 bottle.",
+    "975771c85151fc20af25a7a91db4d4988c5b99dc": "ltl2ba: use https homepage",
+    "17503f90819edab5cbf5c5ec310b8e5577bbb7b7": "ltl2ba: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "656a6526cab350aeafba972523083e1bfd4d4847": "ltl2ba: avoid unicode char in desc",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c22d56eee4e8d684dfa143bec338b4f550f50c68": "ltl2ba: add 1.2b1 bottle.",
+    "e401aa0c311abddfa7dddd3d9bc0b5dde47af8e2": "ltl2ba 1.2b1"
+}

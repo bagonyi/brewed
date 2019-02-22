@@ -1,0 +1,14 @@
+{
+    "1f5c7cb49a4eedac6edcd9e22960388850c8c1fc": "b43-fwcutter: remove references to pre-Mavericks.",
+    "1e6986708f452e4f92d709177b936871ce82b4be": "b43-fwcutter: update 019 bottle.",
+    "b944bded54ca69e1c1b680cd7a3355fef428c571": "b43-fwcutter: update 019 bottle.",
+    "d18468057f435690332cefb5721ab88863ce5fe9": "b43-fwcutter: update 019 bottle.",
+    "ebcadc339c4b73e099d3eb517602ba717fd8a7f7": "b43-fwcutter: use secure urls",
+    "1c9fcdf93376461e5a4d04fc23a7cc81109d23e1": "b43-fwcutter: update 019 bottle.",
+    "70ace344cee7e62fb57956b362b1287ceefa4262": "b43-fwcutter: add 019 bottle.",
+    "e68e9f8cc6fda36cd8030d239b23e28d44b01624": "b43-fwcutter: add https mirror, use https homepage",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "652110ec399f65760f3a7501863ee4439788e2cc": "b43-fwcutter 019",
+    "1a3f52a088df184c63e97d9de33c72ea0e03a182": "b43-fwcutter: use patch DSL",
+    "4a4ccffa5b6dee8216f98c7c3fde18b24a248301": "b43-fwcutter 018 (new formula)"
+}

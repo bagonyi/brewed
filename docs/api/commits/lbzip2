@@ -1,0 +1,20 @@
+{
+    "e7bd0f201edd3fc205a8464915bc84c499d3bea8": "lbzip2: update 2.5 bottle.",
+    "129ee4bc0cb5449b5052d6acab58c23466bd4945": "lbzip2: update 2.5 bottle.",
+    "c86852ac4ddfca20d93b5ebf4747e3983831bd6c": "lbzip2: update 2.5 bottle.",
+    "a32dad8f7a054efad24d0e5e8006f264f080b10e": "lbzip2: add 2.5 bottle.",
+    "f24a69a0c57616c2694a4c2328e4066f1af44d94": "lbzip2 2.5",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5aae7b29a6e35212431d7ce6d953bcee1eeec0b1": "lbzip2: fix test",
+    "eb9a7a0e65f2f7c1b81b005e81efba27aadbc682": "lbzip2: add test.",
+    "fe67c951c92ca18052a028686551dea830e1d3cf": "lbzip2: 2.2 (new formula).",
+    "1d63f94f828e3d2ee16ee33b0168433f6441400d": "popt: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dacdaf979525c8478687cb3c6ed81c0e9710b531": "popt: version update to 1.16",
+    "6442a3c7d7ba18e46ad1235b47f115f57fef4858": "Bumping popt",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

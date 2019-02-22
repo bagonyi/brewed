@@ -1,0 +1,20 @@
+{
+    "5365c115296baeb343a84df33ba795426e5e6f07": "serialosc: fix RuboCop Layout/AlignHash.",
+    "7f24af74c01d00ecb703f5d4d9c1989da62b2a06": "serialosc: fix dependency order",
+    "6610197334526f64160776a55fa84b1d49507b9d": "serialosc: fix tag/revision indentation",
+    "336439cad93a3e2aacd105ca895563b2753d8720": "serialosc: update 1.4.1 bottle.",
+    "ff32f563af2bf2fc8150c7c2f929435bf0e1427b": "serialosc 1.4.1",
+    "353203300c570772e654e2cf12463f41662fdbcd": "serialosc: update 1.4 bottle.",
+    "25eaf0f45f34539069213518ed4022a42c45e0d2": "serialosc: secure url(s)",
+    "b2c0cd4d75e97932219b0cda4872ea2387606ea1": "serialosc: fix build with Xcode >= 8.3 (#17190)",
+    "86b34bb8e9aa5d92beb67f7644a48f886d1932b1": "serialosc: update 1.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "ab7611e0770381fe2e2cb89cf77aa9c1674499c6": "serialosc: update 1.4 bottle.",
+    "446b9e2f9688a343ad8e8a09cd7fe6ec3e0f2787": "serialosc 1.4",
+    "1d6c8267491bb3dca5004e1294cd82b45d53f954": "serialosc: add 1.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "84d9047b53c6e5cfd2a80b5fb3c1cdaab221a0d4": "serialosc 1.2"
+}

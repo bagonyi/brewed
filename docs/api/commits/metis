@@ -1,0 +1,17 @@
+{
+    "f8f06653b299661b11a738f4d43f4dd37a8fdda8": "metis: update 5.1.0 bottle.",
+    "e7eda3dc91d06f9f80735984f67a2a5a5dd1feed": "metis: update 5.1.0 bottle.",
+    "0b252df318c7ec9fa7a22ff185db957d1438a40e": "metis: add 5.1.0 bottle.",
+    "cdacbf0316ff914acfcf3111f1648348048df96f": "metis: migrate from homebrew/science",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "40e1e2b40f7a4703762c42bec629b714f6c31d3c": "metis: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7bbeebb5783314cfde85e277dfbf2888bbab487f": "metis 5.0.2",
+    "ec04297d3305e618dfc7cc7860b9b26ef0694dc1": "metis: use a stable download url",
+    "a094a6802b05f5bb5d491e7010ead4bc3f26ae36": "metis - fix md5",
+    "d5d28d6f7db657373d45db39594f8bdeb58c450d": "metis 4.0.3",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "539331357e831a8a0b04574bbfba9bb799ea02d4": "install the include files as well.",
+    "dcfd7b84034cd60e0656840071a6129623b3478b": "Added new formula: metis"
+}

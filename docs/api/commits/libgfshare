@@ -1,0 +1,15 @@
+{
+    "b5a17c2c47cce17fe68aecda67e49e5a5ae5ef73": "libgfshare: remove references to pre-Mavericks.",
+    "5bbd9fc1b261a46dd879700376a0d5794581a243": "libgfshare: update 2.0.0 bottle.",
+    "c8cb61011762abacefadb11e19a70374dfe5e448": "libgfshare: update 2.0.0 bottle.",
+    "df39de62db5842fe0f3d2263ad98a407e3d59b31": "libgfshare: update 2.0.0 bottle.",
+    "3d6d24ca825e7b608fb4485afff6172728e22e13": "libgfshare: update 2.0.0 bottle.",
+    "5ce63d962530b45484bb99f75b4b77eaee0e1ac8": "libgfshare: use https urls",
+    "04f717a29988e8156ade4b18d8d8682d1c58bfb1": "libgfshare: update 2.0.0 bottle.",
+    "30017df45c137ad9bdda6bc0f004981aeec8fd15": "libgfshare 2.0.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "51c37a3bff82f4eea1c23805527d28e62a770f78": "libgfshare: update 1.0.5 bottle.",
+    "24e3f8219606837a4c47c5d2dea0f5adc557fe59": "libgfshare: add 1.0.5 bottle.",
+    "1f6fc777c2afb71c60a8982928f8810193c54232": "libgfshare: add better test.",
+    "5346724a8c39a964f38d43ea8574445e7faf7ffc": "libgfshare 1.0.5 (new formula)"
+}

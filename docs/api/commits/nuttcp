@@ -1,0 +1,19 @@
+{
+    "d83284165fb156ff0d44c539a30c5220bae7ec92": "nuttcp: update 8.1.4 bottle.",
+    "43dc2d9d8bd8346c8138e3147620a0b1a30b51b7": "nuttcp: fix checksum",
+    "92d823396d2ee8d1a7a88827bdbc7fa274dc88f5": "nuttcp: update 8.1.4 bottle.",
+    "319e627e1327139574d09bbf6185c464c56bd3d0": "nuttcp 8.1.4",
+    "9abd2a9b827b919d2ae921f625e25e96d18f1ecf": "nuttcp: update 6.1.2 bottle.",
+    "db778349ffdaebb70981addc03a5e6c59a1ce102": "nuttcp: use secure urls",
+    "5569f3c01090bdf0eeeb165039a918afbfbd0682": "nuttcp: update 6.1.2 bottle.",
+    "d2a63c73befc4ad840b54521caf1c1b0911d95af": "nuttcp: update 6.1.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "8a33bb5609875adc8c7b540f39348f3147557eeb": "nuttcp: remove mirror with incompatible file type",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8893ffc9d06bfffdb0d0b51344eb4b689403b948": "nuttcp: add mirror",
+    "8328f13e62bd0f7261765abd8e8a2fa7f9ff2c9d": "nuttcp: add 6.1.2 bottle.",
+    "008f52e1fd2b299fa483c30bc3f3ad05eb3f08ad": "nuttcp: fix URL.",
+    "4e00360495e3b36305a8bc41564b98c475ea99c4": "nuttcp: interpolate version",
+    "07280a22271e14a03db3359d65a6436a1ccce260": "nuttcp: update download link",
+    "2e3b664784226c39e38cb3c29dba708e6897acb3": "New formula: nuttcp"
+}

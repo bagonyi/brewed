@@ -1,0 +1,20 @@
+{
+    "014ffb6c0754289b93f749d0948c3b1d5e71e292": "libspiro: fix dependency order",
+    "21a00d7f1d8069926c473b0e604f140464bf2d67": "libspiro: update 0.5.20150702 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0d768e23b4f6fd2880917f3cffeb947e16ebfe42": "libspiro: update 0.5.20150702 bottle.",
+    "53772d10e1e87544ea5518f89508d42c9721440c": "libspiro: update 0.5.20150702 bottle.",
+    "74702f0574fd773dc40633af530a5a83136b7761": "libspiro: update 0.5.20150702 bottle.",
+    "32371ffa27bb37521956be03c3647883b661f60c": "libspiro 0.5.20150702",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "64238b46acf57e8ec383c0779f4bca0eb784650c": "libspiro: update 20071029 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f95d83d30fcdc6e0962475ad9636ff06a37a6710": "libspiro: modernize autotools deps",
+    "3517b4952fca9ba0384e95dfeb578809d1790a07": "libspiro: update 20071029 bottle.",
+    "3e667b5bc08cc236d68779ff561ec1fa4e47fc61": "libspiro: add 20071029 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "65989095548d4e1158da63d1ae2281552ddbefb9": "libspiro: use spec deps",
+    "e22c31ce7addd6871be8ebac4e6cb8acbd7af8d6": "libspiro: update homepage and add --HEAD",
+    "0cbab21226612949952da3f3beee89638b69d314": "libspiro 20071029"
+}

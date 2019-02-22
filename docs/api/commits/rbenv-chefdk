@@ -1,0 +1,4 @@
+{
+    "710031cec13e2c4a1cacf10389dfbe96c747d5db": "rbenv-chefdk: depend on rbenv instead of :rbenv",
+    "4ef31919387012666ec2bd27422a6548164e32e3": "rbenv-chefdk 1.0.0 (new formula) (#19990)"
+}

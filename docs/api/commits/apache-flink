@@ -1,0 +1,22 @@
+{
+    "d111a9fd1551365d9b6f02288b26693295a13c11": "apache-flink 1.7.1",
+    "bf214dcf9ae94c8be284fbe19d58c576d9a4b40d": "apache-flink 1.7.0 (#34639)",
+    "fe986f0503082ec8e5d8a0b3e50b94146b14661e": "apache-flink 1.6.2",
+    "432294725f92e6f7c5e8be2d6ac0fcda511617d1": "apache-flink 1.6.1",
+    "4c1d4a3d3b1a1fa62787087fe4314dc61e635e7d": "apache-flink 1.6.0",
+    "334253f9fb07d87e4d988ee20f51c9d3bb76528e": "apache-flink 1.5.1 (#30153)",
+    "441f2f8f8a15dc09948ddf3b1d8c3adfb8117b91": "apache-flink 1.5.0 (#28342)",
+    "76ca86e18eece6614c3a6d19a9ac21da7b079f46": "apache-flink: fix _JAVA_OPTIONS usage",
+    "765ab9fe5a9558ecb1f4c512786a76497e7eef99": "apache-flink 1.3.2 (#16429)",
+    "a95e4094a3125ecb165896770e841d2b936b5a6f": "apache-flink 1.3.1 (#15023)",
+    "3733b7d2f1396e94db1d7829847f879a22d41535": "apache-flink 1.3.0",
+    "4c02e1648fe52c1c43b836a126772b568a8f112a": "apache-flink 1.2.1 (#13283)",
+    "87b340389b4be6a9e783cb1dc07791abe62ab4ab": "apache-flink 1.2.0",
+    "247959d2d8c14a08e39a9acac755e4ccc7ea1d3c": "apache-flink 1.1.4",
+    "c29e13158b80b63bad0c7ea39d315bb81c121be9": "apache-flink 1.1.3",
+    "14c8c0236a910222f183658e78934547aa5d0ce5": "apache-flink 1.1.2",
+    "e644657a1a2c79a59dede57f057faa483dfaac39": "apache-flink 1.1.1",
+    "74092527624c9d1d56ff2c193123d6e54930435a": "apache-flink 1.1.0",
+    "40b1cdd6ed0554cde55a413a1b7d01e6692c1135": "apache-flink 1.0.3 (#1103)",
+    "c088e1ac54b84af0ac9114faad8bd7806aefa15e": "apache-flink 1.0.2 (new formula) (#968)"
+}

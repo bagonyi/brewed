@@ -1,0 +1,11 @@
+{
+    "7d6810f30f3227ee6ee40b051f5bb6c6a288c366": "xcenv: secure/fix/follow url(s)",
+    "346fe5987b345ba701d0acce9a76d91fa3d66df7": "xcenv: set bottle unneeded",
+    "e2b04d888daab219442c7de995f5a54cfa739470": "xcenv 1.1.1",
+    "e501dde5973a4f327108c24b4509ac0055215e53": "xcenv: update 1.1.0 bottle.",
+    "ff2fcc118f21f128a835f1826ca235c252bd2233": "xcenv: update 1.1.0 bottle.",
+    "40ac15fb2941b6e76d0a5afbac5676f5e9875ac5": "xcenv 1.1.0",
+    "53570093f3fdd07f6368b4b2918b2b8d194de0f5": "xcenv: update 1.0.4 bottle.",
+    "49ee1d658a297ce2b1d587a884a9ce68fde758c0": "xcenv: add 1.0.4 bottle.",
+    "272ffdab25d6fa82089852db8b90c6a6e20e371b": "xcenv 1.0.4 (new formula)"
+}

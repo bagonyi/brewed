@@ -1,0 +1,10 @@
+{
+    "b5c74b8f671433096d146be9c2b215649ae13c52": "willgit: secure/fix url(s)",
+    "a3cb065f44f4948069eb4fe039f4a53ddcfb9347": "willgit: add conflict with git-utils",
+    "c524823204a408b749d01a90f0ccf251d1cf2895": "willgit: import from head-only",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "ae0fc40ba492e679165918cfa2be7bea864c472c": "new formula: willgit"
+}

@@ -1,0 +1,13 @@
+{
+    "f1646e2108ff58c812b5a84b429eb2825986d8d5": "jerm: fix url(s)",
+    "44531ca7f486d98979576259e3c35569f7c3761d": "jerm: update 0.8096 bottle.",
+    "2788c047dcdcfbe3d7b0a9285d777e420428c923": "jerm: add mirror",
+    "a3f90bfdbdb3a044b26439d7237558a8e93e55d5": "jerm: update 0.8096 bottle.",
+    "397c5cbe204b7bc7556de2268743371b4980becf": "jerm: update 0.8096 bottle.",
+    "a2da895c851d65e625367ec20dfe18623732631f": "jerm: add 0.8096 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "136fbce8a73527c5591d9b8ff30f4e7430f79731": "jerm: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6fce82d14cc1c114b9bdefefd1538cd9845c85a8": "jerm 0.8096"
+}

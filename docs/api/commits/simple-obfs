@@ -1,0 +1,18 @@
+{
+    "1c7747c0c42d5345be4d3fa61b05b0aa3b661ea5": "simple-obfs: fix RuboCop Layout/AlignHash.",
+    "a3f01fa171a71497c44489522d8c416959abbe3a": "simple-obfs: update 0.0.5_1 bottle.",
+    "11a13ded2abc929ccf44318d5b2077bce648c301": "simple-obfs: update 0.0.5_1 bottle.",
+    "4d61a5fca6b58ae86a2d708cb3402cba0790f600": "simple-obfs: remove c-ares dependency",
+    "a287705540f9170f4a80f11a48ce703303d93f3a": "simple-obfs: update 0.0.5 bottle.",
+    "4639b70183156875ec31072d3b7f5bd9eb021c91": "simple-obfs 0.0.5",
+    "cd1164c76231f0a4d8cb4b1c0820e57c9ee04d15": "simple-obfs: update 0.0.4 bottle.",
+    "114c04a072938b1b34ad8d5bfd99853a0d606e25": "simple-obfs 0.0.4",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "18f196e593d357f57842265134da1241ca920999": "simple-obfs: update 0.0.3_1 bottle.",
+    "9bdd31c605926c80d98c238faa0c1c7eec776126": "simple-obfs: revision bump for libsodium",
+    "3e21bcad07209dc232f7629d0e73688513fe9003": "simple-obfs: update 0.0.3 bottle.",
+    "a0071b854ad3193d26cb85585560415b89e2f35f": "simple-obfs: update 0.0.3 bottle.",
+    "bc3e0dfb6e516e69c32f2eac2cc2966b606367be": "simple-obfs 0.0.3",
+    "e7e932be542699d0fc3cc6e0c6db8958f833b35c": "simple-obfs: add 0.0.2 bottle.",
+    "d5b02d6a8a9f6e865fd5106aeb55aa918f9e54dc": "simple-obfs 0.0.2 (new formula)"
+}

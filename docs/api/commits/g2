@@ -1,0 +1,14 @@
+{
+    "15699bd97d70c452a1bacb6282fb9352ccc181fe": "g2: update 1.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d809b9f38d0b6aa9454eba18ad0d16c578c530f0": "g2: update 1.1 bottle.",
+    "c53cfbe9914c1235a1f81ea871518767b8162c4d": "g2: update 1.1 bottle.",
+    "2f2378cf796b301608cfc361789e0b4a9efc0c39": "g2: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "df2e681bcecd08fc256cd5cff204291013744124": "g2: improve caveats",
+    "44c45e286878e9dc0ed9e3597902fc2301b4d288": "g2 1.1",
+    "8df5e1f3f225a52491dc0064889ff380b81c232c": "g2 1.0"
+}

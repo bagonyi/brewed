@@ -1,0 +1,15 @@
+{
+    "8e7a92a48143af35b60189686d2577bf1e53152d": "malbolge: update 0.1.0 bottle.",
+    "78d431e9794c43ee2ad4301515553efa50446382": "malbolge: update 0.1.0 bottle.",
+    "d085881318a7cd0b29736dad3fad01aca89a5b14": "malbolge: update 0.1.0 bottle.",
+    "aaa67680356a091e293033b033985094417f9995": "malbolge: add 0.1.0 bottle.",
+    "6d309e9e6fb17c6f86564805b06c6cbbf8c77010": "malbolge: use https homepage",
+    "68f39a55fa0ecb36fdf5489a7fb05734dc965795": "malbolge: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "36ef790fc16c3c6a37d489eecfe6f8b009c85b7c": "malbolge: use patch DSL",
+    "d19b574842debfc6f99eefc3ce5950aa80f64d8b": "malbolge: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5bd598db3665bddce91e6e171c64d1f5c75744bf": "Use ENV shortcut methods where applicable",
+    "7054475142edf9084a8f5fc8334ec72a53041aac": "malbolge 0.1.0"
+}

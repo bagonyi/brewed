@@ -1,0 +1,20 @@
+{
+    "1cc27be4d4ba865e3ac4adba1f0c284d7ad1ab0b": "sword: remove options",
+    "0990a24373e3310ce1256d581f479c41dcf5c95d": "sword: update 1.8.1 bottle.",
+    "879e31daef8c35409ae6fe22b53a05f465e13a95": "sword: update 1.8.1 bottle.",
+    "3a15d0e91f884a4ec9d1be130ad801d51f587cb7": "sword 1.8.1",
+    "3eb8252b7cdc4b643470cb7d25e636dfc23aba6b": "sword: update 1.8.0 bottle.",
+    "8e8b735b0eb3689ed57084d294db4141131bfab1": "sword 1.8.0",
+    "aa6e2e79bb55bf762534d177f5ce9fdd6b2e8d4c": "sword: update 1.7.4 bottle.",
+    "69bce3d9b0c86fcec6c619b5dcb19ec545b3e39c": "sword: update 1.7.4 bottle.",
+    "16626a88018214c0254d2c52e5048b0a909949e8": "sword: use secure urls",
+    "dd42e695db559a837e599d29fb1431efcbf6ec88": "sword: update 1.7.4 bottle.",
+    "a5a390d0185abe841b8b41964512128a53a5fda2": "sword: audit nit",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e7e6b7bb79f63c06f9ecbf4f51c774c557d29210": "sword: update 1.7.4 bottle.",
+    "7a956419982279a6922a89da52849520c872c7ca": "sword 1.7.4",
+    "9d11a06b9ccb2d769a5cb22ba14f3129415105c3": "sword: use project-specific URL",
+    "48b72a4dec3eac8d2d0d4bb78162504414157046": "sword: add option descriptions.",
+    "44b72715ab555d1f0875d46ee1ab345b89268072": "sword: add 1.7.3 bottle.",
+    "67e1d6305d1cef4bb0d7e4cfd5d01de6c0e59f99": "sword 1.7.3 (new formula)"
+}

@@ -1,0 +1,8 @@
+{
+    "c856114b38f7bf94d8927856e6f89cb5d3ee25a4": "einstein: fix dependency order",
+    "4479df05304d290c8035305626b718f84c6cee8e": "einstein: update 2.0 bottle.",
+    "2708339a2c8b7a6a591589dad56942e27c2fcc7c": "einstein: update 2.0 bottle.",
+    "957d8c4d01e2763d3a387c92138159c5c5b4edb9": "einstein: remove protocol from web.archive.org param",
+    "096bf7c167758a9fe9a6a67d9cb075f7ced87e03": "einstein: add 2.0 bottle.",
+    "0671117ed7fcfb3eaaac0999aba4eb67621c8987": "einstein: import from homebrew/games."
+}

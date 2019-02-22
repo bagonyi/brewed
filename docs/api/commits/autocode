@@ -1,0 +1,18 @@
+{
+    "119fc0d72f4d9ba358c1b258671d5e1dae46b1b9": "autocode: update 1.3.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f0998993107cdd9e774f42864e50cfa740957acd": "autocode: update 1.3.1 bottle.",
+    "10e9ac869ecbcd275a5491c822ce1532411f4564": "autocode: update homepage",
+    "a8ac400b3274535c74377b7e20d4137781abb078": "autocode: update 1.3.1 bottle.",
+    "9074ef960ead18f037468cfc51c1ad542c441693": "autocode: update 1.3.1 bottle.",
+    "0e7534d5c5e724671edc564956d14bd9fe622991": "autocode: use Language::Node",
+    "1a670a6269e1e07f86683c2d164977c9bd8a3fb6": "autocode: update 1.3.1 bottle.",
+    "1a749e7e84e2f13e7e9ae329f7e99b352dbbff22": "autocode 1.3.1",
+    "257f00afc365561f5fe3ac49b006a237972f93ac": "autocode: update 1.1.4 bottle.",
+    "29e33f59608746ec3c4487cc13ca5894b47e80fd": "autocode 1.1.4",
+    "ce7b1a8667da46241f42ec399792219f0b833416": "autocode: use secure url in test",
+    "723cc7e34d77d40e220df070de76b90c5e7fedf9": "autocode: update 0.21.2 bottle.",
+    "d8e841173a209b7881b835139b58865a403ea3ef": "autocode 0.21.2",
+    "6a5821dc5595c9d302dc775c77990f9602603c2a": "autocode: add 0.20.3 bottle.",
+    "42814a74daf6962730b816fc9d10cd87c930cf47": "autocode: rename from crystal"
+}

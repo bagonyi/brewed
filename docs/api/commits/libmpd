@@ -1,0 +1,23 @@
+{
+    "84e8dc42323b30f8be6d078be5829880408185ca": "libmpd: remove references to pre-Mavericks.",
+    "676d53fefe7ac910d7ad133ccbb4e226fc10cdda": "libmpd: update 11.8.17 bottle.",
+    "627915aec8523f0e838143323ae33ed0b4b76254": "libmpd: update 11.8.17 bottle.",
+    "f434644f4c5f53b1c66e6dce6ceaa5aea75bf7a7": "libmpd: drop universal",
+    "9c54335c8bb760d4d065b49eb5a8794834ba8b4b": "libmpd: update 11.8.17 bottle.",
+    "c06421f6c73ed33902993f6f1adc4a362ca50514": "libmpd: use secure url",
+    "c8c3d4d67a83a8ab61586bf7d82fa8c024fbdf47": "libmpd: update 11.8.17 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "df5563ecc598bdbd4d2e886d185f2b0e59b7fda6": "libmpd: update 11.8.17 bottle.",
+    "4df25208687f89a4acdeec2d78b3f79227450639": "libmpd: add 11.8.17 bottle.",
+    "ad4b60c6083c2877cdd7d8bcc7981c87a00d38d5": "libmpd: move URL from SourceForge.",
+    "27fc3a031e9ec898e111e447f38bdcbcb2f1a6ec": "libmpd: use options dsl",
+    "827edf60fd82c02c24aecf5fdfe598b1b6774212": "libmpd: Update to 11.8.17 plus universal opt",
+    "929388ea338cdd6aeb82e4f697b0fad23b0f6dfb": "libmpd 0.20.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8c8364c0c6208340cccadcd24de38da37776a8a6": "Added libmpd",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "0c853bd387eab2145e454aebb78aed654e40e643": "CenterIM is a command line IM interface."
+}

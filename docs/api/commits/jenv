@@ -1,0 +1,17 @@
+{
+    "8aa2d2f2b452650d1210a24aff048d303be0c025": "jenv 0.5.1 (#36314)",
+    "7158f6570c152e8d753e86fe635c4551e27040ab": "jenv 0.5.0",
+    "bdc8351999e4ff85072fd83d09d5b79e8a7e8384": "jenv: secure homepage",
+    "467b16c5dce3525699ab69013b9c6644391351be": "jenv: remove non-Homebrew-specific caveats.",
+    "b7371934f06fd7c7e6a2473652bc95a9114d0802": "jenv: fix misplaced end",
+    "a141a43ffeb18b1c981d80008827531781da0e88": "jenv 0.4.4",
+    "5b49128220b631cde4a8e905e514fc49b097bb03": "jenv: change order of caveats.",
+    "ab967b93c20ffa419e658becbce73a99a8b50ce6": "jenv: bottle unneeded",
+    "e7d0aa470fff84a6b2109b31aad08af119f1a0ce": "jenv: update 0.4.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "5ede5ecacc36575adeed548c071bd3d27594921a": "jenv: add 0.4.3 bottle.",
+    "50a1202614857962db7e6bc420dda133a9d73a1b": "jenv 0.4.3",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "02f2762f967e62dde4788adeab7fa4abd5b05fd5": "jenv 0.4.2",
+    "2de4bda72c0b55c03f1ba3320d6216408e9885e4": "jenv 0.4.0, a rbenv-like for Java (new formula)"
+}

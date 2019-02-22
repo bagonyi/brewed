@@ -1,0 +1,14 @@
+{
+    "3f42ed0e1e50391c3afc42afd84bc5b71428a09e": "selecta: remove references to pre-Mavericks.",
+    "197e6b093adf437b0794d676f9175692870112c0": "selecta 0.0.7 (#24490)",
+    "f6ea6f15c0baa78d9766774b6c0b71097cf24f94": "selecta: depend on ruby instead of :ruby",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "ded9413840c96cb5b10d36e8502e22170952b97b": "selecta: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "31c61103caf483c10098aaf83ac053d356537f8a": "selecta: fix strict audit.",
+    "e7d1960c02af60f8fcef08237813ef7eb9db0d10": "selecta: use RubyRequirement.",
+    "7efe2c18d5e40664a1f508b2dc305f1d2f1aed0e": "selecta 0.0.6",
+    "06397e8ad92cbf38451f4cfa22b62089a62def37": "selecta: fix ruby 1.9 requirement",
+    "455499bfdfce2455d4b388ca4ea8868587ac370a": "selecta 0.0.3"
+}

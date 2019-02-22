@@ -1,0 +1,14 @@
+{
+    "a1f94ece5a298e665969889fda683d39a4862a05": "dosfstools: update 4.1 bottle.",
+    "4eba413a6ab42621b094e9e999f8ebded0131ea0": "dosfstools: remove options",
+    "491a716d4df03a67fd15f1503567f82ca2cd7e60": "dosfstools: fix dependency order",
+    "fb885dcb8257bcc8ff6d17b48d3f8faa41eb7c05": "dosfstools: update 4.1 bottle.",
+    "00727016e046b5dd480f31005f78d21d085a4826": "dosfstools: update 4.1 bottle.",
+    "cc24fed0ac851f390d8ea22a441ec15575fcb547": "dosfstools: use full_index patch",
+    "0b0fc422ee8dbc26e3e922d9435d4b8af07af4f7": "dosfstools: update 4.1 bottle.",
+    "d823d30217c07a3e6b54d34dedadf1fd3f5ad81b": "dosfstools 4.1",
+    "8656ddf39f8fade2d76218d304d6d3690a6ac1d5": "dosfstools: update 4.0 bottle.",
+    "9b683418b9972915ad251c12baf8581e6c226165": "dosfstools: remove empty line.",
+    "888c3eb182f547861b56fa602b89a94cbad91b5b": "dosfstools: add 4.0 bottle.",
+    "733507e719456079016915b01abca09dfac69b7e": "dosfstools 4.0 (new formula)"
+}

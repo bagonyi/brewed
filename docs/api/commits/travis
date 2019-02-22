@@ -1,0 +1,20 @@
+{
+    "6d14c6a36d8a408e00f80cf9a49a1211cae56346": "travis: update 1.8.9_3 bottle.",
+    "ce98a2d68355d665c548f21ceb05157477c6d361": "travis: revision for ruby",
+    "e00874477765e62ce14e45a9ea40e6fc5db4a462": "travis: update 1.8.9_2 bottle.",
+    "63946363785a7a922da6a1143fe2cf84ea57ace0": "travis: add JSON gem for <= Sierra.",
+    "beea073c0c468ed022b8c73e6cf55cddafcd8d4a": "travis: revision for keg-only ruby.",
+    "b4bda548bb88ab4224dbc50b75a31b329a8e3bae": "travis: update 1.8.9_1 bottle.",
+    "29e8f6b2fe5b62a40ebe53f93349d5aea980292a": "travis: revision bump to rebuild bottle",
+    "44f58de0b665660ab3a96061f1b4a46025f01fe5": "travis: update 1.8.9 bottle.",
+    "4fbfc52a2c7c3a5df8efa2fdb7da7d7d7dad64f0": "travis: update 1.8.9 bottle.",
+    "1b00c4e59c132c98508574d0cc239030d417d351": "travis 1.8.9",
+    "b2264f476dcbd9089e369b5537aba7b426aec75d": "travis: update 1.8.8_3 bottle.",
+    "3f6511334997391adac6d1ff3ff9d7184894e1d4": "travis: depend on ruby if <= sierra",
+    "055fb3834bd9e1cb6132fdeae07a40c65a6d47a2": "travis: update 1.8.8_2 bottle.",
+    "4cad8c32f11c2d95043d998ffee0c3100aacbcd7": "travis: depend on ruby instead of :ruby",
+    "d7598b497b9322cb118370100dcca9210b1b6830": "travis: update 1.8.8_1 bottle.",
+    "97f9421b636e4f10bb8f51bf4775f71fb90698fa": "travis: revision for ruby",
+    "28011ae3e8ca5d9b817ac4f4bed8ab90b598a6f3": "travis: add 1.8.8 bottle.",
+    "8892970c3d42cdcf119661c91096cd5c89d1fd51": "travis 1.8.8 (new formula)"
+}

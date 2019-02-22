@@ -1,0 +1,9 @@
+{
+    "821fb2c248a5450bc41d0765cae92ce9579d9d6d": "rbenv-bundle-exec: depend on rbenv instead of :rbenv",
+    "ec612446c871f578ad5124845958fc0fc94acf40": "rbenv-bundle-exec: use new rbenv dependency",
+    "4df8ce44c6cc230a7df288dced22cc61da3db69f": "rbenv-bundle-exec: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "026bea985d96fc6a1b6a0c8a366749add871b0bb": "rbenv-bundle-exec 1.0.0"
+}

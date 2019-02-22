@@ -1,0 +1,18 @@
+{
+    "f4436cf60fd01537f29178cb891d5d83cc2c9731": "geomview: fix dependency order",
+    "4c3dcdde7d1753e97856e43b6fe29ef89333b4ed": "geomview: update 1.9.5_1 bottle.",
+    "f04a1db3f86da7858549d34bc56de7fbbe57e2f9": "geomview: update 1.9.5_1 bottle.",
+    "5435e4f7830663294830a34cff1651819335bc91": "geomview: add 1.9.5_1 bottle.",
+    "1c24818d8cbb2ef0e2983a802729ea3a22dd75f3": "geomview: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "03ad1bbea002a5147892d04c167f912918103241": "geomview 1.9.5",
+    "76f8600cde0b43121f94d6ae2018ee9695e289e2": "geomview: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "8e2af094d6ef96718a70eb95cd4c891d1950fb2c": "geomview: style nits",
+    "383fcbe465e69a1fd6e723e3c573f53e9b57b7e3": "geomview: fix compile on 10.8",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "001609f1285b9c8c48bef342414aef4f9e449739": "New formula: geomview 1.9.4"
+}

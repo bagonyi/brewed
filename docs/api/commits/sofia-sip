@@ -1,0 +1,15 @@
+{
+    "1911b06ce698e3e97a8a45122ea135c4cd01d6cc": "sofia-sip: fix dependency order",
+    "24c431ad230353a60c8be9cd4ffbb70c6c5f5e98": "sofia-sip: update 1.12.11_1 bottle.",
+    "7e96fee4b05ffffb95420e4d572f980f18fa4dea": "sofia-sip: update 1.12.11_1 bottle.",
+    "a300e4db9272b1bc804cf6cabad19dc73071d1a0": "sofia-sip: fix audit --warning",
+    "a9dc0a2b8453453aa8d18d89f1db665e655a31f1": "sofia-sip: update 1.12.11_1 bottle.",
+    "d5042c591ea9e4bb09feeaae1fc6714c01b62707": "sofia-sip: add 1.12.11_1 bottle.",
+    "763d5a9305cabb2f258f4a506c4dc5393de207e5": "sofia-sip: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0afba0d053be827e0990be12d130ec7c2f712bbb": "Sofia-SIP 1.12.11"
+}

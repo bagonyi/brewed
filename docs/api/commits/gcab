@@ -1,0 +1,23 @@
+{
+    "7636a604c903e1c2c0e9adea2c1264fb0fd2308f": "gcab: update 1.2 bottle.",
+    "284a5eaf4040dc2265c73d79dc2e69a6527c606f": "gcab 1.2",
+    "42fc506ba9f8fad0c2c7c435c79e818e0b2294bb": "gcab: update 1.1 bottle.",
+    "e17de2b936550a0b1dc689a4f5027d5dc26de53a": "gcab: update 1.1 bottle.",
+    "eb994e63bcc2b1895685346c6fbc14dbf6e8d502": "gcab 1.1",
+    "171905dcf7901551b48ded20cf9319d09ebcf864": "gcab: add test",
+    "628e7474bbd3d383322a12495edfb736f25a767f": "gcab: update 0.7_1 bottle.",
+    "a002433fc759d930438058b7cdebce5931251954": "gcab: make gobject-introspection build-time dependency",
+    "0ac684073e96b1e0d75201a55b181f6f8b7ec955": "gcab: update 0.7 bottle.",
+    "45a8686719eff57169195c3fd5260d71f9886f74": "gcab: update 0.7 bottle.",
+    "5d06c83b8dcd6b981e5fb8f1a445775d8f2817e5": "gcab: add 0.7 bottle.",
+    "d134d8577c913f49191f9132a5e3ccd277d73387": "gcab 0.7",
+    "68bd17b0638389cba8731feeed29363919349bee": "gnomes: use download.gnome urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1577af0372aa891acde96b12b0392d78d4bf18ff": "Revert \"Use download.gnome.org instead of ftp.gnome.org\"",
+    "317385e734a72e10dbdc044c5a53145db44765a8": "gcab: fix HTTPS redirect.",
+    "91f6bc81c25e3d1185153841561a618756217cad": "Use download.gnome.org instead of ftp.gnome.org",
+    "0ee3a04c0555bdeeeeed50b0bf4ef2e8e75b18fc": "gcab: use patch DSL",
+    "d87063d32f8a79f931b9c49f0718cb7e55b5ffd4": "Remove remaining explicit xz build-time deps",
+    "daaa4a80a6e178ae690d33116f0fbd114779f679": "New formula: gcab"
+}

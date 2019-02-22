@@ -1,0 +1,19 @@
+{
+    "eb355ae1ab783153e9154da02e466fe1beca18d8": "inetutils: fix rubocop 0.65.0 style.",
+    "946369a03eb09c2803b6f239489d86fa28a3a7be": "inetutils: update 1.9.4_2 bottle.",
+    "746aa28693a57a51061944143ea1104b8f7893b0": "inetutils: fix symlinks in gnuman",
+    "88f4fdbeb2dac55444dd9e1eda9d737ee50bc52e": "inetutils: update 1.9.4_1 bottle.",
+    "dd9a9d513136b3373518deb46e8ce05eac5460e9": "inetutils: create symbolic link `man` to `gnuman`",
+    "09655f6fdc9f2bdaf22dbbbe17f2865c0fc4bb01": "inetutils: update 1.9.4_1 bottle.",
+    "184d559d6c0178876834509470ac14d0590438fa": "inetutils: remove default-names option",
+    "beb843a9eb65fb2ac5b4d99c1ddf343488d07b7d": "inetutils: update 1.9.4_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "b053c188f256ca5b043c20a0b407d86b52a00874": "inetutils: update 1.9.4_1 bottle.",
+    "350d3e88456d9d9b60ea0b476e89838b6a83e280": "inetutils: revision for libidn",
+    "f9505c4f27ccbd652fc71b815eba9079d7a9ee37": "inetutils: add caveats",
+    "ebb2995784ef37f1d13343a1815b4374772df7cb": "inetutils: update 1.9.4 bottle.",
+    "69d910e1bdc06ffad9175483b9c0b253178f6251": "inetutils: update 1.9.4 bottle.",
+    "63598892d56c62b5acd04e1bebb5100eac8f44e8": "inetutils: ftp is also missing from macOS High Sierra",
+    "3ede549c7b22089569897c69a3aebcfa888deae4": "inetutils: add 1.9.4 bottle.",
+    "bdb1f03cb086f5ceb06c29f311a34693d1ef9bcd": "inetutils 1.9.4 (new formula)"
+}

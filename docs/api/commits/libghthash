@@ -1,0 +1,17 @@
+{
+    "da1c6026ac7969ce13392907e94dffc2f768f9a5": "libghthash: remove references to pre-Mavericks.",
+    "50ceb6b1aa3102dd90aa5519c3941674ad99630b": "libghthash: secure/fix url(s)",
+    "40c8ea57e124f692d7a8f24ff0fc98166e811609": "libghthash: update 0.6.2 bottle.",
+    "6004c0b2288be46eb9d7f903d60230dd801feefd": "libghthash: add mirror",
+    "cf150f202a8816df77c4412a933a4b98f6c6c714": "libghthash: fix dependency order",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "77674eb5d6b564bd9c0134db8fed4fba3ddf88e2": "libghthash: update 0.6.2 bottle.",
+    "10a46be6c36454ccecde09aa892358fd985b4fbc": "libghthash: fix test on 10.13",
+    "a4f111786a79f2f10641bcc3eecb6008dd3246bc": "libghthash: drop universal",
+    "e013adb679ec1ad84206257306435e7c4bf2c83c": "libghthash: update 0.6.2 bottle.",
+    "9c81bf79f9ec7b87cf5d519c7c7a39fe90526392": "libghthash: update 0.6.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "29e8e788439b9ca80d188f9b78df9f0cb4854bae": "libghthash: SSL/TLS URLs",
+    "cf469dea231f18e715b4cf5a85a492c3818fe50a": "libghthash: add 0.6.2 bottle.",
+    "3aa6cfcc06116b735d275df9a7ed1cf2871e66e8": "libghthash 0.6.2 (new formula)"
+}

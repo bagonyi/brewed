@@ -1,0 +1,18 @@
+{
+    "9c50cd4c09bdcd8f30144c8847bef80c9eaec156": "taskd: update 1.1.0_1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7ce3ab5e1aebc01142fb2a5e1e7f532ab919de43": "taskd: update head url (#23670)",
+    "f3a31f71138656e238d4d564b70e2c8537307599": "taskd: update 1.1.0_1 bottle.",
+    "c879ea5ae6dca56e63a4311bd7744520ae9c6639": "taskd: update homepage (#10205)",
+    "077513168fad0953b3f05c07ec8875bd60d4dd06": "taskd: update 1.1.0_1 bottle.",
+    "d25ab7bdb5572bbcd486392881341073d560c430": "taskd: update 1.1.0_1 bottle.",
+    "089a64bde25be4bdcaab322a435eb722fa3485f9": "update revision on upgrading to gnutls 3.4.x",
+    "476d9bb0f899711a64f25ddb4b06419125f4f464": "taskd: update 1.1.0 bottle.",
+    "e6463f9165bca3f7c413bce2908017386c707d2f": "taskd: use https homepage",
+    "49c28bcd934cc62a9b1bffa56de3c7d8e6255683": "taskd: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7530c90c9ead23d16eb33a4d4a89f4d510cac970": "taskd: add 1.1.0 bottle.",
+    "3fdc55ff817ad00eee1e2b6b3b9bb7908ede0df2": "taskd 1.1.0",
+    "c7dae9adcb30a1dc7cbdb1700b5e79647e5131b4": "Increment revisions on gnutls dependents",
+    "7cdccc2455b25526893ffa3fc8974959af2ca21a": "taskd 1.0.0 (new formula)"
+}

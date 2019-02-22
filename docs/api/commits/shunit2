@@ -1,0 +1,9 @@
+{
+    "ff154944747876edc3781969edc7d97ec55e5980": "shunit2 2.1.7 (#22695)",
+    "f4fb2207393aedf913f4e19b2b7cb48318e0d6b4": "shunit2: update homepage",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "cfb3873a7f09d2dd3492eaca7203fc93e0b33d11": "shunit2: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "58313a5284e3916f3665101b09927285774a3ec2": "shunit2 2.1.6"
+}

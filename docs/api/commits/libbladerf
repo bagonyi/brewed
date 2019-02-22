@@ -1,0 +1,15 @@
+{
+    "4597bdf1fe2a29a00bc44ddf587531ae67850857": "libbladerf: update 2018.08 bottle.",
+    "d90018f49901ab62d8cf5dcdd8d74f0a2a75ecdb": "libbladerf 2018.08",
+    "9dad46f94e3824453a29b60edc77f7491177e9e0": "libbladerf: fix dependency order",
+    "66700649957fea4859191e01b550aec03ea174d0": "libbladerf: update 2016.06_1 bottle.",
+    "374e70653a865dc08781dd6244c2a925206bc931": "libbladerf: update 2016.06_1 bottle.",
+    "42d4cf5949add3cadc1dc0a177fd7641391d1431": "libbladerf: patches to restore build",
+    "42870b178ff489d4d75e22782f379ac9746aba91": "libbladerf: drop universal",
+    "712e39650cdffef743ad9ea94445e48b14babb33": "libbladerf: update 2016.06 bottle.",
+    "c94ec74e9d29ca2d622c4c7892c8d96e44d85494": "libbladerf 2016.06",
+    "d9d67ade6fdb30d4fe2da1f280a5b41dca51fdb6": "libbladerf: add HEAD (#2543)",
+    "040f298459e850747fd53a7b8f3f76d2e94d54f2": "libbladerf: use secure homepage url",
+    "88fd699ec94c69f2a71b66a659b3d10ab0dcf8b3": "libbladerf: add 2015.07 bottle.",
+    "4c57595bcd87b8ef6f18388ed6e5a0815ad2217e": "libbladerf 2015.07 (new formula)"
+}

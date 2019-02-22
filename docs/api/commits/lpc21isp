@@ -1,0 +1,20 @@
+{
+    "3a862d419c326c652eec396f0be00a341f183d59": "lpc21isp: update 1.97 bottle.",
+    "2f098a1ec8144df1f708b5bfb35e5a0194858e7c": "lpc21isp: update 1.97 bottle.",
+    "63999f009d13c3ba2440be7c90f913fa933b8331": "lpc21isp: fix audit --warning",
+    "3c8308b9ce1dc1bd904c16dbd99a1d94bbe679ed": "lpc21isp: fix audit",
+    "4655a0e69dce42406492ad88312b54ea7e5655ec": "lpc21isp: update 1.97 bottle.",
+    "78265c9bc1797dae1b7e89783bfb450e094ee101": "lpc21isp: add 1.97 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "fc360a797a5a403f02fca25c0b23b9ab8d70c45a": "lpc21isp 1.97",
+    "fbab4d8a436c4dd1cafaaebf83f929e21145dbbf": "lpc21isp 1.94",
+    "c6f3766a0c97cd115a9144b091e697ab2aa52cfa": "lpc21isp 1.92",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "0750e4d10f9fcc570f0376333c5e1ff8a3c69812": "lpc21isp 1.8.5",
+    "09ee837985fa2e1979c716a576336115173afcef": "lpc21isp: fix audit warnings",
+    "08beff6c45eda0ceaa6cca2c4599b719f31d57d5": "lpc21isp 1.83",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "64107cc20ee874f42961b2cb6addf3438671ca90": "lpc21isp 1.79"
+}

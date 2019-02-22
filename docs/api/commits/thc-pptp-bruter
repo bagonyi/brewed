@@ -1,0 +1,17 @@
+{
+    "1a78e42bb3efea41d63f300e6abfd4b4b1bc5703": "thc-pptp-bruter: remove references to pre-Mavericks.",
+    "964e667f58c35fef2605402cd60e7b31a68ec290": "thc-pptp-bruter: update 0.1.4 bottle.",
+    "474de2c5e98b55a30cb8908e427813871b117ed6": "thc-pptp-bruter: update 0.1.4 bottle.",
+    "056169a902c8d23caecf86fb2af535112fbbb5d4": "thc-pptp-bruter: add mirror",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "399705e620df8f2cf93aea364c03d822eb65e7a2": "thc-pptp-bruter: update 0.1.4 bottle.",
+    "a8888c0f36ff4cbacf3929894f1745adfb6fe69d": "thc-pptp-bruter: update 0.1.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "71685da0ba69a77965f8eaefe7771a9cc10f9f30": "thc-pptp-bruter: use a sha256",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0b3d5a54409bea2682db2ef410f606cde7c7114e": "thc-pptp-bruter: add 0.1.4 bottle.",
+    "5d428dfaed65765a67f338e4a87a9b6c58dd1acd": "thc-pptp-bruter: general cleanup.",
+    "c0e8f7ae63df24818f3477b81d65651f84eb91e7": "thc-pptp-bruter: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a04d3305366e2948d76cf61c477201e5b7fb40e6": "New formula: thc-pptp-bruter"
+}

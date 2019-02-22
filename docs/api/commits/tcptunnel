@@ -1,0 +1,9 @@
+{
+    "d49d66897caf693df8c4ee565db744d341294f49": "tcptunnel: update 0.8 bottle.",
+    "b02bab304440003e62b11fbe350f0ee4c6409f4d": "tcptunnel: update 0.8 bottle.",
+    "e3a0811f26cd319c30b7c37d7d84b47ca2e9924e": "tcptunnel: update 0.8 bottle.",
+    "4f7f874b2a152d8fe78ae921d9d187835d35777f": "tcptunnel: add 0.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "54f2339757ba146c8dbaac2efbf34a6a2cb09733": "tcptunnel 0.8"
+}

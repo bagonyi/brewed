@@ -1,0 +1,13 @@
+{
+    "ad393ecb6a3bcf79ec7d266ed8be16dbc683404e": "libiodbc: fix dependency order",
+    "80f2297f3d5a5cb6d09e02e36b0d9ded4121331e": "libiodbc: update 3.52.12 bottle.",
+    "4bf80e0465c95f3c230f8e8aa03e38d26c4ee6b4": "libiodbc: remove old keg_only reasons.",
+    "ef256715bd47c1c662f2790bf4ab37a767ac3f9f": "libiodbc: update 3.52.12 bottle.",
+    "bb90e1e74901ce8ca4f0675622dd52e95f5bdd1f": "libiodbc: update 3.52.12 bottle.",
+    "82ea9f2897b38cf58dbc5f1ef08c57731d70cd98": "libiodbc: update 3.52.12 bottle.",
+    "0624afee7c16234bfa1b031ea049ab83d81f2db2": "libiodbc 3.52.12",
+    "73a96a255880de7ba6a16d8eecfd79e8914bc09c": "libiodbc: update 3.52.10 bottle.",
+    "ac5c921cef45029180740430bc7714888db6514e": "libiodbc: style fix",
+    "d8a01010884d8ad1cc26fe3826a5ff6012bbcf2a": "libiodbc: add 3.52.10 bottle.",
+    "e2307583da989f5abd867c162b1afc8c44e48e9d": "libiodbc 3.52.10 (new formula)"
+}

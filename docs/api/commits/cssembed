@@ -1,0 +1,12 @@
+{
+    "08ed1b1666b1d855a6b802a8b8c6426c42d9b2c3": "cssembed: bottle unneeded",
+    "5c6fa58105fd3c78f9be4a7280495da46d212523": "cssembed: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6cc7fe4728286b18931c44c9991c660786bf611b": "cssembed: interpolate version",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "caaa36ebdc672ca8dab54d7d7d699ee218bf4f69": "cssembed: fix quoting",
+    "55950c704e7dbe01fbebe0033702f93baf2f2283": "CSSEmbed 0.4.5",
+    "4c0114a3c389c691fff06d9fc7a6beb68b5242e6": "cssembed 0.4.0"
+}

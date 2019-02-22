@@ -1,0 +1,23 @@
+{
+    "bd5fb6088121e06556ee175569b81e9e278646a8": "runit: update 2.1.2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "29d8260704c66a532b968cf20058df7ec05f4bff": "runit: update 2.1.2 bottle.",
+    "437f51a96fd1a04d6988478bc119b6e81582a3f8": "runit: fix rubocop warnings.",
+    "490c5912de0f15b2d9cfaa9c028c6c7e5f185575": "runit: update 2.1.2 bottle.",
+    "1b30b3af314cdce720859fab74df036cdab7bff9": "runit 2.1.2",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "1845b1de2e6c0ac5c1554794558c3ffd9f5e08fe": "runit: update 2.1.1 bottle.",
+    "dc8a515d0dce97a9adb50809b83c8ba5eeb43b54": "runit: add 2.1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "51b07613ddbc5c9ae7bae780bdd49afdbbebc2a8": "runit: rcmds is newline-delimited",
+    "4fafda7dedd81c967f730693e122aa6870ccac29": "runit: fix incorrect command in caveats",
+    "abd5ae552e21dcd340519f695faa70b55cff7e5e": "runit: use version attr",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "edfb67d93759d05e2851da9de2ab8ea66235794c": "Rewrite caveats to new style.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "22c3a6b3aad26aab05c8cf9ba7bb351af881b3b6": "Formula for runit"
+}

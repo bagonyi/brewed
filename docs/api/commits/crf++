@@ -1,0 +1,16 @@
+{
+    "38a9fb51c2356dde5ccc1c878c1564fab635aec0": "crf++: update 0.58 bottle.",
+    "c2879cb46c9c9a92b0c63c47858833d8dcab0f2d": "crf++: update 0.58 bottle.",
+    "2ec6b29d13b9ccfbbea197cd9051cce1e81c1b04": "crf++: update URL",
+    "87feccd5d6c5d0c4286db766a989ded5073179aa": "crf++: update 0.58 bottle.",
+    "e266f6f2af96f30f7957843a4c025cbee24f646e": "crf++: update 0.58 bottle.",
+    "e9102f92ad35afdb9c2c11c67a2c5957b5529301": "crf++: add 0.58 bottle.",
+    "c359c95b2e12b3300168142512de0248a337bfec": "crf++: add trivial test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "715e7ec44e48eec95ce630a441baa0fab159b40d": "crf++: update homepage and download url",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "f1101d1e2eba4bd91649854b27624b3cea270897": "CRF++ 0.58",
+    "61b827329e0d15e3d22037dff1fb3daaab14f9d2": "crf++ 0.57",
+    "37d8012d36973d1753faf4967dfcfc38e9fcc1bb": "New formula: CRF++"
+}

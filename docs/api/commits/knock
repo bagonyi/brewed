@@ -1,0 +1,17 @@
+{
+    "7f7832c8930c583cb8dc342474ec635c462e5afa": "knock: remove references to pre-Mavericks.",
+    "2d17fde6c1984d2a59f82c8391f23cc70258318e": "knock: update 0.7 bottle.",
+    "9c77ecb9e852c4e3adea08c9ab8e500aa88cf7e4": "knock: update 0.7 bottle.",
+    "5724c0508c8be4b369944cc93d16483aecb838ea": "knock: update 0.7 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "9b21a2db771d5e5de03385d5606f2eadc5718290": "knock: update 0.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a8942f8ca83f3aa21d3e52b3fa870f88d722c811": "knock: add 0.7 bottle.",
+    "6e8fa34bb72ccdc764ad78abac4ea7ab97466df0": "knock 0.7",
+    "4d3fc2ef8377d95e039a3e5daed372d6b128f29d": "knock 0.6",
+    "191715270cc4a52c3a6ea37c457832366fe53dc4": "knock: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9ee52ad3ff8f83d6a1d3337a62774a42c3e14dc6": "new formula knock"
+}

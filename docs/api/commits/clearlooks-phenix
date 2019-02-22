@@ -1,0 +1,8 @@
+{
+    "ecea8e1f36c9e19e906676878192e5c1432f2633": "clearlooks-phenix: revision to fix install receipt",
+    "2a01b8d7e734789db79c3dedbf28fd2e88f2f391": "clearlooks-phenix: use assert_predicate instead of File.exist?",
+    "99ade332fc49d3f916d2766723eb08f0f8d2d9c9": "clearlooks-phenix 7.0.1",
+    "03dfa264503ee15b15ff6845aac50d5b3c10485e": "clearlooks-phenix 7.0",
+    "d049f229c42ebac3f4dc999cf4b1ca55d4ae0619": "clearlooks-phenix: bottle unneeded",
+    "e8efe6cf9fcb94e53c201b9749a5a48d83558cf4": "clearlooks-phenix 6.0.3 (new formula)"
+}

@@ -1,0 +1,6 @@
+{
+    "4347c2cceb0890aa4f35a8ab2a25bdb67d6cec8d": "docker-machine-driver-hyperkit: fix RuboCop Layout/AlignHash.",
+    "d473b55fc57995f01008402420550eccea00eb45": "docker-machine-driver-hyperkit: update 1.0.0 bottle.",
+    "408f4a1ac5b5ea1850c6f8c8d4e72a178ebc1355": "docker-machine-driver-hyperkit: add 1.0.0 bottle.",
+    "6108b2b183404663f720b4b8cd8e1d4efeaf9673": "docker-machine-driver-hyperkit 1.0.0 (new formula)"
+}

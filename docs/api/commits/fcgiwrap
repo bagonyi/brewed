@@ -1,0 +1,17 @@
+{
+    "84347654881b376d626a891e10e448ed88e829ba": "fcgiwrap: fix dependency order",
+    "bba8f70531df05425b052e3b0c65446247ff4262": "fcgiwrap: update 1.1.0 bottle.",
+    "c7f46a4bbfe3e012e6d372fc6b00fb0a1804f669": "fcgiwrap: update 1.1.0 bottle.",
+    "9e4f3502b69c5a6bcff472b5b79d80079a887800": "fcgiwrap: update 1.1.0 bottle.",
+    "0ac08ee54907bd19be3551c528e597293ab7fb0a": "fcgiwrap: add 1.1.0 bottle.",
+    "87f1f283fe034ad999c5af890a604fd37785f479": "fcgiwrap: update homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ce29ed572292401173140f134dca458d0bcb9852": "fcgiwrap: add pkg-config dep",
+    "25ae73ca64ff58bd4c6660f640fa82da8527f7ef": "fcgiwrap: fix man page installation",
+    "7857a343be2adc67686072bb8db2a3ca990f553c": "fcgiwrap: needs newer autotools",
+    "aad95c86c2252530661feb2c4d42a003ed8ff14b": "fcgiwrap 1.1.0",
+    "31d6cd658edb7ecb7f752aa3ac6b4d92a4642cc6": "fcgiwrap depends on automake",
+    "0638c727c83c01a194c46bbd26bfa913ec74f54f": "fcgiwrap: remove skip_clean :all",
+    "26c4451365c6374319fed40a6d543d6865ae9671": "fcgiwrap 1.0.3"
+}

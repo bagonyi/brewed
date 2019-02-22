@@ -1,0 +1,16 @@
+{
+    "1c25d89640a6738a39cb35d414edec211cf1da31": "mrtg: update 2.17.7 bottle.",
+    "11fc39649585a300b39199eb419abf16826f6da8": "mrtg: update 2.17.7 bottle.",
+    "8dcbe8dc190e1595a004942f7cf5f9cb76b72fa4": "mrtg 2.17.7",
+    "0099d5e33c82c2cdd7ae188ff39e58e4500551b3": "mrtg: update 2.17.4 bottle.",
+    "69c2302f17999e06c84a4e135889e243528cef97": "mrtg: update 2.17.4 bottle.",
+    "dc5535d4dfe8dfc1b7de6bde68e4dd6d5e43123a": "mrtg: update 2.17.4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f24ad3d04e68c6adedf2cf458eab5003f524734c": "mrtg: add 2.17.4 bottle.",
+    "42c5c21c7f013f72c2f9ef91c1fe4deb1a144c5e": "mrtg: test added",
+    "963e95115a232e6fc6967e05bb6ce390c3768b95": "mrtg 2.17.4",
+    "c1e3f4c3f3ceeef73c3d03c68cf673da0f535df9": "MRTG 2.17.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "924dab52ffe5b59a932266303e68942213f8f99e": "Formula for MRTG, a tool to monitor server stats using SNMP"
+}

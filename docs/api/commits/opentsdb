@@ -1,0 +1,23 @@
+{
+    "9034b3a0b268154c96a5d9af4c679aca5b29f104": "opentsdb: update 2.3.1_1 bottle.",
+    "68d0f4d8410a4c52096ffee0496e232c83d5fc4e": "opentsdb: remove options",
+    "80581859c01e16a809708b6bc6b68f51f67808e6": "opentsdb: fix RuboCop Layout/AlignHash.",
+    "e60462233955017832b25f59e041941022879008": "opentsdb: update 2.3.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "d8ec2cbe91fea884b38471f10f1068ab1cfff399": "opentsdb: make lzo mandatory",
+    "a0587816e26b7b6fc6d077ba9f0902c3dfaf60a8": "opentsdb: update 2.3.1 bottle.",
+    "86f40ae01254b96fa7003c19fc5ed808a7168467": "opentsdb 2.3.1",
+    "0914d888b4adf0b0c85ae4af475ba956304ceb4c": "opentsdb: update 2.3.0_1 bottle.",
+    "80b9ea9c21caf399d40a2bdce0bff828e0842fa3": "opentsdb: require Java 8 specifically",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0885ae002a178a5b7d0d52fc814941672923737f": "opentsdb: update 2.3.0 bottle.",
+    "32766be8882051fee5005813f3a48860c13d347d": "opentsdb: update 2.3.0 bottle.",
+    "73ba28c99209c42b64d88dfbbc12dafa1d9add00": "opentsdb 2.3.0",
+    "f49f6a551b067e0333ef2cf6f3703fc3b9ba3597": "opentsdb: update 2.2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e8b284aa36f81c56ad0cfc88b57da39b7356b1e5": "opentsdb: fix plist format (#1641)",
+    "8ded7d2cd9ff693791109ebd295f5df470fc040d": "opentsdb: add 2.2.0 bottle.",
+    "6d8379c0f434f4d26ea375bb1e89aded8772cb8c": "opentsdb 2.2.0 (new formula)"
+}

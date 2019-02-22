@@ -1,0 +1,18 @@
+{
+    "ce004eed4d689dbbce59c298766deab730380985": "git-sh: update 1.3 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7da673e325e1835a1ed74618a158a8b668b9e5a6": "git-sh: update 1.3 bottle.",
+    "f74655087983b3625c168e45b2566094a44ca1a3": "git-sh: update 1.3 bottle.",
+    "1ef0dd32f909ca2f8109e8d58d269c5285aff7d5": "git-sh: add 1.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7f34cbce3b74648e6b6ad29826a9e8074d2cadeb": "git-sh: test added",
+    "84fba6418ed41cceb7f0868b6be8b09cc1e81619": "git-sh 1.3",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "15290855039578a322304db4518d71ed4f3a88b5": "git-sh: add link to tag request",
+    "9fc710656b457b5f788b384c5b77609f7ffae914": "git-sh: newer version",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "9d96a884ed3a524c37bdd12e392bb0821587ac42": "New formula git-sh"
+}

@@ -1,0 +1,15 @@
+{
+    "f15b51874de3259cb43525656fc6f004f817c25b": "ckan 1.25.4 (#34613)",
+    "0639e496520d630661a9ca65d92dc1d84ffbf24c": "ckan 1.25.3",
+    "0c3aff4b38f0b98d52f716d9950c0882f928dbec": "ckan 1.25.2 (#30823)",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "d09c8d1ac4bb2a80fadda59ff893632035250511": "ckan 1.25.1 (#27455)",
+    "5da15f769eb950d5390c43ee44971c2483227c40": "ckan: fix audit error related to component order (#25677)",
+    "086dab3590022117df04841cab44216457261355": "ckan 1.24.0 (#24609)",
+    "09672d6a754993302cf919ac468a0cd2a03e71e7": "ckan 1.22.6",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0b97150b38128dc85a03ee5a4986065ced7d4676": "ckan: remove redundant version specification",
+    "04bbc6c73d3763705553695e0da5b3b558c61545": "ckan 1.22.3 (#14061)",
+    "9ee510327ce35c6b24a6f226f050247f68abc872": "ckan: import from homebrew/games."
+}

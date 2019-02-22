@@ -1,0 +1,8 @@
+{
+    "2373caedc5b7cf2f6a4e41e780792c7d3cc9f49d": "ems-flasher: fix dependency order",
+    "2307be409ea401cac5c8a87ca635b40fa43eb287": "ems-flasher: update 0.03 bottle.",
+    "b4e731c66e8bf7264d2c20d27023ae182e9e9a33": "ems-flasher: update 0.03 bottle.",
+    "d15b89e8e211ce7d6a6ee8c7cde67bd3c7cdaf7a": "ems-flasher: fix HEAD URL and installation",
+    "c7d99834aa14c38471d709eae4f0c665929b5ba5": "ems-flasher: update 0.03 bottle.",
+    "1875caf87d7f3578c13f4f133b8faa04717887b5": "ems-flasher: import from homebrew/games."
+}

@@ -1,0 +1,18 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "798f6cacd78297b246539078d5a88480f708c1e9": "autoenv: add test (#12164)",
+    "964b083f840e765cbf5d55c62f02506aeea0d4b7": "autoenv 0.2.1",
+    "3e2dd71ec9b03c7235d98362ae3facd72381be29": "autoenv 0.2.0",
+    "1157cf9467e8126edb8c0fbf6c4f70a93b625213": "autoenv: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "4bfbd138dd71486aa2afcfbd3053965c651ccb92": "autoenv: simplify caveats",
+    "e62dee565036af6395aabe5a44e12596088afbaf": "autoenv: style nits",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a4728883d02bb1235c70e54ce92c7e9d71d279e8": "autoenv 0.1.0",
+    "9cbe1758445c1b40c4322dba06f34287d73ac09e": "autoenv 0.0.1"
+}

@@ -1,0 +1,13 @@
+{
+    "31a1c5f96283c2b2d1e95acc8b3b07d0e0d229c0": "rtmidi: update 3.0.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "dbbe8513a23ed64cbbc6cda02958480d4c785fed": "rtmidi: update 3.0.0 bottle.",
+    "d68b8eb5abc95d3f786af84ae60c789fb5cd4977": "rtmidi: update 3.0.0 bottle.",
+    "9d3227a3abcb8b99954003db05bf75794c3e2eb7": "rtmidi 3.0.0",
+    "e9450690d9c30ce87c71446135d66ef0ed098042": "rtmidi: update 2.1.1 bottle.",
+    "1f49ae4e689cc1e00c3c51c96172efb8475a872c": "rtmidi: update 2.1.1 bottle.",
+    "beb42a7e80102195e82ae8593453437960a4b789": "rtmidi 2.1.1",
+    "638932ab02aac13cd741630512c18986a306e461": "rtmidi: use https homepage",
+    "7933f96a4e401a1f57d078591de3ca474c39d512": "rtmidi: add 2.1.0 bottle.",
+    "9bfa67af530fc1a215283c54fd7cf645e8f69c5a": "rtmidi 2.1.0 (new formula)"
+}

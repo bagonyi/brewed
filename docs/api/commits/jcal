@@ -1,0 +1,20 @@
+{
+    "9589040abeacc14d02de600333923168b2d90dbf": "jcal: update 0.4.1 bottle.",
+    "db0c76aa83bd8ea8a1dcac6ca39198973950b834": "jcal: update 0.4.1 bottle.",
+    "6c58a72a02cf5252febcfd57217ce0c31138d0bd": "jcal: update 0.4.1 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "253699af3645824417902ce61e63a92ddf6d3b33": "jcal: fixing one warning about system command",
+    "554c497725a9225401938e7c42e9de4ab59a5014": "jcal: add 0.4.1 bottle.",
+    "5b2c0214b6efec7e6c2dc2d61947c886b9d74b7b": "jcal: use https homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bb7ab8f70a87bf90ab0161b8cbd46038dd1b0e64": "jcal: modernize autotools deps",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "62fa0c4f4232c4381af50bd4a245788537f2dda1": "Use autotools symbols",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "06cb65df781ff7eb87a597d051039c25939c70c9": "These now depend on automake for Xcode >= 4.3",
+    "7e592d2592b3e95eecd04f163d7cb694565e9630": "jcal: style update",
+    "68df2614b5bd842dc0a97e9c96356c40953661ef": "jcal 0.4.1"
+}

@@ -1,0 +1,20 @@
+{
+    "b96210f2bdeb36bd602d5809f91e9c63a81920ed": "epubcheck 4.1.1",
+    "b85537782176ad7365c9d1a6e705d1c2d6bb1690": "epubcheck 4.1.0",
+    "77719db731e7c9864dfba82b6eead6b6e2416f7c": "epubcheck 4.0.2",
+    "d5ad90d8814fed11c0aa95cb4a87d3c05732e262": "epubcheck 4.0.1",
+    "42eaa7fe63c2897808b96a3dcd5ba2b766a06e89": "epubcheck: bottle unneeded",
+    "4c57c4902f4f46b579fab3fe68c8ffb969a55339": "epubcheck 4.0.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "02c6fee9493fe7e5abc28dbe4c6f1b924c7e316d": "epubcheck: update URLs",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "d6f88c1f6cfa1c8e8b176228acb76987c3dce474": "epubcheck 3.0.1",
+    "90b82c1ffa2c6107e9426d278d7af9700a6ef36b": "epubcheck 3.0",
+    "5f80fc24bc146a5eac70851eb52d5a9e51fd5bd5": "epubcheck --devel 3.0-RC-1",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "031cf433caecfb4d6770bfdf19943be4ed614f78": "epubcheck: fix audit warnings",
+    "1a7c71afb2b49f0cac047720f96842a9b70ae593": "epubcheck --devel 3.0 beta 5",
+    "7d87bbce8f86f135eb5b83824617a8a51403396b": "epubcheck: style nits",
+    "81b0685e56cfb9e31ed1fda87811a30a6dce78d1": "epubcheck 1.2"
+}

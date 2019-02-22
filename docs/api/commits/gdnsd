@@ -1,0 +1,22 @@
+{
+    "c2cc1cf84b5c2115753927491cc29aef7f7b178c": "gdnsd: remove options",
+    "22ab5a1c0004f3d3a7144ff5485f52d5d4f94fb5": "gdnsd: secure url(s)",
+    "fe2e33a0fb852974850db0cb0fc8152d43f3a909": "gdnsd: update 2.4.0 bottle.",
+    "4abec93f05baa0e3514a6ba1c104a08c859d43ce": "gdnsd: update 2.4.0 bottle.",
+    "010b80fe3db777377e65476d7e37d35c8d602190": "gdnsd 2.4.0",
+    "28238411a2d3b11e1e556b2bf47a87244f4205a6": "gdnsd: update 2.3.0 bottle.",
+    "f82219da46cab621511fa50518d5aec10025c6ce": "gdnsd 2.3.0",
+    "e7e4f80d40d5e7954ea562e24153b4339ba027af": "gdnsd: update 2.2.4 bottle.",
+    "809fcffdb5d3747afd1d31ef3eb694842b7f4d37": "gdnsd: update 2.2.4 bottle.",
+    "07619be2e7ba8b6c84c4a6f679755b5f9f89f515": "gdnsd: update 2.2.4 bottle.",
+    "2a1abe4f769d893a6f8fbfdde3aff0bd7c5b740d": "gdnsd 2.2.4",
+    "1a07325aa66d0475aaa86945ac422f1b321c00a9": "gdnsd: update 2.2.1 bottle.",
+    "93bb868efe6dbd3ce498601c19126d8fd1ead6a8": "gdnsd 2.2.1",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c98e45a3e3fc82b4cda698bb13da332b20ae5174": "gdnsd: update 2.2.0 bottle.",
+    "319c408fed25c1d6fe79fa83157502919bd75c86": "gdnsd 2.2.0",
+    "232290fabe4c996db23c7d72983a0d95504c8ee1": "gdnsd: modernize autotools deps",
+    "872d7088c837a3987850b3bdea9dbb63c3d8b73f": "gdnsd: add 2.1.0 bottle.",
+    "80b109a55a23e698beb1df12389778ea3d40012a": "gdnsd 2.1.0 (new formula)"
+}

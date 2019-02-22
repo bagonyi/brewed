@@ -1,0 +1,14 @@
+{
+    "158f39a7b16b56d788c3a691ffc652f6820bf7fa": "gptsync: update 0.14 bottle.",
+    "b2e86df448623340ce416da185616890ea1032f4": "gptsync: update 0.14 bottle.",
+    "81732987212ee4fa7337e7f9e7e889eff660093e": "gptsync: fix audit --warning",
+    "1e73db73350752d832cc54e4d318ef09b4d8c2ed": "gptsync: update 0.14 bottle.",
+    "3fc3b46f5fc9585056b29936e593ce7c0e518b8c": "gptsync: add 0.14 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "2dc09fecc01dacfca44d9e34ce8f0b88c5cc57f8": "gptsync: avoid patch",
+    "0e312bb19543043cc7ced88fd3613f9d23c942e2": "gptsync 0.14"
+}

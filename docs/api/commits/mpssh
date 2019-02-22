@@ -1,0 +1,17 @@
+{
+    "1d647bd3a955c31aa523e22999003f182f005505": "mpssh: remove references to pre-Mavericks.",
+    "d1923e8df8a85d6b20618fe46a98b55aaf0fd6aa": "mpssh: update 1.3.3 bottle.",
+    "e980c6432a77c2df52c20ed663036ef32f1edba0": "mpssh: update 1.3.3 bottle.",
+    "ece91f0b2a487d4ce999523da06b9709e1d05835": "mpssh: use full_index patch",
+    "78180f7fe2cb2b52e41cc8c8241dbe2903c064e5": "mpssh: fix audit",
+    "1e9b73bdf6ca255dfcf307c0a76b96dd783b733c": "mpssh: update 1.3.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "226d9a369cb06a7cb9841f3cc9b55613a7fe38ab": "mpssh: update 1.3.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c5ba6e4b81949e51f6f062cc00c58abb6b0250b0": "mpssh: patch URL fixed",
+    "bbaa4ba03e07a382943a77df3ca6bfca32d0ff1d": "mpssh: add 1.3.3 bottle.",
+    "05a51c41b4629710851bc1f61bf915b855f18e15": "mpssh 1.3.3",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "703b709c797d65670b933a1bca4478cbc1dd4798": "mpssh: source download from github",
+    "d6f0b036ad8ff592c1c89931425e72eb1f2e4c7d": "mpssh 1.3.1"
+}

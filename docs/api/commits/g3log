@@ -1,0 +1,20 @@
+{
+    "65d27bb7d5d35b83a279d4caad3a2e07da8d5601": "g3log: fix dependency order",
+    "43b6ab79990ce9a54c1d1d06c22a142ad225a866": "g3log: update 1.3.2 bottle.",
+    "39bde6292a863c2f4a6b94089e622a1cc6f2bb1d": "g3log: update 1.3.2 bottle.",
+    "273783538193ebd0c29c38441508a88fa39d3f93": "g3log 1.3.2",
+    "8961ee72285fe93ebc1ca2806510fbc695311294": "g3log: update 1.3.1 bottle.",
+    "eef050c033af95af3cd6685e3d5ed79186d0c755": "g3log 1.3.1",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bdfed5ba266cb4e9c9bcd862a407e29a5599086e": "g3log: update 1.3 bottle.",
+    "6210d9a4b72f3a34e01777599fa772e08e13bf4b": "g3log: fix audit 'description must start with capital letter'",
+    "416eed7a495c6b780cc09baf5787f21a739c03ae": "g3log: update 1.3 bottle.",
+    "5365c1474c23e6a8f5c7fcc2acc7d3a640491185": "g3log 1.3",
+    "ba160c6998e0fa844faf3cf0b4bf25cb1b766b38": "g3log: Replace install_name_tool usage with ruby-macho.",
+    "445d8387b61f29eba0af9c6a77e0ee84c7033859": "g3log: update 1.2 bottle.",
+    "8893cb36d2de5144a016b199edea550a5eb02bc4": "g3log: update 1.2 bottle.",
+    "f07f2818dac5f6afd09eaea90273b8e4537f273e": "g3log 1.2",
+    "a131d24b2953727f3db8da940605600bb64463e7": "g3log: add 1.1 bottle.",
+    "ddec3c7f41941f4d2af722bca57b94338bcb558a": "g3log 1.1 (new formula)"
+}

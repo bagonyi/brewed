@@ -1,0 +1,17 @@
+{
+    "aec53c8aea9e27df6020ca0578bc75349d4e1638": "yamdi: update 1.9 bottle.",
+    "911b9630e98c0ba419feb574b33385d30d0ff59a": "yamdi: update 1.9 bottle.",
+    "2892ef0172457fd067e931c9dcd93976a9aff56b": "yamdi: fix audit",
+    "fe73ce3b7f511f7a4778eb5a080593ab47c959c9": "yamdi: update 1.9 bottle.",
+    "273471046500002546698ef9b2447981d80eff78": "yamdi: add 1.9 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "0e1ed852c4f4ab191d9375e5c3bc1f780ecd144f": "yamdi 1.9",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "3444a28d51217cd8ef563088c9d68b962007fbd9": "yamdi 1.8",
+    "6b0f64e8b4b1df7808abd2553d9e8dccb3347445": "Use ENV.cc and ENV.cxx where appropriate",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "0b4c6c45f09cdc2f8f2b43b7ce72bfc026edcdfb": "Add yamdi formula."
+}

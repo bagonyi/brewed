@@ -1,0 +1,17 @@
+{
+    "a1f99bba07bc5e550c8499260d3894e638bbede7": "sdl_rtf: update 0.1.0 bottle.",
+    "05fa3dcda2038de9bbc902069dadd2d0063a0a6a": "sdl_rtf: update 0.1.0 bottle.",
+    "8aaa63b55f10fbbc7cdb6e9ffe7638f85da11d7d": "sdl_rtf: fix audit",
+    "f2450550bad60ed9439314d424d4fbeb54f8bc23": "sdl_rtf: update 0.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "abd407497ee63b0450a3609204ce86d486cb4496": "sdl_rtf: add 0.1.0 bottle.",
+    "67d363ffcdea91cf47596b544176febd11bb9100": "sdl_rtf: use https homepage and head repo",
+    "627737559fd56c2f1d1dd60cdbb7df2ba23d72bc": "sdl_rtf: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8a1430b4b6d2153ac9643fd90fb72f7529a903d5": "sdl_rtf: fix SHA1 and X11 dependency.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "78b4bce217736b3748948ae33edd2d6e1261100b": "SDL_rtf formula 0.1.0"
+}

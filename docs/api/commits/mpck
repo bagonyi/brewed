@@ -1,0 +1,22 @@
+{
+    "13361ca8fc25bc69dff58bfcb26b68fe66180d6d": "mpck: remove references to pre-Mavericks.",
+    "e37ccc2cf7e989977155af79beb3e6e57aa2a95f": "mpck: update 0.19 bottle.",
+    "380c2fd28700b2be4265e0ed980118d29b21f8bd": "mpck: update 0.19 bottle.",
+    "4f41d34a3b5852aa0ee1053b65c983d8e278dc75": "mpck: update 0.19 bottle.",
+    "beedbd47b94954a42bab9e9fdbe30fe859f1b67e": "mpck: update 0.19 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ca0c72833bc1830ed6fbe7cc9a12b3f12d211c17": "mpck: add 0.19 bottle.",
+    "8507b3b15c40446d8fae20289ff5b96b4134eefe": "mpck: test added",
+    "83641134879bc39fbee470d52212d934880e41fb": "mpck 0.19",
+    "ea938781797285998ba28031dfef474be803ed4d": "daq 1.1.1",
+    "13a81dc71b0235de1dfbbc661153f834a4160279": "daq 0.6.2",
+    "3c98e07ded4d5816fc08af125ea8127d74719f22": "daq 0.5",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "44208a8a370782a88130b5b58635f5106e7c7ca9": "added nickle",
+    "621cd38ce1d0c4c1610d63325601e21dc01072b9": "Add FrobTADS (interpreter only) formula",
+    "6e4723c7350523d73b5d4639afe6f93c02fd8f51": "Jansson 1.3",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "701a8276a307e2b0d53f86aee00ae65e3f525f35": "Update mediatomb to 0.12.0. Fixes Homebrew/homebrew#174",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "53b8e10e9442f1368b1d9ac6920d1a0def6fab5f": "Add mediatomb formula"
+}

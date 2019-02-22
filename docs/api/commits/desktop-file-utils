@@ -1,0 +1,13 @@
+{
+    "75791da31765b518859df9988ddc56c1450dedbf": "desktop-file-utils: update 0.23 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ffbec840316d6966f08b014c7fcb42bbc2b5cd13": "desktop-file-utils: update 0.23 bottle.",
+    "5fab1cbe88600a16a100203af3af960b9a124599": "desktop-file-utils: update 0.23 bottle.",
+    "01e1d37ec933ed0dcabf1ef613039498fcbb838b": "desktop-file-utils: update 0.23 bottle.",
+    "3cf6f8789bbe55c34f9b821761fb15c95e8c60b2": "desktop-file-utils 0.23",
+    "2712c89ca462ad2fd1bf08a8fdd1ef3ce797c468": "desktop-file-utils: update 0.22 bottle.",
+    "9fee13097ae929d95c6fea1f9fc6ad287e4b5610": "desktop-file-utils: use secure url",
+    "65661af2a473b6787bb64d59103784e0b1487242": "desktop-file-utils: add 0.22 bottle.",
+    "af5ce3348b649a2a8eb6c708e9f799f7ac88b7d8": "desktop-file-utils 0.22 (new formula)"
+}

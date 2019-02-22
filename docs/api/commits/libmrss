@@ -1,0 +1,14 @@
+{
+    "033e43317a42fcb7dcce79e3fc10ef1425d3cfda": "libmrss: remove references to pre-Mavericks.",
+    "25fac196746d8eae1a399fb7c6ec6e1bd3d2937d": "libmrss: update 0.19.2 bottle.",
+    "8cc56e6dc10137feaa616f97a80b173dbe8fd7d1": "libmrss: update 0.19.2 bottle.",
+    "f36bf95bf3107cdcaa41f03f659b036fcf4c7ad7": "libmrss: update 0.19.2 bottle.",
+    "11118214781bfb67fe7be23c284dd68a1683a0bc": "libmrss: use secure urls",
+    "9f21af6fcc8277662dafedc6f5ae7835a33e6af6": "libmrss: update 0.19.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0e950f8c4b5ae82857df8efafe93f46ecd5dd2c8": "libmrss: update 0.19.2 bottle.",
+    "5ca9770da16375d337d9e1ed998cae5fc63a2321": "libmrss: add 0.19.2 bottle.",
+    "698714e59bbe353496e32920c39dd9f450fb60d7": "libmrss 0.19.2"
+}

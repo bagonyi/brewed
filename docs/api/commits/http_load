@@ -1,0 +1,15 @@
+{
+    "e177a7fed4abae0e7b42cd8dc8d276a9585da3b6": "http_load: remove options",
+    "a82c9d8a22fa63cc942b219588988ca1c74b7c52": "http_load: update 20160309_1 bottle.",
+    "6a09ac96aab935bbbfc63a421e720122a8927ed8": "http_load: update 20160309_1 bottle.",
+    "a97228ef1733668cc0f3f535a9515e1dd71f24be": "http_load: update 20160309_1 bottle.",
+    "0b71effad01f05ecf916e62b95ed494c07632068": "http_load: make openssl recommended",
+    "5b72a469090625c7c2a81d6b2acbfe7e4f3be371": "http_load: update 20160309 bottle.",
+    "5da1bd9c7abbae209eba65ab2fe24064d2d51302": "http_load: use secure urls",
+    "8bd7113a354daec0163bb14091c3279a950c110c": "http_load: add 20160309 bottle.",
+    "9f1c3ea769a09b38b4ac3dff6405cbe555408237": "http_load 20160309",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "68d871e4253d94b9cb3f616663d433355dc2a7a7": "Depend on: `prefix` -> `opt_prefix`",
+    "97f343f31690e6b2c6ece71c17388344a0e3da81": "http_load 20140814",
+    "46e74d7660c1838ab183ad1c0a796ebbfb526df2": "http_load 20060312"
+}

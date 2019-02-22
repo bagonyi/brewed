@@ -1,0 +1,8 @@
+{
+    "886244cb3b31ef19f0be23511f31606dfec62571": "astrometry-net: update 0.76_2 bottle.",
+    "afe7b89c5fbc5e160f78e4ffcfdeff2d917dbac4": "astrometry-net: revision bump for openblas",
+    "82da1885c44826bedbedf2389e3be02198756ded": "astrometry-net: update 0.76_1 bottle.",
+    "61710027c610cfa2c002090f8bfe01417acb2015": "astrometry-net: revision bump for openblas",
+    "f4115e3a256011104abf9a10c7cebfefcedfc5dc": "astrometry-net: add 0.76 bottle.",
+    "30e66f55e9e94d9da0461b4050eafd5eaf8039e1": "astrometry-net 0.76 (new formula)"
+}

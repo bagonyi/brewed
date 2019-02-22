@@ -1,0 +1,9 @@
+{
+    "87181a96cb5b182c9de6ea82c0d6a6370c8cbb7a": "ssh-permit-a38: update openssl env var and comment",
+    "2896446bf8d9f44f7c9c37d0dcd07945d0ea5210": "ssh-permit-a38: avoid cargo deprecated syntax warning",
+    "df7dfe3e575032c056cea3c353a7c02172f0344e": "ssh-permit-a38: update 0.2.0 bottle.",
+    "edca3ca1f489413366d476de1b1b2a3068e4b07f": "ssh-permit-a38: update 0.2.0 bottle.",
+    "a7367ea0fd0982b9fa499ee8834b9d4bdc6b8cb1": "ssh-permit-a38 0.2.0",
+    "10d1d41010dbee4bd87c95d5eeaa67bb2222142a": "ssh-permit-a38: add 0.1.0 bottle.",
+    "3c32ff52b2fa41ed2bc2e641f34beb7843864d68": "ssh-permit-a38 0.1.0 (new formula)"
+}

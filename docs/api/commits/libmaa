@@ -1,0 +1,15 @@
+{
+    "ed6a8af4792d4fb285a1279c78bff966b75295fd": "libmaa: update 1.4.2 bottle.",
+    "b4ce174f3994311d7ec6bee27311254f5ba0d320": "libmaa: update 1.4.2 bottle.",
+    "f4359a7de8c16065dbdfeb38ef115f4cad0fd342": "libmaa 1.4.2",
+    "7c85a60f788f53403da1c345497487710849b466": "libmaa: update 1.3.2 bottle.",
+    "7bc40618c70b028e6d707ba9e5dc428bd56b6c7c": "libmaa: update 1.3.2 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "2d2156dc30af8a957cd627db89ca3cb45cabc1d2": "libmaa: update 1.3.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6a70ee43830adaf7054ba440bc67d9815f46ec92": "libmaa: update 1.3.2 bottle.",
+    "57016aec22d956263eedc0cca8cb230d83947e85": "libmaa: add 1.3.2 bottle.",
+    "3a3a84442d0296a77fd1fb5d95fc215b08df27c1": "New formula: libmaa"
+}

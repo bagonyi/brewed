@@ -1,0 +1,17 @@
+{
+    "c5e176e3111a149e4c4ff525184e42c2afff395b": "goad: fix RuboCop Layout/AlignHash.",
+    "5fb7ade000f92d7d23f9aa37eccbdaf0faf45623": "goad: update 2.0.4 bottle.",
+    "fcb217ffdc864d5ea849699a72f7ffd09403cd47": "goad: update 2.0.4 bottle.",
+    "5703a4cb2ef29039f141d2249833a19b934b5de0": "goad: depend on go-bindata at build time",
+    "55cb8595bcd8066e13ec454e1c32659cc6075dac": "goad: update 2.0.4 bottle.",
+    "72681392d117b0a433c12e4a73d3b27e7c5f6184": "goad 2.0.4",
+    "ef76e9d3589d58c0640059f42922bb87b1d9b04f": "goad: update 2.0.3 bottle.",
+    "ab63ae52665c086671fba6826b8d99d48437124e": "goad: update 2.0.3 bottle.",
+    "9ad56caa0425a10eac31d9ba531b65af04f20ac7": "goad 2.0.3",
+    "7b4e45a4416984d271c7c2bdf087b696648eb314": "goad: update 2.0.1 bottle.",
+    "3ec946ab4dcc87bb7cd7dde5ced3eee5b6ab2d1e": "goad 2.0.1",
+    "92f640d5a56bda9a22030be3b3aac73432487d9d": "goad: update 1.4.1 bottle.",
+    "46e3f2580d50b94962e9fcd22baea9e6af00a063": "goad: minor fixes",
+    "232144b8435737fef95c7c314d323d101cdec8f2": "goad: add 1.4.1 bottle.",
+    "bb2846f2761dfa5870d4d8369c188e9ebdcc970a": "goad 1.4.1 (new formula)"
+}

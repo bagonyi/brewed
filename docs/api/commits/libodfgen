@@ -1,0 +1,21 @@
+{
+    "972c09e87cf137b34d6cf9c98fd3e104b25f44ed": "libodfgen: update 0.1.6 bottle.",
+    "b52293d84a86c1531c1e763eb693c9d1bc3b3032": "libodfgen: fix dependency order",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "96731c5c9949f6da464d0b6b154464b81fcf44e6": "libodfgen: update 0.1.6 bottle.",
+    "1a18a4d1b127ee68a26fd1f51ee344e5fa7764fa": "libodfgen: update url to HTTPS",
+    "108cca536f9672bdacf334815b5319517e00e5a3": "libodfgen: update 0.1.6 bottle.",
+    "71d402a26c2ceb54354b0775ef79b58cf1316cd5": "libodfgen: update 0.1.6 bottle.",
+    "9a4a480db666c3f4dc0da5bf574ef2bce5f213d9": "libodfgen 0.1.6",
+    "cbce93f82a63ed8fdedb21532adbfbb94546319b": "libodfgen: update 0.1.4 bottle.",
+    "2244d7ee176c4aaa7cfd490192f169f785f5f594": "libodfgen: use secure homepage",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b3ce8d51b0d4c0a73b22b4b5eb75d5c49c45aa0b": "libodfgen: update 0.1.4 bottle.",
+    "b4bed9f659eab14e3c54ba111eff4b972ef1dcba": "libodfgen 0.1.4",
+    "34f846b915a9489206e38151a34f6747563fc7e1": "libodfgen: update 0.1.3 bottle.",
+    "7873fa090c3b7be38e4868692facdc5f1e6af986": "libodfgen 0.1.3",
+    "c7faa8c7813f442e8a1ee9f530b8f223e48fec1e": "libodfgen: update 0.1.1 bottle.",
+    "530787e690c736cd39b85a21611f4a733324bb01": "libodfgen: fix test failure.",
+    "7342f9e8550ab0391752b241f5e5be60d08893d4": "libodfgen: add 0.1.1 bottle.",
+    "73b00546343658d7d5a780ede2dc46825fbc849b": "libodfgen 0.1.1"
+}

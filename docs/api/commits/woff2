@@ -1,0 +1,8 @@
+{
+    "19a1c4bdb8b17a7b70a5abf91cb7e4199bccde2a": "woff2: update 1.0.2 bottle.",
+    "7e3a59b3a5ad32611bca8cff5972837508799143": "woff2: fix broken dynamic library links",
+    "1af859dbaea2f82da34b694ccc6ea34ad5e274d6": "woff2: fix test on Mojave",
+    "05969fd8ec4d0067a2fc3133f11c25b6659d3db1": "woff2: update 1.0.2 bottle.",
+    "72583d739b874c7f29f6c79ef2de870faf7c5d13": "woff2: add 1.0.2 bottle.",
+    "d3166498194263ada54a9a78a28057c635065228": "woff2 1.0.2 (new formula)"
+}

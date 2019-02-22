@@ -1,0 +1,17 @@
+{
+    "bda5798d28b5d83cca2a33b6294e5b000c4e0928": "openmsx: update 0.15.0 bottle.",
+    "740097f5189ab111a63527cf675a0aaab8a01d2c": "openmsx 0.15.0",
+    "c83f598d85d74d2877f18d6ed6f90e949eb3f29b": "openmsx: remove options",
+    "9f5fc6e44611c1c9750bfe6c7e9884822ac19ac0": "openmsx: update 0.14.0 bottle.",
+    "b7ed0aa95ab964c805be9e63f90c8c2c8f9c4535": "openmsx: update 0.14.0 bottle.",
+    "3266f4c9a2adf8c16b4b6b1136f645b060dcb359": "openmsx: fix build",
+    "62aef453bb4e5438e8fa4e6085bb858e834ed30a": "openmsx: update 0.14.0 bottle.",
+    "f7ceb3aee0c4475b87f4e24b54467ecce27435d0": "openmsx 0.14.0",
+    "ba2ff392ca4e75a338a3870037eb60a92dbc1be3": "openmsx: update 0.13.0_1 bottle.",
+    "b586b9f735a0aeb2c61624c39b5dcbcbdccebbf0": "openmsx: revision for glew",
+    "be2235e6478cd4fc101f4af49c986e010250fab7": "openmsx: update link to HTTPS",
+    "5ea64e94462f2b36f2d53cb073bf427abe06e373": "openmsx: add 0.13.0 bottle.",
+    "6ad216e1a92a22c209a1d956329cbe3634569fa0": "openmsx: migrate option name",
+    "cefb46e6dd223dc6c6976b5e2fde3350587bf0b3": "openmsx: disable optimization to work around a clang crash",
+    "e8101ff1a1c6606ff9212fe4c7bbf70563579fda": "openmsx: import from homebrew/games."
+}

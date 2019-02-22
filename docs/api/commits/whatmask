@@ -1,0 +1,18 @@
+{
+    "bbfb783855f08053dac0ab96178a656c885427b1": "whatmask: remove references to pre-Mavericks.",
+    "54e87839f3903f97a7e1d6214e294af8ef60559d": "whatmask: fix url(s)",
+    "6c99eac0a776ab5527cc6f064759eb755f7bc53e": "whatmask: update 1.2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bff0adf15421ab40cfef1d82da668aea813f162e": "whatmask: update 1.2 bottle.",
+    "59885f28269d5f65203e24308718d620cd5ae897": "whatmask: update 1.2 bottle.",
+    "f877cea40c41f64c56d25ca758b85ad6f56f1390": "whatmask: update 1.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2e0621ec0c20a80837838de8a9b4ab9480a2c77e": "whatmask: add 1.2 bottle.",
+    "0ff81f7557536115cd5179a1032dbe95477787ae": "whatmask: modernize, use sha256",
+    "c6de053f2a43e334bf32e3e7cde5bc44218086e7": "whatmask: use test assertion",
+    "ccdb4bc8bbeeb49dca3025cc8fc4a747cd49aa72": "whatmask: use == in test",
+    "c54180564ba8485499c6283f9ff07ef0f3e5ec92": "whatmask: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6181d5e538b51a9ba503be56f1ba826877062f28": "whatmask: add test",
+    "232cb3779aa03e4909028075fe791ea6771f2c0d": "New formula: whatmask 1.2"
+}

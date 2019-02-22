@@ -1,0 +1,23 @@
+{
+    "91555f93c021144a98575f5870f4670855634dee": "laszip: update 3.2.9 bottle.",
+    "b46daec0a6e8c441f1e9ec3d6c5e902ed63aefc8": "laszip 3.2.9",
+    "b563e3b79b83ad597d89788d92a13777230d8626": "laszip: update 3.2.8 bottle.",
+    "30fe34e3d3db019e05f105763953374d9d1cfc76": "laszip 3.2.8",
+    "6b2300c53ed710aba7925724a62890d9a8c20123": "laszip: update 3.2.2 bottle.",
+    "467c41765ee02e37a7ba73ecb12d2f83fe04c68f": "laszip: update 3.2.2 bottle.",
+    "64e8bb77b7f4967956b207a03018a1dbc61827fc": "laszip 3.2.2",
+    "bea1a8df0666c72c4737fa180083c6f56d17a1cc": "laszip: update 3.2.0 bottle.",
+    "db3a20ccbfc6a41ef30c3fc8e69dafbde7a321ae": "laszip 3.2.0",
+    "68b9f33a2df68689a18b1aa06a0ab74ee888bbf1": "laszip: update 3.1.1 bottle.",
+    "5eb80973ff8a6245d78fef0bf96ee914988e7f7f": "laszip 3.1.1",
+    "9dbbe4203ef5f6b3084f0db7ea8622f6966de7b1": "laszip: update 3.1.0 bottle.",
+    "55946a14a1467ffb702332a5fb21e0bc7655092e": "laszip 3.1.0",
+    "058cee39af6a31fcfac0bd77525b1efac81d750a": "laszip: update 2.2.0 bottle.",
+    "43a7dfb1b7fc6d51392522b79550b0dd072f2f95": "laszip: update 2.2.0 bottle.",
+    "6c3ac2a89cdf6067b45010cd9716892d04e12963": "laszip: add 2.2.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1c7cf3c58f7b21acbba9e1d345c7e28864fe6b91": "laszip: fix path in test",
+    "28e7e63292340c925c4ff544b59b89b0819bfcdc": "laszip 2.2.0",
+    "76272c3e193cbfd1661d9a1c25ba5aeb499525e3": "LASzip 2.0.2"
+}

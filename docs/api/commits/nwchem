@@ -1,0 +1,12 @@
+{
+    "6603f9442a2fb934218d789f3cc57007134213c3": "nwchem: update 6.8.1_4 bottle.",
+    "973abfd44f619980f27c4f9db800f4c8de92b5b1": "nwchem: revision for test fixes.",
+    "c43e3c185cc3cece4d41e5bea854a6465cfe5a2b": "nwchem: update 6.8.1_3 bottle.",
+    "6c242e3157bef0512e5dbf6ffe25ad2008457930": "nwchem: revision bump for openblas",
+    "8dd428869f7934c171f47277567aa7eee46a607f": "nwchem: update 6.8.1_2 bottle.",
+    "6fea5e65219b1e5f59dbfd72687c8258bcea490a": "nwchem: bump revision for open-mpi-4.0.0",
+    "4e7fdcbd76edc1545fd46d7e9cb2dd4c8b05007f": "nwchem: update 6.8.1_1 bottle.",
+    "ae2206f4582e4943b4f18c281edea648514ca550": "nwchem: revision bump for openblas",
+    "382528bb6a2e9fcb6bb4db3ce426693376725262": "nwchem: add 6.8.1 bottle.",
+    "88bb25e5b58c2c1b61c28bd99115772799392d61": "nwchem 6.8.1 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "bc5050ba1301f6e0dec6cde20fb98bad831c9bad": "git-fresh 1.12.0 (#36252)",
+    "9982b66f213d6290c203f4e915cbbcffd7501de5": "git-fresh 1.11.0",
+    "5e00d43ca3ab76913014361e44638b8866023ef1": "git-fresh 1.10.1 (#15867)",
+    "3f5dd7b5609cf1e5ccfdad86507c534e886b17cc": "git-fresh 1.10.0 (#15757)",
+    "e125607caff7524e8a2662c2f84283b6574be387": "git-fresh 1.9.0 (#12886)",
+    "8f88628255052e3bcfd4134617c625d2261d2eab": "git-fresh: fully scope system test call (#6953)",
+    "fdf9602cfb7bf78f8c03c5bb935c54795697ad33": "git-fresh 1.8.0",
+    "d70f768804e47f6f700d5b3f2379d9cdc4c19a30": "git-fresh 1.6.2",
+    "d6074aad6edbea03ebe70ae50d0609690d4fd2a9": "git-fresh 1.6.1",
+    "09b8a1849016d4807d484dc8ed687a5beb0a3576": "git-fresh: bottle unneeded.",
+    "6042d2b99a7827123a080ad3c6e887e77ca77bb8": "git-fresh 1.2.3 (new formula)"
+}

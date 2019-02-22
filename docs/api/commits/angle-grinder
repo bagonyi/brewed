@@ -1,0 +1,14 @@
+{
+    "9a98c691314ca5f73686e03f7ad4fa02aae136e9": "angle-grinder: update 0.9.0 bottle.",
+    "244e57318f0eba7167f9b8932fb801ae2e691c22": "angle-grinder 0.9.0",
+    "e11dc8880e09a77a47e10967f979f0940c6f0c48": "angle-grinder: update 0.8.0 bottle.",
+    "3402749e2af71461d3f787a8c57f49ca383f260b": "angle-grinder 0.8.0",
+    "8b8bf001b57a0075ebf05018f87570267a26a6d2": "angle-grinder: update 0.7.6 bottle.",
+    "1a50b2e203d6ade74edf3839b680c71cfc6fd330": "angle-grinder 0.7.6",
+    "ff222fd19aec9937595941e2fdba1a7cecca13ce": "angle-grinder: avoid cargo deprecated syntax warning",
+    "46fb67812f20c15659ab541a8c08294980faeee8": "angle-grinder: update 0.7.5 bottle.",
+    "c7d5ec02c8187088b3212a0e0905dc11f8f6e5a2": "angle-grinder: update 0.7.5 bottle.",
+    "48c91022ca8e48f907239bd9c98262b99f53fe28": "angle-grinder 0.7.5",
+    "52914224fa86557d28a90cb5831f6db742b4ea22": "angle-grinder: add 0.7.3 bottle.",
+    "55b82361865228381db62ca2f820c0ee90b38e5f": "angle-grinder 0.7.3 (new formula)"
+}

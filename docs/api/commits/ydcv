@@ -1,0 +1,9 @@
+{
+    "cde9c27483ca51327ffc7fd9896736a142fa2e10": "ydcv 0.6.1 (#35593)",
+    "646ebef63fa1b660a4d10c84695c24c572e4e777": "ydcv: use system python",
+    "b1c27d2d8f6dc66e8acd605eaab4dbcd2b5a8a79": "ydcv: depend on python@2",
+    "eaf5843fb215e6e3048e5869b12fd290a7cd2e89": "ydcv: rename python@2 dependency",
+    "b645770d6f4a8e827469c3a601d29ccf4cf699bf": "ydcv: depend on python instead of :python",
+    "7912b8aa8047db6f4be3ba3581ef6f6c95c3635f": "ydcv 0.5 (#21382)",
+    "4b87c622f894e44edbae13afa5f0faded8203aa8": "ydcv 0.4 (new formula) (#19078)"
+}

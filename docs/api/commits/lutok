@@ -1,0 +1,14 @@
+{
+    "1ac8425ae9c88c13e3f2d1669b87b12facc48830": "lutok: update 0.4_1 bottle.",
+    "b7a19c1e2c80b92c29d8c709344fffa4d62f67e4": "lutok: update 0.4_1 bottle.",
+    "dde41adbf6e7cff6545cbe57fca40c39f136506a": "lutok: revision for lua",
+    "3205df1683861f19e615e38df2f8eb2757ed5831": "lutok: update 0.4 bottle.",
+    "eab9ec79c83ac626a7ce38c5bccb64a26d954210": "lutok: use ENV.deparallelize.",
+    "dc7bef210bf05dbd2d1c8ee7c138562d608252df": "lutok: update 0.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "94d9d34660ffaff1df74aa7917aabe78ee7b1972": "lutok: update 0.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "33961108953d9baa925a1e389295acdaeef2a47d": "lutok: add 0.4 bottle.",
+    "88a6d4c0268ca010991ab035fa4043ee254c1748": "lutok 0.4 (new formula)"
+}

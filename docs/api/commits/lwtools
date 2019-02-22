@@ -1,0 +1,15 @@
+{
+    "f0ee4c882cea5ef145296438eb21d6c3b954d424": "lwtools: update 4.15 bottle.",
+    "8c1a2f88097d1b1dbbb2fdbef318de1307b37b0c": "lwtools: update 4.15 bottle.",
+    "a11d8400860c821fbafefbfb916d3ec5ca1c609d": "lwtools 4.15",
+    "ab03e749d22cd80dcf5ec4ca3d904ac8e761502a": "lwtools: update 4.14 bottle.",
+    "2718b6e075f807a5b61c638ada91b6403ee98e90": "lwtools 4.14",
+    "3ba1c3d258d5fb5b1e20f04af525677cb0125027": "lwtools: update 4.9 bottle.",
+    "a9678aab86aab989c1428f2f6acf6004da31a530": "lwtools: fix RuboCop warnings.",
+    "d9b29ca99e8245ffbf6338e519a32f246147e8c7": "lwtools: fix audit",
+    "8f8839ac9e0a279e7f632edff8699de4bdcbe52f": "lwtools: update 4.9 bottle.",
+    "eba46bda272ac90f4814742c061d96ea52d86e8f": "lwtools: add 4.9 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "11f0bc6c29b403d9845234fc96fee5a0b0f5428d": "lwtools 4.9"
+}

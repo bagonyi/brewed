@@ -1,0 +1,23 @@
+{
+    "27147936aa1cafa12443865502b8d2ca7e044bbe": "puf: update 1.0.0 bottle.",
+    "f8fefce6cbdc908ebae6ecebd202b585d0f54d6e": "puf: update 1.0.0 bottle.",
+    "3416bfaf1563e3701bc434bb0274b92004a07bda": "puf: fix audit --warning",
+    "f681f60790c7e7faf9b0a0f51481ac95a184db85": "puf: update 1.0.0 bottle.",
+    "a05ffb224fbfe04f518adb860df47de003e74fdc": "puf: add 1.0.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "50356635808255e5a59ae1cd14d647e2241eab49": "puf: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "92dabb4c4105f674b558297d74f4fdd97c781474": "puf 1.0.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "6792390e975fea259ab34b7fc348e9a72b359446": "Added formula for abnfgen",
+    "6d3eed38c4c3196ee66d69c22a77f5ce65eb76e4": "libmpq Formula added",
+    "fcb3e066d2ce776228aeda520a267c097136f466": "New formula cronolog",
+    "c2af27e1742a8f3324b01ad2c77ef7fa4e32971d": "Fix some more man paths.",
+    "90e57c8319eb3777daba9f3018f2e569fee18d23": "cabextract v1.2",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7a1ecdc5a03494da3a5cb7e4dff4a840dca23bf3": "Added postgis recipe, which depends on postgresql, proj and geos.",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

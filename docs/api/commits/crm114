@@ -1,0 +1,13 @@
+{
+    "2f8edf0c7c585bd7d72c72da583fc1442a6bff14": "crm114: update 20100106 bottle.",
+    "ec1595a55dd0ba4eb33ffcc43aebb69ebcb10101": "crm114: update 20100106 bottle.",
+    "ddfc71e24cc5ea6631573d4b57853f6132788125": "crm114: https url",
+    "44aab9fa66cd26606b5e84a8da13737482a87046": "crm114: fix audit --warning",
+    "ce598c30654a8e069a5fc570777c5e80d1ae9443": "crm114: update 20100106 bottle.",
+    "8de5ddaa776af59e72b7176b7f52a9e057686a26": "crm114: add 20100106 bottle.",
+    "a1616393ac137637cec618390fa4fa0222e2b5fa": "audit fixes: C 05: cpmtools - cryptopp",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "72c2a96f37babf9676aea25258f6ecc598449bcc": "crm: use gnu89",
+    "480187b9db4139eb2ebc85bdb580ceb475c9f084": "New formula: CRM114"
+}

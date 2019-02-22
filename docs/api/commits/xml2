@@ -1,0 +1,13 @@
+{
+    "7a6287c5808a0897eef0f3dc646e5d1baa66c19f": "xml2: update 0.5 bottle.",
+    "93d16fdf92cc15292b99c5ede7af9aa68a730bb9": "xml2: update 0.5 bottle.",
+    "36387cce5baa181fb99528ecf346ded3ef5a4967": "xml2: remove protocol from web.archive.org param",
+    "d802a0dacd3f1a30e2f249eaad9529480b9d1615": "xml2: update 0.5 bottle.",
+    "924f240dfe7b7dfdec7c8652a4bd581302fa50d6": "xml2: improve test",
+    "300f3150fd4e7bc8c7139e1301afa93f7f5e12ad": "xml2: use URLs from Wayback Machine",
+    "8e54f216543bda1152beec6b0276949f6cabeedb": "xml2: use secure homepage",
+    "5b9051fa7f06f178bcc4a28c3e5d335d8a569b1f": "xml2: add 0.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d1a471e76d3aa9f361548ef8e54407cd4a161b16": "xml2 0.5"
+}

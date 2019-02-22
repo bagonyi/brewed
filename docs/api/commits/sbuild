@@ -1,0 +1,16 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fa036fab524d38f61ca2cfa5cf002c3ef65a9161": "sbuild: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7bf521ac21dc734b2b3c4c8de0109e9a7a964518": "sbuild 0.7.7",
+    "ba06103a5286179025ddc7d5cb2d9bb846f0e4b2": "sbuild: use Ruby chmod, sha256, remove require",
+    "13781162c75d5fe575bcadadc9bf027ad54a4b60": "sbuild 0.7.6",
+    "8f0041bc28aa241a49997a59e509596a0183c7f8": "sbuild 0.7.4",
+    "f1db6560a65202b9bde4deea54f4b045a27d1ebd": "sbuild 0.7.3",
+    "ead6941ca65af271c77ae2fbeb93bb13ba06247b": "sbuild 0.7.1",
+    "b7e4b3921ae17ab32f7a09d62fcbb53e9120f211": "sbuild 0.7.0",
+    "88377ccac49ab5e8a13a75314f9569a7a7ce8574": "sbuild 0.6.0",
+    "b3c357e286c7f74405337773a99183b33366a09b": "sbuild 0.4.0"
+}

@@ -1,0 +1,16 @@
+{
+    "45ddd3b536dc6a3a6df6c02ce28086994cadda8b": "ext2fuse: update 0.8.1 bottle.",
+    "9565ff7efbdfa929313762c85643f9a33a5a30d0": "ext2fuse: fix dependency order",
+    "01a22546877f127e94b7d7de570a4e5b0d50089a": "ext2fuse: update 0.8.1 bottle.",
+    "e4d86a24d8e269dcaead17ee085d6cbb658f0257": "ext2fuse: use HTTPS for homepage.",
+    "d67663afaf3ec954e4c9c4d847764f1a3ca6cab0": "ext2fuse: add 0.8.1 bottle.",
+    "7f74a3c3993c493dee28691022fc1fe22bc05c14": "ext2fuse: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "01369a372791b96f02357eeb39c0a16fd5e290b1": "ext2fuse: use osxfuse",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "2da1555e8b5c310e65040e7c9f0b291c10649f9f": "ext2fuse: fix build error by using a CFLAG",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6a799a8e41dc3b67d8c15d3708c87894f5e2988b": "ext2fuse 0.8.1"
+}

@@ -1,0 +1,19 @@
+{
+    "dff795a2aabff52b0e43ffb27f90c1c9d2892b80": "ndiff: update 2.00 bottle.",
+    "f37b35a6692d92cc98f0cca62bf1c7e31c22ab88": "ndiff: update 2.00 bottle.",
+    "44f6fc6a024af7388f6df64db3984cad7add353a": "ndiff: use ENV.deparallelize.",
+    "a4ccb325dfa6e7296b9d48ce5e5e8e7e96fdc836": "ndiff: update 2.00 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c9b22dad2216c18da979fdc6050a75ea7e2dfbae": "ndiff: use secure homepage",
+    "1f12f5643532c4852b62573c59c292b44ee43866": "ndiff: add 2.00 bottle.",
+    "e3cb16f9d356351fb359855f66d4962cf364fa86": "ndiff: upgrade url to http (from ftp)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "2382d6e217de75983dd74bf582df01ab5b325144": "ndiff: fix typo in conflict",
+    "3f92b5807c61c71f000b7567035055026fe3cdb7": "ndiff/nmap conflict",
+    "7ee17ad059c45488d3a2dd483c093f2c4636c0fe": "ndiff: fix audit warning",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "3438be86719feef5412dca747f537c4c0b095425": "ndiff 2.00"
+}

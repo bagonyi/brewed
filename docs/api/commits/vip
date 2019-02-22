@@ -1,0 +1,17 @@
+{
+    "4649e96329087c5861509e15524609f70c51c819": "vip: update 19971113 bottle.",
+    "f85c6b53f93c18ae844bfa6d0e0aa336f1953250": "vip: update 19971113 bottle.",
+    "3371dcd99c763a145f57b4b3d3567b829ecfdb97": "vip: update 19971113 bottle.",
+    "d02dff2b3907a70982d0078ee294d82b8e23ebeb": "vip: add 19971113 bottle.",
+    "818e861aea25f3ceaf86448088754d42a9115a4f": "vip: use https homepage",
+    "7ae721433ea29ecdde1b3f4068bef77a8f21e84b": "vip: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d5e2d6e0a1af5f3e730957b1765c07d1764a5851": "vip: use patch DSL",
+    "5f1e00536935b4bf79972d33b1bbabb3d0ba3abb": "vip: use resources",
+    "faa153306392914fa8d11bd4ef0f3b7c2ed3897f": "vip: style nits",
+    "5ddc7617b3611a5c18740dfb83163e77125f25b2": "Fix subformulae sha1s.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "71e0d9695f873eb33e9cf028544eac81b78328ec": "Add formula for vip"
+}

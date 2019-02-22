@@ -1,0 +1,21 @@
+{
+    "fdeb532b42aeb653a6db0303c265d716ea92e637": "ios-deploy: update 1.9.4 bottle.",
+    "ef420afcfdf1fd26be9ead9fd52b2838e23e3f3d": "ios-deploy 1.9.4",
+    "aaa7a2a1f659bd834b990b9154d3a92c3118ed80": "ios-deploy: fix component order",
+    "0267432b425ecb9efab7e880a64e4c0e3d878588": "ios-deploy: update 1.9.3 bottle.",
+    "c6e8b6a2f0030297db9ee61284d50543077a78d9": "ios-deploy 1.9.3",
+    "2373e741eb529658f94236677a464e0b142c87c1": "ios-deploy: update 1.9.2 bottle.",
+    "ba0961d156b035b717dbff845ffc3b6ce94eea9d": "ios-deploy: update 1.9.2 bottle.",
+    "8fac5e729411f0efaa7a0398ddad544fd06694f6": "ios-deploy 1.9.2",
+    "af189af4c99da9b2c19f01486856c1cd76353b92": "ios-deploy: update 1.9.1 bottle.",
+    "348713baaac20450799c3e0576d1e5feff336055": "ios-deploy 1.9.1",
+    "6946fff7fb2a39752d7274197f7db56a50c61dc3": "ios-deploy: update 1.9.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "51ccd9e33da5eed960845428bba08dddeb68f218": "ios-deploy: update 1.9.0 bottle.",
+    "910e2e3e3e20b6544a60dc418589f31855863a69": "ios-deploy 1.9.0",
+    "f96075c287f05c352ca4dad28a7c8e1c0e32b4e1": "ios-deploy: update 1.8.7 bottle.",
+    "bb0d02474c4a688a1b2943667d6e9f93f278392a": "ios-deploy 1.8.7",
+    "ea6129444f2e39d05ed0ba880845b5dbf658e7ad": "ios-deploy: add 1.8.6 bottle.",
+    "af1fa4385e9b70c6d0f4effbc8b7a5a418d881cd": "ios-deploy 1.8.6 (new formula)"
+}

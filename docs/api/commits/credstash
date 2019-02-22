@@ -1,0 +1,18 @@
+{
+    "144ae8bbe2dacb707ce6be0819548e32d7bb036f": "credstash: update 1.15.0_1 bottle.",
+    "1cee352dd42e9d3fdb181a6e91795c7b17dcdb37": "credstash: move to Python 3",
+    "45cf69dc26a472399ccb42a9b82aa43af05fb9af": "credstash: fix dependency order",
+    "8a1b14fdb98249c6dee9289c617f181bfec47d4e": "credstash: update 1.15.0 bottle.",
+    "2dacf115030f0f7e4c2fa753a5883e00099b4d31": "credstash: update 1.15.0 bottle.",
+    "5f47f515c3bdd955dd029aacc0d1dfc2d49b524e": "credstash 1.15.0",
+    "f9df25e18fbc6bbdbb045a8b375dd652fc91f2d9": "credstash: depend on python@2",
+    "7043d85b9f8a5f43d7693ddafb712f7f446b8bde": "credstash: rename python@2 dependency",
+    "30d3799ee18f3ba9939c7bbd94f4b7384c91d189": "credstash: depend on python instead of :python",
+    "31d0cddcb53b1852eb9bc4d8436a5b56065a412c": "credstash: update 1.14.0 bottle.",
+    "e289bdf1f71604564073a57d5aff4056c0ce47f1": "credstash 1.14.0",
+    "af5259835751cccad9f2c8d83d1396ba3ac4772b": "credstash: update 1.13.4 bottle.",
+    "64e0246ee1892814a9760e2a79a9367687347977": "credstash 1.13.4",
+    "2e32e6c413b26f5ab960ef212404c22b71f5c0fe": "credstash: update 1.13.3 bottle.",
+    "052d027ef7a5b4eb7da68fa6193f40d9711b1dec": "credstash: add 1.13.3 bottle.",
+    "9e701b01545163236e5ffc65dc8bb8dfa4351f3a": "credstash 1.13.3 (new formula)"
+}

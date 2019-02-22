@@ -1,0 +1,21 @@
+{
+    "70785f92c2b7666e14c7fc75311c78fcf0dad7da": "makedepend: update 1.0.5 bottle.",
+    "7894fd97320d33a15e46c3856fff41baa0dce957": "makedepend: add HTTP mirror.",
+    "792dc0efa78908cd2a83abe81d2e642c5b6f4cd2": "makedepend: update 1.0.5 bottle.",
+    "528e080aa47a58fa2d5e70dd67c1798ed786ecb2": "makedepend: update 1.0.5 bottle.",
+    "be410e355d8912c42cdb8ff19c6d7386372145e0": "makedepend: update 1.0.5 bottle.",
+    "15dd03edcd8d97c92cb77a3a49ace7d1a512bd7a": "makedepend: update xproto & util-macros resources",
+    "40fca539674a62490aec1a142a908f5c000262af": "makedepend: use secure urls",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "8a44e157e6bff5015d7268555a32657b034b5a15": "makedepend: add El Capitan bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f9a87791cdb409c85c4c96c5851ca8cd3b2a5368": "makedepend: add test",
+    "adabfa88b9d69a983a1b6201c7c8fa740a804e78": "makedepend: add Yosemite bottle.",
+    "6022e9c800797d5349754d0e70a29854cb238356": "makedepend: add bottles",
+    "8e1a4bd194a41d5f7ffd039d1307b9ae65cba52f": "makedepend: let pkg-config handle build flags",
+    "ed65f44e1f30ef40cc857739a4072b72063d0cd6": "Replace fake makedepend package with the real one from X",
+    "4acb9e72bb72b186441491029eec17711b206891": "makedepend: fix homepage",
+    "3eca79b541224b3f0809c9f91936c796bbd0ebd8": "makedepend: fix test",
+    "76f212190df785ee53fabadb898d91385ee91d9c": "makedepend 0.2 (new formula)"
+}

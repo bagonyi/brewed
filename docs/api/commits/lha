@@ -1,0 +1,22 @@
+{
+    "e18316b26b9adc1e2df915d0a5132c8d9c8f5df3": "lha: remove references to pre-Mavericks.",
+    "7d57d5a0097b4b5d648582e549b2f2e4a1d3becb": "lha: update 1.14i-ac20050924p1 bottle.",
+    "f574825c7494f10fb20fc0564f913a75cd4d5b18": "lha: secure url(s)",
+    "ab7181b0463adb6a4147dca87b63796ee5d6ed63": "lha: secure url(s)",
+    "4c07833145738e46906b5830844759b3593b4421": "lha: update 1.14i-ac20050924p1 bottle.",
+    "899e8487e0debe591a10101c7b787b437d5f5835": "lha: fix audit",
+    "c669a5320346b571a54e560e76631594d42975e9": "lha: update 1.14i-ac20050924p1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "b235a124d3132827409d02322725df2cde10472c": "lha: update 1.14i-ac20050924p1 bottle.",
+    "30b5580ed78589db0ca6e91a4aa4d84a4bec9086": "lha: add missing conflicts_with lhasa",
+    "659b48124b3ddc68cd8340a611f7a0459e06923c": "lha: add 1.14i-ac20050924p1 bottle.",
+    "67af4c2d85c41564b36aaa85a0af8fe7179ad3f1": "lha: add head and test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6d79ac2fb3f3d877c992f63ec8d76a28ffc0ccb7": "lha: update urls, modernize",
+    "2a46e64b8e5f3082684ae288d06e5c60d231e74c": "lha: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9acffbdb571969f7dee55945dbb0875cb2f27d72": "lha: update the url, it looks better now.",
+    "86a42eca19c77e44e7a4a3199418368bdc901c49": "new formulla: lha for unix"
+}

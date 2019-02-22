@@ -1,0 +1,10 @@
+{
+    "2119ac1e7a4b6b812b8e67feeb3b3735cad9e5c2": "trace2html: use system Python",
+    "1696d9021e38be2da961f59c4afe58761b9863d9": "trace2html: depend on python@2",
+    "c6caed142011393e7fe34ac7b4d5817fa385e383": "trace2html: rename python@2 dependency",
+    "f97fdb18a5680156eaad04952ace0dba5201f0bf": "trace2html: depend on python instead of :python",
+    "a44b8d2674d16fdecd9c6504d2be661a6a09c59a": "trace2html: use assert_predicate instead of File.exist?",
+    "54fd7cddec454bcc0598ed99bb9e029abdd05a4f": "trace2html 2015-07-07 (#17483)",
+    "a6d19c9674c856cb394602335aef96e5136288e5": "trace2html: bottle unneeded",
+    "77d69d281ab7be145bbb0d54eb6c4726cf56b84f": "trace2html 2015-06-23 (new formula)"
+}

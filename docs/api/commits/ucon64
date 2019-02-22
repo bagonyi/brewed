@@ -1,0 +1,14 @@
+{
+    "d9aed8f90f3c418116f30c7658a5ef4baa37337d": "ucon64: restore https for svn url(s)",
+    "2509002d805e1d1ebb98b599baaa0f98a78060cd": "ucon64: adjust svn URL",
+    "66975b9db980bd80543e224920d3388a19fe4441": "ucon64: update 2.1.0 bottle.",
+    "223b25741b07755e0e88b0ba39e74cb9774cfb75": "ucon64: update 2.1.0 bottle.",
+    "5248794647c08b184a86933f3785e074d3c38314": "ucon64 2.1.0",
+    "73ccfcea98f6a33784af6c6589f5cbe90f7e5326": "ucon64: improve/secure repository url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8baa4e409c4eb3032f2edee3e519e5992f8042aa": "ucon64: update 2.0.2 bottle.",
+    "09057ebba29a6df84c047bbce3d3bcc242f6b0ce": "ucon64: fix audit --warning",
+    "4f207a07bde5ef891b1dc14334e388aa38900b16": "ucon64: update 2.0.2 bottle.",
+    "6cdf65bfb223fc29732ca09a6449486606a9ee3e": "ucon64: import from homebrew/games."
+}

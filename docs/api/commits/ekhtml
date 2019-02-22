@@ -1,0 +1,12 @@
+{
+    "00ca13196b6f7489d66bfb5ad7fea2f54f50d994": "ekhtml: update 0.3.2 bottle.",
+    "0f0b0c951a97b39dfb27b981de81994e189801cd": "ekhtml: update 0.3.2 bottle.",
+    "8df0f3c5c9fc0a86b497f4ac887608e81c04c956": "ekhtml: fix audit --warning",
+    "ff8da7b22d6527a4c3e45d4084e7a43761d29991": "ekhtml: use ENV.deparallelize.",
+    "6158398a1ef7794b3a9422a57b27723faba1f299": "ekhtml: update 0.3.2 bottle.",
+    "dbb0eed828f221cf3d620895167b8c565ae2ec8b": "ekhtml: add 0.3.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "164af1f83b4c4dd8a254abf9933045195e6d8608": "ekhtml 0.3.2"
+}

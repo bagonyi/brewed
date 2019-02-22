@@ -1,0 +1,13 @@
+{
+    "2da26ace20ec32212542c0abad43cfc6a6df1d25": "vstr: remove references to pre-Mavericks.",
+    "812479bfe6f7a3a3f27e06f5c724a34bf853887a": "vstr: update 1.0.15 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d64c2c134c3324008e1fb7aadc013e69695ea58e": "vstr: update 1.0.15 bottle.",
+    "b0f05560bc128b6d6ea79589821e33b0f8d6e8ed": "vstr: update 1.0.15 bottle.",
+    "625b794094d06dec7d6917a6616f1f455f017a6b": "vstr: update 1.0.15 bottle.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5ac219fcfd7a3055a56c1927753dd6da91993bd5": "vstr: add 1.0.15 bottle.",
+    "295cfc68ad29c677c5f05b063167e69062ebc8ed": "vstr: test added",
+    "49212ce139e162434ddc4008fd2f41dbd73e4b87": "vstr: 1.0.15 - Vstr an ISO C string library"
+}

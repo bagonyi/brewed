@@ -1,0 +1,19 @@
+{
+    "a773d4ceacaf97fab77cb67916cbcf5d4ef5d5ab": "jpeginfo: update 1.6.1_1 bottle.",
+    "c235885942ec292e5e873bc1f3a714e45887821b": "jpeginfo: update 1.6.1_1 bottle.",
+    "b3c60da265af53f80d620149ae0028062b4e04c7": "jpeginfo: update 1.6.1_1 bottle.",
+    "f3944d07c52b0f11c464de99566d5b49bff6bc5f": "jpeginfo: revision for jpeg",
+    "a47888aaf11a2f48be65982f78f6b4cc9d16f786": "jpeginfo: update 1.6.1 bottle.",
+    "2cca55a934d3b6efa08523f37d1bcbf69ad5e3da": "jpeginfo: add 1.6.1 bottle.",
+    "25d4ba6172cd63db093b90594845be323523882f": "jpeginfo: use https homepage",
+    "c76d408c5802af3ee34bcb660fea78935d1af76d": "jpeginfo: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "e033849fc5fda9705bf18505fc386268f81d14d1": "jpeginfo: remove comment",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "144612469c3ca0c36cdb0835ade850aca91ef297": "jpeginfo: don't build parallel",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "fd3b3024a7cd1d4cbdb5a30838fc68035b72ad03": "jpeginfo 1.6.1",
+    "96538a4f86d6958cdfca7bbb68ffe66d5beeb125": "New Formula: jp2a (JPEG to ASCII converter)"
+}

@@ -1,0 +1,20 @@
+{
+    "c612583c9434e7aff5a9d1bba43375ddcf51d83c": "sparkey: update 1.0.0 bottle.",
+    "bd37905e33a3b3ca8ba52e74c85c66377302f482": "sparkey: update 1.0.0 bottle.",
+    "d3d3d746e2633efb17d2de896ccba076e2a2c5d0": "sparkey 1.0.0",
+    "2ecb5ff94e50d0685ddc2d27a7a0b30f9929d6cc": "sparkey: update 0.2.0_2 bottle.",
+    "7b7becb3385cc71cebe5afd8839bb6d61677704e": "sparkey: update 0.2.0_2 bottle.",
+    "51511b5c90af2f6d91b354b08f9bbfe1c95a305e": "sparkey: revision for snappy",
+    "b0a5c6ada68550aa2e4adaa1cfd877fbe798384b": "sparkey: update 0.2.0_1 bottle.",
+    "688e844e1ec6f3bd552d7a81c985bfaeddd5cebf": "sparkey: revision for snappy",
+    "b035ea9bf35428ec292a4cf93eaca677d1d7810e": "sparkey: fix audit",
+    "8df9cf4ba4ae1f7489e87c62608e88976d461bc9": "sparkey: update 0.2.0 bottle.",
+    "7ef4cdec644f0a0d434c57b17e8712ef1ea4db16": "sparkey: update 0.2.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2041d1b098fc47c8e3b8047bd65a2d2b4615dbe3": "sparkey: use full path of executable",
+    "953b1a4578045e9b5cea2cc3cbd60c1c83e56a9c": "sparkey: snappy is a runtime dependency.",
+    "09f88eb2b7f97728725ff35577e5ab09720360c4": "sparkey: add 0.2.0 bottle.",
+    "5be8ab238d29a35944332d1e3e245781bff53757": "sparkey 0.2.0"
+}

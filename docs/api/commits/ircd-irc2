@@ -1,0 +1,17 @@
+{
+    "77834705f3af07db595e1728e9ec8a1b8737b8d3": "ircd-irc2: update 2.11.2p3 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bb9b89d2927304c98dc84003fc3ceb128055ca0f": "ircd-irc2: update 2.11.2p3 bottle.",
+    "85f5a5752284448578016e7915517131a1faf5f0": "ircd-irc2: fix audit",
+    "1bcf85afe861899140fb033a38238f339d0fa89a": "ircd-irc2: update 2.11.2p3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "970bd2c564b9a9855b61d44b69ffc1b94bbf23c5": "ircd-irc2: add 2.11.2p3 bottle.",
+    "5575d0286f3369967eb80f0995776c554d7f2c2a": "ircd-irc2: conflicts with ircd-hybrid",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cc75e44a6f505d5b60138afba984bc1237837545": "Use opt helpers instead of hardcoded paths",
+    "a71db137c67220f07834b5f38bfa6a34fec77f59": "ircd-irc2: disable netsplit detection",
+    "9e5f14b094e825ef1ff227e86ea98a9913c5f4d6": "ircd-irc2 2.11.2p3"
+}

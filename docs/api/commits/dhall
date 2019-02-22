@@ -1,0 +1,6 @@
+{
+    "f281e9f5a0132b68b0bdf392fb65cce229ded647": "dhall: update 1.20.1 bottle.",
+    "2ceefde9c5e0016b33bb2e63f3aca03735453451": "dhall 1.20.1",
+    "8bad83f83a01e390f8c80e55ba22e81762b94e70": "dhall: add 1.20.0 bottle.",
+    "f701081bbeeac3408d81819d9936144ea5d4535e": "dhall 1.20.0 (new formula)"
+}

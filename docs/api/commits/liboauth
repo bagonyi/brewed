@@ -1,0 +1,20 @@
+{
+    "c72bf9ed1e23fdafae854dfa6a950cc0c0422465": "liboauth: remove references to pre-Mavericks.",
+    "105c63b1a7ec30a4afc9f2e56df60d64cdb174a0": "liboauth: update 1.0.3_1 bottle.",
+    "0ff783dc9a73c06061dd475f7d7675f01dec54e9": "liboauth: update 1.0.3_1 bottle.",
+    "e6aa78d20f4a9d77812519d0318745b27691c418": "liboauth: fix audit about sourceforge link",
+    "2b4a365d3a6d04dd641db136ec5595d2a9c1dd37": "liboauth: update 1.0.3_1 bottle.",
+    "bb1e7df492c8e7fb88f3ed99aa118c9573fd8b06": "liboauth: update 1.0.3_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f39b42532cad6d6b4a0cbd88781822c82c465c7d": "liboauth: update 1.0.3_1 bottle.",
+    "8ad0cbba10cdafdc3a1af5a1de4c8a1129f261d7": "liboauth: use Homebrew openssl",
+    "b6b283b26947e20ead5a4837d8f5d44f30761fbe": "liboauth: update 1.0.3 bottle.",
+    "72ef12fc194e7a772290a1a35d9779968aedd866": "liboauth: add 1.0.3 bottle.",
+    "248325562d4d2380d63b16ff7ae9bf01bcc50fed": "liboauth 1.0.3",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "e05ceceaf8c77d84ebcf622f3ea89c707c231768": "liboauth 1.0.1",
+    "7b08ae35d7c3acc2c8c4f516562ced5a870d1e8e": "liboauth 1.0.0"
+}

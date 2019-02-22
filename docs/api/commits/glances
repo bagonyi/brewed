@@ -1,0 +1,17 @@
+{
+    "465817a507b99ff3508584b3c183a3884ff5e76c": "glances: update 3.0.2_2 bottle.",
+    "ba2569cdc8e7326f08e0602398402a6de3bd6e3e": "glances: add Docker plugin",
+    "6621b1cb0bd1dd048e83d9bdbed26aa6997ea6f0": "glances: update 3.0.2_1 bottle.",
+    "83c3e18cdb4d83a5ab23477d788a3a1c74cdae25": "glances: add all the optional plugins",
+    "9bc50830228443220b43504993ee7d33b80abf34": "glances: update 3.0.2 bottle.",
+    "a754a8587354b7a4ad21dc129b40800d7bc8f2cc": "glances: move to Python 3",
+    "0396d55ae6a3f73f51957b3687abdb05101985d0": "glances: update 3.0.2 bottle.",
+    "45df65e17e604d6b5ba33761038b6d78310fc461": "glances 3.0.2",
+    "7cec43064815eaaba530918c97876143e93d75fa": "glances: update 3.0.1 bottle.",
+    "3f8fdd5a824834075ea450dd39d894cfbb296551": "glances 3.0.1",
+    "a998a06ba13c72142be244759eb5620968c7723f": "glances: update 2.11.1 bottle.",
+    "590adee0dcf38ccaed6fc101e542bdffbe8302ef": "glances: depend on python@2",
+    "d2550d2fd6bb7983a1877c75189b4db13a9efd44": "glances: rename python@2 dependency",
+    "c33f9ece2bf1cb1767c65a534b13894342ee3f84": "glances: add 2.11.1 bottle.",
+    "06b2dc6563c6f18890f76a84e6bb1cb2c5dac7ad": "glances 2.11.1 (new formula)"
+}

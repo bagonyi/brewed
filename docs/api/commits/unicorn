@@ -1,0 +1,19 @@
+{
+    "61c0178d8e7b3c0ec9e3c8f6da4dc2d0d8062f84": "unicorn: update 1.0.1 bottle.",
+    "fa38ab3948c46b68a4c81d6956face45f576a8cf": "unicorn: add option install python bindings",
+    "b853242e8492ef25842d94273a08702dcb65e0ac": "unicorn: remove options",
+    "fcb8b6d417826ccf404d14ac50712057162cf1cd": "unicorn: update 1.0.1 bottle.",
+    "c7e6c3a1f032fb9ced264e598ef19ca90c180681": "unicorn: secure url(s)",
+    "fa6fa4d41f0f60081bab12814d747fc41103e88e": "unicorn: use “squiggly” heredocs.",
+    "d1037567777679af3d40a6ea8d9777684e5ca753": "unicorn: update 1.0.1 bottle.",
+    "530d9be3d68262a8cb200a56316f5ffb41d89f69": "unicorn: fix test on 10.13",
+    "8ffc0f3872fd06130111eaf72a7ed8d50128c0d8": "unicorn: update 1.0.1 bottle.",
+    "ecf425701e3f58633094d4766de266940c612800": "unicorn 1.0.1",
+    "8e72f55dfb13d5225cc16bf04324fe4ee67a2ce8": "unicorn: remove glib dependency and add test (#10931)",
+    "3e5149e7518903672424a688fe93e82ca4b5be14": "unicorn: update 1.0 bottle.",
+    "05033d55327da2816d8a6557c3a0126b598d2d60": "unicorn 1.0",
+    "e74148fd738d5779bbca363e43043336a8d0f746": "unicorn: update 0.9 bottle.",
+    "98b7972b45dbe59066a286e29a37ced1a37afb81": "unicorn: removed capstone dependency",
+    "c68c1fc7a82c6d9d76c622e930e50c791ddc39d5": "unicorn: add 0.9 bottle.",
+    "58578da4f036d4b7bd8d052b3b208c12d7e6b4aa": "unicorn 0.9 (new formula)"
+}

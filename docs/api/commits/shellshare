@@ -1,0 +1,9 @@
+{
+    "c530296ad66bd9b3f5a411cd34a7ea0e8ebd36be": "shellshare: move to system Python",
+    "1ebc5f2f74e4e57cc9db32730d51b01b1d7f4ef0": "shellshare: depend on python@2",
+    "61c2bad1271c70b0cf17e70d776cacb2ed68f8cd": "shellshare: rename python@2 dependency",
+    "e65b1b04453d20d2811b70add173b04c4424179a": "shellshare: depend on python instead of :python",
+    "5de1ce5f863d5aab7c62ad669ab3d3eab1e801ab": "shellshare 1.0.3 (#14323)",
+    "be4d7571aaa81fcc80f370c479fbae7fc9c2f513": "shellshare 1.0.2",
+    "71f95fc4c2461b3e57d914e08d107aa6c6638ef6": "shellshare 1.0.1 (new formula) (#10518)"
+}

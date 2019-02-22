@@ -1,0 +1,10 @@
+{
+    "5e88c58e2493fa99376db2a02287157276c8bdc3": "bnd 4.1.0 (#33141)",
+    "1dbbb7b6d5e55f0f34bb4ba2666b4eafe6aa2494": "bnd 4.0.0 (#28280)",
+    "e64ac5c46570992bb837827a31c4315d7cdf7446": "bnd: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "02a538fb88594b051bb397268655f85c726f0a6b": "bnd 3.5.0 (#18844)",
+    "82fe28aa051f81d207a1c8e9c342273d70e7b600": "bnd 3.4.0",
+    "bbcc23ecd0078ff3fc01969aaa3f9bf4b8c1b1e7": "bnd: fix audit 'description must start with capital letter'",
+    "7a0a8ee3ffe5af0d3808b5e951cf4809ed92bcef": "bnd 3.3.0 (new formula)"
+}

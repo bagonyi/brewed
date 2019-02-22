@@ -1,0 +1,20 @@
+{
+    "72087455343eacd67ae8e33d42cec40db5f5ae62": "cxxtest: update 4.4 bottle.",
+    "7f83dfaa791bab80f67d30c8b18c6b4e11446d2c": "cxxtest: move to Python 3",
+    "e0f20fb9a44acf5553f4f040b1e9bb4000497b9b": "cxxtest: update 4.4 bottle.",
+    "6a2549c744c1baecfcb45c855370b1915520752e": "cxxtest: depend on python@2",
+    "b61cb2e26599c6dfc799476e576e50f3cff0edae": "cxxtest: rename python@2 dependency",
+    "d76a7cc20c4c31cb20eb4b9ec931e5f3f5cb6ace": "cxxtest: secure url(s)",
+    "e2258e31ff69cc7df1316e6aa76daccb070d534c": "cxxtest: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1dc3d17cae2f3420560e8cce12ca5e90e946525f": "cxxtest: update 4.4 bottle.",
+    "d45bc31bd90c5cadad6a62c6753b7ea02547beda": "cxxtest: update 4.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "911adbd8a3138e8dc7378a3671281af676e77ba4": "cxxtest: update 4.4 bottle.",
+    "4d52368e1a5b14af40f0cc2d7411d43de06fcde3": "cxxtest: audit fix",
+    "34658179734ad2ba5f1e6bb60b1a584192c3263a": "cxxtest: update 4.4 bottle.",
+    "e140d023ab6bec1ca7dc1c564a028842c1cc43ab": "cxxtest 4.4",
+    "e0a12386e24bb09a3a00de236feb25507f50e10a": "cxxtest: add 4.3 bottle.",
+    "b06ebba077b21d75be411557a8b94709b47b8944": "cxxtest 4.3 (new formula)"
+}

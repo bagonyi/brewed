@@ -1,0 +1,21 @@
+{
+    "d7db649800a98ac02f5bdf77f2d3c2cac9d00315": "qstat: update 2.11 bottle.",
+    "757b64daee05a2c13e8011ad97f2ac5cf8941ab5": "qstat: add test",
+    "d471251d7314a9ede2849a7153c8850735269138": "qstat: update 2.11 bottle.",
+    "dcc5109c7b38d6f62fb89153c0b6c2541be88422": "qstat: fix audit about sourceforge link",
+    "28853ed7fe5f8964336dd9437f91bc0acd4feabc": "qstat: update 2.11 bottle.",
+    "4d3f637f99fab868593feb150d56c51b06ccc38a": "qstat: add 2.11 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "0e9c71bc3268d1a1777166b6e4699183cf24aad1": "qstat 2.11",
+    "99a52200157418ee1b3c75e04cfba5bca2517b1e": "serf 1.1.0",
+    "e4fc8f9da9f9f887bc871f6574acf601502aa2df": "arping 2.11 and remove patch",
+    "e2422321178d241cad114154b51590913bf47387": "arping: remove no-op inreplace",
+    "a6f7204c553fcc39478e9bf521c64a4702a8d5f9": "Remove redundant version numbers",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "8e5906bd2c75f168f72be637afb859f3c1581683": "New formula for arping 2.09"
+}

@@ -1,0 +1,23 @@
+{
+    "0c6e77fcfe840aaa3c67d1d7e273f459650a2a85": "libyubikey: remove references to pre-Mavericks.",
+    "3b0757fbafc4b7749caec71a45c0fefc61761a4a": "libyubikey: update 1.13 bottle.",
+    "a22b92ba342556defaf585162c1aa208ff8e412f": "libyubikey: update 1.13 bottle.",
+    "1526bcfc0bc4d7d6c870919c8aa7e1affcfd8856": "libyubikey: drop universal",
+    "c8d1f65df14aafbb23e7c6e2888b554765de4fdc": "libyubikey: update 1.13 bottle.",
+    "75f506272b533326bfcdfafb32210976f2de5e03": "libyubikey: update 1.13 bottle.",
+    "debd89f560ecd75c57bbd62e42e535406298603d": "libyubikey: update 1.13 bottle.",
+    "fc584eefb2a1c8c2ede013e13e9b97b83ea909ca": "libyubikey 1.13",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5b00e6a367f9b152426f63c8c404d56a4bb0a37c": "libyubikey: strict audit updates",
+    "f663ff470e745ca3fc7c1bac4bd4c75e1f4eae48": "libyubikey: update 1.12 bottle.",
+    "c6e586ac965ef710d62856986862c32fe3fbe1d5": "libyubikey 1.12",
+    "fc33d32ed163340f94126ef60003e9bdc190abc6": "libyubikey: update 1.11 bottle.",
+    "6e60de857c4b072cfba3c10ba047142d69adf824": "libyubikey: add 1.11 bottle.",
+    "de5dd646e10d78f09edf008e438d41706fe44c36": "Add universal option to pam_yubico and its dependencies",
+    "6dfd930649647c4fa33ec082b9c585f2163aafdb": "libyubikey 1.11",
+    "e219ed60528efc050f51630ac6d35f6b9773e334": "libyubikey: update download link",
+    "b3cd247dd3b35c78026a95242222e0a7680baddf": "libyubikey 1.10",
+    "23e9a670caf3e33d76a1f4d9ac81045684bee4b5": "libyubikey 1.9",
+    "f9fcff976ea8c937150d9e51db0891c6d05edfee": "libyubikey 1.8",
+    "dcb3d9500cbb0809742d0348a2a4e3695ba720f8": "Yubikey tools: libyubikey, ykclient, ykpers"
+}

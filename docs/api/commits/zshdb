@@ -1,0 +1,19 @@
+{
+    "b3d3caad2eadedeeed9eaf933fd4e8453435a24a": "zshdb: update 0.92 bottle.",
+    "5fddf3d18291ea76e344f08dfea7941586a4714e": "zshdb: update 0.92 bottle.",
+    "9e693acc224a440e501535408180abcd15b3ad44": "zshdb: fix build for recent zsh",
+    "50b375de7d88042ac57c9ecdbdd88b5382ad2e05": "zshdb: update 0.92 bottle.",
+    "9740cfd5eb1a8fd43a301e3a3762af7f21c53d9d": "zshdb: update 0.92 bottle.",
+    "6812479a9cdb0a6fb76accdf9a9da45e42d03c84": "zshdb 0.92",
+    "01e1b9afa7594551fc7bf4ea98a8a3077bd2f61d": "zshdb: update 0.09 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d94abc132f3dd335cca06c66f78555f1a11d2012": "zshdb: add 0.09 bottle.",
+    "e6b061baa288a54d519d28c3aecd2942cbc7a779": "zshdb 0.09",
+    "03d94ad114ff93bf9e67a0f380e47452ba2f413c": "zshdb: modernize + test",
+    "268adcea54bdc2faaf8cd12b292698787070b272": "zshdb: modernize autotools deps",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "6280365e0d208f55f478ff1cec4b83e0b5677706": "zshdb: use spec deps",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "a3ea84303087159271154117adb093b04ee9c1b8": "New formula: zshdb"
+}

@@ -1,0 +1,23 @@
+{
+    "8db315e2a303154faec59b349fffe815bb6cecac": "sjk 0.10.1 (#28630)",
+    "75d96ff10af919afd711ce13b88661bec6e1b82a": "sjk 0.10 (#28357)",
+    "06ba7ff0195adc93baff16a48ce9f1927b4069ec": "sjk 0.9.3 (#25990)",
+    "87a824b836e031a19faed35dc2572346c2a5819d": "sjk 0.9.2",
+    "25ed0179ae76acdad3467f4782390fb225aae714": "sjk 0.9.1 (#22605)",
+    "3b0d8d0b34fa6d2d2321e2fb4c9e055f74b1f8eb": "sjk 0.9 (#22110)",
+    "82a1a0a38a719a5c4e4d8fabf86ffe471a8b7258": "sjk 0.8.1 (#20561)",
+    "1b7b578091290da7538b507ae024fdc9527fff77": "sjk 0.8 (#16463)",
+    "f12c0ace7643aa894918e3849f4aa4ee51ccb976": "sjk 0.7 (#15998)",
+    "9d12ceafc07bed7d0d3f8f94baaf9fba920c5b13": "sjk 0.6 (#14225)",
+    "d892840eb64a2ea9245de123971ed178629de6ce": "sjk: update 0.5.1_1 bottle.",
+    "9a77700835d66189048d068c93ecb9a617b2c833": "sjk: revision to regenerate bottles",
+    "3726d8e36517592f2773fbf3056ee16c5ce5fbf3": "sjk 0.5.1 (#11264)",
+    "4a8cc223f527e8805b75e493f6a9bdce77ff1976": "sjk: update 0.5 bottle.",
+    "afc3ea8c693a529a029b7df0810b0bf310cb3284": "sjk 0.5",
+    "d9aa40a9be70d11273eee515263df1557a7ca7ba": "sjk: add 0.4.4 bottle.",
+    "0741c58af307f88c33c51256dacc5f67bf46cf42": "sjk 0.4.4",
+    "392c30fc1c5981ce53bf1f944614359645e03228": "sjk 0.4.3",
+    "0a26d47a7ea4f3dff1a7c8ec8447baed0451f69b": "sjk 0.4.2",
+    "436dcb12203ccf3505d98c6dfed8e9e91918556d": "sjk: bottle unneeded",
+    "e54271fd8ea4b4eb7a3aa467415aa4ec5da242f1": "sjk 0.3.6 (new formula)"
+}

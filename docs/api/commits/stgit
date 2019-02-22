@@ -1,0 +1,20 @@
+{
+    "4634940d32cfc26d6f45a588fe417850b1db1e7e": "stgit: update 0.19 bottle.",
+    "3c4cc597acdb161ca16fe1a1b30e9822f180fcfb": "stgit 0.19",
+    "b54aae21c7bfb9bd9a6be72f5ea864c09f7fb467": "stgit: update 0.18 bottle.",
+    "322cc3f470493ac11f0d244bad7684406ef0c26a": "stgit: update 0.18 bottle.",
+    "ca180739133babc0be5d6b583745c053c0a2864d": "stgit: update 0.18 bottle.",
+    "5c02815c16aa60c38a6f83c1489cf3c5611667fe": "stgit 0.18",
+    "39346ffdb9c382ed1d4d556033fc2ce33e58f4b0": "stgit: update 0.17.1 bottle.",
+    "fd41c03bbcd26c41ea50e96cc4546bc282e23bb4": "stgit: add 0.17.1 bottle.",
+    "9d4065510e0773092459f5098c09b6a9dbb581f8": "stgit: use https homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d9bb6e6be56676d9b2b2ef46ec71ba10adbf78f1": "stgit: don't depend on :python.",
+    "f7e3bf4105f0e3102fe4b30e5e6505052f48a1ab": "stgit: add test.",
+    "de6973f5ff0c96ef6ee2af0e64d5cec1220a9664": "stgit 0.17.1",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c396c7d74c1f1fd217a283a3fa0efb079bddefdd": "stgit 0.16",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "661f7c7f56667ea46dba1a9f92c980ff7613a921": "Formula: stgit"
+}

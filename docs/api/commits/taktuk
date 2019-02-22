@@ -1,0 +1,16 @@
+{
+    "fab043f026de25939e8d998e74b5ee9bfdc8a439": "taktuk: update 3.7.7 bottle.",
+    "941811dd25b7083efcceb3b3ded02f440d469b58": "taktuk: update 3.7.7 bottle.",
+    "b9d31104ab742a8b47c9ab2b1b32b370a2bd510f": "taktuk 3.7.7",
+    "c2025cba9281ff3bea46aeac894939bc0a899326": "taktuk: update 3.7.5 bottle.",
+    "8ef1cf346d043fd4aca5276845d3adc72faab715": "taktuk: use ENV.deparallelize.",
+    "230b86c122122a833bfecb771efc75c300e75ad6": "taktuk: update 3.7.5 bottle.",
+    "7f651aea5e3c347ecf9d6147778c36e117d8690c": "taktuk: update 3.7.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "de1f0c60e4e1cbd7d88b7a6e95c840dabfd79463": "taktuk: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2abe84bcd3fc243950ad588a83cd6ecbf7b6584d": "taktuk: add 3.7.5 bottle.",
+    "c419156177d30ab45b65ce77db95ef9076d6400e": "taktuk 3.7.5",
+    "f6886f48f50d78ddd4d8125bc6ada3867116f86f": "taktuk 3.7.4"
+}

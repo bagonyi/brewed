@@ -1,0 +1,14 @@
+{
+    "cb70c6e1480ae4d173d2662c2f7e5f6cc4cc67dd": "snobol4: add secure mirror(s)",
+    "d9bbf460080d576658d390d57d2edc6e5b78ae2c": "snobol4: update 1.5 bottle.",
+    "6611972919d855367fcaa715c906b4ab852442c5": "snobol4: update 1.5 bottle.",
+    "6f6040f45a48f04012a9ea15c40b4b5d486bf1c7": "snobol4: fix audit --strict",
+    "bcc2c1522b6f8ffdeabd8aa6307b2f8db7f6e809": "snobol4: update 1.5 bottle.",
+    "a0568e21299f152d07c07826b5b4f097e20ef867": "snobol4: add 1.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8ab0c6dae60121e0e13ab5077b8431271d0fb799": "snobol4 1.5",
+    "d0bc16132dec7e941bf1daa61d8312df6abbcfaa": "snobol4 1.4.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "58e309a8a7575037e5365930165815ffa941766e": "Add formula for SNOBOL4."
+}

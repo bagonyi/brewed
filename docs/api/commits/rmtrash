@@ -1,0 +1,16 @@
+{
+    "eab4c53eea28f3560da34f709f42f4eb24910469": "rmtrash: update 0.3.3 bottle.",
+    "7b6b2e92ae3faa9f419586f49a0f9dec317a5bf9": "rmtrash: update 0.3.3 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "20e2757ede649fb59fb084a1d41d65ca4a7c5562": "rmtrash: update 0.3.3 bottle.",
+    "b1c48967f7b7d848365ac729f5c25ded27eaa0be": "rmtrash: update 0.3.3 bottle.",
+    "bdd0e796bba109405a56d5485507ed48571cdbc3": "rmtrash: audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5928fc7f3985d2d1bf90a3ae25abae9db5b4f69f": "rmtrash: add 0.3.3 bottle.",
+    "75f6107316e65651b79d5e3d9d9d20b7e96ec4d4": "rmtrash: basic test added",
+    "f6f20dbf3852ef8f4b47f642f34cff7a1b00ab91": "rmtrash: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2c1243c03701eb6fd09275cb6ee719eb545e9a3e": "rmtrash - use gzip and explicit names",
+    "4b3ff2ec820d9b5fdaae044158dfb3d41b038671": "New formula: rmtrash"
+}

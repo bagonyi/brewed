@@ -1,0 +1,18 @@
+{
+    "d0b874243c31485ef6f8c915ded221bf84dc21ce": "ape: remove references to pre-Mavericks.",
+    "df61dc9dfddbbe08794b558b55aa2bdee5eec9ad": "ape: remove checks for old compilers.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b7d763a84d668220c124d62d568f4885e103d1db": "ape: update 1.1.2 bottle.",
+    "ed822546bdfdb3dbbd0551ba059f8c3b0389ce46": "ape: update 1.1.2 bottle.",
+    "195e43b4c049206ecfa7a9d0fba9a291a8834e40": "ape: update 1.1.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b65d1ad2acb0e7c88822ec2fc33f590f3616a28e": "ape: add 1.1.2 bottle.",
+    "b64bcc446880fc535f6d0f7506d2cccae3a79a50": "ape: audit red-flag fix",
+    "141fb0924d546002887aaa918f4151ad32108974": "ape 1.1.2",
+    "656c8136b381c81f69bcaa2c1cbab19f956ae370": "ape fails with clang",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "b46ba5a7f3224295c4729c6263a0ccf69c8c5ef6": "APE 1.1.0"
+}

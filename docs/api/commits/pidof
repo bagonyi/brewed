@@ -1,0 +1,20 @@
+{
+    "de953d00e7a4a160bbed407f4a815b0caca3e240": "pidof: remove references to pre-Mavericks.",
+    "ead48d2f33b1880be5aa9e02aaa92833ce5570ca": "pidof: update 0.1.4 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "020c6d3d62ff4bd39d5f3d5042ec4df6661bf83a": "pidof: update 0.1.4 bottle.",
+    "325e5ee397daf6bc6d286622069481f47ace3f8c": "pidof: add test",
+    "b6fc7d6f6f84b0b9a49de5c37aaeb44ad3259255": "pidof: update 0.1.4 bottle.",
+    "0da8e15a5895b3b5a87f24648dca416a356c6405": "pidof: audit fixes",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "44504cfcfff9554ce9df8059c4ec7167d34ca57f": "pidof: update 0.1.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7c8b3eed8fc8b9c3a59ae3933c481770490bc55b": "pidof: add 10.9 bottle",
+    "5eac9047db4dee6d0d6c8285ae9f16029e73b60b": "Temporarily disable cellar :any",
+    "5f5b48a157eb16d0fca2a4bbb310ede60d197deb": "pidof: update bottle",
+    "3f7b1348a6757a3122f2aa0c98ad44331831e8ff": "pidof: add bottles.",
+    "d55eb02400180512d3e4ff263d1918ba75375c82": "pidof: use the right compiler",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8d3328553d75892d39ff842260af6b5301ea5bd8": "New formula: pidof"
+}

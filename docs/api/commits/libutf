@@ -1,0 +1,17 @@
+{
+    "5d02a0684d627b3579e09a2ecce507848d861eb3": "libutf: secure/fix url(s)",
+    "3face6129376059ab2654a8e4167cc3f0089abd6": "libutf: update 20110530 bottle.",
+    "d7f13d838d68afc747377fdc26a283f16c1f88c6": "libutf: update 20110530 bottle.",
+    "33aeb27470b7e26a468baaca55bbbc8a8f910276": "libutf: add mirror",
+    "b82c1ef14432f16c915b14d1b133d1d0742dd251": "libutf: update 20110530 bottle.",
+    "7725f4ed53427ba6589c193b42c31268fe414a7b": "libutf: update 20110530 bottle.",
+    "96e060bcf48196bf7fae865d7e7e4b9aa01854b3": "libutf: use https homepage",
+    "1e9754a501ce3265e63332bf9557b9197a55a35a": "libutf: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5aee7c473b4b43cfddf7d7425b14ce4f083da00a": "libutf: update 20110530 bottle.",
+    "e6a2fee9efd527ebb95fe089144b336b58f0caff": "libutf: add 20110530 bottle.",
+    "bc928e63e5decbf58b6677cb5a79bf7784f30974": "libutf: Use 32bit Makefile",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "40db008ec0434916a35ec3f36bc1d1b831116d9b": "New formula: libutf"
+}

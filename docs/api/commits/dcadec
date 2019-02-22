@@ -1,0 +1,14 @@
+{
+    "3b7da7ea228d6d34c8841116480d44d38c3b9583": "dcadec: fix RuboCop Layout/AlignHash.",
+    "0a42cf5e6b4102d3935834290ed656724f3c6d6c": "dcadec: fix tag/revision indentation",
+    "c4ea1a7183308253938e7b8ce8972c47a7a5fefd": "dcadec: update 0.2.0 bottle.",
+    "37c203db81a2580df88a977292a4928773f624ac": "dcadec: update 0.2.0 bottle.",
+    "cfdbd0635f6569e00ad685c8c82718f9a670bd37": "dcadec: fix test undefined method cached_download (#10667)",
+    "161a9e6cbf93d3fdd077fa122892b6efd79e7f53": "dcadec: update 0.2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "51077f3143fe099c1e7fc70c1d64a34de204f8c9": "dcadec: update 0.2.0 bottle.",
+    "08976b2626c354186d9f16462def7628e088e7b6": "dcadec 0.2.0",
+    "ea45597c34c0fff70ce332e05e37c9546d021225": "dcadec: add 0.1.0 bottle.",
+    "c0c0ff8c148796ad701e6167dd940d3d7849b028": "dcadec 0.1.0 (new formula)"
+}

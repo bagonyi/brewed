@@ -1,0 +1,13 @@
+{
+    "b8ea6aa5cb60441adc7328b566253755298e3323": "rack: fix RuboCop Layout/AlignHash.",
+    "547493591dff4e00e42cce4a01777f1af7e727bf": "rack: update 1.2 bottle.",
+    "538fb62cef16179719e5b8973ab01267750295e4": "rack: update 1.2 bottle.",
+    "4c4d87bd154c527f89fac3a17979506545b86510": "rack: update 1.2 bottle.",
+    "886d0f8786617d3f97d879f1e03e72ef14b07cdb": "rack: fix build",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e4582576cdb9030561d5f55d649bf0b614e5b4ee": "rack: update 1.2 bottle.",
+    "f8282af4fdace29c07747bfec7a23c596b778ba8": "rack 1.2",
+    "ed2df1ff358e4ff69dd342ba73622f54f8dcaf36": "rack: add 1.0.1 bottle.",
+    "062a8acbc46c5691c3d4a457861fc5cdc98bd30f": "rack 1.0.1 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "10adc91b45fd3bb7d855b029b618e0a450565e62": "boost-python3: remove checks for old compilers.",
+    "fd46a748c758bca643d4c75139d09416e6f86515": "boost-python3: update 1.68.0 bottle.",
+    "7c4045c70775d2e200a2467f8fa18ed330c93843": "boost-python3 1.68.0",
+    "c0cae1c445f21bc3504120f3624a5439711a7b72": "boost-python3: fix component order",
+    "d889420e9cb1a561718eb54bd87296c486fc7a64": "boost-python3: update 1.67.0_1 bottle.",
+    "5b153d98afb18114d99fd137d50c3a28bb1b9e06": "boost-python3: update 1.67.0_1 bottle.",
+    "b9c85028f54ce2dcf6f4d735cdd7852bf0b22e91": "boost-python3: revision for python",
+    "92b5dc46a0385f8f5aaad12b0af2a599b507df63": "boost-python3: update 1.67.0 bottle.",
+    "333a3293ed45c918272e248ef133838b2d7e6c61": "boost-python3 1.67.0",
+    "b0c5a70480275b90cc0b74fdd691b0c0030bcac4": "boost-python3: update 1.66.0_1 bottle.",
+    "4f8c7fddcc011d8a925ffd24941d8cddf2d2ccf5": "boost-python3: rename python dependency",
+    "6da561b8f15c3ed99787638d3a36918e6c740755": "boost-python3: add 1.66.0 bottle.",
+    "dfc7c6b8480267f4c056ed264f33124171080149": "boost-python3 1.66.0 (new formula)"
+}

@@ -1,0 +1,10 @@
+{
+    "12dece071ba9b69fda386b92ca8d0d41ac1ef383": "mysql-utilities: add Python 2 comment",
+    "b457822d0cb36434f2a755254f0276ec94252711": "mysql-utilities: update 1.6.5 bottle.",
+    "f7a8def9c1b045081d885f957695a5d671350de5": "mysql-utilities: depend on python@2",
+    "4b2c7f032cf94ac576839e60b49afb0d634a9242": "mysql-utilities: rename python@2 dependency",
+    "e8e3bc31d458c4f4c5c7422b5fc1242a0e235ed2": "mysql-utilities: depend on python instead of :python",
+    "a547c38996546c9912871d870c14f474eebd3f97": "mysql-utilities: update 1.6.5 bottle.",
+    "78474447d09a8ca4afd68b76cd03a077e7936e96": "mysql-utilities: add 1.6.5 bottle.",
+    "b3b1539f6634d0f64eba152577e52661394bd32f": "mysql-utilities 1.6.5 (new formula)"
+}

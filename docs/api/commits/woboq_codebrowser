@@ -1,0 +1,17 @@
+{
+    "295ebc9e080b4c91da7ff555d2634c890ce387ef": "woboq_codebrowser: update 2.1_3 bottle.",
+    "82286850a0fb55d5662204b375cd938670d9ff9f": "woboq_codebrowser: use llvm@6, fix test",
+    "34ae2ef93b67949fde05e9e5ea20f53638598a88": "woboq_codebrowser: reduce maximum line length",
+    "654619b9a8539cfa4b320001470abbf00d14acf9": "woboq_codebrowser: update 2.1_2 bottle.",
+    "df91eceb7b18d09d081f065c1837a693fbd66608": "woboq_codebrowser: update 2.1_2 bottle.",
+    "2c739d11a312b6a3957b8a9f77231c48afe38662": "woboq_codebrowser: revision for llvm",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "cc4c9206b31f7c9754040815f0e139cf1b8bb33c": "woboq_codebrowser: use assert_predicate instead of File.exist?",
+    "85a2d90148ca2ef48120e10987f911cb6b2b59f5": "woboq_codebrowser: update 2.1_1 bottle.",
+    "533fc5e5977517831126b1c98732d042ce5db502": "woboq_codebrowser: update 2.1_1 bottle.",
+    "c228423ed831f59f630f4b8c4ed2553827b661e5": "woboq_codebrowser: revision for llvm",
+    "6dc02f05add7cb42a42a62083ac0b701943f5309": "woboq_codebrowser: update 2.1 bottle.",
+    "846def6f1909773fd03d544072a120762ed192a9": "woboq_codebrowser 2.1",
+    "8d3a64d2fbdf00dd147632a0882b10ba42a85259": "woboq_codebrowser: add 2.0.1 bottle.",
+    "7f3c692ac4c6b3d53da611182ca37c1320fb08c5": "woboq_codebrowser 2.0.1 (new formula)"
+}

@@ -1,0 +1,14 @@
+{
+    "eb9598867c7ddead2b9f03befd3114c7e0babf70": "rest-shell: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "2359872eb769787c0378bb7e78ad88de4a0acb43": "rest-shell: update url",
+    "027e2df8a49e99d830f88a65bbc924aead02bb2e": "rest-shell: update URLs",
+    "ba94c29eee62f3f9bc10bc8e837d3ab181176432": "rest-shell 1.2.1.RELEASE",
+    "567e26191ac80801391b8f4169c1a653c926ae08": "rest-shell 1.2.0.RELEASE",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "dc3ee6937b6bad74261c1b0b34eca4e3a20d7a75": "rest-shell 1.1.4",
+    "05d107684d42ee199e9cec75aed93be3e539f261": "rest-shell 1.1.3",
+    "aa42885c9723de8614d06c99dc258bd4737ffb32": "rest-shell 1.1.2"
+}

@@ -1,0 +1,16 @@
+{
+    "0b7187fd6da1caa7e24def418b668f8315737dd8": "opencsg: update 1.4.2_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "cc34b546befedfc7af527a28b2970cc3da60237b": "opencsg: update 1.4.2_1 bottle.",
+    "fcf1be470a72beb28a8abf4b53952e1a17240334": "opencsg: update 1.4.2_1 bottle.",
+    "a22897c40ac91b93f9da4f29d4a3745397ac0ada": "opencsg: revision for glew",
+    "e85747d7981b9b7ff76e9df1a3ac8b4bcac6d3c9": "opencsg: update 1.4.2 bottle.",
+    "571a6f939d7f88c08727823c2990a6bf1e635527": "opencsg: rename qt5 to qt.",
+    "6dfa22fcbeca7a4e750f5cccec2272bdf8905f31": "opencsg: update 1.4.2 bottle.",
+    "f27b769d30dd60ef3a5883bbade2283bdd632da6": "opencsg: update 1.4.2 bottle.",
+    "5f96c3f66ccf675afdfd8f6eac03e52f9858d41d": "OpenCSG 1.4.2",
+    "e5cec7f1064d2d688a7b8415939724e7a892b014": "opencsg: update 1.4.0_1 bottle.",
+    "826999a95dfeda72044f89cc12bea8ebb273b839": "opencsg: revision for glew",
+    "4dfd8037a08e71e5e31cc31146cf8ca968d720ce": "opencsg: add 1.4.0 bottle.",
+    "d0892cfa95fb3b53085d5aea9698801a28d5b70c": "opencsg 1.4.0 (new formula)"
+}

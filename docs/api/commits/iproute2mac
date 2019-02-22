@@ -1,0 +1,14 @@
+{
+    "84a58862d076dd65b1a041da5741defc2587167a": "iproute2mac 1.2.2 (#33245)",
+    "7a733138263e303978662507cfdfe62e6d784467": "iproute2mac: use system python",
+    "b194f2b40a96f3a5d9e7179a68a1774cd7ff93b2": "iproute2mac: depend on python@2",
+    "96616521780d08a469927566386b5440b044e0ce": "iproute2mac: rename python@2 dependency",
+    "d1342a4440d790840bcf519dc552b83b5de45a48": "iproute2mac: depend on python instead of :python",
+    "a6c5176de0efde0bbb3d45c3c780824aac00cb67": "iproute2mac 1.2.1 (#12764)",
+    "27a6f377b2dfa714ecb61e0379e040036d6838b7": "iproute2mac 1.1.2 (#12503)",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "c81b80293d49a408c472e7b5ed63f2f806a32af7": "iproute2mac 1.1.1 (#1691)",
+    "045789797b47f93d82c6879879f4db6dc8b95ad0": "iproute2mac: use secure url",
+    "a97b1cbc4dac7eb1f6d811142a3b1ee1defa6c36": "iproute2mac: bottle unneeded",
+    "b8308c47e3477abbc482206840426a399fd8778e": "iproute2mac 1.1.0 (new formula)"
+}

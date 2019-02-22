@@ -1,0 +1,18 @@
+{
+    "11cbbe177a8ad5c5914a6d0628e3b1aca67ff64c": "mp3wrap: update 0.5 bottle.",
+    "fc5feda951d45d6c2fe2a5c95155fe5711f8e367": "mp3wrap: use assert_predicate instead of File.exist?",
+    "e57339f079fb59b90e63ca210cf7865d31e02744": "mp3wrap: update 0.5 bottle.",
+    "be744da34cbd7d19ba1c8549a684f071f4f87b48": "mp3wrap: fix audit --warning",
+    "67286057383fea7d11e50a547a3a9a74be04ac1a": "mp3wrap: update 0.5 bottle.",
+    "f4be0385d0e5982536715228a2043deac5fcc744": "mp3wrap: update 0.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "099285fcef4935a8b54179fd38c1bc6b44c749c3": "mp3wrap: test added",
+    "3c189bfa4c1b4fcddbb333b3ddab6c807da6523d": "mp3wrap: add 0.5 bottle.",
+    "bd9a0087cf8d6cb28ae43594fd6e8ab96ed0c5a1": "mp3wrap: update URL.",
+    "950dc1c16d41ae52b3da1302a3244cdd1a571ff4": "mp3wrap: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4547422eb37a501e120b3726c2dcf10a8e1283b7": "New formula - mp3wrap"
+}

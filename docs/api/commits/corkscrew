@@ -1,0 +1,20 @@
+{
+    "04ef8887239249331d708da587425f26f4127be6": "corkscrew: remove references to pre-Mavericks.",
+    "ce0953b68966d34293bedcea0c66223c1338ed80": "corkscrew: update 2.0 bottle.",
+    "0724c9fb818b642d5d0b0effd85b56b1b79b1b5e": "corkscrew: update 2.0 bottle.",
+    "4c174ed778c83444ee4a7998de88df3694b64691": "corkscrew: use Debian for homepage and url (#14364)",
+    "839d647ea0cc05132a7c53b8b503f478e4688a6d": "corkscrew: update 2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2ca31aaa3fee10af280b448d074c49c5ffa9077b": "corkscrew: update 2.0 bottle.",
+    "21ee3a6a6337c269998a7d0fe1854430a5bc3fac": "corkscrew: add 2.0 bottle.",
+    "bc9de40f0e14013bb53e4f3b25d5c80ce2ca88cf": "corkscrew: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "76021a837987c4ba008bdacdb0deeaaf995eccad": "Provide compatibility with libtool 2.4.2 and 2.4.3+",
+    "36acb362021e5aec4d71312a0eae5400dadfde8e": "corkscrew: copy new config.guess from libtool",
+    "8e1de501a1328c0785ffe59fac12cf0423d0ac18": "corkscrew: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9e2cfe703cc3a747dc53eac0e2997da8ddd98915": "corkscrew"
+}

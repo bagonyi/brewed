@@ -1,0 +1,17 @@
+{
+    "8c130e58ad5f05a3265cc556155c213ee113916e": "jdnssec-tools: update 0.14 bottle.",
+    "5023500e7770fa4ddbf0f6716f086df92ab8f020": "jdnssec-tools 0.14",
+    "e2a08c3a7c89591d7d24a2adaad85ef7f1164978": "jdnssec-tools: update 0.13 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "11b15a290162439dcaacc5e13d05ccd0f6889912": "jdnssec-tools: update 0.13 bottle.",
+    "26311985614bd0ec52b384ac4f41d173793f2d9f": "jdnssec-tools: add a comma after the last parameter of a multiline method call (#10976)",
+    "48a15f61cf5e569cd9844d9ee51de62fb01a2031": "jdnssec-tools: update 0.13 bottle.",
+    "6ca1c3b32799f9530fe4f640b3f4c5ceca8dacd0": "jdnssec-tools 0.13",
+    "c86ec59447be94cf738d82cd56442b3a28cb4b2c": "jdnssec-tools: update 0.12 bottle.",
+    "81a388329079f64936f374ef0732fd25dcf6ee3a": "Fix 'inreplace ... do' single-substitution errors (#4022)",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "257b588ffa9077eb70c94bee95a0dbb3630a1576": "jdnssec-tools: update 0.12 bottle.",
+    "3896c925810ab187d4fa0d867b3ff4cc2a4bd182": "jdnssec-tools: use https urls, add head",
+    "f8893129897fe588f10ca359be2edaccffc96c06": "jdnssec-tools: add 0.12 bottle.",
+    "470eaf134e1d5b3b7fb8bc9c661f1ee9b0b152c0": "jdnssec-tools 0.12"
+}

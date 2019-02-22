@@ -1,0 +1,18 @@
+{
+    "127d496e20d618309e37e75b0de695d2023165e2": "wla-dx: update 9.7 bottle.",
+    "d9966e6057520d4e807a761252f4fd803a432c17": "wla-dx: update 9.7 bottle.",
+    "249492dad40b59f4d3ddc9cfc2e4bac86400537c": "wla-dx 9.7",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "53421c57ab1ce7574b7284fd02f6b9e178d74e19": "wla-dx: update 9.6 bottle.",
+    "56bcd5f58cab86eea7bc2b0c27cc278f5052bb65": "wla-dx: fix head (#13529)",
+    "f209cb8610f5eee5429c89223ee5a71a9337018f": "wla-dx: update 9.6 bottle.",
+    "6554b327c7501b417020a41af568fd3c5e451d0d": "wla-dx: update 9.6 bottle.",
+    "087cf659053aa626e1144a4bc10835942a5c9311": "wla-dx: fix style nits",
+    "0a4206382ce8ea1a6c618d433f518efca283e9ac": "wla-dx: add 9.6 bottle.",
+    "f75b9a7fc5848149269958b7d40ac49d697e6583": "wla-dx 9.6",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "03bb689469ead43af1a0d0e2fc6fcbcf81d9075a": "wla-dx: fix version",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "29b5135906517b2bfe7bafc0891ee261e1f3d849": "WLA DX 9.5a"
+}

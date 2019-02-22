@@ -1,0 +1,5 @@
+{
+    "5e22ec16d3720ab5629d933f1f9c0ce63c799780": "pip-completion 20161126 (#34459)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "964e895de52c7276a21f4c75dfaf6f0c1e7cff85": "pip-completion: import from homebrew/completions."
+}

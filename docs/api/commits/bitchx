@@ -1,0 +1,22 @@
+{
+    "ad28f2507e68352f150857a36ac5db8caf5ea17b": "bitchx: remove references to pre-Mavericks.",
+    "06fe44d879f2dd86d98e9ca6399707e5c91e8056": "bitchx: update 1.2.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "eda18e40b7a53be713319701613efd6d0cff201a": "bitchx: update 1.2.1 bottle.",
+    "e0bedb0412fe9947843a1f7b40cc81fa8a9ee148": "bitchx: fix audit --warning",
+    "e419ca99028c6b09397fc512ef9743068bb56ca3": "bitchx: update 1.2.1 bottle.",
+    "c885bc8f27ed9fc74f277ebf6db670d0d483b937": "bitchx: update 1.2.1 bottle.",
+    "9bec4ecad9dc31d2fb7964b78f584d0b7a079fb9": "bitchx: audit fix",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "beb80e65a2b55d784490cc3c0f57f71c37ccce87": "bitchx: add 1.2.1 bottle.",
+    "c2898e9b98170d2d1f91db88010b40056cd713fe": "BitchX 1.2.1",
+    "2477ed3674697f64b1206dec8fa2a8a5073c9bfc": "bitchx: specify plugins to build",
+    "1bde0a07ea6f3dc4f11438c540b11af3f03fc9b5": "bitchx: add mirror",
+    "f60c4e50da5470242d5a359da17a0c5af2973f44": "bitchx: use full path of executable",
+    "2435af47ebedc8c784dcff39d600e98d117aad11": "bitchx: use patch DSL",
+    "664634fa1fc67f9c606810d8df6609a8cf68841d": "BitchX: patch for OS X",
+    "118a621e822a7b5221e661e940d237c7689b4f66": "bitchx 1.2"
+}

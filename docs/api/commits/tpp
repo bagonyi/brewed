@@ -1,0 +1,17 @@
+{
+    "46a82cb253bd502ea35789398bb13dba1dbe20e3": "tpp: remove options",
+    "e1f51a4895d28992f29d034c2360bb5194298ef3": "tpp: update 1.3.1 bottle.",
+    "3c1411b3a806fc1d3e48547cbe5e60e63251154a": "tpp: update 1.3.1 bottle.",
+    "f059629e971320d8125a5711030bf89dc516e867": "tpp: fix for Xcode 9",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "cdfd774a4ac9da375f99e810a6b53c9710fdd711": "tpp: canonicalize sf.net url",
+    "5d21b4af7c1ef599b488c25e2890dce55d7d249b": "tpp: update 1.3.1 bottle.",
+    "8a98cd60a9eaf39e1e3e8aa33177dd9f7a54c0aa": "tpp: add 1.3.1 bottle.",
+    "cd1d6d857923b355218c6fb4e1452aeafef370fa": "tpp: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "45ea7a8c54bea9aa11ecbd1c944a62bc8be563e6": "tpp: use assert_equal instead of assert with ==",
+    "a696982626027797bbd601191fbbea53db103063": "tpp 1.3.1 (new formula)"
+}

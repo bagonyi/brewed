@@ -1,0 +1,10 @@
+{
+    "11948bf14be1d446f69d4d465799f57d47ab294f": "pijul: update 0.11.0 bottle.",
+    "f04bae3d950eab5de356139758e6276f250b8760": "pijul 0.11.0",
+    "2e2b4cd96c902dbe7c80d62f666210af3c92469a": "pijul: update openssl env var and comment",
+    "ce72e9de35e99a9b53970eb86caa85eecd53f4ce": "pijul: use an ASCII comment.",
+    "a73420035f92454e74f1658b5896503468086f76": "pijul: avoid cargo deprecated syntax warning",
+    "f0c8132cc41f97e9172241e7a457b9b3e3b54f7f": "pijul: update 0.10.0 bottle.",
+    "be4989635b390603b302124e60b2c0b4ffa9ed81": "pijul: add 0.10.0 bottle.",
+    "72721454ceb1ce6db8e08ebc485dbd5c8f319248": "pijul 0.10.0 (new formula)"
+}

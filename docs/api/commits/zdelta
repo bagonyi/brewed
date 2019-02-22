@@ -1,0 +1,14 @@
+{
+    "dc223c18b99ddeabaa8db06cce00b67c09e46d1e": "zdelta: fix url(s)",
+    "4861414fabbec5a343cc6ffd5d028428901a2b05": "zdelta: update 2.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "65f7203bd57e0ac8290b7ccf7d43990dfcb4336b": "zdelta: update 2.1 bottle.",
+    "dc51822fbace188f8a9dbcfe1ed9c9b500ce8a21": "zdelta: update 2.1 bottle.",
+    "23778facaae7c69209d9f7c3ac9926618faf6a79": "zdelta: add 2.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5c980d17a9b4b1feb237e1abac2d86ba88d0e890": "zdelta: add test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5fe7eb7faf98f992c64c417b61f5360b286d4579": "zdelta: style nit-picks",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "5841f14d4cb877042d8b2a1fa2887993b96b2a7e": "New Formula: zdelta"
+}

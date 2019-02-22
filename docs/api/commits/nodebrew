@@ -1,0 +1,18 @@
+{
+    "65c745f3a60e4409db4e851b8ca2830c1dac5abb": "nodebrew 1.0.1",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "29c31ee8f7fd23deb3bedec28c795a0c443f7d98": "nodebrew 1.0.0 (#25102)",
+    "60ae53735d2caa75b3903f62c898a2fcb4f18fac": "nodebrew 0.9.8 (#21162)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "df428eadc181c54816acf27e636f2e93162a81a8": "nodebrew: add caveat about setup_dirs (#16174)",
+    "5db707cd37f17c78d16af4adb811573ffc664aee": "nodebrew 0.9.7 (#12531)",
+    "7aa399ba3057c8cb766fbd64808d0dff732e9696": "nodebrew 0.9.6",
+    "8b465c1375d2fc89c5b3e2da1cc76e25caa2f919": "nodebrew 0.9.5",
+    "0caa3a440c4621c3d0fb557cc5459ecded30690b": "nodebrew: bottle unneeded",
+    "dd35322dd8f61b18d6e1ce2b4e801bddea47138d": "nodebrew 0.9.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fa63f339614a0750c8ce957c30742c9b86ac1f24": "nodebrew 0.8.1",
+    "647ae243a12b799415abb880804b4203ecf0aff0": "nodebrew 0.8.0",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "c3d6f13e3e096c7b2d6a6f5c5517afb3d29d2c38": "nodebrew 0.7.4 (new formula)"
+}

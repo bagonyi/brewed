@@ -1,0 +1,22 @@
+{
+    "78ba0ff081cde227561a8e55866ce834a8f643b7": "shmcat: remove options",
+    "5a635d6cddffb478f153ecb12855438de191f32e": "shmcat: update 1.9 bottle.",
+    "8beb80a7e40d5099050c8018eed527762ac7029b": "shmcat: update 1.9 bottle.",
+    "a3c71b549b0fe3e89e7ad028562eefbcc5773e2a": "shmcat 1.9",
+    "6f53811a083854241dc6fc001e97d0979b7d9ef9": "shmcat: update 1.8 bottle.",
+    "5257c7e42f09679fda926cca8c1441b5ce267f06": "shmcat: fix audit --warning",
+    "c57d62a5610de4f1e65d4dd272511fa6ded5fca5": "shmcat: update 1.8 bottle.",
+    "862bdf403570f8171d4895e69bd0850b1bfced18": "shmcat 1.8",
+    "bc9fc689bf18f37517c6558321a5349aa709bc34": "shmcat: update 1.7 bottle.",
+    "4be4aaaf8b8bcc01d68ec8dc853a3d42aaad6c74": "shmcat: update 1.7 bottle.",
+    "04bfc695b941d6bb4e4f40392179e66e6d6a0f74": "shmcat: add 1.7 bottle.",
+    "b2af2b091092730dc1658f5b7ba77e9a2fd979b9": "shmcat: use sha256",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "18313d4d2bf61b4390363bc9490df2adb2566f19": "shmcat 1.7",
+    "eefdf6b3f338f0212906515307b16b81098d736a": "formulae: fix with/without usage.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "d6b7008c7bbafbaca4ad38183891eec2ba615bba": "shmcat: use Formula[]",
+    "29ba485f0acef3911d6125209687feebc6152c36": "shmcat: fix audit warning",
+    "44923a125eedd6425042f132f2d1e6de37f7438a": "shmcat 1.6",
+    "bd05a53ef7029a93c887b2936976683226b04c6d": "shmcat 1.5"
+}

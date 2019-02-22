@@ -1,0 +1,16 @@
+{
+    "d25c8dc98c88afb4782669706bcc0dbb87f974c9": "sqliteodbc: secure url, fix/secure homepage",
+    "b9093140b73125ffbd01232648877d01218b24ed": "sqliteodbc: update 0.9996 bottle.",
+    "e7a5ec31fdb6dfb88f9b74cf25023a8b0916ab42": "sqliteodbc: fix install",
+    "803b7041b508f53b14323953b5bc1acdcc0aaa2a": "sqliteodbc: update 0.9996 bottle.",
+    "f7951236ab84dc4a3277f9fbc0e27a65784316e5": "sqliteodbc: update 0.9996 bottle.",
+    "0ea1fd68a9b4613b5d0d929cbe75459f0d360cc8": "sqliteodbc 0.9996",
+    "12766a841bf16c21203682d49df984ef0d39d76b": "sqliteodbc: update 0.9995 bottle.",
+    "d1e0cbc3ffc6c356d60bc130b0b66d40d593030c": "sqliteodbc: update 0.9995 bottle.",
+    "c5606f84e324bf42a0fe9355dc69f1172527392b": "sqliteodbc 0.9995",
+    "4b1b6b6766953067f371f826f411207aff1d9fff": "sqliteodbc: update 0.9992 bottle.",
+    "26220f59c5298e8b2965208212e1e49db71e03aa": "sqliteodbc: update 0.9992 bottle.",
+    "4fb08689c3db970582893bb11f39c31f5015d8a7": "sqliteodbc: fix finding unixodbc.",
+    "13a080e0fc4b6b870b6faecf9b3b57ea2a2945e2": "sqliteodbc: add 0.9992 bottle.",
+    "f1c146ab3f729fec259159f459a51b45e7057764": "sqliteodbc 0.9992 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "f8b58c6cc2baa8a93fbdf77fb760ba7f97497902": "kpcli: update 3.2_1 bottle.",
+    "4a46c6278ad95da4c30a59ed2f32e5ee915d2d92": "kpcli: revision for readline",
+    "5ba6f8306a40db798ac8e65f298cb5e2d210e246": "kpcli: update 3.2 bottle.",
+    "20e993067dbc657fa627ef049e4e14f178dc6e74": "kpcli: update 3.2 bottle.",
+    "a70ec221c6c6a629172bcc76ab20977eb52dc325": "kpcli 3.2",
+    "c9dc65e49d666e173eec2860e53cc4e94d8ff017": "kpcli: update 3.1_2 bottle.",
+    "b3b56d5a1761988238ddc9c1f5b509aaf78f2de4": "kpcli: make nonuniversal build",
+    "af0daaf319b17c6a3998c55b72b6bfc86e57d310": "kpcli: fix audit 'description must start with capital letter'",
+    "e9628f174ac248c0e4065e5d03b563869411263c": "kpcli: fix audit --warning",
+    "464fbe72e759a15675ffc3e1c37f767a2c533cdd": "kpcli: update 3.1_1 bottle.",
+    "fb6ca64837fbceb543b6c0cb5e0a258d15a1dd62": "kpcli: revision for readline",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "c5e8e93b3fec5e15bab8fbb1eb0a652cfc500a17": "kpcli: update 3.1 bottle.",
+    "c84580c9c4afa369b28e01d91c7fcc706973ae2c": "kpcli 3.1",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6d9e58ee5cec1eaa220f6e8ddd52b07481a6004e": "kpcli: call full path to executable in test",
+    "66b40372b0cfb18e50d405b9ad49300c3021aec8": "kpcli: add 3.0 bottle.",
+    "bd895c175ae06d91701d880e9e7fa7ac8ea2d29c": "kpcli 3.0 (new formula)"
+}

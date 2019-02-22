@@ -1,0 +1,14 @@
+{
+    "ed81d4998404c970ae3d97e85dcedaf10c130a33": "launch4j 3.12",
+    "65fc7e91cf388fea19c8c3751fc932052dd0b431": "launch4j: add test",
+    "7ddfd39fcdb92b188049c5ea34d84a326f91f222": "launch4j 3.11 (#15787)",
+    "7ab1dfdb3623e10f0e07c61c0634dfe91de9e60f": "launch4j: fix audit --warning",
+    "b19d7e5abaffb70dee05efe04db7584a081807a3": "launch4j 3.9",
+    "e3b6dcb85bd6cd86fb7d1ecb1c2aed3f87a387c1": "launch4j: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8317fcb33dc01db5e77b081270a76c5cebf2f522": "launch4j 3.5",
+    "be0d5a46a091e4ba7d184e1fdd65eebad345f412": "launch4j 3.4",
+    "2eed165c3f4f37c8ee09c48333232b72602fe714": "launch4j 3.3",
+    "fb5b93fad8c550b14b8c24482334fd0993b2c6ff": "launch4j support, properly this time remove extra space"
+}

@@ -1,0 +1,14 @@
+{
+    "2b4d65d6ce72011ff54482c571b227b2f0ae9d6a": "vcs: update 1.13.2 bottle.",
+    "0890578b77d17458b90917fa78af854c50af82dd": "vcs: remove options",
+    "579a72129856309153f36f9448420544c9559b88": "vcs: fix dependency order",
+    "23efab96bee4b20c2198554c1af41d184d27cbd3": "vcs: update 1.13.2 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "e146f39246315989b85837f12079b61014317449": "vcs: use assert_predicate",
+    "fb7a5cf1812bdcb742d3c507d4dbee861e15e50f": "vcs: update 1.13.2 bottle.",
+    "a86b7ed935c9aa96fd16012952c0cd68e7d94fca": "vcs: update test",
+    "f729aae654dd9695bb9040e2240ec4820c36acd2": "vcs: update 1.13.2 bottle.",
+    "4ceb3fbcf8ca44e6c36003a979284d710de79e78": "vcs: update 1.13.2 bottle.",
+    "3d1a0921e289e8834b9d3e7fd5b17a3befad04d9": "vcs: add 1.13.2 bottle.",
+    "dc3265fe1e89c8e336af059c1b003bc894cd5627": "vcs 1.13.2 (new formula)"
+}

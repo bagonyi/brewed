@@ -1,0 +1,20 @@
+{
+    "9c9ffe491f4d45e71c8e58c0761df2d6aa5f9b1d": "bvi: remove references to pre-Mavericks.",
+    "54aea0dd72d1849d4bf957d3ce4abc4aa4038106": "bvi: update 1.4.0 bottle.",
+    "daa9db86ff4ab8791b9593c8d1f1730e13b00a4c": "bvi: update 1.4.0 bottle.",
+    "b500917d69bb3bfde3380f6222b419be32c96871": "bvi: fix audit about sourceforge link",
+    "e95650a053077b61f39f88421b37e44851f05af6": "bvi: update 1.4.0 bottle.",
+    "894a322be669ae5c0a372868cc798abe9a120be9": "bvi: do not manually set TERM in test",
+    "c63c99d5bb179f613dd7865a5cd487850c8c6665": "bvi: update 1.4.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c8227356800b06efc45c0f08fa6bff5e32928679": "bvi: add 1.4.0 bottle.",
+    "59e78d82302b4a3097f4fdd7965543ad4185af04": "bvi: modernize, test added",
+    "a16281d936e5715312fb8b3e83cbd563d80ef382": "bvi 1.4.0",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "7a6049f5f203589f14a69fec0016620bf0ce7629": "bvi: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "aa1df559d2f41164942f922fe43d85610dd97076": "Normalize SourceForge urls",
+    "7278ab0da053bae1031d101194c76b99f2f0fa08": "add formula for bvi"
+}

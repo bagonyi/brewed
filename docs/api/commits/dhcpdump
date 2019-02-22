@@ -1,0 +1,13 @@
+{
+    "6a055f586762ad5829e035754430d6139e891ca5": "dhcpdump: remove references to pre-Mavericks.",
+    "3d7287594a1c347d7b5f4bae2a60f8bfa03de2d2": "dhcpdump: update 1.8 bottle.",
+    "015cfcaf1552f54e4672c7e4a5d264a0fe918340": "dhcpdump: secure url(s)",
+    "17c56ac444ff6be130507ad1718ba201b5d3e56c": "dhcpdump: update 1.8 bottle.",
+    "6123496e2a2cb77d686b3e45a71cd8bd4f08af9b": "dhcpdump: update 1.8 bottle.",
+    "988feabe515a608f9cd2428fbbc85b97bffa8bc3": "dhcpdump: update 1.8 bottle.",
+    "bb25894abac39793573b22b25070fc45c8a9aafe": "dhcpdump: add 1.8 bottle.",
+    "2089cfc008b40c311b2c26b4026370593193e4e5": "dhcpdump: add mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "dbb9d417d8923d46534d3d5aa46554ab8625396f": "dhcpdump: basic test added",
+    "b37259b6c984a1eca8cff80527c6796c49c2f28b": "dhcpdump 1.8"
+}

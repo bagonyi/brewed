@@ -1,0 +1,17 @@
+{
+    "916cc0e31cd44b48655c005004a90ca0243e7d07": "libsoxr: update 0.1.3 bottle.",
+    "a84e17e07b473ae3b77e04d95e8de2fb9237b5d2": "libsoxr: update 0.1.3 bottle.",
+    "12fde672cf8005497f1532c0dbfe27f61d3368f0": "libsoxr 0.1.3",
+    "fb2076aca8d0b3d645181b1cf45b47f309871177": "libsoxr: update 0.1.2 bottle.",
+    "df796df673543919be2414877439086e05125cca": "libsoxr: update 0.1.2 bottle.",
+    "a4273743a7f8ec8f898dd2d4991c6951f5e74ad2": "libsoxr: remove conflicts with sox",
+    "26c80bd0ee9d35fb20404cbf13e566bed6706ba4": "libsoxr: update 0.1.2 bottle.",
+    "693f9859315603d2636b6f7bc70988bc788364ef": "libsoxr 1.1.2",
+    "0e5e9c563a0b5bbd5601daecc49229f8df622a9e": "libsoxr: update 0.1.1 bottle.",
+    "118631cc14c6dacd67854f8f1407d3d438cdea26": "libsoxr: use secure homepage, update mirror",
+    "74ae02dadf1fa2dce9c65ca9918bf9c8fd8662d5": "libsoxr: update 0.1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3414b9d00b9838918d185f9e2a55631a1ea36aa1": "libsoxr: add 0.1.1 bottle.",
+    "b9e6e7532a418f0da5e2efb5b114ae6ce7361dde": "libsoxr 0.1.1 (new formula)"
+}

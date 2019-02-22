@@ -1,0 +1,20 @@
+{
+    "cec43de24376e47506d7a80df84b0d76f64e37d7": "dtach: update 0.9 bottle.",
+    "3c59b81007920af5b18930bf2c029cf0dcc25eb8": "dtach: update 0.9 bottle.",
+    "4c4c5852a6c69d7932d0fd938de9608f6f33fafc": "dtach: fix audit --warning",
+    "e622d842656f8286d3a8b59ff6197bca9ad9091b": "dtach: update 0.9 bottle.",
+    "05edb7860d14dab8c82f083e8352338bd7ad3176": "dtach: update 0.9 bottle.",
+    "d6f933922eb0ef4aec6fb21bf183450ed6cb7c08": "dtach 0.9",
+    "4b71d7cd4534cdb1df01002bfd0d61aa97e96ed6": "dtach: add 0.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "ae5276fee34ed54e7db0ee9fc71a5887c775b50b": "dterm: fix homepage",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a7a80ccb90d1a3fc2779370f1261fd0b0e8b368c": "Install manpage for formula: `dtach`.",
+    "69f013b55235e321a150a46f5a1095e6b4d5d472": "dtach detects ENV flags, so don't remove from Makefile",
+    "68121524d9989243ef021202b4ef2821784ceeee": "Fixes Homebrew/homebrew#534; typo shame",
+    "a65a359aaa299f7664531f2cc3c1fb14500c2eed": "Update dtach to use new inreplace.",
+    "9a6f81de284e14798a4c69afde5680a70d459308": "Add formula for dtach."
+}

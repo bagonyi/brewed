@@ -1,0 +1,19 @@
+{
+    "84b22c745c58fed15bc8d65320ce853cb58de1a8": "libmodplug: update 0.8.9.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bb22bde4c8ef0b8acb599759db0aa636640f43f7": "libmodplug: update 0.8.9.0 bottle.",
+    "e10c8ea657ea8a6ab2f299b4317433cf0a3ed72e": "libmodplug 0.8.9.0",
+    "6335824c213a2603ce0cf358f09abd48e29a5280": "libmodplug: update 0.8.8.5 bottle.",
+    "d95ce64a270748b5d38b319c379e819062e512f9": "libmodplug: fix test on 10.13",
+    "796d564ef96f636ed4d6cf5217d73e046df09a81": "libmodplug: fix audit --warning",
+    "f69d11f26ac2394be5d177413dd2d87c37c2f4cf": "libmodplug: update 0.8.8.5 bottle.",
+    "74d9b4ebc0497f6ca6641bc56929af1b19062e98": "libmodplug: use secure resource url",
+    "53f70ca2333e9a3eaac46f04144adef9fc40a3b8": "libmodplug: update 0.8.8.5 bottle.",
+    "af1451bfee5cfbcc308ffc7d9f902fc94cd61a6e": "libmodplug: audit fixes",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c3e807b334e7f92172b940331c959dab6c0b369f": "libmodplug: update 0.8.8.5 bottle.",
+    "c6890ff289c2386b3e1d2f9bb482ffaac5ba8976": "libmodplug: add 0.8.8.5 bottle.",
+    "76bb9d87c8111ff752454c27b89c3f61fc04ab02": "libmodplug 0.8.8.5 (new formula)"
+}

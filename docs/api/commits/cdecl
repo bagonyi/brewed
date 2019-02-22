@@ -1,0 +1,17 @@
+{
+    "63e978657cf9ef4afa7c72f10d0b9eb3a4b27b7d": "cdecl: update 2.5 bottle.",
+    "ee24c94e621eb659f8737d3fe0f2d3fcd7631bbc": "cdecl: update 2.5 bottle.",
+    "f659a7bc91513c2dfd7d2fb0e0f21f40130b47c8": "cdecl: secure url(s)",
+    "8a7d420f0de47b24cb4f992fab95b54a423f06c3": "cdecl: update 2.5 bottle.",
+    "aaa7fcd549d382de0c217a12862cde804a897a1b": "cdecl: add 2.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "b70f91ff4d2db27a68a3ff377ae6cb682839b73c": "cdecl: add test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "14a6d0e2ee64e51c6e4e975d85fe2715a6473bf3": "cdecl: needs -std=gnu89",
+    "f0f4f4188c7e901c866cc9a6e9cc30a59ba3a47a": "cdecl: avoid inreplace",
+    "0d567da312ae5ab2339e31229fd6d1c1303ea591": "cdecl: fix build on Lion",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "f7ee1daec7444d31683f245f4e57cc79115d3c2c": "new formula: cdecl"
+}

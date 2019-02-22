@@ -1,0 +1,10 @@
+{
+    "a7cbc65f41581b02abf5d6734507d4a0b565114f": "rbenv-whatis: depend on rbenv instead of :rbenv",
+    "e3bd635d2550f48cdc828802918f242af29ac1dd": "rbenv-whatis: use new rbenv dependency",
+    "ff95419715854d47b191308da7fb706f4bf6ff66": "rbenv-whatis: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "9c212a87b739076f6bea65f670d7c083c9fd8550": "rbenv-whatis 1.0.0",
+    "8f5949afd67ef90d4a0545337fee0a8cd323bf2e": "rbenv-use: fuzzy matching plugin for rbenv"
+}

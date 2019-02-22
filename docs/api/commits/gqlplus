@@ -1,0 +1,22 @@
+{
+    "7a462cf8fab39d9568b65b3dbc77fa6ff869b707": "gqlplus: update 1.16_2 bottle.",
+    "2c58e6c88ffd95999706722f0c85b0475d4e8931": "gqlplus: revision for readline",
+    "ef05fb19d971fcf758c01dfbfeaeb1c2f95e9787": "gqlplus: update 1.16_1 bottle.",
+    "093ad99a12eed2129da9b040ea92117160ec85e3": "gqlplus: update 1.16_1 bottle.",
+    "03d4a46c451b02f26edb39333a84ade923a69ce6": "gqlplus: fix audit --warning",
+    "9e095ac4501ee5ec59d18b34a55d6b4436fc0bb5": "gqlplus: update 1.16_1 bottle.",
+    "4bffe54a8ad0c4b9e87c5d02fc05c30fcd099f7d": "gqlplus: revision for readline",
+    "b8afccfa1c0a039f58dc3fed3556b389c3cf9152": "gqlplus: update 1.16 bottle.",
+    "5893444f1186810a5a2a0c0ce406bd30da283005": "gqlplus: update 1.16 bottle.",
+    "cacf39b7d4076a2d7e96fefc857641096757f0c6": "gqlplus 1.16",
+    "3a1430ff7ec054d27e0388484078a84021810c1b": "gqlplus: add 1.15 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "c997ad4ab9726cb42a0992048ca613ebfb657e83": "fix spacing",
+    "c649750739552b8b197dbf3ca23673f4a9f4fecd": "gqlplus 1.15",
+    "6eb5962e28c372db2a4949b2517fe94f8569690a": "gqlplus: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "efb9b10b1fb40784c8d7e23a1cceb4406eb6cf54": "New formula: gqlplus"
+}

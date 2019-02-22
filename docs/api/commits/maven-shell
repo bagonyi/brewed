@@ -1,0 +1,15 @@
+{
+    "e0bce6a66eb701666dbfc749a8fa7be47d0281c6": "maven-shell: secure/fix/follow url(s)",
+    "21292a26dceceb2422065e6103e4ec9afbc67a69": "maven-shell: use canonical maven.org URL",
+    "5293c096d86bbaf6821618598f7928287f099f4d": "maven-shell: bottle unneeded",
+    "0db332b5e94ceb0d4f86e37f18fb9f714c6ea547": "maven-shell: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "524c0c6646b0bcd246a8d1832db1690a2ab6865c": "maven-shell 1.1.0",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "32215410da155ccea0313b42805d88c686610273": "mavenshell: use install_symlink",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2f1e5b25a750b77af183f88e1af3ce3500dff616": "Maven Shell 1.0.1"
+}

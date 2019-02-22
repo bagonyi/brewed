@@ -1,0 +1,10 @@
+{
+    "7116c451c0684aee1cf5ac417045b45ef16fe373": "rssh: update 2.3.4 bottle.",
+    "8107998578b6f821eb61bf04fd3db1026077c1e3": "rssh: update 2.3.4 bottle.",
+    "120ac2a7c01c400ec8637b3d1f0122f3890f719e": "rssh: update 2.3.4 bottle.",
+    "fdbb0eb9db5cfa69d8270d5c9a109ffbf14e491c": "rssh: use secure url in comment",
+    "51177b0fbff9732aa20bfad6a57f0a3b7d37d002": "rssh: add 2.3.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8ac304acf665aa0b7e837059d3d8b7bda8bdb614": "rssh 2.3.4"
+}

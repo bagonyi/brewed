@@ -1,0 +1,20 @@
+{
+    "72f334cde11ebf9fb8e12b69612cceaf86a7984e": "csvprintf: update 1.0.4 bottle.",
+    "e81330415e1eec1f91a903ef86988ea4ce46f9da": "csvprintf: update 1.0.4 bottle.",
+    "806f5dea35b105753ecbb3e1f02f3482ff12b52d": "csvprintf 1.0.4",
+    "de91135c2384f8cc750da1150713bfb0a2e3acea": "csvprintf: update 1.0.3 bottle.",
+    "8634bae620c186098a66139fd5bde65bbf634b50": "csvprintf: update 1.0.3 bottle.",
+    "125670457ccb7bfbc6f9dc4faf34c91c800b03e7": "csvprintf: update 1.0.3 bottle.",
+    "d166b072d78c5db8188f860913eef0334befcdbe": "csvprintf: add 1.0.3 bottle.",
+    "28ca25e7fe502832a695e7651eebf71e442d90c7": "csvprintf: use GitHub tarball.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "4f3502783d77fd1d24b8101a729c3e033432f6b7": "csvprintf: add test",
+    "b92ca0ca9c27b16f4b85faedecf58f2cfbf7a949": "csvprintf 1.0.3",
+    "b82095e027864713af84da7c9c18dd33a5fa989c": "csvprintf 1.0.2",
+    "b37b1fc07a61d73a33172d62c00a6017bcc884ff": "csvprintf 1.0.1",
+    "c65c175dd53f380c21cf08e10567eaa455091c81": "csvprintf: style update",
+    "0804a69c6691bf8839675bb46a4bc38524bcd344": "New Formula: csvprintf"
+}

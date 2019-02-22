@@ -1,0 +1,8 @@
+{
+    "a21468d66fb81bb4ad3b9fda95e3e2ad7e359292": "voro++: update 0.4.6_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b79bc18a8e44693d3094172474810214be064174": "voro++: use assert_predicate instead of File.exist?",
+    "64a57e176686019ee5f966b6925575b3ff419efe": "voro++: update 0.4.6_1 bottle.",
+    "64e7f3e85ac9a68fe6c2c4f14f646a3552b12c56": "voro++: add 0.4.6_1 bottle.",
+    "b1212cd8ab5a113ed494b6cf4d082246dfe7367a": "voro++: migrate from homebrew/science"
+}

@@ -1,0 +1,12 @@
+{
+    "7380d53d96b1430a415c4c67aa6beaa61381c5cb": "libgig: update 4.1.0 bottle.",
+    "86b09d657ebdca63dcc728459c68afaeac0f17cb": "libgig: update 4.1.0 bottle.",
+    "d1b0da7a807d568e3678bc11be9e5223d96754b3": "libgig 4.1.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e535aef2a2da3a658ae68a1246eb3f032a7c8f9e": "libgig: update 3.3.0 bottle.",
+    "3711ee799460c2ce7fd1a58bc7a550099167c34a": "libgig: fix audit 'description must start with capital letter'",
+    "2362f615d914f5868bd48f2830e4ce2d0323b6a4": "libgig: update 3.3.0 bottle.",
+    "7571f9e69e40220619f103ffdc9396710a1adff9": "libgig: switch to https now that linuxsampler fixed their cert",
+    "a6b6f9f9babf41b59d36a3caf116557b445db4f9": "libgig: add 3.3.0 bottle.",
+    "08cf1408f81f55c3fea738c4fc525a65d4d4dfb9": "libgig 3.3.0 (new formula)"
+}

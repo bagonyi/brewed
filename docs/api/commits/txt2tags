@@ -1,0 +1,14 @@
+{
+    "cfaad055907944ea0f5a520dd8a481c99fb0d447": "txt2tags: fix max page location, secure homepage",
+    "6374363a66e9497841ce5e038d19e6540fe0bf64": "txt2tags: update url and checksum (#19312)",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "b3122632b16119065aa84791c6c39df139b8211e": "txt2tags: remove space from test block (#3804)",
+    "2c3998efea3f92fa4b35918100460eed38ee8e22": "txt2tags: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2341bbc20f65f503ae5e2315ae61c10e051b8afc": "txt2tags: modernize and add test",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "8a1b43a30edc514fe74ee5c4734bfaebafd5677e": "txt2tags: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "6c05685c912c25fea70d1164975c815e9b58b7d2": "new formula txt2tags"
+}

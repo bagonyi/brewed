@@ -1,0 +1,17 @@
+{
+    "f321f4d2903e7fe784b4e4dfa2b740fa4e7b6e2a": "whohas: update 0.29.1 bottle.",
+    "84ad826e600fbbc267a0634bbab70905792f87fa": "whohas: add 0.29.1 bottle.",
+    "0b6b034f5996b5bf6b6253fc5f2da2aa6c811bac": "whohas 0.29.1",
+    "817df27165e138707e3196587be3fb16c0ebf30f": "whohas: use pkgshare (#11800)",
+    "a74e4e804a221d40682a7c77ed1f926c35f24c46": "whohas: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "50b1a39f5acd513b30359f942e00c3e5af44b898": "whohas: remove system-provided module",
+    "e0062f98e4e2b561fafaae2b10827d887ef0fe2f": "whohas: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e5738c3660c108c17c274fa5f34f813cc3993d2d": "whohas 0.29",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "52550382694086db9aea4dad492648235f7da508": "Support Perl/CPAN external dependencies",
+    "8aef2f38c1aa5ddbacbebf33b38a728b3104e359": "Whohas formula"
+}

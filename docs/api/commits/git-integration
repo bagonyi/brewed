@@ -1,0 +1,21 @@
+{
+    "519e1410dbf67a4d0aff8845d59069e6f0b428c0": "git-integration: update 0.4 bottle.",
+    "09c00745f878f1d9ddd423272815226f61cca850": "git-integration: remove options",
+    "7b6f08dbc918244e189477ff33d14e6bd1ba0166": "git-integration: update 0.4 bottle.",
+    "576f8da100733cba4bfa9a45f15a5b2abc2e1942": "git-integration: remove default_formula requirement.",
+    "0e49a0be21dca89c4d993cf291fb93b2057b72e0": "git-integration: update 0.4 bottle.",
+    "aff1f40e6a842e345015c5674782388f6f8d4dc4": "git-integration: fix rubocop warnings.",
+    "c23caf8072f6e6e4aff9b3215bf80b42e026cc3d": "git-integration: update 0.4 bottle.",
+    "c6840b1b95e50d0e4495302d6098bc719864710a": "git-integration: update 0.4 bottle.",
+    "5351c7241f5cc03d191c4df279f3d08fd5827f40": "git-integration 0.4",
+    "cb89b4f93da59843a676e37b653f2c79562bfc42": "git-integration: update 0.3 bottle.",
+    "b1da5e3585080598e1037c1e5e96c0f493555685": "git-integration: fix strict audit.",
+    "8b9a67f7b38a315fbc10e3a8fd0aaed3c312037d": "git-integration: cleanup requirement naming.",
+    "252a7c56ab7267ce6b4193a26cfcdc00363bb157": "git-integration: add 0.3 bottle.",
+    "78256a90f45fca9290a0f7855d13f35b73a83f6e": "git-integration: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b71f7cf5abf430e402ac27f6becab884ad794f54": "Prefer etc shorthand",
+    "a9a50fa322656d921e8817647a955fdc62b83e9a": "git-integration 0.3",
+    "7f000e41f8625af1e6fe7acda904c41ac0e87e60": "formulae: don't use GitHub zip files.",
+    "293ea926299b17bce000a2b4c61ffdf6c36b10d5": "git-integration 0.2 (new formula)"
+}

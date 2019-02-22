@@ -1,0 +1,23 @@
+{
+    "52023edbecba0f036f565f8bdc36fc9da25146cc": "mockserver 5.5.1",
+    "8a12ec4f2f5d50804fa7f167c3b2fb90063d4c62": "mockserver 5.5.0 (#34330)",
+    "39f71e85edee049de05ab85a39ae5dff30a35eb2": "mockserver 5.3.0",
+    "6c728d73935a225a1614eea4cc5d606f490816dd": "mockserver 5.1.1 (#21430)",
+    "4044983a9319949da0b3087e988405f83ab9ea2c": "mockserver 3.12 (#20892)",
+    "cf5444ab10e3d27857c98d1b7f36935f6104a918": "mockserver: remove redundant version specification",
+    "06840cb29cf828af8ed1270f81dbe26bdb9cbbba": "mockserver 3.10.8 (#14863)",
+    "290e1063863481f9d82f833b3e00b438b8bbb2e0": "mockserver: fix RuboCop warnings.",
+    "f8986a42e0006c888aeb02971e21a73f6cae2366": "mockserver: secure url(s)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "a7e6bc8c37d673ee04178f70dec1467cc14eba6d": "mockserver: fix rubocop warnings.",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "751db31eae7bf9bb82eea0f84ea99701130ed37b": "mockserver 3.10.4",
+    "cca129db20caf2df244ecdb067eb31c807732e0f": "mockserver: bottle unneeded",
+    "42aed27618a085881d9051db195657ae0c9cc221": "mockserver: update 3.9.17 bottle.",
+    "229d69a061bacdf8697bba96cf0846daa7f5a823": "mockserver 3.9.17",
+    "0e606f997527d71ff23a2667a1ddba9e246313c6": "mockserver: update 3.9.16 bottle.",
+    "5bcf0e7af3efd89f8658e4435e8b9bf6ebcc1186": "mockserver 3.9.16",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "53abb5f1d14ed25897eec9905cca42c1dbfc4488": "mockserver: add 3.9.15 bottle.",
+    "778f9463b3f7915b053d0900be948a347078e337": "mockserver 3.9.15 (new formula)"
+}

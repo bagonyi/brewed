@@ -1,0 +1,23 @@
+{
+    "24581f6ffa70e11859b7b43effd9d3e87da4a087": "wxmaxima: update 19.01.0 bottle.",
+    "8ab5c9687fbab6799362c5fbbf36259e0352386d": "wxmaxima 19.01.0",
+    "ea82f609ab573c397058fa5aaccb9cc893510287": "wxmaxima: update 18.12.0 bottle.",
+    "ee900524ed232ec6aacba5de309066a0aa5c92d8": "wxmaxima 18.12.0",
+    "553aa079a45a7c0c3b1bc2bf633213224b116eee": "wxmaxima: update 18.11.4 bottle.",
+    "18872224c55ec772754456a7fc2b20602056bd2b": "wxmaxima 18.11.4",
+    "42b43a8f1e2722d2a58e2f607d2003925983f2cc": "wxmaxima: update 18.02.0 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "8136c11bc1383ace0de7ed3c53f91a6223ecf566": "wxmaxima: update 18.02.0 bottle.",
+    "bb332ef90fb035347ec8924b7556456bb0cf979e": "wxmaxima 18.02.0",
+    "34b4b52c0b6e08a06bc3c8b21ad933606ceb5503": "wxmaxima: update 17.10.1 bottle.",
+    "cce8f88306556bd7fceb743a9f80a9089841b661": "wxmaxima 17.10.1",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "56f88230ca55a029387f2688397db055bf608332": "wxmaxima: update 17.10.0 bottle.",
+    "be9588c1e5df267ecf44837310dd4725c6457779": "wxmaxima 17.10.0",
+    "a373afdc7ce3735f7b2cbc7caecaa70c2f8a5bcf": "wxmaxima: update 17.05.1_1 bottle.",
+    "a90ac31c6907eb781a6fde02e5a73dc985a8787c": "wxmaxima: add 17.05.1_1 bottle.",
+    "6832f990109c451e764b6e66f875dce7248198b5": "wxmaxima: migrate from homebrew/science",
+    "c5113a5295cd1ff230eefd0ba5bf5febd44a46d9": "fann and wxmaxima: are now in homebrew/science",
+    "44aa5d163c77b905f09a919bcf2fcde651758264": "wxmaxima: add a few caveats",
+    "8ef570ebb8264fc8057f2ca550e1fb4a82ebe572": "wxmaxima 12.09.0"
+}

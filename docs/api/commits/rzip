@@ -1,0 +1,18 @@
+{
+    "5187543b2d8535265daff4263ce1954305ab2bfe": "rzip: update 2.1 bottle.",
+    "e584afdaf408124ed363ff4bb201ff2339a9ff89": "rzip: use refute_predicate",
+    "7ec3ccb3f5898f3d22de9b6dead3afdddd1a5af5": "rzip: update 2.1 bottle.",
+    "6cb7192fd573d3dbab3ae3f93a048ce3e156a23e": "rzip: update 2.1 bottle.",
+    "953774a1eb15de6b3037dd9273671ae8268c9a0e": "rzip: add 2.1 bottle.",
+    "9e4869c9895478455cd3dbf8d2b5c89a79464567": "rzip: use https homepage",
+    "e2c3f6a87e0781a48dd0dedeb659d30b17d32a14": "rzip: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1ed9b216b79fb0a5ee517ea9ea971d0be7e8b7ea": "rzip: add test",
+    "008e8c6103c33bcd6415665ed74c0da88b2bbc04": "rzip: use install_symlink, drop inreplace",
+    "83ac87017326cb1b92cb115fc655fdace6914ad6": "rzip: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "cddca9ceb1f1497b0a4e9b526536af98eb8c24c6": "New formula: rzip"
+}

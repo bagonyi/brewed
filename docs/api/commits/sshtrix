@@ -1,0 +1,12 @@
+{
+    "0116d4668356957518522836491927fc1d5af447": "sshtrix: update 0.0.2_1 bottle.",
+    "e62c45d4444d3b8bd9a2597ac19c0dd374d5e3a1": "sshtrix: update 0.0.2_1 bottle.",
+    "d20b554ae6920a02ec88d690f09176de43feb15c": "sshtrix: revision for libssh",
+    "d988e580f58429d8fe99eabb77b0a871d3d0a5f7": "sshtrix: update 0.0.2 bottle.",
+    "48f4fa4afee211597a0a172253c9305201e7c0a2": "sshtrix: update 0.0.2 bottle.",
+    "326c428cf3c99c7f9d37d6e481dce6de78d9e3ec": "sshtrix: update 0.0.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b957902957c1ba8ae523131c7ebb26c7025c7b72": "sshtrix: add 0.0.2 bottle.",
+    "fa2a8400c905eecd18f5e571f79d2ab72a73e8b6": "sshtrix: URL fixed",
+    "430e532072a1904b29ca4d3eedffe70c0975e59c": "New formula: sshtrix"
+}

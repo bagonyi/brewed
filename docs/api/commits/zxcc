@@ -1,0 +1,14 @@
+{
+    "487d09661fb9c4dd5a8add0323e2e63f4c055407": "zxcc: update 0.5.7 bottle.",
+    "568c098901c06bfe1f71f4f432eb6c286e5a2c9b": "zxcc: secure url(s)",
+    "035098b742af636a1addf7aa00ae699d88bad877": "zxcc: update 0.5.7 bottle.",
+    "36c8412362b325d620d2176428ea74b227e7ed6c": "zxcc: update 0.5.7 bottle.",
+    "ad665a5bf58200649d0f5007863bbbff894f212e": "zxcc: add 0.5.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a55060db2becef4b6f4417aa6a87c6ce3b7031b8": "zxcc: modernize",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "7109e30c831f930d061f72128b1f31f0595c70f5": "use binwrite in tests",
+    "fedff0c002627eb2e780cd2fbbf2053164544baa": "zxcc: remove unused dep",
+    "323064fe70a989852f9d9ef86bfc5d878ac3eff0": "zxcc 0.5.7"
+}

@@ -1,0 +1,11 @@
+{
+    "d6667e0444c93d00c62d52a730c39a2c3b5a2d26": "kimwitu++: update 2.3.13 bottle.",
+    "ab654296ca0e02837a8ef2e497d9c48a78ac6f2b": "kimwitu++: update 2.3.13 bottle.",
+    "47066790c073aebd0db60cbfeb9671c45e8638e6": "kimwitu++: update 2.3.13 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "ba37417389bcef3dff97529387e31544e2495518": "kimwitu++: add 2.3.13 bottle.",
+    "e1c5f5a14540677daa98910ceaee1c3bfcb801cd": "kimwitu++: use https homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f91045e991c267534ba7a641aeef2dd0d77e850": "Kimwitu++, a tool for processing trees"
+}

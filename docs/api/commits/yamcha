@@ -1,0 +1,18 @@
+{
+    "8b98600047ea7933e8a1d500f0b35cf0a8039101": "yamcha: update 0.33 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "525adf04bc83165facb91e2b11305a7f4788d8da": "yamcha: use assert_predicate instead of File.exist?",
+    "7cb4649033c973581b36f4c54e7935407cf48653": "yamcha: update 0.33 bottle.",
+    "e4a2658bc12b657af2fa19c05efa27501be26a2f": "yamcha: update 0.33 bottle.",
+    "0f2d9c58347a7037cb0de5b5f4ca5f38d85802c8": "yamcha: update 0.33 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "069afefa2b4a65d204c1a2cbf080bfb85a65730c": "yamcha: add 0.33 bottle.",
+    "447980004df9ececc0157db96f75ae88370cda46": "yamcha: test added + modernize",
+    "bc09b76a082d61fbb49afeb706d0bf3c540e7cb4": "yamcha 0.33",
+    "d2482e816faca9eb9c1b3e560916c8a1413cd485": "gqview: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "94090393ec035a752621e2ee53efa4c5b96a048b": "Add formula for GQview, a gtk-based image browser."
+}

@@ -1,0 +1,16 @@
+{
+    "2696a3bc1b306a17e085fb587009a78b7d7561c6": "git-remote-hg: add Python 2 comment",
+    "437ef8bb9e243e5cb4367115b701bab4f296344b": "git-remote-hg: update 0.3 bottle.",
+    "a5998ca9d72f23ee44631bdf71739d2854986c58": "git-remote-hg: depend on python@2",
+    "c678591f598f24876be81eda16a7ca5ac4a4fad5": "git-remote-hg: rename python@2 dependency",
+    "b857d9bceee61ffed3153ed2689098ebbb951e68": "git-remote-hg: depend on mercurial instead of :hg",
+    "9b5a29e07129c7d5b46e3f9a506332c59204d86a": "git-remote-hg: depend on python instead of :python",
+    "d840e34c7cc984b1871216c4786eb29f47987d10": "git-remote-hg: update 0.3 bottle.",
+    "ee0c27e6ad2994dafae3c7f60b2c1473f4744bdb": "git-remote-hg: conflicts_with git-cinnabar (#16638)",
+    "dfbab4c147324d0e53f41a9712f24b6bc1108636": "git-remote-hg: update 0.3 bottle.",
+    "cf6cc427849a211316620116522d806abc71b307": "git-remote-hg: vendor mercurial 4.1.3 and install into a virtualenv",
+    "ae47e82c1085ff60946117bd9b7b32bba738134e": "git-remote-hg: update 0.3 bottle.",
+    "5ba4b90c36dd92a0bbaebaf5a27dac6a43fed8ff": "git-remote-hg: add HEAD (#4349)",
+    "96297f8aeb1ae88b2a4bb483d667e90592dc1252": "git-remote-hg: add 0.3 bottle.",
+    "4e49034fded444954fafb53c5620fd31f5bd0ea7": "git-remote-hg 0.3 (new formula)"
+}

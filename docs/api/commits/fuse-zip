@@ -1,0 +1,20 @@
+{
+    "e2994ef50603f74b27f6009693643308e47a419f": "fuse-zip: update 0.4.5 bottle.",
+    "620e9d830a6aabfc0c0bd8f02d05ef2fe9758376": "fuse-zip: update 0.4.5 bottle.",
+    "ee75b58f1af4fd5cbf7c13fefc2bdaa0d9eaab2f": "fuse-zip 0.4.5",
+    "d29d5367294a9873a549b4813cf8c373ed1bd359": "fuse-zip: update 0.4.4_1 bottle.",
+    "5ac892ac18cc111586f9f7e018357ae88c8d04ef": "fuse-zip: revision for libzip",
+    "a5e1ef645f3a9f5eb85cbfd4648375f150b7e2cf": "fuse-zip: update 0.4.4 bottle.",
+    "9058f7eedf7f7ef970dba2daec219b745e14a43e": "fuse-zip 0.4.4",
+    "d283cbc47daa2d66f54244ba722a1ba6a95f7580": "fuse-zip: update 0.4.2 bottle.",
+    "0bf2513dc28dcf2671080d2b67a7b25b2a873a5c": "fuse-zip: update 0.4.2 bottle.",
+    "8d04bc937a1f1b04d73c197e96e16a3e70639107": "fuse-zip 0.4.2",
+    "65686ee026d4abf36872b8f00448068704c5592d": "fuse-zip: update 0.4.0_2 bottle.",
+    "8197302b29003820cc12c252e59d8e6df7b79ded": "fuse-zip: revision for libzip",
+    "5ad95eb0591cb5f6900ab5b1c011a12ed90557d8": "fuse-zip: add 0.4.0_1 bottle.",
+    "8005100a75ae922f3eaca0af4399b1710d47458a": "fuse-zip: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "eec0974ab3b9445964d9c4ff881d19c5aac0aa3a": "fuse-zip: update test",
+    "100435fc94527091e280edb156f86a8cfb7f6bd8": "fuse-zip 0.4.0"
+}

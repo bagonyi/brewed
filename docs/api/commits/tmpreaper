@@ -1,0 +1,17 @@
+{
+    "b40e35936426cec1c23edb5b6ef5d2d453d6ee1d": "tmpreaper: update 1.6.13_nmu1 bottle.",
+    "2ae9d872d7a4bc7184037e82d3bb941480d856e1": "tmpreaper: use refute_predicate instead of !File.exist?",
+    "5deef35cc1eb49de6ccefecf93bac7b7b7e994f8": "tmpreaper: use assert_predicate instead of File.exist?",
+    "f1cbfe07f4585ac0558324d28b605ccf6ca2e542": "tmpreaper: update 1.6.13_nmu1 bottle.",
+    "49f62bea8115a23cbf6f087cf5210aad8d76ed94": "tmpreaper: update 1.6.13_nmu1 bottle.",
+    "43d691b2d531b1d7cebb369d9c1eb515c284dee5": "tmpreaper: update 1.6.13_nmu1 bottle.",
+    "80b2310d55e35df60e85194747e224f001544030": "tmpreaper: use secure mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c73a73f1800738a70ca07899133af048c00524dc": "tmpreaper: add 1.6.13_nmu1 bottle.",
+    "b33eff1abed0b577c3c094f36f5bddaa22739014": "tmpreaper: test added",
+    "6356e0081116cab8e1ac3d39a284056ac7d0c60a": "tmpreaper: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4f9f0d0bf52f8540485aa7b5e74b6aa32fa432f3": "mirror support: Mirrors for kernel.org software",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7f8e66a0ed4ad2d59d93f83ab9e68b52d82f2824": "New formula: tmpreaper"
+}

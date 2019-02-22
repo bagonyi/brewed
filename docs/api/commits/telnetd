@@ -1,0 +1,7 @@
+{
+    "6211f5ecec518d449ab5460754dfc7ebe5a6c302": "telnetd: update 54.50.1 bottle.",
+    "cea73ae0b28c62f218ea19eda6af60443110711b": "telnetd: fix build on Mojave",
+    "ec82c4852b422f5cf39ddafcf1591ac67fd40956": "telnetd: remove more keg_only reasons.",
+    "ba3b86dfa834a11ce9390684192142b7d0dc4b5a": "telnetd: add 54.50.1 bottle.",
+    "c68aa1c3bc534264ebb6dc0903a95955ffa16856": "telnetd 54.50.1 (new formula)"
+}

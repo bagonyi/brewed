@@ -1,0 +1,5 @@
+{
+    "d0a44ef8228b92f11470671db5468a26c5f8e400": "boom-completion 0.5.0 (#11920)",
+    "4fdf929ad744bac6f3a28201b27f9afeabefa89f": "boom-completion: use https for homepage (#10938)",
+    "f08bbcbef3a8659cac67622219303cd8ea299cf9": "boom-completion: import from homebrew/completions."
+}

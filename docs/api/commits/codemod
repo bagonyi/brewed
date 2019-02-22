@@ -1,0 +1,13 @@
+{
+    "60d5a36df8b100b2e8f6f32b9565c9390f83721b": "codemod: fix component order",
+    "1d343b3ffbecf288e9e6f097ddad2650173e3e2c": "codemod: add 1.0.0_1 bottle.",
+    "3b64be9e94d236fd3a37abf3eed8f86b517afaf6": "codemod: move to Python 3",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7cccfa23af18e04054e9d34d67f4ba4781f389c8": "codemod: depend on python@2",
+    "71e5317601a3c428d45b1b90026866d0beec0b29": "codemod: rename python@2 dependency",
+    "dc17cfdb8fbae9aa5e13112425d4021653fdeeb5": "codemod: depend on python instead of :python",
+    "11b0185f7e187cdfd4080309297175ccfe48df75": "codemod 1.0.0 (#20099)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dff40bc30fb9d2034a02f12f5327cea173335e85": "codemod 20151117 (import from head-only)"
+}

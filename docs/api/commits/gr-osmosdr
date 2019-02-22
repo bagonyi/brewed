@@ -1,0 +1,15 @@
+{
+    "fea65b24f04f04e32606d6a55d416eb7f8c6c59f": "gr-osmosdr: update 0.1.4_5 bottle.",
+    "3f996c4f41e93901394bc316f2aed6a51eabaa09": "gr-osmosdr: revision for uhd",
+    "8f5acbf7d3b01e928fba14bca714ff18651b40da": "gr-osmosdr: update 0.1.4_4 bottle.",
+    "f9a20eb7477ca9970d459d3427f190aed5c47eff": "gr-osmosdr: revision for boost",
+    "cbb8f86d81e43d86e19a3358ae8b6f21d7c5dc7e": "gr-osmosdr: update 0.1.4_3 bottle.",
+    "3791a143b5bfe83154a922d7b7525078dfed78c0": "gr-osmosdr: update 0.1.4_3 bottle.",
+    "34bf311d234a069cdef44b23bd9d286f2526f730": "gr-osmosdr: revision for gnuradio",
+    "744329a2ccab97455b7299b4d8ac35eacbedbdc9": "gr-osmosdr: update 0.1.4_2 bottle.",
+    "8b47b8d6253b1e99b5d9797269e39f440cfd0418": "gr-osmosdr: revision for gnuradio",
+    "634b02e742345d5355c31dfb27a5729937cc837e": "gr-osmosdr: update 0.1.4_1 bottle.",
+    "4c5fd545e3429ff44add5f822b9c10ad808825c2": "gr-osmosdr: revision for boost",
+    "4e691d9518f43f443a99a271a148c5bb0174138b": "gr-osmosdr: add 0.1.4 bottle.",
+    "d2653a4d40bae90e7d44bf7561c8004777ca6e2c": "gr-osmosdr 0.1.4 (new formula)"
+}

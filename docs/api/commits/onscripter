@@ -1,0 +1,19 @@
+{
+    "d6d87c2d141b5b2ef3bcde88f334cf294650cfb7": "onscripter: update 20181218 bottle.",
+    "27449051118a83303bdb3d41280e8cf9e2160f3c": "onscripter 20181218",
+    "aef32a38ff25ee259c7f4669bc42843be907a5b1": "onscripter: remove options",
+    "288b2b4802f6b727854e92bfa9df19a406ea005a": "onscripter: fix dependency order",
+    "70514138451cbda4ebbfe700d03dd5da91ee6db9": "onscripter: update 20170814_1 bottle.",
+    "bbc30da5f5a033014b2ffe746c2fab65e88a4a8d": "onscripter: fix lua flags",
+    "6530940d1bca54c938c6a70162f566a91efd5269": "onscripter: update 20170814_1 bottle.",
+    "ad2114b84be8533db77000c0e8b891318bf5eb20": "onscripter: revision for lua",
+    "c660386e9f378d898d161b48c34a5bb81e05cef5": "onscripter: update 20170814 bottle.",
+    "ffe4c882c4493fb7d5548c5069550caef7c2bd93": "onscripter: update 20170814 bottle.",
+    "4bf6ec844e466e9ec0fcf6465ab193cc9a0f6b47": "onscripter 20170814",
+    "f928709dac657c5987061f50b7c213d79df41c3f": "onscripter: update 20161102_2 bottle.",
+    "523f7f8bb55812bb734bf57ddb5a87bf5b6a1494": "onscripter: revision for jpeg",
+    "51dbad39439277f5fd893d24d8017a861bbe5311": "onscripter: update 20161102_1 bottle.",
+    "2421957eb9bf6df1f7a7bbc963a7cd9e85a6fc2a": "onscripter: update sdl_mixer dependency",
+    "da99d7991849cd34704f48e18b58539ca8431ef3": "onscripter: update 20161102 bottle.",
+    "eae7726ab30ca3dcfce748ef3d7c266a4d77c1ca": "onscripter: import from homebrew/games."
+}

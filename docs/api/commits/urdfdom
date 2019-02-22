@@ -1,0 +1,10 @@
+{
+    "9c2ab034cb1ddb5d39d6ceeeefcd7ac0870e66bf": "urdfdom: update 1.0.3 bottle.",
+    "33ff9e62dba605212a55c97a6c7fa7ffd44fe8ea": "urdfdom 1.0.3",
+    "e74eb0aff84c3cf0debf1e3c2188a7f006e8c0e6": "urdfdom: remove checks for old compilers.",
+    "861c9c5c5443756cee500ff5c905aaeba6d0b232": "urdfdom: update 1.0.0_1 bottle.",
+    "742bfdbd4c293cc2552ea3fff2fa6fc4aea89aa0": "urdfdom: update 1.0.0_1 bottle.",
+    "0357fde136de4e56706097e4cd2cf6ec09f535fc": "urdfdom: revision for console_bridge",
+    "2ad64a9ca8a2fbf0958bdc728ff92b0ddc30ca60": "urdfdom: add 1.0.0 bottle.",
+    "fe0a1b659eadb20040ebf469265e4931910f8326": "urdfdom 1.0.0 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "506c027cbd796f62fa2c10a2f2c956336555d690": "proxytunnel: update 1.9.1 bottle.",
+    "cbaa70afc1f83704b48184ec6a8d8a4fd2748cab": "proxytunnel: update 1.9.1 bottle.",
+    "a038b480d9e958b4a55ec77dc9dc18f9bccc4676": "proxytunnel 1.9.1",
+    "cc45950b5379cec873f8efc5e5ca2b607d8ef1db": "proxytunnel: add test",
+    "b7fe6ee11d3d8bf47f7885913379f08dec77f765": "proxytunnel: update 1.9.0_1 bottle.",
+    "53938d37bd68241560affd2d76d01dd03fb000e9": "proxytunnel: fix audit --warning",
+    "a0e5c5de2cf8d5a7bb15bea4bfab7c50a2cb7075": "proxytunnel: update 1.9.0_1 bottle.",
+    "04139db73b4206b04dd0fb6b168be7b689e81e0a": "proxytunnel: add 1.9.0_1 bottle.",
+    "cc52800fa1850a7c4d01ca7752d5c96d7a15c995": "proxytunnel: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5002f7c7301adbaa4a7a8a1ca96f375e2c1b42f6": "proxytunnel: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b522e97b26055a7e50cf49579fe6061a764e8cdc": "proxytunnel: patch out bad strlcpy/strlcat declarations",
+    "85c0dbfa48d567fbbf07126d8ca1e3200284eceb": "proxytunnel: disable strlcat/strlcpy on mavericks",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dd3b1eeaa739685292de80f687c165c05c29636c": "New formula for proxytunnel"
+}

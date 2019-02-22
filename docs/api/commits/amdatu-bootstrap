@@ -1,0 +1,9 @@
+{
+    "eb9d3e2cd49f76fd503214714bdba3dbeefcb9b6": "amdatu-bootstrap: reduce maximum line length",
+    "2ad43249ae8da322808e27d07bbd3f7cc54f0e85": "amdatu-bootstrap: secure homepage",
+    "e03a33911f81f3f25dab066951a8ec5b47b78711": "amdatu-bootstrap: require Java 8 specifically (#22609)",
+    "3cbacb089b84d1de1db3ee6106752791616462ae": "amdatu-bootstrap: update homepage (#9005)",
+    "eeaf4d71f92a23fb1f147cf2d47f7d612ddcfa28": "amdatu-bootstrap 9",
+    "6760df10a0a9394f1fd9a3a09da410e739e3b0d1": "amdatu-bootstrap: bottle unneeded and URL comment.",
+    "4957f828e8549e33183abe28b96e48b3319d7911": "amdatu-bootstrap 8 (new formula)"
+}

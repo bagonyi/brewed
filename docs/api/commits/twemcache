@@ -1,0 +1,19 @@
+{
+    "10efea5021761d8e34f756b153c531237db23a41": "twemcache: remove options",
+    "09dd2fd8c73a5353a694cea770744c471d794f01": "twemcache: update 2.6.3 bottle.",
+    "0c3ff5e6d1390461d60f15355e9cf79ade5768f0": "twemcache: update 2.6.3 bottle.",
+    "12ea178fb78994589baae646aa70c12603bc0eae": "twemcache 2.6.3",
+    "d620382643c725f039a8d0f92c34f49bb29905cf": "twemcache: update 2.6.2_1 bottle.",
+    "8550f6229b0a2f481ffd0779004df0c2d945ec88": "twemcache: update 2.6.2_1 bottle.",
+    "890f38de0db5686fe9aa776d8acf4c2caf7b18db": "twemcache: revision for libevent",
+    "85a886c88538c336de5daab7bf9ee0e7f5a76bd3": "twemcache: update 2.6.2 bottle.",
+    "93c0bbb24e339cbbab987d3a09394344441257ba": "twemcache: add 2.6.2 bottle.",
+    "027cd32bc5f9c778afc8a7a53a61a79037a76a69": "twemcache 2.6.2",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e60afcf362c5f3fb320b3680d3087737498eabde": "twemcache: modernize autotools deps",
+    "d5d2cd330bad83b132a67a4ec77cf0a99b1f6c13": "twemcache: use ENV.append",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "c3ac5d3d6f2fcca6df22940a2cf140f74e874ad4": "twemcache v2.6.0",
+    "cd5015ec4d4cda8bfb4be90abc7dac8cca1c85a6": "twemcache 2.5.3"
+}

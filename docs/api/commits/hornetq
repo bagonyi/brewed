@@ -1,0 +1,15 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "decc8ad539a629608f972eca679864c5b3cda53c": "hornetq: bottle unneeded",
+    "31f3909306b406fe3f10eeb08ab774ac8c5ecf31": "hornetq: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8e863387d9155d5a9c06bbac31642d7321ff5847": "hornetq 2.4.0",
+    "97ebd90e38a6bc450d5fc927bdf6c2e0ca4be8d7": "HornetQ 2.3.0 Final",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "51e75779604ea849ce955d3ad6912c29fbf483a0": "HornetQ 2.2.14",
+    "46db0fbc64bde3bf8dd774f4b1a4ab26fcc4dd73": "hornetq 2.2.5"
+}

@@ -1,0 +1,15 @@
+{
+    "899ee57b1eeeeb5812caf38ce29364147bd00c27": "eject: update 0.1.27 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b5de335a59ecd1dd1f3bb1d22e2cd638cedf873c": "eject: update 0.1.27 bottle.",
+    "e69876cb5dad694b0b8685c285e190f44ff4dbc2": "eject: pass SYMROOT",
+    "202f2691d12706b0877b8e12a571e19e751073e3": "eject: update 0.1.27 bottle.",
+    "01ad3828e1c31f8e65790f1bb13be4d2078b6a47": "eject 0.1.27",
+    "a1947118cda5a292917197e74da80ceca1f5a284": "eject: update 0.1.25 bottle.",
+    "36e54c0e492ecc641be9fd26ad1f28e57baff524": "eject 0.1.25",
+    "59661a04c243d780bea02ad2e8ce39957256ed75": "eject: update 0.1.23 bottle.",
+    "1be0dd39abf75e85687eb305db303747eff6b41b": "eject 0.1.23",
+    "0b98074cacedb88b3babe86750106a81ed0d2b0f": "eject: use EOS.undent consistently.",
+    "ec8edc29578d407d9c9ea6de40402dc0bbaa52df": "eject: add 0.1.12 bottle.",
+    "d3864edd135bfde45ac388d3f8e07056160a1c39": "eject 0.1.12 (new formula)"
+}

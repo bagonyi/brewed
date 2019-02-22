@@ -1,0 +1,16 @@
+{
+    "9b6f7a43b9afb0ca9e9f47068a2e74771781e435": "nanomsgxx: update 0.2_2 bottle.",
+    "2049a14cfe836b90fe46361b2d9efac56437f7e1": "nanomsgxx: use system python",
+    "2d6d0c58fa817f017cb47d81699c391a0cbcd6d0": "nanomsgxx: update 0.2_2 bottle.",
+    "d94b630a2d7d59f18d6898ca15c879ffb5bc91a9": "nanomsgxx: update 0.2_2 bottle.",
+    "29176cbe19c8b34ca4fb06a0700867a41490e9d1": "nanomsgxx: revision for nanomsg",
+    "cb785e39f211ce32e8e4a2b58248f805a4cf526b": "nanomsgxx: depend on python@2",
+    "e0b4de75216b75c2efc2c2cf50fc6d3322f58e00": "nanomsgxx: rename python@2 build-time dependency",
+    "8f4c47b8a3eab8fab1c3b8e5f57b0485958b601f": "nanomsgxx: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "74b257a4baae28c57ea345acb8064794850bf27c": "nanomsgxx: update 0.2_1 bottle.",
+    "93031995b0bbaf41e750f13e5bfabcfaba2b78e8": "nanomsgxx: revision for nanomsg",
+    "efa12866624136e48fa323fa36315a300752536e": "nanomsgxx: update 0.2 bottle.",
+    "11f2841c065e32d7519818418d37604f40cf5d92": "nanomsgxx: add 0.2 bottle.",
+    "d8cd6b834671fcce6cd5863effeed27546947262": "nanomsgxx 0.2 (new formula)"
+}

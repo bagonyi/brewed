@@ -1,0 +1,14 @@
+{
+    "ffe44f6d450d935100d97daeafdda487a4a61bf9": "open-tyrian: update 2.1.20130907 bottle.",
+    "7fbe3810563c6f98b752f192e6ebbfc2f65ff795": "open-tyrian: update 2.1.20130907 bottle.",
+    "d7e314059a34ad01d8f0c3cd97e5673d044bf54f": "open-tyrian: update link to HTTPS",
+    "2e22034e53e78bd88de858cbc46c95239aa35931": "open-tyrian: use https for stable url",
+    "551dfda4aa87cfbd0866ce12d584a330c7c4d710": "open-tyrian: update 2.1.20130907 bottle.",
+    "784582b85158de4d84d9cfb0aeef23b83a6604ef": "open-tyrian: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "d67875896639c5b95db21b9d3ef6140c087afae2": "open-tyrian: fix quoting",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "fb7f44e8b4017ccc6a9725783cc1caa514e912aa": "Fix open-tyrian version",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "30bff2f38026651c794b9354153422f4702892ed": "OpenTyrian - vertical shooter."
+}

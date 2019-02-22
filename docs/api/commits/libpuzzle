@@ -1,0 +1,15 @@
+{
+    "b46de9d8ae1af0b6073a7bbc4157671dcd45ade2": "libpuzzle: update 0.11 bottle.",
+    "e1c828285eeec3fc600e62344a01ed25a5762e54": "libpuzzle: update 0.11 bottle.",
+    "d327394e452fdc91092fb8f2320765c42d17dbc1": "libpuzzle: update 0.11 bottle.",
+    "658ef22d53bd83829f9d076c121894272e9e6bab": "libpuzzle: test added",
+    "78a31f205ba6e8a59d255a8fde713c4d3bb53833": "libpuzzle: update 0.11 bottle.",
+    "d2009f13020a44848f273e83226c913bdd84b29a": "libpuzzle: follow homepage redirect + use https",
+    "410a6cbcc475f95592559f7200096b8d604fcdd1": "libpuzzle: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "82bd94f814627dd69bace0f4e99296fbfa40d9c8": "libpuzzle: update 0.11 bottle.",
+    "6fa721f265cda1bd2be6b07c7b6bd0fb32e70539": "libpuzzle: add 0.11 bottle.",
+    "d3a220d438592c00d1d50ec0b4a908a75e188054": "libpuzzle: style nits",
+    "e26ab6c278173ff18249c487bc3fc819e0b2a63a": "libpuzzle 0.11"
+}

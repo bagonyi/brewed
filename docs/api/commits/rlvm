@@ -1,0 +1,15 @@
+{
+    "64a035abd26065a3b0b22b5de26518a9f9e1b8e8": "rlvm: replace deprecated scons call.",
+    "5f8db48ce741e2abbfe61012e52b091b543a874c": "rlvm: update 0.14_3 bottle.",
+    "8fcc17d7e0578963efc5cd47911ba621abf76353": "rlvm: update 0.14_3 bottle.",
+    "71956e27292a2a47ace6e46068c8c1b84cb2c773": "rlvm: fix rubocop warning.",
+    "d7cf6b27f806d1bec2bbe7b15520d81156bfaed8": "rlvm: update 0.14_3 bottle.",
+    "ead057281285cd8f97d82a4aa8140d93f79e98e2": "rlvm: update 0.14_3 bottle.",
+    "109a1cbb9944aaf7dcb14b706eb869bb9d790bf1": "rlvm: revision for jpeg",
+    "fd87a4e1c4d3b1d6de148348040c927efa30b295": "rlvm: update 0.14_2 bottle.",
+    "3feba9093167d7d8ac24b1b0499b1097f43efc38": "rlvm: revision for glew",
+    "1934191d67f5027a989662939be8d8bfe77531cf": "rlvm: use full_index patch",
+    "536d9740f68648f4fa1726aa00005026525b58a6": "rlvm: fix patch checksum(s)",
+    "24c439a6c03e4f6c40a7b15ca53c2c0835dedce2": "rlvm: update 0.14_1 bottle.",
+    "e88ed91f673eeae84494db9ad58bcaaf5f1d88f9": "rlvm: import from homebrew/games."
+}

@@ -1,0 +1,17 @@
+{
+    "09100103ce3c775fbbbe68487a7a6a6093f8e3e0": "snownews: update 1.5.13 bottle.",
+    "fbd877e99f3e321c663aba4900000fb858ab5cfb": "snownews: update 1.5.13 bottle.",
+    "e84bb2cccec435ac13dde6956712678f6fd6d913": "snownews 1.5.13",
+    "15124a0f02c4bd777d9df473dfc0d98ad6e677ac": "Revert \"snownews: add test\" due to build failure",
+    "af80634a9e52b17d4c22b3cf502052bf18923265": "snownews: add test",
+    "fdca990921ba7f72f223db21c62e1eff72427f9a": "snownews: update 1.5.12_1 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "e50212f6b8d226afc985669c4d5827e1f76970c1": "snownews: update 1.5.12_1 bottle.",
+    "4908efe9a3a9dd6e1d7a7943cd711fad3ec1153d": "snownews: add 1.5.12_1 bottle.",
+    "cf7a7f1ad25291429c29ffdb0101bbf54c62ddb8": "snownews: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ecf717f73a8ce334895ede0bd232e24bb46f174f": "snownews: use patch DSL",
+    "eefdf6b3f338f0212906515307b16b81098d736a": "formulae: fix with/without usage.",
+    "1a3935947dff8391492ed08401decf0c64716948": "snownews 1.5.12"
+}

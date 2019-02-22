@@ -1,0 +1,18 @@
+{
+    "3ec9133cd3d0122dc14adb9d5e5644e69f0146fd": "dnsviz: fix rubocop 0.65.0 style.",
+    "801587c1b892114b93884f476661f51bc5f49efa": "dnsviz: update 0.8.1 bottle.",
+    "8bad9905e394d00381e68b5c85d5a22ed7ac64db": "dnsviz 0.8.1",
+    "3e7fc9318f788ce5bc789f01f2ac14e78763515a": "dnsviz: update 0.6.7 bottle.",
+    "f801a7baf62424a55e24c52ff4eb3229c46dc74f": "dnsviz: remove options.",
+    "e67d4dbbc6d45694191c86dd704eae670749b8e8": "dnsviz: reduce maximum line length",
+    "992809e00e399efc35ce9141c4e5b3882518bf28": "dnsviz: update 0.6.7 bottle.",
+    "00250963e02536e3b9bcb2e9e9d2ee607f94aae8": "dnsviz: depend on python@2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f78dfc48a95b2bc9a73ea5679853a882443d4645": "dnsviz: update 0.6.7 bottle.",
+    "18f00b75f8023543e43fedcac5245300efba78bf": "dnsviz 0.6.7",
+    "7e2aa2f14de49db2192e17c350cbdaa3e3c34680": "dnsviz: update 0.6.6 bottle.",
+    "a9d3a5c439f557a4243a2b6af48ce10c6b3ae8cb": "dnsviz: update 0.6.6 bottle.",
+    "d216ce5e1eb177226f5235cfa66af98e0a36f870": "dnsviz 0.6.6",
+    "8faf89e5a344f1463ac721744804e6db7772e5b3": "dnsviz: add 0.6.5 bottle.",
+    "c41d807a092a10caf124d7cb7888a619e78c0074": "dnsviz 0.6.5 (new formula)"
+}

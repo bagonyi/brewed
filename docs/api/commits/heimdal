@@ -1,0 +1,13 @@
+{
+    "4d4031f70b9d5b6263a42a103192150c8bc431af": "heimdal: update 7.5.0 bottle.",
+    "cac15ff6ba77fb1fd5dd9e5b8231f7257b465eed": "heimdal: use *_by_macos.",
+    "e2a3b48adcbd708aa2cb5217b45c4075201ea797": "heimdal: update 7.5.0 bottle.",
+    "66364d90e4ca9602f351d36aa3b56ca1284c1867": "heimdal 7.5.0",
+    "2a1c273af161c890da2624d92939eb1b8ff54763": "heimdal: update 7.4.0 bottle.",
+    "18b957629d288b128c5817cf0953a741edca8180": "heimdal: update 7.4.0 bottle.",
+    "95ea61019593c2e8426a0c6cad3dcd44befa93c9": "heimdal 7.4.0",
+    "64205a1d95e6005885bb6b60b6465414739e76aa": "heimdal: update 7.3.0 bottle.",
+    "b6dfbddbafbb9d05acca15002b6ed5c91cf5fc34": "heimdal 7.3.0",
+    "fbe3275baf1e0831d48705f7bd02c041c9403e07": "heimdal: add 7.1.0 bottle.",
+    "36d01f2248fe0c58c9f93c5d057771ae265bd62f": "heimdal: import from homebrew/dupes, 7.1.0 update."
+}

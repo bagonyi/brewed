@@ -1,0 +1,9 @@
+{
+    "df4cf2397785831f1660aab46c1a52ef098bc40d": "spaceinvaders-go: fix revision indentation",
+    "a656d7d3f0d547cc1ec6553376510e5e1d5234ec": "spaceinvaders-go: update 1.2 bottle.",
+    "8e273ddd18dc8aadc4ffc1ff56921b733ed7f7d6": "spaceinvaders-go: install metafiles",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "85826ac881704ff98398fcc0c5e017728d65cc34": "spaceinvaders-go: update 1.2 bottle.",
+    "4dffe7b1ccca2ba4bae6de9d89383b9e33bd855e": "spaceinvaders-go: update 1.2 bottle.",
+    "d1b7439619ccab96a6cb76ab6efaee184c29dc4b": "spaceinvaders-go: import from homebrew/games."
+}

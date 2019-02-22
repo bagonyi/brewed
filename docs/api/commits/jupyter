@@ -1,0 +1,23 @@
+{
+    "df5ba6afa00d708bc18dc4175fec2dbdd8d217d0": "jupyter: update 1.0.0_5 bottle.",
+    "15c6c97ee128c0897b1d00a155bac156d8fd2c0a": "jupyter: remove options",
+    "71f0f10915f37ce4da62c6e7ebc6624c4c120a57": "jupyter: fix dependency order",
+    "8d20aaf3c02b7f811e095d9d5a8ef83a845d28d9": "jupyter: update 1.0.0_5 bottle.",
+    "afe68098d5a41c93c9c24a78390244d2c0fdaf24": "jupyter: update 1.0.0_5 bottle.",
+    "2bc64118361788ad8fd7e159b02da094f6b4a3ca": "jupyter: update jedi and parso resources",
+    "eb363c829229fa4a24bdc97ad047883d77facd4e": "jupyter: update 1.0.0_5 bottle.",
+    "710f09ee6d2e1db0980aa93ad14a23d53fdc9b13": "jupyter: revision for python",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "cdc22680f9cd8074be11d6060ca1d13f74974000": "jupyter: update 1.0.0_4 bottle.",
+    "7d592783a66e2f5b0c6987a54fd3b7cd2ea111d2": "jupyter: update resources",
+    "db9f135e9129daf0c1d1231b516ff96fdcdd5873": "jupyter: update 1.0.0_3 bottle.",
+    "b438438bdbfa33fa7195992b3a233deb6ae7b83e": "jupyter: depend on zeromq",
+    "a764330d305a59db912f3045b62f1b72fc5b3890": "jupyter: update 1.0.0_2 bottle.",
+    "e6b1ec36831b6d51cd2a6393014a8acd538e0a25": "jupyter: explicitly depend on python@2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "dde4520324636a922dbfafa29520e34b177f7fe6": "jupyter: update 1.0.0_1 bottle.",
+    "017082e85783915ef5d9e428dabdd8fd2b69fa6a": "jupyter: update 1.0.0_1 bottle.",
+    "bf75dcf272e7dc0cdbbe737ac6544995dd45a0ce": "jupyter: nbconvert 5.3.0",
+    "62f3f8cce9a3738ae1f627e0d9e1dfb070fc4203": "jupyter: add 1.0.0 bottle.",
+    "69e6b2df18124869fe11b62acb892132144305fc": "jupyter 1.0.0 (new formula)"
+}

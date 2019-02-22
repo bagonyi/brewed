@@ -1,0 +1,12 @@
+{
+    "683e1654280303b50ac4bee3524deb4f3c998fb5": "augustus: update 3.3.2 bottle.",
+    "b68029ea5bef34c7c53d41ece3f951665140d5bf": "augustus 3.3.2",
+    "7a095c6af864962320a32ff683664f6e91944515": "augustus: update 3.3.1 bottle.",
+    "7d49336a19c92b65876c5a7f6b8453e7611b57e1": "augustus: update 3.3.1 bottle.",
+    "d0b6d47417006892ce32a8e3a67268192aca11e4": "augustus 3.3.1",
+    "9289603501ddd9c61cd876db472a63a3aad002d6": "augustus: update 3.3_1 bottle.",
+    "f4233376f33ba85aee281ac2c16ad4f568a5f11d": "augustus: cecompile auxprogs",
+    "7548526053501dee7241218d5a4f0dff4bbea9c9": "augustus: update checksum (#23612)",
+    "71c0d8a65c7a00e6fdace80d85320aff3076e7d8": "augustus: add 3.3 bottle.",
+    "54d7f241bc53fba70af543667c9a511f87e84a3b": "augustus: import from homebrew/science"
+}

@@ -1,0 +1,13 @@
+{
+    "49144a436df95cb7280bd5aedb389ab8a98ed156": "nyancat: update 1.5.2 bottle.",
+    "9e57283b6b6cbcbcda995f882495cb165b2c7132": "nyancat: update 1.5.2 bottle.",
+    "128c0755d5b67352213272b4b8cd8a97ea318efc": "nyancat 1.5.2",
+    "fcac07fcc5b027210959602c38f60163176744fb": "nyancat: update 1.5.1 bottle.",
+    "8b68ab9dbde8e07d05da60caa9a28d0a7796f6ac": "nyancat: use full_index patch",
+    "7ae461ed93084a8774ce4b5547e60ce8f97ec2aa": "nyancat: remove formula name from description (#11772)",
+    "990f563126cc7c2ab038ec967170a2f13c072fbe": "nyancat: update 1.5.1 bottle.",
+    "eb7ca52caccda178232cf1f7f3b49bc64e877d84": "nyancat: update 1.5.1 bottle.",
+    "7084f200b4f426efa2ac0d910ec7f5a11a533b08": "nyancat 1.5.1",
+    "ff4fd7a4ef96f5b01f54e81cc92999fd543ded9e": "nyancat: add 1.4.4 bottle.",
+    "12dee753303ab7d7eb86ba53d53f01161b72db1f": "nyancat 1.4.4 (new formula)"
+}

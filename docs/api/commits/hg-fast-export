@@ -1,0 +1,18 @@
+{
+    "7b8703441e3f496267669e60c2b867c7714cf0ac": "hg-fast-export: secure url(s)",
+    "c03a536a48efb3a82354193a4df2ae53b1909762": "hg-fast-export 180610 (#28863)",
+    "2d02cb8de3ea0507016583ef7266153c64a7fcbb": "hg-fast-export 180317 (#25409)",
+    "069583725cbaa4313dd8c764f5b8f3ed6b05e569": "hg-fast-export 180126 (#23335)",
+    "f4d0616af39a403d575fcc8c52a4a97795cbd0f8": "hg-fast-export 171002",
+    "cf6e9ef4358c8469714d2289a3db3b42826d9ca5": "hg-fast-export 170826 (#17267)",
+    "ba9de0d73aa389e9538e5a338d9f1cb47c375a78": "hg-fast-export 170818 (#16988)",
+    "5f6536e48e44b83e98b54d8b422b99166897317f": "hg-fast-export 170624 (#14910)",
+    "8783fb60a002e54655e95be920d715efe3b06aa5": "hg-fast-export 170617 (#14693)",
+    "b28f0dafedade81ad5a871a692809788d3c474ad": "hg-fast-export 170604 (#14250)",
+    "fdbea19f6a40679e806ebb0d55d7222b07f94cf8": "hg-fast-export 170101 (#12795)",
+    "e626233048473ca6a8985a0276efe23ab69d5d93": "hg-fast-export 160914",
+    "d35b6807478c789f74b2b6c347d2e3d7c99e1d6e": "hg-fast-export: fix test (#4175)",
+    "a8dd53414126ee4b49f85187a7d5dc4efff7989e": "hg-fast-export: move to Formula/",
+    "aa92696d92f70340ede6817e1bdf08443b8e8fe9": "hg-fast-export: audit fixes",
+    "4c934591d963a9946fa3730ffe67528611d79ff4": "hg-fast-export 160415 (import from head-only)"
+}

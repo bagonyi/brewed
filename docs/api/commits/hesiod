@@ -1,0 +1,9 @@
+{
+    "e6a8719445546f338129680c1ae28f3b20875c99": "hesiod: fix dependency order",
+    "6c684bca6e8110673ef5f417dc08662c3bf38c26": "hesiod: update 3.2.1_1 bottle.",
+    "95714e73a5976771bf0db759e5f348c4fc01933c": "hesiod: update 3.2.1_1 bottle.",
+    "57bec9b16cc3412c6b6cc87d56dc2be73971e13e": "hesiod: revision for libidn",
+    "252bf6ef4fb747fe312c825140efdfadd9e1c762": "hesiod: update 3.2.1 bottle.",
+    "ccacc69a63dec920b68fdbf86512d08950207900": "hesiod: add 3.2.1 bottle.",
+    "31419b0564df70bbaf4f5e0e384fec052ca373c8": "hesiod 3.2.1 (new formula)"
+}

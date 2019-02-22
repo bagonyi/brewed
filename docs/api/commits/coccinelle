@@ -1,0 +1,22 @@
+{
+    "db6b98bb9364b94e4cbb2a37ac2c42b3e4784942": "coccinelle: fix dependency order",
+    "81578adda7336c41354086d80cc378e2ea30d296": "coccinelle: set safe-string=0 for OCaml 4.06.0 compat",
+    "5063c2c8564ca83fc74a8f6f8946af0e9b461abb": "coccinelle: update 1.0.6_1 bottle.",
+    "3e1fd48c5b86e90fc758cda5908b284d955b1737": "coccinelle: add test",
+    "117da346e896cd28b63871c4281cb8cb275dc7f5": "coccinelle: update 1.0.6_1 bottle.",
+    "3a9c505b58c4f4fb8831e42b2dcbfe6f420c0359": "coccinelle: update 1.0.6_1 bottle.",
+    "f7227756238b1fa39643d34004e1b8832e0e69d9": "coccinelle: revision for ocaml",
+    "83f73d73fac8229ac523bf839b8a5913de05bf08": "coccinelle: update 1.0.6 bottle.",
+    "5d60dd00a807a8734db712f0e153f3a3bcbfd8b5": "coccinelle 1.0.6",
+    "65393cb2ec68ce81e3eae5da45a3b89b53a6dcee": "coccinelle: update 1.0.4 bottle.",
+    "6b936aadf2024da9f7edb8c4b8d00de1c4f76ce2": "coccinelle 1.0.4",
+    "74c6d290de7f786f9c72277c9e8110f6af666498": "rename objective-caml to ocaml",
+    "45701ab670b6b1abe12f7265c55dcca04c87995e": "coccinelle: use sha256",
+    "d48474e879b39d5f6979d80670a437a45fe30e99": "coccinelle: update 1.0.0-rc21_1 bottle.",
+    "9e4c755accf02e9bc5c15780042db90b27e3ad72": "bump revisions of ocaml dependents",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d4b1c47230060a8666f4e7a63b2bfd0463757ffa": "coccinelle: add 1.0.0-rc21 bottle.",
+    "c1f7b89d4b65006febf35856b67ff9890987b0be": "coccinelle: add dependency on camlp4",
+    "f82060ef796bc82772fcaaf0ca81df7e7b388402": "coccinelle 1.0.0-rc21",
+    "f766fddc2463b6fad3949f155bf207b3d41b08dc": "coccinelle 1.0.0-rc17"
+}

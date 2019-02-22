@@ -1,0 +1,19 @@
+{
+    "ea9e39f3e5d49c9b035ec0e338365c688275cbbb": "gibo 2.1.2",
+    "58f3c4a9d776dbb8e5c97ba34411868a4a4e819a": "gibo 2.1.1 (#36514)",
+    "faa1c74dd55c959a7b5de368cc918173f301d07c": "gibo 2.1.0 (#29292)",
+    "f3384f7e0c892ae24492c37e9b9479e7c563717f": "gibo 2.0.0 (#28945)",
+    "a3396b00e6261ebc4150a2987f5a56f9e133db05": "gibo 1.0.6 (#20029)",
+    "72395d43aae16423fdfa79aca3bf30a3f6c2f3b2": "gibo: add test",
+    "66a233cd7ab7331cfbf477454d631f98d2bbb4af": "gibo 1.0.5",
+    "29b7dfc18bb4d3b2f086980d57b87c6cabca40d4": "gibo: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e20defd8c234917bdbbe9af554d5b00e1e37f03d": "gibo 1.0.4",
+    "c131285e2037bf7d3d5977c2ad8eaf1708cc4151": "gibo 1.0.3",
+    "deb918a67f8b20a2d653ac9350b99f77e81a9e86": "gibo 1.0.2",
+    "66331e897111162a689e4b9891c333c2066b37c2": "gibo: use new repo",
+    "3d4f2dc9cdacfd13265ec036978c8198afb143c2": "use bash/zsh path helpers",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "bf01b6f4e80a0478e4d79fb92d599f9302bc12f2": "gibo 1.0.1"
+}

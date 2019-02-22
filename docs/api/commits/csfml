@@ -1,0 +1,22 @@
+{
+    "6a07f88dbe350725f296c7ee0f8683347f019646": "csfml: update 2.4 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5c80a36dbe46afdcaebb0e206a342df30ccc9fa0": "csfml: update 2.4 bottle.",
+    "e57064819d5844c3db16295629861bd4bdbde7c0": "csfml: update 2.4 bottle.",
+    "83b6ba234399fc575c1d0955a1fb36b817667d75": "csfml 2.4",
+    "ad65b5ecaa082df08d4d579272a3df7a68739892": "csfml: update 2.3_1 bottle.",
+    "fdb943d64bb7ca500553f60f99b6ba39ef777393": "csfml: update 2.3_1 bottle.",
+    "17e31d1b391e299ef0be3b5155af8598e1b9e7ce": "csfml: revision for sfml",
+    "3245f5940ed6be639ca3230f020296ffce757c18": "csfml: update 2.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6851f2d275f6994bb6fe20101c0589061a74881f": "csfml: update 2.3 bottle.",
+    "846afd452863fc100b15543eaaccbabb0349bcc0": "sfml/csfml 2.3",
+    "45710a0993a4ae6b1a6a4f1984d38d5350f65df1": "csfml: update 2.2_1 bottle.",
+    "94d59ed113f8c7c1cad1447781b1aea5c39422ea": "csfml: bump revision for glew",
+    "f47df690bb93405ce8838c12e48be4c8c03f8c87": "csfml bumping revisions",
+    "3928cad9f3b5d0fc6c7e65153ca5237de774a161": "csfml: update 2.2 bottle.",
+    "5ed132e35dca19abdb7e52cefbd00ac0351e74ef": "CSFML 2.2",
+    "842395184babb91edf6fe50afa96a766843bf9f1": "csfml: improve test.",
+    "c3c8035c56957fd2aef018abf078b7228b64978a": "csfml: add 2.0 bottle.",
+    "e1c56952a46f0430e53868bf5788a730b0d69eda": "csfml 2.0 (new formula)"
+}

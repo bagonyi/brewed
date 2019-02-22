@@ -1,0 +1,11 @@
+{
+    "7d4e7d35a30938ab0b7e304c75c818fc12985880": "nfcutils: update 0.3.2 bottle.",
+    "1de7600963b4ee81f55f574051ea30f84736a323": "nfcutils: update 0.3.2 bottle.",
+    "b5219971a7ff6f88ee0f273d9a7d5b2936279af3": "nfcutils: update 0.3.2 bottle.",
+    "ddccc7e6b2e3d3f20c795293c6463dbbd32840f8": "nfcutils: migrate to archive URL, update homepage",
+    "0bb0bfedb48688839c955f3efd7054bd0e5a3873": "nfcutils: add 0.3.2 bottle.",
+    "3c5768990d380d4d9301c1e7449970c87135f06c": "nfcutils: audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "89e7510f51f42c4703a456a4c814363177dc2a59": "nfcutils: remove unused deps",
+    "1677e776dbe7b207c676e1ce476f31986b2a8707": "nfcutils 0.3.8"
+}

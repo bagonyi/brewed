@@ -1,0 +1,16 @@
+{
+    "7d96895c1358f7ed3fd70bb3415231e67418ca86": "namazu: remove options",
+    "065d6b4ab7e55f0160fa6f05771e213d48d20ece": "namazu: update 2.0.21 bottle.",
+    "c8a597197725ee9f234948a80da4cabe42dcf8d8": "namazu: remove retired search.cpan.org mirror(s)",
+    "a1397824b5780e5f747f60ea8b0fdfb7ab6bc6f2": "namazu: update 2.0.21 bottle.",
+    "88d6465f5304b2620fd8a282f57f8756fa4e76f6": "namazu: update 2.0.21 bottle.",
+    "86e0c3953b92d38e0f94fa051f76d788d0ba31eb": "namazu: fix audit failure",
+    "2549d3fe51103eff57f96fb76801e4f3ff95b0bd": "namazu: update 2.0.21 bottle.",
+    "86b026e60426a04dfba9865216886639db79ec67": "namazu: use secure cpan mirror",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "dcf542b292a8d0b3464c23cac571af5a28bd1099": "namazu: add metacpan mirror",
+    "dee2d2205a22646a7c96f1cc7fa8f46f0059802d": "namazu: use full path of executable",
+    "e273e5a415b4b34a4495424a4684d532da9dae64": "namazu: add 2.0.21 bottle.",
+    "08e291433b7f79db5b118c91e6dc2fa38bd1642d": "namazu 2.0.21"
+}

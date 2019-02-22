@@ -1,0 +1,14 @@
+{
+    "2356b2aed580c5a5b3083307ed558e2c42f6f986": "iat: update 0.1.7 bottle.",
+    "c17c4e97beb3438c1c725d40e58fe3e7953a3473": "iat: add test",
+    "130cf88d260269a2cf096a4edb0c6088f6d05c1b": "iat: update 0.1.7 bottle.",
+    "1a0abe8fe4388c63212404b32fd057b91774d4df": "iat: update 0.1.7 bottle.",
+    "6f26379f58cf5bdd62c6b19cc5d6f0f10bf83b20": "iat: add 0.1.7 bottle.",
+    "29fcfdcfd8cc3b8fd89e9bcd4b2d8afd36dd9d50": "iat: use secure homepage",
+    "537aea31986ecde248fea3ddd0286ef7e6afc2b9": "iat: update homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "9f26b4bf6913293c3f728b3410b19035257681d3": "iat 0.1.7"
+}

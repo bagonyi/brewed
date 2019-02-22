@@ -1,0 +1,12 @@
+{
+    "f84303ff3ec9692dd1aa6c003d7306567c4c17e6": "magnetix: remove references to pre-Mavericks.",
+    "3ff5c3883d10fd2a7f260bb7bf08412070387446": "magnetix: fix dependency order",
+    "4f988dd4db6ec9bcf032775a2607cb49b8a524b5": "magnetix: update 3.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "eec7cb6cda3251c6e9c739c8c8e8a426d85abc00": "magnetix: use assert_predicate",
+    "d8a98627343144d8628cf63799e0f530dab5211d": "magnetix: update 3.1 bottle.",
+    "d31af48535faee484835fabadbb1eb81efc64285": "magnetix: add 3.1 bottle.",
+    "9cbbcf9e4faf9597201369ae89881d6190d26d81": "magnetix: various fixes.",
+    "8bd4893e4021e3a3675f03c4e8545a123773a1d6": "magnetix: import from homebrew/games."
+}

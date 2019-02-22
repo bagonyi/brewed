@@ -1,0 +1,20 @@
+{
+    "7b9056d38a66edd4506386c38d55ac450454bc8c": "flawfinder: update 2.0.6 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "a3271c883938796114eaf1d44ddcfce64a9eb835": "flawfinder: update 2.0.6 bottle.",
+    "bd8ee07f545a3bb4d829f589c93f5061522b51a2": "flawfinder 2.0.6",
+    "bb0e329c7e2a178aef538dda44038bd3ac2c8770": "flawfinder: update 2.0.4 bottle.",
+    "b7c9e4a8088023c0c93b3d6c6a6786984ad42ed7": "flawfinder 2.0.4",
+    "bcd2b0a3a3e37ff02160486b201550a9ad3bdc3e": "flawfinder: update 2.0.2 bottle.",
+    "dfe641d61e9d5445b5b2d1429791a7bc6609396e": "flawfinder: update 2.0.2 bottle.",
+    "634e94eb5fdd996d26bb0a1619bc9fe5f827df3a": "flawfinder 2.0.2",
+    "616b93bee011e9860078eddcf944ab9a40b09196": "flawfinder: update 2.0.0 bottle.",
+    "e529f8909988cb021843c0e115b1a36f67f1aa8a": "flawfinder 2.0.0",
+    "32043311203c961a8a7f609270496c528cf4154a": "flawfinder: use secure head url, other url upgrades",
+    "df64639910c4ea30cac8e6f135dcaa498d87e2b5": "flawfinder: update 1.31 bottle.",
+    "66a7c86dee5a208cfb1f78cf2f28ac59ad71c78c": "flawfinder: update 1.31 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d6f62f96180c18544aecddb7c3a0377455fc158d": "flawfinder: add 1.31 bottle.",
+    "cfeb75e439b476ad331eb99c45e48a43c672c96d": "flawfinder 1.31",
+    "d2f89a43ad7f0c4583ece25b23dda9f0abe5788e": "FlawFinder 1.27"
+}

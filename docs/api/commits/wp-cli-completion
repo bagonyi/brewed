@@ -1,0 +1,16 @@
+{
+    "1a4c1032be912b04c5cfd271e395a5dcb76f874e": "wp-cli-completion 2.1.0 (#35760)",
+    "958e4e0e136e2d71c2cebc19349dbd9440e9c864": "wp-cli-completion 2.0.1 (#31665)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "088a696242df2ce15183db1e164757b90fc39825": "wp-cli-completion: rename from wpcli-completion (#28932)",
+    "ea136f12c9be807d7839d19ee51d2bf4e46a1d27": "wpcli-completion: mirror to Bintray (#28929)",
+    "f04ce9c42f9b89012efa0666ec2696317c7d2084": "wpcli-completion 1.5.1 (#26918)",
+    "d7e92ba995d4b6054501ab998189641ef3a7f1a8": "wpcli-completion 1.5.0 (#23520)",
+    "41e2b108cfb2bd54c1081c4a9a4154e7d367e485": "wpcli-completion 1.4.1 (#20608)",
+    "1c4f70ce126c6aaea88ecd71a6318d35958137c2": "wpcli-completion 1.4.0 (#19559)",
+    "7755c16c9b61f06be31bd4fc280c7ba9170a6c1e": "wpcli-completion 1.3.0 (#16540)",
+    "9a7b74952aba6ac6cea040205c3114a301b44d2c": "wpcli-completion 1.2.1 (#14306)",
+    "065051deae688436aef4865879fd79966933a156": "wpcli-completion 1.2.0 (#14141)",
+    "ccb0aad93df307cc7a0f0709d31bdb8e45f438ef": "wpcli-completion 1.1.0",
+    "a3456d9bc8ede1c76d408cea3f5c91b63691ff0b": "wpcli-completion: import from homebrew/completions."
+}

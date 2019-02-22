@@ -1,0 +1,14 @@
+{
+    "d5488a50bc6be93ac13de4f1dcf3713103a35e78": "transcrypt 1.1.0 (#28290)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "052c376156e33e6267ab5c30166b3bd3196c9d0f": "transcrypt 1.0.3 (#17046)",
+    "71bc255c5a030ed22c3f0c61be259b40fb7e6e92": "transcrypt 1.0.2 (#12140)",
+    "f3afcce8088adc3ff57863e4835260396373a5f2": "transcrypt 1.0.1",
+    "f34b45795f1f268bb92d5761af9fd461da1c4afa": "transcrypt 0.9.9",
+    "ea8248a45b8aa9b4372dd76ac900f8e01e4f937c": "transcrypt: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0907f6d55a36c77c3a81d3fd82dc225fa0ca7db9": "transcrypt 0.9.7",
+    "92b033c2fdd92fd5c4231a3c26617b9fd80f05b1": "transcrypt 0.9.6",
+    "233933b80f014ad7469d7d9e618576e0f2921e32": "transcrypt 0.9.4 (new formula)"
+}

@@ -1,0 +1,14 @@
+{
+    "fbfc45f121cb621384f01e80dc880cc911d3197c": "netris: secure url(s)",
+    "d98a57c8074684dfff98b6c9b5a2938e04f70d18": "netris: update 0.52 bottle.",
+    "42619adf5f36bd4d3e360d78dfa6a1bddf679743": "netris: use Debian mirrors (#22623)",
+    "95c5e7c2b30863e7f4547ae3915fc5db2cf1d740": "netris: update 0.52 bottle.",
+    "f6660a74a1bbe35518c5ba1d0870c348b6456c97": "netris: remove protocol from web.archive.org param",
+    "50ff40d06ced30bd494e13e00710e00fa5a4819a": "netris: use https for stable mirror",
+    "5f041552fa7e2aea2c0d671924b79b3b59780cee": "netris: update 0.52 bottle.",
+    "de19c055d5ccd00d20012f5677ff2e5f54296de2": "netris: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "65eca5a84dd59b99eff64cca4814cb9124378a63": "netris: actually, set up as a mirror",
+    "f17f6db7716aff9c707b22fab01da62677f77164": "netris: use debian download for now",
+    "11bf40f6e52f3c25c3fa7ef6dc9911d891887179": "add netris-0.52 w/debian patches"
+}

@@ -1,0 +1,8 @@
+{
+    "2044fe656742c636ef10dccceb87f763a3fed1f0": "ncompress: update 4.2.4.4 bottle.",
+    "9e10eb800fe6f5a822f483684065c46234b66f84": "ncompress: use *_by_macos.",
+    "af15c72b54b4d126f80ce0e32464230e98d49291": "ncompress: update 4.2.4.4 bottle.",
+    "c2f0c814096dcbef15a1e00eda409d25eb0fa9aa": "ncompress: fix head url (#13079)",
+    "a6a9ecb4b415e7b52900f4efc68fecbda4633c94": "ncompress: update 4.2.4.4 bottle.",
+    "c211659ef28b53985d9dab7924a6d64a48e2a9cc": "ncompress: import homebrew/dupes into core."
+}

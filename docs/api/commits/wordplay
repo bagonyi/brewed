@@ -1,0 +1,15 @@
+{
+    "fd94f182f1484e1458f3f16c72ceca7d5cf587c5": "wordplay: update 7.22 bottle.",
+    "e2f4cf818498500db68293e0a17bfefce0e05c86": "wordplay: update 7.22 bottle.",
+    "c0ecccf032145ec31b68ca0eec15aff4397bcc9d": "wordplay: add test",
+    "8f76c3514f13b9acb78c13671dabaa3d882e08e5": "wordplay: use pkgshare (#11801)",
+    "ff598552a36bb6efe5117ae75b96fdfce6da4f84": "wordplay: update 7.22 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "8633bc49458664487546401c6847b57ae3863865": "wordplay: add 7.22 bottle.",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d8eaffad8d66d748e2fca84feaec898716937bb8": "wordplay: use checksummed patches",
+    "ef747e4a39680d11bb439f23e299a71684e462b5": "wordplay: use selected compiler",
+    "677ccc997b879a311a401410981f144094e60610": "wordplay 7.22"
+}

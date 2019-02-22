@@ -1,0 +1,23 @@
+{
+    "c38e3fefe520a2c712d9bccd232da1098d7e3331": "libbitcoin-server: update 3.5.0_3 bottle.",
+    "b1005d2e711cc9f0319c8e1dae13f60971325685": "libbitcoin-server: revision for boost",
+    "5da5288856d9d54cf7b922a5b6167fd00a15493c": "libbitcoin-server: fix test",
+    "77ea29ca4da1f53ee44f769a0b6ca90263d84942": "libbitcoin-server: update 3.5.0_2 bottle.",
+    "a882ded6794fb357b88ad5e3860a50ef59f6e07b": "libbitcoin-server: update 3.5.0_2 bottle.",
+    "0fbf2a5da29237e17ff33b00303d2e6695675275": "libbitcoin-server: depend on libbitcoin-protocol",
+    "f897bf2793d21d866608714e3d509b06f1c0d040": "libbitcoin-server: update 3.5.0_1 bottle.",
+    "ca6d871ebecc829eb75e5be356983d13b3efb011": "libbitcoin-server (new dependency)",
+    "1f6090c50b9e1985ec89c8605118bba1a3822d6e": "libbitcoin-server: update 3.5.0 bottle.",
+    "b5f6266dabe08a852ad590d4347b77044fe746fc": "libbitcoin-server 3.5.0",
+    "6b1054256ca67be3f06d4b8dd342047e5e5d83a8": "libbitcoin-server: update 3.4.0_2 bottle.",
+    "f3ba1a9fd63d36937cddf5f83b589f08dfe5cdaa": "libbitcoin-server: bash completions",
+    "e20971aca317fbd22945ec8967991a37b4b2b3a8": "libbitcoin-server: update 3.4.0_1 bottle.",
+    "5aa78a08423844549484ad982aefd5a9212c90df": "libbitcoin-server: revision for boost",
+    "d543f9a7b6a7c10cba1660c5a97cfcce2bd5adaf": "libbitcoin-server: update 3.4.0 bottle.",
+    "978bdfe7feb757dffb26ec6494ad1eed038dea35": "libbitcoin-server 3.4.0",
+    "83a49d57d70b331eddff7865d6a74324d2bdfa75": "libbitcoin-server: update 3.3.0_1 bottle.",
+    "36e329e9e0a878a409c86c775eee8a4cb1df80ba": "libbitcoin-server 3.3.0 (fix linkage)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fffe0590f2dd9ba07403c3865d86802e1778618d": "libbitcoin-server: add 3.3.0 bottle.",
+    "42f90e8731d3928425db7d6d0a7c92e16d29a4b5": "libbitcoin-server 3.3.0 (new formula)"
+}

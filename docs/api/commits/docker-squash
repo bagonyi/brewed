@@ -1,0 +1,16 @@
+{
+    "5b956ec8e26602b2c282131aabdb5d2eb908c51f": "docker-squash: update 1.0.7_2 bottle.",
+    "b66efff2154b2ebc968b43e5ad9ba614b9cff539": "docker-squash: move to Python 3",
+    "9307f41a685ae3df326c6ca83d6751df7f5005ed": "docker-squash: update 1.0.7_1 bottle.",
+    "b8066a9f0ee300c976db9fd177f6ec44d3e4888f": "docker-squash: remove docker dependency",
+    "c913fa3633398afee836a83f8d7c5de88fe7b117": "docker-squash: update 1.0.7 bottle.",
+    "abb80677b122d61e980905720c5ff5e8a74ece7e": "docker-squash: update 1.0.7 bottle.",
+    "c1e03cee1cefd8130e8633edbd2373fd3537c603": "docker-squash 1.0.7",
+    "5bd3e3667f49afe8c4b4bdc39d478504b63b3f5f": "docker-squash: update 1.0.6 bottle.",
+    "e2b4653ad1b25c419458a83305a118e5520a4407": "docker-squash: remove pip, setuptools resources",
+    "0f6af5010ec519ecee835a592bb6975453f08c90": "docker-squash: depend on python@2",
+    "1858591c658cacbf6e7dbb966c2aa4c16b7dba52": "docker-squash: update 1.0.6 bottle.",
+    "19684c91c66cb4e114f87d90b177a77604818aa3": "docker-squash: bump pip dependency",
+    "a9820078c42d3204f152553b718cd02860404617": "docker-squash: add 1.0.6 bottle.",
+    "3b7bce72aa0eeefc88e3023a001a0c70cf2df4f9": "docker-squash 1.0.6 (new formula)"
+}

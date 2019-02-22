@@ -1,0 +1,23 @@
+{
+    "4812f6468fbe6cc52c25c10d5f25bd3d724eee28": "bgpq3: update 0.1.35 bottle.",
+    "b67cda1d16cafac9ea24b4ee0c929b0321bb22e6": "bgpq3 0.1.35",
+    "0cfa74c4796fb16355f0ac8e63dfda1485fc50ee": "bgpq3: update 0.1.33 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "edbd59cf7eb9de661a0ab32c561bf66366aa8116": "bgpq3: update 0.1.33 bottle.",
+    "fa3511e9cc994fe3004a16ccc5b28eb4d62a543f": "bgpq3: update 0.1.33 bottle.",
+    "0614d20965f8d1d0f2afe7a0757f4d7a89bc30c7": "bgpq3 0.1.33",
+    "8aa2a4ad095bbf30c885423074d2dfeb5ce46402": "bgpq3: update 0.1.31 bottle.",
+    "cc47c67257a92824126b8a098b3cdca36d3ac35d": "bgpq3: update 0.1.31 bottle.",
+    "96e721c7b3e49f5b79e95181b19439cfa54d7efd": "bgpq3: update 0.1.31 bottle.",
+    "794884431379025d1e8315dc88ca357703ab4c6d": "bgpq3 0.1.31, 0.1.32-rc5 (devel)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "2835a5020b7eb05a68d3b574b69de55c56ac5ff7": "bgpq3: update 0.1.30 bottle.",
+    "38c0519c23f52c4d580d98ee25a7c79d23b8680a": "bgpq3 0.1.30",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a94e99ebb92ed947c6e774b931f8fc9e96699cf2": "bgpq3: add 0.1.27 bottle.",
+    "18129f7896365bb748e6009bfd68a973c805dbf7": "bgpq3 0.1.27",
+    "462147caa0b3243bfb35548cbfbf17a8fb5dd36f": "bgpq3 0.1.21",
+    "829210356bda3d2953bdb68e7d3f8d6d4493d9f6": "bgpq3: use patch DSL",
+    "7b3f78ab72eb170224cb8fe2b3080caf854f5ace": "bgpq3: 10.9 fix, add --HEAD",
+    "2b8bf92b7a7dafcfeb66c1e32b73ecc8b1ee38d7": "bgpq3 0.1.19"
+}

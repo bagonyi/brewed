@@ -1,0 +1,14 @@
+{
+    "63befb868cd1ea8b8041e0765718346069544413": "libspnav: remove references to pre-Mavericks.",
+    "2aa1b8463d1b5485e07d689ffe2cb6b2d2dcdd0d": "libspnav: remove options",
+    "c39ea20100773d9c4db7605b6abb2cf5fadb583a": "libspnav: update 0.2.3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "01e85340c253dc993053274075431ac5ff3daee9": "libspnav: update 0.2.3 bottle.",
+    "4184d6ff816f66570d69fb3cd6a97336a7e4b9eb": "libspnav: fix audit about sourceforge link",
+    "db6ba7d35f3b17624d5014a3eec63af0fc69049b": "libspnav: update 0.2.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5665272d4e5260dc44f98eab6e0b18f2d4cf836b": "libspnav: update 0.2.3 bottle.",
+    "5706da4ef06076ea5a815f01e237752f08ac414c": "libspnav: add 0.2.3 bottle.",
+    "28f05afd48ed2a6f3e3811247136b67b790ab470": "libspnav 0.2.3 (new formula)"
+}

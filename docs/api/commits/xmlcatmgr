@@ -1,0 +1,20 @@
+{
+    "35b4451d92e04cf4796e8e26ec556de89b4c06f5": "xmlcatmgr: update 2.2 bottle.",
+    "988801cb33171aeec77381491dc701658bd9b6f9": "xmlcatmgr: add test",
+    "8ee1a422157e39526e5a75ef01e88487c139484f": "xmlcatmgr: update 2.2 bottle.",
+    "84916316d725efe6c5416e94cd821cbf6d9f348a": "xmlcatmgr: fix audit about sourceforge link",
+    "e13664feff6035f0a491081629584a1dcc4133ff": "xmlcatmgr: update 2.2 bottle.",
+    "44e2180228b708fd34faaf36602cd01f1817c28f": "xmlcatmgr: add 2.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f226f5b5110c4451cd74890fbfbc83fea6fc77ef": "xmlcatmgr 2.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "56a2f770329a90aca174a075f969e9903993ddfc": "Added LibXDiff",
+    "d7affe0e64619757cf2a482b137688aec4db06e0": "New formula: btparse",
+    "7dafc00d32b3fb5954df2c84c14e4b19d65271a1": "New formula a52dec",
+    "e36852a7b4842791a9012b925d9e4d6d0a4115c2": "Fix mandir for jasper",
+    "778863b3bd0d06e8e369c61e964e72661d17c4fe": "Fixed typo in the Jasper formula",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "1247b70de2f1b7f909f84d7ba0d5b6915ebaa4ca": "Jasper formula"
+}

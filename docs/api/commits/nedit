@@ -1,0 +1,9 @@
+{
+    "47d202d01c03d81cc41e5dd8dd7407553d1de630": "nedit: update 5.7 bottle.",
+    "e9e44dfaa1202666658e37a8acfbbecfc4d3ff80": "nedit: update 5.7 bottle.",
+    "2c0300aae365425b878e9964bfe1ada03dc8ab22": "nedit 5.7",
+    "d967ac8fc360a18b86ddcfefb3684fa793a998bc": "nedit: fix audit 'description must start with capital letter'",
+    "df1cea9429508dcc4a816ad93533325727416899": "nedit: https in homepage",
+    "d84a34bb123bd97d1ba6dfed80b13363c860c0b7": "nedit: add 5.6a bottle.",
+    "3d8ee16b406b054666fb3d8e7207bbd061d7ffb9": "nedit: import from homebrew/x11."
+}

@@ -1,0 +1,16 @@
+{
+    "92479a26a35ac4897576074c4b964ac46b256b5b": "grepcidr: add test (#33473)",
+    "b6f8f4053296b46c8c47885776ce617380d8db59": "grepcidr: update 2.0 bottle.",
+    "7806a580b450b969890ddd9548ea6aa0805b328a": "grepcidr: update 2.0 bottle.",
+    "497908ba5032cc3c1d2e90abbc85193084784b61": "grepcidr: update 2.0 bottle.",
+    "060b8d1ec56e768e2d26ec94ddad80527f50d47a": "grepcidr: add 2.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6402ffc02b5da1c87a27ca7ee145561111323426": "grepcidr: install manpage",
+    "f7b2458ef5cb6fff8decd82b784adbf08b1380e5": "grepcidr 2.0",
+    "ddab077def80d9fe54b1775b34639a2e0f43f476": "grepcidr 1.4",
+    "13b21d321dac7096432b07e11c08239f0f3ea349": "grepcidr: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "121eaf4192bbc50964cc25fb3e24a7a680810eb3": "Add new formula: grepcidr"
+}

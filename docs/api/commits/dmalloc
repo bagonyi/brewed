@@ -1,0 +1,9 @@
+{
+    "c940ca0274ec8e725dcc11ba2f3446d0f0e8637d": "dmalloc: update 5.5.2 bottle.",
+    "cd4ef6a1cbc1af7748e6b42d856f70ab1e786eca": "dmalloc: update 5.5.2 bottle.",
+    "ec6e0116fd4e981a4890ec2252f482265cd597b4": "dmalloc: update 5.5.2 bottle.",
+    "bd96c71320f472af8fa5434e79eb1d24b71075e4": "dmalloc: add 5.5.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6f80f9a1c1e2b21d714ce5fce9c4f544245dc0e1": "dmalloc 5.5.2"
+}

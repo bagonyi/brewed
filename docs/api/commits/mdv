@@ -1,0 +1,23 @@
+{
+    "5c2ef01e6fd9bbd5a4f878cf6d68077e18134ebf": "mdv: update 1.6.3_1 bottle.",
+    "1b40afb91ee25719dea6ab98ef5691096cdffe9e": "mdv: move to Python 3",
+    "9e1a0918143bdea203e42054e84bf194907ec773": "mdv: update 1.6.3 bottle.",
+    "f117e342dedd02758dbf1350a3d15c733c7deba4": "mdv: depend on python@2",
+    "e969b5846d9f5fff0787d9113b2e416b2c3f6251": "mdv: rename python@2 dependency",
+    "6860ec858931fb802f251a25859fe1354005ff58": "mdv: depend on python instead of :python",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8b03bd248219a334c0b37c3276d4a7c4d96e85e0": "mdv: update 1.6.3 bottle.",
+    "0bd4de27f575069800e940878387ec14495d3fd0": "mdv: update 1.6.3 bottle.",
+    "f6636750a2a4ff8d3f8f9d964ae63c2031124fd1": "mdv 1.6.3",
+    "f158e6fb8e3a72478e012c16a7967e3ac67a2d68": "mdv: update 1.6.0 bottle.",
+    "8c39336b4b7325be0d2d5b31e61a0052ada513c6": "mdv 1.6.0",
+    "ec2ff2d9874c1634618837f9fd1b85a5d811d822": "mdv: update 1.4.1 bottle.",
+    "8cd13f4d10ca056ecaeacb2f7d98b9ad373fe0f9": "mdv 1.4.1",
+    "ede2de625f9d783fb44c28cc77cbef7070584ca0": "mdv: update 0.1.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "cec493ba56f7e5e469783f9950f5138488bf4a57": "mdv: add 0.1.2 bottle.",
+    "465d0f7d23286f1c2700b8f7daaf116ecc33c376": "mdv 0.1.2 (new formula)"
+}

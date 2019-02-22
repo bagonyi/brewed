@@ -1,0 +1,18 @@
+{
+    "27cee11fbb62b799447f6febeea9cbd3119a323f": "vit: update 1.2_1 bottle.",
+    "a892773974ea7f0ad6f93f29f01187529686955b": "vit: update head url",
+    "bb0d3f90d53339f33f9266a78e0b74c9cc577b3e": "vit: update 1.2_1 bottle.",
+    "d35ac966cef19b0301ff26521a528a8574707b61": "vit: fix audit",
+    "62f0d43405f022d4bdb3169651ec70846042b1d8": "vit: update 1.2_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "741bcdb93b6f920de45e26999c919e56873af6a0": "vit: add 1.2_1 bottle.",
+    "c7aa4602a4a18a7e41c202eacf1f0d274d0d5e02": "vit: use https homepage + resource url",
+    "88e969498dd500c1c9d5b9e5a578902c08c5541f": "vit: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9aa59916b85aa43b667d75bbcc96eb649849e6f7": "vit: Fix installation of vit-commands help file",
+    "ef2508c8dc149513e2fa03fdfcae26f25c93fe36": "Fix broken Perl::Curses link.",
+    "ec849ac98d12fb14bfffe55651a35cb36d4f8ab3": "vit: style nits",
+    "3c03c63da16d78f4426fb313d767a1f1faa2b560": "vit 1.2"
+}

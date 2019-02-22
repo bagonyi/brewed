@@ -1,0 +1,20 @@
+{
+    "a57f3998154c294b3e3d4af76422d7e26af2efdd": "paperkey: secure url(s)",
+    "647e64de2b86580700c93ca99f7a2d7ce880b627": "paperkey: update 1.5 bottle.",
+    "01f1e651979a9a8404549ad056b01d9cd7b3db16": "paperkey: update 1.5 bottle.",
+    "20607a04679f958f13343c137c1891db0f4b66fc": "paperkey 1.5",
+    "d3b88ce156578178d62469bbc3a3f3dcffd682b1": "paperkey: use assert_predicate instead of File.exist?",
+    "35bd0316ef61f5b844fa94164824eef2831b744e": "paperkey: update 1.4 bottle.",
+    "8d2f1861694afc93ec70cceb8a876b7a6de51673": "paperkey: update 1.4 bottle.",
+    "6b2ef47cbab68d26b1937062382bdeaa39d811ea": "paperkey 1.4",
+    "19b878e62e5bb41fadf05f430da47e6263553d6f": "paperkey: update 1.3 bottle.",
+    "03659cf6b35c6d432d77fd7862b7207fef41f57c": "paperkey: update 1.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e8c03024ae19ad209a68efaad59b59d18184d944": "paperkey: add 1.3 bottle.",
+    "21da82a444a603870f9b9baa137cc0529463665b": "paperkey: test added",
+    "2d2173cea0055a2678d883627f2c2d2eb9b94e13": "paperkey 1.3",
+    "0b2ba1545a606fa0520eb58a117c045badb68ab5": "paperkey: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6bd3f40850ecf44d25979783416a4e467642f9dc": "paperkey: run 'make check'",
+    "f301fe5a06c16dc271a0c5d55b2bc5f5b3e2d379": "paperkey 1.2"
+}

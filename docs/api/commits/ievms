@@ -1,0 +1,10 @@
+{
+    "4c03d0467f9f8c0123ba5b72534c23fefd41ff5c": "ievms 0.3.3",
+    "f4332dae42ca886ff989cda03b5ed3c0e5cffefe": "ievms 0.3.2 (#8550)",
+    "d5a74eb0b53c435951340a4f0ed8bc774c951e81": "ievms: bottle unneeded",
+    "ea914fad913c390a1978849991766d471d9beab9": "ievms 0.3.1",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f7df7290fc4c55e2e3c4176bf8435fe4a5ce0b38": "ievms v0.2.1",
+    "ea6782e61afa8d1d43e2ee2d49c33a813f70d268": "ievms 0.2.0"
+}

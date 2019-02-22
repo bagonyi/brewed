@@ -1,0 +1,19 @@
+{
+    "df2f446fe209c370cfc1e32c6ac19871b32725d0": "minizip: secure url(s)",
+    "e18684dbb8f5ea089fa88a00a723f38bae6e48ba": "minizip: update 1.2.11 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a280c6ce3d0e83e07a75afe445729fed20b1528f": "minizip: update 1.2.11 bottle.",
+    "a730197ad59c25e011939732c9c46f7988e491c1": "minizip: secure url(s)",
+    "b455761a90ecd5e4e6dc5614fd623a999483038d": "minizip: update 1.2.11 bottle.",
+    "a04c2e396e542760e9eca9e2a2a6542e5df70c69": "minizip 1.2.11",
+    "bdfc511b2d289049f3930960127d38b3274a5e94": "minizip: drop universal",
+    "efcd83ccbf0577c7f34fac083d03c3942019ab81": "minizip: update 1.2.10 bottle.",
+    "c415317fa96a17947f91187b986fd87051eefa23": "minizip 1.2.10",
+    "e4be7eeee2849484dbc9f581ccb605fffedb477d": "minizip: update 1.1 bottle.",
+    "9251fb93b8a32da19bc768cdf7141aa88c471c78": "minizip: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ec6c4e074a19ad12c2f48f0fce5d2328469d0b5a": "minizip: use patch DSL",
+    "42b6b3d98881a34ecadc229f647303353d272fc6": "minizip: needs newer autotools",
+    "92469c78704bff220006ff332fec0bc5fc4314d0": "minizip 1.2.8"
+}

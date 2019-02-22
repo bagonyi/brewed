@@ -1,0 +1,12 @@
+{
+    "193e598841e39918ebbfdff274e88968c7166f5e": "libwebm: update 1.0.0.27 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8af1b2cd2b5c3d6e6de23ba794a9e732961c3768": "libwebm: update 1.0.0.27 bottle.",
+    "4f948227497ed7824e72bec21b18cc9e186d0411": "libwebm: fix test on 10.13",
+    "1cfeb7102a73ef726ea972741e88ebbe1d52cf3e": "libwebm: update 1.0.0.27 bottle.",
+    "71ff8cc8ef6af3e932aa02b7eda23d40ed3bf6fd": "libwebm: update 1.0.0.27 bottle.",
+    "965dec4db02e920b6579386b448f2bf6c49f7f0d": "libwebm 1.0.0.27",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "8e2e226d780395eaddb53676af7e5931e955fa0d": "libwebm: add 1.0.0.26 bottle.",
+    "f9309b189950079ab626abd3bc7c9aea8ff7d957": "libwebm 1.0.0.26 (new formula)"
+}

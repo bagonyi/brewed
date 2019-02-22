@@ -1,0 +1,14 @@
+{
+    "20a0252f191d8ec6ac0dcdd75b120965374a02f7": "lincity-ng: remove devel spec",
+    "671fc52d10c41adb7aedb42bacdff142b1660f15": "lincity-ng: fix dependency order",
+    "f7a58f4bc907a0b00e9d72d3f8d47fe1554163ab": "lincity-ng: update 2.0_2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "ca40a95f371fb35bfe991b9127911fe7744c03c7": "lincity-ng: update test (#20771)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c101c9d65cbb67aa8ba659a2d6b3e8b566c6ee9b": "lincity-ng: update 2.0_2 bottle.",
+    "efbfd1460c915904587e081a16bf76f174aa892d": "lincity-ng: remove redundant version specification",
+    "359e5c4b3a7554f25c70b709ebece470d1bf567e": "lincity-ng: update 2.0_2 bottle.",
+    "8a2de3b0f70d0a4eb2a25c90927633a5ddd5a4f7": "lincity-ng: update sdl_mixer dependency",
+    "7952c45dbce39ee934bdcbda5725e0d7dd310cbb": "lincity-ng: update 2.0_1 bottle.",
+    "f1ee14c579c365aef07848a5582b7dae08ddf07d": "lincity-ng: import from homebrew/games."
+}

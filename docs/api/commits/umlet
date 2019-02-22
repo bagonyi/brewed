@@ -1,0 +1,9 @@
+{
+    "8780bcc4cc70de26ca166098e2ecbd63aee18000": "umlet 14.3.0",
+    "a5c72387e7ff17051f8d574abea507fcfa0e7441": "umlet: secure url(s)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dece65f8091c085b81df1c0cdda80ff68f5d514c": "umlet: tweak some whitespace.",
+    "c3cf670e1c6d59b4cba1342ffa3a0742e1a4b6e1": "umlet 14.2 (new formula)"
+}

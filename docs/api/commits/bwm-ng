@@ -1,0 +1,22 @@
+{
+    "cec99c35f826e7879aedecb7b13342ab8ef07771": "bwm-ng: remove references to pre-Mavericks.",
+    "0ce6243be23c5d77e3f0f26fa02e9eaf48028a37": "bwm-ng: fix dependency order",
+    "f1b0690b40075fd28ff62b153a7c7f11561aeab2": "bwm-ng: update 0.6.1 bottle.",
+    "48e716864c6a935df4c7bfbee6902c49c40b1a00": "bwm-ng: update 0.6.1 bottle.",
+    "18db69234e6b7f2603b43177caae14736911bfa0": "bwm-ng: update 0.6.1 bottle.",
+    "7f9531fdc3fdbcf9729862e3195578f9300cd41e": "bwm-ng: update 0.6.1 bottle.",
+    "afa61208786dac55865cd90b5f0d54d100f0121c": "bwm-ng: use https urls",
+    "0cf2abaf262026b8de49d35d6534533b8eceda7a": "bwm-ng: add 0.6.1 bottle.",
+    "b92d09a23b8dfa3bc80ac5d26e91da70d68ae310": "bwm-ng 0.6.1, HEAD",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f728a0e0d46471baf64c18985856fc06a70b753a": "bwm-ng: fix building with clang.",
+    "b60c7453bb53cb73f489caca1736a01562b0cea8": "bwm-ng: still fails with clang 425",
+    "ebdd83032ad8d2c26dc548d436beede06e4058c8": "bwm-ng: style nits",
+    "6b3dd9a092581df619cf68c0c694506eaca33e5f": "bwm-ng still fails with Clang 4.2.1",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "64afeec6d43528a235ff61d2a627a829f089cac1": "Use new fails_with DSL syntax",
+    "e034f262300b67236dd478beb8aa4387748322db": "don't use clang 3.1 for bwm-ng",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "eeeb1db72e3e80876de4ae0a6731fd651401f1da": "bwm-ng 0.6"
+}

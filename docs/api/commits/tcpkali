@@ -1,0 +1,18 @@
+{
+    "31eed65ae7bf1c7e184b1f8a814f6e3ebd000550": "tcpkali: update 1.1.1 bottle.",
+    "d8962c91c3c9d56b77086d865d9e1c9ab6e66f80": "tcpkali: update 1.1.1 bottle.",
+    "9363cd4b03140614fd2a3de79f8a4cb4ad952816": "tcpkali: update 1.1.1 bottle.",
+    "ea90ae8e299a946282933524a5b1ab0a79f9fdb9": "tcpkali 1.1.1",
+    "2d1225188b4065e2172409b680187dda997d7db6": "tcpkali: update 1.1 bottle.",
+    "c682d165719a396c98fdbf4754cb239fe027c1d0": "tcpkali 1.1",
+    "efc8c020bd7846da05c4f3d24e5163fbc6a74fd5": "tcpkali: update 1.0 bottle.",
+    "a52f0f9aa59277f0074699e423cb361efb37f842": "tcpkali 1.0",
+    "3374a4af5c6e4dd3a7182f6f40c4597f4caa4d44": "tcpkali: update 0.9 bottle.",
+    "db16ee9715d54b953d6e38c33e6182d7ee77ffb1": "tcpkali: update 0.9 bottle.",
+    "19b614f9bb8611d3efb69447a69b44475e5df042": "tcpkali 0.9",
+    "692e4f322b59982adbe52749b01fd445e50b7721": "tcpkali: update 0.8 bottle.",
+    "21a241c173700efc891880ce4ea098c4e6fff35e": "tcpkali 0.8",
+    "48cf23314b570861439d4cf2299430aa6ccfc8e3": "tcpkali: remove version test.",
+    "15562e57a08836822da35e11142406cc5e2abaa4": "tcpkali: add 0.7 bottle.",
+    "0ee5e7eb67d8af7fe13526cd4503145185382a47": "tcpkali 0.7 (new formula)"
+}

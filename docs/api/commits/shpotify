@@ -1,0 +1,12 @@
+{
+    "9ec0b941328881816b9bb81bac8b8f66ec609cd2": "shpotify 2.0.3",
+    "be32a7d08caaf512412c5c1df55e9f0cd8c148e1": "shpotify 2.0.2 (#21564)",
+    "d56b58226c94f7583d451c0f31c2afeff2991b33": "shpotify 2.0.1 (#20646)",
+    "5b447883b1ef5fc06ecede92b006d83eb983992b": "shpotify 2.0.0",
+    "f957402171a229b6f990d5629ec065eb52bce101": "shpotify 1.2.0 (#4983)",
+    "10b85245dcef439b24dc76e8a9dac210d3027cdf": "shpotify 1.1.0",
+    "b45641710b480264414d274fd4eb94db5e9296cc": "shpotify: bottle unneeded",
+    "96cec4de9b2c0428ebd9e20e2daba5bfc8eaab29": "shpotify: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2ae03ac544af4ed9874c1c487a0ff84bd35a32db": "shpotify 1.0.0 (new formula)"
+}

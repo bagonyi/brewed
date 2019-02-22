@@ -1,0 +1,18 @@
+{
+    "17be1473c923f8b4f77c4b2f784c4e23cbb0b3e7": "narwhal: fix audit",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2d2ae812b5b7367397427f18fb28742825ea204d": "narwhal: conflicts with elixir-build",
+    "a633efc2206e11ef4e0ec6830f663d36d0df0e18": "narwhal: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6c34ceca6b4a65f30711b2ec2194a15a67e38aec": "add spidermonkey/narwhal conflict",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "ad86307d8e94c68d68c701f5a39e0059080c7cff": "narwhal: point homepage to git repo",
+    "fd66ea6b572da37bd81934263a4b51c20d343549": "narwhal: use install_symlink",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1873fc130c38b6ac58a1b4892f4e846410811295": "narwhal - move repo and add stable release",
+    "c8c73547701cbd07f812ac0dc66a1ba3a61a232e": "added narwhal formula"
+}

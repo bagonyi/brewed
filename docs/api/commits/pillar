@@ -1,0 +1,19 @@
+{
+    "598f6cfc2ec62212e0fddc0467cb045f466dae28": "pillar: fix dependency order",
+    "f5c6cb7b668bfaff2a4e8f810d45a9b1f185f50d": "pillar: update 2.3.0 bottle.",
+    "4fc3f8609f99900ae46029363dbf737ad38724d0": "pillar: update 2.3.0 bottle.",
+    "84b70048bb64570b494b01ed982d353c466df350": "pillar: require Java 8 specifically (#28321)",
+    "3ff6942d0e45dbb8037ce7fcea98e8e386c0f48e": "pillar: update 2.3.0 bottle.",
+    "9ce3e1b4509810686dffec36a15b8b6de83ca722": "pillar: remove deprecated ENV.java_cache",
+    "bfed56633f65f6c932396d0c4e610800a58343e6": "pillar: update 2.3.0 bottle.",
+    "702e0ba8de8898968c9718d958d17291b64b60aa": "pillar: update 2.3.0 bottle.",
+    "db7bf4449275d56e3cd8161ed2379fe911b5c0f2": "pillar 2.3.0",
+    "692136ce9b278a7a8766044bf72608b3f6a23f70": "pillar: update 2.1.1 bottle.",
+    "6c654779097472e67630ca9f9522fe5f0a5059a2": "pillar 2.1.1",
+    "a2160c081335e2aaae02c72bc899484cfebb6bd7": "pillar: update 2.1.0 bottle.",
+    "ca8fddae76e5043408fb6cecfd7e818615677c46": "pillar 2.1.0",
+    "d450562ff66fbf6beedaba614e840cb4338f8642": "pillar: add 2.0.1 bottle.",
+    "03e98af2bc92e9ca95eceefed188895db284fabf": "pillar: fix sandbox build",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d7438de515453d43930f6b52a91b9e730f5e0ff3": "pillar 2.0.1 (new formula)"
+}

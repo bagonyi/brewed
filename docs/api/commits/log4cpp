@@ -1,0 +1,22 @@
+{
+    "59259dddd5f62d4f301e0eb9472930df219ba24a": "log4cpp: update 1.1.3 bottle.",
+    "4d954d05c094279cd3b6b09d2974e5f1ca801367": "log4cpp: update 1.1.3 bottle.",
+    "2714cb0cd878fbb9a276f55cd1001418dde659b3": "log4cpp: update 1.1.3 bottle.",
+    "a4712b4a12be47286b198d98bc29458bb3396e07": "log4cpp 1.1.3",
+    "3c89efc8686886e143022d85fc686e9bd37e5d8f": "log4cpp: update 1.1.2 bottle.",
+    "3973c333eec0c410ddd59369c425843a5f5fc4e2": "log4cpp 1.1.2",
+    "f5056f17cea1ebbefd590f371038b02c136bc067": "log4cpp: fix audit --warning",
+    "57a644636d26144408a1b2b69a3f84accd8bb3a8": "log4cpp: update 1.1.1 bottle.",
+    "378565749175511110f9c350ffc70dfbd54fb5a5": "log4cpp: add 1.1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b7678ae56135943ebe597497976f6549078b1904": "Change some SourceForge urls to use https://downloads.sourceforge.net",
+    "9d649360f642afcaba48e3427958a63966100de2": "log4cpp 1.1.1",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "4807ba15df133f06a4a5f1499ca67a035a33bef5": "log4cpp 1.1",
+    "e9a7ed561f3fbc1165c4a8fc1c8c606dcc9851f9": "log4cpp --devel",
+    "a3e60f2686b2228210dc84ec4de1f67af653de8a": "log4cpp: update URL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "709463e2c36781001e9bd0a006cba3491c21f9cc": "New formula log4cpp"
+}

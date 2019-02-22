@@ -1,0 +1,19 @@
+{
+    "1cd7315952bf06fb638b1b25020d9139ff901602": "scalaenv 0.1.2",
+    "70c0eec5dc0c685fb770be00832ac8c32571a6eb": "scalaenv: add symlinks (#24787)",
+    "2394e7fef7919dd8c0b4ca66375a9048412ba812": "scalaenv 0.1.0 (#20560)",
+    "fbd7c70af98a8cba8fa79a2d2fb1eaef7d6ca7bd": "scalaenv 0.0.16",
+    "07568eb651b0712d3df8c5013c4d90a26497ba0a": "scalaenv 0.0.15 (#16906)",
+    "a15a15f5e9eac30873bcfa582fdb3be4f607a85e": "scalaenv 0.0.14 (#16157)",
+    "572ef24f67f4c9c01db79943ef83fc9ddfa95e4b": "scalaenv 0.0.13 (#14936)",
+    "d6a2eec5335f9aeac7fcc6ede2c65bcb05284b79": "scalaenv: fix url from my namespace to `scalaenv` org.",
+    "d81746b451313afef179b342911b312fae67a64d": "scalaenv 0.0.12 (#12815)",
+    "015b0e8e2b133f502056bdb8e8a90b9b95c6387a": "scalaenv 0.0.11 (#10580)",
+    "806f8ead7cf69604098e244dc450e76fc4506e46": "scalaenv: remove non-Homebrew-specific caveats.",
+    "d5154bc48bf033bc1331ef79fc34a747c2412a42": "scalaenv 0.0.9",
+    "c2d09b63e0d0b311e1ff7ab44ffa79c90a00fe45": "scalaenv: make var symlinks in post_install",
+    "d77c834b9342594d6050d8f20de1a1f3ba1467ed": "scalaenv 0.0.8",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "13af57c7f99c8e10cf23463d292b8725e2f308ca": "scalaenv 0.0.7 (new formula)"
+}

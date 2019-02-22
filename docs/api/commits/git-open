@@ -1,0 +1,10 @@
+{
+    "1b7efcdec00a9b7b7840c1ce73ce66fa6f5385b9": "git-open 1.3 (#36054)",
+    "9f5fe4dc22b11ea4de59b92c41614666ea2171c4": "git-open 1.2 (#32995)",
+    "be9f744531e468c3edc6bb89b072be406d98ef3c": "git-open: use valid command for test",
+    "781df92e3cb390a696f23c3eab3b1f79a860e054": "git-open: add test",
+    "5c9642ebcf9968513b4bc07bc6376cf3c30a18ba": "git-open: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8dfa8dd58619af6aec6f88150eb1066618cc6aea": "git-open 1.1"
+}

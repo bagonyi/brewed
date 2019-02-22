@@ -1,0 +1,14 @@
+{
+    "b2f3daa2de80edeeeeac490fac35cdf7c69860d8": "qprint: remove references to pre-Mavericks.",
+    "b83c8247699dbbda692701c0b77ce1207632f12f": "qprint: update 1.1 bottle.",
+    "edc63573bd06852238a0a1a6304be6c12d917cdb": "qprint: update 1.1 bottle.",
+    "ea7d8288fbb611aa8960c7cca50fbf2d806a921f": "qprint: update 1.1 bottle.",
+    "4a62c58035221bcec8d4d998da4cd879ca0ed042": "qprint: update 1.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "91003adbea6077ecb8cd0afaa52c7afc7235d042": "qprint: add 1.1 bottle.",
+    "2dad2c8b30aca2e5cf0a6a8fb8fd17ab72f5af82": "qprint 1.1",
+    "c71111ebd856f0fa3f291148f5bb5200c61f2bcf": "qprint: remove unused configure switches",
+    "dc5dc5efe4e4e52505611053073336d6d59822e2": "qprint: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f1421b24c2f737d9a51bda2222fbe99160660d2f": "qprint 1.0"
+}

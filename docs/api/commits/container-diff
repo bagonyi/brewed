@@ -1,0 +1,23 @@
+{
+    "88ce934541d8482b3e1b9b110142e69a8ba4e35c": "container-diff: update 0.15.0 bottle.",
+    "c1aba13c5f5a43773bd15f3497c64303822d7cab": "container-diff 0.15.0",
+    "e978a512f5b90e8c822fa0012e720aa89c2bb7db": "container-diff: update 0.14.0 bottle.",
+    "855b6e88489f8b3f40531e575399ef82d31ec608": "container-diff 0.14.0",
+    "df607b0b85e0379f5f79433051326c8b54330817": "container-diff: update 0.13.1 bottle.",
+    "57629038adfdec7167f60ea0a2bd3e1d8ee9a37f": "container-diff 0.13.1",
+    "514645ed1470fa4a6ed1bf6d5813b99620c7f91d": "container-diff: update 0.12.0 bottle.",
+    "5a4dab94fd7c8d82501188d74cfbefa244f6c3fe": "container-diff 0.12.0",
+    "c1588d6a456159bdb402d6fef1dfa5d5b5aaf2a1": "container-diff: update 0.11.0 bottle.",
+    "cbbf804d26d793ce28efd79567f18177c4f66b46": "container-diff: update 0.11.0 bottle.",
+    "08999b0985a9e6ee8d4466a42878fdf10e23c2aa": "container-diff 0.11.0",
+    "b4ae985504fc24fa6344bf13f3ca8d111066edf5": "container-diff: update 0.10.0 bottle.",
+    "0e258474c63b5fe4668260e4ff1374d6a97dc3e9": "container-diff 0.10.0",
+    "9abf0fb6896056e94ef41f83a776a97361759dfb": "container-diff: update 0.9.0 bottle.",
+    "fed56d0275d096164b998aea53a3ac2464cad346": "container-diff 0.9.0",
+    "ec4e0fd6f1221a48a55300354f917ba0da2133a6": "container-diff: update 0.8.0 bottle.",
+    "c5f6834d60d7e8f21e137cd4b26339d0f591ef8a": "container-diff 0.8.0",
+    "70012ec68e2e349ca238feb3e1f3d88f3017623f": "container-diff: update 0.7.0 bottle.",
+    "dcaaaf6d9075e723300cef2bf62f56097517cd80": "container-diff 0.7.0",
+    "2cdf909120dbd4077a8414d9134a52974bbcda1c": "container-diff: add 0.6.2 bottle.",
+    "4defbf0f1c902b2b7d5f60764fb2f51a61ce4fa0": "container-diff 0.6.2 (new formula)"
+}

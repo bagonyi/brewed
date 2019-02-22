@@ -1,0 +1,20 @@
+{
+    "05cf595ec35ab7b71ea8814e78b9ca165d62c3a5": "nfdump: update 1.6.17 bottle.",
+    "8f52228c92188970206bce27235b3f3a415ed4a2": "nfdump: update 1.6.17 bottle.",
+    "1fc08ce122cb4d4eefd5799188e1dde1056bd6ba": "nfdump 1.6.17",
+    "d06db1a4050f768c6e686cecc5ab6c447befca76": "nfdump: update 1.6.16 bottle.",
+    "7a63f26b7d3359c630a7592c301da5a8fa289e8f": "nfdump 1.6.16",
+    "9056b798bab76219134660685edd1249cdbb6bcc": "nfdump: update 1.6.15 bottle.",
+    "bc89edff3d0f7c1abdb0003a449ddb59a903d2e5": "nfdump: fix audit about sourceforge link",
+    "0308af28d285da34c3680d6ce2680b3c77f2ab6f": "nfdump: update 1.6.15 bottle.",
+    "2e8e4f23921adae699ee502db961b49809b91441": "nfdump: add upstream bug link",
+    "1215e98089094888dcf7114d6dc2ca3c6cf59a51": "nfdump: update 1.6.15 bottle.",
+    "b358ee9c3db207ced93860a4023f29e8ee7b282f": "nfdump 1.6.15",
+    "04af6fa00cfe0468a46ca167a77f50ece56e3550": "nfdump: fix typo (#3406)",
+    "b3ec36968261ba22bf896564e871fa797447844c": "nfdump: update 1.6.13 bottle.",
+    "e37f4f0f8f3a8379311cd76616fadee0cace6e91": "nfdump: enable readpcap",
+    "9a451c86eae2bbdd514c7b3b7ad0955bd57d942b": "nfdump: update 1.6.13 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "082735f7260f5419d035fe21b15ac93ecfe58307": "nfdump: add 1.6.13 bottle.",
+    "63c38eb744e122ca54aeda6b667e6dbe1f1df5c7": "nfdump 1.6.13 (new formula)"
+}

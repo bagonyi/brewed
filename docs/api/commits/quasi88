@@ -1,0 +1,9 @@
+{
+    "ba840d1f6bb3a032c960d837474004cbaac7ba22": "quasi88: update 0.6.4 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "87ae29b2cb8ba89434a98096f143c3c9dd319f08": "quasi88: update 0.6.4 bottle.",
+    "ad362ca2a856d5a6470a15d02c1159c90632745e": "quasi88: use https for homepage and stable url",
+    "e46a3384315cf97555aa25de0eb42fc3e6b39dcf": "quasi88: update 0.6.4 bottle.",
+    "596af9ebad0eac253325ec74570ed43a94e56924": "quasi88: import from homebrew/games."
+}

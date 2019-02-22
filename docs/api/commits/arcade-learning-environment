@@ -1,0 +1,20 @@
+{
+    "97002098b8a5173480f244f2098a48b1abb16dbb": "arcade-learning-environment: update 0.6.0_4 bottle.",
+    "ff1047b85391bfd46c742178989b7c511ce2c137": "arcade-learning-environment: revision bump for openblas",
+    "358cebe26f20ccd83d70d642748af09ee2ca826b": "arcade-learning-environment: update 0.6.0_3 bottle.",
+    "05a6edf9f2e680e07f92811e5dca433b4ea47af9": "arcade-learning-environment: fix dylib install name",
+    "8aaa6ce997b84ecfb5df2841044d9a2908c8f61c": "arcade-learning-environment: update 0.6.0_2 bottle.",
+    "0f0ff6b37537c3ad076f7c22e340a8332c323362": "arcade-learning-environment: revision bump for openblas",
+    "bcbdb2b631e82aa50790b6ab2d876cd883fe0058": "arcade-learning-environment: update 0.6.0_1 bottle.",
+    "f5ca6eb8d7a27deb312f7c2a01c43cc21a6c30e4": "arcade-learning-environment: move to Python 3",
+    "12e268b52ed92e7c7d4537e10ea681ca9e6e29bd": "arcade-learning-environment: update 0.6.0 bottle.",
+    "7929ef8221cbc9c8b115d4a8bbb38c6ee33d65e2": "arcade-learning-environment: update 0.6.0 bottle.",
+    "52aa1882784e304cb993097916534017782daaa5": "arcade-learning-environment: depend on numpy",
+    "c54686d94d79a2fa07c45e523fedbaafc4487b06": "arcade-learning-environment: depend on python@2",
+    "f3f3f79ee4039d159d402c266941e255eb40718b": "arcade-learning-environment: rename python@2 dependency",
+    "1e01fb58e693b5509fcdc127a2898ee438ba9216": "arcade-learning-environment: depend on python instead of :python",
+    "3aaf429f1f652c1bf3463b1dbab16a7cd581db83": "arcade-learning-environment: update 0.6.0 bottle.",
+    "596b84d7078b9ed1edacea771861b1f00f03f3a0": "arcade-learning-environment 0.6.0",
+    "c3012f87c776c641d51c486880b29861efb5ebbd": "arcade-learning-environment: add 0.5.2 bottle.",
+    "719be818736f3b05adc14ab905a6065c4146d52b": "arcade-learning-environment 0.5.2 (new formula)"
+}

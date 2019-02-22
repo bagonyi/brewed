@@ -1,0 +1,20 @@
+{
+    "fadd78047d94c11b8acb1a4f908b75e2629c5b36": "amtterm: update 1.6 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "19fee50219698f07c9e118ac98d5326319a3c390": "amtterm: improve/secure repository url(s)",
+    "c3ef87d302b1333012f6f841eb6940c358913a70": "amtterm: update 1.6 bottle.",
+    "15e88b3cbeadaed1631b1a4aa2e294e2c9d4c3f9": "amtterm: update 1.6 bottle.",
+    "3b78cacc49c675186555a08e15b14a710edbadc2": "amtterm 1.6",
+    "16e52158e49970d0e348a458e13def32131fe946": "amtterm: update 1.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "b81f28eaefef9378c8469968bc8242171842f7cd": "amtterm: update 1.4 bottle.",
+    "6a5600029904c02e60709a1d5a495cd2ffd5fce4": "amtterm: use https urls",
+    "a3249e54e179aaa6809870e14cf71fcc5f9926ee": "amtterm: add 1.4 bottle.",
+    "c02341927b89cc55f4e37a8b095af5b763df92fb": "amtterm 1.4",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4280cc14a2fa3c554eb3a6743693412e488138ab": "amtterm: basic test added",
+    "c42733988e531cbc804a3cbb277ab282e5c1c371": "amtterm: add metacpan mirror",
+    "926d39efed016e93f3924fb5c59cde936d4c976a": "amtterm SOAP::Lite resource",
+    "eb0ccbc4ffcc66a3dcbfdb0e46ac68c92fec60bc": "amtterm 1.3"
+}

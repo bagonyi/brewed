@@ -1,0 +1,18 @@
+{
+    "ffb065da3160a5fb65ae0bbd12e9a881168b25f9": "minetest: remove some options",
+    "ed57c088962eff895629dd335c1bfb1b29b3bf54": "minetest: update 0.4.17.1 bottle.",
+    "17d9a0edf84554e5ba996e1d7bebcc07208b1095": "minetest: update 0.4.17.1 bottle.",
+    "b2c6b22a6cad3cde0e76fe7b4d8f35d1783ff83e": "minetest 0.4.17.1",
+    "1fabe36e1e4a245f92510625dafade04514dede4": "minetest: update 0.4.17 bottle.",
+    "1d4368ceef1c8760f11dd5990ec475f54ccd42e5": "minetest 0.4.17",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "19cb732085a97f6694f675fc6fff224c483d3ca2": "minetest: update 0.4.16_1 bottle.",
+    "7adab1de36b234ad580b35300dae020a67b25831": "minetest: secure url(s)",
+    "8594dea71fc3b48ced50ab820e519fa865dff329": "minetest: update 0.4.16_1 bottle.",
+    "68f8c1d4a7f8fc3bd2517306b11417877d9ba77a": "minetest: revision for jpeg",
+    "6ae445ca037729b2784498a04276382148f4eed4": "minetest: update 0.4.16 bottle.",
+    "64573b4485bcd0e619b6a9f921421e58b5a6e934": "minetest 0.4.16",
+    "89a7eba411ca5875b8c16daf93b2aca397e7c1c4": "minetest: update 0.4.15 bottle.",
+    "c5ca1d3e9b7274fbc524db21191c937d840bd953": "minetest: import from homebrew/games."
+}

@@ -1,0 +1,14 @@
+{
+    "950c379cca756e75539c3093eb4c193a2b15f264": "dwatch: update 0.1.1 bottle.",
+    "8866ba3a73e04e7e2e2b06a9482fb9eb7ee8e509": "dwatch: update 0.1.1 bottle.",
+    "2b310254fe897a01c197190e2b462612631ea1b1": "dwatch: update 0.1.1 bottle.",
+    "ad2fbd15175a4e3e8e7b7d2d9a43d3df837cbb95": "dwatch: update 0.1.1 bottle.",
+    "1ad83b9a1e376e5391ddb0b007ef953ed31f6564": "dwatch: add 0.1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "56a897a2815788442f4c460b123be38fc263a368": "dwatch: style nits",
+    "ae0c6c0e77a7962420f215099f680495688a4e67": "New Formula: dwatch"
+}

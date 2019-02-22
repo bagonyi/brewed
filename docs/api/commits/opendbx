@@ -1,0 +1,14 @@
+{
+    "398ce99f1a0d2d048863b73114b44343fed0589a": "opendbx: update 1.4.6_2 bottle.",
+    "b36387bc80bffbc7f7d0927040db2ae70319dfdb": "opendbx: revision for readline",
+    "3c65303ccd1671563a6a654c09508eaf5c89c552": "opendbx: update 1.4.6_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8402c2b8567e2fa1c3496face0969ed0ee21605a": "opendbx: update 1.4.6_1 bottle.",
+    "173b302f8f4725f18ba3f623b78268a78b5bff92": "opendbx: update 1.4.6_1 bottle.",
+    "661e8001f7035a50cdf475d43b5e4211bd9d8aee": "opendbx: revision for readline",
+    "04dd60b63e6ff5da9b8b2cc61a5cd3fe66e3eae1": "opendbx: depend on readline (#5008)",
+    "56985caac8558cd689deff81e15a910c66039809": "opendbx: use secure urls",
+    "bdcb062e6fcd91094ffd022a023fc099f308d3b2": "opendbx: update 1.4.6 bottle.",
+    "55d9bae78aece384a264fb3393d6c7c4b13d1146": "opendbx: add 1.4.6 bottle.",
+    "3511c9483ae6aafcf05bc307d2ce1f67f3d6ed33": "opendbx 1.4.6"
+}

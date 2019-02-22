@@ -1,0 +1,21 @@
+{
+    "48d9a67260ffe7cb764dcd378ed594efc9b5a85e": "lhasa: fix dependency order",
+    "83cbb876ea29b14d2cd15fb257662502e4e64028": "lhasa: update 0.3.1 bottle.",
+    "bf5ceb3776333468b5a2840aebb8e8bc0893484c": "lhasa: update 0.3.1 bottle.",
+    "325fb09e6eaeae2985bbfcbce10cba75e8fe3965": "lhasa: fix audit",
+    "f427e67ed9c6fcddb877f2374b55665e39ef04eb": "lhasa: update 0.3.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "0ff20aaad7b095f5e1d6a99201312dbc5e5d7083": "lhasa: update 0.3.1 bottle.",
+    "5bb29e39af13661cf9cde9f931561eea2b298efa": "lhasa 0.3.1",
+    "ecdd61a1319385bc4c55d086c72084d029dcfd6a": "lhasa: update 0.3.0 bottle.",
+    "5ae3b3e2419be99afbc0ec5f4146fbf81915e37d": "lhasa: test style fixed",
+    "55b6b9ee52bddeb81251ed019f7018fca6a7e6aa": "lhasa: update 0.3.0 bottle.",
+    "60f014e9b164a8146537b8c21cf295c566ee5b2e": "lhasa 0.3.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "350682a6087ba613438b2614e5864ac2399d3774": "lhasa: modernize autotools deps",
+    "b9bee2b1241218505d6b250079ee022e4f1ec949": "lhasa: add 0.2.0 bottle.",
+    "89ae1afd503a4683f69c63256edd1c6555d72c2d": "lhasa 0.2.0 (new formula)"
+}

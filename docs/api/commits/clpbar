@@ -1,0 +1,14 @@
+{
+    "69c926f944fc67d4bfee45bb9a9229674e4a84f8": "clpbar: update 1.11.1 bottle.",
+    "fae4ae68472448b44d1f4e129202bc4a2467feb4": "clpbar: update 1.11.1 bottle.",
+    "5f22e8aeb76d8c06d87216d05aae9bd87ec592d2": "clpbar: fix audit --warning",
+    "a3d277ac1933b96c73e49a565a61dc14a7c39ac1": "clpbar: update 1.11.1 bottle.",
+    "84684ef67f69189aaf564f2b3442af22ea9a565c": "clpbar: add 1.11.1 bottle.",
+    "81478adca5acf67123514cc6f3ba4487784f94b9": "clpbar: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "be568fb899e0347ad00b21f2dfda761dfd4b4fc3": "clpbar: fix audit warning",
+    "bd8edf901fd71f443b5a122b427f7062e965242d": "clpbar 1.11.1"
+}

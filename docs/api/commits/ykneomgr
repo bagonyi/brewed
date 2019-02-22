@@ -1,0 +1,15 @@
+{
+    "48b1ae293d5795406914dbd94c29540dbf5f5036": "ykneomgr: fix dependency order",
+    "a62aac25d1f1430ead4da76a99b74f37efb93ee2": "ykneomgr: update 0.1.8_2 bottle.",
+    "e834713c6c12318f7d75280505d9d3f57a124aeb": "ykneomgr: update 0.1.8_2 bottle.",
+    "0036f04c74799beb0d62c1899181a68862dafd29": "ykneomgr: revision for libzip",
+    "63c11af8b584d546d6e5335aad8cf7625b39053b": "ykneomgr: update 0.1.8_1 bottle.",
+    "0881da8091eafce4cadc193d0df441e7de6bb712": "ykneomgr: update 0.1.8_1 bottle.",
+    "46fc38d7a78c7bd9963ba583b990f4391c0bff0a": "ykneomgr: revision for libzip",
+    "9f34f982af374a327055de2def309b3b7d457496": "ykneomgr: drop universal",
+    "057a5f3a0530941552b4fe17d0b88a056805c192": "ykneomgr: update 0.1.8 bottle.",
+    "8ffef18f0f160e079d6b47ed254fb03e201a50bc": "ykneomgr: remove unnecessary comment.",
+    "9d0c26cffa34cc8d02a51ec447a84ea36faea27e": "ykneomgr: add 0.1.8 bottle.",
+    "6f3396615e3c30d512fcd1527d92b756fbafda01": "ykneomgr 0.1.8",
+    "e1873066fa71d8f9b0979e01baed85836f4da506": "ykneomgr 0.1.6 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "164a2dd0e1fabeebbe9b5cd6c06b9d5797476016": "yaze-ag: update 2.40.5 bottle.",
+    "0fd6d87698118dcaa826eabdd96316b74097d80f": "yaze-ag: update 2.40.5 bottle.",
+    "734bdf2b829a1916072b1fda73ed2daafcf41feb": "yaze-ag 2.40.5",
+    "d34456ce9e27e3c2c3d419321ce5289c5aa61ab8": "yaze-ag: update 2.30.3 bottle.",
+    "905826b8757b53abb5d7f056e4eafc67f45aa609": "yaze-ag 2.30.3",
+    "f60b2aa44cd919fb7172dd793e35c0fcaac83db3": "yaze-ag: update 2.30.1 bottle.",
+    "c2f1463a8f3a4b390cd45e6722adffda7090fb08": "yaze-ag: update 2.30.1 bottle.",
+    "dd22f9c3c46ad26696ce03b7bb33c8107fa4aa27": "yaze-ag: add 2.30.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bde4801224d2025e564fada72ee0be4f91da2fd7": "yaze-ag: use patch DSL",
+    "9a0119dcf44c6530e9f7ed2a5edbe32deb98d087": "Update docs, comment mxcl/homebrew refs.",
+    "1825b3ef4682653d122a19c77975173d164fe0bd": "Yaze 2.30.1"
+}

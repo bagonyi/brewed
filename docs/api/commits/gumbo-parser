@@ -1,0 +1,12 @@
+{
+    "8e21b802511681d393f7bd433fb391a62b1c1004": "gumbo-parser: update 0.10.1 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "25d80ac6e23b396404ce102b34eedeb89a894a9b": "gumbo-parser: update 0.10.1 bottle.",
+    "8bb4091f318ca4f1392af316d04042ce1cc5cc74": "gumbo-parser: update 0.10.1 bottle.",
+    "30ea9f758b53dceea1d95accf2c8b8e6efa1ec17": "gumbo-parser: update 0.10.1 bottle.",
+    "edb3a319df2f228d444427aeee52df7ccb47210e": "gumbo-parser 0.10.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "217bca810203da19c774887e418ff143b9420486": "gumbo-parser: add 0.9.3 bottle.",
+    "46bf700641ed4d23827c3e01f8ccd42715debfce": "gumbo-parser 0.9.3 (new formula)"
+}

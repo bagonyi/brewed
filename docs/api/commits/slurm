@@ -1,0 +1,15 @@
+{
+    "961b4341b4f8ec25304a6a80654f89dac78984e7": "slurm: update 0.4.3 bottle.",
+    "994f507c3968b2feec7fb80c3f97f15630e2cea6": "slurm: update 0.4.3 bottle.",
+    "d8578a14d853f93406e262373a3cbc9214b78309": "slurm: update 0.4.3 bottle.",
+    "8d63dca66d9f46f3f9a4d7d9e2f4bb9a53e6c961": "slurm: update 0.4.3 bottle.",
+    "41d801d275572625117ee336ecbf15bb6b5524e9": "slurm 0.4.3",
+    "e9b529a2875e25f157465b3ed73684a30207194a": "slurm: update 0.4.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c4cf8f4a990637af6481a1b32ea8e9019454c167": "slurm: update 0.4.2 bottle.",
+    "0c48ce7d7f1d2ae565addaa83519b16de30c6c48": "slurm 0.4.2",
+    "1209a0dff1d8957a217dcf8531f918770cdd187d": "slurm: add 0.4.0 bottle.",
+    "686a22ae5ada19e04142a3a7f7a50bcfcc7d8200": "slurm 0.4.0 (new formula)"
+}

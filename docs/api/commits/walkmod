@@ -1,0 +1,12 @@
+{
+    "db725c0061665c499667b007c64ac711944c4bcd": "walkmod 3.0.0",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "3dc81e79bb5c7c8eaaf28cfb5cab2af98604921a": "walkmod 2.3.4",
+    "77a32328d716caa871cb4004697511147ba3c876": "walkmod 2.3.3",
+    "c79bd66f961bf8f63edb9e0cbf84fb56a95ee252": "walkmod 2.3.2",
+    "9efd49a7f5028dce201dfed6ac57013094d4a05a": "walkmod 2.3.0",
+    "d4e60eb2eb4a0613821387ab3ccf88dabff5e794": "walkmod 2.2.0",
+    "566e28572287ff871febf85fe322e89b56335063": "walkmod 2.0.2",
+    "8672b7d1553e15edc86421167ac0b3eb4566d8fb": "walkmod 2.0.1 (new formula)"
+}

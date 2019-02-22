@@ -1,0 +1,20 @@
+{
+    "0e61b7d50b4e62690892ce0ec5485ede6ceaec6f": "tomee-webprofile 1.7.5 (#35110)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "1d6566d925ac97933e0cfbec9395602a952c08a7": "tomee-webprofile: use Java 8 specifically (#24038)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e618c03196209f70e03d7ae170f982838894f183": "tomee-webprofile: remove redundant version specification",
+    "e552eba58ab86580d328d79db7ae7b4c4278a032": "tomee-webprofile 1.7.4",
+    "24fe64cb9dd697c9de97b75172531d8c05c777ce": "tomee-webprofile 1.7.3",
+    "7ba2a8290becd72db0185c4e8baa6a50d62cecf3": "tomee-webprofile: bottle unneeded",
+    "ad6a9407786c148364bffe5d44686fa8a68050ac": "tomee-webprofile 1.7.2",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8f4bd52d7fdea9bba2454ac738edfab0ed839b94": "tomee-webprofile 1.7.1",
+    "f409b88e4616c497328c50a5ce5d4cd0a84ffd25": "remove explicit skip_clean of libexec",
+    "35a7f6c9035e584e6bcc4209853962ef3ad57a4d": "tomee-webprofile: Update to version 1.6.0.2",
+    "9c339976e8a0919add1502b32b62d4d56bf75681": "tomee-webprofile 1.6.0.1",
+    "d1336bf555c2d47e8533b313a8924253ec56cb31": "tomee-webprofile 1.6.0.1",
+    "91760c3fd1bab486ebfd39b52d5a2185001647a4": "tomee webprofile 1.6.0",
+    "831e2971a8b646fe8c85f78fd3fd3ef796102117": "tomee-webprofile 1.5.2"
+}

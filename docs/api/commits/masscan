@@ -1,0 +1,20 @@
+{
+    "5e1a03c66e002be70c289804d5c6694307c6651b": "Merge pull request #36364 from MikeMcQuaid/xcode-installed-check",
+    "4b24c2dd9b5a1984f4cdd69f3bf94d8b7c79941b": "masscan: update 1.0.5 bottle.",
+    "c795b32bccbd93cb830842e8f8b2535386969f63": "masscan: update 1.0.5 bottle.",
+    "9e6a200608e98d0054a3c4843c9ba1396fae8960": "masscan 1.0.5",
+    "d88e876a6999ac67b2a24d105a38ad3d1f9f4bf0": "masscan: update 1.0.4 bottle.",
+    "2ca5c0a2556d01fb27d8225a1438c0091e04994d": "masscan: fix build with Xcode 9 (#18858)",
+    "a235c4bf58a177b57b563dd90bcc9eaf38afcc90": "masscan: update 1.0.4 bottle.",
+    "d2b7f6dfb5e30ef49890b9afc573053e18174e84": "masscan 1.0.4",
+    "110a1a6f21eb759c2c9ddaa52ca531d72a34862a": "masscan: update 1.0.3 bottle.",
+    "dba0404796547f860fabe1c5f2bf8e173ebdd0ce": "masscan: add 1.0.3 bottle.",
+    "22bd626d225f0d924c0b1db8f6db424571b41401": "masscan: fix audit warning",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6ac5a2e62d40f6e8d90066694793a9889908cc10": "Masscan: correct head url",
+    "e54114b2cecbb2075b9a8bbd06c17be69acf6f04": "masscan 1.0.3",
+    "404b4b4cfdb7ac95e9e415dc6a7ee766b87eed7f": "masscan 1.0.1",
+    "f1f93eec3a0803d4ae27fcd2ed8dd47bdc184783": "masscan: add test.",
+    "0cc787ef559a378a5eb23c99ff0232b7d9f112b0": "masscan 1.0 (new formula)"
+}

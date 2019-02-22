@@ -1,0 +1,23 @@
+{
+    "60db2393aeb6492746b0195c9c304e0f7e69722f": "lockrun: remove references to pre-Mavericks.",
+    "771371f4687ed97d16ddaeb4ca3d853d0856d085": "lockrun: update 1.1.3 bottle.",
+    "663d4900d9fd6bc5d7151db9737a7c9dc933f7c0": "lockrun: add test",
+    "ef03716219b32cda290739f8e1a79d64dc6f0474": "lockrun: update 1.1.3 bottle.",
+    "635bba40434fa136a307f1c837e88517110d7666": "lockrun: fix audit",
+    "be63455f1c753cfeb6794a908f595b4ff79664ff": "lockrun: update 1.1.3 bottle.",
+    "79754fe749c56a3e905de57d7a340ec00cadfff4": "lockrun: update 1.1.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "aa74d73de479be2747c99c1d174957e7528bbae7": "lockrun: add 1.1.3 bottle.",
+    "3106cb7fcef1b35ab7d93a3f8ecf8c5c042f6a5e": "lockrun 1.1.3",
+    "2fc456f8ff0eabae5a33f16ac0a47aba9d2b6bf7": "lockrun: update checksum",
+    "8725394f8b40e4d1dfb2a721645c650ab6b880bf": "lockrun 20130426",
+    "0b975a645821112e8a38f92b0c1e9a80869b882b": "lockrun 20120905",
+    "22eba2167b394c18926d6d578d15df1b0f6c99c7": "lockrun: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "37ff9774c6f20950b2161c91e6104c37520254ba": "Fix lockrun md5",
+    "620317ca6df6102aeb70eb73108fc3c22dbfeedc": "Update formulae to use ENV.cflags",
+    "ddff4910f4b821dc11412bfb7098a852ad5c1c24": "lockrun formula; Run cron job with overrun protection"
+}

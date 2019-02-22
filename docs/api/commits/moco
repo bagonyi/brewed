@@ -1,0 +1,16 @@
+{
+    "bf272c2f7eac0ba7e7c3e5945b85a4f719d8b30b": "moco 0.12.0 (#22108)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "18c18e36b92634657d0c5b2eeb20800c4bff39ff": "moco: remove redundant version specification",
+    "27bd4ac4af85df5aa7aa47f6ab502fa280b2fc0b": "moco 0.11.1 (#14563)",
+    "8cd92ea9077b6f69fa4d53e28f6b9fe0730b7490": "moco 0.11.0 (#1610)",
+    "eda5de613f3c06c3e2b9916e43041b90882a5879": "moco: bottle unneeded",
+    "a2cc86ed11b30aa1a99429cd77d30a455ba662af": "moco 0.10.2",
+    "310e9a0d62378941391b41026f1a5913d8542720": "moco: add 0.10.1 bottle.",
+    "be55c8efce965164f1721697e22ef9f613d265bd": "moco 0.10.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "801ca4b0778f6518853170ab30001606e0816f5d": "moco: fix version",
+    "37db057c2a657e9852c02a2dfca6f4f6d71e8b82": "moco: cleanup test.",
+    "d33e2e916434e5d261986d42f95a6b616a473111": "moco 0.9.2 (new formula)"
+}

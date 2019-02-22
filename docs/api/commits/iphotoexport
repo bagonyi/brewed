@@ -1,0 +1,14 @@
+{
+    "91465c015480a214cf92bfbb4a4b5ff99bea5aac": "iphotoexport: add test",
+    "f92ce131b09cc41b21e2f421de0c276f344628de": "iphotoexport: fix broken url, follow hp redirect (#10853)",
+    "095be10e5138c91252915f6bc71f27b90ebddcd9": "iphotoexport: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "f9ea7d920547b1814365c25265975622ea8b2566": "iphotoexport: don't use ivars directly",
+    "8b9b665a9044379d79ed824dce10a98a8e6330dc": "iphotoexport: style nits",
+    "d302b2ac57ef9180934874e905df5d4fe30dbb68": "iphotoexport: use install_symlink",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "776da65d2a7f01584d498b2ecb1fcb5ee676dee1": "New formula : iphotoexport"
+}

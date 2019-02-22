@@ -1,0 +1,19 @@
+{
+    "8a1cd56db330ce79ec5c442a9472fa3240d275c1": "halibut: update 1.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "973cb51dbde6212a0e6bee65cf9c0373beafc67c": "halibut: update 1.2 bottle.",
+    "093e500adff0cd3a4d49a82eed736d3a860be79c": "halibut: update 1.2 bottle.",
+    "3af87769ee979dfb439ad10ce623554206eca496": "halibut 1.2",
+    "88abc9970ef27dcbe2dd48ec313b243d8a8d9b41": "halibut: secure url(s)",
+    "e615eb51fdbc3a12cd561b9e23bab30f66128963": "halibut: use secure head url",
+    "2149569c2922fd7bee7c12b4b9bc53211290fb23": "halibut: update 1.1 bottle.",
+    "1d29109bd0b4b69842de25a8c884bd951b308052": "halibut: deparallelize the build",
+    "40ca0a178877dac8b53e0122c9b9ecb2f80ab977": "halibut: update 1.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "441053818bc7e26426f2e65000000e4be42f320c": "halibut: update 1.1 bottle.",
+    "a5fde69221a2dfcb5564bf704355a7e04a18a4b6": "halibut 1.1",
+    "e2be1caef4868f14bb73a32f98b450dc9c369ddb": "halibut: update 1.0 bottle.",
+    "e8d67901fd49bd86392f3b5409906105bf78196a": "halibut: add 1.0 bottle.",
+    "5cf8a5a22ad454eb97787dace57b647c7c11e2dd": "halibut: use make -C",
+    "bb18c46e791da84070ab55ebede4c158a8d52006": "halibut 1.0"
+}

@@ -1,0 +1,23 @@
+{
+    "d0f265abd90c14ff71b03141a77d8a1bb729f85e": "libuvc: update 0.0.6 bottle.",
+    "9a422fa4b4563b55c7ac3a37a4aa0e58d10d5041": "libuvc: remove options",
+    "607c615fa1450c7f75a8dcd785c7833f0ca36ab4": "libuvc: update 0.0.6 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "3cb6036617b80d48498ff3288df9f82bf29df62b": "libuvc: update 0.0.6 bottle.",
+    "3b7f3d9b32756dc5753c4f83053013da2e586494": "libuvc: update 0.0.6 bottle.",
+    "9a863ea0b14b38f1404971b5896c1e7132cb3c08": "libuvc 0.0.6",
+    "a677b8a45382205dc85c59d673a3b7cd0381936a": "libuvc: update 0.0.5 bottle.",
+    "2e5be9b678cac9cea5e16f483157180eb7ebca15": "libuvc: update 0.0.5 bottle.",
+    "e7bb7df676073d398d683624c1ae9dc19c3535a4": "libuvc: add missing build dep. (#4260)",
+    "55ee12ca50d77b9d0fc06b4e4f26b70a0a85866c": "libuvc: update 0.0.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "023c68ad1752408369df54bd766ff696ac01c18d": "libuvc: update 0.0.5 bottle.",
+    "3b334b6d3c5df27ef28c5d3bf20e4182ec8fe8ac": "libuvc: add HEAD and optional JPEG dependency.",
+    "ee0a61017995dad9f14dcaaa41e7bf36a87e6a92": "libuvc: update 0.0.5 bottle.",
+    "782a29630d0eb9b5ab41662990d64a8fc0cbe9d8": "libuvc 0.0.5",
+    "40e07b5d89113cbf7a05225733494a28cea9ce8b": "libuvc: add 0.0.3 bottle.",
+    "bdc946f9a72257522e31e27088185169e3646c61": "libuvc 0.0.3",
+    "989b8281b78c20ee67e48afa194f6abf7bdfee69": "libuvc: 0.0.2 - a cross-platform library for USB video devices"
+}

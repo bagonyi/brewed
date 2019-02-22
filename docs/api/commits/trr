@@ -1,0 +1,17 @@
+{
+    "789702890fe10b2093fe20b213a6d426d0941e9a": "trr: remove references to pre-Mavericks.",
+    "43428298aac7ecf2f92e5d0586ccf45dc5e00ff7": "trr: update 22.0.99.5_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "29c2d7f792c137a808c4822003e7c49b635221db": "trr: update 22.0.99.5_1 bottle.",
+    "452c55c35c4d7416c5bf8f5d86ceade43a178ea1": "trr: update 22.0.99.5_1 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "278e7964bc03a67eb4bf702acf0496ed9fe38038": "trr: use elisp shorthand",
+    "764ca6a9281c5ba39be1bf0592ac603547fd98e8": "trr: update 22.0.99.5_1 bottle.",
+    "264d5b8e1db47dd0504bc8e6e1f8600e6e19b535": "trr: update 22.0.99.5_1 bottle.",
+    "842d0e5e8da6fcab696726d2d894c09b105b45cf": "trr: revision for site-lisp changes",
+    "96f6112f4cd6f8543b2c01539ba4e0d0d9af8eec": "trr: formula-specific directory in site-lisp",
+    "bc474b5b28192eb680467cc1710f17ca66f5d3e5": "trr: add 22.0.99.5 bottle.",
+    "64e4bf39753a62fc3b57a299f4e49f27d8728172": "trr: put version before checksum",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "69d724ad4272a4885d56e15fb1383c47ba72f372": "trr 22.0.99.5 (new formula)"
+}

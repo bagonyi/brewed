@@ -1,0 +1,18 @@
+{
+    "5cbbc4a1d0c8596ec8dcbc2c9580c140864c02a3": "powerman: remove some options",
+    "ed40b65464531b36805ade7313612585e89452cd": "powerman: update 2.3.24 bottle.",
+    "5d2571e25bd84049c2f27c5d4d6eef3ceb628b74": "powerman: update 2.3.24 bottle.",
+    "91317d5d38c102fb758b0f71a934a3f0f3420ff2": "powerman: update 2.3.24 bottle.",
+    "e8b0ed29f0d562552ef10e932fb44977d73b21f3": "powerman: update 2.3.24 bottle.",
+    "a00923830fcc3d2ee3145a231a71f1ea8ff52d3d": "powerman 2.3.24",
+    "c44fd8da036a9261ed1e53ce9c2c5d25a38b6451": "powerman: update 2.3.20_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4dca89bda2f9871ecc97d323c9268f8cae1ac27d": "powerman: use https for homepage.",
+    "ebd77c216ebcfc591621c5ee03df107a7d04cbbf": "powerman: update 2.3.20_1 bottle.",
+    "7c04055711e75d6bc239a130075ddd3f7e77a97b": "powerman: update 2.3.20_1 bottle.",
+    "a6022a6ccd6a7ed4407e8b05c9fccd5a9ff6ee82": "powerman: bump revision for net-snmp changes",
+    "4722f7cbaebf41bc337174466cd80a88f5322f00": "powerman: add 2.3.20 bottle.",
+    "11e833a97052382deb0086c4c67d2754d44cb51c": "powerman 2.30.20 (new formula)"
+}

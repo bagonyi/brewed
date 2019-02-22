@@ -1,0 +1,11 @@
+{
+    "b5b7d7621d1bababe293d09c6a1730679a7e9154": "synscan: remove references to pre-Mavericks.",
+    "9af4c590d61f68338dbc2df1e43712a35f06f8e2": "synscan: update 5.02 bottle.",
+    "a4a10b3adcbdb5f6f4efe351a2db30d029b8f58f": "synscan: update 5.02 bottle.",
+    "d3a3c34774a422f6c7a6079479dd20f9a770aafc": "synscan: update 5.02 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bd2f626b6124db6d647d4eae2b92a8c3337cbc8a": "synscan: add 5.02 bottle.",
+    "5cbc5ca688824fac098499b65ccb76c5ebb507d6": "synscan 5.02 (new formula)"
+}

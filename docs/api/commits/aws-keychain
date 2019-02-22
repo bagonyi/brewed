@@ -1,0 +1,10 @@
+{
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "aeb5057586a756cb9554c71c794196247b754d1a": "aws-keychain: bottle unneeded.",
+    "e4c723ad163e19442d4a3c2515ff752a75c7d721": "aws-keychain: cleanup test.",
+    "cd277a1e54de58aca793b8bbd79c3d1aa28ceab6": "aws-keychain: assert on test output.",
+    "96f22724190ccdd0be47f47829d89bff3a22fcc3": "aws-keychain: use full path to executable in test.",
+    "73c3876d0f8a4006e2553cb4dc5eb3bc8d1d56d9": "aws-keychain: use shell_output instead of system",
+    "75214901ccf7d1598d01e0c1d5cc9d3b0b7809f6": "aws-keychain 3.0 (new formula)"
+}

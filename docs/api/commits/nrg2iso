@@ -1,0 +1,14 @@
+{
+    "0f9be361bbe87f1faf27beb5a91e6d467e39cd9e": "nrg2iso: remove references to pre-Mavericks.",
+    "484f24b25095d05be883f0cf2eb6433f2c876f39": "nrg2iso: update 0.4 bottle.",
+    "dbe021404becbe3ae07f8960999befa0f79a412c": "nrg2iso: update 0.4 bottle.",
+    "7c7d3426925da04e9486cd696d9a98f070846886": "nrg2iso: update 0.4 bottle.",
+    "bf080bb504e527b8836f676fa0dbec2ab21bdf93": "nrg2iso: update 0.4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cb94744621fd8a82cfd89e8956f592e9975efd5a": "nrg2iso: add 0.4 bottle.",
+    "6a861be1ba03d0ba5fa9715e8b87458717d964f0": "nrg2iso: basic test added",
+    "af6eb465cbd9690a5c3caf59fe837f8994d2f641": "nrg2iso: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "909bab098f0d6d0147c90ada6e04b10f355db49c": "Added nrg2iso formula"
+}

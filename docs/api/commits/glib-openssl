@@ -1,0 +1,14 @@
+{
+    "2616a56d9103c4eca563f4c7e8ca2060f9cc25a5": "glib-openssl: update 2.50.8 bottle.",
+    "2c243acd13ccf3a2bdec45a706cc1476dcd1063f": "glib-openssl: update 2.50.8 bottle.",
+    "a62e3c36f0ae1cfde30539945fd2ed2be3f2c703": "glib-openssl 2.50.8",
+    "29271058ff89137786d6568054af198eb0ef3fa6": "glib-openssl: update 2.50.7 bottle.",
+    "db5733aee906946d39b15bfac76c4afac80d4891": "glib-openssl 2.50.7",
+    "0da105c48dd952369901bfec110a0a158b3a786e": "glib-openssl: use “squiggly” heredocs.",
+    "1e57447abded9d0efe16f2b85270d5d8b2eaab00": "glib-openssl: update 2.50.6 bottle.",
+    "062315278d8b3d10b9af06105436549f0ba94df7": "glib-openssl 2.50.6",
+    "d0d5fedc649775779037b939b6e9844a79f71460": "glib-openssl: update 2.50.5 bottle.",
+    "2cf52929a74951c00f906da7a0cbb096025a1d08": "glib-openssl 2.50.5",
+    "6b436b159b936b89275568340124453b54aedd7e": "glib-openssl: add 2.50.4 bottle.",
+    "6ed6e78bb2b5fa18f2e155d9d8cd8d854064c213": "glib-openssl 2.50.4 (new formula)"
+}

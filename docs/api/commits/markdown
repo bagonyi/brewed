@@ -1,0 +1,22 @@
+{
+    "fa084b488eae580228107c4010b604ec29400c59": "markdown: update 1.0.1 bottle.",
+    "e44a88de0a08902ab9e353a76946079dcbd13234": "markdown: update 1.0.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0d8e0589a9ca2f379e100536dc77750f99caee8c": "markdown: update 1.0.1 bottle.",
+    "4ea7f20515699b0a02ca18d6d746177072d85d83": "markdown: add 1.0.1 bottle.",
+    "4d392cbb359c768fffbd5e81aaf65a69ee6693c1": "markdown: use https homepage",
+    "b4247b003f7b66acea2762ebc255b93be58ed3d5": "markdown: use an https url",
+    "831a19dc7e183eabf9915dcbd95add612ffa2f69": "Update markdown-tool conflicts",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "64615b0eba8e0e74347c6c218b4b84f8df58f464": "unswap markdown conflicts_withs",
+    "95e42a8e71b00065b65efd772f3a1ee062bc28ae": "markdown: note that this conflicts with multimarkdown.",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "b0fdad108170d4092bfa2e2834882ea7d47f2095": "markdown: add test",
+    "78e506a8bb8c2238ee66001751186c1118bb8bef": "markdown: style nits",
+    "c38bc4b43a2a357adf1a06f2b244aa60c55dcb10": "discount and markdown conflict with each other",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "65fe674a7a1c5bccea3c8c7d57a609bf5f41d677": "Added Markdown to the Formula"
+}

@@ -1,0 +1,16 @@
+{
+    "9312be128ecedf7ba48cc2e3e14c03c06bfa71e0": "linklint: remove devel spec",
+    "418dffcc565cf16f2683b5c10441dfe81f999c48": "linklint: audit fixes",
+    "78fc0250bebc865add7972529c7a2e39fe9e4d7a": "linklint: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "02eb88ff9671e90072b5c3f844d235a37c6b1e68": "Use doc helper where appropriate",
+    "8926b8222401cea4a33a6201bd51d4a8886f0a82": "linklint devel 2.4.beta",
+    "fc52502df539d9a5339cf19202cbcff0b883ef4b": "linklint: interpolate version",
+    "1e7174997858ba71d68d8b46b3f92e084237e020": "linklint: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "7490d38e84d4a332fbc831458c628303ea53f477": "Use Pathname support for renames.",
+    "b399ca54544d66d60b5ffc52b0dc2ebeaf012737": "added a formula for linklint"
+}

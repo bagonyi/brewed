@@ -1,0 +1,16 @@
+{
+    "97a62ee0519aa8990178b86a82d5fba79daed92a": "rc: remove references to pre-Mavericks.",
+    "8cf29f15bb258f34a06dc1eb76555dfc7b1cf215": "rc: add secure mirror(s)",
+    "4417b42fd43867e811e0fc85009486a04f3abfe5": "rc: update 1.7.2 bottle.",
+    "57c4fabf6fca8f3368380891476fbedbcc86f95e": "rc: update 1.7.2 bottle.",
+    "b79e6c3dda065b637906bed72b12153931af86b5": "rc: update 1.7.2 bottle.",
+    "55862d18d63a178c5ff51c6965fbc1cc75bfa4fc": "rc: update 1.7.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c41671a04f49dda7a2999004e46593ed2e120288": "rc: add 1.7.2 bottle.",
+    "2c466fda13d0a974f52020fe041b77cddb1a725d": "rc: use sha256",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "84f716a279ad1d3ea1747bff92ffa56a43da4997": "rc: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "0daf9c8f67d33fa811ecbfe063c6adfa304efce3": "rc 1.7.2"
+}

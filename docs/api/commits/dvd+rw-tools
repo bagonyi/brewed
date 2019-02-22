@@ -1,0 +1,13 @@
+{
+    "de8fc041df0721e4b14c221de5d3d704d9e27a73": "dvd+rw-tools: update 7.1 bottle.",
+    "05a6fe5f85c9c58e7aae2f741bcf72b41297e838": "dvd+rw-tools: update 7.1 bottle.",
+    "892183627f1f433cf4e0701c6eeb517848ea89c7": "dvd+rw-tools: update 7.1 bottle.",
+    "2b3c0225cd665ca0e8fc31423406a0614160889d": "dvd+rw-tools: add 7.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "934e3af3d20e975d4d082dcb1111b7fb29b62a54": "dvd+rw-tools: use patch DSL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "83b371fba5fa7cbcf31048bbb6b3132c44b22c39": "Introduce block form of mkdir",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "de04fcc51b39acb8c8d373d0b66af73218c81003": "new formula for dvd+rw-tools"
+}

@@ -1,0 +1,7 @@
+{
+    "b3a62a3466575bf8760f7f64f21546bcc08adabb": "autoconf@2.13: update 2.13 bottle.",
+    "aedf85f2967b6e02378b74da8c6e6e62cd17feb3": "autoconf@2.13: update 2.13 bottle.",
+    "0bf0762333ae3308ec503dec89b275cf87392db9": "autoconf@2.13: swap GNU url and mirror.",
+    "d117ccf19975dcc65b8af2033397be8751a42f30": "autoconf@2.13: add 2.13 bottle.",
+    "25996676ed614b5d81dd3f0591c9b045b09db0ec": "autoconf@2.13: import from homebrew/versions."
+}

@@ -1,0 +1,15 @@
+{
+    "cae9c7b633b6b5df7415bc2fdd1e6b82cb06261f": "minidjvu: update 0.8 bottle.",
+    "7d4a5db94fcc080fc66f4eebf576968ef0e16edb": "minidjvu: update 0.8 bottle.",
+    "e99c48abb306052737b71f44515a801d5d09bc6a": "minidjvu: fix audit --warning",
+    "962affeb832894e7e5a5ed66ef760a5476951c68": "minidjvu: use ENV.deparallelize.",
+    "e57cd881837d271d86c51b51c3fa9759323a37bf": "minidjvu: update 0.8 bottle.",
+    "59ef33b5439996c2a7671f9001bea46b12d1b6cf": "minidjvu: add 0.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c4aecd9625f9b664aaa3f4d67b32b9bd3ca66d9f": "minidjvu: modernize autotools deps",
+    "8de0068e1462db563b29f020bbd9991f8eb57320": "minidjvu: fix use of mkdir",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "409aa2fa78e584ec87c0960530cd33672eba4f89": "minidjvu 0.8"
+}

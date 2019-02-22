@@ -1,0 +1,19 @@
+{
+    "cacef1a7f72f9f990bb8192a1879b6ba21902084": "m-cli 0.2.5",
+    "793b4238aab2066d3d67cd8f9447a1e30074bc05": "m-cli 0.2.4 (#17373)",
+    "1d22d4909f6c3ee2b46d252c7ce42a84a08e8530": "m-cli 0.2.3 (#10565)",
+    "e0123f8863128280ccccfbe52d98312cd1e69834": "m-cli 0.2.2 (#8270)",
+    "c1d5dd647e1322fdff6dbf78b70c4b43a1f252cf": "m-cli 0.2.1",
+    "feb5ac4b2e25543f99987ac14f37f77ce7a3326e": "m-cli 0.1.9",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "c1dce37cd39888b76ba97978160b428b879df062": "m-cli 0.1.8",
+    "18bb9095ff6ea2dd12010276b80d96fec7344523": "m-cli 0.1.8",
+    "490ed43a0863d4b42aa3a246be0f204c2a57adfc": "m-cli 0.1.6 (#3911)",
+    "8baa4c8f3c32ebdc175b1bb8f0a3caa9f202bbae": "m-cli 0.1.4 (#3828)",
+    "352d314b1bc020a18d5d81d6e1e6c84da49595a4": "m-cli: add head stanza for pulling current build",
+    "ac19f04921fefadfdc29e2cc5630ded1eb41b25f": "m-cli 0.1.1",
+    "d4fb974573b5219a7f4a2010294ca3348497ef93": "m-cli 0.1.0 (#3546)",
+    "5fa9e9a3c0904c4636529bc580fa3e207172e5d0": "m-cli: bottle unneeded",
+    "3538a380337be91e9c46771d8f8905a46b14ce81": "m-cli: add 0.0.9 bottle.",
+    "d4357b9b94e3c5b216f248ab6d7f96b4b42254c6": "m-cli 0.0.9 (new formula)"
+}

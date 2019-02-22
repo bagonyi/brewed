@@ -1,0 +1,19 @@
+{
+    "a16681dd133c22e2d824624abae0c30493c993b9": "zsync: restore live urls (from archive.org)",
+    "2a631e12a36d2202a3dbf638e16cac14674e5039": "zsync: fix url(s)",
+    "5aa1be9ed876503354b4816bc60b3aec7f4d408f": "zsync: update 0.6.2 bottle.",
+    "d93c16feca381678f012c3a90c9328da6455ac86": "zsync: update 0.6.2 bottle.",
+    "5e974759aa9cd2fddbf3d697dd91b38ce5b5ab2c": "zsync: update 0.6.2 bottle.",
+    "6b808976e178f8b80594c5bbc36810302f47bccc": "zsync: add 0.6.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6590fb9279532d7918a7c152940b0c40c572683d": "zsync: modernize + test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7b29f887cab366e0aace14f492860bc7e5da8300": "zsync 0.6.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d4c17f6aa6f775fb9929ddb10a42b6a772ed2206": "New formula: zsync 0.6.1",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "47baee9f06005f5a50edd25907fbb20032038938": "Fribidi formula",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

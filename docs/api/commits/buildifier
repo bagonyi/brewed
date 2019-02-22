@@ -1,0 +1,23 @@
+{
+    "9581ab51e0560e6f6925f3171e5c2e51e7bcbdf4": "buildifier: update 0.20.0 bottle.",
+    "7d4437803c33ce896ebb747e798797b532acead3": "buildifier 0.20.0",
+    "10743f35b86253e63b8f69c7809dfff29b961acc": "buildifier: update 0.17.2 bottle.",
+    "523595614034f3edc136cb0a2e9a14e630416662": "buildifier 0.17.2",
+    "18f8f1ec400755ba4b2685bc4b49f2e903809eb7": "buildifier: fix RuboCop Layout/AlignHash.",
+    "f43bb9bd13642ec00d982c48282ecd28098423e9": "buildifier: update 0.15.0 bottle.",
+    "ee73a48e9052d6c3fd93ee7fccfcd07e7585693b": "buildifier: update 0.15.0 bottle.",
+    "4bbbdd4affb4ca3ba1a49279b6de3986120afa1d": "buildifier 0.15.0",
+    "a75b1ef3aea2b24a24a092c387e566a9b92bc5d8": "buildifier: update 0.12.0 bottle.",
+    "205f5a1f3cc70454a390ff84adbbf88a57e4eeb4": "buildifier 0.12.0",
+    "d03271abbfda5165855901ef74aa02d487fa571f": "buildifier: update 0.11.1 bottle.",
+    "d32d8d1495eb0453a28a2571baf816b9d4a5f5c5": "buildifier 0.11.1",
+    "16a38c9daeae8c3671e22a051d11bd36ac8611df": "buildifier: update 0.6.0 bottle.",
+    "884d73ca0c85e5b8e5b975dd601a557d0c0ee878": "buildifier 0.6.0",
+    "9c08e137b8513ca8f910eee16fceed9296d16ae6": "buildifier: update 0.4.5_1 bottle.",
+    "a4d047e231f40167cfe333e8b6e1faea82088e6d": "buildifier: update 0.4.5_1 bottle.",
+    "dfe12ebc1638de1f4cbbb5df43c107bf46c22b9c": "buildifier: build with go instead of bazel",
+    "dd992ddeb558f2d34eb4c9a8a8091436855ab3e8": "buildifier: update 0.4.5 bottle.",
+    "19e98a443bd45d45265ad27245c0f0eaad2910f3": "buildifier 0.4.5",
+    "3648c7806938fdcc0026afb6c6b521b39c6f490a": "buildifier: add 0.4.3 bottle.",
+    "d34380bffd44e40b9793dc2615194a377f582bf1": "buildifier 0.4.3 (new formula)"
+}

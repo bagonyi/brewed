@@ -1,0 +1,12 @@
+{
+    "76faceecc6d8d701185980843bd326153472b372": "rig: update 1.11 bottle.",
+    "b7824e1950761a4065d3f5d7062f72fee169dc3b": "rig: update 1.11 bottle.",
+    "15ed95b51615801fadd090a152a8331b4846ac41": "rig: fix audit --warning",
+    "d93dff76acdf5421e82a35ab880d1cc70d6f0e12": "rig: update 1.11 bottle.",
+    "76226b1bc3e16928b4b8daf79abef29d509e413f": "rig: add 1.11 bottle.",
+    "910f98875384ef64ada04e240e355b60a0a2f879": "rig: audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "3f234d052036e78d332ec4e56367d9b2dfebc111": "rig 1.11"
+}

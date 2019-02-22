@@ -1,0 +1,7 @@
+{
+    "ba15a3f20510595f81c5a2d98ecc2b55f842d60b": "zxing-cpp: update 2.3.0 bottle.",
+    "1c2ed461825955ccd736661987b8b6e85f8cf358": "zxing-cpp: update 2.3.0 bottle.",
+    "0207901e11b0b8b1bf7aa49e75eb33b63f8bdab4": "zxing-cpp: fix rubocop warnings.",
+    "1b52958e51ad8dd5c5dd216966201ddb3394148a": "zxing-cpp: add 2.3.0 bottle.",
+    "11d4bf613820595e23f94b22a07f0e5d9fbac2d8": "Add zxing-cpp formula"
+}

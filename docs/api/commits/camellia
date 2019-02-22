@@ -1,0 +1,12 @@
+{
+    "6ef026c580ab69671220c47b40175b6bef36bb80": "camellia: update 2.7.0 bottle.",
+    "23ef5d23b09e3cffa43422b9c0d22d429a263d5d": "camellia: update 2.7.0 bottle.",
+    "0a2f21ba9137e0559529b37be9c528f05a2ee79d": "camellia: fix audit --warning",
+    "87aeca789e1954be5c6187ffe5198d451842da95": "camellia: update 2.7.0 bottle.",
+    "482df2482a9bea4693a57e26fd40ce071130010a": "camellia: add 2.7.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "888119013aa25f6fa163ab9f25c76af1be967ae2": "Camellia 2.7.0"
+}

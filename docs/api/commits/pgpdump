@@ -1,0 +1,22 @@
+{
+    "56b9574fdd60fddfb1421eede99e1d3950225d1d": "pgpdump: update 0.33 bottle.",
+    "53973afa48fc5f3cf4f7b3be2331d2ad517f4886": "pgpdump: update 0.33 bottle.",
+    "a27a63fa7b0653494c29b5d5a1705890103877c0": "pgpdump 0.33",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "af65b22cd7c32c67b79b2f8c28b72deb09d461d5": "pgpdump: update 0.32 bottle.",
+    "debe16cc876c8c813edf187b03efd628fed0557d": "pgpdump: update 0.32 bottle.",
+    "af891c7c7d720342ff1b9849fccc96f267e6ca1f": "pgpdump 0.32",
+    "221c9bf8322f790f031032f653df3fa332afb08e": "pgpdump: update link to HTTPS",
+    "3a671b61de535fd7e3ed1e251fe837ab9c878c7d": "pgpdump: update 0.31 bottle.",
+    "253d7e5e607eff88a3c70511f9707a088d4f47ea": "pgpdump: update 0.31 bottle.",
+    "c6a7146387ac8ba76688a441199e2d83986a27d3": "pgpdump 0.31",
+    "e2216f3a7b2877271c82282bb6d629cdd61883fc": "pgpdump: update 0.30 bottle.",
+    "f1741a76d8b7d039ff2f3a1dfd2ffbae990cf5cd": "pgpdump 0.30",
+    "5cf7cc5e63f1e7488c8b6fbecd87d29a90f472e5": "pgpdump: update 0.29 bottle.",
+    "64d662fa410f3f355089e0cf5a628cc5d0b3b729": "pgpdump: use secure source url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a19c74ec14b56ba33c2bd36405b20ceb1f3393a4": "pgpdump: add 0.29 bottle.",
+    "6c1e7f00d67b9b823d002cf037b80441f6e4f88b": "pgpdump: head and better test added",
+    "777352d9e90fef4cd31ea3850ae519df7f5dfd97": "pgpdump 0.29",
+    "b12ed5532cea270ee0f27840d5a4ccf38f5f11f9": "New formula: pgpdump"
+}

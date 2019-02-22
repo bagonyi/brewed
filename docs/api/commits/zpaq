@@ -1,0 +1,17 @@
+{
+    "a12fa1ce75bfcd13850b95b4d9c4f38b0b9e80c5": "zpaq: update 7.15 bottle.",
+    "df94d49dbbbfaa83c8260c36c8c2f037c6b0fe06": "zpaq: update 7.15 bottle.",
+    "27758f4307fcf505c5e6c3d936d298633865d3c3": "zpaq: update 7.15 bottle.",
+    "f48d03f802186c41ff789be8df89c71205fdac47": "zpaq 7.15",
+    "d184a8c18aa657cf745c47b26b05dd7e46d69423": "zpaq: update 7.14 bottle.",
+    "1a86276501ee64c369a743b4a8e8eae827aebaec": "zpaq 7.14",
+    "50afa91bc1753e804acb697e07ae7f62659ce3cb": "zpaq: update 7.05_1 bottle.",
+    "492084472ff05851ff5e1cbb5df4590d94c54ed7": "zpaq 7.13 (devel)",
+    "0be8286f955c3f025458ed9c57883f98a9b1ed35": "zpaq: update 7.05 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "806f71a61d9d635433a1d4ca4a7ef81be50a3e41": "zpaq: add 7.05 bottle.",
+    "4a717d86cf4a0b521bf5965a0448d5da3543ddff": "zpaq 7.05",
+    "7f39883fd7c25febc47abc544c5651f3a9569f2c": "zpaq 6.55",
+    "bea3c23d16d0f4e1d3e5d682647882e22144e76f": "zpaq: use assertion instead of test return value",
+    "c24fd6c0032905678a38f72736e061368484ebfb": "zpaq 6.49"
+}

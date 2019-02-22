@@ -1,0 +1,14 @@
+{
+    "13f9e3ea630c652cc78f17c88d799cbcccc47fcf": "convertlit: update 1.8 bottle.",
+    "63c9892cdbbd3ff6ce7f68d1ea3c68daa9f3fa18": "convertlit: update 1.8 bottle.",
+    "e27a7a5c70caa250b8d3d7b7509d43bc872480fa": "convertlit: update 1.8 bottle.",
+    "e219fbb75eefe20c3c753a05235c2a77affa5c8c": "convertlit: add 1.8 bottle.",
+    "4b5598cd92a65129c1120422d21aab653bdc672c": "audit fixes: C 04: cloog - cowsay",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8a19a854f40bc19137f9ac8681188b190ba49f71": "convertlit: use make -C",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6993017b40995797e2d6e76a400be6710365c533": "convertlit: fix path issue",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "5e8dd91209cd1013cf2095da78c27f395a84d9e7": "New formula: convertlit"
+}

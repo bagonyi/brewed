@@ -1,0 +1,13 @@
+{
+    "9c1a37f3da35efa3c2a64ef93b03d0a82c7dbc4c": "easy-git: remove redundant version specification",
+    "0ed88c13ae1c89e31f2a66b177ce0d7b97ee0a0f": "easy-git: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4dcee445c0db162ccb8fb6e547facce2e3bc4341": "easy-git: use https url",
+    "f8e45e8bbd456e120e38fe1f05fda54b637931a1": "Drop use of ssl3 download strategy",
+    "667b2e29fd82f12b704e33119bfba2d2877ff561": "easy-git 1.7.5.2",
+    "33c74fe42b022915e7295390c6e5a5b0d9b47e20": "easy-git: fix audit",
+    "62e4bcfae1d458c58c36cdaf4c7350f3f0e1e7c7": "Remove duplicate SSL3 download strategies",
+    "8d0b98371ce9cf3f182b6d46cfb4929373d9f2f6": "easy-git: fix test",
+    "ae780cc5c0d44731d8e79dc681e4518f7d1fb90a": "Easy Git 1.7.3"
+}

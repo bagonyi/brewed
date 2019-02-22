@@ -1,0 +1,20 @@
+{
+    "53592e12ed8bb6be57a14457e3a4df97b2e4edc1": "beansdb: update 0.7.1.4 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "da0cad6b4f07f1d3bcc49ce47a872bb2e5aaeb13": "beansdb: update 0.7.1.4 bottle.",
+    "58d89dccc0455cc64bf2c90f9cec8577c744bce6": "beansdb: update 0.7.1.4 bottle.",
+    "4bb3c3b99ba13da32599a803a104caa791ba3943": "beansdb 0.7.1.4",
+    "0a96db39a82aacaf2631954fef9c66d413011b34": "beansdb: add plist_options and a test (#7218)",
+    "524fe45e3a994d4963f34e993919be2f602362d1": "beansdb: update 0.6 bottle.",
+    "73a74a122339e7e4d7303cf2950db17d99752f47": "beansdb: add 0.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "430acfb0c29235d7040672e71f59ecdb161f9467": "beansdb: scope autotools deps to head, modernize",
+    "f7c8f449ac3195bbb672d3efa3f8dbbd12c987d4": "use opt shortcuts",
+    "f38fdb17058fc137775cafb58745ff6ce3119fda": "Add explicit :autoconf deps where missing",
+    "a1036d08fd6a0e805d6b5450e5555ec7c3fcf5d6": "beansdb: fix build with clang",
+    "e4614c1d4bc23d0b45fb60ceefb483f0afcb1eff": "beansdb: remove clang version from fails_with",
+    "40be2eb364cc027bdc45efc6ee21a5af888a44be": "beansdb 0.6",
+    "3e095dd81eba82ee72b133e3afc86dfdfa3c6137": "New formula beansdb 0.5.9"
+}

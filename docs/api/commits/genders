@@ -1,0 +1,14 @@
+{
+    "9a386deccf51889dc44b26d51a39424a6639a456": "genders: remove options",
+    "39242e4be39dea7113e85e5f74d76333d5ad15cc": "genders: update 1.22 bottle.",
+    "a3d118838aef74a0cb6cdd00ee5a4937761200a2": "genders: update 1.22 bottle.",
+    "719b35957cc420e3cf13b555a4230c34c599864f": "genders: update 1.22 bottle.",
+    "448257373e76001ae043a9e9320dc415f12cec7a": "genders: update 1.22 bottle.",
+    "0870f9905bfe9997411ba46e0f0c6ee3fae9d531": "genders 1.22",
+    "0b42742ba720dcb121aba328096569f70dbaf13a": "genders: add 1.20 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d44721c0232042bc688416716fa225ccb51db009": "genders: add --with-non-shortened-hostnames option",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f6e4d90bac75533b2e84aa8d8ee6815fca2d75b5": "genders 1.20"
+}

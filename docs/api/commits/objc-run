@@ -1,0 +1,7 @@
+{
+    "2bf01f127617d324d8e65c65f36202307146f38c": "objc-run: fix test for sandbox",
+    "45ac673176e797f0b1636ed2e4c968fa650de40a": "objc-run: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1aa5253878dd063e842fd33396b123410521c97f": "objc-run 1.4 (new formula)"
+}

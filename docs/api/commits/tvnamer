@@ -1,0 +1,21 @@
+{
+    "164fdbf3da0edab6f1a9051711cba880cdb4fea1": "tvnamer: update 2.4_1 bottle.",
+    "750954b259a98cfe4120d1bdfab7dc80a7f0bc83": "tvnamer: move to Python 3",
+    "338fc1b75f1854c23042cc8e3e1c38b8d82aca81": "tvnamer: update 2.4 bottle.",
+    "500b4bdc861628be1045ea31883a41e309b8ee6f": "tvnamer: depend on python@2",
+    "ed151bc2fc6bcd9c1c3e0e2c14e675035b9109a5": "tvnamer: rename python@2 dependency",
+    "76381a00f7c758f1f75010d35b138c976bdb4419": "tvnamer: use pythonhosted.org to fix audit issue",
+    "a42956330fef62261a00936ed3af9b823f5cf4fc": "tvnamer: depend on python instead of :python",
+    "f284abee77c9e1f5b299e4bb9b5537aefe3610c5": "tvnamer: use assert_predicate",
+    "644f9611fee68bf162dcc66320490fc51bc4aeba": "tvnamer: update 2.4 bottle.",
+    "815568291c16c448879ba856a11c115052a35582": "tvnamer: update 2.4 bottle.",
+    "eff2e2176c058e475ce4dfc61e26ee4662c3558b": "tvnamer 2.4",
+    "0218359f19da9f16fb337d1d8ebbaa5a1ab536db": "tvnamer: update 2.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "f036f51489d0718fc56943ca0e49929a50976db7": "tvnamer: alter test string interpolation (#3815)",
+    "4d2ed8c877501018445f349148e5bf4e8dcdd481": "tvnamer: update 2.3 bottle.",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "e79fe760ae1f2b368cee2a134680c77294b53725": "tvnamer: add 2.3 bottle.",
+    "499f4184a3ee5ab62bb727cb227e72f029280009": "tvnamer 2.3 (new formula)"
+}

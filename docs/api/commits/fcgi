@@ -1,0 +1,22 @@
+{
+    "8af97757b7e960e1f5c6cda3e60a4e6d27a3cb5d": "fcgi: secure url(s)",
+    "4c528f1613031dbcc46fe79a0a3788a715446674": "fcgi: update 2.4.0 bottle.",
+    "22b539d63f3e13b577e84901d35da10f314aba98": "fcgi: add test (#23137)",
+    "db28dfc89e043973901fb98446b4b94bb5e34666": "fcgi: update 2.4.0 bottle.",
+    "8532d245a21da53d502e63c58b375c3e7ee3e2fc": "fcgi: don't use fossies.org for primary url",
+    "7c145e3199f7da4b5ccfd5ee2f38ff8960bd3b25": "fcgi: use a different mirror for stable url and an archive of the homepage (#10960)",
+    "36d3cbbcbe5cb252ec005fa1a564535a177e472f": "fcgi: use secure mirror url",
+    "52972a8eb40cc21d2ef8c095eb7643ba138dff95": "fcgi: update 2.4.0 bottle.",
+    "30bebb5991004db2280c2c6cbe7c5801bff66cb0": "fcgi: use secure url",
+    "192f1e1f78d8a78c084bdd6504d86a186498cc99": "fcgi: add 2.4.0 bottle.",
+    "6e6037957678e1af5a748899bd018acf6ea2668e": "fcgi: replace dead download url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9fe897407a854b45533535bebb301560cebcb1cc": "fcgi: use patch DSL",
+    "c758df33ee45b723d364a2e7f858eb3cc8e2ec0d": "fcgi: style nits",
+    "145593abaecbf7d749f3f14c9415ae887f045bde": "fcgi: fix \"Symbol not found: _environ\"",
+    "c3b84a2d4d368039f162d97d0732b58b78118f0f": "fcgi 2.4.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "b84cb05d7604e4ef671b04325c796fb67d2ff582": "New formula: tre"
+}

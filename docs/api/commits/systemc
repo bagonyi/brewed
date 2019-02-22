@@ -1,0 +1,11 @@
+{
+    "4305e095d29376ef986a4c1f583a5119513d0625": "systemc: update 2.3.2 bottle.",
+    "4605382fb91741ec23911a8312feac0e8f1ac621": "systemc: update 2.3.2 bottle.",
+    "8904040ffd924f8302344b3a3d8429a267eb7c55": "systemc 2.3.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d9cc2864b8e22f3fd96309c87a8d9daebe8a8f43": "systemc: update 2.3.1 bottle.",
+    "f3e4de13fd64cd2ee3f2753ec7302076eaccb39b": "systemc: secure url(s)",
+    "f08a17a8deab39aee90e4e08dec9ab6a1518338d": "systemc: update 2.3.1 bottle.",
+    "ab694bc478e3c806055383f38c8074f58e39ce5b": "systemc: add 2.3.1 bottle.",
+    "dd7719981602b69118a4b5d8d3f74994b345bb4c": "systemc 2.3.1 (new formula)"
+}

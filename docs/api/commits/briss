@@ -1,0 +1,10 @@
+{
+    "024b50759f7c37e4afb56c1d1d6a716b51b83882": "briss: add test (#24884)",
+    "efdb25efd70e3d6ee07cc19eb3e74b37d70afcf4": "briss: fix audit --warning",
+    "32beae7b4846afbb0102e3e38de582c4c87baf80": "briss: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4b50c1ab45357b7b8ee1aa94f17851361894783c": "briss: interpolate version",
+    "cebda029151d8438e45b2bb533a0053f26adad45": "briss 0.9"
+}

@@ -1,0 +1,22 @@
+{
+    "3488361e996663de55bb1ab8340768ba16cdf7a3": "hatari: fix dependency order",
+    "cda2985d86b399f4c7d8022f1d270009bc7eaa05": "hatari: update 2.1.0 bottle.",
+    "5a7c06b51058c2114e65e99a053cb7604df34427": "hatari: update 2.1.0 bottle.",
+    "b9ecd7e52b904a5e2126884f2be40b1bf889d6f9": "hatari 2.1.0",
+    "cbfd0368ef4097e1f51aeb1b5bc8540093c114ab": "hatari: update 2.0.0 bottle.",
+    "77dfec70cbc54e8fd7db40c78dff94bb720307b4": "hatari: update 2.0.0 bottle.",
+    "fce3ba24efe25f34b90fbfe957b86551102a3bdf": "hatari: import from homebrew/games.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "82174818eb2c8d64ab6bd5f734772a4b3c55596c": "hatari: force homebrew SDL",
+    "f73ad86716a0ed1798e552fcdeb45d0c378fa6a4": "hatari 1.8.0",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "076e4bd39a5ef92ccd48f7ea44b9cdfb3c106b8c": "hatari: needs libpng on Leopard",
+    "453cee14baab2f515183a413a15de0a8d0bc0d86": "hatari 1.7.0",
+    "3f88c199b23123db762509de9a03f6dc991ca173": "hatari: add --HEAD",
+    "947ad6d3a280c9dec014f311bb33aa5421bc5b04": "hatari 1.6.2",
+    "602a164cca8004c85d10884823209039556ca0d4": "hatari 1.6.1",
+    "5bcf8891be9c4b393e8c0861a45e33b1d0560de2": "hatari 1.5.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "0834e8a84a8a65e5c06ec9ff2d4c0f0be04473ee": "New formula hatari"
+}

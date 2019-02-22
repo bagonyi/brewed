@@ -1,0 +1,16 @@
+{
+    "11ad1ba4878a7270a86aba7ff85f8613abca3c3c": "sqlparse: update 0.2.4_1 bottle.",
+    "877f2d13d4efb8bf3342e81700cc7e2e51ee12e4": "sqlparse: move to Python 3",
+    "84bf49355d7121bccf9bcc48970a23e336762a1f": "sqlparse: update 0.2.4 bottle.",
+    "21b538a7cc4817b250356c932f1c9b7ee39986ce": "sqlparse: depend on python@2",
+    "b6964fef7f9ae9a5f53c1295a1b2e6c332c9c61a": "sqlparse: rename python@2 dependency",
+    "5e8460eac19aef150394e92353c2c577376eebf5": "sqlparse: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9ef8d18780acf6269141d4967d80ac3a7f1d82a4": "sqlparse: update 0.2.4 bottle.",
+    "e363912ee66b7dd532460ce82ff670c0eb001b33": "sqlparse 0.2.4",
+    "68406675a6cff89e7444d5d303408717940997e9": "sqlparse: update 0.2.3 bottle.",
+    "f3d368375c2d034ed7eb0b40337a12135357b1c1": "sqlparse: update 0.2.3 bottle.",
+    "1c585272f57f1244acfe3ea18244814a77292b00": "sqlparse 0.2.3",
+    "7f354357e23c9bec26b187eacf62e3e45a9d0c10": "sqlparse: add 0.2.2 bottle.",
+    "6f9b9bddc4d943cd436d14d2be8fd7c6562c3bb6": "sqlparse 0.2.2 (new formula)"
+}

@@ -1,0 +1,17 @@
+{
+    "d08dc8ed07c29934f26151b2dfe043cb267cc7ef": "freeglut: fix dependency order",
+    "4d330ba966fbf9a42380d1c4a91f63d7d02e0c87": "freeglut: update 3.0.0 bottle.",
+    "f38a892b024c126a3e02cd4fffa90702b0de2f7b": "freeglut: update 3.0.0 bottle.",
+    "211ce1a35ebe4fbd96ba9e5a10b80a5a8863d596": "freeglut: fix audit --warning",
+    "df8ec197c0f466a2d5fe5c42590d65f38a899ecf": "freeglut: remove accidentally added bad test.",
+    "e891fa15ed4e54c5369bde567509e289ad6b2b25": "freeglut: add 3.0.0 bottle.",
+    "e29d7af2802fd95dcfeb7c8c82007f9b1a340ae5": "freeglut: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "9294ea5a63abd879b6e5efe258dc043d601ce2af": "freeglut: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "1bb3a55a1ae461b2e0633110e6c0a383c75d1a04": "freeglut: add universal option",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "82963dc37a762bcbf14c572b8b3809d506a18167": "freeglut: fix build on Snow Leopard",
+    "f4211572b2a1bf6239aa4d37ea2f0a280bd1d6e0": "freeglut 2.8.1",
+    "df929961875c9b2f37a79c4a61fd0a2291ec07c2": "freeglut 2.8.0"
+}

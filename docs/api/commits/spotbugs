@@ -1,0 +1,13 @@
+{
+    "412e906cac314bb0950f964d486bbd7e9cd15609": "spotbugs 3.1.10",
+    "1b485ba19d359a251c8bf341fc8600f12db60df5": "spotbugs 3.1.9",
+    "1f43e2e925517a390660dee6b0948a70e9693417": "spotbugs 3.1.8 (#33824)",
+    "91ea8e91e441ae947fb10988abe6897d30747ba2": "spotbugs 3.1.7",
+    "87127458149ec05233215ac1d1d8f00c8feb27f8": "spotbugs 3.1.6 (#30275)",
+    "b6cfed5c59913fccbbd89ba0329feffe0049ecac": "spotbugs 3.1.5 (#29110)",
+    "1dd752408618e04517215016e8024605b5880638": "spotbugs 3.1.4 (#28918)",
+    "3a168c206346223bd0dd9b52b5c064075d22dfb8": "spotbugs 3.1.3 (#26858)",
+    "3a1f798f35a5957ec76fceaad0be0f8398ff2561": "spotbugs 3.1.2 (#24515)",
+    "a6aed284be46564cbb6cc9e3302a8c8173ea21af": "spotbugs 3.1.1 (#21276)",
+    "a1a1070d333e197b35de4b04f0db304e0885c7cc": "spotbugs 3.1.0 and rename from findbugs (#19886)"
+}

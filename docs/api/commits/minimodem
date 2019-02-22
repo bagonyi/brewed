@@ -1,0 +1,19 @@
+{
+    "d1ea5a82e38481ea6d541facf17e4332fc029aa0": "minimodem: fix dependency order",
+    "5981adccef750a968a459e2f6997132442584361": "minimodem: update 0.24 bottle.",
+    "b04d7e466c6bd1dec9b3931a28fa1c25221d1d0b": "minimodem: update 0.24 bottle.",
+    "a88a7fb48be23acb4dd4c1f7e9e0fec1a7b16fc0": "minimodem: update 0.24 bottle.",
+    "6fbacf27eeb83217428164c05d3da0e16114155e": "minimodem: update 0.24 bottle.",
+    "91a6b1ce62e02b432e6d430017a3a3249c720367": "minimodem 0.24",
+    "94ac1bcd7f800f54524aace981eb6263b23ab3c7": "minimodem: update 0.23 bottle.",
+    "45f088433b9c2dfd7c48f852317d17b33b85852e": "minimodem 0.23",
+    "71d5f702681a55d30de863333c387b4b0ce142ed": "minimodem: prefer berkeley mirror",
+    "fb202ea5a9421f354e5a21f4425ee0ead9c7c6a2": "minimodem: update 0.22.1_1 bottle.",
+    "5701693176637566ecbc0d87c645ee0b1c8fc615": "minimodem: revision bump on upgrading pulseaudio",
+    "74c9909548ad47719a2182c2e65b13ef14377026": "minimodem: update 0.22.1 bottle.",
+    "d60d2e6c5a315a515ab01226051d3ee43e47a353": "minimodem 0.22.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bc75666bfe191e21d18b7a7f64429a554f9394d6": "minimodem: add 0.21 bottle.",
+    "3854e2c3d2e416a4c4db3a729e31c37274542fe1": "minimodem 0.21",
+    "ba9d96764863073a1ebc32b3bdf2c6373e86c46e": "Minimodem 0.19"
+}

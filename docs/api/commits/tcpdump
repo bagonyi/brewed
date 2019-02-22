@@ -1,0 +1,16 @@
+{
+    "9c38afe2701d002e3cf1c60a6d0c405ec984bedd": "tcpdump: update 4.9.2_1 bottle.",
+    "b06435be0f80f07a0a901b073393d7000801c299": "tcpdump: remove options",
+    "9927d626af0d20c29bf304b1817583a22e97c608": "tcpdump: update 4.9.2 bottle.",
+    "11e85175a72cf868ac1bb993218860e32b81358e": "tcpdump: secure url(s)",
+    "92a0652ff2358e5506bb71f02c8c0da16e4f33c4": "tcpdump: update 4.9.2 bottle.",
+    "aadaeec76d894fdc7181ea328a10e5a7b8c5f2a3": "tcpdump: update 4.9.2 bottle.",
+    "424e1ab1cb6f5e43b5fb551cf80bae6b2f840237": "tcpdump 4.9.2",
+    "9c3fbf3a1f317c1086f6bf806e6374f9c7616ba1": "tcpdump: update 4.9.1 bottle.",
+    "3a7eb4e9bee3092e91d634d7beb5b8ae97afdb4f": "tcpdump 4.9.1",
+    "deb91cc4d78156633163bd9243f9bd64cb0e926a": "tcpdump: update 4.9.0 bottle.",
+    "27b30bf89c9094acbd2afda56dde84320dd7fad3": "tcpdump: import homebrew/dupes into core.",
+    "cfe25b68e3360baf097dc602db69b99c29bf14f5": "tcpdump: remove (duplicate)",
+    "a7357bcde328c1e116bb80b19bb1d316b50ab3d2": "New formula tcpdump",
+    "aa4a886ea52adf6010a6c9bd4ca69cf62ba2053b": "libpcap 1.1-PRE-CVS"
+}

@@ -1,0 +1,10 @@
+{
+    "ae68a80c0257579b3c109cb56c53c6dcc979d984": "unp64: update 2.35_2 bottle.",
+    "9b6433633f48b6359cf73b390c8935f23afb10a5": "unp64 fix build",
+    "0e9466a3e60fd3d2b149e195b26b724a4cf7bd54": "unp64: update 2.35_1 bottle.",
+    "98bf093181f603ea44576a3a720b285911141395": "unp64: remove patch after upstream fix",
+    "359332f094785c79c5eb110d70bcdacf59f954a3": "unp64: update 2.35 bottle.",
+    "e0f81a50853dc7a9a10d3c576dc5b4859594e653": "unp64 2.35",
+    "d1111b7c81e75bfc88f8e6edc8aa43e65d07ca0a": "unp64: add 2.34 bottle.",
+    "4373608b481d1cfe0a4af1dff931ba76fa8a5385": "unp64 2.34"
+}

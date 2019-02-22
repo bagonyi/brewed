@@ -1,0 +1,21 @@
+{
+    "5c01441b9fe761ebda0ee128ac93e45898d30aa4": "chinadns-c: remove references to pre-Mavericks.",
+    "d82e31478e3ceeece7bfa83154556c7ad2a3b19e": "chinadns-c: update github url",
+    "5f47c94ddbb02345501b918ed68038f10f149497": "chinadns-c: fix dependency order",
+    "b66f6fbd8a8b5507d1a5babb8f2cf11702b71012": "chinadns-c: update 1.3.2 bottle.",
+    "16559c234daf789911ad340c4026aa361b1ee03b": "chinadns-c: update 1.3.2 bottle.",
+    "ef77f4356498c3939a3979fe930bf0185112c0f0": "chinadns-c: update 1.3.2 bottle.",
+    "ae0258ae93b1fdd61b5e6b5857a86a55c9ac0289": "chinadns-c: update 1.3.2 bottle.",
+    "a01bb88307bdc7e5d1dec08b661f97454f8f1550": "chinadns-c: update 1.3.2 bottle.",
+    "d1913c6f9aece04100cffd9ce86c0eca79d6b7e7": "chinadns-c 1.3.2",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a55298c37d0094b315e9f15a0c259b8a8488f31f": "chinadns-c: update 1.3.1 bottle.",
+    "c74e3fe562f368dc79bb4dbaf12229d4f1212fd2": "chinadns-c 1.3.1",
+    "719ea3e4e77735dce6e161e86e5d2a8e16faa073": "chinadns-c: update 1.3.0 bottle.",
+    "1c19f6c906be88a8832eb66deadf0bc087cb9de8": "chinadns-c 1.3.0",
+    "a41e42b025b1b844a173879f8e421ce2c28f3280": "chinadns-c: update 1.2.2 bottle.",
+    "d49c5c6f8697cd0eee1cd456552631e584460523": "chinadns 1.2.2",
+    "18f577ade2e7082b4efa9f76d84fac973c1b997c": "chinadns-c: add 1.1.8 bottle.",
+    "3d747156c1ea9b0fe6badc0d70ac3c069bc38b05": "chinadns-c 1.1.8 (new formula)"
+}

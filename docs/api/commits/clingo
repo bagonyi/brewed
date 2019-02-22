@@ -1,0 +1,16 @@
+{
+    "ab077bb633cdc9f8633092af6b71285d5ab38527": "clingo: remove checks for old compilers.",
+    "f3125504610e4dcd4e906577fdb44cb85f77ea51": "clingo: fix component order",
+    "6d11ab42af54cf59c1eb88180465d8278b8b9105": "clingo: update 5.3.0 bottle.",
+    "a93379f9e692ed9af8d210c5f5489ef91137540d": "clingo: update 5.3.0 bottle.",
+    "c40f4ca09d08de7762fd0b11273f6af8122bc188": "clingo 5.3.0",
+    "e1be303a09974eaf986178faca50fe73fdaf13d4": "clingo: update 5.2.2_1 bottle.",
+    "511c694c92e1dbf9a7783c05202db1c32e7d7a32": "clingo: depend on lua, switch to Python 3",
+    "57bf4281684f67e21e5a24fe4783273f40a39a0a": "clingo: depend on python@2",
+    "ad3ddec8d9b71667c1746197ffa5613688615c9b": "clingo: rename python@2 dependency",
+    "adc16bb3e32f59104ff387e1d567740ed394a458": "clingo: depend on python instead of :python",
+    "6b3b0d314ed781f9faaed3238f789160537a4bdc": "clingo: update 5.2.2 bottle.",
+    "9a187b4acff821a8ed3738935c0c2aa611449053": "clingo: add necessary link_overwrites",
+    "d5400bb9d5471f67e698e5bbaab5316fc3c6f20b": "clingo: add 5.2.2 bottle.",
+    "c13d78fe587bccc310030166ba56a2cb72b9d36b": "clingo 5.2.2 (new formula)"
+}

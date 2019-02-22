@@ -1,0 +1,18 @@
+{
+    "345f3fda1320ab1669403f67f3552b2fe2aa1c59": "pms: remove references to pre-Mavericks.",
+    "b389b6191181e29678e442e10f45256ea0d2c3b8": "pms: update 0.42 bottle.",
+    "b5f263af0574a3b4ce90d04f8fa34b982030cdb0": "pms: update 0.42 bottle.",
+    "14b49892e28b022f091d80cab47891c8c533f130": "pms: fix audit about sourceforge link",
+    "988936cb7b5792495b3f1461d9f4a0a23e2a6d36": "pms: update 0.42 bottle.",
+    "01586cb7d5279139808ed579776a60d2ea26a34e": "pms: update 0.42 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b80483978f3e4642909507a012899a9b19608b91": "pms: add 0.42 bottle.",
+    "3be6100c9d1dab12b4f4e4a0490a0a5564250b24": "pms: test added",
+    "6ef8a9b24bb21ff875f5d05bd20e715f119e82ba": "pms: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5900c994d0e27214b3673a3d1faef3bc8e881eed": "pms 0.42",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8c8364c0c6208340cccadcd24de38da37776a8a6": "Added libmpd",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "0c853bd387eab2145e454aebb78aed654e40e643": "CenterIM is a command line IM interface."
+}

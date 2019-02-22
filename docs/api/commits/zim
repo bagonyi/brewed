@@ -1,0 +1,17 @@
+{
+    "6841a6ec4b9052dec1e466580e42b1f0bc5d2323": "zim: update 0.69 bottle.",
+    "981b6ab9ffcccf15ed8a8c45c3ae8b9a052d423b": "zim: remove options.",
+    "0f00d1db5174adacb23b4af07c03805fee0a1304": "zim: update 0.69 bottle.",
+    "6ff3187bf137cf28dbe7683be66355e3da368562": "zim 0.69",
+    "e1423677dd7662da4dedc50223420dfbe979f71c": "zim: fix dependency order",
+    "d3ca147cba6aee7dad4998508fabef54e8d4a1a5": "zim: update 0.68_1 bottle.",
+    "d67086bdc8eb89c5ef733bcbd7149e3ef6b2329b": "zim: update 0.68_1 bottle.",
+    "074648c76554f504e92e1aa65ccf04cb78b9f7a8": "zim: revision to fix install receipt",
+    "c9b678fab0dc74108134e3fc11f2ce2fe38c7386": "zim: update 0.68 bottle.",
+    "4fb45fbbb626c37d4bb84f5a41c6ae0095711027": "zim 0.68",
+    "5997926b5e48f193657caeddd24495fc5d7b5594": "zim: update 0.67_1 bottle.",
+    "16f03a1a07a3d7be522329c0af38fcab43d37789": "zim: rename python@2 dependency",
+    "f751470c503034c1faa6249abb6e7cd738084dda": "zim: update 0.67 bottle.",
+    "96ba52b2184004eb4107ed9ee185d724fd46bc10": "zim: add 0.67 bottle.",
+    "78f5403e3083bd9c663ae97f089964e1b1fd0b54": "zim 0.67 (new formula)"
+}

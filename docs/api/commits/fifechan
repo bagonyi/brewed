@@ -1,0 +1,11 @@
+{
+    "c3bb1681af8618fb53c2ab7d1bfdccbf3ec169bf": "fifechan: update 0.1.4_1 bottle.",
+    "d0d348ee7573a5fd9735765555220c4b39db56e7": "fifechan: use “squiggly” heredocs.",
+    "f415a7d09783cbc5be9e9efde7210afb2c257e02": "fifechan: update 0.1.4_1 bottle.",
+    "6b84a6daef76be4e17048632a65aadbba2017a7d": "fifechan: depend on sdl2 and sdl2_image",
+    "3bd81a781d260ad1b2c343b22e6c9de326e8f95a": "fifechan: update 0.1.4 bottle.",
+    "a3d4e5ea06e4a48716e6df04ec906bca6c09072c": "fifechan: update 0.1.4 bottle.",
+    "210ebcd774233236f9973e7f6bd3df98b6ae6c42": "fifechan 0.1.4",
+    "c5a45ad9edd4f3afde5e8c86ba565361e640f3c0": "fifechan: update 0.1.3 bottle.",
+    "709cb127dd86e54978e65ee2825a0900324874f3": "fifechan: import from homebrew/games."
+}

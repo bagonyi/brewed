@@ -1,0 +1,19 @@
+{
+    "8e52fda500635e91e237faf8e40fab919c10f76d": "gdm: update 1.4 bottle.",
+    "70e03cf7e5bff18f10357d48183048e2c5b63edd": "gdm: update 1.4 bottle.",
+    "7f84c4a1c9d60c9b5f680dbe683afc699af4ee34": "gdm: update 1.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "02eda43a57b251702821960a8dab1886263b1569": "gdm: update 1.4 bottle.",
+    "c9d727578240fd37f05491d92883943ef2947f49": "gdm 1.4",
+    "f97d5f8321379ff020e038a7171ec3d69339a297": "gdm: update 1.3_1 bottle.",
+    "34319c65cac8580f13a4003ba4f36d80cb5b7feb": "gdm: revision for Go 1.7",
+    "c79d78c63b35c0c36efbf8811a140b213a429ae3": "gdm: update 1.3 bottle.",
+    "e5e4f0a4483cd33654f4da85b62b038614ce7163": "gdm 1.3",
+    "78a49f91a016eaa9a7ccb178cbc0a5f38fd50a7a": "gdm: update 1.2 bottle.",
+    "9de08cab8a912c2fbe2b926a1fc84983d3a7bd11": "gdm 1.2",
+    "5666035e23dc099c70a01e556485ec31bbb07984": "gdm: update 1.1 bottle.",
+    "ca30a998546da1c9a740a270d8156e3266a14614": "gdm 1.1",
+    "51b159424f54ebe011d4c488c4f59e330d0cdc9f": "gdm: add 1.0 bottle.",
+    "1b96401a86232f0c9b12d14846b8822501f0b90e": "gdm 1.0 (new formula)"
+}

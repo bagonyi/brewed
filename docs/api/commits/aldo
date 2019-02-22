@@ -1,0 +1,18 @@
+{
+    "e19761c04c9797d5db02f0470c3e3864ae19b128": "aldo: update 0.7.7 bottle.",
+    "eaef79a23caf3bf1467267f386e52491001d5f9f": "aldo: add a test (#25770)",
+    "5e1c733562ae00a523a1b291180c1545cd1bd85c": "aldo: secure url(s)",
+    "60f8b041383cd81c0fe799e6b6433f020e61b267": "aldo: update 0.7.7 bottle.",
+    "d6d9cdc1410783158e35ae3298fe13ebb869bb1c": "aldo: update 0.7.7 bottle.",
+    "73ad7d1b7c1b6f0ea7bd60afb95dd209d01bed95": "aldo: update 0.7.7 bottle.",
+    "72aea11288ee87b4e551f19b3aaf28b0567eae45": "aldo: use secure url (redirected to cleartext)",
+    "cac14f0f88b476360330f87c29fcaf9e4aa3f202": "aldo: add 0.7.7 bottle.",
+    "83d8ac1f0393e32d50148b624fb60157a94e59ab": "aldo: follow url, use https in comment",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "08735916581454ccb5fb4145b46efb0df94a6c82": "aldo: fix use of iterator",
+    "d39c2341d983656c052c2253c51e597609b6fd40": "aldo 0.7.7",
+    "e0d653035b44dc447a3088b5677ffe4a0b2384b1": "aldo: patch to work with latest libao",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "bc349dbd2aa1747cd39f7e2667bc3d45feeb60f7": "New Formula: aldo"
+}

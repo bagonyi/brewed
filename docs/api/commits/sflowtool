@@ -1,0 +1,23 @@
+{
+    "f9da05fa8e0ac182b76204cc289ca47d4728c8c4": "sflowtool: update 3.41 bottle.",
+    "ce5e3e19bde1ea9785b7884d2cd3e17d6802c61c": "sflowtool: secure url(s)",
+    "7bab72c1ec652416890140f3ba7812b6ed0c3971": "sflowtool: update 3.41 bottle.",
+    "7c85b2e368460b21c03ba91db14334197016c8a7": "sflowtool: update 3.41 bottle.",
+    "97617fcdf1f91dffc348a6205800282fba2fd32b": "sflowtool 3.41",
+    "72e97202d2910441ea3af5844b98aeafd4b0b4a5": "sflowtool: update 3.40 bottle.",
+    "c6732c8eabb5dcd55d74e5fa256c51cb0440d509": "sflowtool 3.40",
+    "0cbc2934e01b1d41e57c0ad7a69dd24a4e86aa9e": "sflowtool: update 3.39 bottle.",
+    "046a807b4904e9da404f5fd7a94ad8bc26e8a15d": "sflowtool 3.39",
+    "f293f057bbd6c86cc5ae17970e46db6343369da1": "sflowtool: update 3.38 bottle.",
+    "60c5ca41ee5fb83d7c21c5a6ba5ea90c7e3186fe": "sflowtool 3.38",
+    "727d82865c631db4dd45f839b906082e629a1846": "sflowtool: update 3.37 bottle.",
+    "2d885c4e1c54255f5ccdee821d638214aeda39ae": "sflowtool: update 3.37 bottle.",
+    "a6d8b1a5ba5552e9c588bdc271500f4ba335611a": "sflowtool 3.37",
+    "87b87bda924868b337cda0ce36fd6716500343b3": "sflowtool: update 3.35 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f87d76e6343ca6445bb37d527ef4a77d22efd5e6": "sflowtool: add 3.35 bottle.",
+    "da732c0baac0e74dae28f5745318ab73d065d940": "sflowtool 3.35",
+    "cce7c5f72b4cb0cd64c0480f41e13fd1963e38a0": "sflowtool: use test assertion",
+    "1c9c872ad160dbda06e32fffc49d50515cd35f6f": "sflowtool: improve test",
+    "eabec8b6b8921785fdb26e0548ac2865da74f8ec": "sflowtool 3.27"
+}

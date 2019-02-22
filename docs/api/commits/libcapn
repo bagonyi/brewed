@@ -1,0 +1,21 @@
+{
+    "8049e875c8d231ccaa836bcf91fe70e3d8658c7d": "libcapn: update 2.0.0 bottle.",
+    "4a53f5b662aa9367c72d7e1558265affcabcd4a9": "libcapn: update 2.0.0 bottle.",
+    "29cdd73922c900ef6029818b114ba4eb24934cb8": "libcapn: update 2.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9d489b9a5c680ab687dd5627a32c3d216eef7a8e": "libcapn: update 2.0.0 bottle.",
+    "52764f65f21d7f6886001a97a164c264d6ce500e": "libcapn 2.0.0",
+    "e0b68c0e43e99a18e6b6af7ae3a6f6d18b4a2d32": "libcapn: update 1.1.0 bottle.",
+    "6f4d150a76e921a225feefb7ced7c92d02cc2fe2": "libcapn 1.1.0, 2.0.0-beta (devel)",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a5e2a751d8050b152bdb2190e4bfb03114ca9e4c": "libcapn: update 1.0.0 bottle.",
+    "09a8f2d63b2b6b07fbb2e5b403c18949b36794c4": "libcapn 1.0.0",
+    "4c332e466e6c9a68ef3c6acc0ab181f072ca2361": "libcapn: update 1.0.0b3 bottle.",
+    "e54830f1bfb6f1a4eb50f0003b388bf2b33d3019": "libcapn: don’t use pkg-config in test.",
+    "405f48a2d39636992d32ea741c1292ac085e60cf": "libcapn: add 1.0.0b3 bottle.",
+    "4df83192fe5b1f6047b79ee7c85fdb7ad446864b": "Don't assume cflags is non-nil",
+    "0b564350ff6ec1c6743c54ac08fc20f257ccfdb6": "libcapn stable 1.0.0b3, HEAD"
+}

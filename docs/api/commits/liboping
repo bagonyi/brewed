@@ -1,0 +1,20 @@
+{
+    "2dc4cf9d8ae12b592791d4350efbdd5c07ce4be8": "liboping: update 1.10.0 bottle.",
+    "1169762fe2655b748852cefdaba08364856c95ca": "liboping: update 1.10.0 bottle.",
+    "efdd22451b3d67e01be78474f2a1bd98dcbc1821": "liboping: update 1.10.0 bottle.",
+    "904570e6cbc1c61771899bd4932ff808a7c59a5f": "liboping 1.10.0",
+    "042e3d26db8065167a436d749c2e0b6fc39f83da": "liboping: update 1.8.0 bottle.",
+    "fcc938d412f4793ac1d80dfea97dec655a5a29ed": "liboping: use secure urls",
+    "a093cf34d4ff67ba5329b89f534ee65107ddecb7": "liboping: update 1.8.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "db0ff57fb035b22294da3893fbe40bcd595e57d7": "liboping: update 1.8.0 bottle.",
+    "36458fb93ccde72dbd866cd91b2e1a823069d42b": "liboping 1.8.0",
+    "35d54553d52275423a0b453c0028869f54d20fae": "liboping: update 1.6.2 bottle.",
+    "388abd3de9b5531c0f2bb7fe604f9ab1ff09be33": "liboping: add 1.6.2 bottle.",
+    "ef3604ec1c48d0a475919be7bec0c5f7fc15130e": "liboping 1.6.2",
+    "e5f6e112bfd69344376e12fc1c8ca1b99f03a731": "liboping 1.6.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "86f464b0c300a3095d918d4e265dcad97c57736d": "adding liboping"
+}

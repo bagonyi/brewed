@@ -1,0 +1,19 @@
+{
+    "859492c9025c152554f8a0e502b17a760932c11f": "sha2: remove options",
+    "c74088d88e553885e8cc312c0fb3c30ca57f3b85": "sha2: update 1.0.1 bottle.",
+    "6ce8153e1b7c67b2e961ad73b97014c8ecdfe685": "sha2: update 1.0.1 bottle.",
+    "85fda2073e777332416c725872b52a13a6e152d2": "sha2: secure url(s)",
+    "269b3b8863005fe63b38537f2499a72fc34d8e23": "sha2: update homepage and download urls (#9007)",
+    "54de9462792c6e5a17bfa0823f46c4680d2bd70a": "sha2: update 1.0.1 bottle.",
+    "c53a43b7572f62d9c3fbde57eb69d6b6eb5d81c4": "sha2: use secure homepage",
+    "4adeba8e398b40e079bf51c45a074a55897a9f68": "sha2: update 1.0.1 bottle.",
+    "5a4314ba5417511c38d8d506acc7a983863ed420": "sha2: use secure url",
+    "4465ae56c0d11d384cddc2c9ddc5062bb977d419": "sha2: update 1.0.1 bottle.",
+    "54470f282a932ae329df024cce85a7202bb02770": "sha2: use http homepage/url",
+    "7b67f29e5a8f94488a5efa9b1a23f75e2b5124d2": "sha2: use --without-test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bca3156f57e590fe8f0b617ecc494828ff455f12": "sha2: update 1.0.1 bottle.",
+    "da87da4d9a25b05ef6b6e0fd5d1532eb8e7bbe54": "sha2: SSL/TLS URLs",
+    "0b2678dfaee9fde5aff3ae71259d20acdfd9ce4c": "sha2: add 1.0.1 bottle.",
+    "da5dd55443246eaa0f2c79a73375d19d926e3237": "sha2 1.0.1 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "bcc55a9dbd2225659d842c483e116ee29ba22daa": "libowfat: update 0.31 bottle.",
+    "d735caa9f565d4f4e07a46f5d99eb6361f860ef3": "libowfat: update 0.31 bottle.",
+    "b621bcbc0ab11247fa0e8d74d1e2d2b2503dee01": "libowfat 0.31",
+    "671afa9557f2cde5a8c376edd6b3cc34269315b9": "libowfat: update 0.29 bottle.",
+    "411ac32eca6bd5232b9ac689b0d2877ce2af2745": "libowfat: update 0.29 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9e06a74720494c183aa2dd8be5988b0162f59ad2": "libowfat: update 0.29 bottle.",
+    "b32fdc650350c035904f27680f982f42f2de0fca": "libowfat: audit fixes",
+    "1e726469ffaa26faff3d554f5cc4e35e1b764b43": "libowfat: use https urls",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d7f3beadc7890e7ead2132c955155aace30fa03a": "Deprecate appending the CVS module name to the URL string",
+    "7e0ae2acae8d0f7c8e3ed472bada45d6e1ed168f": "Prefer :using over made-up URL schemes",
+    "e094be795a3d69633e1264f072d29a2e3a2c0c5e": "libowfat: update 0.29 bottle.",
+    "0eeed87d5b4b9b20f6ac854ea2a41484776aed32": "libowfat: add 0.29 bottle.",
+    "170a230e80794431e4419c88f8e09976f57ee5bd": "libowfat 0.29 & HEAD"
+}

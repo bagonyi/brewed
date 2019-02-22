@@ -1,0 +1,19 @@
+{
+    "600ff74a8c83b211f20894310cd7422c7729a27b": "aterm: update 2.8 bottle.",
+    "6fb6e40e54fb48e14a4b98b32f805a2d3a4fd298": "aterm: correct description (#30151)",
+    "340decb592d05008b463edc8a4ed319fd1d3a722": "aterm: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6c0b84a962addad34bb4e23774bbc6f96dddbeae": "aterm: update 2.8 bottle.",
+    "4afb1e71ed3a90e0b9bc7fb26b761400b474dcaf": "aterm: use ENV.deparallelize.",
+    "ca7d95787d69dac413784788951d7a679c9bb9c5": "aterm: update 2.8 bottle.",
+    "876405197129cb071117a7edf867acd17c8f922b": "aterm: update 2.8 bottle.",
+    "44223331042d511710efa29c6102288107b00af0": "aterm: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7bb09cfe96b41f143719f710016d111dee19e16b": "aterm: add 2.8 bottle.",
+    "142288863b21af5539ca3c3e3dcda02227ed4582": "aterm 2.8",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9bedcf8b5c7b08f9fd47538d3589dcd03c0e5336": "aterm: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "0609ea03df2a5c9c7e47443dbcee7e32e2c6b66f": "Add formula for aterm"
+}

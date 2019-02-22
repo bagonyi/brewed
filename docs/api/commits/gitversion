@@ -1,0 +1,10 @@
+{
+    "b87f7d0bd07a666331ae3fdbf8384d0c78b480f5": "gitversion: remove options",
+    "87e6e9e66b9c134f8868dea0ec1ee9afe0acd63b": "gitversion 4.0.0 (#33941)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8e1966b3d4d06641e91e4d40192e0e3532a3a397": "gitversion 3.6.5",
+    "4d13c9ef6dee77e0eccd21866bab2da6f7cf4fb7": "gitversion 3.6.4 (#4534)",
+    "d633230bac261fe66bd458a7a5de35650a35b22a": "Fix redundant-with-version-scanned-from-URL errors (#4020)",
+    "bcb5cf680ae83de77e0ab35657f6d7fd014b28a0": "gitversion: trim redundant 0",
+    "efd4b75b0c2ead4aff2b2a95cba26f73c0ddb0d6": "gitversion 3.6.2 (new formula)"
+}

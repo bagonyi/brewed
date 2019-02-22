@@ -1,0 +1,7 @@
+{
+    "14472bf8489ee6b56dd528cf5a56e2ecacec9fd4": "exenv: remove non-Homebrew-specific caveats.",
+    "f670f18e568debb34f946a88c9e32f28d7f96807": "exenv: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1233b584d0ed93c3068ab998a40703ffc1a013e8": "exenv: test added",
+    "c2cc3f501ad0b56e736af724fa56743800b69b03": "exenv 0.1.0"
+}

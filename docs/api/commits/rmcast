@@ -1,0 +1,12 @@
+{
+    "f8402b658ad5e767c4f57e6341ca8a784c8ab368": "rmcast: update 2.0.0 bottle.",
+    "ce5c6038b870de2c839545c7acb5c75b4979bb4a": "rmcast: update 2.0.0 bottle.",
+    "55b5c9485ce43f51c65275a6d8c311246f7254a5": "rmcast: update 2.0.0 bottle.",
+    "29947f4a7be68e88ddb68aa34366bffd5e75cdf7": "rmcast: add 2.0.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "dd6df4d08cd8b62d8c0301f7ec302d7da7c4a87c": "rmcast: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "aece9675df8297a26431f560c46ab064c5c83da1": "rmcast 2.0.0"
+}

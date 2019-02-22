@@ -1,0 +1,18 @@
+{
+    "78e84c87e9e56fd30f127bb9a22637a61076dac2": "dnstracer: remove references to pre-Mavericks.",
+    "5143a553c4c282295f03fb0e215f06fdcf720ab2": "dnstracer: update 1.9 bottle.",
+    "9cb82ccd7496454ba37df8bac40470a4f69aa45b": "dnstracer: secure url(s)",
+    "5629bb0e8bf322fca7e1c81c07d497ea1d392260": "dnstracer: update 1.9 bottle.",
+    "9338a4325b45f84ea378e8b6d129f9cfe17866ab": "dnstracer: update 1.9 bottle.",
+    "337197dac6b89be11e7229ac107b0de6d1167fc9": "dnstracer: update 1.9 bottle.",
+    "96a6512bd7ea3876a59fd6441dbef77fcb0b627a": "dhcping, dnstracer: add mirrors",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bbdb0a3088134c5eca71ed06c5c78a4b28a597e0": "dnstracer: add 1.9 bottle.",
+    "9d0f9e24e2dda2593dabe20efa485801c2ea9e83": "dnstracer: test added",
+    "33a5c29aabb7b3912714d8a354290065cc3c0bde": "dnstracer: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "53ad105e536608677e3045cbe60201f086a370e9": "Fix mandir for dnstracer",
+    "2cd2f272cffa034aed1236eff6f2ebf82627bf97": "Updated dnstracer formula (fix for issue 900)",
+    "993392dff3a37a6ca6bbc100aa5eba7947c87558": "Add dnstracer"
+}

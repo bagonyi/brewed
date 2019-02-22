@@ -1,0 +1,11 @@
+{
+    "a5b72e72d4be38057d6a29c7b7116b794e851958": "blitzwave: update 0.8.0 bottle.",
+    "c49273c8c71d1ddc7f3375cfbaa36c8b523597e3": "blitzwave: update 0.8.0 bottle.",
+    "42461efdfe46a7db10c6399a8d31b9c66df9aec1": "blitzwave: update 0.8.0 bottle.",
+    "58ef6bbbcb4f5a62198960691d15531e50a2582d": "blitzwave: add 0.8.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cab1e602c05eb72e6765332ec8570a432256644e": "blitzwave: modernize autotools deps",
+    "8095f81cab86aa5998a03590509ec81b1ffa5ea0": "blitzwave 0.8.0",
+    "ec5892f155a1e2b54b7c66e00b518c82aa82324a": "blitzwave 0.7.1"
+}

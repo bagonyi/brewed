@@ -1,0 +1,21 @@
+{
+    "12adb6722e0fd8fc9316aee0ff158a7b03804588": "dict: update 1.12.1_1 bottle.",
+    "15179116f9a4e7c512674ab464207b09fd6280db": "dict: update 1.12.1_1 bottle.",
+    "451321b255a13c5816212a7284813cba2ac1c849": "dict: bump revision for libmaa",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d87be2c89dc251d9e5b66ed3c9350f7a8a7b5f5f": "dict: update 1.12.1 bottle.",
+    "0afe0ff0c776a0777ac719d211118089e6893dea": "dict: fix rubocop warnings.",
+    "2cf77e60eacbe64ca9b70097ec4a96c2dcce6feb": "dict: update 1.12.1 bottle.",
+    "838d363d33031f714722f5ae9820376fdcc96f94": "dict: add 1.12.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c5d23d0eb5d9270664018243cbf3102776c28e13": "dict 1.12.1",
+    "09bb982427c882f02d3bbab8b6f336fced5f1613": "dict 1.9.15: additional install targets",
+    "3f544db6615df852505e9d0373bfb71bd42240b2": "dict: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5c10e50edfa3c59620ff41508993fa580182868e": "Fix 'dict' formula.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "44f8141f1a3664339dc8c254c68d0777001e058e": "Dict.org client formula"
+}

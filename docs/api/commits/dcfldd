@@ -1,0 +1,22 @@
+{
+    "7edfa24f07cf9f223f31af2c1f0e1daefd74342a": "dcfldd: update 1.3.4-1 bottle.",
+    "22b990612513cbabfdd70b2b92c33e5d273e76d1": "dcfldd: add test",
+    "a3055eefa8fbc1ae32913b41f94bf4f6e89ac57c": "dcfldd: update 1.3.4-1 bottle.",
+    "9bc08bafbc83eff9aae4791ffb8f3271562aa3b8": "dcfldd: fix audit --warning",
+    "12ab25e3345c4d915b55fd2d96d50b27aa99a015": "dcfldd: update 1.3.4-1 bottle.",
+    "c44e76e376fe87f249b76ea20a9d13bfadddd49c": "dcfldd: add 1.3.4-1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e3a13043e0d55915c76c1fe59060949188008126": "dcfldd: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b85aaaa2ca55a6b66860d739a91b65300a3f4a93": "New formula: dcfldd.rb",
+    "fcb3e066d2ce776228aeda520a267c097136f466": "New formula cronolog",
+    "c2af27e1742a8f3324b01ad2c77ef7fa4e32971d": "Fix some more man paths.",
+    "90e57c8319eb3777daba9f3018f2e569fee18d23": "cabextract v1.2",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7a1ecdc5a03494da3a5cb7e4dff4a840dca23bf3": "Added postgis recipe, which depends on postgresql, proj and geos.",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

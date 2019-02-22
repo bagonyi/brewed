@@ -1,0 +1,8 @@
+{
+    "60575d7a88012a219a031445405c082268e2acab": "httpdiff: update 1.0.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "fcb1a5c5af6fda32369416cfd536b6ab1a5c2b3e": "httpdiff: update 1.0.0 bottle.",
+    "87b9acbe0dd96fe25116ad435ec8e2db203d7ce8": "httpdiff: secure url(s) in test",
+    "7cb192968dbb6d646c642769a0476f68ac6facf2": "httpdiff: add 1.0.0 bottle.",
+    "e011f00777286685f998dc1e525e6250fc547cd5": "httpdiff 1.0.0 (import from head-only)"
+}

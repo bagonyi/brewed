@@ -1,0 +1,17 @@
+{
+    "7c7c6aaaa14d9fa86fd74cea6fc0cdd5142beeb1": "zssh: remove references to pre-Mavericks.",
+    "311afb8864ebbbdc24642f8aa9463f1a0a647cd2": "zssh: update 1.5c bottle.",
+    "3f51a53b7d4b4784b6ae32a947c1402ee1cf8cae": "zssh: update 1.5c bottle.",
+    "3798be0073565a7c66cefd8a87ca258a3600f0eb": "zssh: fix audit --warning",
+    "1711bd223b1c2be18c23d1a8a884e7519e03fd43": "zssh: update 1.5c bottle.",
+    "c971d58266df22a069277336527f111651a7155e": "zssh: update 1.5c bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2d949b7ccb9230aeb4cfd2533c7cb95200d6343e": "zssh: add 1.5c bottle.",
+    "7ec32e876b8a6c8d533d22073b0e9c8fbfd168e5": "zssh: sha256",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "0561ce43de04db9c5ec8501e2cd7b01c37164564": "zssh: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "ce9ac5e1c334112e06ea7a1a2b91adbdabe7c810": "zssh: use new install syntax",
+    "1b036e4fa6c418339df7dccb985ca4fcd8d83ad0": "zssh 1.5c"
+}

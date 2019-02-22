@@ -1,0 +1,17 @@
+{
+    "a2dc900f86fc8fd97c70f66a596c001ed8526321": "gcore: secure url(s)",
+    "d9011d309b21e395d86eda067fdd260b0fcc1d89": "gcore: update 1.3_1 bottle.",
+    "bc64d3d55e4031693afc5b14df8bf61c1c978630": "gcore: use *_by_macos.",
+    "961b842f5e03b23a73b68464d58de3eb4419e69c": "gcore: update 1.3_1 bottle.",
+    "a57fc8022437eb29b24951a2f54eb4b8fc3bc9ff": "gcore: use http for homepage and url",
+    "45c52057a67ffb8ed46e998f0017491f54b14278": "gcore: update 1.3_1 bottle.",
+    "3e4df7d2f67bb5adbaf5d91925a0b333d7632e97": "gcore: drop universal, add test",
+    "34fcc7d191dbf5e6c886b8a2b84ad69c1316c59b": "gcore: use https for homepage and stable url",
+    "d54725efcf84f85bf0a97f387854a60938af4021": "gcore: update 1.3 bottle.",
+    "b48d614d49b80759b6a3a18eb64832ff588e6c63": "gcore: update 1.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4971c383561e8820767aea762afaa49d06e6dce3": "gcore: add 1.3 bottle.",
+    "f8d5c1390f7293e9e2c41eb56f25e90773f9b0f0": "gcore 1.3 (new formula)"
+}

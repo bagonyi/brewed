@@ -1,0 +1,11 @@
+{
+    "02c9323fc5b3004786bdd0bd8418723e8751a241": "traildb: fix dependency order",
+    "1c8299c0b436e7452f97692c5b859b58e676f637": "traildb: update 0.6 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d2a32d7a37891732929bfa2a38056bc321ab6d3d": "traildb: update 0.6 bottle.",
+    "b6f28b3b7e49c85cc351475e2c81755ead8272e9": "traildb: update 0.6 bottle.",
+    "4217e57a5c443dd9e6914f21e10adf54cda00b8a": "traildb 0.6",
+    "8b0fe61ef91726218a8e01d214572a4878739b77": "traildb: update 0.5 bottle.",
+    "c39454474a8e4d3f2d8bb923fc9e5681134c4de5": "traildb: add 0.5 bottle.",
+    "39bd4c84358b848aa4d74caef37fdb0e5f5555af": "traildb 0.5 (new formula)"
+}

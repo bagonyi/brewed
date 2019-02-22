@@ -1,0 +1,22 @@
+{
+    "4a88ab9096d875f6a7ef1132f0b0f88cc2cc0dd7": "libgraphqlparser: fix RuboCop Layout/AlignHash.",
+    "6d274ec2cb779b27f625b36febcf971275ce2289": "libgraphqlparser: update 0.7.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ef5b5412ccb0ec098da1ffd41c04c7d6bb405f7a": "libgraphqlparser: update 0.7.0 bottle.",
+    "02fafdd940fbadd19c2a0948393c32e7b9c89fbc": "libgraphqlparser 0.7.0",
+    "4fe6ebacaad54622cdc40a6597b92838dccc6e47": "libgraphqlparser: update 0.6.0 bottle.",
+    "c0806cfa889dd89ff574a97306b04661ca1aa7e5": "libgraphqlparser: update 0.6.0 bottle.",
+    "cb1c783eed967f15f9f1e459747d3bb040097ac5": "libgraphqlparser 0.6.0",
+    "988a2b08736ffbde9e06015647c834785ddba9fd": "libgraphqlparser: replace Utils::JSON with corelib JSON.",
+    "bb0557157b6f1b0b1c0730bac83cb5ffb8dd023e": "libgraphqlparser: update 0.5.0 bottle.",
+    "46ec4074c253efa621c1edf6272a2728b8fc0dad": "libgraphqlparser: update 0.5.0 bottle.",
+    "99a3e4d3a7108de6cc7513108ac17fd8b9c4c62f": "libgraphqlparser 0.5.0",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "0f818f0557ce8d50260d8f4e8d3d6539d56a85ea": "libgraphqlparser: update 0.4.1 bottle.",
+    "d469e22847b1cec2ab283275a8931e412857a483": "libgraphqlparser 0.4.1",
+    "d24bc6e6225084c3192d1ed9dc78f8ed3b07d63e": "libgraphqlparser: update 0.4.0 bottle.",
+    "c45fa69568cf52943d2b69111b29213c00258e60": "libgraphqlparser 0.4.0",
+    "c165210513545f63288c19dd47fe151b4553dd3e": "libgraphqlparser: don't require json",
+    "e306fcc79442294163563ab7ed7741cf147422cc": "libgraphqlparser: add 0.2.0 bottle.",
+    "60f4b95543f21b79ebdf358056583ab6c0af26b5": "libgraphqlparser 0.2.0 (new formula)"
+}

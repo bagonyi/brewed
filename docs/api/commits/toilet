@@ -1,0 +1,16 @@
+{
+    "036b59c2a63897f94bf752c83c25eda6ee9b14a4": "toilet: update 0.3 bottle.",
+    "459c48612acc5eceff14aac90e864ffe5fb30c61": "toilet: update 0.3 bottle.",
+    "ec697f9bd8d494805093a0e8b761b1308f589baa": "toilet: update 0.3 bottle.",
+    "01d2746304d1f25d6518262a162fbc2fabc56767": "toilet: add mirrors",
+    "7ef329eca591c34c80ee387097165ca132494866": "toilet: add 0.3 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "6e1c0bc4d636a412a9409d347e9201b8ee12d705": "Fix indentation",
+    "11d839f6826ec7ff523a1c08f6dbe7554f74ff93": "toilet: fix test and pkg-config dependency.",
+    "dcb77753dd9ea68fa4be238ee5185a404da26706": "toilet 0.3",
+    "0970156dd99be995673b9069a16be61cbc0f99fe": "toilet: remove unused configure switch",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1d7e277a452963155644f3e92db1e921a2dfa891": "New formula toilet"
+}

@@ -1,0 +1,22 @@
+{
+    "a22c181d16e260c19cf2e7168add455b4b8f166e": "unpaper: fix dependency order",
+    "8038a371fb02d52585875e012786c166c4d79dce": "unpaper: update 6.1_2 bottle.",
+    "7659d1135c1b2a3e5d2172e7b4b8db3a7dfc343b": "unpaper: update 6.1_2 bottle.",
+    "a7837ee1be7c6ab9e8cdf301c12c87ab4c834bcb": "unpaper: revision for ffmpeg",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8dfa71db390f382be7db41c4d1d958a0d010573b": "unpaper: use assert_predicate",
+    "a55e6ef61719a5fe9af88eca5d66440cca84a3d3": "unpaper: update 6.1_1 bottle.",
+    "27326147d3c5dc9b0b2180a74d9ccac22b693499": "unpaper: update 6.1_1 bottle.",
+    "fa63490c873b0bd471254af3e4ac354dcf31061b": "unpaper: update 6.1_1 bottle.",
+    "734042923905a47e6dcb484b0a56998c7334efaf": "unpaper: revision for ffmpeg update",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "816af30188cefe6bfdf8417967e5b6677f20104e": "unpaper: update 6.1 bottle.",
+    "cf4e4f0d0a5ac5b644ec56e3dd1c27e2661e9d37": "unpaper 6.1",
+    "3f2ae9f751b6acf90835ae315479883de0021de9": "unpaper: add 5.1 bottle.",
+    "13e2ecc36caa0a848509c6d45567a633f53c8d95": "unpaper: switch to maintained fork",
+    "55c8c33f5f8be4827f6f8b7fad9c343cbd291049": "unpaper: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "0b55dd1c78ec99544190924fb3774a55de59124f": "Add ENV.ldflags and use.",
+    "fd250c941a8b94a97f3dbf378d8aa8981f8e982e": "new formula: unpaper"
+}

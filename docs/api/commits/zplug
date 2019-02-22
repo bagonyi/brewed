@@ -1,0 +1,20 @@
+{
+    "bd06c60f9e9b1669443143aa5ab1fda2e4e3509b": "zplug: remove options",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "0976b010a56562eadb4cf83c51c96b9d8bf93e57": "zplug 2.4.2 (#22226)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2879cd4d9062890abfbda1b8a934fbe077e163b2": "zplug 2.4.1 (#8636)",
+    "7ab331f999945d4b419960e1da3ea992bd78b6af": "zplug 2.4.0",
+    "a2d3d31f41bbde463f555fce85cc327ae638e170": "zplug 2.3.4 (#7691)",
+    "e50e03324d51ff068a20d018ab47e94b7d58bf90": "zplug 2.3.3 (#7162)",
+    "168ae99ba4797f0f7d049aefda756464e45f59b5": "zplug 2.3.2",
+    "80404ad6428fa92b031172160b31942599c483b4": "zplug 2.3.1",
+    "5beb422501d19e95fdbc3a193cf507cafcd3bc35": "zplug 2.3.0",
+    "222b289b1a59fcf77ed26037056515baa99ad3f5": "zplug 2.2.4 (#5227)",
+    "c84cc1a1912cab7f4986c2858a22a8736a0e68c8": "zplug 2.2.3",
+    "35bcd143aee59b820a4bcabb0c12179d5ff42e06": "zplug 2.2.2",
+    "d9a52916bd9df84ff025866fbb1a509e817cc442": "zplug 2.2.1",
+    "c971309762525fa50c295e4108b1efd7b6f65a22": "zplug: use secure homepage",
+    "7a89a6685be46a5f2894079ee392a241c0fae098": "zplug 2.1.0 (#973)",
+    "9eaf1fd119def5b79b4d376ac0443e71cf6f04a4": "zplug 2.0.0 (new formula)"
+}

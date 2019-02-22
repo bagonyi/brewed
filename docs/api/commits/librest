@@ -1,0 +1,15 @@
+{
+    "fa6db5962b5c99893679a4dfb170bd1ac8c2b3e5": "librest: update 0.8.1_1 bottle.",
+    "fbbf18d5e26203814926ac2c3b8be5076c359366": "librest: update 0.8.1_1 bottle.",
+    "713114939249496bc1377cd91323c0afd98b008f": "librest: make gobject-introspection build-time dependency",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "03772f2207fbf5bcac4be5a705874f3c56e8c8c2": "librest: update 0.8.1 bottle.",
+    "8902b6dad2cf741d28ec08cb64dc8944b1d319fe": "librest 0.8.1",
+    "27759f71d9a687deba80ff9aaacd60394456c368": "librest: update 0.8.0 bottle.",
+    "35d935c0c4900ee62255072d62c024cc41926926": "librest: update 0.8.0 bottle.",
+    "91a6f73733a510a430db62f7075ecaed82c0e1b8": "librest: remove compiler flags found in the environment",
+    "a76d88620167359d9954b2ab3c3acc5ed530f7f4": "librest: update 0.8.0 bottle.",
+    "d2079fb203eaac44178682810fd8eff957c93414": "librest 0.8.0",
+    "8f88fcb410708373e52f25f5694e07380bf40438": "librest: add 0.7.93 bottle.",
+    "a01bf8d7302c930da0ce5d728436e5c4015d7aa5": "librest 0.7.93 (new formula)"
+}

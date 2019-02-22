@@ -1,0 +1,18 @@
+{
+    "b9a5c3c80854cf50f7f4cd60e42c1bf8ce769c28": "libcanberra: remove options",
+    "52bd3e75bd805376a3bd0ae6e959e09642d7d4de": "libcanberra: update 0.30 bottle.",
+    "4c8f7c1f11b463c93b504503f4e80f2a82a3805a": "libcanberra: remove gtk options (#30720)",
+    "928db437401636a40005752d05cadf78a8ec961d": "libcanberra: remove :run.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5b5c7c008f419786e99ac8bfa7cce4546800b75e": "libcanberra: update 0.30 bottle.",
+    "b6a02b064e14ac67f274bec015606f9c8323afc4": "libcanberra: update 0.30 bottle.",
+    "5a909467de4bb739ac50d6364b4b8bfc0bbdec1f": "libcanberra: fix bottle placement",
+    "5e78d04d034993ec10590d154201b19ea7e2b8d8": "libcanberra: remove extra blank line (#3989)",
+    "232c7dd217cdb13728b35fe2f3d895621af8e7d5": "libcanberra: add 0.30 bottle.",
+    "a1a4d4311ccd84c1c54bb37463e62b20bad8121b": "libcanberra: depend on libtool",
+    "c4d9c2a99cdecc15c99c16ee7385ab23fc79e7b8": "formule: migrate various patches (part 1)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5de07626253749a3b3776cab006fb026e700bd33": "libcanberra: remove explicit xz build dep",
+    "d50bfda438d9f9d82022b93780cea011669e8bbb": "libcanberra 0.30"
+}

@@ -1,0 +1,6 @@
+{
+    "9d908828aaa5b8f1a47c9d152fa13601f254fc78": "tnftp: update 20070806 bottle.",
+    "ab3aa617cc6679d9ee79b3c24c849aa853cb9840": "tnftp: remove more keg_only reasons.",
+    "305fd893941f86bb9ec0b3d35c24eca1aa661707": "tnftp: add 20070806 bottle.",
+    "75a5a43daa18f65a4a4db5ef98a26a031aeedd78": "tnftp 20070806 (new formula)"
+}

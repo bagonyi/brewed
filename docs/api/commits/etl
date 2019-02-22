@@ -1,0 +1,23 @@
+{
+    "9b93630093c988f180e1f4b0f43fdb6b0692492e": "etl: update 0.04.19 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d28d8e6e5f07c169c07edde98a342c15220aa2bb": "etl: update 0.04.19 bottle.",
+    "9cb8990fb0feeaaf7be656f6f444ad11bb47d1af": "etl: use https for homepage",
+    "fac89e1cd71bc478f62b139028917f0ef2400d48": "etl: update 0.04.19 bottle.",
+    "5590bada759eb3d68d80d812c11954173982711f": "etl: remove compiler flags found in the environment",
+    "4fbcdde5b85f60e3c157c0d1d11662ba29513842": "etl: add 0.04.19 bottle.",
+    "fc4ca92a1045ccc85353131bced729161a0b2b2f": "etl 0.04.19",
+    "14e6f9fdf3fe8904d36f5d9ec5814ffc818a3106": "etl 0.04.18",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "179675324613b43c4429f2a2cfdc679e4cbf5fda": "ETL-0.04.17 (0.64.3)",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "6dd12913bcb072071de97e62c568a6981308341d": "ETL 0.04.17",
+    "fd3b8a3ab2990dce17f69809011a17167dfa489d": "ETL 0.04.16",
+    "234deacf7fca86432dd3eb28f89d3fc6b5220bcb": "etl 0.04.15",
+    "eb2e1499922e8d73723550919ca3d07e935fcaf2": "ETL 0.4.14",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e491016af30fd063c50334eda695721c0f92a527": "etl 0.04.13",
+    "1eda639a6fbceaf8b0265d7c33067c8a0f5e3fda": "New formula: rush (http://www.gnu.org/software/rush/)",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "b84cb05d7604e4ef671b04325c796fb67d2ff582": "New formula: tre"
+}

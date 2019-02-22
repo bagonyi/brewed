@@ -1,0 +1,23 @@
+{
+    "f3228dbe367bc7ecd0023fb6ee569e8d23577034": "ansible@2.0: add Python 2 comment",
+    "81533a5368986b42edec9081c8cfec820b3c483a": "ansible@2.0: fix dependency order",
+    "0e9e0f0834037dcd7a14641dd212ef85488ed7ed": "ansible@2.0: update 2.0.2.0_2 bottle.",
+    "b324aca424af03cf31c57b61e56a1b70ff6558b4": "ansible@2.0: remove head spec",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "f1ec24e9fc9d51f865f700107ad16461143a7b60": "ansible@2.0: update 2.0.2.0_2 bottle.",
+    "6648788f474732969c50deac166673a148252781": "ansible@2.0: update cryptography resource to fix the build",
+    "ae872d914973ca5a8fc7e04ece47e22dc745f43d": "ansible@2.0: depend on python@2",
+    "16944e7ddc5b0e6228e5b5e6d0cef25866caf52a": "ansible@2.0: rename python@2 dependency",
+    "6fc3e776dfbe107aef72ffe95b41f421efa903d6": "ansible@2.0: depend on python instead of :python",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "22a067191e90ac38e1db456888e42159d0d7b743": "ansible@2.0: update 2.0.2.0_2 bottle.",
+    "280a946338f565223ba6480e84f3cdf2ea7b9fa2": "ansible@2.0: update 2.0.2.0_2 bottle.",
+    "f0f0794832acd69bfcd20a009f36e3196d57e364": "ansible@2.0: fix resource urls and update cffi",
+    "b40be341f7a725ebb2ae85bc71b888256870e373": "ansible@2.0: update 2.0.2.0_1 bottle.",
+    "4e819e1408742e156f82665b30f901b6cba23ec0": "ansible@2.0: use keg_only :versioned_formula.",
+    "89cf071540c8108715c07009135fd4374124ce10": "ansible@2.0: add 2.0.2.0 bottle.",
+    "293048416b66713cc338a7c4bb200badb3bd33c6": "ansible@2.0: import from homebrew/versions.",
+    "54ca6587c9101689d1826cb5e5387d86ce57115a": "ansible@1.9: import from homebrew/versions."
+}

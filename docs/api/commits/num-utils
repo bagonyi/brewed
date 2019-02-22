@@ -1,0 +1,21 @@
+{
+    "39efe87dcc674c8d7255b94ab930fab01c4a1193": "num-utils: remove references to pre-Mavericks.",
+    "bfc23eb528ef6ada6715c6d0d3bde3a5f59af3fd": "num-utils: secure url(s)",
+    "9fb5ce045365d089970ef144d7aa6f5276af0bb8": "num-utils: update 0.5 bottle.",
+    "0800fefebf7ce318ee4fa592e824d3d57019f022": "num-utils: update 0.5 bottle.",
+    "a7e4dfcc3ab7d970e384e90ae23629e411489901": "num-utils: update 0.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6f6cafbdad8463fbbce041fa2bf202d14493c33d": "num-utils: update 0.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "f12bc65bbe292ff01e007f7dadc4ef3397dcb5ba": "num-utils: conflicts with argyll-cms",
+    "394c384fd3eb2858715e082ef6287a67b3c8601c": "num-utils: conflict with 'crush-tools' added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d39d17346c6ffe873188e9ca59122b99d5cdac9a": "num-utils: add mirror",
+    "c27a88fdbcb43a3c950a3af6034ccfa9d4765db2": "num-utils: add 0.5 bottle.",
+    "7f5f730aef7da0c0832d3c784e27dbbc98f5d753": "num-utils: add test",
+    "91cdf48f539b0d52b9682770149078b4438fac4e": "normalize/num-utils conflict",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "e0798711fc2a821eb57cc76f7715392dfe24cc8a": "num-utils 0.5"
+}

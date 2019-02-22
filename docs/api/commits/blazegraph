@@ -1,0 +1,17 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "404330f6aea9361419aee88719a6453057670f93": "blazegraph: use opt_prefix for WorkingDirectory",
+    "bd5cb23777e2c541f84ece1fa4178294a943d932": "blazegraph: use assert_predicate",
+    "0995f97d9f65e7826aaca4785aeae3acdf37e43f": "blazegraph 2.1.4 (#10929)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7d9b2fab26f115ef669afe83b944fe2f71761838": "bigdata 1.5.3",
+    "2e2e39abfe49c7b991c4bac763194e7e78b18299": "bigdata: use https homepage",
+    "9738b5ff86e4b3fe2befa33dec14bbe9d315dbd7": "bigdata: bottle unneeded",
+    "45868a3aff9333bcd96ccbca5abee24b41f18fdb": "audit fixes: B: backupninja - bigdata",
+    "24d7e6fda465590f571d5c1aace267985ac25f5a": "Use exec instead of system",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "62b46f8028c8ba181abcbcd0c822a2ffbc6c72d0": "bigdata 1.5.1",
+    "edd1c0ef65d42927b173ddf009fc8f2accb76092": "bigdata 1.3.1"
+}

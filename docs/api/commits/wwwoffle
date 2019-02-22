@@ -1,0 +1,18 @@
+{
+    "386773c3e853174fa067393a3c406cc006475b08": "wwwoffle: update 2.9j bottle.",
+    "1d8301ac1e15754b0659efb06ec827ad788b723e": "wwwoffle: add test",
+    "72824c3afc795f138fcb534ba546ca219bc6d2d6": "wwwoffle: update 2.9j bottle.",
+    "1e1e60b3896b902068ad2db420aa56d708d0af87": "wwwoffle 2.9j",
+    "53f047ef6199839538c2e182a4792f89e2a7dae3": "wwwoffle: update 2.9i bottle.",
+    "68b1836a95716d6de22b930ef234cf2bb657b44e": "wwwoffle: update 2.9i bottle.",
+    "bbd903124f50cb68e9f3ba68b10eac9ac0315d6c": "wwwoffle: add 2.9i bottle.",
+    "ad34300d60a215aa5f6548fa5fb1a9d22ff2b86f": "wwwoffle: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f18c91ca56d643345390d4769fd73f2f9f5a0ab": "wwwoffle 2.9i",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0c89a5c8dd99ce83693278cd653132d011839ae8": "Remove redundant versions and update version tests",
+    "ed88171adf196a23aee3c398883b784593a3cf9b": "wwwoffle 2.9h",
+    "41b965efb09099a034083f5444e60757e96d88c1": "wwwoffle 2.9f"
+}

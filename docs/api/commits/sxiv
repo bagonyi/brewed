@@ -1,0 +1,14 @@
+{
+    "1bbeb827c3013e247bcd4bc05e8ca826eaec7dc2": "sxiv: fix dependency order",
+    "ce042e316d320a307d8f0390c8a9e2a5439b8b4c": "sxiv: update 1.3.2_1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "adae4e2644a62a28b5dc3f142d1c80babddaaad2": "sxiv: update 1.3.2_1 bottle.",
+    "98f19362abe9e21ebaf34b22016375e83222fef2": "sxiv: update 1.3.2_1 bottle.",
+    "08ff0f6b033f4836a542faabd418882041fe214a": "sxiv: revision for giflib",
+    "327bba0c0bab59759c20388426ff86ee864b6b3f": "sxiv: add 1.3.2 bottle.",
+    "2e084ec0bfc27e5febb04d7ebf020d50063c6115": "sxiv: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "1ff4847b6bcef5481d753f7c359b2a60b396f442": "sxiv 1.2",
+    "a04424a61e50ad2d11ece082d42cda64b47c4f32": "sxiv 1.1.1",
+    "6d77136b001ddf9d1ac1105d7ec48f327138bc46": "New formula: sxiv 1.0"
+}

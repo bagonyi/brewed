@@ -1,0 +1,12 @@
+{
+    "4174e8b7b0c6089e35f5b0c682a7de06c16c2c0e": "libpcap: update 1.9.0 bottle.",
+    "f7b89669d91194d203a5b6ea28594566abf381de": "libpcap: update 1.9.0 bottle.",
+    "3ea794d956bec76e8b1607f11ca6b4ba9ec41f72": "libpcap 1.9.0",
+    "d4c684fe190eab3964bd3b1fed706ce635a38e91": "libpcap: use *_by_macos.",
+    "d1fad41ced7b5987988dd4c64874c3eedd5978ad": "libpcap: secure url(s)",
+    "3e59096a04daaa3d8be21d5e5d7bc3c98c204f5a": "libpcap: update 1.8.1 bottle.",
+    "08404a51367cdeca2572b292ca631b91b75ce08a": "libpcap: update 1.8.1 bottle.",
+    "efa38cbb4344ce360188f8f378c03c6370c5cb43": "libpcap: import homebrew/dupes into core.",
+    "a49c0d9a7fbb647cd031a1ca91a2efad58ae0bfa": "Retired \"libpcap\".",
+    "aa4a886ea52adf6010a6c9bd4ca69cf62ba2053b": "libpcap 1.1-PRE-CVS"
+}

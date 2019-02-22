@@ -1,0 +1,17 @@
+{
+    "cdee0c4bca74bb7a1dd9cd26dbd0367cf35f1422": "speech-tools: update 2.5.0 bottle.",
+    "25196b76b67e28de30437801ceef6476fd4005b1": "speech-tools: update 2.5.0 bottle.",
+    "712b335fc760bffc69d40766e10aa43aedf5192d": "speech-tools 2.5.0",
+    "723447ba8cbe9a63aa2bf09a9140f37c32821aa0": "speech-tools: update 2.4 bottle.",
+    "086ce4fb3d8a37c858348cc1759f0b028008b464": "speech-tools: update 2.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "39c226dbef416bace8b7d7883e3beaaa2ea83c05": "speech-tools: update desc (#3982)",
+    "9d0b3be91ce849d004b2c3cd6931a419793ad027": "speech-tools: update 2.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "1f06693a0a391bf6c91585131628159da78a4c04": "speech-tools: conflicts with align",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f7dc3f1b0df131687b1bd478d0651c95ec86af9a": "speech-tools: add 2.4 bottle.",
+    "cbf1fafceed46672ad5544770f01392b7b03d51f": "speech-tools 2.4 (new formula)"
+}

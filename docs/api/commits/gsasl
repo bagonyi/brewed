@@ -1,0 +1,20 @@
+{
+    "dcef91dabc8d42a59d53e966040dd116dcd747b3": "gsasl: update 1.8.0 bottle.",
+    "7f5adfdfd9305ba2928870232ff2e84c913527d0": "gsasl: remove options",
+    "1b351820bacec708ea1515626a5cd0034f287104": "gsasl: update 1.8.0 bottle.",
+    "623f37e39649b87b1112b8978c10038187b7b6af": "gsasl: update 1.8.0 bottle.",
+    "c86d30f0741e486cd5e9dae7cbdb5a7a37cb1a10": "gsasl: swap GNU url and mirror.",
+    "8a27ab03d2ba887f8211b2001f9e60aa3a2198a6": "gsasl: fix mirror (#11686)",
+    "8bba35f0d9478e282b78f90c3ea0e7ed8e1d600c": "gsasl: Fix audit --strict expression order. (#5670)",
+    "63a5f5749858c18d3fed4132d0ac4e4b541b64e7": "gsasl: update 1.8.0 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "b391daac86389969825c4bba62089aeda911a814": "gsasl: update 1.8.0 bottle.",
+    "4182dae98815bc8598c4e84ea1982cf9495769a1": "gsasl: add optional libntlm dependency",
+    "8fbaf7c515840763d0021c535b7b88cf23d67a19": "gsasl: update 1.8.0 bottle.",
+    "ec42e835c7512fd4b193dc841382d210faf2e2d3": "gsasl: fix bottle misplacement",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "95ca31f6d8e696d139792e64df8bcac1c563dc06": "gsasl: update 1.8.0 bottle.",
+    "39fe5fe9ce0388f3bc78d3c6f63260f7a533f967": "gsasl: add 1.8.0 bottle.",
+    "0a46daf218df79e482547b71f512ff0d0e0cc022": "New fomrula: gsasl"
+}

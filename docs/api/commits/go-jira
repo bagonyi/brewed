@@ -1,0 +1,20 @@
+{
+    "6c7b69676a851505b9ad82182af34d35dcbb0582": "go-jira: update 1.0.20 bottle.",
+    "bb8bfec39406453a90318323895964c09e363de1": "go-jira: update 1.0.20 bottle.",
+    "60eb91d11d79326124007eef8c81833e04b2e64f": "go-jira 1.0.20",
+    "7bf4c62ac29de3c85a563875a9e5d776e875e82c": "go-jira: update 1.0.19 bottle.",
+    "029bc909d496b84a5d0825fca187d0f8a01f47d6": "go-jira 1.0.19",
+    "4e60927428f704873da6cc89a44cf01e89e7cb71": "go-jira: update 1.0.18 bottle.",
+    "38dafc8dd1cf895c17a8627cf24c902b9229a636": "go-jira 1.0.18",
+    "76df491c7ab0bca882b46f6f0bbf5fe2d5489175": "go-jira: update 1.0.17 bottle.",
+    "82aa1667b4583565e37e69870930ade26f14d741": "go-jira 1.0.17",
+    "e8e1dc72962b93e392c1e50d38881f22c78618e7": "go-jira: update 1.0.16 bottle.",
+    "eabeb5a35b29a0aa6e6cf5b05ac902f14bb43208": "go-jira 1.0.16",
+    "d14922b1e9704129962fafbf32fcfd76019cba4e": "go-jira: update 1.0.15 bottle.",
+    "ea4b2dd27976262cb11237f6c90af98cef9784bc": "go-jira 1.0.15",
+    "457956a7c768b9baf854c76b6f282a9b027a6087": "go-jira: refactor test.",
+    "df3d3a84556e21ad118d8ae4f35650f16e84e993": "go-jira: update 1.0.14 bottle.",
+    "1eace32fa5d0c4a365e1003841c53faac5e48349": "go-jira 1.0.14",
+    "319f319e592530a7fcfd63b12a9ffef88a7fe23b": "go-jira: add 1.0.12 bottle.",
+    "cf09a0ed48103300270306832d7002044e6e1e57": "go-jira 1.0.12 (new formula)"
+}

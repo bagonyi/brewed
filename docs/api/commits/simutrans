@@ -1,0 +1,13 @@
+{
+    "be526660cac721141d916e5943acb410408e2d28": "simutrans: remove references to pre-Mavericks.",
+    "12378f017b4e9843e09f76d199dc86e22cda2a22": "simutrans: update 120.4 bottle.",
+    "6cea322a6ff2556acab3d888d04f7a48d7cb8633": "simutrans 120.4",
+    "b6ea48332c10a3f22a1339a24cf705e0acbf3fcc": "simutrans: fix dependency order",
+    "a83332b61b551d37cc7b5455b7ffd364c01e28cb": "simutrans: update 120.3 bottle.",
+    "a467062340cb1d5955bf8e43ee025c25c7805a65": "simutrans 120.3",
+    "2f9a5e1a741f13643efbd8e91d39fb47ff278b59": "simutrans: upgrade resource URL protocol",
+    "6365a654977f95b4b3035165bd16fb187d56cc44": "simutrans: https homepage",
+    "cf35b6726d533832ee8ef4d0309a7041580b03bf": "simutrans: add 120.1.3 bottle.",
+    "317a591afbc6ec384ec882ba0ed335be3767000c": "simutrans: various fixes.",
+    "a0fa00cb7d67bb5e280bf30ac314ed305d84ef36": "simutrans: import from homebrew/games."
+}

@@ -1,0 +1,20 @@
+{
+    "a5b0a0f7d53962f7a6194ad9c390f067d41c48e5": "cereal: update 1.2.2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "896032e4110c6d5b89f8ad645a13a1b1d94d3ecc": "cereal: update 1.2.2 bottle.",
+    "ad493d867f9cf7067ed7a97d5d7f6f7868b1a064": "cereal: add 1.2.2 bottle.",
+    "db4a6c260dc55d4ae7e8415e033d63a956444bf1": "cereal: always build with cmake",
+    "64416d1e3f8bd790fd116fc8be100ff799689e01": "cereal 1.2.2",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e6c6ec3047bf902e193ea7615a69cefe870ace64": "cereal 1.2.1",
+    "d51df0bc5d5817248c51c7d45db2d470d0a15513": "cereal: update 1.1.2 bottle.",
+    "871d34317d3a23a923e2c8c116158191b263f653": "cereal: use --with-test",
+    "6848ab6d357c516d544945f128ea4241fc7f6735": "cereal: update 1.1.2 bottle.",
+    "e40ee581cdf013f28cce4bd93e184f8d4b5da286": "cereal 1.1.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "119bda48a86d7b0921931c4461e9eab71977412e": "cereal: update 1.1.0 bottle.",
+    "326adec10acdbe112481c07f2003fb5c7b179eb4": "cereal 1.1.0",
+    "d82e93f7b4f9ca0f76661588bade7dd43ff6ef2f": "cereal: add 1.0.0 bottle.",
+    "254c3333c6617afe13176e6988199007fc144aa1": "New formula: cereal 1.0.0"
+}

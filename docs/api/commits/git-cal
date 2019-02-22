@@ -1,0 +1,14 @@
+{
+    "cef5b607033699108630182d3c2eac3801d3e967": "git-cal: update 0.9.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "e790f831cf47cd7b1bb0b3916f99c7ce0e601696": "git-cal: update 0.9.1 bottle.",
+    "beca39e7417e8a358002bfdab2813e6a560c9eef": "git-cal: update 0.9.1 bottle.",
+    "c68070a711229d46c640febc815cd74b81137076": "git-cal: don't lean on HOMEBREW_REPOSITORY",
+    "b8e08be12935d1fbb5e91b7d7955a261ed591263": "git-cal: update 0.9.1 bottle.",
+    "da55c6171c08365275acfd38cd15569449dd1ed7": "git-cal: add 0.9.1 bottle.",
+    "7a50047eeae476bcb3252d2f468e9baf909ac1e3": "git-cal: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3e9073293832274daf03e5b74fa843dca0d016dd": "git-cal v0.9.1",
+    "2cc9f2ed212715b974c59c803ff861f9dff8af05": "git-cal: improve test.",
+    "4055e6a433a5dc19eb30adc18bb18ed56817395e": "git-cal 0.9 (new formula)"
+}

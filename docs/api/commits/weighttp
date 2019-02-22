@@ -1,0 +1,14 @@
+{
+    "005264e93e0a739c2b6a8c6f97f8a184856dc3c5": "weighttp: update 0.4 bottle.",
+    "0676cb0fd8efa85da3841b01baece0c48c9b2ebc": "weighttp: update 0.4 bottle.",
+    "00ec5c19f58dfe75b20b2abb20e69064378d82ac": "weighttp: update 0.4 bottle.",
+    "4792765fb11e2f3d2357e4c04fac3362faca4287": "weighttp: update 0.4 bottle.",
+    "06b1f4e142016159ab4869418f4fc19be74ac319": "weighttp 0.4",
+    "c8fc0ca31409806d4262a55227d3bcf69ca46f10": "weighttp: add 0.3 bottle.",
+    "59b47c5a9142ecd90bba1822218e754437cd6794": "weighttp: use secure head url",
+    "c9f0ec7185a9f15ecb1c8fcc1d53db5d5543a322": "weighttp: use https homepage and https url in test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2d92d9b21b692660c2cac68754529bd4a5f23e9c": "weighttp: fix test",
+    "1a06ede7f9fa4bd7a97e3011d498f46446e1d970": "weighttp 0.3"
+}

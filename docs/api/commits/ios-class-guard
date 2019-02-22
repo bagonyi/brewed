@@ -1,0 +1,18 @@
+{
+    "1f0190d827407e88f7507072326b99afb3fbc0fb": "ios-class-guard: remove pre-Mavericks support",
+    "aa201c24b24823c84c2b7fcb66fde80ca4dd2409": "ios-class-guard: shorten long lines.",
+    "14b6fc74b6c2ddc2e67c2d84a152fd96bff3d262": "ios-class-guard: fix dependency order",
+    "ecdec0c94cc47b70d695466ec857c600397ba277": "ios-class-guard: update 0.8 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "237b7b4fee846647c397c223e4b85e1118342763": "ios-class-guard: update 0.8 bottle.",
+    "2604e8ed784ce81489cb4fa48fa7d46bc1a70a22": "ios-class-guard: update 0.8 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fe5c0c58fc4331a8d780a3ec5c0e626bdc610ae7": "ios-class-guard: audit fix.",
+    "41ea9d1296c629394883dcdff32b280438896a52": "ios-class-guard: update 0.8 bottle.",
+    "022390acb7310154a6800e95d3142cf21f6eb8a7": "ios-class-guard 0.8",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2764003eebbf87a805e27a2a14389cfda13b77d4": "ios-class-guard: add 0.6 bottle.",
+    "737785a835efa04a69d6f82b357cb8dea7c50671": "iso-class-guard 0.6 (new formula)"
+}

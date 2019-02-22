@@ -1,0 +1,15 @@
+{
+    "e06e2c88c79405889b425f9d92909cd4fd45b1c0": "redstore: update 0.5.4 bottle.",
+    "0bb3bfd3193ac951c8a6197c8042ae11354ed919": "redstore: update 0.5.4 bottle.",
+    "4937ed8274890703ba4d341ecefc1e269ce3c0f8": "redstore: update 0.5.4 bottle.",
+    "d27ad28f710dd648c3d4dc53a21c7c6259299ac8": "redstore: add 0.5.4 bottle.",
+    "206f706d217ac0fb1bcb08f08db7d6b58fe3748d": "redstore: use https homepage",
+    "4fb03700596e9f684d73a564e7140c42ab4cabb2": "redstore: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e199e3f1b75d2bf9925d4f1fd05ac33bb168b799": "restore: more specific homepage",
+    "e2431c55eddaff3d3b3e476fefc7d1740436a0d3": "RedStore 0.5.4",
+    "a08546603b393ad388787902f0cc44a140c76e9d": "lrzip v0.604",
+    "a932100d0add3eb11587d1fcea5e1263fcc1a6e8": "Snappy 1.0.1",
+    "ddc9c784bb0808eb61df5dce9ea2d47945d3c279": "snappy 1.0.0"
+}

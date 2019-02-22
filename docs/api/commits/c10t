@@ -1,0 +1,20 @@
+{
+    "af42aa256253d2c693ab462620044c41c23ecddc": "c10t: update 1.7_1 bottle.",
+    "6cd86896ac673bb8942becdf938eb39ecfdfcf37": "c10t: revision for boost",
+    "5fa7d4096189717c15b4fbea7a845287cf6e9263": "c10t: update 1.7 bottle.",
+    "4c04aa617592c4f00981d84669b44966343ae3ba": "c10t: update 1.7 bottle.",
+    "7a4c273187669d7e68e1b8d03fbd39abc80cfeda": "c10t: use full_index patch",
+    "04836a77755b4412660458f28530c6e7469345d5": "c10t: update 1.7 bottle.",
+    "e6028501358ad3169e78922ab58d90ee83c1b435": "c10t: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "7c5720e36f5d3e00f6a0ae5e5fac7b9a0e161815": "Put source path last in cmake args",
+    "609cbcf931ce61781696f3def0cdbf5db19ea9b2": "c10t 1.7",
+    "0ca43ef677d7e2eabf2ba2500e16a32fe90b8c81": "c10t: use system libpng",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ec0e1909168cc0b663eeb071ec70b05edc239361": "Update Formula: c10t",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "662bc48d92cb922b94007ab35ad00da5ec41768e": "c10t: fixed wrong md5 sum",
+    "3ba17f4d193e115b42b4cc78689a2cee0fed5bd5": "Updated c10t formula to 1.3",
+    "ce526b4838ac011eed12891b2a4a86b7d15b95f3": "updated c01t formula to v1.2",
+    "3fcdf29ba247af202f5264be455717d7e4ebbae0": "add c10t - A minecraft cartography tool."
+}

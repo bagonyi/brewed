@@ -1,0 +1,13 @@
+{
+    "1578b1b91f68595f6466fc5b76a310dc780f09e4": "redir: remove references to pre-Mavericks.",
+    "f94b14c3ee9a86c15f30638a2f815dbca5f3096b": "redir: update 2.2.1-9 bottle.",
+    "0a99b25cd53c22c8377edd19435fd2e30d8a9643": "redir: update 2.2.1-9 bottle.",
+    "7747b2c1b1cc4f140cef27c1dddca15d145d6112": "redir: update 2.2.1-9 bottle.",
+    "04df9ed8beafb3d9b8b968807e48b217e40ac3aa": "redir: update 2.2.1-9 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6cddd3788e8c3172bfe58fd1a08e85fe887226aa": "redir: update 2.2.1-9 bottle.",
+    "2d671df29091413e298fca7b4f27160f9be63589": "redir: reassign version from 2.2.1_9 to 2.2.1-9",
+    "040ed3157b01ca19ccfd76ecbca8057f3508dd78": "redir: add 2.2.1_9 bottle.",
+    "712e795715e5d6ba5f2dcc2a98a8342ddc76e244": "redir 2.2.1_9 (new formula)"
+}

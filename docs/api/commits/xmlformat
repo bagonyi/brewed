@@ -1,0 +1,13 @@
+{
+    "d1701c3226847d6ba86c71f5725e273011b3595f": "xmlformat: restore live urls (from archive.org)",
+    "6a500598753eeb6ff86f58b569d452faa8ce9666": "xmlformat: fix url(s)",
+    "ff42844b38f95cc4c67ec781674cbd1c906e17a4": "xmlformat: add test",
+    "65cec93fb919b1eece1cf417724b3c6ee02881fe": "xmlformat: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c0b9451b58d670ff7f93163fe5deeb0251b53bc0": "xmlformat: use perl version",
+    "f1ec15adafef2b80b59ebeab99886701aeb69088": "xmlformat: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "afca2670f246385d526a15ee406dbd8ecf5d15a0": "add new formula 'xmlformat'"
+}

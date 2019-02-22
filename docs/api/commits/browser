@@ -1,0 +1,16 @@
+{
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "ed96ee6c08d6e89e59c27335512c2d1571cc5261": "browser: do not manually set TERM in test",
+    "8be837967e9980759509aa791469e512b8754c68": "browser: bottle unneeded",
+    "08831041ee4a802c80e059dccd5484ce12927724": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6f5b243e65ad7653f41b139d52f801f22d394ede": "browser 7",
+    "6dbe074e54968132f32ae645975b7d112a0fdd04": "Start pointing some things at githubusercontent domain",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "3187f697500fd44a4802c58b560a72d274153d9e": "Fix inheritance for GithubGistFormula",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7030719ea0a1b9d67924a6d834f9b7a4c291ab2f": "New forumla for defunkts Browswer script"
+}

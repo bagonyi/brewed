@@ -1,0 +1,21 @@
+{
+    "23cc6e4f8e12a55cc34256c52583e6b093f0fcb6": "clipsafe: remove references to pre-Mavericks.",
+    "90da0bf93fa616fc6507ca49928b9d492397a86b": "clipsafe: update 1.1_1 bottle.",
+    "c156d707ce590ad745e1601303ad64e6519b1f0e": "clipsafe: remove retired search.cpan.org mirror(s)",
+    "4ac95a78c6f7b51692d301015fb63bb9f8b8d9cf": "clipsafe: remove broken mirror url(s)",
+    "8820b1c6c4d5db478ed8b58e9c606ba5241bec17": "clipsafe: update 1.1_1 bottle.",
+    "f956bde40c27f9969c49220b33e7f1c684fb5ae4": "clipsafe: update 1.1_1 bottle.",
+    "0e0d733346b207bff2ede8887a6679351f3707d0": "clipsafe: update resources",
+    "bd96dd470f76419316aa4a8819e784957d7006d4": "clipsafe: update 1.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "95f7c9b60a98ae1b4e13495adedaa6ca522e33e6": "clipsafe: do not manually set TERM in test",
+    "6d01fcc8dc3000abbb6e994d5b1ce8226166ff12": "clipsafe: add 1.1 bottle.",
+    "ae11a8203dd1ace22c3353d0e74d71b25076b504": "clipsafe: remove insecure cpan urls",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fe87f46f8eb4ed2faa187e30062b19c5a2f501d5": "clipsafe: use SSL/TLS mirrors, sha256 hashes",
+    "c5383f89ffc25a9309afdf2288a6159ba2ac9dc4": "clipsafe: add metacpan mirror",
+    "ee6e3e847c0adda8ca3181325e990546f48749d3": "clipsafe: style nits",
+    "28f056f4570eaad1760f5f800b6fc707f30a2429": "clipsafe: use wrapper script instead of inreplace.",
+    "0faaadb17d32dd8549a127c6604892f4ee4d8783": "clipsafe 1.1 (new formula)"
+}

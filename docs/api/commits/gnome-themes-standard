@@ -1,0 +1,22 @@
+{
+    "e5f6aaf209e8db32107f1e98186f678470d2d275": "gnome-themes-standard: fix dependency order",
+    "c11c94e35e02896afdb91a9430c902053b706bb7": "gnome-themes-standard: update 3.22.3_1 bottle.",
+    "a4ab8b6c5085bf7b2d126fd64399fab918d46244": "gnome-themes-standard: update homepage",
+    "de704385e5e96d43ba38ad492714588115c92cc1": "gnome-themes-standard: update 3.22.3_1 bottle.",
+    "d228842f9cb0089d6ec98bcc41b68916aa52b9b8": "gnome-themes-standard: revision to fix install receipt",
+    "10dca23bbb34ef87340b1a014a5cbc96ce69648a": "gnome-themes-standard: use assert_predicate",
+    "6ef0d0dbc1ada4a56f0657711c762fcea1c07800": "gnome-themes-standard: update 3.22.3 bottle.",
+    "cc8aede9ce1e33eceeae203aa7d108dc0a11780d": "gnome-themes-standard: update 3.22.3 bottle.",
+    "0901927ff5e98e967d22b22ee55242c35b25f9dc": "gnome-themes-standard 3.22.3",
+    "6da46862a6fbc1b18860dcd89f0146cd83b92d80": "gnome-themes-standard: update 3.22.2 bottle.",
+    "d77e9f2f393a32d056b7d05b998c663089c058aa": "gnome-themes-standard 3.22.2",
+    "5cafc55875ae6064c50510707d8416bef9a97cec": "gnome-themes-standard: update 3.22.1 bottle.",
+    "1a830908c859c3a15a9aa5b0f475fe8488b633ea": "gnome-themes-standard 3.22.1",
+    "1e2a494f6e3f332762d00248b73b81e5c63ad9d5": "gnome-themes-standard: update 3.20.2 bottle.",
+    "63f78c54758c6778697cff88596c0c887d41542c": "gnome-themes-standard: update 3.20.2 bottle.",
+    "2c097a9d7644b10c1174f02584286f169f434505": "gnome-themes-standard 3.20.2",
+    "1f674641658241a6fb9735b431aafd4dc2771851": "gnome-themes-standard: update 3.18.0 bottle.",
+    "7b37c7d67048966f84efe7015ceaf0ea7c7954dc": "gnome-themes-standard 3.18.0",
+    "3daf27a1340d4b8fecc92c74f7b08a72e1d4d065": "gnome-themes-standard: add 3.16.2 bottle.",
+    "08ca7764004a630fdfa49fac712d77d6dec19b43": "gnome-themes-standard (new formula)"
+}

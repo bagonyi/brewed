@@ -1,0 +1,15 @@
+{
+    "d196e1615d1f5953daa2a7537ca9d960bd4f9a9e": "xboard: remove options",
+    "820f8777cd7e7d40833a69857bbaba74f7856d79": "xboard: update 4.9.1_2 bottle.",
+    "b02e4826787de1c8913f26cf2d64de2eaa05b078": "xboard: update 4.9.1_2 bottle.",
+    "5f895c880d9f75d7f4e3388bea502f1fc0fc0c83": "xboard: revision to fix install receipt",
+    "4d5e6af04bffa022e119ed7dd5fa6d3b6a0e33cb": "xboard: update 4.9.1_1 bottle.",
+    "c0e9a02eb914fd7a4aa4935cc1a92a0a4ad27261": "xboard: swap GNU url and mirror.",
+    "15723099a476c6a2d4938cebeb721c16476f03a9": "xboard: use secure head url",
+    "f90fdb3eff0b243c7ff675a838921fe5f70b6048": "xboard: update 4.9.1_1 bottle.",
+    "08a8ca051fbb09da647f4e3ddc4af5e8da26ce06": "xboard: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "9192bfbdf5bb4f199aeb86a9a9c23e1496a13f5e": "xboard 4.6.0",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "5731ef0e60cab4e7aad71da671e88d7f781a763f": "New formula: xboard"
+}

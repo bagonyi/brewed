@@ -1,0 +1,21 @@
+{
+    "39e0437fed580b1f7acd88473c630b0c7d31070f": "ditaa 0.11.0 (#22846)",
+    "722c767692ebdd3618b8f42f121c1d7203be4b66": "ditaa: depend on ant instead of :ant",
+    "d0574e383db9d950cc0410ca4cf3a768527c516d": "ditaa: update 0.10 bottle.",
+    "fbf6b088317a611f0315a712169e971a629cc54d": "ditaa: fix audit --warning",
+    "f177fe2462f5f5fa63191bb8d7954c6b3e2b1109": "ditaa: update 0.10 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "d62a98e89bee4ebbfd832dc566e0e95f93e983e3": "ditaa: update 0.10 bottle.",
+    "e1d950f4f757ef91e9301a1312db94b4cb1da761": "ditaa 0.10",
+    "3dfddba6aa637b59c6c5e763a20e53a4dcb43531": "ditaa 0.10",
+    "3dc369761e9476dfcf790e041b966e62d1b2ffd7": "ditaa: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9d9f3867a402da45889953ee83eee8d7908c30b0": "ditaa: simplify",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2a7f471e5351e764d02ff73bffe1ece18963694a": "New formula: ditaa"
+}

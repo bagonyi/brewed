@@ -1,0 +1,15 @@
+{
+    "b4f36b760b472670e3e4dfe96e9e07da258be167": "i2util: remove references to pre-Mavericks.",
+    "ef678f513587923a3ca0b879345e56f0fb9eddd7": "i2util: update 1.2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5bde8b0b29089d7b0c971eede254b5fc9682a957": "i2util: update 1.2 bottle.",
+    "5d325d44493885eec95246e04db4dc1d61f22b26": "i2util: fix test on 10.13",
+    "e78c58a1ebf6feb4d5ba4c4048ce7dcc591616f1": "i2util: use https for homepage and stable url",
+    "6b8c2c165b9c8a3df8ddd74f5d9f48d2a888949d": "i2util: update 1.2 bottle.",
+    "faa75986c37085453ee82afbd14eccac51ad4b92": "i2util: update 1.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7772bd476ba68aa631ab645e25b9f212208cacac": "i2util: add 1.2 bottle.",
+    "435ac6f5b99c75707ee24b955c125982568066d7": "i2util 1.2 (new formula)"
+}

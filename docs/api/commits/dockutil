@@ -1,0 +1,15 @@
+{
+    "01c78cba0a22be2b477db6cbdb06eb81b5e28487": "dockutil 2.0.5",
+    "73857e83a673732923fdd614239d77b153783c7a": "dockutil 2.0.4",
+    "33e441d49a082ff0a2e6fe8b791eb135a4f4d8a9": "dockutil 2.0.3",
+    "81bb39334d685cc24e2744a2ecdb027da41480b7": "dockutil: bottle unneeded",
+    "6610fce9a9baab35ac2ecfa2d05a6ff9f83f2865": "dockutil: restore working test",
+    "aec84d9c9317315f5a568980f19bca121467b71b": "dockutil: remove broken dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bfd97b752c452073f57d45b4824136fed67cfb40": "dockutil: update 2.0.2 bottle.",
+    "ffc67c618b5f24f6f6fdb6b8e6642eb58fa54024": "dockutil 2.0.2",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "4c80a90ab0329059dd75bac6983e4b8fb338a1b4": "dockutil: add 2.0.0 bottle.",
+    "d03811b9e4a2fcd6b00f1c069beb7f8ef982d2cf": "Added formula for dockutil 2.0.0"
+}

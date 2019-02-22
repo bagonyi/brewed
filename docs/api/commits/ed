@@ -1,0 +1,16 @@
+{
+    "96f688f90947828d4c10cfb81000d6731cb749ee": "ed: update 1.15 bottle.",
+    "9be78008924c75e21f7084dfc7ea80c278e088a7": "ed: create symbolic link `man` to `gnuman`",
+    "4dd710101c99387cb53f55956f6c7238a6e9074e": "ed: update 1.15 bottle.",
+    "381e223d93e5d4e95e9a20fa1f579ced1481edf9": "ed 1.15",
+    "01192051b720a579e8dce1dfab32b382831e4534": "ed: update 1.14.2 bottle.",
+    "4ff4840ca62bf828cb94651255551e86fbe91170": "ed: remove default-names option",
+    "26072d7d3312703e1c3205f124e34556ca9390f5": "ed: fix component order",
+    "957ce16879c0c26c645636e5552f7a94f69d2e62": "ed: update 1.14.2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ebdec1fde378a5a975baa8324522b71d790c0e21": "ed: update 1.14.2 bottle.",
+    "c709303a4e23cedf776e3b2017452105d37329b7": "ed: swap GNU url and mirror.",
+    "283f98c2623da441310e182483f81cd2a878a3bf": "ed: update 1.14.2 bottle.",
+    "5f48b3415627c8b7a1755b1895a1105c6b1c9173": "ed: import homebrew/dupes into core."
+}

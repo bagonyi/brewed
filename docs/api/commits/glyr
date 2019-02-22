@@ -1,0 +1,12 @@
+{
+    "cc0750ce2764c554b6b921588a3efe81eb901c4d": "glyr: fix dependency order",
+    "63749a503417fe3cdc1959862164b75c45740056": "glyr: update 1.0.10 bottle.",
+    "e0e9dbb4b73911ed726a8079dc5ec3a809089a74": "glyr: update 1.0.10 bottle.",
+    "5a63f1c367491695d620fd025c4600e5a0527a60": "glyr: update 1.0.10 bottle.",
+    "078f3818301256d38621ad33e0e6b4890d60dc76": "glyr 1.0.10",
+    "5ed408e54400e0fd6d564841270895710d79c65c": "glyr: update 1.0.9 bottle.",
+    "e40dc2e709ff5409c672e31c8f89ad31a3e9712e": "glyr: update 1.0.9 bottle.",
+    "3269fe93f441f0315ae952457c14b48dc0289270": "glyr 1.0.9",
+    "7e52d7a35f779648e413828c96c5ae4e2f2edfae": "glyr: add 1.0.8 bottle.",
+    "6820a4694935638a3db3167fc96d0fde6baf6276": "glyr 1.0.8 (new formula)"
+}

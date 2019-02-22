@@ -1,0 +1,15 @@
+{
+    "706d50fb5be2127fe86037c43df6316d6ac4f9fd": "cppi: remove references to pre-Mavericks.",
+    "df5723e02053db7983df431d58350f9ad61b47cb": "cppi: update 1.18 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "79e01084c1f4aca9f199bd4420ec24cc58234092": "cppi: update 1.18 bottle.",
+    "67c19b531bbb54bef92077fc660792cb42bbd14c": "cppi: swap GNU url and mirror.",
+    "2c04a06f435aa501b49f4a02c2812fc123bdfb33": "cppi: fix mirror (#11672)",
+    "6a9af9652d1b4059e0f229a4a4eda8411565db73": "cppi: update 1.18 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "7140e3c5a576ed6b73cf0b2f503d9507c7cc8933": "cppi: update 1.18 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "81eae1d9b2c70f41aad22b507cbac24bcc5482b8": "cppi: add 1.18 bottle.",
+    "78f58f4fdf151ac82b091ddd50b287f612027f7d": "cppi: use sha256, better test added",
+    "d6baf19237695837404b9171c522803fac6b0376": "cppi 1.18"
+}

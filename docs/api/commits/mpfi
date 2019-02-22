@@ -1,0 +1,20 @@
+{
+    "5c2f1bc449ef22dc7b70f47e7d0ddfc945bd4c0d": "mpfi: update 1.5.3 bottle.",
+    "5bb91e7ae4ae97ac437c2b23993584fa1ca8ac6c": "mpfi: update 1.5.3 bottle.",
+    "0f9a7304729dcf2b6370a352becfd748c86167ef": "mpfi 1.5.3",
+    "1f82df9ff45add25aa9e6fde2d446b750e6e2feb": "mpfi: update 1.5.2 bottle.",
+    "9caf69f7f0dce2fac8325900a08add729456b4a2": "mpfi 1.5.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "93ad761bd709b4b7279802a906efd5f4d581c9f3": "mpfi: update 1.5.1 bottle.",
+    "daef6f1c3f947cb12c5c5a9cf348d44e5a6acd0b": "mpfi: fix test on 10.13",
+    "c251d0bbd6121f9761e6de3a4c04d975a3fef373": "mpfi: remove 32-bit option",
+    "50d653f531974f44aad2ebe0c0124b5dd6cd631a": "mpfi: update 1.5.1 bottle.",
+    "6077ee316702155a85e592c8e213955d9b8ad3c1": "mpfi: add 1.5.1 bottle.",
+    "3d4e8208190a74b7917dd8e3dcb2946bbfdf30e8": "mpfi: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "da0c1eb533a49af0647f411318fb901cf0efed27": "mpfi: add test",
+    "d3e98c8d04102ec86e77b006b2c8f3bcd4714aeb": "mpfi: modernize",
+    "c4b6f6755f9baa78d0c8ad351ca5e90a9c57e058": "mpfi: let the build system detect the arch to build for",
+    "d927d2d5c11a768d8b5c06047fad80357442f3ef": "New Formula: MPFI"
+}

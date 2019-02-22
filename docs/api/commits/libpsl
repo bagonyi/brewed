@@ -1,0 +1,8 @@
+{
+    "fc566ace513892f5102544a52d10d77dc6be3024": "libpsl: update 0.20.2_2 bottle.",
+    "b7fa57258097464e184e34fadb11eb9025700137": "libpsl: revision for libidn2",
+    "184dc2a57d00dfd0dc5bd9eb76a054c5fe5a73b6": "libpsl: update 0.20.2_1 bottle.",
+    "ec26e34dbf728e02f119bce69886237c36f9d94a": "libpsl: revision for libidn2",
+    "77a14f3cf181e3bbb99a82ce49519443f7a7d5b2": "libpsl: add 0.20.2 bottle.",
+    "b5644416db4ed0250c4d0c6d3fff3f521c24abaa": "libpsl 0.20.2 (new formula)"
+}

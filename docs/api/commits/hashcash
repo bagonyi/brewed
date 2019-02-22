@@ -1,0 +1,11 @@
+{
+    "987aeb6df5b87eeff679bcda0dc180d053038be0": "hashcash: update 1.22 bottle.",
+    "e601e06087f8329ae161956c2c5d1d97567c6a48": "hashcash: update 1.22 bottle.",
+    "966b34a00f54696cee5b36e80e99d78de7c220b9": "hashcash: update 1.22 bottle.",
+    "ea837b5d16ddaf09dccb5388fb53fa77ff51c458": "hashcash: update 1.22 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "169eb1b0ce54ee21d32aec59c6c7c49de30b57b6": "hashcash: add 1.22 bottle.",
+    "54580dac5799db40e91773dd8456223fbddca51a": "hashcash 1.22 (new formula)"
+}

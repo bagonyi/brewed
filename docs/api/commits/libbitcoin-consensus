@@ -1,0 +1,8 @@
+{
+    "4cf1f33ea4e247c6b7dfe32a8d147468ced6bce7": "libbitcoin-consensus: update 3.5.0 bottle.",
+    "3403d608289ac8b86e723c8badb83291e1603cfc": "libbitcoin-consensus: update 3.5.0 bottle.",
+    "01d520b26225b2d273878833ca7ea56e2233f79a": "libbitcoin-consensus 3.5.0",
+    "6e6d1ae02a9e410511d8de11b19316c12632c226": "libbitcoin-consensus: fix dependency order",
+    "709e8d014eebbe3762eb8963751ae6f09eaa15a8": "libbitcoin-consensus: add 3.4.0 bottle.",
+    "1a907ea463b5436777079db1414c0a079c0821d4": "libbitcoin-consensus 3.4.0 (new formula)"
+}

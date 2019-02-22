@@ -1,0 +1,17 @@
+{
+    "0914542d9ce2e4e5210b3755197571148fcf27e4": "docker-machine-completion 0.16.1",
+    "eb23b0e9adf952199ef21b7f5a51fd4e26c52269": "docker-machine-completion 0.16.0",
+    "a6ed2cac059d4cbc9c0da3e993a9a2077d6466f0": "docker-machine-completion 0.15.0 (#28963)",
+    "35373915840b38b42ae73cf318ba57d1badeafdf": "docker-machine-completion 0.14.0 (#24939)",
+    "f87f0d3f8c99b6a8983a2491811c529d31384d36": "docker-machine-completion 0.13.0 (#19633)",
+    "ed633e6e2d94629a23ca8a0da5ef896f330008ad": "docker-machine-completion: fix checksum",
+    "228d5884baac4b256a60c3ae1e4e84ea7d2b6179": "docker-machine-completion 0.12.2 (#15573)",
+    "93d81c1cea4af44ab8dce55fbce8353236cfcc51": "docker-machine-completion 0.12.1 (#15183)",
+    "56cf89532ffa3644f9cbb7904527931c83f3d9b4": "docker-machine-completion: enable extglob",
+    "950648d83f5f669b62afd5f10af70d9295f131d3": "docker-machine-completion 0.12.0",
+    "11ef5695753f1d2a8a1df11de80173918bd13922": "docker-machine-completion 0.11.0 (#12892)",
+    "73a0bfdbf74d60d72edaf682379c41d424e0886a": "docker-machine-completion: install all Bash completion files (#11177)",
+    "f9a852967bf9797d05be9e64f452ed7581ca5e68": "docker-machine-completion 0.10.0",
+    "3ea9c43460afbbfbb43af436da9bc64e627dd1f7": "docker-machine-completion 0.9.0",
+    "c474a0d86f290fd793cfe6eb359cf811eb7899b6": "docker-machine-completion: import from homebrew/completions."
+}

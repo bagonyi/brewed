@@ -1,0 +1,8 @@
+{
+    "9d03417efa94bb72b4f488c6867da11dd6a03b45": "phpcs 3.4.0 (#35299)",
+    "b5da0a4cd7b41f49a6f13d8fe5a2fc3dedef8f53": "phpcs 3.3.2",
+    "db1e06b387af82fa343e8696044b533707dfbc20": "php-code-sniffer 3.3.1 (#30521)",
+    "616d7d1d7e4143603e0d760dc8f39c0db6b2a43e": "php-code-sniffer: fix phpcbf version (#30232)",
+    "d4d3db50653a82d7caa6bf3ea05927b3257093e7": "php-code-sniffer 3.3.0 (#28746)",
+    "e8aa7ff587f8ef7281d030ae5ce31f9c7c54712c": "php-code-sniffer: import from homebrew/php (#25957)"
+}

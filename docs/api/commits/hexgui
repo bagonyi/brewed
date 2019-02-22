@@ -1,0 +1,11 @@
+{
+    "9cfee2d7513924c2466c4007e974a02cbd285895": "hexgui: update 0.9.2 bottle.",
+    "feadb1cf2238425a4af9ed22df863a336fc435a4": "hexgui: update 0.9.2 bottle.",
+    "d2c7ec7895452a6cff781ec11fc805135555a0c5": "hexgui 0.9.2",
+    "9cef80e11cc0a5b4f4ae27004f71cbbbfa907416": "hexgui: update 0.9.1 bottle.",
+    "498ed48263031817dc4fa3e04dd01a8f8d724956": "hexgui: require Java 8 specifically (#28318)",
+    "01f26c5c55dc0d8db0cb71a9c480dd43418f97f2": "hexgui: depend on ant instead of :ant",
+    "1b633a48f0395329199542d795603294764760a2": "hexgui: update 0.9.1 bottle.",
+    "d510aac25e4a1ff1ed728fd90f0201e1bf95cb8a": "hexgui: update 0.9.1 bottle.",
+    "cdc254819f4a91742489da77f316c57485ff151c": "hexgui: import from homebrew/games."
+}

@@ -1,0 +1,10 @@
+{
+    "bfec034dece665740c1a6bf9f5c2990b1dce8a24": "antlr@2: update 2.7.7_1 bottle.",
+    "fab91a7072e9aa33746de8bdc220a646541427cd": "antlr@2: make keg_only, remove version suffix",
+    "8772fb74b1855fd87b41f94aad8f41ad269bb663": "antlr@2: update 2.7.7 bottle.",
+    "6f6cfa2fc687a6f0f29787e21e6dbbf7f0bbe11a": "antlr@2: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f7bef58a8d5a0db44af017dde40c99331d7b9bc1": "antlr@2: update 2.7.7 bottle.",
+    "6cf719f4eb2048b43b697f73dfa52b5dd7678dd4": "antlr@2: add 2.7.7 bottle.",
+    "993fd34c856cade647549b104e7b048c92d42b58": "antlr@2: import from homebrew/versions."
+}

@@ -1,0 +1,21 @@
+{
+    "5e143afe7d9a27d5fca4f5de8895a3bcf3101f1a": "intltool: remove references to pre-Mavericks.",
+    "671699f31967193e46c9a7e263965d26fd291b9e": "intltool: update 0.51.0 bottle.",
+    "f6f4cf954225cd9ef7a3b4d13bfab34aa4a51e1e": "intltool: update 0.51.0 bottle.",
+    "7873dc16cc88647c9bb6faa109e4594b4edf05e2": "intltool: update 0.51.0 bottle.",
+    "ad627121d999e9bd094f566f736c84afde35dbe4": "intltool: update 0.51.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1e3d576cabb82914718ccfb81ca64085cb93afde": "intltool: update 0.51.0 bottle.",
+    "3ef2d74b49a9e4d69d28144acf3be60c4cde6ee0": "intltool 0.51.0",
+    "de7494ad9ae4535e5ccf1e34e2adea91995b666e": "intltool: add yosemite bottle.",
+    "82b63a1c09453829d279c1fc15428ddc90c59505": "intltool: remove perl dep that is system provided",
+    "e40e631af9921c1ab02cbdaa790b153785c37a99": "intltool: add bottle.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6c336b678330db479b373c1a2233443f98cd0511": "intltool 0.50.2",
+    "15b3fd8751a890b6f6db69bd247a26af91ac3ee8": "intltool 0.50.0",
+    "1a934ba7c9c17d8be2ec73607d3095f6a24e4493": "intltool: 0.41.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "ea309d16bbbff544dff569e822cec87e2f8efd3e": "Freedesktop.org intltool formula"
+}

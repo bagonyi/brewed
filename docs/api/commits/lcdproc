@@ -1,0 +1,18 @@
+{
+    "b1fde0a3f87a54c9692c79129c52cb62ace95c06": "lcdproc: fix dependency order",
+    "623a14ca52fee03d17001d37523f02279e49012d": "lcdproc: update 0.5.9 bottle.",
+    "8aed46ac2d812a67634aa8f712f1d50dd80f18fa": "lcdproc: update 0.5.9 bottle.",
+    "ce77f0d3f78d9635e3e803e2ed38af8a4b06296c": "lcdproc: update 0.5.9 bottle.",
+    "7af8803f26b04afa9bc64a1f76021910ac164add": "lcdproc 0.5.9",
+    "2ce5ea516f27580b36520eecf54ec77e55911d03": "lcdproc: update 0.5.7 bottle.",
+    "4b2115a6cd9a9dd1dbce46f62f6b3e5881b116ad": "lcdproc: update 0.5.7 bottle.",
+    "6a4d05819b7b79389066cffa67952b6cb7e683a2": "lcdproc 0.5.7",
+    "e4daed81721da8885ded304d760f822ce034c519": "lcdproc: add test",
+    "dbee57077638a9b32573bb0194522d9a4aecb9ff": "lcdproc: add 0.5.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "49a9b69c604efd564ce1e22b4a52a6c1260d7613": "lcdproc: add dependency on libhid",
+    "1ef041610f8d2ca01db1e396b636bd742eb76bad": "lcdproc: depend on libftdi0",
+    "fe2bdf1fb582e7069427821a34c31f1fd81558ea": "lcdproc 0.5.6"
+}

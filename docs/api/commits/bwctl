@@ -1,0 +1,16 @@
+{
+    "1d23505b33dc14ebca0b1e0d1a9db8d91c1ae3bc": "bwctl: remove references to pre-Mavericks.",
+    "83563edea0e9e8952c74daa2a7b6dafbf8d95a10": "bwctl: remove options",
+    "225a914c15796f87fc945b823478cc0dae443d76": "bwctl: update 1.5.4 bottle.",
+    "08e1ce8bb8135949e520800d392a33b324d8ab1b": "bwctl: update 1.5.4 bottle.",
+    "7a7ee1ca8d7e3cbbfa814c61ce532b0876bccb5d": "bwctl: use https for homepage and stable url",
+    "89991015f2ca8ed63d61cea0a4c73f2bf800f765": "bwctl: update 1.5.4 bottle.",
+    "4260074440a6603902d3d8a20c6702dc0cc29f93": "bwctl: update 1.5.4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "717cbb354c9a4a939853fdf1db56c2bcaf650fd0": "bwctl: update 1.5.4 bottle.",
+    "7b60bce86488f4ba7889e87d70247df54e9cd83f": "bwctl: build against homebrew's i2util",
+    "fe0b29ceae3ef82065ddcda88e544a873d430f52": "bwctl 1.5.4",
+    "475d8c9cdf34db4a8e03ed9f0ed59802c5959b78": "bwctl: add build options for iperf3 and thrulay",
+    "83cc68f163f5f905bd907f7e502cd4f545339531": "bwctl: add 1.5.2-10 bottle.",
+    "89b7450614671f950b8da741da830dfc3e5a674d": "bwctl 1.5.2-10 (new formula)"
+}

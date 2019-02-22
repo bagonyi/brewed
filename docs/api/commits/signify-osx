@@ -1,0 +1,18 @@
+{
+    "708cd2a8ff6fad4eccb6671f9b509fe8697301ba": "signify-osx: update 1.4 bottle.",
+    "c03c37b6730899691a781fb0410da1d244c588d4": "signify-osx 1.4",
+    "761bc8d8210f8c0c2018dc6a18e0c49bc0f29c64": "signify-osx: update 1.3 bottle.",
+    "831f35151eefb021f3dc4b22ad3bf86716a232e5": "signify-osx: update 1.3 bottle.",
+    "a3e52b2d1a658f660021ae0b687f62851e7ad107": "signify-osx: secure url(s)",
+    "bfe9d10513f96e7417f8f95d73484f3e194fff59": "signify-osx: update 1.3 bottle.",
+    "68390ca2c7a5d052c4a35c15f8f1a54be7d779cd": "signify-osx 1.3",
+    "00fdfad70e21361b5a628adce6c1eb1d456ac508": "signify-osx: update homepage",
+    "982d12fac50ca6790e26a51cf21070bcff8322b0": "signify-osx: update 1.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a853b2f156c24b16192433bfb7d05b37c91197b4": "signify-osx: update 1.2 bottle.",
+    "e945b8e564150afdea7d1a5a18313b4bb6d9b180": "signify-osx 1.2",
+    "ba74266b9b7ff042f4c22697e405e5102bb68725": "signify-osx: add 1.1 bottle.",
+    "327b7610be5cb43f5855b68139665782afefe4db": "signify-osx 1.1 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "3650dfcb7c764437914f584af18bee642892b41c": "pbc-sig: remove references to pre-Mavericks.",
+    "372eb4bf72d55f12ad1c395d532ba64c7ce91f22": "pbc-sig: update 0.0.8 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "47ccd265905ac40af6ed4d61e40188f78ba1040a": "pbc-sig: update 0.0.8 bottle.",
+    "46b410f56e1c40779ade9fa567860fa3475a41eb": "pbc-sig: fix test on 10.13",
+    "52565fd1932cda89454dfe3bdf3de1b03b44b1fd": "pbc-sig: update 0.0.8 bottle.",
+    "454ce95b8452ab241ed86ebcd6fe4e6c093fba8e": "pbc-sig: update 0.0.8 bottle.",
+    "c560326bf95ecf293b9550c0f22bdc3ff71018e2": "pbc-sig: use https urls",
+    "36f9f478beb186abf904079044dea97f037fe255": "pbc-sig: add 0.0.8 bottle.",
+    "de5b711d53de03d74db266f8edc5d8a7f2138c06": "pbc-sig: fix install and add test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bff9321225df8a69a0d0b8389075325c7ce20755": "pbc_sig 0.0.8",
+    "35557b7bce6472531f6046f4110d3e97a18bd2cb": "pbc-sig: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "c948d1c0b430ac29d32e13a518b02a01e8cde828": "New formula: pbc_sig"
+}

@@ -1,0 +1,12 @@
+{
+    "917cccbc0a26a73d817b86fecd0404909a28c4ee": "gaul: update 0.1850-0 bottle.",
+    "3dc8573d4e4285394a746cab3c56135bb5c46d3b": "gaul: update 0.1850-0 bottle.",
+    "c5d060cfea79cd60870faf1a7092240a6e7013d7": "gaul: fix audit --warning",
+    "c268995f93a737aa06a7d5d3bc164b7517dbb61d": "gaul: update 0.1850-0 bottle.",
+    "fb8e520daef65c494b0343bbf739b08d4d46a85f": "gaul: add 0.1850-0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "2334b2943bb9a3a51c7126e18544b7ce8cc93337": "gaul 0.1850-0"
+}

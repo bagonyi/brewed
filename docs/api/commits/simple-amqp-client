@@ -1,0 +1,19 @@
+{
+    "0511231b749a1791a44f45797fc7b7cc95868480": "simple-amqp-client: update 2.4.0_2 bottle.",
+    "a7f0001d3129fc4030f67633739bda9b97cf97f6": "simple-amqp-client: revision for boost",
+    "2c2dfb2895bed571e9de6f0685e5140add5728ed": "simple-amqp-client: fix dependency order",
+    "f7b5115ae0b122ebe3d7436ae6975975a19dac51": "simple-amqp-client: update 2.4.0_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "36c94f1fbc2c7f606fd4b1cda3abd7edd958c5bd": "simple-amqp-client: update 2.4.0_1 bottle.",
+    "88b964670eb9e6c12b01f01839376c7e36b8c042": "simple-amqp-client: fix test on 10.13",
+    "3450a59b567da1a1d6bdc4dc61e88dc06f740c45": "simple-amqp-client: fix audit",
+    "23e9c2d4945abba36c456dce8cb4e022ace8c891": "simple-amqp-client: update 2.4.0_1 bottle.",
+    "0ab40b277de404be1e34021626b353b6e555bfd7": "simple-amqp-client: update 2.4.0_1 bottle.",
+    "c48d3f11e630e81b08dda3b5c89c91a650e0a5d2": "simple-amqp-client: update 2.4.0_1 bottle.",
+    "3f106ac853e55754e8dbbf37b34b55231a432633": "rabbitmq-c 0.7.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c61ac1b8ba8a20c13c36a85b3420c1fd7b771de3": "Drop redundant :branch => \"master\"",
+    "ddeb881d7030cd68f639022912ec1f9388c6ebd6": "simple-amqp-client: minor cleanups.",
+    "f4c8ab5ff1be82b3c1e2efdf798b756dadcd13d1": "simple-amqp-client: add 2.4.0 bottle.",
+    "7028217568cc9438885e9f8adc7c4b78582cc61f": "simple-amqp-client 2.4.0 (new formula)"
+}

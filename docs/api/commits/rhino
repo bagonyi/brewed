@@ -1,0 +1,18 @@
+{
+    "291cfc5da0c4ba90ac7ccadf12fd3496cc8632b5": "rhino 1.7.9 (#27740)",
+    "d9a75d0c9944f0cf24b54cccf40e44753f948053": "rhino: update checksum (#18635)",
+    "c49825adb5a1d3458198aadf44af2b308bfb2299": "rhino 1.7.7.2 (#17481)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "72953ea9e736daa8ab7a34c816dae4c75afb97b4": "rhino 1.7.7.1",
+    "a0d4fd59a2e355615ca419ddb5fa7b25e5e9d7e1": "rhino: conflicts with nut",
+    "2e6ad75719a6921e84b3b349aa5b53b1741545ba": "rhino: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2b83cc34f4988da75e429880f7a28068bc55f73d": "rhino 1.7.6",
+    "0b5244b752cdecca4b3080069f48f3b08531198a": "rhino 1.7r5",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "052eb0f82bf5a7c0daa066bb348b4d9ef553a98f": "rhino 1.7R4",
+    "215e90e76f97db40a994535e22126943b8727bc8": "rhino: fix quoting",
+    "3ea7a1da1cd687568c6f47e38f7985ffc7006081": "Rhino 1.7R3"
+}

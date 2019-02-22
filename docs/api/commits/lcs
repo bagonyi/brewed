@@ -1,0 +1,11 @@
+{
+    "ed86d4ca60c612d2332b48d01b4691c0295621e5": "lcs: restore https for svn url(s)",
+    "9a0d0de04198b18d806a75dd49e8e157c83d8f90": "lcs: update 4.07.4b bottle.",
+    "95fae92ebc1208b91d026c1e30b146e2fadaa93a": "lcs: adjust svn URL",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "8cbe5dad5d48d19fc401807e16dad2d20f93bd14": "lcs: update 4.07.4b bottle.",
+    "e71bee4868ff03695a16a7c650833ccfe95426b3": "lcs: secure url",
+    "77693df3b433ff0e7d2dc91c55a312e07d378d99": "lcs: update head url",
+    "f09f0f4e5b93e7c72bb0630759fe851fcc8d789c": "lcs: add 4.07.4b bottle.",
+    "dbe67440d5279514fa15f74d96d9a2b52f6e2799": "lcs: import from homebrew/games."
+}

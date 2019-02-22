@@ -1,0 +1,23 @@
+{
+    "5673314d473db7d206249329624094b907ad6039": "curaengine: update 15.04.6 bottle.",
+    "ae56ba5c8882baf267178be81e18133756f1617c": "curaengine 15.04.6",
+    "cad7b43f4312f3616c2208c83dd54000e012f06c": "curaengine: update 15.04 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e426849779aa9c5edef8cf890c516ecec827f2ab": "curaengine: update 15.04 bottle.",
+    "69cabd40806b43a5e8010332107e2deba9b40541": "curaengine: update 15.04 bottle.",
+    "55a0d97c363c86fe97b3073380ba037e3c9a0bed": "Revert \"curaengine: migrate to Cask\"",
+    "3b16bcaebe55b464fa22e56eed607e8b42f82bfb": "curaengine: migrate to Cask (#4120)",
+    "acbc84fd2e81646601a7ec545f4c43eece880fc6": "curaengine: update 15.04 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ff30f9b152f34cf9151143f537087eb97282e553": "curaengine: update 15.04 bottle.",
+    "630b3adb42b70f9614fe16990f4ac59cf742cd81": "curaengine 15.05",
+    "e5bc33c5dbe26da6a62d15a2452c4652de810930": "curaengine: add 14.12.1 bottle.",
+    "c063493a83715141555efe078fcae8f5eac9802d": "curaengine 14.12.1",
+    "3168be1f12b8c97508146c9e98ec91e92fdc5a56": "curaengine: style",
+    "413b1b6ff09a7f8c5d880f74dee553e5f6fce1ae": "curaengine: fix HEAD build",
+    "1dd649f324a6f9dcd1c7c30955e629b953aac419": "CuraEngine 14.03",
+    "4f9e12fa90cb7c4a6ac1906c5eb3632e5bd5df36": "CuraEngine 14.01",
+    "354fa7edbfde8e7813abd211aeca7e17420282b7": "CuraEngine 13.11.2"
+}

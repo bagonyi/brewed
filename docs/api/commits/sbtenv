@@ -1,0 +1,12 @@
+{
+    "a5e8f279833512374c8751201e410af111f96b26": "sbtenv 0.0.15 (#29958)",
+    "63b4c49c59bf9ce2d9183d050fb06ce47bcddc2a": "sbtenv 0.0.14",
+    "1d15c6a5e7f6f705382aad3d340d1d14abf75d4f": "sbtenv 0.0.13 (#15087)",
+    "f6cf205e27fdc727c86868148a0e65939cc16675": "sbtenv: fix url from my namespace to `sbtenv` org.",
+    "8294f32cd3d5c42e63fc72f73ff3c2162351df74": "sbtenv: remove non-Homebrew-specific caveats.",
+    "4ccc8a3249d368a03e7ff794ffc8031d5fa9db3a": "sbtenv 0.0.12",
+    "5ee80adda2dabbe8016d8a09905c400336f1a5f7": "sbtenv: make var symlinks in post_install",
+    "ca8c0e6635329726d4da995ccccb2ad76aa9628c": "sbtenv: add a description",
+    "c2f6c1543c06b958b274cb460ebbb31f247c2aee": "sbtenv 0.0.9",
+    "d45a58bfe48953c6d7dbcfd5119e4ad88421eeb4": "sbtenv 0.0.8"
+}

@@ -1,0 +1,19 @@
+{
+    "08dd6c4a944add48d5d349eefb91b267550ccb25": "montage: update 4.0 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "45fd0e014445b8710bf5b0a6239629a56666eea1": "montage: update 4.0 bottle.",
+    "49296daf372ebe7c0d2cfd60985666eac09dd693": "montage: update 4.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "48364219fe2d8700fd41cce4ce3adb08d2eab9f4": "montage: conflicts_with wdiff",
+    "75b05c0a0a3476f233662e9b1ccb5101a9b574a3": "montage: add 4.0 bottle.",
+    "6878ba24fc5b4ddf8578179bb10cb6fa33f3c58e": "montage 4.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "65dc9adc7220b944076407ffb5e40761a49b77fd": "montage: use patch DSL",
+    "a7604fe07c8b9554d33b2bcca1f7605058f42a14": "montage: fix void return-type",
+    "d521943ad3b0d1bc4d488b8a5ecaa7b4e9690fd9": "montage: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "cfab11aac2ca8890675167bb4c668a06dd6fd966": "New Formula: Montage"
+}

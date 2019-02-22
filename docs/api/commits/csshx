@@ -1,0 +1,15 @@
+{
+    "fe2dc8fc015cf992f9db039a525637d016751404": "csshx: migrate to archive URL",
+    "563e1fcd35586e1016a7c8ec403ae41a94de5b93": "csshx: bottle unneeded",
+    "c7e7be7f5eddcd881ad62ae29d0aa4764c12c3ae": "csshx: update upstream links",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "af6acc283f7e950d994c7af2450689a7d9e22bb8": "csshx: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "16abc347cc3ef08e12b7181b0ea11fa132f6b02e": "Remove redundant :using specs",
+    "709f7fae41fb42db919ef0c0fa8e46ff056693d1": "csshX 0.74",
+    "df4e3b86465d387b7cdafa6c00aa059cec74a170": "updated csshx to v0.73",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "972adb98b513faa7fdfed4456ed4a6844e21bb9e": "Add a formula for csshX."
+}

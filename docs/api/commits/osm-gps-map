@@ -1,0 +1,14 @@
+{
+    "40a45e6eacf082b06ca139a322f690f1c73fa91d": "osm-gps-map: fix dependency order",
+    "47475c6f09096d8cb7f5e798a6409a0ba8704788": "osm-gps-map: update 1.1.0_1 bottle.",
+    "8a51537bb95a961820a6454e9ef3f482cd5dba1d": "osm-gps-map: update 1.1.0_1 bottle.",
+    "806e84e0789ce6d7c0a00d30e38d735eff7d3a0d": "osm-gps-map: make gobject-introspection build-time dependency",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "76f10bc381958f85b6fba8990cddef9e280e89e6": "osm-gps-map: update 1.1.0 bottle.",
+    "38528ab430de1d2f6c7c8226ef5850a3e7df0133": "osm-gps-map: update 1.1.0 bottle.",
+    "bc85ef3dae93e6bb78cfbd18dda0b84532560557": "osm-gps-map: fix test",
+    "82d6ba4a8c95d7e2c923dd1b58f82d2754177809": "osm-gps-map: update 1.1.0 bottle.",
+    "3bcb904d0616ed02eedd6e117741ef54d8e79f39": "osm-gps-map: remove :linked dependencies.",
+    "dbefe852585ab16ee6d20587fad1dbb441ebe9f5": "osm-gps-map: add 1.1.0 bottle.",
+    "659655ed49c525c12df03d8392bc49defc1d6eb8": "osm-gps-map 1.1.0 (new formula)"
+}

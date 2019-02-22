@@ -1,0 +1,18 @@
+{
+    "718e49eafcb2f0d55f5503a3faafa37d9e276ea5": "aescrypt: update 0.7 bottle.",
+    "5d2dbee12db64a1197bbc4cae392c02939bb29d1": "aescrypt: update 0.7 bottle.",
+    "7d049310ca1ae9f25fe1096d1054699869cc074d": "aescrypt: https url",
+    "60106c2af2677c238af324373c0b9da4368d3743": "aescrypt: fix audit --warning",
+    "7b382a1fda704e80fe8b7f2d3bfa0e58dc674662": "aescrypt: update 0.7 bottle.",
+    "afe70b73a35a316ab9179178bd47012babead991": "aescrypt: improve test (#1726)",
+    "8e51bd17824756d17334f4fc0006bf1546e327dc": "aescrypt: update 0.7 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ae3d3643186ed3c10a2349cf33a2a47152b85d4c": "aescrypt: add 0.7 bottle.",
+    "6adbffbed3af1e685c0605ff8bc78c166698d970": "aescrypt: add test.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2b9e82520ad5cffbf7f75a9af3a9a86d2118c5d5": "aescrypt: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "424cb0d2d4bbf6b4ec656bc1670bd4d3f9f6132c": "Add aescrypt 0.7"
+}

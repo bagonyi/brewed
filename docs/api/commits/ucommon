@@ -1,0 +1,16 @@
+{
+    "60091de8928276e8b8cac4cb6f9891c8147eed04": "ucommon: update 7.0.0 bottle.",
+    "99f3533aac5d41c7012605ebd5b0eade7805ef8d": "ucommon: update 7.0.0 bottle.",
+    "0becf3a64bf3807d15443ea4600782835a4b68a5": "ucommon 7.0.0",
+    "27b4390427975531073bccd3d5794629dc0d1f9f": "ucommon: swap GNU url and mirror.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "0a6db14af690c90c62c5267d1521c0bd1a240551": "ucommon: update 6.2.2_1 bottle.",
+    "344194599bf0390b3c86a2d053ca9f6143e64881": "ucommon: use secure url",
+    "4b5dc7e9901df613ab216c65a90d0506b1a802d0": "ucommon: update 6.2.2_1 bottle.",
+    "089a64bde25be4bdcaab322a435eb722fa3485f9": "update revision on upgrading to gnutls 3.4.x",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9b1d2c8a5119dbd8c7bd5c6c2664a45f9a8f125c": "ucommon: add 6.2.2 bottle.",
+    "e342a4d156821c5461aaa774e193a9a07ef7d611": "ucommon 6.2.2 (new formula)"
+}

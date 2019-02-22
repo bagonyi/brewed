@@ -1,0 +1,13 @@
+{
+    "df4dcf6594e0b6f260618fdd4978bbc55f900957": "flume 1.8.0",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9affbbfed3a9df60b4cde4e094919599fe80dcfd": "flume: set FLUME_HOME in wrapper",
+    "7f29c1cb9f8dafbb8d036f3382f02a75fcb5dc82": "flume 1.6.0 (new formula) (#1478)",
+    "b6a8ef816f62d7f6bff685278e5792e2d7e9fbfb": "Redact flume and flume-ng",
+    "443c6bd3030c3679dceac7356270269220748719": "flume: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e9149cb019e883bbcd305cd30b83cdaa2179a374": "flume: fix shell quoting and ENV variable",
+    "018da752900839d8c3731a5b9617379e202a51f2": "flume 0.9.4-cdh3u2",
+    "d2d7aeedaf9090df2aff6477d92e500b8f966ecb": "Cloudera Flume 0.9.3-CDH3B4"
+}

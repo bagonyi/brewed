@@ -1,0 +1,22 @@
+{
+    "0ccbff2d7b928ade5e6bc054466504e441c2b11d": "jhead: update 3.00_1 bottle.",
+    "c2a34aa9441eac929d5e6d24430691c0eacb73bf": "jhead: update 3.00_1 bottle.",
+    "a7d78b3f6ada18934c8ebfd811013129fd73eecf": "jhead: update 3.00_1 bottle.",
+    "1680cf21d1ab80a39ecf96400af1bb4fb055172e": "jhead: remove unused jpeg dependency",
+    "8e13f449d0061bf89c51ce24ea74c48a98915edc": "jhead: update 3.00_1 bottle.",
+    "7f7da4ed635da1c2bdb5a74559057c3a465dfbc1": "jhead: apply CVE-2016-3822 fix",
+    "080070ab5a7d85d262b1cf73eff5aeb6ee82fe67": "jhead: add jpeg dependency, update test",
+    "210d7644ac0d0f72024476db9e0cfde42e8eba0c": "jhead: update 3.00 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "008b771b16e4f12e576c78a34e20857ae26075fb": "jhead: update 3.00 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "480a64a62c884f46b6bdd33f6da962b82c7ec1c0": "jhead: add 3.00 bottle.",
+    "0d648047bdab20b8115cdeab68cfb9d0bced0586": "jhead 3.00",
+    "2d64d58b01f5a91edcf6bf192efed5766fd9c277": "jhead 2.97",
+    "51cd2e36309779c9d0399e957a6ad98c1eeafafd": "jhead 2.96",
+    "839a7a72a1a03d1f20970f5343b7504563122063": "jhead 2.95",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "99ee3baf904bdcd3f87335a98678202c9380f4ba": "updated jhead to version 2.90",
+    "282827959c8be5ecbf261668ff47e71a3e33e8d1": "New formula jhead"
+}

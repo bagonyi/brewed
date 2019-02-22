@@ -1,0 +1,17 @@
+{
+    "a5ce837e39767bab5ddb88f79a33c31a5aa73470": "pit: update 0.1.0 bottle.",
+    "f3a3ca7939056a55832406aa69e0c21fd5ab5a00": "pit: update 0.1.0 bottle.",
+    "6f87c3660b15a3c61fa702e759c2d1b29d405567": "pit: use full_index patch",
+    "1be259b3b3e72a7454ac7381abece27261834dd2": "pit: update 0.1.0 bottle.",
+    "30187def17c4b143b44b7ebcee3609423c6d7c82": "pit: update 0.1.0 bottle.",
+    "159fd9849faf0fe34f783e2dcea5e6d25f80deca": "pit: audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cccfa19d4004609e2cfbf766eab1a8a7a81dd3bd": "pit: add 0.1.0 bottle.",
+    "f5823c5039dc1f210b3a1ddae2406ebd644f3d5c": "pit: test added",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "7984db7558440b800b9bf5b3b0c5942cd6a0f4e2": "Use https for GitHub URLs.",
+    "963f325e918c71620ac8c74bba2711f313dc0216": "pit: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e97aa295d9a0e3816b76f784351750692464903f": "pit 0.1.0"
+}

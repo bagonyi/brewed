@@ -1,0 +1,23 @@
+{
+    "71e1aba4904c6455b69b13a276fe78d6932f40bf": "jsvc: update 1.1.0 bottle.",
+    "a1e4606bd28fcc91a9287401b739122a54f4017f": "jsvc: update 1.1.0 bottle.",
+    "21f754a63e232de4c9c2f26425664761addc4d44": "jsvc 1.1.0",
+    "92c02f0b91a684a40a2336643ad6872c2bfe494d": "jsvc: update 1.0.15 bottle.",
+    "780d117210c045c5b65894c579875200d5886126": "jsvc: remove redundant version specification",
+    "57c86764f39c4936984fca1738b7e8b6332b2595": "jsvc: update 1.0.15 bottle.",
+    "84f8a43b595c438b10ee6089af5928942ec500b2": "jsvc: add 1.0.15 bottle.",
+    "bca20874d3ed389bf911cbaed7214fb9d987fe3b": "jsvc: depends on Java",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7c4ccce06fc84e7d9f61679b0eb7400562107fc6": "jsvc: use patch DSL",
+    "bf8223fc1dff1f9f43a2010150c1037f88db2e6e": "jsvc: fix broken CFLAGS and LDFLAGS",
+    "98e050bd6c8c7b521e0ebe105f87981b1269077e": "Add MacOS.preferred_arch",
+    "cacfe9b130fe21a4dbda08d91426f4eaf1c8bbe1": "jsvc 1.0.15",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "8711f2f2a0c885fd18aea00bc9ce33badce052a8": "jsvc 1.0.10",
+    "0b7a01b2a1d7a519bbb5b889404b8ca36d271e8e": "jsvc 1.0.9",
+    "f221fa0a989a50964848dc38caa87a2de6a75df4": "jsvc 1.0.8",
+    "77c73ecb89d696c43628b7016515fc5937b74936": "Use Apache’s closer.cgi where appropriate",
+    "7fa492cd284d0732963f3eabc13b6f7bee634b65": "jsvc 1.0.5",
+    "fe5600c729ed510e73f59e8a2d0f26a9366f6c21": "new Apache Commons Daemon Formula"
+}

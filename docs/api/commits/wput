@@ -1,0 +1,16 @@
+{
+    "b82b9cdff8d6c92c4cfd2388f665f75e96878947": "wput: update 0.6.2 bottle.",
+    "098e27cd28417f878477184609426932a9ec680a": "wput: update 0.6.2 bottle.",
+    "8e37b1d7093924a2158c0919b31d2a93cbfa9e43": "wput: follow redirect in comment",
+    "e08146921389afa216a97e2af5eb6e3273a79cce": "wput: fix audit --warning",
+    "cc28e615c40643b5d8f46b20fe90c4d0dd66a2d0": "wput: update 0.6.2 bottle.",
+    "a0242dadad2fe5645019dd9ea9768a5f4f0658ed": "wput: add 0.6.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ff26cc6f7a6728d92c1cfdf0689bcb0d6d5c33b4": "wput: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "f2a7b63cdbafffdeb5c4ed7e70ea7556044899e4": "wput 0.6.2"
+}

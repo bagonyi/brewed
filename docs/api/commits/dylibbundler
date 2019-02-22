@@ -1,0 +1,23 @@
+{
+    "35e899572e7e57a689be0fc8ca8e98465035f22a": "dylibbundler: remove references to pre-Mavericks.",
+    "f3ad291f7827ab7d069d5b1eb90485daa8be41d0": "dylibbundler: update 0.4.4 bottle.",
+    "2b582fb8acfa7dfb72e4a37dfa7b591727b25759": "dylibbundler: update 0.4.4 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "20fb3e72b9ac13eed53fb25265059fed41e6da37": "dylibbundler: update 0.4.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "d4d0e871410c260de75d33ca62f499812e1d7da9": "dylibbundler: update 0.4.4 bottle.",
+    "b3545f0428d7f7c650f626932cb4c4a942b1bbd2": "dylibbundler: add HEAD",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "017a440227a9a27ee3a46f6fa8fd189640b77202": "dylibbundler: update 0.4.4 bottle.",
+    "839fd93e7a4905b227a3aec4fa20ddcdb764e734": "dylibbundler: add 0.4.4 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "110990aa56977d5d681d9af5f529e82709244c86": "dylibbundler: fix sha1.",
+    "3eed93b5b00e5504983443f8e6a2615c931c7574": "dylibbundler 0.4.4",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "3c1ddb51f48da597e43b289ddbe0aae0fd8b3026": "dylibbundler 0.4.3",
+    "4da0297c6650286993f79b5d770f6fe899793a57": "dylibbundler 0.4.2",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "f20a065dcbe0755b10be087cb5a1f28ee9011be0": "dylibbundler 0.4.1"
+}

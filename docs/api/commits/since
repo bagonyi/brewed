@@ -1,0 +1,15 @@
+{
+    "882d5fd64c383717c691c32a3d0fc38752a437a1": "since: remove references to pre-Mavericks.",
+    "9d32787bd5edf6c565e0b56893759c2e681d2cd6": "since: update 1.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b9f6fd16af4f6e1021f32f1c65b7afce809619c5": "since: use assert_predicate instead of File.exist?",
+    "166fa423f509e802b40e45a08773f9167d550135": "since: update 1.1 bottle.",
+    "bf895e55e7550874d56e2d0ebd2b2ab02d0d8db7": "since: update 1.1 bottle.",
+    "c1c637c17382f52f8e5df1ca5c445a130ed20545": "since: update 1.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "854ede0442a77b9301d92fea6f4fa2ee928e4899": "since: add 1.1 bottle.",
+    "e2c043491e6a6f62047ee78ed113968c3799d933": "since: test added",
+    "055b659089e1e07954476d28fc759e4a88c7bf2e": "since: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7918a837349e24b4272c4789fe17d8ccacfe09da": "Since 1.1"
+}

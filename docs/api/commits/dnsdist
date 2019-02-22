@@ -1,0 +1,11 @@
+{
+    "599c733c26b7e65d390f0738addb2b0484cd2cb2": "dnsdist: update 1.3.2 bottle.",
+    "70972044d277d846bae3bef15072354abb3f877a": "dnsdist 1.3.2",
+    "d1d05f216e190d22e811063059d08f9b2c816f21": "dnsdist: patch for Boost 1.67 compatibility (#26812)",
+    "1264cc438af3907c4fa9549e6fe329a80963830b": "dnsdist: update 1.3.0 bottle.",
+    "4358e595b3daa81e5a6d9a1ae0b1dce0152b7453": "dnsdist 1.3.0",
+    "809f85f547c5e358618f2aa55b1bde950fbf3e1e": "dnsdist: update 1.2.0_1 bottle.",
+    "c55b08b69981a5035ffff0aa47c83156525c66a9": "dnsdist: revision for lua",
+    "053f0572e6f5f72ba486fe0d714b10108b556d5c": "dnsdist: add 1.2.0 bottle.",
+    "c938ac6145c74b9b2b581356fc9c847c0a9bf0ea": "dnsdist 1.2.0 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "0472d492233d1e111a17ed5e1186a4edbfc4541e": "termrec: update 0.18 bottle.",
+    "0e8f95fa77cf799e97406c885879e0c85c824c79": "termrec 0.18",
+    "5b2412563911a90cc8424cff299d98f1b7788253": "termrec: update 0.17 bottle.",
+    "4ec1ff8b379ca0f1261db411eb528ed89ba08b8a": "termrec: update 0.17 bottle.",
+    "332f12188388c3d7d13dca0fa1327af704790fef": "termrec: update 0.17 bottle.",
+    "eef243cb7107a2ad5d872b40e804b7ac61baa2e6": "termrec: add 0.17 bottle.",
+    "8f7da7251efeba96ff79a5c6c430a8b0a11abd1b": "termrec: use https homepage, fix head",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "2379769b022eae1b9b2f55989495b88b7d2ae3ac": "termrec: avoid unicode char in desc",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e0fcfb88b68a6bc59d6eb1c6a7c2bf308aa6ec7f": "termrec 0.17"
+}

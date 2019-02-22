@@ -1,0 +1,14 @@
+{
+    "05fe3502607f22702dd5f88bc381a08d73f7a80e": "dungeon: update 4.0_3 bottle.",
+    "a4c24754c9e07bd5e828a019d4328243b0122062": "dungeon: update 4.0_3 bottle.",
+    "094a7f7a75c5e7e466b17d9e1de8ba96d8a49483": "dungeon: revision for gcc",
+    "9e8f3cac6c5abf658552799fd97770454ecdf882": "dungeon: update 4.0_2 bottle.",
+    "0637c2d894e95f124debfd8121862e6119d75f71": "dungeon: phase out :fortran",
+    "bb0fb54b9e9f95ba7094cb673a25541c0fd7788d": "dungeon: fix rubocop warning.",
+    "a8bf20d76a200d705a846cad98fb75491b77ae35": "dungeon: update 4.0_1 bottle.",
+    "3b1765ee38cbdaf0df6b6ff5b92a326162524aa7": "dungeon: fix audit 'description must start with capital letter'",
+    "c69249b3e168da72cd8d50b9935217839fbf829b": "dungeon: update 4.0_1 bottle.",
+    "396ffc82336a42f025dd456d502111cd01e024a0": "dungeon: revision for gcc",
+    "48b2c383bf0d2b2c51ef3f979d1dd58c1db3a3b6": "dungeon: update 4.0 bottle.",
+    "ae1cb6b68ee36fc8ad139d3b1ba55b5f7354e388": "dungeon: import from homebrew/games."
+}

@@ -1,0 +1,16 @@
+{
+    "c66250577fd7a2fb8d1a281cfb1014f033aa2d64": "frege 3.24.405",
+    "4d01d6aff8514aafe0e95adebb66ae4caeed4ffd": "frege: use “squiggly” heredocs.",
+    "79431a6786e0d9431d1115a26fbe02fe3a56a971": "frege 3.23.888-g4e22ab6 (#11948)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "3ce7755f7c4f8164a0b9d3403fa439f2e6f5fd3f": "frege: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b3ba6cc3f2d57dd706d12e006283ffe1f04cbe36": "frege 3.22.524-gcc99d7e",
+    "58fb7f7f9a7db8b4c5da29bb6afd55d8e9440643": "frege 3.21.500",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "ee5122177da0a638da08595dec63ce53ad09a2f8": "frege: interpolate version",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "f3b9d8ea3931f3b33d28d33edc691d7c30e5d8b2": "frege: fix audit warning",
+    "52bbbc358b49ec40453734a0fd64d9d94ee810f4": "frege 3.19.112a"
+}

@@ -1,0 +1,22 @@
+{
+    "b8c0844414144f8c30976f6d6ed84c635e34f7d0": "stormssh: update 0.7.0 bottle.",
+    "dc77d2a923290ad42aef0bdeb21e209628e0ee82": "stormssh 0.7.0",
+    "1530da5d6e6b3f81510ce120b185360237a00a5a": "stormssh: update 0.6.9 bottle.",
+    "905122164fae5b4301ad0c57dfe41a9c1840f06d": "stormssh: depend on python@2",
+    "a30ae2a55f4d62d25a3cf73fa8984aa9c4eb2f0a": "stormssh: rename python@2 dependency",
+    "81779563e7cc1ddec273fb3f7d0c12c4a385f099": "stormssh: use pythonhosted.org to fix audit issue",
+    "689c11c9f17a7a25ae046551ad19ab3df55b4031": "stormssh: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3ceaa1d92d5a4c088834cde6ed5cec55a6b67132": "stormssh: update 0.6.9 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fe1bffe9f49d20437519954ddfa0952cacd27c94": "stormssh: update 0.6.9 bottle.",
+    "587edde5e1e4265c1efab3a31e42973c982c09cc": "stormssh: update 0.6.9 bottle.",
+    "782f104b35ea8d907ed06fee485180b6e2d14017": "stormssh 0.6.9",
+    "0223eb52a5548c0f6f828a71731b006eb67e08dc": "stormssh: update 0.6.7 bottle.",
+    "ef92eb5f059cad4444c5e7f189f1fe32cc3b2409": "stormssh 0.6.7",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e2502a6700054b37c21bfc45223ef34f723190a1": "stormssh: add 0.6.5 bottle.",
+    "235f3d21197a3423c6e2f2858b911d46304473ee": "stormssh 0.6.5"
+}

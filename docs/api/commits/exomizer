@@ -1,0 +1,17 @@
+{
+    "386a8030354ea7c61e7b403fb6967cd76b433afb": "exomizer: update 3.0.1 bottle.",
+    "7e45a1d56e884a8ee34712019d17f29e49395112": "exomizer: update 3.0.1 bottle.",
+    "5dd165875e057ae3bed56b6b0855e322f8b188dd": "exomizer 3.0.1",
+    "39600a066d26ccb5a0eab693ef024f9f02a08f86": "exomizer: update 3.0.0 bottle.",
+    "b5665bf189f59b2f2b22dcebd6a7cb94db2e3421": "exomizer 3.0.0",
+    "5ef43eef19e5eafc19762d7f1b3edbe6decd10fc": "exomizer: update 2.0.11 bottle.",
+    "2165947fae211fdeb88b3782ffbf11a2061136c3": "exomizer 2.0.11",
+    "f14e3f7e5ba6dbde79455f9303f08733654e5663": "exomizer: update 2.0.10 bottle.",
+    "74f3c0831b4bfc4c2f35d009432ee87236cd21bb": "exomizer 2.0.10",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "976076e35e388b13e51c7ecc7aeea8691c72797d": "exomizer: upstream moved to bitbucket.org (#19556)",
+    "6618980e1b9ed35783ec9e26dc16bb67b680c183": "exomizer: update 2.0.9 bottle.",
+    "15e4a91476c137f2335886d715c81bb322e95fd1": "exomizer: update 2.0.9 bottle.",
+    "c1049a0d36e8fdb0e88db9b1c807e85319e34d6d": "exomizer: add 2.0.9 bottle.",
+    "22d60f1a9b92bcea216819e54de61588bd451ac8": "exomizer 2.0.9 (new formula)"
+}

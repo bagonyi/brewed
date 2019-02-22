@@ -1,0 +1,23 @@
+{
+    "fdd35bff065a4a7dd309bbd2bd0bb53ea7c295a9": "libotr: update 4.1.1 bottle.",
+    "e230f08f2616f0ac83109959fdcc2d06634b37d7": "libotr: update 4.1.1 bottle.",
+    "066cbd989dfeb935e7c70c174c0f13e61d810840": "libotr: update 4.1.1 bottle.",
+    "ad771ee916fc350fad00cd65339b554b752e065a": "libotr: update 4.1.1 bottle.",
+    "2a61d88796b2cb6c2b591147301430a93a56df5b": "libotr 4.1.1",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "14c0c685f8dde1bbc39186c5b9fc31ddd0713295": "libotr: update 4.1.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "012948d3c6b5e94192b5c7ef096f461d1101238a": "libotr: add 4.1.0 bottle.",
+    "f6de709574d8b072f89ca5634e284f31f08ae730": "libotr 4.1.0",
+    "8b7b6a49f52cc8e53a825ed5801f479057da9487": "libotr: update 4.0.0 bottle.",
+    "07eb00a3609dd6e3aa5ad6ff7514cce9269671de": "libotr: add 4.0.0 bottle.",
+    "fce64ad5c7467f8598a21216c1821516b1b2da14": "libotr 4.0.0",
+    "e99ea88cfc7ffa6eb1df107eaae4ba670c2de517": "Increment revisions on libgcrypt dependents",
+    "6bdd97ce68e7090c9b76f08a97f656f2610adf78": "libotr 3.2.1",
+    "1273f88bc7d348d45bb11f3ccb68b5f50dc4aee6": "libotr: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9228e595cf75f12e4e1a011fa59a07ae84120373": "Update Formula: libotr",
+    "ed85f003db2143cf91f68690366f24e0ac4f464a": "Libotr 3.2.0"
+}

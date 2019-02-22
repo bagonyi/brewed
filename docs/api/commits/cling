@@ -1,0 +1,11 @@
+{
+    "1a15a29ffd3e83ebedb4e5ccdf14f7b277e7f06f": "cling: update 0.5_2 bottle.",
+    "241706121e217c4c82bd31bdea292cccba26cad3": "cling: fix for Xcode 10",
+    "d1ba31fc72facd99904645563ee980f14b70fe54": "cling: fix RuboCop Layout/AlignHash.",
+    "0f12ebaefd2097352d07c64eacb9d01184176568": "cling: secure URLs",
+    "b17c11d950309daf473dc22b11a6be51a7effd3d": "cling: update 0.5_1 bottle.",
+    "dce4485a9f32da74b1f1b0a2f77b488a708bb4be": "cling: update 0.5_1 bottle.",
+    "2a5a293ba1f8371337d7b3cbc63f08b8fd792510": "cling: install to libexec",
+    "662ad883f39fded902a0ec6f49beef41e17efe64": "cling: add 0.5 bottle.",
+    "57adc1828ec21af1eaf9cf2ec12374f71dd4dc52": "cling 0.5 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "509861d865bca242c14941ea4df740909f809158": "tofrodos: update 1.7.13 bottle.",
+    "36e3142268b3a9fdd21eaa9f5237266a7fef73e3": "tofrodos: update 1.7.13 bottle.",
+    "566c49e9f0ec096ecd61fbb629ee20110ae817f9": "tofrodos: https url",
+    "e57e1248d326aa848d4da95f121003b0dd406eb2": "tofrodos: HTTPS homepage",
+    "553e4ce40360e7187d7b99efd359c9f8bfdf4a0c": "tofrodos: update 1.7.13 bottle.",
+    "6961ca17770abd453f81a2927f5c4c61bc4c18a1": "tofrodos: add 1.7.13 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2c72f2905335ee1317fe3e2bc7b9a60d0cb6ffc5": "tofrodos: use install_symlink",
+    "5802c1048e66038fb3829271ad6c60e8bedd0542": "tofrodos 1.7.13",
+    "d089a24093812e1755fbdd4a3c1e368f96f131d9": "tofrodos 1.7.12a",
+    "3904ff6a5b504f2bce2483eb6a5f3aeb045ab5b7": "tofrodos 1.7.9",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "94b9e56c651b1bb416e689aed3e1425ee3348d18": "Homebrew style is to indent w/ 2 spaces, not tabs",
+    "b46cf0c89b89d35211eb4204b090ee1d00a45cdd": "Added formula: tofrodos 1.7.8"
+}

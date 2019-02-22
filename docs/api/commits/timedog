@@ -1,0 +1,18 @@
+{
+    "6f4fa9bb3561ce188c4888c2a55c6bab855caaf4": "timedog 1.4 (#17127)",
+    "46fc3a33403f941c07ad07d1d6f070db4f558d0c": "timedog: add head spec (#17103)",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "7a465259a9b0c0ecc7d8e9fdf0052253d2153fe8": "timedog: update homepage",
+    "9e9de92632e593cd6e9c6caa2fe13dceeb2e34ac": "timedog: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "da84e321844fb9c2c3b3a47b1fbafc771d934d83": "timedog 1.3",
+    "9aacdde858e63620ebef34dd97e317c15ab633bb": "timedog: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7d08b506b130e1cbcf059dad9b9bbacb64001716": "timedog formula"
+}

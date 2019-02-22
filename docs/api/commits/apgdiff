@@ -1,0 +1,17 @@
+{
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6406dec257c0abd70acdf1fd4c431e21a6cb84ab": "apgdiff: use https for homepage and stable url (#10609)",
+    "d4c5cbeb6dbf42c48236823f782b35471e31791e": "apgdiff: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3ce939eb71355f4150df3960b7e600b9bf71d57a": "apgdiff: head + test added",
+    "ff6f4fa047a4d690408e518bab263cc1ce75c760": "apgdiff: interpolate version",
+    "19f82f81119db65a4c4895947ae10f1259a03439": "apgdiff: use new url",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "10b2862d196ea1a9a99b9834abe2761cc21aad28": "apgdiff 2.4",
+    "de439c4cfcf75c719ad8c3b37be900f4309bc0b9": "apgdiff 2.3",
+    "fb179a038c57ebb4230a3513c31c538e2352ee2e": "apgdiff: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4697bba2c2525880d8e9e30965173327953530f0": "Add apgdiff 1.4"
+}

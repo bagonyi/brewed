@@ -1,0 +1,19 @@
+{
+    "df30f5929dfff35d87dfd89e04bccdf25445e71e": "es: remove options",
+    "cbc3e58a0cc86d4a4f820ea174f687fb779ae8c7": "es: update 0.9.1_1 bottle.",
+    "aa73365bf5dd87758b27e7d2be3de39946c8d6cc": "es: update 0.9.1_1 bottle.",
+    "0f6172f1175576e81db211d5cb1a691b3862d71e": "es: remove conflict with kes",
+    "81c4028cc88171bd6d3fd78acd1e8e8e9dbdb435": "es: update 0.9.1_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7eba04a4a5fb984a1465b330d4f1e24082a960df": "es: update 0.9.1_1 bottle.",
+    "cdfdeb600ab160956e341925d14b809ae1ae8fa0": "es: fix readline default",
+    "5539e81b17e784e07513df25c2af795a84ec53b6": "es: update 0.9.1 bottle.",
+    "75ceb8367eb9f81d12604dae1ef383384369e254": "es 0.9.1",
+    "f56581f6e043e66f5e5ac5600b653c02b9895e7d": "es: add 0.9 bottle.",
+    "157b21a62bf4a7516de43b9572d8d37fb36c85d4": "es: conflict with kes.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "663c35acd3a08e645bdb49da8edbf973223d465a": "Use https for github downloads",
+    "8b57ab906db81dbabcf6ed75eafff0b977a6b2da": "es 0.9 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "6c8b177b7120aedcff3ba233ed6341d0f59e361e": "metashell: remove checks for old compilers.",
+    "837889de7172a61a21ccf3933dbf8bd93b461d3c": "metashell: update 4.0.0 bottle.",
+    "63b384db242d46474c882904666c33c79978c911": "metashell 4.0.0",
+    "a138bb60d13801bc936dfa0d6c406bf1391d5e0f": "metashell: update 3.0.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "3dd321164947d77701d15a850a67c2ddf6a5ac38": "metashell: update 3.0.0 bottle.",
+    "cc854721a7cc92f1b3d169a3d0ca8108e3ffee0f": "metashell: fix checksum",
+    "669ae8e68258d538b66aa20cb221b7d28fa85826": "metashell: update 3.0.0 bottle.",
+    "3ec451e1d9899085d2d26f3557d668fd8632bb89": "metashell 3.0.0",
+    "c75532e6b120f2471463ff1ec769f99fb56e08b4": "metashell: update 2.1.0 bottle.",
+    "b6016c0026e6f43d30aaaecd853b423ce0a9c291": "metashell: update 2.1.0 bottle.",
+    "9ed219b5af6d0d1bf8fe3c3e735162128b2beb17": "metashell: fix line placement",
+    "17fa5c3ade36ac87f3ae37390f0e669f8e8ef5fe": "metashell: update 2.1.0 bottle.",
+    "4d9de1ebe460e553160060a761fa0633b2893c89": "metashell 2.1.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6aaa74624eee8236c0ac9d4e2fbb3fcbe6740add": "metashell: add 2.0.0 bottle.",
+    "e23e94d031e2da276fcfae665cffbb164aceca49": "metashell 2.0.0 (new formula)"
+}

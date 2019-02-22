@@ -1,0 +1,18 @@
+{
+    "b546e2c430906d411afa6cd6beebb2464f812da9": "arx: update 0.3.2 bottle.",
+    "9dd97958eecef84fb21b0c25ca1c200429a62e33": "arx 0.3.2",
+    "7f6b24004a7b9650ddd32d9a65fbd97739423621": "arx: update 0.2.3 bottle.",
+    "bb6b1f18c7c0c6953cf5c2e81480c804a21dc25d": "arx: depend on ghc at build time (#25753)",
+    "f7be6750b9e65a7af06b45fe120c4aaa86f7c8b6": "arx: update 0.2.3 bottle.",
+    "b5550ae720604786ee8b4e7694042c20af090806": "arx 0.2.3",
+    "1c9f51da9a695de3bc8f55ea1af2418b67d76300": "arx: update 0.2.2 bottle.",
+    "1186026818c167408155afd2fead00d5af923fe1": "arx: depend on ghc instead of ghc@8.0 (#16573)",
+    "f53876c6977b410c1f066798bba9874927ed8125": "arx: depend on ghc@8.0",
+    "0919de0cd55f3c9864a4be2af056693a67826f51": "arx: update 0.2.2 bottle.",
+    "ea1db21c7e737be3df73c9a75899b3a7a0e66f45": "arx: update 0.2.2 bottle.",
+    "7b205d9c41a119843c9fae3850f2ca15c0e4c27e": "arx 0.2.2",
+    "9eac17a778e629b7d7b6cf128f3b0662ee6716ac": "arx: simplify formula",
+    "abcca53f164a6c4cdd33bb6dab179654d74c3f10": "arx: use Haskell language support",
+    "97efe2fa371d170990eeb40ac305de871be22e79": "arx: add 0.2.1 bottle.",
+    "385ce9f569d97ad8efeda7b56095a1c8317688d5": "arx 0.2.1 (new formula)"
+}

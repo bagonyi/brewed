@@ -1,0 +1,20 @@
+{
+    "c49fa5be42fad33d335fb026fbb30a29b2f7e921": "orbit: remove references to pre-Mavericks.",
+    "e29874169b373d4aa71b8b4d1e7eb8040b9589de": "orbit: update 2.14.19 bottle.",
+    "c6ed9e2c4cb4fae097d9ba8d40dac201e45adeca": "orbit: update 2.14.19 bottle.",
+    "4b337a5196be6e7d488f93de4fa01f8bed9de1d0": "orbit: update 2.14.19 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "2d9b3e22112c3634d6dd238f4c68be4cbbd3e4f6": "orbit: update 2.14.19 bottle.",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "51fa252e1130cfd859d9b2079052e9a30a6b0650": "orbit: add 2.14.19 bottle.",
+    "48f0687b3fe8372f7ffbc44668e276ae6596413d": "orbit: modernise",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1577af0372aa891acde96b12b0392d78d4bf18ff": "Revert \"Use download.gnome.org instead of ftp.gnome.org\"",
+    "91f6bc81c25e3d1185153841561a618756217cad": "Use download.gnome.org instead of ftp.gnome.org",
+    "d8ec86a86d0b6487d8f8dd03c598d214ae89b4e2": "orbit: use checksummed patches",
+    "98424a3f0e6321bcd2a6662b46b0fd000ececc5f": "orbit: patch to build against newer glib",
+    "c8591739cbdcc704f921865797cd91ae1d5758de": "Use HTTP for gnome URLs",
+    "e6d86b65cf9671af59dc4d9cfd3508b3cecb317b": "orbit 2.14.19",
+    "d4028c10e006b0efe25270776482086d90c677bb": "wv2: remove template test method",
+    "d87dda1dd1131a98ac3bd8261212f88631de1e05": "wv2 0.3.1"
+}

@@ -1,0 +1,11 @@
+{
+    "436232c546127b7569da1bf3bbb4daa778dae23c": "vault-cli 3.1.40",
+    "2efcb1f6be3c76646f5a75e0367f76f9821dafd9": "vault-cli 3.1.26",
+    "523d50e289e3514069b1a04a030fb6da0a0a0f84": "vault-cli: fix test",
+    "bfe293d15077382e6aee0d4cd1132947dd969143": "vault-cli: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d9f9a183a30addfce57f753153229c11980bcf0b": "vault-cli: use https url",
+    "7062df93d51a212a1fd575be104807acfa249716": "vault-cli: https homepage",
+    "210cdd75b04e0579ec81dc3d8e863c440f7572c1": "vault-cli: remove unnecessary prefix.install_metafiles and modernize",
+    "30a52b9315d3bc937a53adaa014d2b4f983cda09": "Jackrabbit FileVault CLI 3.1.6"
+}

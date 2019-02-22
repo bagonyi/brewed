@@ -1,0 +1,23 @@
+{
+    "0b477312b5cedad29f40325983d6faa5ee4623ee": "polyml: update 5.7.1 bottle.",
+    "bb7c5fe7890f65d0da3980f3c894dbfcb7b36910": "polyml: secure url(s)",
+    "9f8044d94edfc42279de1f230a202a6981c8c239": "polyml: update 5.7.1 bottle.",
+    "2f40ef0b52995075748afeee7428dc3919dc6f7b": "polyml 5.7.1",
+    "07757ff0f8cc593c1f44bc9e7c8f41cc9ee42e5b": "polyml: update 5.7 bottle.",
+    "3677166a671a4ca06837a5fdc099824e30f90c94": "polyml: update 5.7 bottle.",
+    "a56b9579a36d7f60b4f8d54a2ad73002a98f8751": "polyml 5.7",
+    "4a31b51e9408eb47b0024d807f1dbc5275c4418f": "polyml: update 5.6 bottle.",
+    "23846bb64acfcb84a6a71e4ee35a6975e65d85fb": "polyml: add 5.6 bottle.",
+    "0327ee752809e797dd65e2c8a2c0c94b09218a40": "polyml 5.6",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "21cbd41033ce59c9b4162cc082f7d55911c0efb9": "polyml 5.5.2",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "975cae95eec33cdaea8cebddf55d885b4987ce59": "polyml 5.5.1",
+    "426d5836cd7fbf44f8a4ef3456d3fc4dd8debda1": "polyml 5.5",
+    "7dcc326686fb32e0a44e99dec55c133aab3b8b29": "polyml: style nits",
+    "261510bc8989008fab9e177cf2293c3316571bc8": "polyml: remove skip_clean :all",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "bf8945ebd054db8527914498ec4fdefa21c88d3f": "polyml formula"
+}

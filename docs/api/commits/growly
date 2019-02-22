@@ -1,0 +1,11 @@
+{
+    "451302b3ad11ebc492760605fdc389ebf9b59af2": "growly: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6ff456cf820e89aa3919deaa369c7fb2f1719770": "growly: use full path in test",
+    "7e56859a4ac4a97fb526ddfb09915e5532c62d23": "growly: remove growl-notify dependency",
+    "2c3b868ca0a996689edae6286ef2a7ea4ab142c4": "Use HTTPS for GitHub HEAD clones",
+    "1e2e9a72f766f1cc47156be54baabc71a06cdb53": "New Formula: growly"
+}

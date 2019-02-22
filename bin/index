@@ -1,0 +1,141 @@
+#!/usr/bin/env bash
+
+HOMEBREW_CORE="${HOME}/Development/homebrew-core"
+HOMEBREW_HISTORY="${HOME}/Development/brew-history"
+FORMULA_LIST_INDEX="${HOMEBREW_HISTORY}/public/js/formulas.js"
+
+function print-usage () {
+    echo "
+    NAME
+        index - Index brew packages and their commit history.
+
+    SYNOPSIS
+        index [-h] [-c SHA] [-s START_PACKAGE] [-e END_PACKAGE]
+
+    OPTIONS
+        -h    Show this help.
+        -c    Index files changed between given commit and HEAD.
+        -s    Start indexing from this package. To be used when creating the index for the first time.
+        -e    End indexing after indexing this package. To be used when creating the index for the first time."
+}
+
+COMMIT_ID=
+START=
+END=
+
+while getopts ":hc:s:e:" OPTION
+do
+    case ${OPTION} in
+        h)
+            print-usage
+            exit
+        ;;
+
+        c)
+            COMMIT_ID=${OPTARG}
+        ;;
+
+        s)
+            START=${OPTARG}
+        ;;
+
+        e)
+            END=${OPTARG}
+        ;;
+
+        \?)
+            echo "Invalid option -$OPTARG"
+            print-usage
+            exit
+        ;;
+
+        :)
+            echo "Option -$OPTARG requires an argument"
+            print-usage
+            exit
+        ;;
+    esac
+done
+
+shift $((OPTIND -1))
+
+cd "${HOMEBREW_CORE}"
+
+# Create formula name index
+echo -n "var formulas = [" > "${FORMULA_LIST_INDEX}"
+
+for FORMULA_PATH in Formula/*; do
+    FORMULA_FILENAME=${FORMULA_PATH##*/}
+    FORMULA_FILENAME_WITHOUT_EXTENSION=${FORMULA_FILENAME%.rb}
+
+    echo -n "\"${FORMULA_FILENAME_WITHOUT_EXTENSION}\"," >> "${FORMULA_LIST_INDEX}"
+done
+
+# Remove last comma
+truncate -s-1 "${FORMULA_LIST_INDEX}"
+
+echo -n "];" >> "${FORMULA_LIST_INDEX}"
+
+if [[ ! -z ${COMMIT_ID} ]]; then
+    echo "Mode: commit"
+    FORMULAS=$(git --no-pager diff --name-only ${COMMIT_ID} HEAD | grep -E '^Formula/.+\.rb$')
+else
+    echo "Mode: all"
+    FORMULAS=$(ls -1 Formula/*)
+fi
+
+# Create formula history index
+
+START_FOUND=false
+while read -r FORMULA_PATH; do
+    FORMULA_FILENAME=${FORMULA_PATH##*/}
+    FORMULA_FILENAME_WITHOUT_EXTENSION=${FORMULA_FILENAME%.rb}
+
+    echo -n "Processing ${FORMULA_FILENAME} ... "
+
+    if [[ "${START_FOUND}" = false ]]; then
+        if [[ -z "${START}" ]]; then
+            # START is not set, no need to check for START
+            START_FOUND=true
+        else
+            if [[ "${FORMULA_FILENAME}" == "${START}" ]]; then
+                START_FOUND=true
+            else
+                echo "${FORMULA_FILENAME} is before START (${START}), skipping"
+                continue
+            fi
+        fi
+    fi
+
+    OUTPUT_FILE="${HOMEBREW_HISTORY}/public/api/commits/${FORMULA_FILENAME_WITHOUT_EXTENSION}"
+    GIT_HISTORY=$(git --no-pager log --pretty=oneline --follow -- "${FORMULA_PATH}")
+
+    echo "{" > "${OUTPUT_FILE}"
+
+    HISTORY_ENTRY_COUNT=$(echo "${GIT_HISTORY}" | wc -l)
+    CURRENT=0
+    while read -r ENTRY; do
+        CURRENT=$((CURRENT+1))
+
+        COMMIT_ID=$(echo "${ENTRY}" | cut -d" " -f1)
+        COMMIT_MSG=$(echo "${ENTRY}" | cut -d" " -f2- | sed 's/"/\\"/g')
+
+        echo -n "    \"${COMMIT_ID}\": \"${COMMIT_MSG}\"" >> "${OUTPUT_FILE}"
+
+        if [[ ${CURRENT} -lt ${HISTORY_ENTRY_COUNT} ]]; then
+            echo "," >>  "${OUTPUT_FILE}"
+        else
+            echo >> "${OUTPUT_FILE}"
+        fi
+    done <<< "${GIT_HISTORY}"
+
+    echo "}" >> "${OUTPUT_FILE}"
+
+    echo "Done"
+
+    if [[ ! -z "${END}" ]] && [[ "${FORMULA_FILENAME}" == "${END}" ]]; then
+        echo "Detected END formula"
+        break
+    fi
+
+done <<< "${FORMULAS}"

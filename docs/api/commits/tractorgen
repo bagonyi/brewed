@@ -1,0 +1,14 @@
+{
+    "5872fb2d3cc29b7065977fdf30e8541c8d21a7cd": "tractorgen: remove references to pre-Mavericks.",
+    "b4c186164c94c3f9ac9bfdab95d6c49abb558aea": "tractorgen: update 0.31.7 bottle.",
+    "968d2762d3793328334d1845778e782be05bc19e": "tractorgen: use “squiggly” heredocs.",
+    "8571dd4d1d4e7dd1cd184661f10618ad6b9d6581": "tractorgen: add test (#19850)",
+    "475b25edb1d9b2b4fad2772084e0056fb05e24f9": "tractorgen: update 0.31.7 bottle.",
+    "1281ebf00846c055e750e87f44026d01c5de3098": "tractorgen: update 0.31.7 bottle.",
+    "c02ed346e0d4f922bc766787de1c8f0ed8e8311c": "tractorgen: update 0.31.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "416e3ac6b9e83bc7df0942142a554be204a4fe85": "tractorgen: add 0.31.7 bottle.",
+    "006ff4d4a84977da7aad54f67cd749862b913341": "tractorgen: update homepage and download URL.",
+    "0bd3e85acbc649b73fab7dcb696da0777f2e8074": "tractorgen 0.31.7"
+}

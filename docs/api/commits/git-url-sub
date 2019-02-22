@@ -1,0 +1,16 @@
+{
+    "8c89cc8e713b93d530148a7c7e802ab7a8e5f4e7": "git-url-sub: update 1.0.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "bc8812f6e9cb7f30baace3ed9d664a24c82a065a": "git-url-sub: update 1.0.1 bottle.",
+    "580f212b3290d9fbfc642dd94395e43ebb28f350": "git-url-sub: update 1.0.1 bottle.",
+    "610643658c11e4d87127f1e3a54e72b6577bd9f8": "git-url-sub: add 1.0.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5c1413090805db197effdb18880407330d4aa09e": "git-url-sub: head & test added",
+    "be2eaa3dea80f5c2aeabff1c2b037487696d1f42": "Update github URLs",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "916f0be7f836345c66c59fafa466b76bbe763014": "git-url-sub: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "88af05e673f2cf1cf5069886a673765fc0998f8a": "git-url-sub: fix audit warning",
+    "c9e612b0aa703d32150c57edda3944a8b879f015": "New Formula: git-url-sub"
+}

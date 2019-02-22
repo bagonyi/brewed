@@ -1,0 +1,18 @@
+{
+    "c4bd23a2d7a20bcc26dd7e41ef0c3e6cf86c39c3": "gqview: update 2.0.4_2 bottle.",
+    "b00fbafe9b3436c5c97108798839203d0f7cae54": "gqview: update 2.0.4_2 bottle.",
+    "405f0b4f1b10cd7363afcc3136a2b184c7eb97cc": "gqview: revision to fix install receipt",
+    "05539a8cb5d1f8f3bd5e579ac98b3ab06e85553d": "gqview: update 2.0.4_1 bottle.",
+    "19bc0308b918df3f7b01a69f4f84e8901a5d9ece": "gqview: fix audit about sourceforge link",
+    "ad285951b4419bcd656858950f336853f7d28b02": "gqview: update 2.0.4_1 bottle.",
+    "31bcd6faa8b2e6e27b4b7fa82e7fd8aae84b31e7": "gqview: fix audit warning",
+    "5a92010da40794f3ccd7463b3ad1ca910c14db36": "gqview: add 2.0.4_1 bottle.",
+    "dd728276d5238f6b21b68ea49ff94348b10faf13": "gqview went quartz only",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "0f2f010267cbe5bf482b1f0bb3384cedb7807dc2": "gqview: depends on pkg-config",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d2482e816faca9eb9c1b3e560916c8a1413cd485": "gqview: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "94090393ec035a752621e2ee53efa4c5b96a048b": "Add formula for GQview, a gtk-based image browser."
+}

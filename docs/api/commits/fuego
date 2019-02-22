@@ -1,0 +1,21 @@
+{
+    "a1ac7514a2b76270c2bdcec138988531c023d781": "fuego: restore https for svn url(s)",
+    "4fe262fe23e9c89725009d169e448ac10b303cab": "fuego: update 1.1.SVN_2 bottle.",
+    "69c1c6ca1d93020a6597f093590771adb28866d1": "fuego: adjust svn URL",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "2082e8faf725e6017583648af43f805b23d946c7": "fuego: update 1.1.SVN_2 bottle.",
+    "5d204b0c4519c79fa51221d6a6f7f19269f86d46": "fuego: revision for boost",
+    "5413b4b016053c855bef79dec3f4738e50e1e0b2": "fuego: update 1.1.SVN_1 bottle.",
+    "5b4b8c7853c4267cf8d8d7b73cb1164629ddf98a": "fuego: revision for boost",
+    "09b22b64b5e7d3c2ae5f524732c51571c63faa84": "fuego: update 1.1.SVN bottle.",
+    "1965f4f73c131829dd20e5ea8169cb899c75b7c6": "fuego: secure url",
+    "211b62800001920df84c80c2920983c18ef40a65": "fuego: update head url",
+    "c44cd3711984f0bc57c7a7fcba81c2914673b575": "fuego: fix audit --warning",
+    "2e923ea3f40a85b2bfd2d4299f14547d28048d74": "fuego: update 1.1.SVN bottle.",
+    "3bbda0081a1d6d5ebfbcd4c1226bfdce201c4903": "fuego: import from homebrew/games.",
+    "8a06b5d0a8a0eb74f36c984cc0d1ebe10c2ced6a": "Move fuego to homebrew-games.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1816a38dfba8a82e7b4d9fa9018233e129f509a9": "Updated fuego to version 1.0.",
+    "a8135233eb9c190838eb4416beb65080b95dceb0": "New formula: fuego"
+}

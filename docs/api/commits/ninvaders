@@ -1,0 +1,8 @@
+{
+    "6e87446643a1fc5d76953d95bcb137ef453c557a": "ninvaders: update 0.1.1 bottle.",
+    "3b961f604ef988b288ed843cdd53a9419ebc9994": "ninvaders: update 0.1.1 bottle.",
+    "12105db3dca633439defb0ffe4c4d573c0ad4ee3": "ninvaders: fix audit --warning",
+    "669262bd225e356ba8ac34b30526fa418031e762": "ninvaders: fix install-time warning.",
+    "b7992e631390442bcfe9c52bb9678a3713f13d81": "ninvaders: add 0.1.1 bottle.",
+    "8036fd14b6b9ccf9e832a1a225bba75e754b4611": "ninvaders: import from homebrew/games."
+}

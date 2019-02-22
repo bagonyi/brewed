@@ -1,0 +1,22 @@
+{
+    "90b9037c5a1a506c13c577d222f41b4208d3b7ed": "qpid-proton: update 0.26.0 bottle.",
+    "d050c2c91c0c8d3ea5b54f61bca87d454803cdef": "qpid-proton 0.26.0",
+    "4cc28b8dc3f04c6a78e40556b640abf2e212f5c7": "qpid-proton: update 0.24.0 bottle.",
+    "873ccba6ebaf9179c958258203df24527940d143": "qpid-proton: update 0.24.0 bottle.",
+    "e6339ee1c2c2308eda48c74d37beb988a8ea2d6f": "qpid-proton 0.24.0",
+    "178609ead98b466f9fa2cc9cac6dfd7a5f73c5f9": "qpid-proton: update 0.23.0 bottle.",
+    "f7859f6d7464e37239465d548b1c182a88c92cb7": "qpid-proton 0.23.0",
+    "ad1de1f243155670a8684b109868641bfc22cea7": "qpid-proton: update 0.22.0 bottle.",
+    "f021cafa264f474c9183f0b952401d77eab24078": "qpid-proton 0.22.0",
+    "2a876acee65c3d09d38b7f4162bb2c93f3071e16": "qpid-proton: update 0.21.0 bottle.",
+    "e1b4b2089684ef60c9a312f416cb3140bcfa1427": "qpid-proton 0.21.0",
+    "453446f97a7b12d3ccb2e9a90a9875f64c4cc4e7": "qpid-proton: secure head",
+    "a1bf6dd10502fc153a2c84b7c240a4f0c0f0c7c0": "qpid-proton: update 0.20.0 bottle.",
+    "1d9992f84c262fb022bed7f187754d0babf1e7fb": "qpid-proton 0.20.0",
+    "ba9894bebd73cf55259b4c2bc1d508c2c7b4f69d": "qpid-proton: update 0.19.0 bottle.",
+    "e0df70651b06fdb6d2ac0ffc799b11009aa783e3": "qpid-proton 0.19.0",
+    "824188a1376ca031c17a873fa56c76b770d9fb06": "qpid-proton: update 0.18.1 bottle.",
+    "079338815723366fa6636d44ac1982e65520a930": "qpid-proton 0.18.1",
+    "ee69b026c114cbbc29f6c41cee2d0feabc7b2c1e": "qpid-proton: add 0.18.0 bottle.",
+    "d0d1139900d09468ae0abf7c842185052860cd75": "qpid-proton 0.18.0 (new formula)"
+}

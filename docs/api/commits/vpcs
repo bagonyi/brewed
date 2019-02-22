@@ -1,0 +1,15 @@
+{
+    "855bce202d91447acd1181620f4e065fbf0ec97a": "vpcs: update 0.8 bottle.",
+    "b3d5728fe195c2d4fd7acc8516193f5ddf396394": "vpcs: update 0.8 bottle.",
+    "cae65ceed6996fb68006f917d76bba323d6fc27a": "vpcs 0.8",
+    "856429cbe82d2546fbe35a95a290db1e07432b1c": "vpcs: update 0.6 bottle.",
+    "a1aee8aef38f311984e94126e13d5b74369a97ed": "vpcs: fix audit --warning",
+    "4b2ca05eeb5e67e07d425429a298b9967f44c2d5": "vpcs: fully scope test system call",
+    "b1a693e5eac37ba6a007735612b88156a2dce302": "vpcs: update 0.6 bottle.",
+    "4f7447f215c4ea5c1e206e546878100bf6460bc7": "vpcs: update 0.6 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "89cf92a51cc9791ae2c125d9d0619e7397b10d2a": "vpcs: add 0.6 bottle.",
+    "4d0bfb19ed0bbe06a959a868d03e2a73f62f52b8": "vpcs 0.6 (new formula)"
+}

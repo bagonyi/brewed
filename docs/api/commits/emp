@@ -1,0 +1,21 @@
+{
+    "8d087a4e0f0e092969141f00cfb06ffaaf90fd7c": "emp: fix RuboCop Layout/AlignHash.",
+    "050a706640afce9150d57c04256387685b9f13ad": "emp: update 0.13.0 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "68f18c82977cd060c6a5a596ff1aa11ad248317c": "emp: update 0.13.0 bottle.",
+    "2ffb65c54bc334de5c500a39dc141527b579e270": "emp: update 0.13.0 bottle.",
+    "166d94d20adb39f8e86a779ea6ee6c6f51c98e49": "emp 0.13.0",
+    "18daee25c7ab30a201a7f3a8382ad17099691181": "emp: update 0.12.0 bottle.",
+    "30904b36c739ecfbb93a81ab43ee6dc3eff70ca0": "emp 0.12.0",
+    "484e76b8c3d836266b2a2a04e249fc7268c11119": "emp: replace Utils::JSON with corelib JSON.",
+    "9656f6a67c432b798314b7702d21c8b648a4d8e0": "emp: update 0.11.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "bebc896e2d4b9194d17090a7dc68c7b3eae6430c": "emp: update 0.11.0 bottle.",
+    "8109123038c61dc7bfa8aa2253b52c9e353f3b94": "emp 0.11.0",
+    "bc9ec5c3b4dd4318a55e5c012b3c04574734e377": "emp: remove golang requirement",
+    "d52e946e373eee3080efaf452535f3cdec9a6e78": "emp: update 0.10.1 bottle.",
+    "05cd87c3af6756a56293b996d5b7684b33003097": "emp 0.10.1",
+    "3a0b599141a55aba898fa2cfc62c1cd9c8d9fb0a": "emp: add 0.10.0 bottle.",
+    "053f954619ce136df0a45a87961bb7eb1f121024": "emp 0.10.0 (new formula)"
+}

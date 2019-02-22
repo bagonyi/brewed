@@ -1,0 +1,9 @@
+{
+    "6cb7bce52a60eb532d2f0fcafd861bac26d6d745": "rfcstrip: bottle unneeded",
+    "8a57bf92e56ab08b4e22c4baa5bfb59aa9a21ac4": "rfcstrip: add test (and other changes)",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "79f7a50b45ea9c9414bb8af406cd6995ae947969": "rfcstrip: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "fd2fcc2825a01b789a724524c0c1fb91b5b90aed": "New formula: rfcstrip"
+}

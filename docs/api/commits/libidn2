@@ -1,0 +1,14 @@
+{
+    "4f908546fee054c34283d10a206f4619d2969eff": "libidn2: update 2.1.1a bottle.",
+    "451524cbfb01d73a107b1c8d957bc87bc15f62a1": "libidn2 2.1.1a",
+    "667116b6a2202a4b6e2359d2e1ead41868a14874": "libidn2: update 2.1.1 bottle.",
+    "4c126e065f5cb4b4af340e38a966658f32586440": "libidn2 2.1.1",
+    "72b71edb2859437d53070bfac9dac8801e601386": "libidn2: update 2.1.0 bottle.",
+    "abb4edb1010df1164c2823ad209beac807b03659": "libidn2 2.1.0",
+    "524c474bda644f0cafd729059d43f4b6afa579f1": "libidn2: update 2.0.5 bottle.",
+    "5ed6aa18fd47c7dac8d5281fd4529b60d03719a8": "libidn2: specify path to libintl (#28072)",
+    "f6503793c8b471d55773c32d9ee62b11b94d81e2": "libidn2: update 2.0.5 bottle.",
+    "df622302e4fc5c513d39db3a5410bf1d492f92fa": "libidn2 2.0.5",
+    "dbceaf77dcc7c2552d58c7773a891ef7ea7eaf33": "libidn2: add 2.0.4 bottle.",
+    "cf0e3b3e98c1da91a71566c3a407c534cbeee73f": "libidn2 2.0.4 (new formula)"
+}

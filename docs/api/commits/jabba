@@ -1,0 +1,22 @@
+{
+    "913134825f1230d59734f8f8e11a528f203f3f62": "jabba: update 0.11.2 bottle.",
+    "90f48e5a2a6fb647ddaee293266672d28070a9d8": "jabba 0.11.2",
+    "facfee98ca0db1cc6b0fede5a9419eb8ed754129": "jabba: update 0.11.1 bottle.",
+    "e5cb3e507d01b916f01510112b14e5a5d8988d3e": "jabba 0.11.1",
+    "fba886a5348cf6af37f3d23bb48b9f8d17d90a26": "jabba: update 0.11.0 bottle.",
+    "43a356cdf9915001b72ae799fdc6f5b439c8bad5": "jabba 0.11.0",
+    "f51d545873b996e1dcdbec9c8cbb557490f01308": "jabba: fix dependency order",
+    "db9befb00293488ffa633dba9269f9ef80210b5c": "jabba: update 0.10.1 bottle.",
+    "2f72377760cbc8752b6ac8bd67ea20e9cbf5a434": "jabba: update 0.10.1 bottle.",
+    "99313a1676832bec94259428d14e6923e158bbbf": "jabba 0.10.1",
+    "ee46a2521ddc9595cc3f0243ddbcdc96528d8545": "jabba: update 0.10.0 bottle.",
+    "937082e19d56b700bfee10bac25ae965eca0a108": "jabba 0.10.0",
+    "38ef95398bc97c6d4f689e33d97bd02853aa38f4": "jabba: update 0.9.6 bottle.",
+    "76f463f8604c9a11167c07e9896940eb4bf58bd8": "jabba 0.9.6",
+    "c123e42dd016fc6cb837445f44bd55a872daa995": "jabba: update 0.9.4 bottle.",
+    "09c2ff2d46bb589ccc0c38b704f49e004a71f981": "jabba 0.9.4",
+    "02bb036f41304ac8cb259ed346350dd12632d539": "jabba: update 0.9.2 bottle.",
+    "7bc6261475c0599eb8992c2d6a5b8824f7ba00e1": "jabba 0.9.2",
+    "5026a3ad94684e9ed755672484f02d6dfa228fcb": "jabba: add 0.9.1 bottle.",
+    "c4a98a2adb82ee6b3e5e3fb6fb5f7ef95b03b902": "Add jabba formula"
+}

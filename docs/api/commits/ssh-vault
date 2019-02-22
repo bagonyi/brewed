@@ -1,0 +1,11 @@
+{
+    "a63ad38565fd3b94f07d70690650f2c32df933f8": "ssh-vault: fix RuboCop Layout/AlignHash.",
+    "fafc88b952b7e26285ec2ea7cd467b01a14e1f21": "ssh-vault: update 0.12.4 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "968a67c87c3a2e5864b93d7dd0103ef57aff1e7e": "ssh-vault: update 0.12.4 bottle.",
+    "abcdfe85a53d3700661e67d20a52927b2fe4f6f5": "ssh-vault 0.12.4",
+    "48d5da8df4fd620c453e292972712a2bfee1fc28": "ssh-vault: depend on go@1.9 at build time (#28763)",
+    "b534e457c4fe2c6b3243021c403a07fb6acebc55": "ssh-vault: pass -vendor-only to `dep ensure`",
+    "6d2f9f6fd82923814ac99f56aed674a38dfa4ff7": "ssh-vault: add 0.12.3 bottle.",
+    "fd22930ad2519b6ae734e0b8b358ff593a6033fb": "ssh-vault 0.12.3 (new formula)"
+}

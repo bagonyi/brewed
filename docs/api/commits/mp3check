@@ -1,0 +1,20 @@
+{
+    "eaa16cc5e3658ca55a1c87887f4cc5e78a1a7e9c": "mp3check: update 0.8.7 bottle.",
+    "135c6b64b0a482f2d5ba8f8c8c8bb15db27f8f4b": "mp3check: update 0.8.7 bottle.",
+    "f8e5562f8dd2532eca7561d1a84a114c1cc6812a": "mp3check: update 0.8.7 bottle.",
+    "c30cbdb38c8adc4aace51c37a483131346511a61": "mp3check: migrate to archive URL & add test",
+    "2c6aec4b7dfe1eb1553c4362ae08b6693b562874": "mp3check: add 0.8.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "53af6a91173eb6f9ae7356e9c0ee72c24870e41b": "mp3check: install to correct prefix",
+    "8013e28afb0e852ff4b7b8cfd70a7840b9fe847f": "mp3check 0.8.7",
+    "5e8dc1d18963b33df1b5451669e12cccb4173045": "mp3check 0.8.4",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "67e45a74fbb8a6feff7e6c40c13ff96e7127b01a": "Apache Avro C library (v1.4.0)",
+    "72e19eb5421201a2be3dce1e298861cf6aa4a132": "Don't need +x on these",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "1f7bc468bdbaebe8d5cfc2b74368cacde10b852b": "Use new symlink aliases",
+    "856e5a90f79f6ed3f5219d9464434ad3be823756": "Also known as style",
+    "d86c42e9832d749e7bc33e0e933d4af8fb8bae06": "Diction 1.11"
+}

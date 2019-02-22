@@ -1,0 +1,14 @@
+{
+    "8b1b890aaca0484daea7929eb1ccdbdb67f9df70": "wdfs: update 1.4.2 bottle.",
+    "cea9518344a6bccbcde3e43fcfed183f7a9b80b2": "wdfs: update 1.4.2 bottle.",
+    "36623208415ab1ebbdfffba81554ff0cb7e548c1": "wdfs: add 1.4.2 bottle.",
+    "c8ff28bfeef27b8fd4cbd3db47fd277e449b715a": "wdfs: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "1c9ae984155063b766f4fdf2606e1736d5542efb": "wdfs: use osxfuse",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "8a22cc8a149f29d8dbb90a0c2e40a00696485117": "wdfs needs glib",
+    "980e486aca1828601af1f631a30c6bc7d950265d": "wdfs 1.4.2"
+}

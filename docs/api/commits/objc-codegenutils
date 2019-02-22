@@ -1,0 +1,18 @@
+{
+    "28dcced4eb423755af88a113a14fdd9693f41287": "objc-codegenutils: remove references to pre-Mavericks.",
+    "f5f264f35014860e82a52d46d3dfc5c1869f6fcf": "objc-codegenutils: fix dependency order",
+    "7cd938d920a26d067bdf1c52cd9ca1afd843f32b": "objc-codegenutils: update 1.0 bottle.",
+    "5b842a2ea80302efe8bddbee093a34348b28f0fa": "objc-codegenutils: update 1.0 bottle.",
+    "80b7e9690ea426b5e54d689b8ad6d5f7522065ee": "objc-codegenutils: fix audit",
+    "79f73b59a769e3c080f74b7c2f277193b9af9050": "objc-codegenutils: update 1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "c2647e6c0eae7c3704c45e0d5edc3487993cb8a4": "objc-codegenutils: update 1.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3b38b61e4c4455aea65abb53007759c8e257a4a9": "objc-codegenutils: add HEAD",
+    "93e321509b2982ed7a8f2cfa12483961eb7afef6": "objc-codegenutils: add 1.0 bottle.",
+    "622e943c82a61192fa15a3e51593a8fc60168e51": "Explicitly mark Xcode deps as build-time deps",
+    "dfe9893c61e51d4553d50f0b68d474b21421cdca": "objc-codegenutils 1.0"
+}

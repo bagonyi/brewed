@@ -1,0 +1,13 @@
+{
+    "b877d37f09a6b2a808cb5525258ce0e4496da8f7": "zig: update 0.3.0 bottle.",
+    "6bf500fc6f6dca053970bb57f9993c5b75eddc5d": "zig 0.3.0",
+    "36d3bdc8da234d2dda672eedee466eba9a4f51e7": "zig: add HEAD (#31864)",
+    "a3e3383e4e257f14216c7bd9b33645529fe47b06": "zig: update 0.2.0 bottle.",
+    "deb6a115996729a5012324ad0644ec1b92bd00b1": "zig: update 0.2.0 bottle.",
+    "94d51012086bd4c4f7fc4c35789b3b7e39652709": "zig 0.2.0",
+    "6b63dc59217d64fcd1d52af367b0c8c6e8ba84aa": "zig: update 0.1.1_1 bottle.",
+    "7691a51934bc30986d41abd4b69330c1806e8adc": "zig: depend on llvm@5",
+    "7437c5ae454ab5a693b55b077525745912dd3760": "zig: secure url(s)",
+    "27a55384b490dc8551592288184dc2c51b6728dd": "zig: add 0.1.1 bottle.",
+    "c33c6222df4c976f685087cdc382ed9874c09314": "zig 0.1.1 (new formula)"
+}

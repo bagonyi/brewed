@@ -1,0 +1,14 @@
+{
+    "cc2bf2945fa9c34ac479f8b959c76fd252b2cb48": "lammps: update 2018-12-12_1 bottle.",
+    "53bfa24cd7358779543cb13d8d1548d3399d55ee": "lammps 2018-12-12",
+    "dff0bf8fbc792ca89b77a11c292a236e936e3dd1": "lammps: shorten long lines.",
+    "702544ba15f606c213350563da7a58d5a13c0899": "lammps: update 2017-08-11_4 bottle.",
+    "6248fe9311e1fed476e798ca0665be301543b57a": "lammps: secure url(s)",
+    "eacc3ef6da14ff332dc690a40a8ced5292d72a6f": "lammps: secure url(s)",
+    "7db24da7e61bf124c02c80b25bc5d30bf04372e3": "lammps: update 2017-08-11_4 bottle.",
+    "2c5b3224f210ef7be4945a469d49d8e11a80731e": "lammps: revision for gcc",
+    "a65f96fc4815c5568313edff180b8cfb06dbe9a9": "lammps: update 2017-08-11_3 bottle.",
+    "91196d4927f446142475081964289825198b76c9": "lammps: phase out :fortran and :mpi",
+    "b9a0a97c3aa6772f1aff7f7046eab07810557794": "lammps: add 2017-08-11_2 bottle.",
+    "a8b1f49bef52e1181c8a10e366648fc3c80ef853": "lammps: migrate from homebrew/science"
+}

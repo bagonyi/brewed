@@ -1,0 +1,10 @@
+{
+    "d66f0fe0d5831922aadf2b3d26136c8bdc4ce652": "homeshick: add conflicts_with asdf",
+    "0e171f46bba5cb58a2215a14c3636db99fb5b8b9": "homeshick: remove options",
+    "9237147efee9f82983b44ae66181b47baa7b58b2": "homeshick 1.1.0 (#28652)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a5dd9558f1c33e97cd9c39aad1f0022446198464": "homeshick: install fish function script with fish_function (#7672)",
+    "a08810829c44d8b02a1cd3e27f8b98459f9c06ef": "homeshick: correct .bash_rc to .bashrc in caveats (#5131)",
+    "60fc117af7e83a5aacfca74c2fca0cb6177072af": "homeshick: bottle unneeded",
+    "8622237b2a499762cb3e1607dddfccc4854b9e10": "homeshick 1.0.0 (#1758)"
+}

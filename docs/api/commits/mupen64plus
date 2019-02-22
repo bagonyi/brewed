@@ -1,0 +1,9 @@
+{
+    "faba1c90b48e4dc79ff58350518809d1a13ec834": "mupen64plus: remove options",
+    "191afb20849b5d940a216fee6f9d8cdfe9947fff": "mupen64plus: update 2.5 bottle.",
+    "ca1154c8979b98a8cc8c4d7e81aee85276d9102d": "mupen64plus: update 2.5 bottle.",
+    "bcd9eca8da920441d319ff29fbac19e17896afb9": "mupen64plus: fix for Xcode 9",
+    "ea360393a7b078948cbaeca8f67bfe85dad39ed7": "mupen64plus: secure url(s)",
+    "b2c91167fac33f60c818534d61b8a5d1d9084c29": "mupen64plus: update 2.5 bottle.",
+    "1ff23c27b4455ac2de593b2e10a3f0b08ae1201f": "mupen64plus: import from homebrew/games."
+}

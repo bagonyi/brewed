@@ -1,0 +1,14 @@
+{
+    "a813b9e26292ecd7894c2c940f770067f4b20a96": "snag: update 1.2.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "db0b7e018b9b042262270c0b21241a3401b2562a": "snag: use assert_predicate",
+    "adc958c0cc02a76cdbeb5730a0c241056514bdf1": "snag: update 1.2.0 bottle.",
+    "da381c2eab65a19abca2a1295d4ee3ef920c46de": "snag: update 1.2.0 bottle.",
+    "a377f267e39e7a0d6e8eabf4cedf8d96a8d89f3c": "Fix unnecessary 'require \"language/go\"' errors (#4023)",
+    "37085e55c40cad4a576e64af35003a797525e2b1": "snag: update 1.2.0 bottle.",
+    "6719490e2b731f3669ea96bcf9742cfcfd2f7b46": "snag 1.2.0",
+    "35bf40794cc5f1c2ca1b294358301bf0aa8a254f": "snag: update 1.1.0 bottle.",
+    "41ffa372b479ceb88d9ebd52950e02da2f3d6008": "snag 1.1.0",
+    "a14031a4564aa063189f4fc7a0d8820004ecc01f": "snag: add 1.0.0 bottle.",
+    "3eb04e32ee50c0c1314c464c2c0c1e0f14e4ee86": "snag 1.0.0"
+}

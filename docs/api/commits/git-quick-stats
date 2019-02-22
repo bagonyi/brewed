@@ -1,0 +1,19 @@
+{
+    "d8b3938a0d574f892736080ef44ab4eb4d761f22": "Update git-quick-stats.rb (#37140)",
+    "ff842f75dd23fab1e84fa29dcd9e772fa68de3fe": "git-quick-stats 2.0.3",
+    "92294875fd7ed4f6d7752a3cb5e33a381a15065c": "git-quick-stats 2.0.2 (#36353)",
+    "e0960d09cf9e7cfe7cbad198ab449f9cee031c22": "git-quick-stats 1.0.18 (#35752)",
+    "a4a5b945f28c326bdc81bbf45235f9fd58c9019e": "git-quick-stats 1.0.17 (#35527)",
+    "12789290a38602284add870cb08e76f54078d47f": "git-quick-stats 1.0.16 (#35343)",
+    "cdac004a11451b95a8fc1dce18a6a8351b98150b": "git-quick-stats 1.0.15 (#34633)",
+    "6843377a01e1f26ef0a8bdb12a1d8ced1e103536": "git-quick-stats 1.0.14",
+    "3678d249c33e478d4456302312b15650ff8dbf5b": "git-quick-stats 1.0.11",
+    "4d2aadabe6cd9b803f583f94939af51fdeb6badd": "git-quick-stats 1.0.10 (#30188)",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "c14054f9e783e88b2331f1666b9e86159ea7401c": "git-quick-stats 1.0.9",
+    "423c8d4461ea4f18c66b693dbcf32acc032fe8b1": "git-quick-stats 1.0.8 (#17599)",
+    "9ffc269e61e44c5e17b38b78dea973e4342ffac7": " git-quick-stats 1.0.6 (#12796)",
+    "17d2d1db1262bb3c99a359f888fbbdd28d3f168c": "git-quick-stats 1.0.5 (#11259)",
+    "b3d68caf2665253c9bc87d82f9b5f20cbdc66624": "git-quick-stats 1.0.3 (#10709)",
+    "b419c52c9d05540d8c24138511d28b9413595ff8": "git-quick-stats 1.0.1 (new formula) (#10011)"
+}

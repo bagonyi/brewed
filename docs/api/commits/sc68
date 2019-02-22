@@ -1,0 +1,15 @@
+{
+    "569b87411d396fa60d68e9a3765bedff36f5eae7": "sc68: update 2.2.1 bottle.",
+    "2d0a00b75bfd54acd6104c6ddca0859cebdb1576": "sc68: update 2.2.1 bottle.",
+    "bc5722e3c00cb8d6a9e7f5814fe9b3be28db1251": "sc68: use pkgshare (#11787)",
+    "0337bb8e2c03d7bc40e595c2547b1d2c598c0787": "sc68: update 2.2.1 bottle.",
+    "863447eb34473704e0044121f19c53c98e6c0ab5": "sc68: add 2.2.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "acc8a8a68cbddb75bf1732eb1dd10a7f9ef1e861": "sc68: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "6958b2db98fd5f79ec422cf569dddc57b75910b6": "SC68 2.2.1"
+}

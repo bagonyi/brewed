@@ -1,0 +1,23 @@
+{
+    "5ebb5531db3c281b61dc67efa5f366bbcbf15689": "bcrypt: remove references to pre-Mavericks.",
+    "f25729c1c4c7adcdc7f5c688fb7f3c09b10553a1": "bcrypt: update 1.1 bottle.",
+    "eb701c6c08dec077cef0607dbc0ff89b2b018d69": "bcrypt: update 1.1 bottle.",
+    "d046bb01f5eef8c1ff565e57338751710b9ff376": "bcrypt: https url",
+    "2d5866c4c4cb2ef44d17c77ec462ab48b33ae491": "bcrypt: fix audit about sourceforge link",
+    "1461fa4bc5f03bb1d18a465c7861736c69cf36c7": "bcrypt: update 1.1 bottle.",
+    "e097c13868211e15c261b44f98f6296119c8e6fc": "bcrypt: update 1.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "389083a4826b3542574f21e74be99bb93e8c5a41": "bcrypt: add 1.1 bottle.",
+    "b5dfeba29ca6ab9149b98cb5a6dd52c714dd16a7": "bcrypt: add test",
+    "cf505dca7700dfb187dc20afa8bc4d214a1419d0": "bcrypt: modernize",
+    "446e7c1c19edce7c6fef1a57283a625d149cf2ed": "bcrypt: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a6813009f49b8699dc42e96e7c002fb0faaf6c98": "bcrypt: avoid inreplace",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "620317ca6df6102aeb70eb73108fc3c22dbfeedc": "Update formulae to use ENV.cflags",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "fb397833f734cf11716d70cb33f6a349606337a7": "bcrypt - use inreplace and optimize CC/CFLAGS",
+    "f6cab77e477045242a7a15e35717ac44f7f89676": "Bcrypt 1.1"
+}

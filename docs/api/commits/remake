@@ -1,0 +1,22 @@
+{
+    "d2fe814cce327e5fa6072d69a842933c435b31d3": "remake: update 4.2.1-1.4 bottle.",
+    "8eaf507af4cf25db3550c1aa4e2a918ad44bf09e": "remake: update 4.2.1-1.4 bottle.",
+    "ec5a24baa2dea8a20bafd184fd203d9dc43f4cc1": "remake 4.2.1-1.4",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "dc65cd3eac8816dfbc64a5cb38239f0b28008125": "remake: update 4.2.1-1.3 bottle.",
+    "fbdd4382b29762f0abb0ba257d466cfe1916b210": "remake 4.2.1-1.3",
+    "3493c3db9498b0aca1556837f134594b880bb291": "remake: update 4.1-1.2 bottle.",
+    "7b93c9234ccac4cba1d4a9c3769eb6b65076a253": "remake: update 4.1-1.2 bottle.",
+    "e3d02560baceeea7231b614b37871a25b393b86e": "remake 4.1-1.2",
+    "985516ec6d315cc4eb0d1b10af78274881741697": "remake: fix homepage link",
+    "e9c904be2577f2cade85a6317e5cb8ce9aba9067": "remake: fix audit about sourceforge link",
+    "05c0e58add57ae66b41b1ce5242e6bc04f0b4aec": "remake: update 4.1-1.1 bottle.",
+    "0773eaf7db400846de929aeb6979399473ce9395": "remake: update 4.1-1.1 bottle.",
+    "fc2b806ca1657509f0ef7f5fb195a5cd5d538138": "remake 4.1-1.1",
+    "9e19936d1782d45cf60e8f2439b4b6cd0a7ea7b7": "remake: update 0.91 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "075f436b3a1880f6f01d0277267cb72a24040050": "remake: add 0.91 bottle.",
+    "97e1f01a3dbacd6d6c0a0abec25d622c4962b599": "remake 0.91",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "03c2a419460ad4186d9c6e118f02cfa6fea16f98": "remake 0.9"
+}

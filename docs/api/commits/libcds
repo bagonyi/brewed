@@ -1,0 +1,17 @@
+{
+    "eaaa82208f6fe0fe43baeda68623ff0816213481": "libcds: update 2.3.3 bottle.",
+    "96b1435807a807799d399ad67700da0cef404cce": "libcds 2.3.3",
+    "493ae17c303f38673a020f40c60d06d85e066ed2": "libcds: update 2.3.2 bottle.",
+    "3c7475fe190c6b84eff681c2e1eab3b5e4dbc26c": "libcds: update 2.3.2 bottle.",
+    "ad9e49f8bd3a3c94ed43c8abf3a8fd1b68cafa81": "libcds 2.3.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "cda27afc29a559680f8c8eb5eca1e4136ed0c2d2": "libcds: update 2.3.1 bottle.",
+    "6c4b0ba6f6c99768d9832916ad2eb30d89679c3e": "libcds: update 2.3.1 bottle.",
+    "b18119ba869da7387bf43f6821bef0e983742946": "libcds 2.3.1",
+    "10167b1c3bec52a44ee653fbd97e8340c40fac8e": "libcds: update 2.3.0 bottle.",
+    "cb30e7ce7fffe0e88eaf7494221f05f4a156d60c": "libcds 2.3.0",
+    "8cffb2e75f57fc4588a08e6e117b496c2777d86c": "libcds: update 2.2.0_1 bottle.",
+    "84c54ce4ef5dce6fa22ba9a7a3a793d5f582aa63": "libcds: revision for gcc",
+    "c8ee6b8689146ad00c30b97c15858749ef2604e7": "libcds: add 2.2.0 bottle.",
+    "e860e0bf76b4e3fe0099458f7a02b503dd33a50c": "libcds 2.2.0 (new formula)"
+}

@@ -1,0 +1,23 @@
+{
+    "02a62a40a22c9aa4dc3550c29552867050d6f712": "uptimed: update 0.4.1 bottle.",
+    "712b1f0a1fecd0ddfc2e274d4e43bab91b0e148b": "uptimed: update 0.4.1 bottle.",
+    "e64766462faa59735d6125cfd8b15bcfe168f042": "uptimed 0.4.1",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "878906d200f5cb8b5c6c971aafa833af670f2b13": "uptimed: update 0.4.0 bottle.",
+    "60791ea04024e2cfa276c8823a306463a05f6789": "uptimed: add plist_options and update test (#8234)",
+    "6ae1e930147499d5370a8e23f469d3cee157a6a7": "uptimed: update 0.4.0 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "34c79ee1a481fd07d699b57fc4feafc2d69c11ce": "uptimed: update 0.4.0 bottle.",
+    "711658b0f2afcb2609f5a3ef0667c324eee47890": "uptimed: add 0.4.0 bottle.",
+    "20e60e5b734ba2536ee6e773bdcafda9db130b02": "uptimed: add plist",
+    "cd08397a56a5a532b18cdf71517e53b112570a33": "uptimed 0.4.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "15c729fc5390fec2f4be1d7baf9ff9de884d8928": "uptimed 0.3.18, test added",
+    "750ff12eeaa342cd35a7e2bc14cf564271b8c63d": "uptimed: style nits",
+    "d6756e4e5eb7df94d9d3708bee906b2e9440f998": "uptimed: remove skip_clean :all",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a5c1fe6bc6d8720206f6185fd286d6d3dd4c72c7": "uptimed - don't strip",
+    "199e3f39682754c7feec189a105789796cbee543": "uptimed 0.3.12"
+}

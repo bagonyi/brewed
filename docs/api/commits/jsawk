@@ -1,0 +1,17 @@
+{
+    "7d46b7db3db104d994c3f299f90c6746c6c4e1de": "jsawk: rubocop tweaks.",
+    "37638527c93013872ab01832c04047477c717b49": "jsawk: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3c14e7e4a23d1a474d50acb39d205e0989702d3a": "jsawk: remove README file rename",
+    "48fcfe2a634e64782e0274b31b5d577f41df3850": "jsawk: test added",
+    "8f200492296c1ced704c7b16c52f81fa79b35347": "jsawk 1.4",
+    "2e99954bafd68360963956957a72acebeaee8d31": "jsawk: use archive URL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e4a0aee5b13fdbbc6496d29ca36ac366c9ccff43": "jsawk: add stable URL",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "fac8a63810fbc8ca5cffe1266900150aaa64bd1c": "Add formula for resty and jsawk"
+}

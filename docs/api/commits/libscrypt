@@ -1,0 +1,18 @@
+{
+    "a884157f681813ac00e12fb1216413de4b12feda": "libscrypt: update 1.21 bottle.",
+    "d780f385b9cca5bd488d895a4c7a9f424568e8d9": "libscrypt: Add test (#27869)",
+    "c953ae96b1a17f1e21c1615c3ca32481566935b5": "libscrypt: update 1.21 bottle.",
+    "63bb72e8a462b9bed7c060da9f7bc0296f0e876e": "libscrypt: update 1.21 bottle.",
+    "cfd3db638e09bb86a10a10bcdf133143a39d7c01": "libscrypt: update 1.21 bottle.",
+    "6c4151ae3019485e30fc0cf5fb80b82b24843b2b": "libscrypt 1.21",
+    "d7a411451f9e18461a56eaf1f26889be3e654ff1": "libscrypt: update 1.20 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "909ba8f39d86b89b2db2e6baf4de01248c06a464": "libscrypt: update 1.20 bottle.",
+    "6d6a8321c4a091a6dec3f93b83207ffa129bcd29": "libscrypt 1.20",
+    "d510db4fb4efc22647b8d221063e4187f2dd592b": "libscrypt: update 1.19 bottle.",
+    "9f8b869ee4ae9ee08b4328834b77c6f5b9eb45e5": "libscrypt: add 1.19 bottle.",
+    "1c24f026e2a0a694d70ad8e8ecf6f41d6f548195": "libscrypt 1.19",
+    "048737279a2e16dda36fc492475634342e9765e7": "libscrypt 1.18"
+}

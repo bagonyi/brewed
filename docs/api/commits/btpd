@@ -1,0 +1,20 @@
+{
+    "ff2670bff76f83854cc8219188d32a8b7ead4227": "btpd: remove references to pre-Mavericks.",
+    "2a818343a363781f778286146f2604f79e890d8c": "btpd: update 0.16_1 bottle.",
+    "81718492ae08f39ff791eda6bcaf6e0453bc8b16": "btpd: update 0.16_1 bottle.",
+    "01b473191343977e18af6a797ba32c6f07657b32": "btpd: update 0.16_1 bottle.",
+    "11b9395dbc2e87c1519e1d408f38e7ccf7c8cccf": "btpd: update 0.16_1 bottle.",
+    "2d954f7c76338fa613ae01e16d46eaa150f5b814": "btpd: audit fixes",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "92bf831cb0e032eaa8be412ed4fd1ef7743a7fa1": "btpd: add 0.16_1 bottle.",
+    "988664241f1d039667bf2d58ebbf6ac04011fed0": "btpd: fix for system openssl linkage",
+    "5fed77969d0b5d18ff2824201bdaaf32b1af7585": "btpd: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "0ef0b1ff8ea41da25e26223d76f2c46781130cfc": "Update btpd version to 0.16",
+    "fdfcb22c32eca36d372b2bb68fe18f89a9670d7b": "Add btpd formula",
+    "a23149c060873b317c4c76e6a2870361724ce2d3": "Added forumla for lft (Layer Four Traceroute)"
+}

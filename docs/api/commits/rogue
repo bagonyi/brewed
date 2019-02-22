@@ -1,0 +1,17 @@
+{
+    "35310b7ec20c0a66a6a71d2d7fcdeff130720903": "rogue: update 5.4.4 bottle.",
+    "f84a4f6765be792fa02b7abb3c42d8e59c8524a2": "rogue: secure/fix broken url(s)",
+    "500e2e49c6f8356046e7105c5fa9e5a990a5a14b": "rogue: update 5.4.4 bottle.",
+    "fe99e90ad5da692c7b695ae0dc83a18c2e20759e": "rogue: remove Leopard special case",
+    "670d6a434ba7f0a310c7e1a9b27663b5ab1f43a8": "rogue: update homepage",
+    "2b79839a0932747965da9419931ca049e8685150": "rogue: fix audit problem (#9776)",
+    "53ba762104cb6d8572cacc618624ff728d132539": "rogue: add 5.4.4 bottle.",
+    "1f3b096d1cb7cf65b7e46d718b4da290d863330d": "rogue: import from homebrew/games.",
+    "40cefdea9962150175f103343e7a8ddc2fa0a4d1": "Move rogue to homebrew-games",
+    "121e4f8614b709fba49a01db204d6ee5268290eb": "Normalize use of MACOS_VERSION",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "2b87e88f3c7d4188e9b765551ac5f9e992b1cd3e": "rogue - fix installation of manpage",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7b1365f6cb93f9dd0582ba7ddf01ff1ec9baa218": "Formula for rogue."
+}

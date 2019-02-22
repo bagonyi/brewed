@@ -1,0 +1,18 @@
+{
+    "b5da4d3d87dcada4014038d69b3ce4e3f5469cda": "mapcrafter: remove checks for old compilers.",
+    "6be252c0995ee93abb918474c9baa39556102944": "mapcrafter: fix component order",
+    "06d08553450cda59c73168a3a113db44bd64d15f": "mapcrafter: update 2.4_3 bottle.",
+    "3b313dd73112d17d794dcfb23caa1cac35206f89": "mapcrafter: update 2.4_3 bottle.",
+    "764cc06963b7e27e788a97da08e0f138086cac9d": "mapcrafter: revision for jpeg-turbo",
+    "62f5de25f8d1aa02f5f3c058125945bd4a686085": "mapcrafter: do not depend on boost C++11",
+    "ed9384663b0ee443143edc99537f001c7e1c6fa1": "mapcrafter: update 2.4_2 bottle.",
+    "90ea966b848ae108e13000eef8339d500046aeb0": "mapcrafter: update 2.4_2 bottle.",
+    "054daf1f7fdaac03f8e10be35c73e9cee65bf360": "mapcrafter: revision for boost",
+    "a03be282af1adee6d8cbedb654a5384bf20624e5": "mapcrafter: update 2.4_1 bottle.",
+    "451de5bc9744851f9a02852111d041743208b8b2": "mapcrafter: revision for boost",
+    "4ce16dad8fb499a9dc9860ce6246ebd020f1549b": "mapcrafter: update 2.4 bottle.",
+    "d7e775fc545bbe4354d9cbbe05c95378cc2f320b": "mapcrafter 2.4",
+    "f1e9998201fdef97609c8aa09f8db246fa238b55": "mapcrafter: update homepage to HTTPS (#11170)",
+    "8925c4603cc95206d4c6477c0c02c3a19b5aacaf": "mapcrafter: update 2.3.1 bottle.",
+    "3c9371e86f345c561aca8f2adb07cb9c6a4a4835": "mapcrafter: import from homebrew/games."
+}

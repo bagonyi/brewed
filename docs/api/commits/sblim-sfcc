@@ -1,0 +1,16 @@
+{
+    "bdcff44610cc494e0cb4299b6b7b2abfb0f155dd": "sblim-sfcc: remove references to pre-Mavericks.",
+    "cf27b15e3d27842530ff7618228b08a40b85cf6d": "sblim-sfcc: update 2.2.8 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "003b613004204ea28a5378828fa853e3bf610bf8": "sblim-sfcc: update 2.2.8 bottle.",
+    "442912c8a6dfca685a091435747e37f3469905e9": "sblim-sfcc: fix test on 10.13",
+    "cec695c509cc02931a31d0917d4dd29240e9dfd8": "sblim-sfcc: update 2.2.8 bottle.",
+    "23a0b9236eb43b66e4f3b0f5d60adc36e0900776": "sblim-sfcc: update 2.2.8 bottle.",
+    "82dbbfb4b1c2138d0ece4fbf68e844fdd8c1c15e": "Update documentation after repository split.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "132ff3b193e70a384772a990f0b5e6f37aaa308f": "Don't use symbol deps for autotools",
+    "f0e8687a11ca636d27ea26506a58d2a0424020f9": "sblim-sfcc: add 2.2.8 bottle.",
+    "95138191fa558a478c78f052df99bffca9cfa262": "wsmancli 2.3.1"
+}

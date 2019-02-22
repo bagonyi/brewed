@@ -1,0 +1,23 @@
+{
+    "264b23deff4681c4473596797050b92266742ddc": "id3v2: update 0.1.12 bottle.",
+    "45e8d9a2c714057088f48696681583554579a4c8": "id3v2: add test",
+    "5ba69915479f340365a5e0ecd59d475939b9dc6c": "id3v2: update 0.1.12 bottle.",
+    "8c960659bb99e39678670aa9a0c6f69dbd647c4f": "id3v2: fix audit --warning",
+    "5e91ddf10dbc1b0bcb5df78bf3c5db7ed90fb7c8": "id3v2: fix audit",
+    "9532a67b3c650b512047c36c0440939ec094651d": "id3v2: update 0.1.12 bottle.",
+    "a6ec89318428629a4116ee35dd59534bbe7fc27f": "id3v2: add 0.1.12 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "6c5a4f68ccfdbd81c84b67b3685067b7a3d49cc6": "id3v2: fix build",
+    "c7aca9ca993b90b1acf975d5da3b7f9e740539b5": "id3v2 0.1.12",
+    "a42871c87978fe575a404328fbfc9e3587939e4d": "id3v2: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "46c4f478082c2897eb7b2988f2b23d26d1adad58": "Fixes Homebrew/homebrew#889",
+    "00548e645b6f97fcb64d908864dd778b7d122b60": "ENV['CXX'] is no longer set, use ENV.cxx",
+    "b0713a8f01b1e3b4f720973c2ef7a293356b84e5": "Use SF gateway url for id3v2",
+    "17cf787a7dd770094ecfdf3c3c81e3743b0f4f4f": "Install manpages to correct location",
+    "0eb3086eb520bc59a4c949c495bc1e02cdfbcb81": "Add formula for id3v2."
+}

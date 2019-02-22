@@ -1,0 +1,10 @@
+{
+    "dc00f1c6b00416e9035080b7fd1de23ffcda03ef": "fstrm: fix dependency order",
+    "bdc8bd382cbad10059a074d5a80ff9102508c026": "fstrm: update 0.4.0 bottle.",
+    "795acc0ff9d6181204236b034b9df52e49947e40": "fstrm: update 0.4.0 bottle.",
+    "d4b21fece22838cfc8f9825a5463ecda73c70d3c": "fstrm 0.4.0",
+    "95abc8658dc9d7fd137c081e4d9bf032ff2520df": "fstrm: update 0.3.2 bottle.",
+    "9bbf69d090296ddd1f52d82fd61a7df069589fe2": "fstrm: fix minor style issues",
+    "9c10b1ae4e40e1255d6810f4a6ce70eedba863ab": "fstrm: add 0.3.2 bottle.",
+    "cf00a73668e4b1a90037212d0cb83df9bb130c2e": "fstrm 0.3.2 (new formula)"
+}

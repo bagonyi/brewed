@@ -1,0 +1,14 @@
+{
+    "23e8508d9b1211caf25bcbd29f62904d73a1cb45": "ktmpl: avoid cargo deprecated syntax warning",
+    "0c34c5c197554d6dc7b2f58badc79c6813faa825": "ktmpl: update 0.7.0 bottle.",
+    "60f5e2feaf56a4239587af65c890f675775f1663": "ktmpl: use `cargo install --prefix`",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "97bae3ae66e03b2e5709d1333ba2c9b54b2d5277": "ktmpl: update 0.7.0 bottle.",
+    "2675ab682d5c7b77f8672ae0125b520ff08975bf": "ktmpl: update 0.7.0 bottle.",
+    "509738cd34ae4b31786362e7e750085d27f4084e": "ktmpl 0.7.0",
+    "6b11bc91cd2e08bcbbee4684fad7cb6d689067dd": "ktmpl: update 0.6.0 bottle.",
+    "c46b7b0fceb6d71616fb2582768613887c258159": "ktmpl 0.6.0",
+    "2ef0e5f6fe6de152d40ab140a23ee2a07f73a578": "ktmpl: add 0.5.0 bottle.",
+    "efa4a49e7f38a4aa741a4e7e424e61eb945171c1": "ktmpl 0.5.0 (new formula)"
+}

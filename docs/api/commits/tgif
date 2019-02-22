@@ -1,0 +1,8 @@
+{
+    "813db89af7b6f964446179de4a813da4a3f856b6": "tgif: update 4.2.5 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "734f937b58bf75aa0f82508f3125e7dbc58e13f7": "tgif: use assert_predicate instead of File.exist?",
+    "e4fd78643cbc1cf07631a0aa2dfd0a5e74c94c7d": "tgif: update 4.2.5 bottle.",
+    "18d22d8adc1b221922db1524768d7f7c6164937d": "tgif: add 4.2.5 bottle.",
+    "b3e5e9d65e7166e58a400ad7e739895f355fd43d": "tgif: import from homebrew/x11."
+}

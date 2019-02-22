@@ -1,0 +1,9 @@
+{
+    "167d0e8deb357b09a0221ef4773c620c5622b9a1": "bastet: update 0.43.2 bottle.",
+    "1c42e9e0e86f56aa7857c1e86370c04f5bac5b6b": "bastet: update 0.43.2 bottle.",
+    "98b59853f992411695978944d27dac227643af89": "bastet: fix for Boost >= 1.65",
+    "db4c46e99b8d4d2787ada06923e7f41ff9e59c89": "bastet: update 0.43.2 bottle.",
+    "a9f6802ca34a8641a76a9bd59ee0275c6d214617": "bastet 0.43.2",
+    "9168f42a17a1589ce67ad6d4c707c206f192a5f0": "bastet: update 0.43.1 bottle.",
+    "7602decfa4b1b8e353578408b9da11acec1ac0c1": "bastet: import from homebrew/games."
+}

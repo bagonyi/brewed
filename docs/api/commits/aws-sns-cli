@@ -1,0 +1,21 @@
+{
+    "0d824b0c75bfe43c6ffcbb2fa2ee911b9b0b0bfc": "aws-sns-cli: fix rubocop 0.65.0 style.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5cf1ddb0da2cbad4d13ada8a9c3e2acc3b228a66": "aws-sns-cli: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b9b6ba3fcf99842442315df26521fe27234c9f2d": "aws-sns-cli: drop AmazonWebServicesFormula",
+    "134cb5d6e4ef816cfda66c1ea1b8138391a0c77a": "aws-sns-cli: fix recent s&r typo in comment",
+    "8650cc091e0b3301e274ae27401abc13d07b0719": "aws-sns-cli: pass strict audit, use https",
+    "f7cfc9c5306591a59e94701edaf366b19744abcb": "aws-sns-cli: fix caveats.",
+    "72916deceba3ef1a24f3df7f9d6c5a0228890eda": "aws-sns-cli: bump version.",
+    "0e7834f199f67e3bf5bc4fc4d8a1585f13ec2501": "aws-sns-cli: fix SHA-1.",
+    "47a8d1acb258c893ef2fb268a9e8ed7208430dd2": "aws-sns-cli: update checksum",
+    "ad7ca4a93cb189c269ab4d995c408be11cf97e8d": "aws-sns-cli 2012-03-31",
+    "767f5207144394c59671885f5c58962ed5ff8617": "aws-sns-cli: don't install 'service' to bin",
+    "bdacd0d86120ae01b7ff893751c8284016402296": "aws-sns-cli: update checksum",
+    "5a9f167ea734e7f96532b5b2cb79b3219065c864": "aws-sns-cli: fix version and checksum",
+    "96966e363c66f22ad667ba787b1108c2f6afcfdc": "amazon simple notification service cli tool"
+}

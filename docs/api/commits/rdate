@@ -1,0 +1,21 @@
+{
+    "18864e2777c341191441e5b234306111946de606": "rdate: update 1.5 bottle.",
+    "5bc72864e97d5197bba399ee319c7fc895d5633b": "rdate: update 1.5 bottle.",
+    "03e652cd65fec1a8e2917e433bb24566d577ab5f": "rdate: update 1.5 bottle.",
+    "4738182207a4b8d77d216680720367599fefc3c7": "rdate: use server with RFC 868 support in the test (#8611)",
+    "44709ebb4e88cae74e09a815b640ef3277e939cd": "rdate: update 1.5 bottle.",
+    "a7c60e4310ab4560ec49c77c3d2fa534fadeaf99": "rdate: use https homepage",
+    "e57714306037a696e3342d5332071d0b989c41f6": "rdate: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4af544b36e9e91f9bb714e940880c5ec1c312c55": "rdate: add 1.5 bottle.",
+    "2d042ae3f954d6180d6f5191c5b794c2fb684ac2": "rdate: test added",
+    "e4daedc615e6ece3b4ac56a96cc1e986a244e199": "rdate 1.5",
+    "709fe5aa4da1db355ba662e5b4ef9f6a47761cdd": "links 2.7",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "31c52a363f213739af25e8f5116fa03c7039106d": "links - fix mandir",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "b562b5e48b3d117e031e24968e652bf1c9a5fb5a": "Links formula.",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

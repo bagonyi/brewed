@@ -1,0 +1,22 @@
+{
+    "43e057bc6f88a65942b82da5ff563045d979a811": "groovysdk 2.5.4 (#34023)",
+    "7ece5465d21b3544d5e0ea9b1b90c9e3788b125b": "groovysdk 2.5.2",
+    "9b8f49a958117e56fdd7973a62ccf40014d0c1b2": "groovysdk 2.5.1 (#30050)",
+    "05ebd6e9b96a6d713451fea237a9072b24da1882": "groovysdk: require Java",
+    "26e7d8af44380bf06e031aa1ba97d1513c78e9af": "groovysdk 2.5.0 (#28558)",
+    "71e3a42a6ddcb2c3f43d954325b2460cc50686ae": "groovysdk 2.4.12",
+    "8e07cc45482c47b94ff422b468f48440b50de886": "groovysdk 2.4.11 (#12993)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dd876e7f42f72da74ffa6b8d9bc8dee6c2caab9a": "groovysdk 2.4.7 (#1786)",
+    "115cd369aa16e31339724a2f55ab77521cf5add5": "groovysdk 2.4.6",
+    "3733c097e3e439b012afce6fdfc223a4d3bd9fff": "groovysdk: conflicts with groovy",
+    "8708206079550d8d1bd17b2b2aa66bbfb646a276": "groovysdk: bottle unneeded",
+    "3de179e22ecfcaab20c4231c9fbb705a06ae0fa1": "Groovy SDK 2.4.5",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "7be9e8714b703f87fc0c731df2d5827997abd4e0": "groovysdk 2.4.4",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "33eee66a6f4d34d1f2bee9363644913a3c36f1a0": "groovysdk 2.4.3",
+    "271355fe18d80479688094a170aeadd454d12eda": "groovy, groovysdk 2.4.0",
+    "342b2b677ccc87776cbe17c0b72d877a41e831bc": "groovysdk 2.3.7 (new formula)"
+}

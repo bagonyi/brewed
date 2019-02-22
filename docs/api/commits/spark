@@ -1,0 +1,12 @@
+{
+    "65f3185e71eb7d6793c292c41a9813d55ffb877f": "spark: use secure homepage",
+    "64667c3ceee46074bf013091b3fe7f433a2fbbd5": "spark: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "d37b9197ee57a927313f1c4aaeaace0a1539b921": "spark: fix sha1",
+    "7e1ab5a594f21b430a2f3479a9ffa67c77411312": "spark: style nits",
+    "799a83c85a19f2e0505fb394d625430e3ab5140b": "spark 1.0.1",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c9e8f2cc7b7ab3016aa2ceedad61bfb075f612a5": "spark 1.0.0"
+}

@@ -1,0 +1,11 @@
+{
+    "65e4ccfc0910d9496834c34976350fa498e75d66": "rbenv-bundler-ruby-version: depend on rbenv instead of :rbenv",
+    "03caedbafa58ad9aae3656b73700fcea973bb469": "rbenv-bundler-ruby-version 1.0.0",
+    "9a40593692194a9a4ec3d2f613f03c4d2e1b7f60": "rbenv-bundler-ruby-version: use new rbenv dependency",
+    "c441313c2df6f99fdb6b5fce41580db6b896f311": "rbenv-bundler-ruby-version 0.3.1",
+    "cd588a9f680e280cb69ee629e46a721302ae9cfe": "rbenv-bundler-ruby-version: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "13fd056b55e0b254cee9c939f8335ff9da45b555": "rbenv-bundler-ruby-version 0.2",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "63b1301ca6597a1346a7713717346b52e551a7b2": "rbenv-bundler-ruby-version: 0.1.0 (new formula)"
+}

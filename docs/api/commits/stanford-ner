@@ -1,0 +1,8 @@
+{
+    "427ee75b6a9d9d4774c2e9d1176273a68589cc2b": "stanford-ner 3.9.1",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "ca18bb7389f72272374350d82822933b9ecd5365": "stanford-ner: url updates",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2e127b877a6aeb858f2df17347ee94b880b90764": "stanford-ner 3.5.2 (new formula)"
+}

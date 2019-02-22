@@ -1,0 +1,23 @@
+{
+    "65ca92e30866c83dde6db94735ee69025b96ca64": "glassfish: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "152d3d306961aa36b88ba22a2392641774039356": "glassfish 5.0 (#19552)",
+    "73d1339498afdfe9db2a672b6a083737148f7d31": "glassfish: clean up install",
+    "33c27e9604ecfbf819619e1ba0b570c74398db0f": "glassfish 4.1.2 (#12108)",
+    "eeb8ba18da03c14244cab2ae5724f19143e23996": "glassfish: bottle unneeded",
+    "84514a879deb41930b1c8a894b50ddaeaf8a0686": "glassfish 4.1.1",
+    "88e2944aca3b31185a20a0e8ea91ddc4d466e1ea": "glassfish: fix URL",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3da8418625d9fdf8bc2c60a10f47ade2dce34580": "glassfish: simplify install",
+    "455eb23ffc9595f061dc76b4c8ccb7a34d9c9945": "glassfish 4.1",
+    "f409b88e4616c497328c50a5ce5d4cd0a84ffd25": "remove explicit skip_clean of libexec",
+    "f7c8f449ac3195bbb672d3efa3f8dbbd12c987d4": "use opt shortcuts",
+    "ff126a0a2def78a4c1986a14c61e65e1bffe47ca": "glassfish 4.0",
+    "f926273ca63435a85a15fef46976e3caab914837": "glassfish 3.1.2.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "aec4faa27f483f5bc4d7c00c592bcf75d05de434": "GlassFish 3.1.2",
+    "e83873a4aec1f45c47bd3a07f12b7bc83abbb85b": "glassfish: use install_symlink",
+    "545a76554973f40e4b944a7c328012233f29c8bf": "GlassFish 3.1.1",
+    "f91b4dfbcc584d4d88b1ab42c354edc52fb12329": "Glassfish 3.1"
+}

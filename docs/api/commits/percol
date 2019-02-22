@@ -1,0 +1,17 @@
+{
+    "89b73136a46f3e292a1590a435528b8897e69972": "percol: update 0.2.1_1 bottle.",
+    "294491b419694e1586312ca8bc9708a6cf30af65": "percol: move to Python 3",
+    "ee0eb142ad1cb5be550025bfebf1cb10f3329964": "percol: update 0.2.1 bottle.",
+    "6484eabacbf45315065e609746d824951ff76973": "percol: depend on python@2",
+    "153cc0c027f43a1f18cb642ef5ebd862e12e319e": "percol: rename python@2 dependency",
+    "7ca0abeae9520857c30a4a426f1960787771d039": "percol: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a500d19e7acd903237b66ce91535d8cba3b17858": "percol: update 0.2.1 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "936ea62b6df37217535c5b885957df55d8b4f9d1": "percol: update 0.2.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "561506fb2f8efb94e0761ba45a891d56281e21d8": "percol: revise test (#3176)",
+    "f87e6540be791463af08011ac5cb07f3cb6181ad": "percol: add 0.2.1 bottle.",
+    "1624538a0f7f579d2f117975dcbc1a70753d5b45": "percol 0.2.1 (new formula)"
+}

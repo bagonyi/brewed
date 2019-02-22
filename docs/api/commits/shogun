@@ -1,0 +1,19 @@
+{
+    "7f34a3d538aba3d2117db64208e0e477d64b4fe9": "shogun: remove checks for old compilers.",
+    "81e73273bca97d778a046c76aae3cdc3bde3e1f6": "shogun: update 6.1.3_3 bottle.",
+    "ce6b2597adbbf5342054ec5a12ae7dd1e3dbb8ef": "shogun: revision for hdf5",
+    "dfe056e417cee44737c2687204c6cd04d8ac81f7": "shogun: fix component order",
+    "c5056a513168907dc4de59b349c9a37b720e5c2c": "shogun: update 6.1.3_2 bottle.",
+    "d2f54a6c71dc958f94f66ec966c67ac92d58ba7a": "shogun: update patch checksum",
+    "94e8d71dbc19dc6bc7aae3902b6da19d9140cf76": "shogun: update 6.1.3_2 bottle.",
+    "b035fac5d6c3626cae422a2e5c93fcc43920a717": "shogun: revision for json-c",
+    "db9790c0b75567ebcaf669f0615e19937f429298": "shogun: update 6.1.3_1 bottle.",
+    "830408ba846446738436971909438f56910bdd62": "shogun: revision for hdf5",
+    "158cb2ab33032652844ac3de2f3763629edb8eba": "shogun: fix build with python@2 (#26870)",
+    "6866f9bf9b0eaee743ffd8b9388c81c46b41aac8": "shogun: depend on python@2",
+    "8bb8d1a8d7fbb7dbfe73ed87d154cd0b51ba6d1b": "shogun: rename python@2 dependency",
+    "ceb9241b0674f4ee5e4acfba31d15604ee4445ae": "shogun: add 6.1.3 bottle.",
+    "50c52c943bc98e60a6a8a5a49d5f041b9457b0a5": "shogun: import from homebrew/science",
+    "ef07ff3ea6a95ba8cccc562122b90b9093b4cd02": "Remove shogun",
+    "34a9933dac61225fc057482abf1eaf0941b887e5": "shogun 3.2.0"
+}

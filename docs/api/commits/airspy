@@ -1,0 +1,17 @@
+{
+    "c75346dba13d63e08091acd8b085e925c4b9114e": "airspy: update github url",
+    "86787713d8ef7a029e9738f245904e9f97f14e8d": "airspy: fix dependency order",
+    "4ee25cc26e15513c6d4aa60f66c943c4cc80c374": "airspy: update 1.0.9 bottle.",
+    "a3ddfa8c8d1517f76c6742521205315b75ebde3b": "airspy: secure url(s)",
+    "ad8f654a3ad95d4250546415b8a5389677fb1445": "airspy: update 1.0.9 bottle.",
+    "7e47c09f678eb15fd22650ac77864cc1939866fc": "airspy: fix checksum",
+    "43a3de6e76cd3df4eb50b9bbfde26250a59de989": "airspy: drop universal",
+    "710d733688006a26032ed5b66de9e847807682e1": "airspy: update 1.0.9 bottle.",
+    "85004e5fbec1a3097198b3c0d6da32cd7695a094": "airspy 1.0.9",
+    "47cc7679adeaf5aaffb9d8403f0b3fe52154bdac": "airspy: update 1.0.8 bottle.",
+    "1e10b58d7b4c2bc8309aef911a7d6f03e9dcfa39": "airspy 1.0.8",
+    "443bc791b84299901450f790c9ae17781820deb8": "airspy: update 1.0.7 bottle.",
+    "df2ced2f3afeeec01272435ab7228ae2924a538c": "airspy 1.0.7",
+    "74c0bb895a7dec4f8020955f4fe03bc6257ded48": "airspy: add 1.0.6 bottle.",
+    "b042489852eb9c9ddb4a6091e88c5d30632a8261": "airspy 1.0.6 (new formula)"
+}

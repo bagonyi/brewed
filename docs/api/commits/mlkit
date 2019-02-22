@@ -1,0 +1,18 @@
+{
+    "c0b67839be66040eec4395a2149febb36d529e07": "mlkit: remove old code.",
+    "c04c16119a3c40bf3bf18acf92ce76a778be9453": "mlkit: update 4.3.15 bottle.",
+    "0635c7c1989ce82ee1df2ba5425404fbc1d5dd1e": "mlkit 4.3.15",
+    "cbb00870278ba1cbfd33fc84ef116e05530ed6bd": "mlkit: update 4.3.12 bottle.",
+    "69873d33dfc873dc121a96769e2607e5d62e42a7": "mlkit 4.3.12",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "14c1713ab578b83f677378d329737b5cd4cf348d": "mlkit: update 4.3.9 bottle.",
+    "d8932fe78285a91aef6c78df4b2257ddb0bc9437": "mlkit: update 4.3.9 bottle.",
+    "f9cabb8b10a3c74747dad265aeeaf463a5c3a895": "mlkit: update 4.3.9 bottle.",
+    "dcf8908cd4e1577801e76087c368fae1a32c4cd2": "mlkit: add 4.3.9 bottle.",
+    "db2f05e8a80340426bc37a9d4d602989097e2026": "mlkit 4.3.9 (new formula)",
+    "00e07575bef1a845419efccc3edc54e7b7c58e3d": "Move mlton, mlkit, urweb to the boneyard.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "68d293e545e0a14be11503d2f471884d9aa5f4bb": "mlkit: remove requirement",
+    "fbc554e1548f4b346854a40854e431e20d5f34d4": "mlkit: fix audit",
+    "3a2b4a4b1378184133d7de735a0a8f39a46958c7": "mlkit 4.3.7"
+}

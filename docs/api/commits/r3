@@ -1,0 +1,19 @@
+{
+    "c9342cab73619e694b4ea028263456fab0187090": "r3: remove options",
+    "dbd32689813042cce8cd6351b73258d15d393d29": "r3: update 1.3.4 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2ee08ee4fdf6f4411c3ae6e26abcb7260a5fae89": "r3: update 1.3.4 bottle.",
+    "3b74f06db7c98e6457ecbbbe7f6739c02d87b9ef": "r3: fix test on 10.13",
+    "e9ea073a92a398f8cd1b441b84787ac6a70d030d": "r3: drop universal",
+    "ed30a7a9dc8005ed9a0e649477f799f07ffc9b72": "r3: update 1.3.4 bottle.",
+    "95d1e66da9b2e9e7a0022e545dbce3dd58ebf2ab": "r3: update 1.3.4 bottle.",
+    "795e2bd2427471a666ed3439ce9bd09931b28e23": "r3 1.3.4",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e3d6bf4c7db483b63ad5faa2ac7a1dde7d95fe2c": "r3: update 1.3.3 bottle.",
+    "a6c5a20a05f66ea78f0259cbe8f2063b5ef79a69": "r3 1.3.3",
+    "2db93cd796a0979956e5bd3a0d072387ac6cc5aa": "r3: add 1.3.2 bottle.",
+    "7368fb8729b033188b429e58c6f4114ab197fe51": "r3 1.3.2",
+    "531ddccbda0931ba70326a87307e03cd809084f1": "New formula: r3"
+}

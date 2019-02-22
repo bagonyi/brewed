@@ -1,0 +1,21 @@
+{
+    "9e6d90273af0b1a4699c86138857ff46c1ac2539": "ffe: update 0.3.8 bottle.",
+    "3340dee6884a52aa6cf4a941e087a1ead4e7226d": "ffe: update 0.3.8 bottle.",
+    "eacac492dd9590038dae54d0081580c9df070f8e": "ffe 0.3.8",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d94b88715b6c6cbe084bfb56c2e453f6763e66a6": "ffe: update 0.3.7-1 bottle.",
+    "2495f193b60b091141177d870118cb262de28143": "ffe: update 0.3.7-1 bottle.",
+    "0313f73a4bdd292d43a70063cd633d609d51c99d": "ffe 0.3.7-1",
+    "835eb6a328eea0ed815db538ebeb91dcf4eabf8f": "ffe: fix audit --warning",
+    "a580579f9aa382c703833be0cf2a10fd925d6af4": "ffe: update 0.3.7 bottle.",
+    "cd448c2b30491dc4eacc83abd589089a87b5d0c4": "ffe 0.3.7",
+    "91f532254acadaffaf4d097c3e8d49bdb1884018": "ffe: update 0.3.6 bottle.",
+    "a74c3c69eb52d0e851b31b5103dc648268590577": "ffe: update 0.3.6 bottle.",
+    "8bbeb4a9f9b5fa5371a6b783f38b4eb0c217b16f": "ffe 0.3.6",
+    "e98035cdb7e845fd5fd9828dd5678570c7a41a37": "ffe: update 0.3.5 bottle.",
+    "d9807cf3e1b9eade73a9eac68da3f27e085d5661": "ffe 0.3.5",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "692fde0dccdd2a8fff6fe559b736ffe6222870d2": "ffe: add 0.3.4 bottle.",
+    "23d5c25089cc3e635960135954793f810ecd9f71": "ffe 0.3.4 (new formula)"
+}

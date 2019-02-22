@@ -1,0 +1,16 @@
+{
+    "ea82d1bd4d2b24e493d72e291803803ff2b70f1c": "hyperfine: update 1.5.0 bottle.",
+    "f861f7b11ad06d92e7cbd7988eff7059fc4471f9": "hyperfine 1.5.0",
+    "a9eff9799e9caba304e11509b83a1735b17d1aba": "hyperfine: update 1.4.0 bottle.",
+    "0a4614fe0b56eb8adcaccc9e679034bac3f432c9": "hyperfine 1.4.0",
+    "82553dcbd6c3ee83c4461eb5e3c6b267ffb5f6e2": "hyperfine: update 1.3.0 bottle.",
+    "b235841f7928c2d8f8959e563090c1795b2f46a9": "hyperfine 1.3.0",
+    "05aacde2b2610312232847bbee033c7dc7d7f451": "hyperfine: avoid cargo deprecated syntax warning",
+    "56e44d6fc40642e9b4dc2dd56e088916882bdfad": "hyperfine: update 1.2.0 bottle.",
+    "81b55cbff7257b91f7e3bbd8a3964a23dc77db60": "hyperfine: update 1.2.0 bottle.",
+    "e56689fc38e53c94f1946795e482246990888e0f": "hyperfine 1.2.0",
+    "6694782ab38ae1e29ad391cda890018c3f6f2e15": "hyperfine: update 1.1.0 bottle.",
+    "c92604bcb540a9a63a319e7e7e9d009db8880a43": "hyperfine 1.1.0",
+    "4325536354c7e4619e986af04e4f14e014ca25e8": "hyperfine: add 1.0.0 bottle.",
+    "b2aafece8429052c764cbffcc9e22fed5ce6828a": "hyperfine 1.0.0 (new formula)"
+}

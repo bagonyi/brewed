@@ -1,0 +1,12 @@
+{
+    "13c40018fa78440732dc63b8ef0dd1a966907783": "brew-pip: add test (#12204)",
+    "e2014aea1fa74bab99aec433f57794c56c3a6865": "Overhaul, simplify and cleanup documentation.",
+    "d311122420f5f523a53d11bb0f94cda322b40155": "brew-pip: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8057e4c46bb42cdd37116ee43da7ffdccec28033": "brew-pip 0.4.1",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7c56c6c581d10ac7254ba835976912fb8ae90876": "brew-pip 0.1.2",
+    "8c3348b17e713f0448f7b96b543e45763d3d6274": "brew-pip 0.1.1"
+}

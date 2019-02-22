@@ -1,0 +1,15 @@
+{
+    "28654508308c96da20a801c2f60e76358e8e7591": "xclip: update 0.13 bottle.",
+    "715bb50c398be948e8a2442ab8dedcf759a25667": "xclip: update 0.13 bottle.",
+    "b560f337379a2512b8e58b9769a9e2ff92c9d712": "xclip 0.13",
+    "0b68bb281bb5c96fa16654197af432f4ae9a583e": "xclip: update 0.12 bottle.",
+    "8b0b3615ae4196888ac7b90818eae510119a0d35": "xclip: add 0.12 bottle.",
+    "fa1f2c21f2975aaa98c269697fb0fd70fd4b1559": "xclip: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "2f9044645db97690548885711691419be0bceba8": "xclip 0.12"
+}

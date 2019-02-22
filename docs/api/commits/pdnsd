@@ -1,0 +1,21 @@
+{
+    "03d9f3a771ccdbc500b09c832108c7e32c436982": "pdnsd: update 1.2.9a-par bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "292f1dd685ea293a3fcd77b300da2277a668b59c": "pdnsd: update 1.2.9a-par bottle.",
+    "23eb00a05c47453cdf3e18a5bbfa038c5a6af37c": "pdnsd: update 1.2.9a-par bottle.",
+    "f3fa23881ebeadd0c1fa691e6f26c6b509385d20": "pdnsd: update 1.2.9a-par bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "44bcf9d8e236623a0141ccf222e5232e06e41d31": "pdnsd: update 1.2.9a-par bottle.",
+    "cb5dcd54284918ceaed62da8ad62aefeb7b8b7b8": "pdnsd: add plist file and caveats",
+    "2b64b6f35785eea897b2100de48b5f6120ab3341": "pdnsd: update 1.2.9a-par bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d620d298773271b735be3c8bc0055236cd0e0dff": "pdnsd: add 1.2.9a-par bottle.",
+    "7bed22cd072ec09a76e8b2f73fa8643ebefb5fbf": "pdnsd: test added",
+    "ed5e89db539f404bee213946779023dbdd4bb5da": "pdnsd 1.2.9a",
+    "b7165942a2c219e3c2dab291dca57133c7208a72": "pdnsd: update url and homepage",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e213726fbae4d287698e08336752514d81c1f2e3": "pdnsd: added --mandir=#{man}, which fixes warning when building formula",
+    "9e2c4e13538727cde3059b231c1ba664d3cc28e5": "Added formula for pdnsd, caching DNS server"
+}

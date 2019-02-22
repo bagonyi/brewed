@@ -1,0 +1,16 @@
+{
+    "c5a139b0016f1a4587edb2444a0f2334a0c98b11": "wiki: update 1.4.0 bottle.",
+    "f43795eab54aba42a925c32ff431799417928516": "wiki: install metafiles",
+    "3d6c40d28879d19db45ce78af48d3908bfb1ce51": "wiki: remove conflict with osxutils",
+    "10ab8c61ff987cb408733a39586258885b87feb8": "wiki: update 1.4.0 bottle.",
+    "6933d891729f388abcb2e8dc49994cf77a06f8ee": "wiki: update 1.4.0 bottle.",
+    "6b906eec10fe14a09c11630f7b4d82c18b4e0a55": "wiki 1.4.0",
+    "16a07baa6a5e3bb2830a1b783dbf6395c4aa06c4": "wiki: update 1.3.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "84eb20da89c45efb7f3ca5d26413002a0986e258": "wiki: update go_resource indentation style",
+    "6dc6fc22556a325bef7d86b458aac456dc4b3b18": "wiki: fix code position (#3652)",
+    "c36145771e5213fc1d2542a34623d36df820755b": "wiki: conflicts with osxutils",
+    "2b5bde71361ba62eb38d41eba44046638ef0f79f": "wiki: add 1.3.0 bottle.",
+    "af1cf0cebdce6067589440d853f044bf356569bc": "wiki 1.3.0 (new formula)"
+}

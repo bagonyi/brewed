@@ -1,0 +1,7 @@
+{
+    "bc9d8abb07747b98fdd10179d47e20f0ce1f87f9": "howard-hinnant-date: remove checks for old compilers.",
+    "86e9cfd295a42095e7965a03f907dd839f468fab": "howard-hinnant-date: update 2.4.1 bottle.",
+    "4f54e215eb4b123b2b80b9a06398f7e26db82cd4": "howard-hinnant-date: fix whitespace (#28222)",
+    "91b50916ab5633a6ee23d9667b734f2cebc7058c": "howard-hinnant-date: add 2.4.1 bottle.",
+    "04d048bb164e75e8e91abb8c1c7aee0b41322c11": "howard-hinnant-date 2.4.1 (new formula)"
+}

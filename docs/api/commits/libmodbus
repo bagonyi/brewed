@@ -1,0 +1,23 @@
+{
+    "5baf9e3e217ee9d903cab3a9f93a55e836591f30": "libmodbus: secure url(s)",
+    "9a4f3ef2f4f8f1b099d09a9b6ec963ed5922912d": "libmodbus: update 3.1.4 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "86d9537e83b2c80ae91ca149a07cb67583efeb79": "libmodbus: update 3.1.4 bottle.",
+    "4cb89933af1c1a9a6744668e1f68dddbb09e2f86": "libmodbus: fix test on 10.13",
+    "9cfe48c21c41e2a625b39a4d3606b72a216b4786": "libmodbus: new mirror (#11699)",
+    "2f2fa498c857423f495370e88abfcde302dc69b2": "libmodbus: update 3.1.4 bottle.",
+    "b833f9e082daa866a43297544a51309365b2594c": "libmodbus: update 3.1.4 bottle.",
+    "b90f5110d8927d3b40fa821a7800c09c839e5678": "libmodbus 3.1.4",
+    "75a2b0dfc6813b13b5dc14bd136c8dec4da78d7c": "libmodbus: add test",
+    "6b0ee80403f1df73ff298c36480c6b3deddda0bd": "libmodbus: update 3.1.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4da18a782ca8a2dffc4dde2f000a2ecd8f9f6e78": "libmodbus: update 3.1.1 bottle.",
+    "0233ec54b04e7e1f74da489c47eeaa30151fc4cc": "libmodbus: general cleanup.",
+    "65308a1508212adc9c85a7495306d5883a5a7050": "libmodbus: add HEAD.",
+    "12dce1f420971b5d76e2af38b19e1b999a5efe9d": "libmodbus: add 3.1.1 bottle.",
+    "ab39ef41acf9db7e4c52a521ea630c606ee26897": "libmodbus 3.1.1",
+    "7e98094e577c44212454939c8baff7c5facd17e5": "libmodbus 3.0.3",
+    "96ec976600bb685925c43701bf7b9384aa7f94d1": "Adding libmodbus."
+}

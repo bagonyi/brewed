@@ -1,0 +1,23 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "0422034358ffdf6adb81a3acf88e58f3ab7c2842": "h2 1.4.197",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5dd9a34ecf8068853f5ccd8272a61551e67b8483": "h2 1.4.196",
+    "21b65d930ce6409348e7bf843cb031b1bace3956": "h2: use https for homepage and stable url",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "d6c7a80c3f4101820dab0531bb7000d1de520218": "h2: fix DOS newlines",
+    "54839ab23f6f893b9b173992aeb724aa6a3ca6ed": "h2: bottle unneeded",
+    "38e488012ad83903aba807c125b70409f09eebba": "h2 1.4.190",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "640ea7a1680899cd8a96b25b5aba7b1b25557644": "h2 1.4.187",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "52040fe81bc383d8396f19c60f95a533e4be053c": "h2 1.4.186",
+    "9ec63332eeaf73befe1fd579bdd0196a59ae22d6": "H2 1.4.181",
+    "b9dfe58ff2e5c6982608f82783e47593b20bccf2": "h2 1.3.176",
+    "248144ec37ce91e94b40727bd88789fdda670897": "h2: fix audit warning.",
+    "f7c8f449ac3195bbb672d3efa3f8dbbd12c987d4": "use opt shortcuts",
+    "28411bfd0711cddcdda37bf778492bd01c5a0a22": "h2 1.3.174"
+}

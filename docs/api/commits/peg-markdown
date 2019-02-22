@@ -1,0 +1,17 @@
+{
+    "c5169b722bbe384e1348aa9d2455dbbc5689e56c": "peg-markdown: remove references to pre-Mavericks.",
+    "99849aa9f9195eed67801db1b4814dbcfe24cd67": "peg-markdown: update 0.4.14 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "0be392eca72fe1ef645cee4ec193a5c680c2b32a": "peg-markdown: update 0.4.14 bottle.",
+    "c86af1a70a7955a84fc7bb468e591425ef7393a3": "peg-markdown: update 0.4.14 bottle.",
+    "e63ca2ac43e34382541d0a8ac1e4961682660e43": "peg-markdown: update 0.4.14 bottle.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a9b1d6552d0f8d191529fc9e5fc606e15e41966e": "peg-markdown: add 0.4.14 bottle.",
+    "0954d16328359cd7fa2105709e120a98abe66a82": "peg-markdown: test added",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "76e760c591019e4d3426b13fec59f469cf38bacb": "peg-markdown 0.4.14",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2c3b868ca0a996689edae6286ef2a7ea4ab142c4": "Use HTTPS for GitHub HEAD clones",
+    "c044467cd71e63d3561dea7a0d35069ed805c1ff": "New Formula: peg-markdown"
+}

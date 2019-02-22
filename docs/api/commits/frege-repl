@@ -1,0 +1,7 @@
+{
+    "eee5ac20d59ef1adb109c1585678fc65b44a9b47": "frege-repl: update sha256 (#12714)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "fa0debe009a58123d525b84ddb2fac576df87b3f": "frege-repl: bottle unneeded.",
+    "e398939a41ccce1101124b384a934227fbd774d6": "frege-repl 1.4-SNAPSHOT (new formula)"
+}

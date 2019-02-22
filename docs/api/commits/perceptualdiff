@@ -1,0 +1,15 @@
+{
+    "0bc2b32ba340e0c86a98750c75afde4c4d678546": "perceptualdiff: update 1.1.1 bottle.",
+    "2319e2360047414fe5d41426ad476f856078f6f6": "perceptualdiff: update 1.1.1 bottle.",
+    "76eef3991d6caaef13b11c4d7c716939971b22f4": "perceptualdiff: fix audit --warning",
+    "a2ec87467f0787cfe70c2fc42061d31db6151d52": "perceptualdiff: update 1.1.1 bottle.",
+    "446b6590482646a639bb62053acf03247cfb9326": "perceptualdiff: add 1.1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "a0cf8f162d833d0ef0081291d0a1b9ea5b3855bd": "perceptualdiff: use sha1",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "7c5720e36f5d3e00f6a0ae5e5fac7b9a0e161815": "Put source path last in cmake args",
+    "dc114fba49bd976fa621610fffcc6808c29911cc": "Fix some build-time deps",
+    "cc94ba90186e65fdfa113d99ecf708f471648024": "Added formula for Perceptual Image Diff (perceptualdiff)."
+}

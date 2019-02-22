@@ -1,0 +1,8 @@
+{
+    "282de6c7a1d4d5fd463e07a506e4d06367b0e3f1": "v 1.1",
+    "5bb928b36a50f4fb250d94649dc18a89bcf18443": "v: fix description",
+    "6e0fa56a332af7ccbc6d9ec4d564e9fb54f65ae7": "v: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "befe64a4096ef820a53b61c739b502ea2918bc5d": "v: add test and modernize",
+    "e9242e625e9e6395317975847108c20328ddc19d": "v 1.0"
+}

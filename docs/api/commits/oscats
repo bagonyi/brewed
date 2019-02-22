@@ -1,0 +1,22 @@
+{
+    "258b20515474a5b8d62e6d92634d33613c1c7253": "oscats: remove options",
+    "fe8a934d42d8ddd6ea7736229ec6bce682e3b101": "oscats: update 0.6_2 bottle.",
+    "69441cd2e30264b8eaf6a0d47e851800ec585682": "oscats: rename python@2 optional dependency",
+    "cae0dc2caa27b6c604967b65acb5fc62204848b9": "oscats: depend on python instead of :python",
+    "14669cfd39090f37d67afd8f864da376525374fa": "oscats: update 0.6_2 bottle.",
+    "f7d9d063729b0b5455f374d10ebab5051ef4e9b0": "oscats: update 0.6_2 bottle.",
+    "591ca8589a039f62ff27aa3f9c869675c6664c77": "oscats: revision for gsl",
+    "48a19ea209129359817c00267c256cf26775b600": "oscats: update 0.6_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "85505a96e273761bc764d127e19c264bd73c89ae": "oscats: update 0.6_1 bottle.",
+    "76e1323ff934c756e274f3d544d28ff51c58e61c": "oscats: revision for gsl",
+    "6f7f5973ddadc9a66c10d1b0cac0a305fdb5f243": "oscats: migrate to archive URL/homepage",
+    "a10d3efafbb64fd8f34820222b6952fb3246e268": "oscats: add 0.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "f6e80bdea25a44c9ce1f64f4577c9fbe93013661": "Python 2.x and 3.x support",
+    "230613bbac35dd7468914f1ee08e81299e58e98d": "oscats: depends on pkg-config",
+    "f881c6cb4a67ad3006f68dbfa625ce31336c4d6e": "oscats 0.6"
+}

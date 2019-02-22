@@ -1,0 +1,16 @@
+{
+    "f2f6f6486940f72b91216669e9ad09ac2f2c0989": "moe: update 1.9 bottle.",
+    "d948bb2513396339f713a2d799039aa472883b8a": "moe: secure url(s)",
+    "95a46de976317f780b747433f13a2f66215a154e": "moe: update 1.9 bottle.",
+    "21108e52850dbadce038f962e1bb864cd3c462e2": "moe: fix for Xcode 9",
+    "f54866b37b3955e17cc73f03a2fcd32ae2c5c1e4": "moe: update 1.9 bottle.",
+    "ce741f1808cdd5ad52c1f8165b7e3be980eef0cd": "moe 1.9",
+    "9b4fb23b8e1b2e404fcc31676bf88eaac35761dd": "moe: swap GNU url and mirror.",
+    "078f8cf0b0a0ffcc35d710800a7c9f4e310ae886": "moe: update 1.8 bottle.",
+    "ac8634f0c6066c3a32d50255ce040a436af539f9": "urls: update ftpmirror to use https",
+    "1869ce0720fa6e40cd9eb57b2eeb21a20c3ea530": "moe: update 1.8 bottle.",
+    "e9c286950301ee94c702583b8bcff272ad202098": "moe 1.8",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8f5b7724f692f71d74c2c977e3d94d120cfc82a7": "moe: add 1.7 bottle.",
+    "b1e8e331e45680c3a1a14b1513176159fa38441d": "moe 1.7 (new formula)"
+}

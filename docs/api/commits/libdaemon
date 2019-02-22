@@ -1,0 +1,14 @@
+{
+    "b539f88781d0cb8743084be4f0d122cb869c5516": "libdaemon: update 0.14 bottle.",
+    "0b5468a84bfdd3f6f04b001d052656271c2b57ca": "libdaemon: update 0.14 bottle.",
+    "6c35e1f0cb2edce2ebada5eb2157f43cd8cecba2": "libdaemon: update 0.14 bottle.",
+    "0cd8b7e69980a8833612199e829cb5c893624322": "libdaemon: update 0.14 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "379b957f198958e7cb22c994852e648c071a53bd": "libdaemon: add 0.14 bottle.",
+    "ebadf8df30e0c0611f728eab44117ecc443762ef": "libdaemon: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "61c1e32cef453b5634097b949d01ea2de746327a": "New formula libdaemon"
+}

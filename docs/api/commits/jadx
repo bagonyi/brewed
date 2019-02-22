@@ -1,0 +1,10 @@
+{
+    "4eefaf70709f7e432327fe61268e8a576b7bd37c": "jadx: fix dependency order",
+    "70c96237bc53e5578cdba0bbf2043bcb611bb4fd": "jadx 0.8.0",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "c102c3eb7491340ca8e43df7a1b543b39a524831": "jadx 0.7.1 (#25760)",
+    "fe206495bc95120344ff5dc78c1de693c57d142c": "jadx 0.6.1",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "0b9c3e8fc2f1a6e9d5ccb447c268609a296af33b": "jadx 0.6.0 (new formula) (#1515)"
+}

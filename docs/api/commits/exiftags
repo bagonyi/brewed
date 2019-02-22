@@ -1,0 +1,18 @@
+{
+    "fe63f6b237ba63ed9f637f85cad5502a5c683d2d": "exiftags: remove references to pre-Mavericks.",
+    "4150fc78e8688a47f8f6640c92e6e49c94c67ae7": "exiftags: update 1.01 bottle.",
+    "2e9e1cb328545f429ac122c64026a5de45311557": "exiftags: update 1.01 bottle.",
+    "65263d06cda77c898e3668033d32e871007bf6dc": "exiftags: fix test",
+    "ffca994c0c76ef83cb5803ea834748f49b9fa767": "exiftags: update 1.01 bottle.",
+    "d98f2f7aebbb4e94b72ac4f88d3145c8cf601abb": "exiftags: use secure urls",
+    "3c5c6420b8cefd8688678c4e784d5a1121508eeb": "exiftags: update 1.01 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f52f2c34ad83cd66c6361bfba4454a1f8bc76735": "exiftags: add 1.01 bottle.",
+    "c4a028ee45fbb1e2b16f1bdc067e19f6ecdd0aa6": "exiftags: modernize, test added",
+    "6557e3a98b3d61044c8cc4aaee83cc7e2b05a462": "exiftags: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dcb3d7c2877006f1fcca10e4d0c40c317ca035df": "New formula: exiftags"
+}

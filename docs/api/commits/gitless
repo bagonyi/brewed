@@ -1,0 +1,23 @@
+{
+    "b93ea61eb3fadd77afd851a61fe9c3456c315b3c": "gitless: update 0.8.6_2 bottle.",
+    "d2d096385961a560303b3a87a346506a3a8e981a": "gitless: move to Python 3",
+    "47a565c6cad4a05bbf2cbf85ed19e90eb047484d": "gitless: secure url(s)",
+    "b7ab8b88ef668cec9263fce585904bcfc1b531c1": "gitless: fix dependency order",
+    "5d14f4d5625f9170b105378c59e85bd909ccb836": "gitless: update 0.8.6_1 bottle.",
+    "35e1abdaa159d8105afeb99ddfc9e39dfb09e743": "gitless: depend on python@2",
+    "69847577243c186db61aaf8598162afef3c9d437": "gitless: update 0.8.6_1 bottle.",
+    "9a091379f8e0b46c681111e831996ccf67cc8e35": "gitless: revision for libgit2",
+    "9491a32b0a4f6819010cb1bbf52f813b3988c5d9": "gitless: rename python@2 dependency",
+    "86f6c8c220fdb50762ee33dac3161e2c702be8e2": "gitless: update 0.8.6 bottle.",
+    "de90809329b62801080c2f35d00ac5ea7b92623d": "gitless 0.8.6",
+    "b3bec78451841362fe17d4ea411a21aec1565ddf": "gitless: depend on python instead of :python",
+    "9f0be88733389ef2eb0330ceec77096fd42fc538": "gitless: update 0.8.5_2 bottle.",
+    "b011bfa6e96e9418327bb6fd672e2fc20eda1fc5": "gitless: update 0.8.5_2 bottle.",
+    "c26ced156d2225149e2da227c4938839bc5104b2": "gitless: revision for libgit2",
+    "f209ed83e262849d3e42717b3df81d3bad08c4cc": "gitless: update 0.8.5_1 bottle.",
+    "d672f34a5129249ac0298a5af931f9ff62c1abfd": "gitless: revison for libgit2",
+    "7b8ec0999a40f42bded8739d7808144c00067987": "gitless: update 0.8.5 bottle.",
+    "20eb16a708e76dd9576c29785fc184dcc7be2d9f": "gitless 0.8.5",
+    "f72ecddf03f68151d7794f405276cec561b29727": "gitless: add 0.8.4 bottle.",
+    "df1098dd90a0ef40c9056765decb8ff7078e6a03": "gitless 0.8.4 (new formula)"
+}

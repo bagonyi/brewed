@@ -1,0 +1,19 @@
+{
+    "3c65d7f2535b246b27432096111067991dfd26c3": "pngpaste: use consistent :xcode version format.",
+    "7bc2465b6003ea6649c7654822b0ac4070683eea": "pngpaste: fix dependency order",
+    "90dd6ea4d2d36527d676aa874f1c81f159244d7b": "pngpaste: update 0.2.2 bottle.",
+    "b6f4ba47fa50db0178327ed74ec674778c120f34": "pngpaste: use assert_predicate instead of File.exist?",
+    "c3fe596b14fbf3864cac15fc87570a626eb5d3c7": "pngpaste: update 0.2.2 bottle.",
+    "c065521066f737eee433274c6035d831dd2d34ab": "pngpaste: update 0.2.2 bottle.",
+    "f0816f73a5a09236452b80527bef581fde235066": "pngpaste 0.2.2",
+    "696a7b0112678b333a4517dc6edb78b5ad4c4755": "pngpaste: update 0.2.1 bottle.",
+    "25d59c6a65d7344c7aab2f8809e005bfa2463d95": "pngpaste: update 0.2.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f88561ced2b2e1e9d35741783ea835ac73dd719c": "pngpaste: add 0.2.1 bottle.",
+    "02c8ebee4e9009bf6522baf325f80030182e16fa": "pngpaste: add test",
+    "e07abc66bfca626d431c68663ef4db76e41eeac9": "pngpaste 0.2.1",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "b6c2b7cc31d3fa12923bbe581c4f6a6b1f7a583c": "pngpaste 1.0.1"
+}

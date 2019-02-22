@@ -1,0 +1,15 @@
+{
+    "cde3120670d730a61211316fac35fbce90757ecb": "vncsnapshot: update 1.2a_1 bottle.",
+    "95f46426a384b6ed48a6ca33454d30311064dbc2": "vncsnapshot: update 1.2a_1 bottle.",
+    "c2ba7ef0aa40942ad64fe475fd55a8a5dbf96433": "vncsnapshot: update 1.2a_1 bottle.",
+    "a63ae1dbe80f7f20007eab2f9256886c448b3095": "vncsnapshot: revision for jpeg",
+    "b8d462e0e4d63776c460d0c8cb523062057b4e9c": "vncsnapshot: update 1.2a bottle.",
+    "81a388329079f64936f374ef0732fd25dcf6ee3a": "Fix 'inreplace ... do' single-substitution errors (#4022)",
+    "ebcca20613c79ee233dc91a3431c4a86bc7d5015": "vncsnapshot: add 1.2a bottle.",
+    "8e01a396d66c292ea016a3c66e165aae905b3c05": "vncsnapshot: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "00802387de639ef5d29471de94ddd647efeabba1": "vncsnapshot: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "6d7d0362eaa9d22ca4aa630575ef45a2579a1d68": "vncsnapshot 1.2a"
+}

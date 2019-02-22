@@ -1,0 +1,13 @@
+{
+    "da12f6aff8e404c64522ea6f7145e0f9af81e85f": "apache-forrest: update 0.9 bottle.",
+    "ac2c89ac2a52ec26577349cc5698a873df01cedd": "apache-forrest: update 0.9 bottle.",
+    "4827a28afbbb5ea862de78296e87bcb19932e800": "apache-forrest: update 0.9 bottle.",
+    "2b0c6601a7662781420932f874c87aed183f7f12": "apache-forrest: add 0.9 bottle.",
+    "9090de4e51edc0920001597a43f295c4df02fe66": "apache-forrest: add Java dep, audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f409b88e4616c497328c50a5ce5d4cd0a84ffd25": "remove explicit skip_clean of libexec",
+    "9ca43174c8b23a4a5979984f19f46e463400548c": "Pass arguments directly to skip_clean",
+    "14bdb15859c973958ee3bff5020b03cb1e9b08f6": "apache-forrest: add `forrest` alias.",
+    "af4fe3333ac6fa495abdcad706301e0529cf3b2c": "apache-forrest 0.9 (new formula)"
+}

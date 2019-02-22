@@ -1,0 +1,22 @@
+{
+    "6952565e9ab2fa240fd1367fc244f488878982c9": "mercury: remove options",
+    "88cbe373f2be144924fa27ed77062f0d91e0d639": "mercury: update 14.01.1_1 bottle.",
+    "bfc1ab14d2b180e7f353e471f31f7ce23f5afc5f": "mercury: use “squiggly” heredocs.",
+    "96a5d6caf2748ed50dc4d9eafb7b51603e2b3a1d": "mercury: use assert_predicate instead of File.exist?",
+    "7576e34d97053eb7ba7ec072e00651dc620e96d4": "mercury: update 14.01.1_1 bottle.",
+    "8737640f47ef4215e7e24eab48e127391a4d7c8d": "mercury: hwloc migrated to core",
+    "19527ef9fe52f45315e94d6c0643d498400948b2": "mercury: update 14.01.1_1 bottle.",
+    "c753274ce7a744e889f5d4dee42ac8ea4660c2cd": "mercury: use secure url",
+    "4493e887c0ace2c3b4006571f7615a3563662dbe": "mercury: update 14.01.1_1 bottle.",
+    "25f1370e31bcf2ef991d35a0c065c86b00e14229": "mercury: trigger CI",
+    "ba151211f36fe1e1f0d9c021128db3d29676b591": "mercury: use https homepage",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "051590e4426cf9ca45f9ada779f82dc2f2fd0d20": "mercury: update 14.01.1 bottle.",
+    "d577bac0efe10c7f1eea5ea4819ac23ac86a9e36": "mercury 14.01.1",
+    "0e4219d2d6ea68a976007da2d1638ec765aabab5": "mercury: update 14.01 bottle.",
+    "c8b056ee49af94e827eb47c7a54d2717c365e7d2": "mercury: Don't enable the .NET backend when building with mono.",
+    "cb3b7d87ba141e86bf20597d15059f856a648726": "mercury: update 14.01 bottle.",
+    "a4c842c1f8d1207f04d60bc354e4fb61de645a05": "mercury 14.01"
+}

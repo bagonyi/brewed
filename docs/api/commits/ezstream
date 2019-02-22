@@ -1,0 +1,18 @@
+{
+    "a2427f60a6dba7b915edd6987347b062e18ea2d0": "ezstream: fix dependency order",
+    "f1622c0454f21e54af56a61bab8285b8653a250a": "ezstream: update 0.6.0 bottle.",
+    "231daf4c7705f7d5e74bf6c9631c70aea90ce0b1": "ezstream: secure url(s)",
+    "caca0c1003f0e05caac2b5339a68c76e73e90095": "ezstream: update 0.6.0 bottle.",
+    "8f28899897c7bb216f8be7fe6c13dbc98380bef5": "ezstream: secure url(s)",
+    "e53adb11f881c9df2efd7118dd3423374f3701ca": "ezstream: update 0.6.0 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "a4e4e5513070e58418cdf88cd2767ac8a393e22b": "ezstream: update 0.6.0 bottle.",
+    "fbe33c5e3d66f2a7105403244f149d1cc59e7b88": "ezstream: fix test",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7f5deab6f9362494f6483f2b7cc3b548b2cd1448": "ezstream: add 0.6.0 bottle.",
+    "940255f28894f62e5eef12105c82c924b9f669d9": "ezstream 0.6.0",
+    "8e0e3857719bc586c301ac9af5a85ab7b50c3181": "ezstream: add pkg-config dep",
+    "a7a0035aca1bb7ff6e0efe21ad4e2a62c205db12": "ezstream: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7fdeffae676fe5acf5e521c7836f22ed4804c088": "ezstream 0.5.6"
+}

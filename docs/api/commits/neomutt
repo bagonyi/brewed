@@ -1,0 +1,18 @@
+{
+    "a928ac0fcb6a5a2fbdd07c26041c60c4459a196b": "neomutt: update 20180716 bottle.",
+    "12c08b2cab9b4b6945f9af58587f613a4115862a": "neomutt: update 20180716 bottle.",
+    "77b90f131300259d2a931ac35264fc7d3a8bf264": "neomutt 20180716",
+    "bc4fcac8246a70795f0613973ad3c1ad6bd78de5": "neomutt: update 20180622 bottle.",
+    "4a9feb1f86e44de25a7c4b329445635ecdb2547b": "neomutt 20180622",
+    "06af37ce8981ba3c51404fbc4542dd9949b205fd": "neomutt: update 20180512_1 bottle.",
+    "6beeaaa6c7a5d092fbdf9d94f5473e8e56999718": "neomutt: revision for libidn",
+    "b20629ccd5b3d4359d748732cf27274854b4dd42": "neomutt: update 20180512 bottle.",
+    "d3274e17f44bb77c73d909a8e50d95692ca08c62": "neomutt 20180512",
+    "d554af2f315f6135758f187ccef8f24890142787": "neomutt: fix homepage (#27771)",
+    "15e717ba069f94cffe5f093232e36f54970a540e": "neomutt: update 20180323 bottle.",
+    "198d2a5073677b65dd628fe136cb18afeb3f87f6": "neomutt 20180323",
+    "5e3be1edd8812797b05340701444acec7a9021c4": "neomutt: update 20180223_1 bottle.",
+    "85c7c88750c14855c6cebda427b83adfffa489e5": "neomutt: revision to fix install receipt",
+    "3b197c7d8667f59e4373343133cb16dd2cec483a": "neomutt: add 20180223 bottle.",
+    "b10917a3702cacc37af25d9bb2519df63a2d266a": "neomutt 20180223 (new formula)"
+}

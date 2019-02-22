@@ -1,0 +1,12 @@
+{
+    "bd6c531824e0ca1fdf831d0a0a6551a0803aaef7": "tcpstat: update 0.1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "32e15c2d8c46423050cfdf29f71407f50286abed": "tcpstat: update 0.1 bottle.",
+    "d5d5622192c7a12dd3710dc33bc20d592f0652e2": "tcpstat: update 0.1 bottle.",
+    "0edb859ac1a4ebb3f0aede4089319017dd28678d": "tcpstat: add 0.1 bottle.",
+    "59716f57aba6b9d64ea8586985385a54949f9cce": "tcpstat 0.1 (import from head-only)",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "94b683588c11cadb99d69f9669fe8d6aff02f2c2": "added tcpstat"
+}

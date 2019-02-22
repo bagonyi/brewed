@@ -1,0 +1,15 @@
+{
+    "d922ab4b1616b381d75b6358cd53774cb4fad2c4": "fdk-aac-encoder: update 1.0.0_1 bottle.",
+    "499b27d0a8af4812470ae02bb9ec2e4bbb388890": "fdk-aac-encoder: revision for fdk-aac",
+    "bf7b9dace7b5ee4e0022cb81c6c2018c07266ed7": "fdk-aac-encoder: update 1.0.0 bottle.",
+    "288d23c5623cf0497bff5695ac8805283f24439b": "fdk-aac-encoder 1.0.0",
+    "4adba9830e7fe50ba7ee6d7b7e74847a49434313": "fdk-aac-encoder: update 0.6.3 bottle.",
+    "7f1d77d041b11b17334a129aaaa1885428eb7741": "fdk-aac-encoder: update 0.6.3 bottle.",
+    "ab7dae0b19e9e8e3d21232a77a56b34a35879e60": "fdk-aac-encoder: fix rubocop warnings.",
+    "58f4e78e9f55dd12aec6b4a283a939fdd3d80194": "fdk-aac-encoder: update 0.6.3 bottle.",
+    "d356600d0000107149470b27253d1e76689e7b0c": "fdk-aac-encoder: update 0.6.3 bottle.",
+    "6b88bb07438fe8092d4e01c65460a394a324203d": "fdk-aac-encoder 0.6.3",
+    "83bda5135399c74839e628177d8f3de2128ebd6e": "fdk-aac-encoder: update 0.6.2 bottle.",
+    "e9fe59479f428d896668e9a43066f27908ffe8a1": "fdk-aac-encoder: add 0.6.2 bottle.",
+    "77b3c82974c62bab65e21663b2f189844595f276": "fdk-aac-encoder 0.6.2 (new formula)"
+}

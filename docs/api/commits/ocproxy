@@ -1,0 +1,12 @@
+{
+    "90ea8b65f111bba79c786e59aaaf0eef7e9e7c53": "ocproxy: update 1.60 bottle.",
+    "df908a6ad8b253b7f568ea9f54b6a12b5a115b87": "ocproxy: update 1.60 bottle.",
+    "ecb032e570758c4476e39b8e544b29565cbacad5": "ocproxy: update 1.60 bottle.",
+    "bbb5c402cd5952598a14985a3ace801428e24a31": "ocproxy 1.60",
+    "7f6857e1f8d05b57f21f7d7779117ad896fae24b": "ocproxy: fix audit",
+    "3b9b3a1eced52cca174b3dad9bd877f9db16cdb3": "ocproxy: update 1.50_1 bottle.",
+    "9acb3c5922180b9783be1c8c7c192474a54bd708": "ocproxy: revision for libevent",
+    "53ae6876d39cc049005372ef8ccb19fee230443c": "ocproxy: update 1.50 bottle.",
+    "674e9a49f7e533357f3bae741fb8d0f36055127f": "ocproxy: add 1.50 bottle.",
+    "ba0519e9ab587697785503491bb04dc1eb89abaa": "ocproxy 1.50 (new formula)"
+}

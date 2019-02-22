@@ -1,0 +1,16 @@
+{
+    "e0b8814d49373cf811976f9282c81e4289c9fda4": "openhmd: update 0.2.0 bottle.",
+    "17111b2d6421c2863163f2b8484f5fb8fcc44021": "openhmd: update 0.2.0 bottle.",
+    "757477cd4bdde0d10f34969dd520490f4c235ba5": "openhmd: update 0.2.0 bottle.",
+    "35ce640744b41c9ca39a6d4b77dfcff965151826": "openhmd 0.2.0",
+    "1575a50cda22f9deabf53f7cc1612d45b8107928": "openhmd: update 0.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9778b533f8a7e83d0a65c3976feeacfe793557e2": "openhmd: update 0.1.0 bottle.",
+    "2b09d5e2f5bf76ec65c3154570ff7996d12b7f00": "openhmd: missing conflicts_with added",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e66e3c83b4e9a81a0d3cf76c4d127364d11678ce": "openhmd: hidapi is a runtime dependency.",
+    "e73912b748f759740ce95d5d871b678e1bfea9ec": "openhmd: add 0.1.0 bottle.",
+    "95c8f08e5d19f373e9d81720552234659db1decc": "openhmd 0.1.0 (new formula)"
+}

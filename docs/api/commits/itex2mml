@@ -1,0 +1,20 @@
+{
+    "add5e89ff5bff6a97aa4c7f6e29f987e6bc95444": "itex2mml: update 1.5.7 bottle.",
+    "b8d7b803f0a0e03b2281ec8a4f4b2569b732f814": "itex2mml: update 1.5.7 bottle.",
+    "c559caf4553beb54b1bf0260de5c4c5e7739addf": "itex2mml 1.5.7",
+    "caf6fec51e287dd8ea200c64dbcfe64e3ff44990": "itex2mml: update 1.5.6 bottle.",
+    "f5eee6d483abd88da1fae22193d2f085b4621e37": "itex2mml: update 1.5.6 bottle.",
+    "3c9a8920192c0d08c46d8db594a70d8982439f69": "itex2mml 1.5.6",
+    "22601eea020ae056cad841b844bf07633a81405b": "itex2mml: update 1.5.1 bottle.",
+    "5300668e0dedaa31c58c3ee6425d1f4cd2e703df": "itex2mml: add 1.5.1 bottle.",
+    "6ee9bec6b42f730a59f83874a8f73b627a36eab5": "itex2mml: use https homepage",
+    "76d7f34a5294624751efd777f703965b852c345a": "itex2mml: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0d76eb91b4833c15c1ceb46316017e054bc6ed60": "itexToMML 1.5.1",
+    "f3dd0e3c07391e1b8164b64a9138eb17fd9fd7e7": "itexToMML 1.5.0",
+    "8a372eb01d6561012ba7256005e31460f9e84dec": "itexToMML 1.4.11",
+    "65293480b97ce7ee15c32b932263a253320b4715": "itex2mml: fix test",
+    "5da22d0623340a289b0d601e148d20da54e71220": "itex2mml 1.4.10",
+    "28ed845442e8721b9f56eaf04cd2b9c75167f687": "itex2MML 1.4.9"
+}

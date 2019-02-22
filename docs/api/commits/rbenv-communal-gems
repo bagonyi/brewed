@@ -1,0 +1,9 @@
+{
+    "4b45a6f5adb60f7b3f1cb3d167a729ec744fe381": "rbenv-communal-gems: depend on rbenv instead of :rbenv",
+    "495afbe1ab0eb19c2d47f7d6fc23473245af1aa6": "rbenv-communal-gems: use new rbenv dependency",
+    "f2567b11c214cad4d5f0f6fa1af736dfa20c26b5": "rbenv-communal-gems: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "8188ed5f118e92fc908b6ef0c21ab8c944313e47": "rbenv-communal-gems 1.0.1 (new formula)"
+}

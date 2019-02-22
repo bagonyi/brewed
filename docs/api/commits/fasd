@@ -1,0 +1,14 @@
+{
+    "e10f15cbb0418ed3f2fc709f324ad16e3ff87ade": "fasd: Add HEAD version (#4815)",
+    "f3f980ca3ef6a98a1020ea5db3749c401a670e3f": "fasd: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a6781aea8c6c426e701b9c4996b5a9198a889ea1": "fasd: test added",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "7e50336e63d946a12e44324085572e1fd63ca475": "Fasd 1.0.1",
+    "5bea6d3d9bd17f3f3def6a1937c9dea44db86bf8": "Fasd 1.0.0",
+    "61773b95cfc58c84d727a7812ea2aca525686896": "Fasd 0.7.1",
+    "0d8be14d304f0b8ab3ea76c0971f2f06cbcf9151": "Fasd 0.7.0",
+    "c7afd51624764ba118dff305f72d16d061569bb1": "fasd 0.5.5",
+    "e110721ca11fe6afd2de36426c578f2f5ebbeae4": "Fasd 0.5.4",
+    "377840b3df930802b19e00b826d64ddc6240ebf3": "fasd 0.5.3"
+}

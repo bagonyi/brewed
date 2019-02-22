@@ -1,0 +1,8 @@
+{
+    "1d5d814e644d14ebce6f21f4d47bb976c52c45d2": "distribution 1.3",
+    "c606e6855d366a7309259149432674ec5d619c3e": "distribution 1.2.2",
+    "eb50733168601e5fc2b2023d00989eed0a5a1fdb": "distribution: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a120374ee254c3a1976225bdd1b44f877be79a2a": "distribution 1.2.1 (new formula)"
+}

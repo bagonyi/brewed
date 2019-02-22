@@ -1,0 +1,17 @@
+{
+    "9bc5eb1e9b023e561a2dd17af3d2e05a90633552": "funcoeszz: secure url(s)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "049f6101e9d9452e57ca026ca1376f9ab85b3b4f": "funcoeszz: bottle unneeded",
+    "a88aeb188f775eb60ab5dd26fb8fc8c240fdd4c3": "funcoeszz 15.5",
+    "bc778ef0f569cd16b432e6a0f3c6cd4e01ea61f1": "funcoeszz: require newer bash",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0af14aa5da86f8763692b6abe7fe845e2f727490": "funcoeszz: fix caveats to work correctly",
+    "4746ecf223436c489b2a985cd6163523f4bf3678": "funcoeszz: remove version from script file name",
+    "0fc7713b5f8756b321962701330e2e07828ec3d9": "funcoeszz: update homepage",
+    "79651caaf48d284f995d6321736b7da1468d8704": "funcoeszz 13.2",
+    "2a1c4e34a21fea05cf86f602edf3ebcbe8ae7243": "caveat and other cleanups",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "713c51e75388c73eb481ec93d1852e9b45ed3e32": "funcoeszz 10.12"
+}

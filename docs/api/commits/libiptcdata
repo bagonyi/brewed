@@ -1,0 +1,21 @@
+{
+    "b8354bf437dd19625887032e073c26f484b84300": "libiptcdata: remove references to pre-Mavericks.",
+    "309502c8a8375fb41a103ca55342a003ad4c078d": "libiptcdata: update 1.0.4 bottle.",
+    "8f75554f519f4bab96bb1373a9128457e493a06b": "libiptcdata: update 1.0.4 bottle.",
+    "ddff7ad99b558045c40467599df04bf61f6dc9b7": "libiptcdata: fix audit --warning",
+    "b38937a1c66d35850d218cfd96f5a8a96b6a8c3d": "libiptcdata: update 1.0.4 bottle.",
+    "05189f8e6e72bf24f460cfc77d4cb8d2fedf41e1": "libiptcdata: update 1.0.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "24be37b24d5f6b7dbac1300f099ba05e894e1a49": "libiptcdata: update 1.0.4 bottle.",
+    "1788cc7a28b7b5a27322de0b5f6f927186b2f324": "libiptcdata: add 1.0.4 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "856ec7a077500dcb2053fbeb5c63a89fc0f52791": "libiptcdata: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0cfb74692f5910741c936c902e3b23f7e4f796cd": "Remove spurious libiconv dependencies",
+    "db7d9467ff35f56f34fd13a8d51a3a2a4d8f2055": "libiptcdata: remove unused configure switch",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d1ec0fa3ace14d95eec5262a2c3cdee6dafdf4b7": "Added libiptcdata formula."
+}

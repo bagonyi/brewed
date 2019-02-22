@@ -1,0 +1,15 @@
+{
+    "1a06ebbea5448eb6db37eebd651b06d0baee94a8": "gost: update 1.2.0 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "6c14bb6eeef72f7b2edba310c11ee90b3274b621": "gost: update 1.2.0 bottle.",
+    "78ce0c8783c0fe0a0b2ee1f5f42b6cffafa706ac": "gost: update 1.2.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5cc90517ba7f4e9b5e5a98123b237cc7a0702a1b": "gost: update go_resource indentation style",
+    "313084c52060c28dd1437cfafa42913cd3ed4353": "gost: update 1.2.0 bottle.",
+    "a29174a062871216d2c73539420b514fa19756da": "gost 1.2.0",
+    "02bacb323ce874e6c99e94de43a0ab31263c68b4": "gost: update 1.1.1 bottle.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "e0008cd6973b31f4a71b92cfa8854aff66fda10d": "gost: add 1.1.1 bottle.",
+    "4ce25800834f9e2da06a6faf3c49eb0f4105a888": "gost 1.1.1 (new formula)"
+}

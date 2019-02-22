@@ -1,0 +1,15 @@
+{
+    "e39b6cfd412810d0e0572064a45f21d6baec3bb8": "somagic: remove options",
+    "53e91d73203ee805abe2f71ff26a23cdec251788": "somagic: fix dependency order",
+    "6ad035b764567903ced7a571aced7b9d0699301d": "somagic: update 1.1 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2343a906954d08ca29d28959910c442c44edd37a": "somagic: update 1.1 bottle.",
+    "280612959b9d153324c6e3e6301a3cb277435ca5": "somagic: update 1.1 bottle.",
+    "1dde2e0f6a7811f7e8a2b69c25b94096b14feb30": "somagic: fix caveat URL",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "ad5389fc5bdcd8cfd046311598f5070ed94e0711": "somagic: add 1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "14b8a627bf304889929da7c296bb1dd30431a2e8": "add somagic and somagic-tools"
+}

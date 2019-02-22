@@ -1,0 +1,19 @@
+{
+    "cf5e1b8a19b3cdadb7ce4c949a77d21209f44f72": "ctl: fix dependency order",
+    "22769248e8b02d729a57fd103a2d631a84b3332f": "ctl: update 1.5.2_2 bottle.",
+    "3035710934097ddaebbd492dca5ecedfd005688b": "ctl: update 1.5.2_2 bottle.",
+    "9e7b383568620de5ba9ff31a74368f14962b16f3": "ctl: revision for ilmbase",
+    "d0c7b99348644444f87c72c5811143eb27606a5a": "ctl: update 1.5.2_1 bottle.",
+    "76a8a4dc6da038ee80604842eda193cea5b57f9d": "ctl: update 1.5.2_1 bottle.",
+    "f1bf0fb6b2690ebf3e8d90183ec9b9b5cd958e45": "ctl: update 1.5.2_1 bottle.",
+    "3e5e79af0a1f8770ec78a87f61e0601ed2c645a9": "ctl: update 1.5.2_1 bottle.",
+    "4f0000bed091970087978db061df0e944e2707df": "ctl: bump revision for ilmbase update",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f815b0b5f79021c8dbaecbf71dd6374f55dd03f3": "ctl: add 1.5.2 bottle.",
+    "6bbb777263f3413ffac0241c6a35caface98b4c1": "ctl: unset $CTL_MODULE_PATH",
+    "1c119fa124b086e10f872a2b00a9bd1192768a8b": "ctl 1.5.2",
+    "6e49f5d6dfba184f5a5c4d40a26435ce73ab360e": "ctl 1.5.1",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "9f0449d372f7eb5c518ca5611a48a2b212b21551": "New formula: ctl"
+}

@@ -1,0 +1,19 @@
+{
+    "02936ebb750335c1430bb1e4c2fbc36cb1d35782": "teensy_loader_cli: update 2.1_1 bottle.",
+    "97e12a96bc6d18474f97cef99bfc802d023f2509": "teensy_loader_cli: remove options",
+    "5ab604469fe1eaecc8152346fc993230c3514f4c": "teensy_loader_cli: update 2.1_1 bottle.",
+    "2d384af739dd22f9d6f14b64ee95bc8c395d5f0d": "teensy_loader_cli: update 2.1_1 bottle.",
+    "2f878b9775ec8487f9f44de8f435defee84003d7": "teensy_loader_cli: update 2.1_1 bottle.",
+    "5694bfa0070aa23253734457b2a3d2758d5f898c": "teensy_loader_cli: update to \"current\" version 2.1",
+    "10f64a7f5c1707cf55392590a7ef46292fae1805": "teensy_loader_cli: fix rubocop warning.",
+    "ada6f04af3e769fc50608dc0c87c90761f831eab": "teensy_loader_cli: update 2.1 bottle.",
+    "6f3b5d61337616abfae5cba4ac0167b01918b292": "teensy_loader_cli: remove devel.",
+    "39c5f7fff6d82eb8508913ed91c388ab2a79412a": "teensy_loader_cli",
+    "117e7744479730d2c68ce8d37785aa3fd94822c4": "teensy_loader_cli: fix test audit",
+    "08af20432e3d2b3011c29bb158409ae7a39d7256": "teensy_loader_cli: add 2.1 bottle.",
+    "8aa606d986b6fe271ef9ad0baacbc7c5ef0ebe22": "teensy_loader_cli: add HEAD",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ffe7bfc64e0a39493562aeade8514afb61d80cfa": "teensy_loader_cli: fix CLT-only build",
+    "b5368315503cdc7b7bda38e123c40cb4f76acaa4": "teensy_loader_cli 2.1"
+}

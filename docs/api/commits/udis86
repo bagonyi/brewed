@@ -1,0 +1,21 @@
+{
+    "b44f8f4e8c01faad6104f446b8abc64380e43b97": "udis86: update 1.7.2 bottle.",
+    "3e2083fa40cdf0da7a5908b3056cff1c4fe55a75": "udis86: update 1.7.2 bottle.",
+    "fcdd4b5adb361d5da1b15a1fb5da2b70696e3144": "udis86: drop universal",
+    "9c20c713f4ac543580e0638ec8164d3700dffa1a": "udis86: fix audit about sourceforge link",
+    "a3034499d1802b93ac1e154be65653c162a31d92": "udis86: update 1.7.2 bottle.",
+    "13f8b35b076f05dfbcccca317ab22c107e42537b": "udis86: add 1.7.2 bottle.",
+    "d3b7ba27b73c2028b09cd4cc22ab8b8f2c579e2e": "udis86: fix audit warning",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "30ed1180ad17956cf05d8eab33943cdf65642caa": "udis86: add test",
+    "46b4a643011b3d4bfe313ecdc0e01d2e5a8f9db9": "udis86 1.7.2",
+    "31455f5657b46205e790baa589746eb16ba50341": "udis86 1.7.1.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6041c008ba79fa5e9cdd9a93ce8b195ba01f3a6c": "udis86: use options dsl",
+    "78a3e5c8b736e88dfdc7ce7c4c206ed5ef33696f": "udis86: add universal option.",
+    "48596bd3cad27e9200c1e6c423786035bf8b795b": "udis86: add --enable-shared option",
+    "87f077ab3f4bb6b60e35722041f0484f8ac35196": "udis86 1.7"
+}

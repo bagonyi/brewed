@@ -1,0 +1,17 @@
+{
+    "1c490d02d84ef0c7b8e8eb040fd186108f296a65": "math-comp: update 1.7.0_4 bottle.",
+    "2780cf762accb3df2d9ee898fd47f05d54655561": "math-comp: bump revision for coq 8.9.0",
+    "1e032b90b605395e0be895f98f6711a2be1bfdbb": "math-comp: update 1.7.0_3 bottle.",
+    "d1adf2e096162d4b45fe048649ff9f04a61ba54a": "math-comp: revision bump for coq 8.8.2",
+    "39fa015b9b9d89105da53e50b6ed9e3e85588b51": "math-comp: update 1.7.0_2 bottle.",
+    "ddf45f91346e5514d74059548393b2683f04b608": "math-comp: update 1.7.0_2 bottle.",
+    "84fa20ffdb84ffdfaf402001f1fd8603b0e828b2": "math-comp: revision for coq",
+    "342184a9b1874333789f0b0c4a5170d9286df587": "math-comp: update 1.7.0_1 bottle.",
+    "28e4c287d37c5a7add3a9cc3f82af3fcdf61be42": "math-comp: revision for coq",
+    "46d67e3c06f121023aaed39d0c1f390990652c60": "math-comp: update 1.7.0 bottle.",
+    "4f5582ad987b0f293f25c1b698c5dc638f80f1a2": "math-comp 1.7.0",
+    "0ae55471560ee89bb590f244354e5e3deb6d55ff": "math-comp: update 1.6.4_1 bottle.",
+    "9dc5957c11a340fe9c8019d87ce7885747fdcd9a": "math-comp: revision for coq",
+    "b53bdc84165e706d4c9fc24e16aec24190682293": "math-comp: add 1.6.4 bottle.",
+    "67f69ba9e063defa5db67e12f366f6c49cd1abcc": "math-comp 1.6.4"
+}

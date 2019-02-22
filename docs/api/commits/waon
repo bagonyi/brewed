@@ -1,0 +1,14 @@
+{
+    "a253f7c0b13e0f8214555056d8a85f2c58665ce9": "waon: remove references to pre-Mavericks.",
+    "225c253dcdbe0f9561555a711e9137fc1e5e37c5": "waon: fix dependency order",
+    "cbb0526c14e88dca0442a14d33090fcca6aa39e3": "waon: update 0.11 bottle.",
+    "548ea6f43afa437ff406d2765627e19ce8650401": "waon: use assert_predicate",
+    "544020ddab38cd6c5ca559d5c4640e5d421f5a22": "waon: update 0.11 bottle.",
+    "4feb08749e2c720dfbc9d26b4390d83ebc01e57f": "waon: update 0.11 bottle.",
+    "c8e10b77b888f31900a95b2a5116996d1912f0d9": "waon: update 0.11 bottle.",
+    "663786692343a7888fe9c7407d5c54fe329fa8e5": "waon: add 0.11 bottle.",
+    "af88ff07bcf94f8c5c81477381d59d6b43728bb4": "waon 0.11",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bc37a5561f2a9cc6ea8abf87410163efdebfcb0e": "waon 0.10 (new formula)"
+}

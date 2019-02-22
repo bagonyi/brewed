@@ -1,0 +1,15 @@
+{
+    "67036aff342b2045e6a0cdfd3e2fede0e0c93624": "dockward: update 0.0.4 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "87e5315689b9e63b85a2068b71a410c87892fcd2": "dockward: update 0.0.4 bottle.",
+    "d12709c32321e9de7af5f484c18bfa41405f753f": "dockward: update 0.0.4 bottle.",
+    "cc7114741be003ab985ea59a1d94648b42436150": "dockward: update 0.0.4 bottle.",
+    "88f55d4d5a4cd760a2a5e7a5931ca86d23b7303b": "dockward 0.0.4",
+    "65f67ab1825ee560d5b04ab0bfef48fc929775cd": "dockward: update 0.0.3 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "70aa68a666d0f41c1125eb98d9c6e14758192907": "dockward: update go_resource indentation style",
+    "058fea5e522911d2ddf1e9c362bc51884e376079": "dockward: minor edit for maintainability",
+    "7e19f1388a8a31b8c35998deca0f5ee6ad499af4": "dockward: add 0.0.3 bottle.",
+    "7d210d2fb6b7c167401067c8cf228f2ef2c7c583": "dockward 0.0.3 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "1ffa86e982aeef31729c9c9b924dc34abbdf971d": "yadm 1.12.0 (#19830)",
+    "2028d24482bf6fec7918b69dcf1d29bd87f943be": "yadm 1.12.0 (#19824)",
+    "fb77ffa93e4cc04e1b1e2b030170e4b304d5dee6": "yadm: use assert_predicate instead of File.exist?",
+    "28b6822ecf957f92c951171de4d29a3c2bec4665": "yadm 1.11.1",
+    "f81d260693cfb81c10b6750647ffa8d98b1916a9": "yadm 1.11.0 (#15484)",
+    "3d474e7b1f105335d0eaeb0894ae042e53c290d4": "yadm 1.10.0",
+    "f3dcb5f9720cbbc213f63b2c487050d34ee5bc2e": "yadm 1.09 (#13224)",
+    "109b2fedaf144d759b404fdf1b54a15234f11928": "yadm 1.08 (#11995)",
+    "9396b32e9d50b7ed05b1b4d4026de89e7352e35e": "yadm 1.07 (#9853)",
+    "b14731a596f2f67e38d091042396ba4a8e637c28": "yadm 1.06",
+    "03d886ced70a593a76ee48e1d552e94572f0b21f": "yadm 1.05",
+    "67ebc929b3b18d3934687ea237faeee7714439a3": "yadm: bottle unneeded",
+    "5fc622c78e1483a845c3e60efb1363173fa5585b": "yadm 1.04 (new formula)"
+}

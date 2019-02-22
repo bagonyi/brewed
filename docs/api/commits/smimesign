@@ -1,0 +1,12 @@
+{
+    "caec3f008187df7c4eb3a9cf8a72c7db5e1e91c3": "smimesign: update 0.0.10 bottle.",
+    "50856e78fc221ddc5f2553733af806c113516247": "smimesign 0.0.10",
+    "794168ef6df43bd4961c0ef4e5edbf82848a81bf": "smimesign: update 0.0.8 bottle.",
+    "377e160dfb2439bf8c1660e819414247d6fd8cf9": "smimesign 0.0.8",
+    "b3f9bdbd844c638335d4724a939dd4f338ed9fd1": "smimesign: update 0.0.7 bottle.",
+    "525df05ca1b77f9241dc84cf58209d8ba8512603": "smimesign 0.0.7",
+    "90a1294327fa654761ad78b13606cec16bc8e376": "smimesign: update 0.0.6 bottle.",
+    "2b4dc0d624995a25036dd1fdc41b13e2255d91a6": "smimesign 0.0.6",
+    "05eeda27779944b8448f2b26ffb57779683a5af9": "smimesign: add 0.0.3 bottle.",
+    "cf0bf3164ab5ca20a12ff5ce2a86fb5e39ef6126": "smimesign 0.0.3 (new formula)"
+}

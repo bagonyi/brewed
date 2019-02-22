@@ -1,0 +1,6 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ca621f8c74763d8ce6d40823190f7f189154a7f0": "zsh-git-prompt: remove non-Homebrew-specific caveats.",
+    "39ce3f8a474d406a471563e8da6dea494ca33ebd": "zsh-git-prompt 0.5 (new formula) (#4730)"
+}

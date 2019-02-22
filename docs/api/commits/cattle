@@ -1,0 +1,22 @@
+{
+    "b191a89728d42dcc19948499a18681d0f9c2f0fd": "cattle: update 1.2.2_1 bottle.",
+    "a32c1f73bafd14f0c9364a947e134386c4187285": "cattle: fix URL",
+    "6b59f4d8143cfcae5f732ac752b854c9fabb73c0": "cattle: fix dependency order",
+    "561de9f6846d70f823efb234501e9b6674246c66": "cattle: update 1.2.2_1 bottle.",
+    "fbd27db6edac9eb9c2ebc1d74ccf51334e9769b2": "cattle: make gobject-introspection build-time dependency",
+    "db80fa6b1b40e5925fef4eeecd4af37bebf80d03": "cattle: secure url(s)",
+    "d47469b5c497100d3ba2d6ab4eb6163626d93502": "cattle: update 1.2.2 bottle.",
+    "3505e1752b252ef5f6eb32e284cfe261c3be9a94": "cattle: update 1.2.2 bottle.",
+    "51f9d41283e3d339314845ac1b8d27411d875185": "cattle 1.2.2",
+    "0e5383f05e47546a63ba9320de1c16b694ce217a": "cattle: update 1.2.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2daf69663f8dd0f82919d410c540657686e5473a": "cattle: update 1.2.1 bottle.",
+    "557e465dac34a07dd6a091884d7010a39d9c36d8": "cattle 1.2.1",
+    "a44fe55c4c3ef2770770161633da09d536e4f8f9": "cattle: update 1.2.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "91216fbadbb3d5969e85070a1ec049c46e492d0d": "cattle: add 1.2.0 bottle.",
+    "9710c96d8f45e2c00f64f85dd1fa94bba0926099": "cattle 1.2.0",
+    "b150cf56694ffc291d85f4b146f3db2c586bf49e": "Convert more symbol deps",
+    "881700c38ba402554aea2d9cf1fde00ddc952666": "Cattle 1.0.1"
+}

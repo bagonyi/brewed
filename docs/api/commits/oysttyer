@@ -1,0 +1,13 @@
+{
+    "0fe787c0e87e3dc93da315efbfd49d2fa0d076e0": "oysttyer 2.10.0",
+    "2cc14c9a023311d959157460a699040ba415e419": "oysttyer: remove options",
+    "cf22741cd057be3d726ec98e8d344e5cc4f1238b": "oysttyer: remove retired search.cpan.org mirror(s)",
+    "9aeced9d77154301d69cc6fbac23c561eda54686": "oysttyer 2.9.1 (#16095)",
+    "6f6bf61ffd59b6329aa6bec3f992809de168d0f2": "oysttyer 2.9.0 (#15626)",
+    "22ceda7d7e6d313ad54da4886d83ef4ac88a7898": "oysttyer 2.8.1",
+    "0afa2bb9ef834721e515aa9ecefb2fb5f60a2ad1": "oysttyer 2.8.0",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "9e28676e041d63e9064b8143603f96bd249eb5d1": "oysttyer 2.7.2",
+    "ca65a6891f8821769f44d1adc0bfdb6f366a2f96": "oysttyer 2.7.0 (new formula)"
+}

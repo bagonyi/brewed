@@ -1,0 +1,9 @@
+{
+    "b784e19c7d3340b262bbbd89049531268e7d40f7": "apng2gif: update 1.8 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "32e3455cf444a7ee90cc29f168d54a46cd646e38": "apng2gif: update 1.8 bottle.",
+    "08c08552a8498eb70bce9954900e2f05c17fa89e": "apng2gif: update 1.8 bottle.",
+    "11daf5f63063eebe8bfaf35082fc879b1828848c": "apng2gif: depend on gcc for <= 10.10",
+    "c7380b88150451bf21d749e106006cbba871c9ab": "apng2gif: add 1.8 bottle.",
+    "f14cf9f0b91c53b6591ada53766104e8c3c370fb": "apng2gif 1.8 (new formula)"
+}

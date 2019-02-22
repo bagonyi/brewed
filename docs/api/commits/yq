@@ -1,0 +1,22 @@
+{
+    "e693bbef9f06b08e81862cc72b8966f398b12776": "yq: update 2.2.1 bottle.",
+    "1cb8282f71a25b6ccdf51daa32ec077b284f2202": "yq 2.2.1",
+    "1e38919a6ae4f1d030d5bc706e3dc05a8c4912eb": "yq: update 2.2.0 bottle.",
+    "1dd1e3571dc5030176f585672f4cbe87bde21e61": "yq 2.2.0",
+    "ab8bc2810e7599b77c503b74fece40e0e8237733": "yq: update 2.1.2 bottle.",
+    "2069065c9374e001dbc1ce9e27cc55959c22cda1": "yq 2.1.2",
+    "48117ee5fb4e3a00a9fe80d23b7c6acd1efe2de8": "yq: update 2.1.0 bottle.",
+    "c1dd54b2ee9eb9f862a79da81370fc93dad8b403": "yq: update 2.1.0 bottle.",
+    "a03cf16c3268a900610d96eda48db77f24f2048b": "yq 2.1.0",
+    "6e452cd8df48301b048794f0d2e312121b2095d2": "yq: conflicts with python-yq (#29881)",
+    "8d5ec9e1f4859aecb73bc42d3507904629978e28": "yq: update 2.0.1 bottle.",
+    "e2939425b4b26ac86be676844d75889aa92b9460": "yq 2.0.1",
+    "76dde7adcb29815126b5f0f18084fac39681acb6": "yq: update 2.0.0 bottle.",
+    "7cf8e53ce55264d7ed0216c9fa66a7ecf3bb27b4": "yq 2.0.0",
+    "b93bca035c9f4e19f28661aadbfcb94b5611982c": "yq: update 1.15.0 bottle.",
+    "b6e956b81172e3c2a09bf794d724d297dc072415": "yq 1.15.0",
+    "df0aef3a3ab16df93d291b8d976d7eb6cc31fb21": "yq: update 1.14.1 bottle.",
+    "6c894cf06d2c2f76e29f9a3d89288c29fd2400f1": "yq 1.14.1",
+    "0cdb488cf3501386e9fcc3341d17f2601688b061": "yq: add 1.14.0 bottle.",
+    "67bc619d656021d6cb2429a045876144d834fb8c": "yq 1.14.0 (new formula)"
+}

@@ -1,0 +1,14 @@
+{
+    "7b57c5cc96e4aa9baaa4e470feb4608729ce76a7": "nutcracker: fix dependency order",
+    "2bf196dedb89d08bccec76ad9ace9d287153f6a6": "nutcracker: update 0.4.1 bottle.",
+    "75a8278473609284c323b500d3e6beba2a29e8b4": "nutcracker: update 0.4.1 bottle.",
+    "8c268a7c0ab9f6131e02b3ebd5832950d579ef05": "nutcracker: update 0.4.1 bottle.",
+    "3bde7f67045273b63cfb2a59a31a85228b89a19d": "nutcracker: update 0.4.1 bottle.",
+    "b4526abefc25b637c7e5a671c0e2b51ec86d28fc": "nutcracker 0.4.1",
+    "fe5cde414b847b1a4c3426812faa9a4f7e70fb98": "nutcracker: update 0.4.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f5bf3bb458168f979a1126193534de3ae6cb019f": "nutcracker: add 0.4.0 bottle.",
+    "8e8b4d513730eb88a4259990614ba3e0a027d26e": "nutcracker 0.4.0",
+    "01f5325fdfb29f273ef245e54d9de8e20b42b2ea": "nutcracker (twemproxy) 0.3.0"
+}

@@ -1,0 +1,18 @@
+{
+    "743a54a99b4b0949fdd6804e8baef13bab7704ff": "nicotine-plus: add Python 2 comment",
+    "7182e366dade892eb6ea844704535e7f8e96b426": "nicotine-plus: remove options",
+    "ca83abba401f0cca99b8be84ced0e76c3bac7e15": "nicotine-plus: fix dependency order",
+    "9c0599130398d0006fc9de74ba920fdedb7a7aee": "nicotine-plus: update 1.4.1_2 bottle.",
+    "1beb1ed6e6e04ebdb60e9f3da44547111d46e0f4": "nicotine-plus: depend on python@2",
+    "bf2f7f5c11c27e36b363958a690b50b6d3d5671f": "nicotine-plus: update 1.4.1_2 bottle.",
+    "2e9ddcc6715144e73d317b771ef3e36c8dee641f": "nicotine-plus: revision to fix install receipt",
+    "02b2293a14f51722a915cbd4c3b745084a73d15c": "nicotine-plus: rename python@2 dependency",
+    "51fd4c6e04ec9f72a7afc5ec400d3ed7ddf964f1": "nicotine-plus: update 1.4.1_1 bottle.",
+    "be5ec08b013e9265ef52b9d2c9433c47bcd99d94": "nicotine-plus: revision for python@2",
+    "77e98880b80f2b8549305f0faeb99d08b0ee5127": "nicotine-plus: depend on python instead of :python",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "4648b7fd4ca8d43a02e6f8fb035ce868ca347505": "nicotine-plus: update 1.4.1 bottle.",
+    "87fa042b6b67c4599de0944840b234cbb047ce8c": "nicotine-plus: secure url(s)",
+    "844db9f74c7b313531f480e67bcd40fccbcde66e": "nicotine-plus: add 1.4.1 bottle.",
+    "bb1ea38d56ed425298bdfefc61edbac0c4b981fa": "nicotine-plus 1.4.1 (new formula)"
+}

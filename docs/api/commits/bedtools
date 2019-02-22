@@ -1,0 +1,22 @@
+{
+    "e9a70790390cea67d98da9386f82653368e116f0": "bedtools: update 2.27.1 bottle.",
+    "a5488dccca665195354d913bb2e8ca836a57ccf1": "bedtools: update 2.27.1 bottle.",
+    "1fa34ae5c80e2fa8e9ba07a177b6864467f5977b": "bedtools 2.27.1",
+    "f843b5c98733237139f8eaa3449bbabd6bbbde9c": "bedtools: update 2.27.0 bottle.",
+    "987037e560bccce9185853a0cda2b8b9611c78dd": "bedtools 2.27.0",
+    "9c57468f8d2bfad2b6a269d99bb747b69c51422b": "bedtools: add 2.26.0 bottle.",
+    "d9696ad53d71200d60d59b674afa0a2728689512": "bedtools: import from homebrew/science",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "536fb1be547dd0f06cb279229a1ae6e9593f2424": "bedtools: style nits",
+    "475767ccc1d1147049112509cb42600106e7b38c": "bedtools 2.17.0",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "6ec1f5aaabdd698d9ea43202d882062922a5af97": "bedtools 2.16.2",
+    "c3151ebd557feda5cd5c8d96d1948b610b1d4f45": "bedtools 2.16.1",
+    "e8a80b66b98be213fb0cab27200bd6148e39cafd": "bedtools 2.15.0",
+    "a163b159ed7eb7e5db23e2ccaf8f14d300a57311": "bedtools 2.14.3",
+    "063fb4ad5bb24e6d645708985488e05904fb638f": "bedtools 2.13.4",
+    "8915c73f67e5d12da93e9ae7f26c5a09ec99076f": "bedtools 2.13.3",
+    "2541d871c0bed9c0062f48a56c066a485debd52a": "bedtools 2.13.2",
+    "243bc743eaf36bab78c90b1f98efecfa6cc6d543": "Use https for github repos.",
+    "4e0da06d1141c8451e25f50e4af092dcf43b72e5": "BEDTools 2.12.0"
+}

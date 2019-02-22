@@ -1,0 +1,18 @@
+{
+    "c08cf79e21a1df6b1c211755e5ec7a2aad4b6ca0": "bash-completion@2: add info on how to support existing v1 completions (#36254)",
+    "00989f90b7ef720cf2331bf7867866c74abf3491": "bash-completion@2: update 2.8 bottle.",
+    "e65de8043e88eb51563157942879d7d540db02fe": "bash-completion@2: fix installation and caveats",
+    "c61acbbffa9ecfa32ec1d2e480300b0bfcf77a9e": "bash-completion@2: update 2.8 bottle.",
+    "ef2afbf998973cdececeae0d8d5c6b2f616d3bf7": "bash-completion: add autoreconf for HEAD build",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "73a34c661302a4e629f855b90c56bd51e18063e6": "bash-completion@2: update 2.8 bottle.",
+    "ba0626f45deb73e7a640d3f8aa4bb55736b5f7b9": "bash-completion@2 2.8",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0fcc5cb7adf5e225265899a78ad99b03abff6b34": "bash-completion@2: update 2.7 bottle.",
+    "5524772993ec42a25e99c69d1b870c5d67745bd9": "bash-completion@2: update 2.7 bottle.",
+    "38ee0394bdc10dbe183410962300a031359ec92d": "bash-completion@2 2.7",
+    "455a807a8c41fd735ef42cb202f87d3873b7667c": "bash-completion@2: update 2.6 bottle.",
+    "395999b69132795aada9db30d180dd6e063191f8": "bash-completion@2 2.6",
+    "3b5d3f8bd6f31f848494bd7b7874eadd4ebb7fe7": "bash-completion@2: add 2.5 bottle.",
+    "d495b28d675855a1d1a94a0a950c943897798103": "bash-completion 2.5 (new formula)"
+}

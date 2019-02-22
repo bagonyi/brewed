@@ -1,0 +1,11 @@
+{
+    "54145813ec6e201a97d6061c350e1830b0c8bd00": "hss: update 1.8 bottle.",
+    "bdb598dde1ab73050b788a304b737237cfd4cc98": "hss 1.8",
+    "c0f4daa345fa6102a8413300e739f8fa84e30f12": "hss: update 1.7_1 bottle.",
+    "19d9366cd4db65cf601434287acc862fda5f1390": "hss: revision for readline",
+    "98b061fef40559e2cb348f6a1be8640bfe006a37": "hss: update 1.7 bottle.",
+    "35e4988ef771ad9028bd5a232e6d7beb46064fbf": "hss: update 1.7 bottle.",
+    "f064a1d53f79b0c68dc22f5a266cf9373f0c4353": "hss 1.7",
+    "ef72e7b22d26287b69229969a878c70f557ca19a": "hss: add 1.6 bottle.",
+    "0d8cf35aa2fdec1d4c068329f5f94e9b56e84736": "hss 1.6 (new formula)"
+}

@@ -1,0 +1,22 @@
+{
+    "94229237b32487ac96cbbd1a4bdfc07162c63482": "convmv: update 2.05 bottle.",
+    "3b19d74f3408145714295900fcdefc020940dd39": "convmv: update 2.05 bottle.",
+    "6d60d2d920714e25123248c4c9ecc923426e769c": "convmv 2.05",
+    "d40ebba29f4fe37185a3ccf89946423290e630a2": "convmv: update 2.04 bottle.",
+    "b238beb38fc623d3ae7d4286ccb3be0730bba492": "convmv 2.04",
+    "feefce18d6db3a61bcf86e0b5321c8f72d8cec10": "convmv: update 2.03 bottle.",
+    "6f163752f15a898cafcdd542f75475be0aa1385a": "convmv: update 2.03 bottle.",
+    "4ccbd555f66d21e068fdd7e6e33c8e678e822899": "convmv 2.03",
+    "71083d172d5786aeabf6c606f56e00f8cdb2c6af": "convmv: update 2.01 bottle.",
+    "e95e6674f6ef5e92441fa48b2b00a56b3adb0001": "convmv 2.01",
+    "5dfd41863d2056e5a8a9035a72bb24350a1fdd39": "convmv: update 2.0 bottle.",
+    "228c86369899ad5f0bc80f5bdcd12f65d8fb680c": "convmv: update 2.0 bottle.",
+    "d0fe8d1d3fa2c56820e155891206c29c58132962": "convmv: add 2.0 bottle.",
+    "2a5bd5e3ca5ca53af6f527ae3713a3aa769e10c2": "convmv 2.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "641fe6068a1c44bd89d82f5ff53100c5c9803cd6": "convmv: add test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "bc16a8f41d0d5b8ce4416acb133bf5809fae7e3a": "convmv 1.15",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2f5e72a68cc2f4e5a05dac06b0af0b80e5db4a79": "Created a formula convmv."
+}

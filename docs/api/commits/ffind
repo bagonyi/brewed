@@ -1,0 +1,16 @@
+{
+    "e087bd48bc256e7901988d9a04265e1a1eeec023": "ffind 1.0.1",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "951c08b2b24153f2d9b4bb59d35900642eb66aa8": "ffind 1.0.0 (#1412)",
+    "342150c87c49b52742b2ebaed3abaa7c7c592a2a": "ffind: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "211c5d222c897f7f46b0cdda8492982bad1380f8": "friendly-find (ffind) 0.3.2",
+    "d98434a6a0cb001ca039ad3ba33899bde3375286": "ffind: use archive URL",
+    "aa46f6fdf367ba3aefbec789c8ad97cb93d5ab1b": "ffind: fix test",
+    "6b7a460db6ce3683d452eef1acd459b4e7b8790b": "ffind and sleuthkit conflict",
+    "d598696e138566f73ee61f2fba0e47f576ddcb15": "ffind v0.3.1",
+    "620041f051db7051eb27b2fa35d53aa8bde498fc": "ffind 0.3.0",
+    "9c5b60fedc4d91bae3e05fddf1443563a67053fc": "ffind 0.2.0"
+}

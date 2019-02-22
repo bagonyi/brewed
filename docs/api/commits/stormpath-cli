@@ -1,0 +1,22 @@
+{
+    "7b93f510e44466e8d4b13a5d869b147607276240": "stormpath-cli: update 0.1.3_1 bottle.",
+    "defb53394e788d2b9e5feb5de24ecccd17fc2443": "stormpath-cli: move to Python 3",
+    "30a0afacd7cb89852ac87e6015010e80625078fe": "stormpath-cli: update 0.1.3 bottle.",
+    "fb3453f20f66bf434b7f456579c49f8690de2542": "stormpath-cli: depend on python@2",
+    "1fc3cdcfe9ab4f49c42f5a0527dcf583495b1cbc": "stormpath-cli: rename python@2 dependency",
+    "b5a818372eb957eaf62d7fcc4c9a83d8d5e7cec6": "stormpath-cli: depend on python instead of :python",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "d54698b0ce7122dda2447f2646502fd96b776000": "stormpath-cli: update 0.1.3 bottle.",
+    "98b6b8f13463036220e938a7e9181dc788e37dc3": "stormpath-cli: update 0.1.3 bottle.",
+    "bc4e1d6e148314480d7cf046635b27a0dded5eac": "stormpath-cli 0.1.3",
+    "587a662b2043d329cdb2a9302c44ba72005b00b8": "stormpath-cli: fix description",
+    "d1471acea8d58e1712f1a73ad649cadb633d66ce": "stormpath-cli: update 0.1.2 bottle.",
+    "2c2616708ea149f7004eaeca11d3a3f7f47b9602": "stormpath-cli 0.1.2",
+    "ddf9c2cca0c3f68765eebff6a602c004e4bbe0cf": "stormpath-cli: update 0.1.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e035ac6b6a31ad83577f27f8d731c63cfd9a6a8a": "stormpath-cli: update 0.1.1 bottle.",
+    "43638192f496de7db2d8414f24bed39b0b97bcba": "stormpath-cli 0.1.1",
+    "2202e58558c17f2a2e5942385546be11ca507878": "stormpath-cli: add 0.0.2 bottle.",
+    "bd5d8ebc27d116e75017c726afc588dd8018b9cd": "stormpath-cli 0.0.2 (new formula)"
+}

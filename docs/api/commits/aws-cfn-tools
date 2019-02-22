@@ -1,0 +1,20 @@
+{
+    "b73051af02d4d59fd80780a404f572495ea3e534": "aws-cfn-tools: fix rubocop 0.65.0 style.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "5afa0b14fa8b4f0fcf66f566250f1cd4f90452ef": "aws-cfn-tools: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ad587c56593e8a17bc0af21a47678f0025b62060": "aws-cfn-tools: drop AmazonWebServicesFormula",
+    "27674ba4971fe9466e4d50699890e6773bb7671d": "Define install instead of making subclasses call standard_install",
+    "c0aac48a6f04e772b1f8513e1a3f65a3badcf01c": "aws-cfn-tools 1.0.12",
+    "4ff96069f7dc4983b8b2dc04c32b040351fc0e21": "aws-cfn-tools 1.0.11",
+    "75cf523a10f3b3c3aaa886e9294b4a2ae8dfe5c0": "aws-cfn-tools: additional instructions",
+    "86fcbda45a2447514ff92b2592bf2e4a39d43a10": "aws-cfn-tools 1.0.10",
+    "2f78de2be1f2e4bd0fb58d72e44f8d73af3e465c": "Move AmazonWebServicesFormula to formula_specialties",
+    "d2c0eefe6583ba4dd8585cf0a8d33d14103416d9": "aws-cfn-tools 1.0.9",
+    "791fb16dcc116bbc183fd6b9b2b84fb008ad8886": "AWS CloudFormation 1.0.8",
+    "2fad4e5fcbc9a6e2921bb925197ab49a5661b779": "AWSCloudFormation 1.0.7",
+    "741a548dafaa7e1fc2a6967be92095259a6f6e8c": "New formula: aws-cfn-tools"
+}

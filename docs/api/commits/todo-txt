@@ -1,0 +1,21 @@
+{
+    "3fac114a92481d3dce1a541a73b1ab55aefae302": "todo-txt: secure/fix/follow url(s)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "a99d0ebd17c2f7f7393403ca70cfebc9563e0631": "todo-txt 2.11.0 (#26307)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "97f389c3a97f8758fbf87cc791c21dd05b171124": "todo-txt: update url",
+    "3b8d3f0894f42fbb2059119a84e0c70645168df7": "todo-txt: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "be5166b4bf972c7c2bf983e311ac852711c5cef6": "todo-txt: add test",
+    "90438be8ca787c8694ea3b8554ca323c1928c851": "todo-txt 2.10",
+    "3d4f2dc9cdacfd13265ec036978c8198afb143c2": "use bash/zsh path helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "22d537efee8b46a7d6abbfd7d5391ef1bebab53b": "todo-txt: restore caveats",
+    "a209c24ac2707e3e8ec6f46424686b05de9c4673": "Automatically append shell completion caveats",
+    "a6cd5aa23cada3f99ffb9bf561048857479a06ca": "todo-txt: install bash completion",
+    "278c4ba21e9fcac29b4bd0b7b16125dbd3f459a0": "todo-txt 2.9",
+    "2c3b868ca0a996689edae6286ef2a7ea4ab142c4": "Use HTTPS for GitHub HEAD clones",
+    "edbe013347914725f922e7e89c95e1798dc9a224": "todo-txt 2.8",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4d9699272e653825c6ab4df4a41b2ce51cd99964": "Todo.txt 2.7"
+}

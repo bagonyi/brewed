@@ -1,0 +1,17 @@
+{
+    "78af24ccfef31d879f0db25a4461c8e94e35f940": "fsw: update 1.3.9 bottle.",
+    "19f60acf27bab4adbcfd33482fe104bf67da5a4e": "fsw: update 1.3.9 bottle.",
+    "c3a116391b44d427711664a2cb73b469b17f0a3d": "fsw: update 1.3.9 bottle.",
+    "ad625ccd6eae4b0530bef0c71b2ba5a9cea6de87": "fsw: update 1.3.9 bottle.",
+    "b98d95af6a78c629211b63667445f308036f3c77": "fsw: use absolute path in test-do",
+    "5700cfecfd71997133ee9c93b6e4c550e4c5a36a": "fsw: update 1.3.9 bottle.",
+    "dba9136bbd178d6e78ee175e31e3a9e9c2b3560f": "fsw: fix test timeout",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "703c328694038d8e2810e192e7f29a8ce3bba6c3": "fsw: add 1.3.9 bottle.",
+    "750ad6e7fcf6424b3184cc026564b454d3357143": "fsw 1.3.9",
+    "89251b457525081cb362bd8ea1321aa707b3ae3a": "fsw 1.3.1",
+    "51f5e6013d80039c49c51677896764f4a5fb54a9": "fsw 1.3.0 (new formula)"
+}

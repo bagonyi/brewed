@@ -1,0 +1,15 @@
+{
+    "9f32f55e6be32a59598ea71af00059ed4f88f8a9": "launch_socket_server: update 1.0.0_2 bottle.",
+    "b52ef78f2237c546b381928326b712011ea21164": "Fix whitespace in top section of formulae (#29511)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "863f435fc3d45bb95bb30108bab92cf9783997e2": "launch_socket_server: update 1.0.0_2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "f49a563e937a88ddef0a264529fd775559e341f1": "launch_socket_server: update 1.0.0_2 bottle.",
+    "43c5bfa85724ebdf196131c0ae8b524a105b2bc3": "launch_socket_server: update 1.0.0_2 bottle.",
+    "257ecad642544429db4a50c28fcc3a395c723af6": "launch_socket_server: fix plist issues.",
+    "6a3046cef63b0d9d858385a6b708efa2faf52dda": "launch_socket_server: update 1.0.0_1 bottle.",
+    "172b1caa8293e3789eca121ebb988792192c1683": "launch_socket_server: add default plist.",
+    "fc2b73849c97a5b09b0fc73d985962048968c17a": "launch_socket_server: add 1.0.0 bottle.",
+    "4570b0a6a163ccc851d22d453c9c6661dc459798": "launch_socket_server 1.0.0 (new formula)"
+}

@@ -1,0 +1,16 @@
+{
+    "bd06c08af612d5906750fbf3dacde387d8dcdcff": "libagar: fix dependency order",
+    "5eb6a769d0110af63111390c80d9867160c30014": "libagar: update 1.5.0_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4d46aa02cfd9a5ace35098aeed24fe27e1a6cbb9": "libagar: update 1.5.0_1 bottle.",
+    "3843d9bffa9bea7fa69b0b4599dfac49d03dc1a2": "libagar: update 1.5.0_1 bottle.",
+    "786edac9f9dcd7d7d2611b30cb6516623bce6c76": "libagar: revision for jpeg",
+    "73b9ed1b0fad4ea15edd95304ccd71f4863cb135": "libagar: use secure head url",
+    "ecd6c19659bfe7f2b0894db02921a59afff8bf1b": "libagar: update 1.5.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "6595ae31e792694eea392157eaa70ebfd98cb3a7": "libagar: update 1.5.0 bottle.",
+    "aef63f220441e0d2709407f8b51b975954414d35": "libagar 1.5.0",
+    "e3de7a5113cbf334d022c4fc8b9b65301c090bfb": "libagar: add 1.4.1 bottle.",
+    "44ab4320b40a4eff9860fc79360f8b1548cd82cb": "libagar 1.4.1 (new formula)"
+}

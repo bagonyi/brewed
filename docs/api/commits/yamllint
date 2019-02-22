@@ -1,0 +1,20 @@
+{
+    "400e63dc97591880a070c6092928f1d8c161dbcc": "yamllint: update 1.15.0 bottle.",
+    "889326f8db87c8365e343ed762ea74fd7e265c5c": "yamllint 1.15.0",
+    "2f37d918683b6eaff3c4dc26ace37b79274442a3": "yamllint: update 1.14.0 bottle.",
+    "054745fa6ca4c06a2a4b8a9153a68d3c67e0f18c": "yamllint 1.14.0",
+    "f8a223aab36667a629af4df9713587586be0e08f": "yamllint: update 1.13.0 bottle.",
+    "2e44d17555b1a39a5e59ab1565de317890d1a790": "yamllint 1.13.0",
+    "d6e68226ef4cafd533d0b78d449faaca48cdddee": "yamllint: update 1.12.1 bottle.",
+    "6a2ff8729800cd645b931e144c82744edc0ba5cf": "yamllint 1.12.1",
+    "6b72baa7d65ae0a742e8903f8d9afcdb26f55615": "yamllint: update 1.12.0 bottle.",
+    "5777790a7a063ececedad66f6ed93e3aee5cec7a": "yamllint 1.12.0",
+    "69790012bbdc2a011d35823a3c1902e84ba1155b": "yamllint: update 1.11.1_1 bottle.",
+    "a33489b00cbdbf00e22751165e5a7d0d5fb26ef9": "yamllint: update 1.11.1_1 bottle.",
+    "fc1570b8dfd29c28d23a2f21f5a7217a5d74fb93": "yamllint: use PyYAML 3.13",
+    "2a0c25114841d57d029add802dd2ec4f60cc31f1": "yamllint: update 1.11.1_1 bottle.",
+    "1383ec07a0d712636efa47fd3591ab457a1815f8": "yamllint: revision for python",
+    "af2bbe994b977099c85bf902f906e1d91dd28c7a": "yamllint: fix resource name and order of assert (#27275)",
+    "bbaf664e7de67f1839235830a8f71db66e81c597": "yamllint: add 1.11.1 bottle.",
+    "d6bd3c04b24c10b850ea11e065bcb4dc3501e1eb": "yamllint 1.11.1 (new formula)"
+}

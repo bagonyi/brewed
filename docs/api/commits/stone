@@ -1,0 +1,13 @@
+{
+    "2629da2f1692b9dec5718bd27fb90d38a966da49": "stone: remove options",
+    "cf07409d8192f71b18f414004e514f83d4ddf3a6": "stone: update 2.3e bottle.",
+    "708b971235b272f78a6685e3b6eb97fdaa57485a": "stone: update 2.3e bottle.",
+    "b29abdd9edd9b2e393fb3886e159985afd3c8d00": "stone: fix optional use of system OpenSSL (#14057)",
+    "49cdc8f7dc39b95078706786518440e35cf04795": "stone: fix rubocop warnings.",
+    "470a8325f388420569e396d08ec6a994a5e77851": "stone: update 2.3e bottle.",
+    "f46a63e0b655888998e8ef75584f72ae8afb56aa": "stone: add 2.3e bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "193b69f81db57f0d86536fbdc269f63028b222ca": "stone: add --with-ssl option",
+    "ca7734e76862e806dbe96b78eeffff0f1c44d920": "stone 2.3e"
+}

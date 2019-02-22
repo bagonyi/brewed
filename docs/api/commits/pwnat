@@ -1,0 +1,23 @@
+{
+    "a756d9bef85a8a7f63f36139104bbbba03fe1223": "pwnat: remove references to pre-Mavericks.",
+    "9cc675286c1c316a94d3443616e126bbfcda992f": "pwnat: update 0.3-beta bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7a405d8163e9c8324c3df5758ab538b1c386893d": "pwnat: update 0.3-beta bottle.",
+    "395fd369531762cce3d5ae3171ed3a25f16bd4d5": "pwnat: update 0.3-beta bottle.",
+    "0d2f8b1534253af101ddbdae7f499bdb7ebcb369": "pwnat: use secure urls",
+    "361cbfcc1c9946bc2eed32f99500cf66d8ab45c6": "pwnat: update 0.3-beta bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "748c6d77a3bfd8fec8e20899a14a70e530bb7b8f": "pwnat: add 0.3-beta bottle.",
+    "9c150d1e62b7d81f045214f37967e0af0e49301b": "pwnat: head and basic test added",
+    "1c71fff18728b936bf5f134b1bafce65e04f12a7": "pwnat: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0ecbe3b7c52e369598962e991b30bca4f5a7fa6c": "pwnat: avoid inreplace",
+    "1e76cb383549b1d017f4ccca4a655ca35e5c0fd8": "remove redundant versions",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "620317ca6df6102aeb70eb73108fc3c22dbfeedc": "Update formulae to use ENV.cflags",
+    "76a89a1c3c65916d221149855355f27935c267b8": "Update pwnat to 0.3-beta",
+    "cd435bb7c846a9a0bacfa3dba9724fed5c3808ab": "pwnat 0.2beta",
+    "25b1ba7c627c582318428d0c54e7b8fa3196fa91": "pwnat 0.1-beta",
+    "fb397833f734cf11716d70cb33f6a349606337a7": "bcrypt - use inreplace and optimize CC/CFLAGS",
+    "f6cab77e477045242a7a15e35717ac44f7f89676": "Bcrypt 1.1"
+}

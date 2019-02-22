@@ -1,0 +1,10 @@
+{
+    "109ed18f9cc690c7367a622babf4dd580cdd441c": "confluent-oss 5.1.1",
+    "193b6b8c9654d310591767a9c87ae581633b35b3": "confluent-oss 5.1.0 (#35329)",
+    "a2e383b9e2270a3f8cd65d625fcf8fe4052fa91e": "confluent-oss 5.0.1 (#33928)",
+    "92d572018665136e00baab6b8229cf1c705fef16": "confluent-oss 5.0.0 (#30680)",
+    "046630ec4583fc1da63882fd3f533c61b840531e": "confluent-oss: set bottle unneeded (#29694)",
+    "37f38f7d05a7df14d2648487661e78eba77cc1fe": "confluent-oss 4.1.1 (#28987)",
+    "dd2550b9b92fdd932fdd02279efd563543060300": "confluent-oss: fix whitespace (#28479)",
+    "b1814bda721b02d0d196065cd79184afb47f9410": "confluent-oss 4.1.0 (new formula)"
+}

@@ -1,0 +1,21 @@
+{
+    "0b9dd90538e6b9ae56be23f087d0df4162558a2a": "ddd: remove pre-Mavericks support",
+    "0b337d451e2accf29f34a9048d6f9caf863d70c5": "ddd: update 3.3.12_1 bottle.",
+    "4af9f5eb5960550ed496db848bfe6eff4a539867": "ddd: update 3.3.12_1 bottle.",
+    "c5c3ee2ef5dcd137f3ce0cf14853b880d12b8ffa": "ddd: patch for Xcode 9",
+    "2f5a008e08a0c6a1caff7da528d13ef027e45f4b": "ddd: swap GNU url and mirror.",
+    "772c01c3f4446ecb70395630ff6e9132c2122654": "ddd: add 3.3.12_1 bottle.",
+    "5134a9426a9451bc87d9f60e196b360b6be1ae19": "ddd: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "35fe4f40aa41c9008c4aa805e40c6766fbcd6916": "ddd: Fix compilation with Clang",
+    "8e9a7ce6aa4e20679708fde832cba3213888fde9": "ddd: use checksummed patches",
+    "b717e35e4fc0b7861b6740d34246dc53cdd99451": "ddd: use linked rather than inline patch.",
+    "e6fa7ebde5466dfca1ae5ce7764767093170590e": "ddd: add patch for 10.9 build.",
+    "5cc8520ddd86bc2d9d693f5bff0d4e32b6eb1772": "ddd: depends on X11",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "902751dfd2f2921859f901136c4611b22e82dc45": "ddd: style nits",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "9aba56a6ad3fd1b801810bcb98c216bd4cf8cb77": "ddd: fix audit warnings",
+    "27fe9d90de1e8b2063c9be5d3f0ef48fd0f8840d": "GNU DDD 3.3.12"
+}

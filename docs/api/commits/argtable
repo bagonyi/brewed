@@ -1,0 +1,14 @@
+{
+    "0735bf2fb205e97a8530b79bda97833c7167641b": "argtable: update 2.13 bottle.",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4e99a83f8037afba5cee5c6a1242404b28d7ab42": "argtable: update 2.13 bottle.",
+    "6344ecf835a5146d3f4a9c939f851693d46ea519": "argtable: add test",
+    "b5e62cbf2418fed2356a625b86065201eb925f57": "argtable: fix audit about sourceforge link",
+    "9e324c62613203437dc2ea022cde7ed09d75293d": "argtable: update 2.13 bottle.",
+    "0b7bf21ca94b13cbe1fb07225c41f1d46cfd013d": "argtable: add 2.13 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b2f4a4821fc210b1c371c5a8828d5fc9db0b39ff": "argtable 2.13"
+}

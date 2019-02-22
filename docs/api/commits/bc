@@ -1,0 +1,13 @@
+{
+    "aab8eef3e79a51957ef2b957ff736d21e5e95a6f": "bc: update 1.07.1 bottle.",
+    "b90e6c9c0275937e42b207e58b394d69fe13763c": "bc: use *_by_macos.",
+    "c325ec2b425e8683967bd51acb58ab24ec85b267": "bc: update 1.07.1 bottle.",
+    "8a67d5d86a7900fc3afb8fcb08ef42c3a830d359": "bc: add libedit build option",
+    "1809bfc0320c0e89a803f0932e8abe5486fa629b": "bc: update 1.07.1 bottle.",
+    "9b8bd34a0c1a9e22e0fc082b1c596b06561a21ac": "bc: fix audit 'description must start with capital letter'",
+    "9240d1251ca24e2676b3199dcbab89618b1e8d5b": "bc: swap GNU url and mirror.",
+    "d907c1e5506c7abdfa65654780623f70e52e8620": "bc: update 1.07.1 bottle.",
+    "0bc044f1f76267c2ae4e66f13acd1c06621aaab8": "bc 1.07.1",
+    "c70e55350ac40b07e8503128029def3312551149": "bc: update 1.07 bottle.",
+    "651c03a74d547c078f8fc88031cda645e8f26435": "bc: import homebrew/dupes into core."
+}

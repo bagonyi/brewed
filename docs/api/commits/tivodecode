@@ -1,0 +1,17 @@
+{
+    "f7ac04e67566fef800e23ce564b6e555162657e2": "tivodecode: update 0.2pre4 bottle.",
+    "57b60664160959890cd0ec8a52c6c7ef145c0a18": "tivodecode: update 0.2pre4 bottle.",
+    "f23fdc4ce7c8bc148524cdd4f09cc85fc51dc4a3": "tivodecode: remove redundant version specification",
+    "49176c3f08947a16758d7ad5770650f5c1e07824": "tivodecode: fix audit",
+    "4fd00963195f326e60faaf33e0c6d78817c5a844": "tivodecode: update 0.2pre4 bottle.",
+    "2869602e8e6cdfac970db5bfcddd9e38ac2ffc46": "tivodecode: add 0.2pre4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "bed780824c94f15053303b152022b60d7e830799": "tivodecode: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a7fe0503feec98b710bb2c8ee017a696ee9f68c4": "tivodecode: fix download url",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "aa1df559d2f41164942f922fe43d85610dd97076": "Normalize SourceForge urls",
+    "8fdc6ab2c8aad4f9f6c841ac230fae6d8f1391d2": "Adding formula for tivodecode"
+}

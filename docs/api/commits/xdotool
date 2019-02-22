@@ -1,0 +1,17 @@
+{
+    "5e1a03c66e002be70c289804d5c6694307c6651b": "Merge pull request #36364 from MikeMcQuaid/xcode-installed-check",
+    "02e931d2011b50f0a98c2d126c1de860d5c1ebfd": "xdotool: update 3.20160805.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d71f71ff6fb40e5744cb728678250d61490cebc9": "xdotool: update 3.20160805.1 bottle.",
+    "fbc79aca832492cbd386c74d04138535d54c4913": "xdotool: fix build error on 10.11 with Xcode 8 (#19639)",
+    "ec14c50515d2b96190f304c25faa2b507e8956b3": "xdotool: update 3.20160805.1 bottle.",
+    "2f0485b7fc0ec0cd1e0ea423bb45ce750b1c8f32": "xdotool: https homepage and caveats url",
+    "5443f8ba78d49d1b4887d769bbe81ca0bdbe2561": "xdotool: add 3.20160805.1 bottle.",
+    "a6b69db465b5371d5d8e3a23a6c8788e775d1bbc": "xdotool: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "a6a25d6310407ed1964ae2db77ac2d8fdfaf4b46": "dwm, dmenu, rxvt-unicode, xdotool: depends_on :x11",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9ccb7bbe002486e0a4ada25c58f56fa7191ca342": "xdotool 2.20110530.1"
+}

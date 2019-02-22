@@ -1,0 +1,20 @@
+{
+    "9e184bbb1c630bebe750d252ad1e1c0ad3a2b6a8": "libp11: remove references to pre-Mavericks.",
+    "12285c9592c5b84a0f2eef57cd525f3900dc242b": "libp11: update 0.2.8_1 bottle.",
+    "d9d425413425631c938d20b32736985c42c24500": "libp11: remove :run.",
+    "0e9046783cd1f8b216f74eef6c23a26f5535aa59": "libp11: update 0.2.8_1 bottle.",
+    "e4443579d5b5dfd8a8915b95e6857f99cd166a3b": "libp11: update 0.2.8_1 bottle.",
+    "2c61454f4660d7ab40501662cd34b50b6fc81646": "libp11: update 0.2.8_1 bottle.",
+    "3c7a5694d2dba8b845272cb553c8281d65143dd8": "libp11: update 0.2.8_1 bottle.",
+    "2d0e4c21ef804dfa8ed7a7a97094a960ca8c282e": "libp11: fix system openssl linkage",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d4c7cd89732d84e150ef45b2f977b1101a5947ac": "libp11: update 0.2.8 bottle.",
+    "afe2109447b8d543ffbf864e770931fd20916825": "libp11: add 0.2.8 bottle.",
+    "b150cf56694ffc291d85f4b146f3db2c586bf49e": "Convert more symbol deps",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "35280bb142af84b9ae826d9a25fe9e3cf0485a4c": "Remove special cases in build-time dep audit",
+    "0084279225ea4694360872de7415c42d190ff276": "libp11: use spec deps",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "68011022fe01bd2fa4471c6fa9bf9a431a374472": "New formula: libp11 0.2.8"
+}

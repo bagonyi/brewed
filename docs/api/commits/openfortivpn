@@ -1,0 +1,19 @@
+{
+    "7338ab2d2fbc76f2a6325e5c55f2ca59097a3642": "openfortivpn: update 1.8.1 bottle.",
+    "4ed0447b92c6172a4828ea103e0a2427d07f546b": "openfortivpn 1.8.1",
+    "ab90c96772fca42c64979b074a3f3648eb44b6f6": "openfortivpn: update 1.8.0 bottle.",
+    "59b75a3b18201aef3aa5f5ec3cef693e64992a5d": "openfortivpn 1.8.0",
+    "686c0eff62da2429ab0b4891ceaddfb3b7d7cbb7": "openfortivpn: fix dependency order",
+    "cc2b3c1da6b33d299da6a291772e5e6341c7855e": "openfortivpn: update 1.7.1 bottle.",
+    "13cc91e112a434085bf0cab9500c30d4ab64aa05": "openfortivpn: update 1.7.1 bottle.",
+    "91b7cbcd04e1b129f03d12636c3b7961cca1ef3f": "openfortivpn 1.7.1",
+    "48e94655da6ada06870969cd7476d536a2fdf692": "openfortivpn: update 1.7.0 bottle.",
+    "c4c59c2120b7b6ed84215c9d49c2ba7e5ecd7d78": "openfortivpn 1.7.0",
+    "1a1133097a2b7265080767273ffb7cdefb74bd24": "openfortivpn: update 1.6.0 bottle.",
+    "5a78c986d601dff87b44dbb51c464a19035aab2a": "openfortivpn 1.6.0",
+    "e0a06155f83df72b5c056a5d28c047c6f17811fd": "openfortivpn: update 1.5.0 bottle.",
+    "53f84969abb7be9fb5dde51da03d9c141fc9559c": "openfortivpn: update 1.5.0 bottle.",
+    "bf53714da10677e81762a83fd4a9c132ae66d6bc": "openfortivpn 1.5.0",
+    "bf556568665256eee5d11c2d8e961309ddd664d1": "openfortivpn: add 1.4.0 bottle.",
+    "22d6d1d3090773f696f2b65871c5149de0531228": "openfortivpn 1.4.0 (new formula)"
+}

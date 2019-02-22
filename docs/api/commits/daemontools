@@ -1,0 +1,19 @@
+{
+    "2eb0adf3d197c2a541feb90521d7ecb9d7b96eeb": "daemontools: update 0.76 bottle.",
+    "1e3e0c4ddbaa83570ee61c7df85757206d923ad1": "daemontools: tweak caveats.",
+    "2a4efba6dbf9bf67c887e55362897d079935bac5": "daemontools: add plist.",
+    "7f7118e35dc0ab9b4ea66a99b2f83c3c2e82c80f": "daemontools: update 0.76 bottle.",
+    "2ca52ebd3b21e62b91abc60f53fd275ad25b50d4": "daemontools: update 0.76 bottle.",
+    "ed170d5d6edf71f66a191735285fdc4c07eda3b1": "daemontools: update 0.76 bottle.",
+    "bbb08cd4fda44a48bf780c6a7db7fba91600a0e4": "daemontools: update 0.76 bottle.",
+    "550b34e599442334ff3f49d5283efc6b3f5be7e4": "daemontools: use https urls",
+    "c23a0ce66e09751ad64abb0b2bd212346b258307": "daemontools: add 0.76 bottle.",
+    "70c0554dec9314bba913aa81e7947070ab4f505c": "daemontools: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "238c15c29d2b10d89a16c92fd7eae65aafa5cd06": "daemontools: use version attr",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9c1faadcf043fc5ac40432a137340c2f6250a549": "Added daemontools, a set of server admin utilities."
+}

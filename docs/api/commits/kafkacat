@@ -1,0 +1,20 @@
+{
+    "c0c80d6ca55fa6248cf3ca9f1889ecaf90bdd635": "kafkacat: fix RuboCop Layout/AlignHash.",
+    "03fb05e2f3ec17ea72733c811d4a8958f72dc393": "kafkacat: update 1.3.1_1 bottle.",
+    "750cf16aa9de4ec8ce1e684238f97eafab9299c0": "kafkacat: update 1.3.1_1 bottle.",
+    "e40b58a9cbaf3880c0f433063c33c8f524e145f6": "kafkacat: update 1.3.1_1 bottle.",
+    "b8531a753b9fafdd79617ab01659864ba4a84843": "kafkacat: enable json support by default",
+    "cf86ccbc7a8fb9b03f7442af46a7dd94aa661f8b": "kafkacat: update 1.3.1 bottle.",
+    "c6a5e7d24af26975ebab1486996643ae44c13355": "kafkacat 1.3.1",
+    "2dd3975fde8c323e9ebbf4ee8fe3c05b98524f27": "kafkacat: update 1.3.0_1 bottle.",
+    "20854428c1cdf1598f9c78312103122630ccf912": "kafkacat: move to tag/revision",
+    "aaca59c43cd1b590326cba67d1430aa7003ec07b": "kafkacat: update 1.3.0 bottle.",
+    "79dbc42a6207b368d35007e5178decc07d7f0994": "kafkacat: update 1.3.0 bottle.",
+    "1e88531a39550a728bf9e5f0577f6219fd3bb3bb": "kafkacat 1.3.0",
+    "e321bcabb05691d54ac19542a0a845116ec579dc": "kafkacat: add optional json support",
+    "56d6ea1006be8a5746496800235a0f0ffc08d985": "kafkacat: update 1.2.0 bottle.",
+    "b57124e56f850c4a466bf3d15d500ae3dd09b1a1": "kafkacat 1.2.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8be6f98efb5d4a8651266a4ad33d00fda4dab075": "kafkacat: add 1.1.0 bottle.",
+    "51c0eeabc7061ebe4077329affc9b6c1f95797d1": "kafkacat 1.1.0 (new formula)"
+}

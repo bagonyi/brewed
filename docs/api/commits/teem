@@ -1,0 +1,22 @@
+{
+    "180aeb3a47a8732acc61120598e83920d6f5019b": "teem: restore https for svn url(s)",
+    "a9e76beff7c48efe43fb0272413866f409e11012": "teem: remove references to pre-Mavericks.",
+    "645c2dad4ad55ccaecc31a5941e47af4dbcbf879": "teem: adjust svn URL",
+    "735f5f5e3d79fb663ae5818ebdab5874d3d8b442": "teem: remove options",
+    "6ecf4eddc78b7fe6c1070383aab6601a625ccc78": "teem: update 1.11.0 bottle.",
+    "73d203505974162caa67989108656901e267e7f0": "teem: update 1.11.0 bottle.",
+    "ee9f6fbc4102836856444b352c9b14ab2c98a8e5": "teem: canonicalize/follow svn url",
+    "7b55eb243be33bb635ee1db6796d1f5494ec0ab5": "teem: fix audit --warning",
+    "69f1ef171161080ca422640fd688df9ccce593e3": "teem: update 1.11.0 bottle.",
+    "970332bae940641341ab398b14c5eda307f47f51": "teem: update 1.11.0 bottle.",
+    "a0d5166ea8fba5a28720b47acd17a3ff56e94f6f": "teem: add 1.11.0 bottle.",
+    "346ee1459c56ca6d51689ada31f6b950d3d95c5e": "teem: fix build",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "683fcb0de9a2985c95ce3b5901bbccba0d9a8ea0": "teem 1.11.0",
+    "89a007d4a99c6a17ba172ac765980b179640fd25": "teem: use new dsl",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "32574b42a15fa1fab33074379abc8a6e18b51d33": "teem 1.10.0"
+}

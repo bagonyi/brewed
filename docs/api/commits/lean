@@ -1,0 +1,13 @@
+{
+    "8a22d204c7cc3b2456a70092a290e8213192bb03": "lean: update 3.4.2 bottle.",
+    "f2f8055eb15afe24c9490d6e8a3cdf60acd10215": "lean 3.4.2",
+    "e97ecb235d6bece6bf949a3f330be06099acc948": "lean: update 3.4.1 bottle.",
+    "ab1ff296851a313a2515d72ac5dfaee361fe974d": "lean: update 3.4.1 bottle.",
+    "3c5a55177dfc6c14b8f1cfa9b6c63cfeac3c2d97": "lean 3.4.1",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7403899c45c95d9e2e1bccee2a701de894cb827d": "lean: update 3.3.0 bottle.",
+    "6c7c6ae87eedae997acb5f98b362cf6dcd27ede7": "lean: update 3.3.0 bottle.",
+    "353258f4eaaae1cb6f12ba1cb06cc8b1ec5fc83b": "lean 3.3.0",
+    "6fb5ff035693281517baba5ed91844dc9428b39c": "lean: add 3.2.0 bottle.",
+    "12a957612bf6815ebc6ea054d753a7c8c3fda014": "lean 3.2.0 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "bb919ec33cf2d4d7a557f5d26236e3aabc713ffe": "wp-cli 2.1.0 (#35239)",
+    "e633f90c123749fc53d0c3c715cf835171c10021": "wp-cli 2.0.1",
+    "367058ffb74912918fd6a213684c1435cda7e0c7": "wp-cli 2.0.0",
+    "0b4bc3afdc858c250b8ca5bdc8ce5b149d03ce73": "wp-cli: mirror to Bintray (#28585)",
+    "1da3a1f7c82258660e0c38c34e40aa1bd77dcf42": "wp-cli 1.5.1 (#26917)",
+    "2368f37e2efcd8eac2265f5bbd144d8165ca75b7": "wp-cli 1.5.0 (new formula)",
+    "852a5bfb5923a15082c46f7aca495fb78b804a13": "Remove wp-cli",
+    "64df361c359fba8ca4e77fa7e776100f833b06e2": "wp-cli 0.9.1",
+    "fb38ec5c3370d9fe982dea62903420dc038312b6": "wp-cli 0.7.0",
+    "814266e8531440557fd1e00c404655e1f072e73c": "wp-cli 0.6.0",
+    "a209c24ac2707e3e8ec6f46424686b05de9c4673": "Automatically append shell completion caveats",
+    "77e22c550300cdfe3d0e7fde1ad7baf2ef4e2943": "wp-cli 0.5.0",
+    "233ab648fb383d08aecc28458e486733189e63a3": "Unify git submodule comments",
+    "0a6d23324c30a57d1bd875262054778086d776a4": "wp-cli 0.4.0",
+    "17a458d1e84bbaa076a5455e37dfe0f10929dabc": "wp-cli 0.2",
+    "f68d3de18f5615dabe80b72448d90b9248ebe8f8": "New formula: wp-cli"
+}

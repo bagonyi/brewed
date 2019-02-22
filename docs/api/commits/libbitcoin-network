@@ -1,0 +1,8 @@
+{
+    "7bbe756309863c7144610f7236fa2f5011ed3bb4": "libbitcoin-network: update 3.5.0_1 bottle.",
+    "76d902fa3dd61aefbc62ade38f5814dc5aeacab8": "libbitcoin-network: revision for boost",
+    "31448b3325ac2deb4f48161f39814ab22dbeb345": "libbitcoin-network: fix test",
+    "d67bde959ff50cd24a21bf5e0d3e667e74697656": "libbitcoin-network: update 3.5.0 bottle.",
+    "f137f8c4292a009d62669c8fd9b7e1dc043397ae": "libbitcoin-network: add 3.5.0 bottle.",
+    "e18eadd433549c5facc9daa90574fd08a00759bc": "libbitcoin-network 3.5.0 (new formula)"
+}

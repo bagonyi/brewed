@@ -1,0 +1,7 @@
+{
+    "54824673da36d000dc4ae6720a6cf6836b827e3e": "badtouch: update openssl env var and comment",
+    "d95914e639b6ca2ea18ece21fbe281270f6319a1": "badtouch: avoid cargo deprecated syntax warning",
+    "8de64145ca48b35c43b3a93dc653532a91011dd8": "badtouch: update 0.6.1 bottle.",
+    "b86961b6697e8ccd0ae0fdc20142bde2abe8f344": "badtouch: add 0.6.1 bottle.",
+    "7ddff49f9f3b1f32f91cf31cf56317f2e5c823b1": "badtouch 0.6.1 (new formula)"
+}

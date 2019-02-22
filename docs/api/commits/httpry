@@ -1,0 +1,19 @@
+{
+    "5c4182f1a375b23024d7243b1dd40dd93fcc88f5": "httpry: remove references to pre-Mavericks.",
+    "79c52b599bed0ae93a90f7c304599f6c277812a9": "httpry: update 0.1.8 bottle.",
+    "ee50b16c58833505c18d61e59f07e3fba7970428": "httpry: update 0.1.8 bottle.",
+    "360ce3f391cc2278ffaa5c18cae61b176381c995": "httpry: update 0.1.8 bottle.",
+    "2919cdca5928adac798353a1cedde0eec188199f": "httpry: update 0.1.8 bottle.",
+    "8db690080172b14b1035e12d9be7ad80f7a1defc": "httpry: update 0.1.8 bottle.",
+    "17088808de2b4f76f19dedfe14ee09079ff33335": "httpry: no longer needs bsdmake",
+    "778df6b56ea2ed9e7496e1c04c9a0c323ad7c10f": "httpry: add 0.1.8 bottle.",
+    "f52e04e12f2905a650187e87955abfcda20dcadf": "httpry: fix dead url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8aa49242ad5cc783463f4a544d2da3c351f45896": "httpry: modernize bsdmake dep",
+    "ed42d353af975241c4771c9c5c4bc1612697461c": "httpry 0.1.8",
+    "77508e4b4e8fe032b9684553752997a087c967ec": "httpry 0.1.7",
+    "11c72b9621208f61595275468f5360695c626d68": "Use :bsdmake",
+    "a52ab0c49da9fd9887ead28e90ff7a29248a30c1": "bsdmake is a build-time dep",
+    "f0ab6455bb403beedb7fd68ecf5e000721ad4b96": "Depend on bsdmake where necessary",
+    "8cd8541e9fc2b7aa13cd24b13cf8b49c7d0c48a8": "httpry 0.1.5"
+}

@@ -1,0 +1,15 @@
+{
+    "eafe6ec15d0544fc524bea7ace1085f20cdec20a": "pkcrack: update 1.2.2 bottle.",
+    "6f5d884a2ebe1e373dfd4f19b012132c32aafd6c": "pkcrack: update 1.2.2 bottle.",
+    "b0ba28416b32fa9fa2e36e81a2761b43ff949166": "pkcrack: remove patch (#18207)",
+    "afda7048c29047d0d942be9ee19c4ba63016a72a": "pkcrack: update 1.2.2 bottle.",
+    "d6db7595a61b9280c2a2b1ae114f90c997254302": "pkcrack: fully scope test system call",
+    "cc8e38733b6567595157aad333546e36180126a0": "pkcrack: update 1.2.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e86db330920d368cc33ffe198203950816153e1e": "pkcrack: update 1.2.2 bottle.",
+    "cdfdcde9f2e4a0405524bdf8a66a02e85f8a4786": "pkcrack: conflicts with libextractor",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "98c61093d17fed67ad0d98d7c9bb1575d4fa6a46": "pkcrack: add 1.2.2 bottle.",
+    "d01ae16a363ac7c20b685357e23abca86debbc31": "pkcrack 1.2.2 (new formula)"
+}

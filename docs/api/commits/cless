@@ -1,0 +1,23 @@
+{
+    "c7193197deeaf2f61264d99e812969731adc2f73": "cless: fix dependency order",
+    "f5fed268e386c17e4b803d0c5567484decc851f0": "cless: update 0.3.0.0_1 bottle.",
+    "11429ef53b1232208785b14ef4302946afaa1750": "cless: update 0.3.0.0_1 bottle.",
+    "5e636664412a653353a3bb514291f3d0dd379eeb": "cless: update 0.3.0.0_1 bottle.",
+    "7581feab60501b3e9b0c486d5e486bee9570788c": "cless: depend on ghc (#16119)",
+    "c692b5ecb59e59c9128cc641d43eec67f58f59f0": "cless: depend on ghc@8.0",
+    "fbf239b5bcbd6097281b80cccb202d9118dca9ec": "cless: update 0.3.0.0_1 bottle.",
+    "1a90e6479df23d49fbb372a75e9874100233bd34": "cless: update 0.3.0.0_1 bottle.",
+    "9fba3bfb5e1252b25f1a76875b2cd16296949100": "cless: GHC 8 compatibility",
+    "4efecb1c002c508665ed81ae853bfd85c288e8ed": "cless: update 0.3.0.0_1 bottle.",
+    "e36422106b78aba00b9ccaa3a6a883c074b2064c": "cless: simplify formula",
+    "2414899a73da55ab936b2ee004c3d0bb254d6508": "cless: tweak formula",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "362d6d14602362a1f704e66f6297b69c631e2c9c": "Cabal: move fails_with to a class method",
+    "7db70426fc5a8f23d49395ae5e4f5947880a9b89": "cless: update 0.3.0.0_1 bottle.",
+    "32ca8768c937bd60637b2b525e864b94406bbf60": "cless: remove gmp dependency, \"--allow-newer\"",
+    "0026b47384698c17534f5d836b188feff57156f1": "cless: update 0.3.0.0 bottle.",
+    "ee3035e7b58e01d5aedcccdf30c909ea21223c39": "cless 0.3.0.0",
+    "c47f3cf38a52852e5755b52b3032723ad1290943": "cless: depends on gmp.",
+    "cc09813f5f7f9e1b9740604e219f71a863c70bd0": "cless: add 0.2.0.0 bottle.",
+    "77c2847bba570d171e0ca1ecd6cbcdccbd3f6871": "cless 0.2.0.0 (new formula)"
+}

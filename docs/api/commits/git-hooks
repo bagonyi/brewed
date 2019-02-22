@@ -1,0 +1,13 @@
+{
+    "5ef440d158d1644cf8522d56d3f94c5e819fb913": "git-hooks: remove references to pre-Mavericks.",
+    "f400fe1490844f5b32c5b5c9bf58b2412930c33b": "git-hooks: update 1.00.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "edbe16e79d35b98c3bbfa517bb92e31da212558c": "git-hooks: update 1.00.0 bottle.",
+    "9be29751dbd84b1b50441242dfaa9705e91fef7b": "git-hooks: update 1.00.0 bottle.",
+    "f8ecf91b4c78b92ceca6a8037b0d590131ceb7ca": "git-hooks: don't lean on HOMEBREW_REPOSITORY",
+    "62c1b6ea6e7620363f034d629e03d879b0b41dbe": "git-hooks: update 1.00.0 bottle.",
+    "29239cf06f01fc42481f85aa8117079c03a222c2": "git-hooks: add 1.00.0 bottle.",
+    "5c43c2a32965506296dfd2268c01ae726cfb3e00": "git-hooks: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "17a0788474608cf403b3c32515025165ff1e737d": "git-hooks 1.00.0 (new formula)"
+}

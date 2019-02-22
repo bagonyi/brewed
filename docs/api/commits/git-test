@@ -1,0 +1,8 @@
+{
+    "2b6558b3a35e22f5d45ea2a79d5522241c8f5729": "git-test 1.0.4 (#8651)",
+    "82fb07e27e0cb20c126e19f89d30be7ede632aa3": "git-test: fix test",
+    "a057ca78929142204d3424fbbaf65d3bdb5726d0": "git-test 1.0.2",
+    "f42d22ecd3e498a144b3acaea300bde803d111e3": "git-test: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "17ed7a2a8a06f806a413eb38c72a53271943238b": "git-test 1.0.1 (new formula)"
+}

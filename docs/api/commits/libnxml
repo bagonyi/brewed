@@ -1,0 +1,14 @@
+{
+    "be857534b781a850486d7ec334ec12c8d85db773": "libnxml: remove references to pre-Mavericks.",
+    "fd89a3edb4fe26fd61ef4837e9a8f45a3d5616d0": "libnxml: update 0.18.3 bottle.",
+    "ea43cbfc5508c2ebcedb1307c045457d01fc027e": "libnxml: update 0.18.3 bottle.",
+    "c9aa5476dc26d3ffaad4b295a5599edfd96b48ab": "libnxml: update 0.18.3 bottle.",
+    "b0cacec4bb9ea43ae8f5e85e8b7f89790b998404": "libnxml: use secure urls",
+    "597467905f6a42642070b3351aedc339cfd3e111": "libnxml: update 0.18.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0cc67e7b86e6b13a4cef1fbe97676a7b6a63efc7": "libnxml: update 0.18.3 bottle.",
+    "e58187893665493de1cc33ec170dadb35448a05b": "libnxml: add 0.18.3 bottle.",
+    "18b40b0c34a694e991f13a657b4a1b1ac44f06d8": "libnxml 0.18.3"
+}

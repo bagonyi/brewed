@@ -1,0 +1,12 @@
+{
+    "4f84efe4abaeae976c2f3a8b941917b661121e08": "docx2txt: update 1.4 bottle.",
+    "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
+    "ba03a0b0129da1ef85b8285ff73fb8b2f4b0d51a": "docx2txt: update 1.4 bottle.",
+    "d8acab4802895c0b94be55bdfc2c348976b3fd7a": "docx2txt: fix audit --warning",
+    "38baf5cb7fe5d04eaca7f0a27a7b12f42661492c": "docx2txt: update 1.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dcc6d65163307850be6afd9a282cecba46ed856d": "docx2txt: use secure url for resource (#2449)",
+    "b7ec946d9468170df8a0784340e8b39763bc0d97": "docx2txt: add 1.4 bottle.",
+    "449314903243247eab5630d0c3918d3a5a914768": "docx2txt 1.4 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "77c0793f478ce105f98c7c3dc91052a1ef3a7890": "garmintools: update 0.10 bottle.",
+    "81ebb5ddb2153fbbc3e0a88cac15431273923b8b": "garmintools: update 0.10 bottle.",
+    "fa82df98feea79b33bfaab1cc34d6f1e86e0ac8e": "garmintools: update 0.10 bottle.",
+    "7e44b212b08f6702e61a226c7102969075c4c13f": "garmintools: migrate to archive URL",
+    "52c851a2c9a3398cf0a5a1af8aa77aa157e7309e": "garmintools: add 0.10 bottle.",
+    "fbf4e252bc119621abf3c4eee3ffad19375267a9": "garmintools: test added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "6f155dc85fb0d03aaf829de512463bdfe1951d33": "garmintools: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "046387031af685d4ee43d86ad7710732cb827bf0": "garmintools 0.10"
+}

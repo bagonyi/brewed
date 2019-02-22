@@ -1,0 +1,18 @@
+{
+    "bd9ca586f9038e88749dbdcc46570ecc47f82573": "xspin: update 5.2.5 bottle.",
+    "a5fc294f3ab6a42a22da34951a4e4c054a716168": "xspin: update 5.2.5 bottle.",
+    "a86af15dd53952e8a540a68e022102c00cb5de57": "xspin: update 5.2.5 bottle.",
+    "01fb7af95bfeb6cb0387c92be44fe40873f21fe6": "xspin: add 5.2.5 bottle.",
+    "59d430421f8525cfc9fdc371133d0bae150cd630": "xspin: use https homepage",
+    "fe9c4cfc987e74c97a73ae34e3d8e335a687dba0": "xspin: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "be5c121e233f509fab8219171922931f0ce39a6a": "xspin: use patch DSL",
+    "36f99692b17a2303b5a091a175aab9faaa8edf88": "xspin: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dc521bb9d7917ebdc6b24cbdf94f2379ab45e892": "xspin 5.2.5",
+    "7490d38e84d4a332fbc831458c628303ea53f477": "Use Pathname support for renames.",
+    "6d1c59c75ce67a9e4c048cebf25f532de1c4f245": "Use dot versions and comment patches",
+    "473253db7409e70171db09daddff9dbdd860e734": "xspin GUI 5.2.3"
+}

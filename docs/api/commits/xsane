@@ -1,0 +1,18 @@
+{
+    "a161cec09031102f20b8b1f1a97b38020804e2e4": "xsane: update 0.999_3 bottle.",
+    "97a95dae8a41aca1a8caf9a6c8211a49dbf9e85f": "xsane: update url (#30883)",
+    "7f523eb9686615618fe8c5643c6794dc574be3f4": "xsane: update 0.999_3 bottle.",
+    "b297d99a99013828ef682217849358710ba6eed9": "xsane: revision to fix install receipt",
+    "37d495023a95bfbf2e9233814ee13b8ec40777f5": "xsane: update 0.999_2 bottle.",
+    "11b4599930496124f339c45d948963101aeb7535": "xsane: update 0.999_2 bottle.",
+    "81fae287fa98b0cfda6263735ecda49eed9c54f2": "xsane: revision for jpeg",
+    "e09dd288aa70687930501cb5a13f041874ad6c1e": "xsane: update 0.999_1 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "fba5c8f6b07c6f8a6dc8a69568c04afd2e50dcc3": "xsane: add 0.999_1 bottle.",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "bc55eee11d6a402f56ad5542597ca9b04fac77ba": "patch information added where necessary",
+    "9f3b0d5473e37ade9a4e0a71510269c86b3f8fed": "xsane went quartz-only",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f66db9b76a4a6ea46c7191256252b38d1b995e00": "xsane: use checksummed patches",
+    "c0798bcf016866de48f9631263fb435371d31074": "xsane 0.999"
+}

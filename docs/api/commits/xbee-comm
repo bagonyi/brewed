@@ -1,0 +1,14 @@
+{
+    "7ed18f4529ec1dc54eaf33008f9562668cd6b1bb": "xbee-comm: update 1.5 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "79e850d1f8eea9b689956d6cb4a3d465fc29d9e5": "xbee-comm: update 1.5 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "e245f450845cc4abcd4e44a55c36750355a2b474": "xbee-comm: update 1.5 bottle.",
+    "690039cdacdd739033d7e29da0bce0c0d3afe579": "xbee-comm: add 1.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ffda6fa18e6124dba54d22a6e85920d7dabdb60b": "xbee-comm: modernize autotools deps",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "ea72631f516d3030ebae466ab103b4a87e3e9613": "xbee-comm 1.5"
+}

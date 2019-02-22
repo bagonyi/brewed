@@ -1,0 +1,20 @@
+{
+    "59967845ea0c500b87a6b1c273297f64102a63ae": "gengetopt: update 2.22.6 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "400c742fad575ab9b0a54a674c3cd636d8a0eefe": "gengetopt: use assert_predicate instead of File.exist?",
+    "c0c15bcf4e72178cad5a0d72f44254dd1529cfae": "gengetopt: update 2.22.6 bottle.",
+    "e7752f1aab3dfce3d94458acc7dc64d44a613a25": "gengetopt: swap GNU url and mirror.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "7ec04fbfab8f2e9357173ae268cea0836022fef2": "gengetopt: update 2.22.6 bottle.",
+    "5830b64a35689e7d65a4970b87baa662f97dad23": "gengetopt: use secure url",
+    "e55583ec6b171302e1bac835ad2243e834028db7": "gengetopt: add 2.22.6 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "eb60bb9c36867ec8ccf0fd34d4f215f729fcc112": "gengetopt: add test",
+    "bcdabed16286b40f16e99fa0f782d48376593774": "gengetopt: style nits",
+    "9c19a2737e20e62ea347fb5eea95ceb1e360a106": "gengetopt 2.22.6",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "9332954bce360f4dfa75406a50caf87bf85263c1": "gengetopt 2.22.5",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "b79bf8d5a47b5ee760f2c4470e94742c424cae6f": "gengetopt 2.2.4"
+}

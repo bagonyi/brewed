@@ -1,0 +1,21 @@
+{
+    "e470dc2fd3c6429ec87b947c2ec153f0c2b8df5e": "elm-format: fix RuboCop Layout/AlignHash.",
+    "1773eaeda8e35ef834f2bcae02996df7bcc419a8": "elm-format: update 0.8.1 bottle.",
+    "1504fd436e462ad4fe03efa67c369218b378fdb3": "elm-format 0.8.1",
+    "4e9f7ef0401f696f1d1c7cc2f30cc98852a63835": "elm-format: update 0.8.0 bottle.",
+    "ca7fe2d1475e0e83523e06d10016a766a9763224": "elm-format 0.8.0",
+    "08deb71bb29c24f534a6e2702f5b4562e5060655": "elm-format: update 0.6.1-alpha bottle.",
+    "98d7cfd6d83a0bd5b8695f67d268a7279fd469ec": "elm-format: fix whitespace",
+    "7376d000c62667e5196289db523aa14d14dd49f1": "elm-format: depend on ghc at build time (#25587)",
+    "de7d17a12af0ada2ebd4854b9dbe76d820bc287b": "elm-format: depend on ghc@8.2 at build time (#25519)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "efbf1a11bf26f29f9b904868b33ed056679fd17a": "elm-format: update 0.6.1-alpha bottle.",
+    "1928c0a66834f704ee3e171efc9452d0fc6a5174": "elm-format: depend on ghc (#16121)",
+    "ff4eb4842d2fdf75f0b25c7f26c47ccb819ab6c8": "elm-format: depend on ghc@8.0",
+    "6aaac84053a5cdb1f67d2900fa0ad208887474c7": "elm-format: update 0.6.1-alpha bottle.",
+    "e5897ac962edf3893e7c7ccb3a191c1cb1b4811d": "elm-format 0.6.1-alpha",
+    "93758c4c1a886a8ad898ef38b80da8dd1da8cac9": "elm-format: update 0.6.0-alpha bottle.",
+    "b093b07744f73521f54c7ac1267cde4ef25098dc": "elm-format 0.6.0-alpha",
+    "cc4d864c7b3d9f7cf537b05dec8a1ae6800cb7e2": "elm-format: add 0.5.2-alpha bottle.",
+    "6213632286aff1a73845797ba775cff582d9dc1f": "elm-format: import from Homebrew/devel-only."
+}

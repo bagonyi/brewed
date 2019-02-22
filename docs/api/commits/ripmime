@@ -1,0 +1,14 @@
+{
+    "8a97a0316d11795fe596cf26fe80a7f65542a2a9": "ripmime: update 1.4.0.10 bottle.",
+    "f857491204db5b8074dd6ddfd5667cc991d46222": "ripmime: secure url(s)",
+    "ed962730dcd320496e3c315899917822e84c0ea4": "Revert \"ripmime: add test\" due to test error with server down",
+    "5feec206526f86466982a412d4707bc32b2f516b": "ripmime: add test",
+    "1e09c1d3076c286793455cd43adeabd207584a38": "ripmime: update 1.4.0.10 bottle.",
+    "183cab6f29d088c29d264f1b0fa5f57c7f14a00a": "ripmime: update 1.4.0.10 bottle.",
+    "a7849e6d4fc1e72f8193ffd9ed724961f9935dc3": "ripmime: add 1.4.0.10 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9478d695818a9a97f554007a9abf431408937af8": "ripmime 1.4.0.10",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "9ba2b3a6ff11e2d4a0c431ece49d60887580b75e": "Add ripmime 1.4.0.9"
+}

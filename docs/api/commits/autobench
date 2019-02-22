@@ -1,0 +1,14 @@
+{
+    "a703a310817181000941fc4438948ffc697d6944": "autobench: remove references to pre-Mavericks.",
+    "5bdb5aedfd3e62e204d7b3fa6792cf9e1fc1bcf1": "autobench: update 2.1.2 bottle.",
+    "f2fb2a6247fa1f8da936e808b08a1b439c44d9c4": "autobench: use assert_predicate instead of File.exist?",
+    "3d232fb06cb4c5ce966500ad47a6c8f1af996085": "autobench: update 2.1.2 bottle.",
+    "bb49ded8c75f47310de3926ab54011a250001b98": "autobench: update 2.1.2 bottle.",
+    "0543989d22a875836a0b6fcb3b42eb8cc63aad65": "autobench: update 2.1.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d85ef99072a3eff300f4865abdb81d13f1befe06": "autobench: add 2.1.2 bottle.",
+    "b516d67e31227dd6969e42f87964c36939f9f538": "autobench: test added",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "17612b94f4b43d25266d6e95db33f580a2503413": "autobench: avoid inreplace",
+    "a4d261441a3e6da9e9548495c2998e625e5fb3cd": "New Formula: autobench"
+}

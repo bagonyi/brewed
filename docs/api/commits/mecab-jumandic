@@ -1,0 +1,19 @@
+{
+    "d8ca338b19c4ee5cdfc3cb52a11d3a4e6d7a22c2": "mecab-jumandic: remove options",
+    "e5b821eee923aa21c5dcc4ec2e0bf667db1398b9": "mecab-jumandic: update 7.0-20130310 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e0220ec803274589f6e2ac16202fd7204e5a69fd": "mecab-jumandic: update 7.0-20130310 bottle.",
+    "62de70636cc5b2120b53b0075eca0882ee9cb58a": "mecab-jumandic: fix audit failure due to option name (#11902)",
+    "2cd94c9f848ae9488db1e1845aba2867f6e87697": "mecab-jumandic: update 7.0-20130310 bottle.",
+    "42205b29cb87d6b3a5d6ca09c9dd2a1f89a2df1c": "mecab-jumandic 7.0-20130310",
+    "31158ecd7f78bc241d76ecc07f5453b63316aef2": "mecab-jumandic: update 5.1-20070304 bottle.",
+    "79443819eb56de799e6e46badcd65fb52ec03417": "mecab-jumandic: update 5.1-20070304 bottle.",
+    "bda3d82ea6b995b84200d9171d478e57c446d592": "mecab-jumandic: use an https homepage url",
+    "6bef23250889991548b3dfbef5a82e601d022dc2": "mecab-jumandic: add 5.1-20070304 bottle.",
+    "ca496ff457b9e26ebcf4748f5a271ec457074e31": "mecab-jumandic: fix for sandbox",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4f729a8fbeabf968e8cbb845563bd4bf0449ae25": "mecab-jumandic: fix version",
+    "70f1daba232cc8e9a2cb1f8dd4199760bb25b6f8": "mecab-jumandic 5.1"
+}

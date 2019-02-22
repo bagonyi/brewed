@@ -1,0 +1,18 @@
+{
+    "24f2485b2788d10935c1ea97fef2eed6343ce95e": "icon: reduce maximum line length",
+    "a88264a74978847499e2320fddc97c4cbb036e7f": "icon: update 9.5.1 bottle.",
+    "5bac7403d5afa786b5a43d93573a146d7058bc0d": "icon: update 9.5.1 bottle.",
+    "e130cbafee3cee086d517558d82068ae9fa8cde1": "icon: fix audit --strict expression order. (#5673)",
+    "a007d8bc37622c737c51ee12966112128bd0519f": "icon: update 9.5.1 bottle.",
+    "f93d33e6b58e0d4445233be3106692952afbc883": "icon: Add test.",
+    "c8b6e5ae75091dafea794f9946a6d97c39ccf70e": "icon: use secure homepage",
+    "b5b613ad9d9a2b69ccd6f2d31a1b97ccfc28e2b8": "icon: add 9.5.1 bottle.",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8b93dad0b5905973dd6a6b60ff74132a479818a6": "icon 9.5.1",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e01dc0d03a96e13fd4b7d37ae7ae360c4d5c75d2": "icon: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "feff1bb0245e32f5ead32219a18707851f19ba88": "Add formula for Icon 9.5.0."
+}

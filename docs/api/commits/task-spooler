@@ -1,0 +1,20 @@
+{
+    "181c182dfae9679922567ff32f67a715562252db": "task-spooler: update 1.0 bottle.",
+    "37f98522e59807d7dec6acf370278350d509d3fd": "task-spooler: secure url(s)",
+    "7a520e5a3fd7f77cb8eaf78d203a78d77a6dd1e1": "task-spooler: don't conflict with moreutils built --without-ts",
+    "d00b6d2a4377ee8213e92578758739e17d52fa4a": "task-spooler: add a test (#20852)",
+    "fc47426a267f1c15bcb9f806ae29348273b5d086": "task-spooler: update 1.0 bottle.",
+    "e47a5d112028ac897e653209e5d81a589f3616bb": "task-spooler 1.0",
+    "060e5654f544d232fc5e0a51bb7b52f08a2d860b": "task-spooler: update 0.7.5 bottle.",
+    "6296642089346315e69544c4dcf3014bb3ea98b7": "task-spooler: update 0.7.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "c338a4366b2ffb1026f3148c3deaa129979238d5": "task-spooler: update 0.7.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f043514df076efe1a3bf8974c909fbbfc9589e24": "task-spooler: add 0.7.5 bottle.",
+    "218c1e06d96684be6307924f5734ba580d5df54d": "task-spooler 0.7.5",
+    "06945ba84692fa92e2b1554154bc0d3c8547c24f": "task-spooler 0.7.4",
+    "e28e011e06c38cf08bebf6e416173a9be0eb9553": "moreutils and task-spooler conflict",
+    "2db4e2badd10389a01c2b1b9d97ba4f351360706": "task-spooler 0.7.3"
+}

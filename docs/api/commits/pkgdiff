@@ -1,0 +1,14 @@
+{
+    "df89e97d4eb366882449da8d2c1039a988fc3bbd": "pkgdiff: remove options",
+    "bf8fb8dc51f1077605356a7055c150a634c8f30e": "pkgdiff: update 1.7.2 bottle.",
+    "5da5f1435658ab63783f45bb985cfc0849e15087": "pkgdiff: update 1.7.2 bottle.",
+    "4cc640261a77959a5f895e17b3d71dff97185181": "pkgdiff: update 1.7.2 bottle.",
+    "2677254ccb92f3e9712dcec435dd31562395cba1": "pkgdiff: use full path to executable in test",
+    "8b9796b40a8c7542b349d44221ffb0c06fe27616": "pkgdiff: update 1.7.2 bottle.",
+    "58d80f683ce342baed62ed969c3548cd6ddaf3bf": "pkgdiff 1.7.2",
+    "eb37521fc7df80a1f2554eba39cc990cf90149c0": "pkgdiff: update 1.7.0 bottle.",
+    "a116e83e589d6dae0808a14c614d35c7ef4474bd": "pkgdiff 1.7.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "23266654c5f1b0077bb949fe2d2fe3e00262b22b": "pkgdiff: add 1.6.3 bottle.",
+    "ee3f4babb5aa25a925b8e6fb56457e1298f18ebc": "pkgdiff 1.6.3 (new formula)"
+}

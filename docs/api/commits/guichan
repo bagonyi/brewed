@@ -1,0 +1,14 @@
+{
+    "308d1a542fede36a7270f3c2e50ed19991711908": "guichan: update 0.8.2 bottle.",
+    "cc25f9a82f11409b23e8a6b51727dd851adb308c": "guichan: fix test",
+    "b7b592e59cfbda2dea1d7760d990b94e2f8cdbba": "guichan: update 0.8.2 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "59f4afdf03e6636874aaf2767076327e7fe881ad": "guichan: update 0.8.2 bottle.",
+    "538fc289420461ef5f622764021b61bf1827e822": "guichan: fix test on 10.13",
+    "39e1c419a51fcbfbf518e73390d063fa73a6f278": "guichan: fix audit 'description must start with capital letter'",
+    "5167054f6534a6ebb9b4989b24def03769798d38": "guichan: https url",
+    "a21102cb36c0f1165d7ccf91220c7e7fcf0320fa": "guichan: fix audit about sourceforge link",
+    "6f22a861545cc2e3e892df6d090f86e9696e3788": "guichan: update 0.8.2 bottle.",
+    "870a8f11d389a4c7c39bea363c8041cc1faa6036": "guichan: import from homebrew/games."
+}

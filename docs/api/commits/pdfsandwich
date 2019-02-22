@@ -1,0 +1,15 @@
+{
+    "0695a3dfdbd0de7a4843368ccee436dfda4fbfb2": "pdfsandwich: restore https for svn url(s)",
+    "70d37edfc7b08c4c8a41d5aea49422a5a6792059": "pdfsandwich: revert \"update test\"",
+    "fcb15fb012bfce5dc358bf05d88c9b5bdeb548bd": "pdfsandwich: adjust svn URL",
+    "034304851221788c06e58f229f164e8b9eb4494b": "pdfsandwich: update 0.1.7 bottle.",
+    "3e745f139c1a0722f474c12e1283c1130787cd9e": "pdfsandwich 0.1.7",
+    "f218ee4833159954b4b0254bdb4bdb9ed205d638": "pdfsandwich: update 0.1.6_1 bottle.",
+    "5051e66869a89b314d1cd1196f5a4abfe2ae5899": "pdfsandwich: update 0.1.6_1 bottle.",
+    "9687c9b84e3f4564cd647d7f4511b9210779420b": "pdfsandwich: revision to fix install receipt",
+    "f142eb414c6f65913f574ba0521e84a687bc9d4d": "pdfsandwich: update 0.1.6 bottle.",
+    "4490259ea0337b8bee545648b69f721ef288916d": "pdfsandwich: update 0.1.6 bottle.",
+    "01698486c7204fdcf8875d0f63326793bc168f9f": "pdfsandwich: fix for unlinked poppler",
+    "6397923296c17725a66f3dcd2919a6915d16d422": "pdfsandwich: add 0.1.6 bottle.",
+    "c80d99d531d84d7a9ff2f10f0d94b52a5eacffe8": "pdfsandwich 0.1.6 (new formula)"
+}

@@ -1,0 +1,21 @@
+{
+    "18c730346f0111bc12dbe862b7cef7fc5601475e": "molecule: update 1.25.1_3 bottle.",
+    "6166b37156b9b66856c56d2b43bcc83abb70d59c": "molecule: update 1.25.1_3 bottle.",
+    "24f88666e4a1d4e0db54cf65c326aa6c4599361e": "molecule: revision for python@2",
+    "962ea80de0b495e7b60a3443303bdc0d25a4cc47": "molecule: update 1.25.1_2 bottle.",
+    "437f9ff8b24be4ca90869ed28e649872c3d91c46": "molecule: rename python@2 dependency",
+    "bcc067c2e1c387d3ea74b181476115eedb7aaf32": "molecule: update 1.25.1_1 bottle.",
+    "28716b7de1f627a4f0daf771cb42daae0f25e800": "molecule: switch back to openssl",
+    "b496482d135dbc7a4f70868d6ade194511b09dfa": "molecule: update 1.25.1 bottle.",
+    "76a8c2ae3426528dfe18fdd880cb55d36bfff740": "molecule: update resources",
+    "a24462db05aafb19bb85dc928187b5dca8c51aef": "molecule 1.25.1",
+    "e88fbaf66660c51d43a9df31b45e48bf678e3184": "molecule: use assert_predicate instead of File.exist?",
+    "118e8f689867c5519e11559fd413e12585a24150": "molecule: update 1.20.3 bottle.",
+    "026dd57878bda280d904ae750557571e84cea970": "molecule: update cffi and cryptography",
+    "2623599ca090dee9ad9c00ac7e03d9631949629a": "molecule: update 1.20.3 bottle.",
+    "0a446779a1ab569b802c88b085957d02d188d5f4": "molecule: bump cryptography",
+    "eb903a7215706a59c6aaac844986dfaa2cf41d64": "molecule: add 1.20.3 bottle.",
+    "68ee193ca6c8f9eeded8c3af8dd1d84b7543b4e1": "molecule 1.20.3",
+    "6c567dd0978431e666e3ba4238958bcb1ed7a37c": "molecule: move to correct Formula directory (#9049)",
+    "d4381ef7df0cc3563c22a33c7e0fdf07421cf6e7": "molecule 1.17.3 (new formula)"
+}

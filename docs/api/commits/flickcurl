@@ -1,0 +1,18 @@
+{
+    "78499c6e048be38f88fa167b9f796d339d2bbc1d": "flickcurl: remove references to pre-Mavericks.",
+    "40254d5dc96e0082331502b0e7488d2e26b28c0f": "flickcurl: update 1.26 bottle.",
+    "45e2a5aac3335cd2c370c0b0b77a75e477d8ab91": "flickcurl: update 1.26 bottle.",
+    "3ad606da0c2d41a864ad7b77eff8d16ad718dc19": "flickcurl: update 1.26 bottle.",
+    "68c2be87b011c9fb4b1e131586ad424985bb39cc": "flickcurl: update 1.26 bottle.",
+    "bba8c5c7cb43cc32c2f8e1e9778fd2a18b454689": "audit fixes: F 02: findutils - fmdiff",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2a8f150608f589fb2ccfc330382de881921fc6ce": "flickcurl: fix test on 10.8.",
+    "7596d465ecaccda4b2fa9b5555e67a38a88c35cd": "flickcurl: fix test.",
+    "9f7c06b2dce2b2c8316c87190f12ef8d4ec0198a": "flickcurl: add 1.26 bottle.",
+    "9cc14e7a699782a5f535d22f9a70ebd75e271999": "flickcurl 1.26",
+    "de852ba4bba5e9e8cb0edc2f8297392acf26400c": "flickcurl 1.25",
+    "82b591e536fc063974779ec2dc7a20705b302a77": "flickcurl: fix test",
+    "f2319a926349a57c774377d0ed5151def4087676": "flickcurl 1.22"
+}

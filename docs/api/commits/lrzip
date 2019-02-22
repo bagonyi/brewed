@@ -1,0 +1,20 @@
+{
+    "896aa2747e67dabf7170f5f808109bd9b9b5500e": "lrzip: update 0.631 bottle.",
+    "8d253f14400f0cddd82e9556c1aaf9f581c9eff5": "lrzip: update 0.631 bottle.",
+    "7e671529d8ec6ee6b80ed8c72935d6d3550a4a62": "lrzip: update 0.631 bottle.",
+    "4ca786051c022bab7e6571e32d6d3bb97936e241": "lrzip 0.631",
+    "880078b802ff241781f4592ec2e908d307b3fc88": "lrzip: update 0.621 bottle.",
+    "df0a5444530a4bd2a0972db3975f208b91c9b35f": "lrzip: update 0.621 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4571784f6dc560303ab1d1b62fa01c69d188f32d": "lrzip: update 0.621 bottle.",
+    "fc856b3c7c55c468b56fe979d787bd5ec2203d44": "lrzip 0.621",
+    "250e1789d2b43dab75d659e7633349b77dbbee84": "lrzip: general cleanup.",
+    "f3aba1b1d7b2e156e7ae178fc19dc3a06e92ece6": "lrzip: add 0.616 bottle.",
+    "731a36e07a505ce488e5232ce9a028ebb75d1734": "lrzip 0.616",
+    "d036365d16c205313fed843b8f61ca8414169015": "lrzip: add test",
+    "d60c98a7ff3ce7f8d67eb232bc7b892083b3c0a3": "lrzip 0.614",
+    "a08546603b393ad388787902f0cc44a140c76e9d": "lrzip v0.604",
+    "a932100d0add3eb11587d1fcea5e1263fcc1a6e8": "Snappy 1.0.1",
+    "ddc9c784bb0808eb61df5dce9ea2d47945d3c279": "snappy 1.0.0"
+}

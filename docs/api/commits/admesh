@@ -1,0 +1,18 @@
+{
+    "36351de0df8b2b14f715af8fce2d09ded5359a9b": "admesh: update 0.98.3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1b473d7946790ecdc914eee6972c3a27066d50f1": "admesh: update 0.98.3 bottle.",
+    "cc9f7829507f1691ad62156cb40cd211b9e562cc": "admesh: update 0.98.3 bottle.",
+    "bef17722ef517e389603ee592461819f053009a5": "admesh 0.98.3",
+    "8be0cb5c19bb7697fc735979a57e1c709c2681e2": "admesh: fully scope test system call",
+    "795239256172a43da285d61e5798d8f98751717d": "admesh: update 0.98.2 bottle.",
+    "b5f56f70fe0749ae43a0645c8bcd8a71449ae5de": "admesh: update 0.98.2 bottle.",
+    "af9409ac16962f8dc40529a3fe206098d17db81d": "admesh: update 0.98.2 bottle.",
+    "5be6a256877a4e5f78c4e0729513a436a98cc702": "admesh 0.98.2",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d9dea3fa2ab0405ad4ba7a1997f2966ebf083bab": "admesh: update 0.98.1 bottle.",
+    "f9a6d6df1da286377f1764be1715aae87cd4c48f": "admesh 0.98.1",
+    "d97b3d5ecf7ee2a2a0aaf7a45cab85cdd291bf1f": "admesh: general cleanup",
+    "79962bad0bb12a8a6e3a914a977f2969eb77768c": "admesh: add 0.98.0 bottle.",
+    "f709842d9aecb746ac2c8fd43e40986ca1e8efbd": "admesh 0.98.0 (new formula)"
+}

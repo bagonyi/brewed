@@ -1,0 +1,16 @@
+{
+    "dc98fe3186eef7614fa40a7fa4e106073e203f0a": "hayai: secure/fix/follow url(s)",
+    "3c329cdf6c848becca5ed793da1d58ace1524ced": "hayai: update 1.0.2 bottle.",
+    "872fe40746fee5fd2702d59518d7ae61bef40321": "hayai: update 1.0.2 bottle.",
+    "58ac1e3f904a41b23fcfcfbded7092f8818bb00a": "hayai 1.0.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a2a748d24a78d830929a6742c7e91abbee3888f": "hayai: update 1.0.1 bottle.",
+    "e462ded3317dd446b76e0bbd673b767f651aacfe": "hayai: fix test on 10.13",
+    "868cca8f25c94730135d86fe4d31950e5bfafe43": "hayai: update 1.0.1 bottle.",
+    "6fa4ef7f0cb2e4734ef051276fd9dbec08ebba54": "hayai: update 1.0.1 bottle.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "f99f76602fc721b65506300927a5c7de276c37e2": "hayai: update 1.0.1 bottle.",
+    "d5616486382c9c40a54ede2c85d2a0d8d4a8106d": "hayai 1.0.1.",
+    "2dca50b40170c56c65d1938b8f1517f32390bc2e": "hayai: add 0.1.0 bottle.",
+    "7793860d1370709d634dd3ec93baed561c36ede8": "hayai 0.1.0 (new formula)"
+}

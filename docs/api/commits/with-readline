@@ -1,0 +1,18 @@
+{
+    "16033cfb40c1bff01a8af236136fc93ab136ae78": "with-readline: update 0.1.1_2 bottle.",
+    "8222dba5255af2228aba869d2a5f37feb2703aee": "with-readline: revision for readline",
+    "26d3ec06c1e536e630f4b56aa1c096cb076f4aba": "with-readline: update 0.1.1_1 bottle.",
+    "5fd5cd73b10e392eebc909537039c51e038d4939": "with-readline: update 0.1.1_1 bottle.",
+    "17f71232170f16b80e11f4c83fabb61a7c199451": "with-readline: secure url(s)",
+    "c08434b349c15fa715066d7e10501d2a64d00886": "with-readline: drop universal",
+    "ce2ae2891528262ca3981505fb51566f89c8e0fb": "with-readline: update 0.1.1_1 bottle.",
+    "8719214bbe80475593e89997ab7d513d1111b20f": "with-readline: revision for readline",
+    "b95aca435b0e77e31e0a57440e8a6ee365cb1057": "with-readline: update 0.1.1 bottle.",
+    "6556f78d3856e9e25370ec13ed6408dc828dcbc5": "with-readline: audit fixes",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b5a92d9479b355b7c0792bb6fdf13d97029da3a6": "with-readline: improve test.",
+    "01e42e353b5f503aa6c76ec48f80780f5bd46fe5": "with-readline: add 0.1.1 bottle.",
+    "370ffa0441050e74d8dcd90d073768c938593d68": "with-readline 0.1.1 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "6216e609093711f7813591fe2eb2f62b994aa324": "libgdata: update 0.16.1_1 bottle.",
+    "e15b4cd3429002154c4bdc721a4132de62b0adb1": "libgdata: remove options",
+    "66888c7c503c5c0275c69a6d0999992fd16691f5": "libgdata: fix dependency order",
+    "c7a2e36b76b1cf2f8cd19ccf0eb4fb1695f5460f": "libgdata: update 0.16.1_1 bottle.",
+    "7733d801cc38e9542cb63ac9a5f75678b94beb3d": "libgdata: fix naked /usr/include usage",
+    "48bd8dc77668431063da5e52206d8f14e5dd9626": "libgdata: update 0.16.1_1 bottle.",
+    "fa82270b275bf8985ce90a202833c3fe997b73d6": "libgdata: update 0.16.1_1 bottle.",
+    "7954504bc17c8cee4820f30febde011c56b9709b": "libgdata: make gobject-introspection build-time dependency",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "0dc8e11571b056284273e4028af08237af04825e": "libgdata: update 0.16.1 bottle.",
+    "df479bc724d954567aaea2c38a772d27e6b48f8f": "libgdata: update 0.16.1 bottle.",
+    "87a4b4394e604592d04fee064b1fc06394bcb711": "libgdata: test fixed",
+    "0f27e5336b5f0c4965be5444dc5eafa6cf1d24c9": "libgdata: update 0.16.1 bottle.",
+    "7cc06e0821c38f7003383863b1a2840bd3365d7d": "libgdata: remove compiler flags found in the environment",
+    "f1bacbb9fd26e8bc98c45add8bba8acef178eb7d": "libgdata: add 0.16.1 bottle.",
+    "9adc12b0e52eacfc2efe5330480061872b846242": "libgdata 0.16.1 (new formula)"
+}

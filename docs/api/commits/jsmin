@@ -1,0 +1,18 @@
+{
+    "15d67a52a96e25d766655f36c0d967f6eeb956df": "jsmin: update 2013-03-29 bottle.",
+    "fa34cca395fcac1a7cbcd93ff86e6ef5e42868b0": "jsmin: update 2013-03-29 bottle.",
+    "3039bb9f04cbc836164289e499728432e793142a": "jsmin: secure url(s)",
+    "3641106a15cc03156fbf0f374df376321b49878d": "jsmin: update 2013-03-29 bottle.",
+    "aa6ee90c07d5d4dc584bb928625d2f1cca553880": "jsmin: add 2013-03-29 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "05f053b6f131100f186b54cdb206678c09a3af20": "jsmin: add test",
+    "bf9126f2fb3d3065662a8d51ee466efcda9769ca": "jsmin 2013-03-29",
+    "a56d91391d540ed78921fad349b0557a32227721": "jsmin 2013-02-25",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "52a7447e06a785c995e91bebceea6cbbbacf82a5": "jsmin: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "01b76eb7d09fe2c7d1ab9453d9f69efda4504c99": "JSMin: The JavaScript Minifier"
+}

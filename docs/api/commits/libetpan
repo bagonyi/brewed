@@ -1,0 +1,16 @@
+{
+    "8efdad2720df5da1cd322d6f599d1bda90d63c9e": "libetpan: update 1.9.2_1 bottle.",
+    "751efdfdc2e98d3e6601537de034b68fcba49fb7": "libetpan: install through xcode",
+    "3259e1ebd7f6a194016edba989413f2ca54659d9": "libetpan: update 1.9.2 bottle.",
+    "f0f5571a2dea672214903793a4f591b6703a1741": "libetpan 1.9.2",
+    "bd7c29e8f1d0dad245f47beb883116f12ada6bfb": "libetpan: update 1.9.1 bottle.",
+    "4c807edc050c9d1375c49d6e4af2482dc0edae3e": "libetpan 1.9.1",
+    "6e131068ae4e4f357d27cd2ff98535762c0eb348": "libetpan: update 1.8 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "585982637544467cbec4b73d8ebc18d990adde16": "libetpan: update 1.8 bottle.",
+    "03bf3d2bfa9957a4c8da0e0ccd39b7c46a6c55f3": "libetpan: update 1.8 bottle.",
+    "db91de8629c13fe707f522284fa8412734982fe1": "libetpan 1.8",
+    "8567e6d5aebb87812cbb5ad5f22cf60bdf51b586": "libetpan: add 1.7.2 bottle.",
+    "329e8568505742381e7103050e55a0193767c077": "libetpan 1.7.2 (new formula)"
+}

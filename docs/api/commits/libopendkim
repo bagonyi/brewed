@@ -1,0 +1,20 @@
+{
+    "075fba5b26be73f4ffdb02c898b30fc0cbf67316": "libopendkim: update 2.10.3_1 bottle.",
+    "8111c2fc0b09f9a81ecb82f3a53a65ab99a23837": "libopendkim: revision for unbound",
+    "9eec36f31ecc2399fe4c841b4126c7452530075e": "libopendkim: fix dependency order",
+    "c146d05efbb902cb7a0cfbecd88bc92285c7d825": "libopendkim: update 2.10.3 bottle.",
+    "02b9e8e3f9c97a2b8759ff293d572ecbb243d579": "libopendkim: use assert_predicate instead of File.exist?",
+    "2136a9b2ee1cbf8603b03bae157587cf6d8b4f67": "libopendkim: update 2.10.3 bottle.",
+    "5c6c0ae6f4f5db27062fd5b42a96ec484fd00d4f": "libopendkim: update 2.10.3 bottle.",
+    "ffc53cffa89d31a38ce74b43bbe18730810b476a": "libopendkim: update 2.10.3 bottle.",
+    "5eab7cd56111dbac1b810ddf898ff5569eb3962b": "libopendkim: fix El Cap compile",
+    "6dc565491ca0e0ca16e8fc7d7616d20c83daa225": "libopendkim: update 2.10.3 bottle.",
+    "78a994e3aa73a8d87d006c03534420aa731599d9": "libopendkim 2.10.3",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8be4ff44fd4755be94ca8f55ef0aedbd7d8f4839": "libopendkim: update 2.9.2_1 bottle.",
+    "48a8d4a432d68e980e992eb519f163867d8b64a3": "libopendkim: use Homebrew openssl",
+    "6222c91d66d58f0fbeff0e27df55634e69383ac6": "libopendkim: update 2.9.2 bottle.",
+    "73e90b2ec88b152db41ab9b554af4e9a3494cbb7": "libopendkim: add 2.9.2 bottle.",
+    "26ebb0d822a95d65b84bbbae789e0266be8e24a9": "libopendkim: fix audit",
+    "8c529c1437793b8c9c9beda73db9b46f15bb50ba": "libopendkim 2.9.2"
+}

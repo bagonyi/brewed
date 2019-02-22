@@ -1,0 +1,23 @@
+{
+    "d70080a54a4da7614d861f85f9a22ef16dfe197e": "nordugrid-arc: remove checks for old compilers.",
+    "0531ed4fca5d10abdfc38cd499aafda16ecabf43": "nordugrid-arc: secure url(s)",
+    "994707452237f14448a70de615d5f6fdea22e99d": "nordugrid-arc: fix component order",
+    "366b3b4a6fddcd1f7d8bd9edb001156862c27ced": "nordugrid-arc: fix dependency order",
+    "7db72253f198da0be2342ea6dc7d8933493baa99": "nordugrid-arc: update 5.0.2 bottle.",
+    "2d084d9fd5b88c81bd299eea0bf5595bf0db031e": "nordugrid-arc: secure url(s)",
+    "cf75614556e4154acae0a6bc4060f642e19a3bdd": "nordugrid-arc: use depends_on :macos.",
+    "716d5336655edc92f41911a8b12e65910b99e2ca": "nordugrid-arc: update 5.0.2 bottle.",
+    "be8f0399cec24f6568ff4ba630fb168ec110057c": "nordugrid-arc: update 5.0.2 bottle.",
+    "e3ef1ea852ae1d1c8b35561446f1ea051784e849": "nordugrid-arc: update 5.0.2 bottle.",
+    "7c6a34f063082aa5333d0b4975b2ad96415a946d": "nordugrid-arc: disable support on Mavericks entirely for now",
+    "febfe07b42cb863770f50a5ab965dd8e2893d8c0": "nordugrid, synfig and synfigstudio: C++11/libsigc++ patching",
+    "ccef558a87378bb8e44d6c65775def6cf0633de5": "libsigc++ dependents: revision bumps",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f625c5b906744bfa66e073c551a3c39dac199b12": "nordugrid-arc: add 5.0.0 bottle.",
+    "7b5027d8b93ceec5aa18169aa95a932f03d5d75c": "nordugrid-arc 5.0.0",
+    "8dac20924c07efbf686f2d2c297a838f7ecadb1d": "nordugric-arc 4.2.0",
+    "2d3e2ffb15b19c277776918df195de2f4f0cb895": "nordugrid-arc: remove unused dep",
+    "ab8a121b9f1dd92bccc7e842e7bb6668797dd069": "nordugrid-arc 4.1.0",
+    "9066ce75e3662e7d8989fb94d2cfb6494a351561": "nordugrid-arc: fails with clang build 500",
+    "9c2cb254b664a567abbd6935ecbbdae1fb0b07f7": "nordugrid-arc 2.0.1"
+}

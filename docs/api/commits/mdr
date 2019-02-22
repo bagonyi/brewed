@@ -1,0 +1,16 @@
+{
+    "8db8801f20409f2a978590dc6ab72d517674d787": "mdr: remove references to pre-Mavericks.",
+    "3ecee4ceb7c3cdb4c618535af0dd1b5dd15ecb94": "mdr: update 1.0.1 bottle.",
+    "47e772373edce484dcd03fe2cf337b44133473d0": "mdr: update 1.0.1 bottle.",
+    "c0d1d4c2bfa874db2a5733c56483d6b6a07b0bfd": "mdr: update 1.0.1 bottle.",
+    "97ba7439cc28bf91650de92021d0a34ebd53ed0a": "mdr: update 1.0.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "42384b8ce5a408b168928889818dafcfe18538cb": "mdr: update 1.0.1 bottle.",
+    "2713e25a1a9db9a0c0cded30d88f32e20c131e62": "mdr 1.0.1",
+    "527ac3d5a43636c3f04dc64b0f1c40b48babc8b4": "mdr: add 1.0.0 bottle.",
+    "a2d80268522a9f7c32871eec3917a2a68c921a37": "mdr: fix installation.",
+    "7f000e41f8625af1e6fe7acda904c41ac0e87e60": "formulae: don't use GitHub zip files.",
+    "d2d5069c5bca2017b1809817c0e1e4f0a94b25db": "Make Diff Readable 1.0.0"
+}

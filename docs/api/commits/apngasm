@@ -1,0 +1,16 @@
+{
+    "0a5f4482bef27c3459d00af7d95bc24e998a12c1": "apngasm: update 3.1.6 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "6275dfe106d088da2f227046d38b6a45e969867b": "apngasm: update 3.1.6 bottle.",
+    "778f11f7db64341437495891180fcb10a4f04723": "apngasm: update 3.1.6 bottle.",
+    "9bb54d49607eb61206a4936b4ee564a325083390": "apngasm: update 3.1.6 bottle.",
+    "92c1aa8078fee3775de5ae183325a19faecd5425": "apngasm: call full path in test",
+    "c1f23e01706774918852e78a8568a5ddd9c2e425": "apngasm: update 3.1.6 bottle.",
+    "4456652182a678d38621d7c419fe1e1cff631f60": "apngasm 3.1.6",
+    "a33182faec40e2a6a306145c274ecd6e3980389e": "apngasm: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e845aa701f7bdcddfa7158b52d4dc28eb25edcf8": "apngasm: update 3.1.4 bottle.",
+    "b3200fb8558a51b5710c17ac6b114e5f982aa88e": "apngasm 3.1.4",
+    "bdf0769443cef69e87e8eafc07e92c1969ea6ddf": "apngasm: add 3.1.3 bottle.",
+    "1fe5ba27ecdad04022ad3d8bc2c5156be92e7d1d": "apngasm 3.1.3 (new formula)"
+}

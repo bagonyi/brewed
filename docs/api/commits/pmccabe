@@ -1,0 +1,11 @@
+{
+    "2fbfb5427ad7e258a61e27897def0a49a7875400": "pmccabe: update 2.6 bottle.",
+    "5dd9900231c0db2f6c1a4dd59d84b1f886fd979e": "pmccabe: update 2.6 bottle.",
+    "a17b0c85d4165699ea939ec00db0df99063414e8": "pmccabe: update 2.6 bottle.",
+    "51eaa45611042076018a73bd220a775361592ee1": "pmccabe: update 2.6 bottle.",
+    "a4b6a8c327af2db259579705b809debae391b9d8": "pmccabe: prefer berkeley debian mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "663bce4ff96cb9e499a6d105fca6d3fc9dfc71e1": "pmccabe: add 2.6 bottle.",
+    "4e6aa87e662072dd4993a9ded1ed5416bce54b4c": "pmccabe: add test, use debian ssl/tls url",
+    "dac57bccd57d5172b27ca613453db871d92d9ea5": "pmccabe 2.6"
+}

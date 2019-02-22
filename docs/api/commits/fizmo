@@ -1,0 +1,16 @@
+{
+    "1754cb945438f623e3b1a18a817c92c2c757e213": "fizmo: update 0.8.5_1 bottle.",
+    "7b24fe9410f116c0296e9b34442a0e3f10635f69": "fizmo: fix dependency order",
+    "dabae451ca761fb84a1f3b818954fce5d2c705f3": "fizmo: update 0.8.5_1 bottle.",
+    "8d93fddfcd6ed392a735ccad84f38db15bb06cd9": "fizmo: depend on freetype",
+    "74b68ca3ed1b347274876e6c4b3a4e9390a0ca7a": "fizmo: update 0.8.5 bottle.",
+    "05b906399f02791f637867b0f899edae0d78e8af": "fizmo: update 0.8.5 bottle.",
+    "aec4611a758adc839c70e1054aed1d886c5e8210": "fizmo 0.8.5",
+    "2d173186867bef63d5db246b588b19e4fcf4d176": "fizmo: update 0.8.4 bottle.",
+    "edc577997f369c65f1d7a68fe8293b066e89b8b7": "fizmo 0.8.4",
+    "92b920cfdec046d4e9feb325079754b42f773dc5": "fizmo: update 0.8.2_1 bottle.",
+    "5ebeb31208d73ef1db650ec12f2ae6e879a361e8": "fizmo: update 0.8.2_1 bottle.",
+    "132e228ff5cce3a05a258963d8c95894ce3e1a28": "fizmo: revision for jpeg",
+    "6c5d2ac6e0de3822b1564f9e47bf59e4246afa16": "fizmo: update 0.8.2 bottle.",
+    "4b0378d575144a1097a8c48d0577c9b8f9d358a6": "fizmo: import from homebrew/games."
+}

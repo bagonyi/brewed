@@ -1,0 +1,13 @@
+{
+    "b71e312f819111af4ac7f41b6a6cbeeebafcf71c": "curl-openssl: update 7.64.0 bottle.",
+    "35369cca8bdaf966697999f84829036ca06b6f45": "curl-openssl 7.64.0",
+    "dc9e6295654f08770eb7dcac31fe76508176839d": "curl-openssl: remove references to pre-Mavericks.",
+    "bab6306afaafaedaa08177190cc4a9953cbf9773": "curl-openssl: add head (#36198)",
+    "ed3089af5aa886275428f02b7deffdda38368166": "curl-openssl: update 7.63.0_1 bottle.",
+    "9d5669d822e9f96373e8d4cd6ee53aa2b9292d71": "curl-openssl: revision and remove duplicate lines.",
+    "5e1ccd98d2d7e8ec16f8fbc30dc2ee2e6a7d7111": "curl-openssl: add dependencies.",
+    "5bccee92d56e9241b0f61885b5da2123c07281a9": "curl-openssl: update 7.63.0 bottle.",
+    "fade3683e1e9c0678337d1efb4917e6005788bd1": "curl-openssl 7.63.0",
+    "9e854aca601c11fcacc3df8abf0d083b1ce5c540": "curl-openssl: add 7.62.0 bottle.",
+    "7d1b059cab9c06f129d6bb86106a47e4e4488499": "curl-openssl 7.62.0 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "b9a2644f9174454c7646b275c469be2f3ec27bd7": "rex: remove references to pre-Mavericks.",
+    "3a5333f26d3f9a80543c9027cc0fce4550af65a9": "rex: update 1.5.0_2 bottle.",
+    "59ac0297aaeb752c80e455eb90e24f0ef01f9e6a": "rex: update 1.5.0_2 bottle.",
+    "f46dcdb5d8066634841448a7e1bcacefeddbe223": "rex: depend on perl instead of :perl",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "3b9fcd412b076f417cee36577d38e58b67e222ae": "rex: use assert_predicate",
+    "3428d289dd152d88311c1b304b5fe204dbad2f7d": "rex: update 1.5.0_1 bottle.",
+    "43ca74670d32686c851ce963cbbfd3bbde9f83c5": "rex: update 1.5.0_1 bottle.",
+    "6a71f3d847b74459fd5568f3e17c53dd6208d423": "rex: revision for perl",
+    "5ddad02984abc10b1eaf8da68a5a031d1339766f": "rex: add 1.5.0 bottle.",
+    "98a82231d239b115c1dcf10d3c6d94ca929ac859": "rex 1.5.0 (new formula)"
+}

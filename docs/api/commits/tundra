@@ -1,0 +1,16 @@
+{
+    "c469d8d0bcf5143ab924cdc3c70576881ffbd5d0": "tundra: update 2.08 bottle.",
+    "09a0dc1e5c806706ab0d735be7284eea666960b5": "tundra 2.08",
+    "3eab3d7bbfe45098fb19a30e25aeb2a7354cb277": "tundra: update 2.07 bottle.",
+    "62486d035e913cbccdf9a4def0e173d5a11a2600": "tundra: update 2.07 bottle.",
+    "49e7ad12fa2dba29407ee59e07f6f33dd80135af": "tundra 2.07",
+    "b8bff6a802b59cb4f3dc95285b805c6f8717a95f": "tundra: update 2.06 bottle.",
+    "8a28475ce6b8322560337b8a25dfefa45217a971": "tundra 2.06",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4021bb39f210a563ce5c77dc4484f3f886ec8cf0": "tundra: update 2.01 bottle.",
+    "822ff9a21f406048dadced3ed99c3cfae38db9d0": "tundra: update 2.01 bottle.",
+    "09bb4a505582405fc71669bcd74d53e86b803597": "tundra 2.01",
+    "a6c2903c8d1c2577317330d61f94dc903944279d": "tundra: add 2.0 bottle.",
+    "8957c043fb503efc49e540d4e8e004d474319498": "tundra (new formula)"
+}

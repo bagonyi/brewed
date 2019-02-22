@@ -1,0 +1,21 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d8f39212381c0602ed254ca61242a5bf82162bb1": "jslint4java: migrate to archive URL",
+    "c05f709dc9baabda65d78d877a2db0f42032de98": "jslint4java: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "4ea0bdb473a878663151d5c508f2b6640a06bbeb": "jslint4java: add test",
+    "800c626751bef1f3591936f8d884ae70c04bb240": "jslint4java 2.0.5",
+    "03f3cc73dd3d69c596910f188548a009e8907b40": "jslint4java: Fix installation",
+    "45d0c8617370cd14dd3e05494610d9c3a56709be": "jslint4java 2.0.3",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "71e47a3b258398395027a275e4ba423b58f4cd9c": "jslint4java 2.0.2",
+    "2c2ba2955d4372adfeac7c94c7fc6fe49507d93a": "jslint4java 2.0.1",
+    "fb05ed841fcb87dadcfe01ddd33a00450197eabe": "jslint4java 1.4.7",
+    "20a4948c83e63e204a72970f4db48aa8ada11757": "Very pedantic audit fixes",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7ce6c23bbad58f97e84cf1bff8795fb517bf56bb": "Added jslint4java"
+}

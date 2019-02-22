@@ -1,0 +1,19 @@
+{
+    "cd6eab8141f06f9d0793852ec688db91d0ae9f65": "libbitcoin-blockchain: update 3.5.0_2 bottle.",
+    "6c6b5cd51c8efee75f326703e08c0b3c360701b7": "libbitcoin-blockchain: revision for boost",
+    "ab7f0625e926655ebf30ee61c66375307c7c2998": "libbitcoin-blockchain: fix test",
+    "1b8e0ca6e53e6a28cd03c03fbb5d3e77805016ab": "libbitcoin-blockchain: update 3.5.0_1 bottle.",
+    "5b2bf6c4d392d0bff7e212003100de05c851f518": "libbitcoin-blockchain: update 3.5.0_1 bottle.",
+    "aa2acf4cce01d9b58408e58e5b171374e1d8fc23": "libbitcoin-blockchain (new dependency)",
+    "e5f0a0c8c69f49e74d7d8f00784eda55bccab82f": "libbitcoin-blockchain: update 3.5.0 bottle.",
+    "e7e68050f4c552d0bf3ac90e55a138af8505e54d": "libbitcoin-blockchain 3.5.0",
+    "ef0afeff53c7fc69b59052c56f4b2b01149cb0d1": "libbitcoin-blockchain: update 3.4.0_1 bottle.",
+    "bb27999a74c922c75a0498e8714d26aace526488": "libbitcoin-blockchain: revision for boost",
+    "814a80ee353059c9da6b8e10c1b5e73f88facade": "libbitcoin-blockchain: update 3.4.0 bottle.",
+    "24cbecd2c723aaf1dbc695d56c45d7abb4352c35": "libbitcoin-blockchain 3.4.0",
+    "e8852e2bd74b9e17a8b884508d3b7d8e2a3af4db": "libbitcoin-blockchain: update 3.3.0_1 bottle.",
+    "c272ae60d40eb8b436b1093634183a36cd538538": "libbitcoin-blockchain 3.3.0 (new dependency)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "27f4535aa3a55b9a6b45e525722f3d955499f0a3": "libbitcoin-blockchain: add 3.3.0 bottle.",
+    "dcb7faf18a4be49dd7ee705e31d516b7834c6024": "libbitcoin-blockchain 3.3.0 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "1c7efd4230f3aaee5679a308810c506e5100c97a": "extract_url: update 1.6.2 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "0b076adeb88ff7e64a958e6a2bba9458554d2629": "extract_url: update 1.6.2 bottle.",
+    "80af3d4a34ea58b024deb7fa1f67ce7f04c82cfe": "extract_url: secure url(s)",
+    "458a1e171ba9aaa8ac0e6b65b3432d1ef61fecf6": "extract_url: update 1.6.2 bottle.",
+    "a2fe22e69522b63130be97365a6a02e9669662fa": "extract_url 1.6.2",
+    "651bc73123267ab2e283e55a4eff1b7938cd766c": "extract_url: update 1.6.1 bottle.",
+    "c5c8d86ffcd1a317fa3550e925d026e4f5009641": "extract_url 1.6.1",
+    "b3f6503b827fea802706c247013d85db56177e33": "extract_url: update 1.6 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "bde3c7c9d1070a1eab35710339f424466c2b7792": "extract_url: update 1.6 bottle.",
+    "d048e6345a61bdb3397f1490bbb61c27a66f3e43": "extract_url: update 1.6 bottle.",
+    "f8d14dd00fafa50a2ab3706c95e0c69b15fb9f56": "extract_url 1.6",
+    "c1f9b7ceb87dca15d93a4c96b327e3c6dfe07a9e": "extract_url: add 1.5.8 bottle.",
+    "99b5215554729cdb25e5ee697d549469d848c6b1": "extract_url 1.5.8 (new formula)"
+}

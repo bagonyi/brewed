@@ -1,0 +1,13 @@
+{
+    "67022d23d89af3238d04cd186d7ff0f2e376b3f4": "fs-uae: remove references to pre-Mavericks.",
+    "768b44e779a20af7ae3d4342c6048ba2a04deea6": "fs-uae: fix dependency order",
+    "13812380d0b8231499d56c8a784c9b520c61eff6": "fs-uae: update 2.8.3 bottle.",
+    "542f44baf30d05c58e795351ded79fdb9f7d69a3": "fs-uae: update 2.8.3 bottle.",
+    "5c80d9a6a3faf0b1813efb4c85bae72a3914900a": "fs-uae: update 2.8.3 bottle.",
+    "3c169948cc38191cb9e4dde1a3df5224bd02f03d": "fs-uae 2.8.3",
+    "58ded8cdddd29c40f099e4f531a9543680e02987": "fs-uae: update 2.8.1u3_1 bottle.",
+    "edebc74a760ede64060b69f29613d2e4d3be3e43": "fs-uae: revision for glew",
+    "d2fba011ecbbc1ed93027f03b75eda417434849c": "fs-uae: use https for homepage (#10990)",
+    "b7db9ee63c6acf75b4c8fdeddb5ee97b749f33e6": "fs-uae: update 2.8.1u3 bottle.",
+    "da8d6a6b7bfa9b31db639f6eac87110cf70986e4": "fs-uae: import from homebrew/games."
+}

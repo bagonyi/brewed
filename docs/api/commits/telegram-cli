@@ -1,0 +1,16 @@
+{
+    "81075ec3422cd2f8aebf74bcde473816ab834756": "telegram-cli: update 1.3.1_2 bottle.",
+    "a5b6819856a5c9ce33ac2926e985114b528a81e2": "telegram-cli: revision for readline",
+    "ecbd7cdf4e5d2f3fe1bd12b71793632688318c59": "telegram-cli: fix RuboCop Layout/AlignHash.",
+    "d9ed4328af94a63fc0d7ea958d0ed48d7066bf7e": "telegram-cli: remove options",
+    "9102566095684ef570f003f1eab1f6c740bd56bd": "telegram-cli: update 1.3.1_1 bottle.",
+    "f2305c0b0d5a5540f830fd9e9b84a173a4359dfd": "telegram-cli: rename python@2 optional dependency",
+    "510cc44aa87dced96d184d00ff2cd4e28d18ea91": "telegram-cli: update 1.3.1_1 bottle.",
+    "87937cfb7cf83738b60d884978fbf43100f49608": "telegram-cli: revision for libconfig",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "a0b501b9d0c486636bc2e9a34c945cf241190d80": "telegram-cli: update 1.3.1 bottle.",
+    "4c3a10f0fbf7d2fd664885dae9dcc06614afffd2": "telegram-cli: use full_index patch",
+    "59278154bd4279f10f76f8ef1fe3de8b9010be37": "telegram-cli: fix patch checksum(s)",
+    "ef1f3f50810a0e64bcb9bdf41045551629cb84b4": "telegram-cli: add 1.3.1 bottle.",
+    "66f097fcd81b35a13b3353ba0fa01d07f63f5821": "telegram-cli 1.3.1"
+}

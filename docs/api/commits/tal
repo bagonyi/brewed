@@ -1,0 +1,14 @@
+{
+    "44cc8df7eddcd115996b016e7d3547a74e7daae9": "tal: update 1.9 bottle.",
+    "4a78a3c6438f6390935011af3b721422ba1ab2ab": "tal: update 1.9 bottle.",
+    "686898e4d26174bafaac8b0c91c692b77b38ca4c": "tal: use mirrors (#11796)",
+    "c328867c0d8017dccbb40d39a3a5ed68ab4330e0": "tal: use https for homepage and url",
+    "a743072b98567a479a3212bd53aef4cc4c702731": "tal: update 1.9 bottle.",
+    "859e76ea4d66b5b2bc9224edda9e9031f1570759": "tal: add 1.9 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "de132ee9282b2000727652313ab3a2b14aab3062": "tal 1.9"
+}

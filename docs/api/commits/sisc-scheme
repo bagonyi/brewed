@@ -1,0 +1,11 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fb98c0af30d94ed6049ed33f04a34dde32bb7868": "sisc-scheme: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "d88669c2bf5684e436eb93ff3a75ea7aee0d6a19": "sisc-scheme: style updates",
+    "635bf74da7f099d3483a937a583825860a0c867e": "sisc-lite 1.16.6",
+    "93012982cbe7867542128200c6c3130ab3d5ad5d": "New Formula: SISC-Scheme"
+}

@@ -1,0 +1,23 @@
+{
+    "976b85901a88d6a9ea5441426378e7eb3a38f745": "ophcrack: update 3.8.0 bottle.",
+    "384042eaaa8b576a01eb4a9ed7a9f570fd31acaa": "ophcrack: update 3.8.0 bottle.",
+    "5c1f34ce5de085b5d8e75339fe44079fa5460e62": "ophcrack 3.8.0",
+    "66f57fbd99fc0e8740eacb3b14cdb0f3b1ed2ca2": "ophcrack: update 3.7.0 bottle.",
+    "5ef5f57085aab1ffbf7b627041df933734cee53c": "ophcrack: update checksum",
+    "dc6dffe70378d3df270bf4ed43a2e48223e05e99": "ophcrack: update 3.7.0 bottle.",
+    "3c878454235f210436512183a9abf6e2e5cbb399": "ophcrack 3.7.0",
+    "e4485eaaabd6462a9b757f50def771f3531111b4": "ophcrack: fix audit --warning",
+    "d8ade223d5dc8221b1e3a99cf751fa832b91d0b0": "ophcrack: update 3.6.1 bottle.",
+    "25e9be5f77d30994523e405e77c0cfff82b115cb": "ophcrack: update 3.6.1 bottle.",
+    "ee2b1bfda65aabfa585beaf29d34d2704242cecd": "ophcrack 3.6.1",
+    "6ab7ae1c1df7c0468e5f51c53f73e58ba45b2fac": "ophcrack: update 3.6.0_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "21bf8babe8f1b72cd546c2abf404dc51bcf7cded": "ophcrack: add 3.6.0_1 bottle.",
+    "dc30cfe76f15da258a8b762c9c51ff0dcd21be23": "ophcrack: added openssl dep",
+    "e0f846087ea9aa02e0d4775d5084b20efb40e01d": "ophcrack: use make -C",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "b0db00f43fe400a6812852eb9b1734b0d37a642c": "ophcrack 3.6.0",
+    "596c2be16d052be53cf1b8b47fa1f05917bc0bfb": "ophcrack 3.4.0"
+}

@@ -1,0 +1,12 @@
+{
+    "ee7dc2df14c964089e5d8f17c362d080b02a9b12": "bareos-client: update 17.2.7 bottle.",
+    "a261663db01be412b04e1da01fbe8adabad6a680": "bareos-client: update 17.2.7 bottle.",
+    "fbad9630016bae51b35b3f1f766fa26c8d57d79b": "bareos-client 17.2.7",
+    "1ec759d8b9a45018df77ccbb37e21f0c761b5cb7": "bareos-client: update 17.2.6 bottle.",
+    "b2aa950a83f770333dc368dab659531d16ab050d": "bareos-client 17.2.6",
+    "8ad9c8070633b80c1714ba03dab4da69baf6d33e": "bareos-client: update 17.2.5 bottle.",
+    "df751f394df83057a5d76afd1d356a9451da794c": "bareos-client 17.2.5",
+    "c20cc911ecc773866f00a5e8b273ee6c1a3b2d43": "bareos-fd: conflicts with bacula-fd",
+    "d71131f590b9445e5dff34216ef87068479f3e95": "bareos-client: add 17.2.4 bottle.",
+    "65433b59bdf4f0e4ca0acc11d0ef0f6c90a410dc": "bareos-client 17.2.4"
+}

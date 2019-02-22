@@ -1,0 +1,10 @@
+{
+    "12f9951ffcaee16ecd6c2eceb94550e4ed9ef05c": "istioctl: update 1.0.6 bottle.",
+    "bb9cf8af1831b17ab6ef96e57818a705b1f98795": "istioctl 1.0.6",
+    "af28f8c581c4b56114af10148c14213ecd6a88ae": "istioctl: update 1.0.5 bottle.",
+    "ffaf8d37127a06fc531410e44e07d677d541290b": "istio: switch to git",
+    "3828b1a8f1a4dd3b99cb3bab45a9171d506b0761": "istioctl: update 1.0.5 bottle.",
+    "f7f7f7d3bccea7fe55796703c48237a97db23e25": "istioctl: fix version info",
+    "af5f8075d6c64e555812ce818e1d52fe0613b030": "istioctl: add 1.0.5 bottle.",
+    "dd5b244dce9f5ef32641cc87eac869ae99dab3a8": "istioctl 1.0.5 (new formula)"
+}

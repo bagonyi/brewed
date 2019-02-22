@@ -1,0 +1,13 @@
+{
+    "def36415352714905611424a07c3a1ca49515df0": "mailcheck: update 1.91.2 bottle.",
+    "77c8b742b78bdb992943e606d818d0315a20dabd": "mailcheck: update 1.91.2 bottle.",
+    "36a0a8804c44e2afe03a6e257b8b1f8af3c2d614": "mailcheck: fix audit --warning",
+    "fc251fd36fee5384ddb4c47cda90890f34cd9a0e": "mailcheck: update 1.91.2 bottle.",
+    "07129b730d80ef7860664d3520731fbf675d2222": "mailcheck: add 1.91.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e304a2a6c2b7f02e24de4847ce28d2bf434b932c": "mailcheck: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "24b46dc19f0931aeb62872d834dd01fea2b54587": "mailcheck"
+}

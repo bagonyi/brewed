@@ -1,0 +1,19 @@
+{
+    "7bca278bec167be2f67d4e1f160cf1d09c673486": "htmlcxx: update 0.86 bottle.",
+    "f703a0c42fbdd072e666956a0b5ab6bf4c6c74a2": "htmlcxx: update 0.86 bottle.",
+    "f79701dc3c00b27a3875571c2117b64542e2e4ee": "htmlcxx: fix audit --warning",
+    "edd782648c845929723c19df0eebce36791fdc75": "htmlcxx: update 0.86 bottle.",
+    "661ca1d20ffa8ae334ce97ea210c9d696cd2da06": "htmlcxx: update 0.86 bottle.",
+    "376f7dc1a3262ac64340ec0ebe581eb51153dc87": "htmlcxx 0.86",
+    "6893294903f88a3d0bb83cca15be746b849132d5": "htmlcxx: use secure url in comment",
+    "5b3be20f17e5a52d4dd5af076c88e9ef206b5bfb": "htmlcxx: add 0.85 bottle.",
+    "43de4d16f6aba9ee707d479bdea499e88c29a840": "htmlcxx: note that patch has been adopted upstream",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "512ceda7724c4d08e6314eb0f6cf1df4c0c495bd": "htmlcxx: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e1f05a9a86c34decd8582ea737165eeaa278e1af": "htmlcxx: fix compilation with libc++",
+    "1447a30091b33fbf93a3ca4246dfcb1dc8f4d732": "htmlcxx 0.85",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e396506ed85df6aebabe05120d9a79046b6d22f4": "New formula htmlcxx"
+}

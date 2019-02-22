@@ -1,0 +1,23 @@
+{
+    "582d1844cb869201c014a3f175afa5bbc32615b7": "swift-protobuf: update 1.3.1 bottle.",
+    "1d32281dc7f7322fa6e6d803297552c9aec47bff": "swift-protobuf 1.3.1",
+    "31173be866f95b06faff307cfa55c94a5bcc746d": "swift-protobuf: update 1.2.0 bottle.",
+    "27c1cf24f70b00cf0a82a97fc23199329aef3a91": "swift-protobuf 1.2.0",
+    "e60c030735f1acbbe4ca712ad854b5b6a07f4c38": "swift-protobuf: update 1.1.2 bottle.",
+    "275b804349f12227aff66fe5d2735deafa736cd5": "swift-protobuf 1.1.2",
+    "cd34dc5d7f0887bf9e4ac163d85d70f67b3523f1": "swift-protobuf: update 1.1.1 bottle.",
+    "2b90455a89f14a551a606413df07e38a6a794656": "swift-protobuf: update 1.1.1 bottle.",
+    "2a07a1674aee6688b471150feee190de1151c9af": "swift-protobuf 1.1.1",
+    "b2b3e367bca5585ba4f21e2bdb1ee45820abf059": "swift-protobuf: update 1.1.0 bottle.",
+    "c4a4577a37d6b45ebad9ff05e282d28176c713ca": "swift-protobuf 1.1.0",
+    "17a17efb2ca5ed6afcc107a45cb677dd21de2065": "swift-protobuf: update 1.0.3 bottle.",
+    "bc3bf104552d10ba1dab1d24a2ca90470760dd12": "swift-protobuf 1.0.3",
+    "17a2c4b730ef5cc9023d543dbb6e2a3bbbd59871": "swift-protobuf: update 1.0.2 bottle.",
+    "560272d324305d807191ba16a2e545462fbb1f24": "swift-protobuf 1.0.2",
+    "5c43f802869aad4717ac7c25e4bfbe010193c7ae": "swift-protobuf: update 1.0.1_1 bottle.",
+    "72bc050392feb7ca97a3782a4598dcfd5da216c7": "swift-protobuf: revision for protobuf",
+    "4af8723a62726836f12e9e0cc7668be2acff24ab": "swift-protobuf: update 1.0.1 bottle.",
+    "240f78741ff1ea53d137f2779a9d845da0d88e22": "swift-protobuf 1.0.1",
+    "41bd0a1b570bb8071ad6d4965ae849757bf177cc": "swift-protobuf: add 1.0.0 bottle.",
+    "ec117aa18a06a75097006413a779238b73a3b708": "swift-protobuf 1.0.0 (new formula)"
+}

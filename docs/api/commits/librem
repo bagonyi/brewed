@@ -1,0 +1,22 @@
+{
+    "bc8c5842aa2ff8447222385ee90eff7e126b1985": "librem: update 0.5.3 bottle.",
+    "1f2ee9c60a08b7ad493cc77f1e26cd28b8e14f35": "librem: update 0.5.3 bottle.",
+    "7edfa0f08d1e4fcba6eb1117d6eb5ea0197ffa37": "librem 0.5.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "955794534df29465d9c8a9c795f7b59a34de6486": "librem: update 0.5.2 bottle.",
+    "16740ed0c91bf5e99dcd4d37120b9d2e174128f1": "librem 0.5.2",
+    "7d8aa1b79d1968e3c2ce05412957b54ce59f76cb": "librem: update 0.5.1 bottle.",
+    "c203b0a1cc01f04a4c36a1111a0c39179190f2f9": "librem 0.5.1",
+    "68a30c82914103d992080ea76566abe264a1ff3e": "librem: update 0.5.0 bottle.",
+    "ec0f8352f4610a0ecec219f8b4c2478654de27a9": "librem 0.5.0",
+    "a0d5437a969b9f170a441ff70b2c52a12e0643a5": "librem: update 0.4.7 bottle.",
+    "b9b913d4e5bbbdd0f6d583444ecc2aaf0512355d": "librem: update 0.4.7 bottle.",
+    "306f2a0d1b8d9b4dc6ae102202b448fb69911da5": "librem 0.4.7",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "792acaccfaf63c71d87da4c15fefc99b383e1ac6": "librem: update 0.4.6 bottle.",
+    "0a997459f526af594dcbd48d5b79a61bbfa1d7f4": "librem: add 0.4.6 bottle.",
+    "a83f9fd920eb1eea88729d1b4200bf1c16643236": "librem: fix for non-/usr/local installs",
+    "0f0b57623a622081b195b0c2669d46b54c5f6158": "librem 0.4.6"
+}

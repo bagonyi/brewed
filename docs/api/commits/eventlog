@@ -1,0 +1,17 @@
+{
+    "73870a0e9bf7dd71cdaa0c58056a1ad23f5e1601": "eventlog: update 0.2.13 bottle.",
+    "5855f47dd363ecf869df9792a711009239bb3d8a": "eventlog: add mirror",
+    "4905387268d648357809de5429bc37e361e4044b": "eventlog: update url (#23379)",
+    "fb4dd7afcd4f5b45fd893b9d8a5f603f7ed8d32f": "eventlog: update 0.2.13 bottle.",
+    "9785f76643d4426e10b75ce666c46280e8095ea8": "eventlog: update 0.2.13 bottle.",
+    "b9ebb0db841a2e14eb97a53684316ee1369cd920": "eventlog: add 0.2.13 bottle.",
+    "11eb02bc10a9c7bea17ce7840049d8c5f6567b84": "eventlog: use https homepage",
+    "bbbf5770183d862ff5ed2517126ec3ac2788f8c5": "eventlog: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "738efa61d5c675a88b4f8d2ab230dc95c64b7f3d": "eventlog 0.2.13",
+    "3528a540bf1dda70683e160b32f8af0d6adb7de3": "eventlog: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e52094677f74911695dcd84ea6d022f24c054432": "Add eventlog, needed by syslog-ng"
+}

@@ -1,0 +1,13 @@
+{
+    "ef0107518f0e897517437e21ae0bcc61fffc5cf6": "whitedb: remove references to pre-Mavericks.",
+    "d40ab183dd502f2a4ac4f6c95f38dbdfd7892825": "whitedb: remove options",
+    "5dc87abd0432a2028a0cddcb73a60c0bc50e7d3b": "whitedb: update 0.7.3 bottle.",
+    "dfd2de3854e02160d57836eaa7f089544b6a7a7c": "whitedb: rename python@2 optional dependency",
+    "b507d300f27dc02441873feef42432c92d2e2dc1": "whitedb: update 0.7.3 bottle.",
+    "f48d336a23d4afbebe95f6a41a1bbcb9edb15377": "whitedb: update 0.7.3 bottle.",
+    "ca68027113c03cb96986cd81184a5c5f0bbd8b00": "whitedb: update 0.7.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f45ef212aefaca8e9e5da4b0035808169e52e6f1": "whitedb: add 0.7.3 bottle.",
+    "45d1c964e77fe949feaf665bdcfa40abcd3ae05b": "whitedb 0.7.3",
+    "3ba1acb53533bfe3fd1ca2f9a613e845fb4f52b9": "whitedb 0.7.2"
+}

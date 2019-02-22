@@ -1,0 +1,16 @@
+{
+    "5a6cb66832b4417ca06d48020d64ced6b6a5c570": "tarsnap-gui: update 1.0.2 bottle.",
+    "bb9e4498cdb7c13585287cb89458ed298f0e7048": "tarsnap-gui: update 1.0.2 bottle.",
+    "0ec27c066aef02b149095876579aa4dc795bb5a6": "tarsnap-gui 1.0.2",
+    "9b9c47299dc9f140c6347e458225ebbe60d85307": "tarsnap-gui: update 1.0.1 bottle.",
+    "78c481abb8039efdcbfb8673b0d1f7c8851ee0e1": "tarsnap-gui: update 1.0.1 bottle.",
+    "36147388b9a8cd6a1e60655c701be8dacc76d22a": "tarsnap-gui 1.0.1",
+    "12d355388d7f0c86b7e98a18739b437c8a294890": "tarsnap-gui: fix build with Qt 5.10 (#21559)",
+    "23b5ab69f91cf38735f98cb0a82fedac3050d907": "tarsnap-gui: update 1.0 bottle.",
+    "83a7e857d5a3b9b9138269ef2896ac285bf108ab": "tarsnap-gui: update 1.0 bottle.",
+    "29f988bfae2cef540b55b1cee7dfb8739da5f86a": "tarsnap-gui 1.0",
+    "2925ee3ac16c0f1119801d26f69ff88ce357e25c": "tarsnap-gui: update 0.9_1 bottle.",
+    "72e10de7a2d517f35179cb6f6cd25439e258040e": "tarsnap-gui: rename qt5 to qt.",
+    "b72daf37afcafae789c5ab7ffee6e9aefe76e32a": "tarsnap-gui: add 0.9 bottle.",
+    "71ee53f04416379a3159dd6babb89ade43821d06": "tarsnap-gui: import from homebrew/gui."
+}

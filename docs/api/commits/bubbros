@@ -1,0 +1,16 @@
+{
+    "7455122828bf0fedabf13e80cb686857b0627e70": "bubbros: add Python 2 comment",
+    "52a6eb4afa8e4638be77cdd3099f4ac3be7ea7e3": "bubbros: update 1.6.2_1 bottle.",
+    "31d3293f9e7994de857aa2ad536b0a84994e972a": "bubbros: remove options",
+    "de9cc63c49930ea79f756a24b80bc0fd5f0c8650": "bubbros: update 1.6.2_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "4589e0948be57c41a72e83df58aeb312c287161f": "bubbros: depend on python@2",
+    "bec52f1ece4d21acf967357ed47ff4ffc4d86e7a": "bubbros: rename python@2 dependency",
+    "37c70a58e974f2d6108f17b5a0c72fcedb16461a": "bubbros: update 1.6.2_1 bottle.",
+    "46a735e6c3a882ea280587ecc0d4e7212d9ad596": "bubbros: depend on python instead of :python",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "71a43c840ace30f6a7141dc0e6d0de258fa54f20": "bubbros: update 1.6.2 bottle.",
+    "a552898ec604cdf74599cb32047d8b7c2440726c": "bubbros: fix audit",
+    "6566069b7e501e5a183aba8f04ee07c676bb9552": "bubbros: update 1.6.2 bottle.",
+    "df24eb18504b0b8b6abfe3c17c5f1a0957aef7c3": "bubbros: import from homebrew/games."
+}

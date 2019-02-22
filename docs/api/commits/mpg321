@@ -1,0 +1,21 @@
+{
+    "54ce7a6ad67380cf16c59085d0ee067674962f52": "mpg321: fix dependency order",
+    "84d5c5e789a023d5d15a5ac51e6ff52eccd1e780": "mpg321: update 0.3.2 bottle.",
+    "9ef5da51ecc2df7be4f0b98317d4d611b61c66bc": "mpg321: add test",
+    "33ecda8e5463f7ea2d6c96cebf8487131c2ad6d6": "mpg321: update 0.3.2 bottle.",
+    "72188a775eedfd719ca6b783acb44ad1dc00f488": "mpg321: follow redirect in comment",
+    "6c2fdcb603e2d2fc36952b9d0b01a05ea0e7c0e8": "mpg321: fix audit --warning",
+    "b60e1801b9e351f45a2a536e7b0620600d0cecff": "Undo erroneous \"(Mac) OS X\" to \"macOS\" changes",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "8e3c2c6b94a3810d92e9ecebea0b32b1ed1efb45": "mpg321: update 0.3.2 bottle.",
+    "acc5d42a2bf38cf261cb8512395612f5feb4cc13": "mpg321: add 0.3.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "247c8f0e98e70e4fe0cf42d7b662941b1b4c48d6": "mpg321: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "fa497a3782fd25cecbc9a6e39bdb7953f39b310a": "mpg321 0.3.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "1928a61171fc1d1f23f3c1dd40aab1153012379c": "mpg321: fix audit warnings",
+    "0d873e9c9402a7cf47b710154b3ed34c3b5954ec": "New formula: mpg321"
+}

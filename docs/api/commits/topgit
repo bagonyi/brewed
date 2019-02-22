@@ -1,0 +1,12 @@
+{
+    "661774d93f70505a957884570b69c98a9e99a6c6": "topgit: update 0.9 bottle.",
+    "f62f19f2e8b7ed76752c4c2e0ffbc6d1778c5cfd": "topgit: update 0.9 bottle.",
+    "a885c1b275c74fd8268eadf4fdc844cd9bc5c61d": "topgit: update 0.9 bottle.",
+    "2aa278707ef83d685c12fd9f4c5d142bbe551bf4": "topgit: add 0.9 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bb871a1a638f6679bd51c3a51d584fcb21fc2a73": "topgit 0.9",
+    "348fa749f3b2eb22650ea7734788f5af4425afec": "GitDownloadStrategy optimization",
+    "16f9ad23e8c59940afb2bd923e2f4deff1e4d387": "topgit: style nit-picks",
+    "be21a9eea8999c6ab0cfbfd18512506ab436f681": "TopGit 0.8"
+}

@@ -1,0 +1,19 @@
+{
+    "25d645e9cebd0bd3e14e056e80f77a3547d9f6dd": "libunwind-headers: update 35.3 bottle.",
+    "87f45ea13d28bedd8a76e8651d01950030c6d21e": "libunwind-headers: use *_by_macos.",
+    "cf672c3566b26ce3b426b2eb691c200690c766be": "libunwind-headers: update 35.3 bottle.",
+    "a9223f2ac4211a761c2f3adc4ee7a34081954535": "libunwind-headers: remove Leopard patch",
+    "047336fbf0ce83a1fa2b0ca8528fad96fcdbc864": "libunwind-headers: remove pre-Leopard patch",
+    "6d233923a5b3e2b872b29339cbf08e8adf069097": "libunwind-headers: keg_only style tweaks",
+    "2be5032c0e54daee633f7d51f418fbb8af434cbe": "libunwind-headers: update 35.3 bottle.",
+    "76738d1e22e1b6c5730258bd77c77d8015bce933": "libunwind-headers: update 35.3 bottle.",
+    "83b051f16ee56cf3d566de89e5fa5b9654d9ed8a": "libunwind-headers 35.3",
+    "1c82072fb3ddcbaea682dcf7c2a46cc6df16f10d": "libunwind-headers: update 35.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bb1de9ab94c96eaed5971ca24ab4d0d672db96c8": "libunwind-headers: update 35.1 bottle.",
+    "a4d401c9f0942f0b5eb04d5f4642eea19b2db22d": "Pass arrays to inreplace instead of looping",
+    "bfeb413e599c04348a8a671082b136b558d5e9d9": "libunwind-headers: add 35.1 bottle.",
+    "ee87b921b12c9c081da169fe1c6721cfc8d6e6cc": "libunwind-headers 35.1"
+}

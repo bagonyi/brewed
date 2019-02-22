@@ -1,0 +1,15 @@
+{
+    "1e8e510312dabc6d2c35ebd1f07169d35748c22f": "gnu-go: update 3.8_1 bottle.",
+    "ea68f474cdd3799465d121ca505feb4143c4d8d6": "gnu-go: update 3.8_1 bottle.",
+    "55a824d9e0e001f19e07e11c946036c0efc27f00": "gnu-go: swap GNU url and mirror.",
+    "bfbdc06417f5cab38df6fa9ad079db2d8f89b0d5": "gnu-go: use secure head url",
+    "27b0a3ab3b2047b068c695e49d12328b687c1cb2": "gnu-go: update 3.8_1 bottle.",
+    "dcc5ab99d4273d94315b0403331bcf9ca58926f8": "gnu-go: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "83fcafb5aa78d1987fff5e9bf8ac3776e32b1ca6": "Add mirrors for GNU formulae",
+    "fa3d89a7c051d9cd9c72238f1bf229a193acbd27": "Use automatic mirror selection for GNU downloads",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "28a20900414c21c3a720793c2bb603b4926f322f": "GNU Go formula"
+}

@@ -1,0 +1,18 @@
+{
+    "05ba0e2191b6278fba1e2cfd95aec629277555f7": "recoverjpeg: update 2.6.2 bottle.",
+    "47d6c35442b62df7c7e6f38a64f6682ebacb815a": "recoverjpeg: update 2.6.2 bottle.",
+    "4a23f2de7ecb1766dfc62c313f027639fd3007af": "recoverjpeg 2.6.2",
+    "920638c8814d011b636320cb94b3030262b6da85": "recoverjpeg: update 2.6.1 bottle.",
+    "8cedc8d52622c8ec9f1d662d8528ea066c20e304": "recoverjpeg: update 2.6.1 bottle.",
+    "50ab91976899c34705da3925774024ce7ffbf430": "recoverjpeg 2.6.1",
+    "475cf7044830569afbfdc319a9731c9b22876314": "recoverjpeg: update 2.3 bottle.",
+    "9059e5c8ff73ca1b451d63c6d0030f87312115fb": "recoverjpeg: add 2.3 bottle.",
+    "7071225fb6119178eff3065ee277d4f60f5fed64": "recoverjpeg: use https homepage",
+    "1cdfb73bec80be9aa410a71970db28c9846f2df9": "recoverjpeg: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c9aab5f3de79e41c855206510b2c873b978ffd1b": "recoverjpeg 2.3",
+    "120f9480a2e3d470225d669d6f4aed100e330dbc": "recoverjpeg 2.2.3",
+    "3c82077a5fbe349a531ab01c6c8d54893f4a398e": "recoverjpeg 2.2.1",
+    "dc34a0bd54027d47986249a59c73ce2b961d0051": "recoverjpeg 2.1.1"
+}

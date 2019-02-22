@@ -1,0 +1,21 @@
+{
+    "29b1b1d0a1550b54c080b49cce90904067a9ace1": "libxmp-lite: update 4.4.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "74b6027ba290a6877f307372fefde0c2c781fa2f": "libxmp-lite: update 4.4.1 bottle.",
+    "73350a3fea5e59ce0d8bb4303b0c4ff6338b5d10": "libxmp-lite: fix test on 10.13",
+    "944b8d3e450074bd9440564e618b06e51b768b28": "libxmp-lite: use full_index patch",
+    "68a8c964a6c8b7b9b6b960df26473cecba648419": "libxmp-lite: fix patch checksum(s)",
+    "3ce8d9830bce8c0607ca06b4bc7de804efaf78f3": "libxmp-lite: fix audit about sourceforge link",
+    "e617e4343d4b2ee208b05ff1669e6a1959251685": "libxmp-lite: update 4.4.1 bottle.",
+    "ed2e6735ec444b02c2d96432f4c3e07ff8ece65c": "libxmp-lite 4.4.1",
+    "87cdb343ae5a53ebdbe4e588aa9af68101f26c36": "libxmp-lite: update 4.4.0 bottle.",
+    "1d682978c3e1fdd779a50ca7d91175cabf3063a7": "libxmp-lite: update 4.4.0 bottle.",
+    "086c8b8a5241845a567737a1883cf65322353377": "libxmp-lite 4.4.0",
+    "4a15ec3f22bf37f060dbfa36bd1466578d721dce": "libxmp-lite: update 4.3.12 bottle.",
+    "acfafacfb12c4da3ddddd9e3f18c9af1f2a98892": "libxmp-lite 4.3.12",
+    "7fb15504e5105cbb9b8a4a59914f5255997920d4": "libxmp-lite: add 4.3.10 bottle.",
+    "68909c18b776eb96493429687ff101e048579d65": "libxmp-lite 4.3.10",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9419c2d3a8e70309e6668e0170cb17d5d00d02d5": "Add libxmp-lite formula to replace coremod"
+}

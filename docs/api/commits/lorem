@@ -1,0 +1,22 @@
+{
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "f2d13ebfa417f1f6885b0612978b5dc59977fefb": "lorem: use /usr/bin/python shebang",
+    "5635c20623149b7dc83a5580b4f7f44662c8e6d4": "lorem: use archive tarball",
+    "9e106a4007c67ac3cffa233b4411b0a597d0c90d": "lorem: use full_index patch",
+    "3bcc95097f926658076273a9e0630e775a419d60": "lorem: fix audit",
+    "e63021a658c3db1290a193f50e38c9be8317cefe": "lorem 0.7.4",
+    "1cb33db9763b92a58a7053baf7ca6fd90958948f": "lorem: bottle unneeded",
+    "b32e47c0d44e3f5ff0be8ea39f3481b36798ff81": "lorem: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "09324778eafd7df4194a88bfe34c07cff235e7d7": "lorem: add test",
+    "f0a82bf1cef698d86a86e4527c4df99e0fc4e3ca": "lorem: cleanup python usage.",
+    "f6e80bdea25a44c9ce1f64f4577c9fbe93013661": "Python 2.x and 3.x support",
+    "bdc1261b35f289341ea3e59891b019e8550dafe8": "lorem: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "72e19eb5421201a2be3dce1e298861cf6aa4a132": "Don't need +x on these",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "1f7bc468bdbaebe8d5cfc2b74368cacde10b852b": "Use new symlink aliases",
+    "60670cd1d7024ecbcaa1e5a89880d75b230614de": "Added lorem ipsum generator!"
+}

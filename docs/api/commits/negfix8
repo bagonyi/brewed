@@ -1,0 +1,7 @@
+{
+    "823939929ad2c1bf6b7a4437934523870d70f11e": "negfix8: use assert_predicate",
+    "080a50765e5e626dd7b56da2bc445f2fa27df9ea": "negfix8: remove old imagemagick option",
+    "0fa4eff5a25b2c4f2cd70e1c8af6c6cb02cdcc1d": "negfix8: bottle unneeded",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "e1ba411606b7df42cebf590e35b9866a21a2b4cf": "negfix8 8.3 (new formula)"
+}

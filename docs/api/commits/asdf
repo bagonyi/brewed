@@ -1,0 +1,22 @@
+{
+    "03d0e842a7ff8a89b721b0aea2b9f09b9b48531c": "asdf 0.6.3 (#36413)",
+    "06f776eed5fd9a18d7ba08f3745bef144b04be70": "asdf: add conflicts_with homeshick",
+    "91f906e66419bbf1e25271de77129763dad9b7f3": "asdf: drop caveats (#35767)",
+    "8b9a2b898cc8fe6c7199472db89b1402f65be118": "asdf 0.6.2 (#34537)",
+    "928a75429a6c16ed9be0f174f14abd1960afbdc7": "asdf 0.6.1 (#34170)",
+    "c5c3413723b3984d6cfefb109df57201521bbb60": "asdf 0.6.0 (#32955)",
+    "0619b7684c7733263257ab78e64ee1ab9f81bee5": "asdf: add --HEAD support (#32159)",
+    "4eee857c6381cd4647a182a597f90848b78a82dd": "asdf: fix dependency order",
+    "db08e2e131c3697e8938fa299849fcaf0bcfcf2c": "asdf 0.5.1 (#30623)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "24f37d84166fce110fbf50aa771a004d58b2a034": "asdf 0.5.0 (#28394)",
+    "e2ca529d398a23de6841a62c49f3361c411d7715": "asdf: remove :run.",
+    "0dfb180497759dcae2f8e0d83cf0897689fadd6f": "asdf 0.4.3 (#25125)",
+    "927ecad4d9bc546fba9216cf26dbfd48c004d75a": "asdf 0.4.2 (#24019)",
+    "76355d4f4b0f4fc160ea4f5ff088c500c914f3f6": "asdf 0.4.1 (#22150)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "abc3feb8d716ceb98f3fa79c2496375def62fe92": "asdf: minor style corrections (#18355)",
+    "31300499f4445245bf1ed58144c520fb408f3de6": "asdf 0.4.0 (#18323)",
+    "92dc54155a2ea4554b21cf617e19da5c9b2039a0": "asdf: add fish completions and instructions (#15500)",
+    "37954ce7325f848f5867b9e320a8e91895d7d619": "asdf 0.3.0 (new formula)"
+}

@@ -1,0 +1,11 @@
+{
+    "4139e8a29226b858ebe2e985a507de082fa87285": "unzip: update 6.0_3 bottle.",
+    "1ef7dbd3a4811dd381d09e2f1e78c83634190c44": "unzip: secure url(s)",
+    "8ac7f572ea05a82cdf6876f8fec205705641c8dc": "unzip: use *_by_macos.",
+    "988c8405e966ef9a9d0e05bbbcb2fb246a4df874": "unzip: update 6.0_3 bottle.",
+    "c480e8ec2359d488f00dfa89118facc723ed1ebc": "unzip: update 6.0_3 bottle.",
+    "a2d6e27e3776c1f3b4cd64129018c87b1d525188": "unzip: improve test",
+    "35a08dab03dbbdbba5e69e391463488f676bf1fb": "unzip: bump revision for new patches",
+    "f114bce8608a5a9edc86de0c7cfdd6ffedcaf334": "unzip: update 6.0_2 bottle.",
+    "d5ae18dc9b9806717d0d123dfd5735d42cddd7f7": "unzip: import homebrew/dupes into core."
+}

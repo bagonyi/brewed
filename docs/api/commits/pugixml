@@ -1,0 +1,21 @@
+{
+    "9032a2c61d3c70f0a416ccae52197a018188e56c": "pugixml: update 1.9 bottle.",
+    "5520e25c548f2ca6feb7f7ba18016ab038ef0405": "pugixml: remove options",
+    "960db93ab3f799f81e47d31037dd6b14236dfba0": "pugixml: update 1.9 bottle.",
+    "1b4303edbe83aa1001f5cc5b40bb331d9479090a": "pugixml: update 1.9 bottle.",
+    "36f022099c2e38e8ed9c64c73531b1d75f42ccf6": "pugixml 1.9",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "06f20525f857d652ef88d910032caf9f989213d4": "pugixml: update 1.8.1 bottle.",
+    "1261675468fbf923b3c41977afc9e5cbca88d052": "pugixml: secure url(s)",
+    "3f70249d0ee3aaaf0af78ac186a000dfd1a997e0": "pugixml: fix rubocop warnings.",
+    "3265ba1c892d0e7e1cde803c8bfb2dd74307c46a": "pugixml: update 1.8.1 bottle.",
+    "a3599a537e93482d5b033896df5a41db1cfb46d9": "pugixml 1.8.1",
+    "a58e51991ca5e909e6479005c1c0df0776cc1245": "pugixml: update 1.8 bottle.",
+    "556a412cad8d1e2b9ac3b5b449551da2a40d0d18": "pugixml 1.8",
+    "de3bd687ac9dac10c3bcc208c9faa55cf5aa73a4": "pugixml: update 1.7 bottle.",
+    "6ae6c3a5e957f7c2b4d81c2fd1c92cbccb24dc8f": "pugixml: audit fixes",
+    "5be5a975ca5fbf5479d6f75156255a7e35599a22": "pugixml: update 1.7 bottle.",
+    "e0871bc3a6ff6a74a5c556dd930533627396ba4c": "pugixml 1.7",
+    "dbf9cd018d05bf10182cbf1eac349b7704962d66": "pugixml: add 1.6 bottle.",
+    "f3ffed8ef1025b9ae3fb55cce07fe7128e84c1ac": "pugixml 1.6 (new formula)"
+}

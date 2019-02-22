@@ -1,0 +1,21 @@
+{
+    "bfb35dbd9104a86c43fbc69ea1e842eb3257d92b": "libart: update 2.3.21 bottle.",
+    "d83bd7f1695b2396902eb6bd59c2fd5673089082": "libart: secure/fix broken url(s)",
+    "98420301e1668c1d957d11180b24d6306dd608bd": "libart: update 2.3.21 bottle.",
+    "35723e8a2ae5a72e4ba375ee936e0ce60a08d29f": "libart: update 2.3.21 bottle.",
+    "c0ce9959af0bb631ba2eed8b8de5d0eda0c35ca6": "libart: update 2.3.21 bottle.",
+    "91d10c6cd193420b192bb9e4228006c7a58e1668": "libart 2.3.21",
+    "e53dbd2620281472d65274f5834ca11bc0fcf7e7": "libart: update 2.3.20 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "109d4da9a8103a038a4d0bfc7d08eb7e41e9e0c2": "gnomes: use download.gnome urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "48e117bc43bfe9466e1aa8c35738781b23c61504": "libart: update 2.3.20 bottle.",
+    "aa3c2d2016a6af9587ca3159cc940cd757fe5acc": "libart: add 2.3.20 bottle.",
+    "1577af0372aa891acde96b12b0392d78d4bf18ff": "Revert \"Use download.gnome.org instead of ftp.gnome.org\"",
+    "91f6bc81c25e3d1185153841561a618756217cad": "Use download.gnome.org instead of ftp.gnome.org",
+    "26b6fc77376c9e8088f59c6732fefb7b319e6d51": "libart: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "781a348284b84f9625c38ab7d42c152558ed1b1b": "libart 2.3.20"
+}

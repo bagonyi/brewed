@@ -1,0 +1,18 @@
+{
+    "9d707b955cbbceb1d3dcd83d559c03bfc3f5536e": "psgrep: fix RuboCop warnings.",
+    "70c18720b939256c2eb4528e969c9edc76852626": "psgrep 1.0.9",
+    "22ba3b66cfc30853a0a4154b6c77757e8059b3d6": "psgrep 1.0.8",
+    "b2579dbf1ebb7ee2e47c774aeb04e3fd32b88b3b": "psgrep 1.0.7",
+    "a6182b304b14e269342772bb89d29769001a84d3": "psgrep: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "ea1f5b7fcb30b3ebb09c7200ae88bd89e0920134": "psgrep: moved to github",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "b2b37c6ee029b5d31106217f8ed2f5a195d8697e": "psgrep: add test",
+    "075e68a8e50e130e4e5aab9c986af43bc39d3a43": "Remove redundant :using",
+    "59932a82bc36c24c4f1fac044181bed92b2f6697": "psgrep: style nits",
+    "4673a216c234ecc0a494adfbd2f2cd4181d47d05": "psgrep: Use hg repo for head.",
+    "39af794d5cd67a5a833a69ce4b9559297c0669b5": "psgrep 1.0.6",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e32750e1d6146601e569a00d52a8e47b0a51c518": "add psgrep formula"
+}

@@ -1,0 +1,12 @@
+{
+    "92d3fd9f863b4a4b36712a83176bde2aee248c23": "cidrmerge: remove references to pre-Mavericks.",
+    "5428217cd3a68d7222565cdf09f8b7e14be93510": "cidrmerge: update 1.5.3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b1ac8af79f4f9bc27b88f9f83aebb88e037ad8ef": "cidrmerge: update 1.5.3 bottle.",
+    "bbbe68251da51ed04cbaca9bdab7da52c1a53d31": "cidrmerge: fix audit about sourceforge link",
+    "3fe42bd786e598eb969eb90f1d029ed461ab1163": "cidrmerge: update 1.5.3 bottle.",
+    "8641476b4f527f8c8acf6edfb630f93182cc50b9": "cidrmerge: update 1.5.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c067ac801cf2e43f1e41d3a1c86bd36b1913838c": "cidrmerge: add 1.5.3 bottle.",
+    "056825e34b02b18c6ec998b5282ad1078835a9aa": "cidrmerge 1.5.3 (new formula)"
+}

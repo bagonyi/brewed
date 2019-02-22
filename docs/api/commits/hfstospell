@@ -1,0 +1,23 @@
+{
+    "6a5fa6c96857f881aeafe9eddcc9c4be33f49b04": "hfstospell: remove checks for old compilers.",
+    "d418f46c69e60e7e85e966e26841ff59e04ff122": "hfstospell: update 0.5.0_3 bottle.",
+    "0831c8654f7abb0b3c8fdba656576fffcdb50216": "hfstospell: bump revision for icu4c",
+    "f0b01bc5ff404438d7b190c83aed4596d6ae8308": "hfstospell: update 0.5.0_2 bottle.",
+    "f4d0f50eff412cd5b7076b9dd1f56251a6a2d6d3": "hfstospell: update 0.5.0_2 bottle.",
+    "7e22b4132e5d6eba57a0cacf1a091ad5cfa94e4f": "hfstospell: revision for icu4c",
+    "53017939777618e9c8b3c16c4083c6c88fc81212": "hfstospell: prevent from compiling under C++17 mode (#29269)",
+    "aa9c832550d0e6bc19ee9cc91f99e56b614b69c8": "hfstospell: update 0.5.0_1 bottle.",
+    "7667651daa28309956069acc7fd568b73a473b7f": "hfstospell: revision for icu4c",
+    "d1e8c7750511e8fe3eacbb75598ca34bfaeb9ad6": "hfstospell: update 0.5.0 bottle.",
+    "926bdd2b070b9486ce710faafb212062940a8027": "hfstospell 0.5.0",
+    "c3998d90ccd7ff2205894a5639301ea95b0ebeee": "hfstospell: update 0.4.5_2 bottle.",
+    "a1eefbde24e49f99dbfeeef82012e36784c764d5": "hfstospell: revision for icu4c",
+    "4cd154d32774be5488ef0eefb0b96bbc1101ce5a": "hfstospell: update 0.4.5_1 bottle.",
+    "1847a409f9e9a33e03ae1a55032cdbc2ce414e43": "hfstospell: revision for icu4c",
+    "2cb717da9a88e012d540bbb3009e70c738cc181f": "hfstospell: update 0.4.5 bottle.",
+    "8bc90ec31d3e52d2a7b615a9b20cab77618d6f6d": "hfstospell: update 0.4.5 bottle.",
+    "fb0d280ed33921bad58f2fb38088a1887414779b": "hfstospell 0.4.5",
+    "00e56637c0510de9db19f7c33647d041057c8a5b": "hfstospell: update 0.3.0 bottle.",
+    "4a23d373f82ceb6dd16ad45030007130c9dccd6b": "hfstospell: add 0.3.0 bottle.",
+    "a7667fdd59335a4491434215f9b40f02063cef82": "hfstospell 0.3.0 (new formula)"
+}

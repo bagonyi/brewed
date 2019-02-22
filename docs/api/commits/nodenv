@@ -1,0 +1,17 @@
+{
+    "167c719049b8d7316c2ace331e77e0ebabd50c73": "nodenv 1.2.0 (#35387)",
+    "872098da883e37a3e0c84068a9a3ec4a9911bb75": "nodenv: fix BASH_SOURCE lookups",
+    "32020269f2d07a8fc717356e7362d09953079201": "nodenv: fix version number for head builds",
+    "67255d49e67a1cc724957841d008391df1432aab": "nodenv: fix missing shell-extension option",
+    "11228daa0d60997e49e109ca5193cd68a6bd5cc9": "nodenv 1.1.2 (#16689)",
+    "8281595b5117cd121ad29e60778b5c097a5e6ec3": "nodenv 1.1.1 (#15497)",
+    "ade7cacfe82309d9c3e6e6e9301ff163251d3534": "nodenv 1.1.0",
+    "3628e2df658e21c2ee8b79850765a3c97f10456f": "nodenv: remove non-Homebrew-specific caveats.",
+    "0d3598bedf3628e1da95658f7b03ac5d59191a65": "nodenv 1.0.0",
+    "c1bff4e9fc1333b9d75ce501e116835ebfd11564": "nodenv 0.4.0 (OiNutter fork)",
+    "1841f058ecc77d7d0d38dee021e1e70c5bf298f4": "nodenv: bottle unneeded",
+    "1369fed88cb941d36847668ae820af50c4dd74c2": "nodenv 0.3.4",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7c72f63b74d73443df5280abb66a02a0b681bd8d": "nodenv 0.3.3"
+}

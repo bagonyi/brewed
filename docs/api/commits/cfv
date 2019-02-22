@@ -1,0 +1,17 @@
+{
+    "8c7394ee2f6d261c3eb99e42799cb1a7b23bc246": "cfv: remove references to pre-Mavericks.",
+    "7a5b64a701589b98dc60f626d2be001d94334653": "cfv: update 1.18.3 bottle.",
+    "0e369bba89876389a4aab3aa1a3f4921f80c9dbd": "cfv: Pathname.pwd not just Pathname",
+    "2f580f34f44888e2ea09877799177cc156200504": "cfv: fix test",
+    "0fea7cbcc40fedcb82f9398167e80a11b579c102": "cfv: use assert_predicate instead of File.exist?",
+    "11d2dc0249434a7721531278231ce9fdc9c8ff1e": "cfv: update 1.18.3 bottle.",
+    "41aed1f1512872e87a2cd8bfc3136b0028d8b11b": "cfv: fix audit --warning",
+    "6fa41dac5a1d547757305136c18030da7dde0690": "cfv: update 1.18.3 bottle.",
+    "d79ee35865ee40ca1621e1ec923b1ac96ec124ac": "cfv: update 1.18.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f7e1a0aab7cb2020a3116e63aa0fec9aa9489bd1": "cfv: update 1.18.3 bottle.",
+    "ef71f1a5574a2ff1674c4b0fee3c728b3b69ff31": "cfv: add 1.18.3 bottle.",
+    "1eac86f1519905c74cbfc3c1f3894e0fdf0e964e": "cfv: modernise & added test",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f61df58e84ac9cff958c2a6cd23e709ecc94e088": "cfv 1.18.3"
+}

@@ -1,0 +1,17 @@
+{
+    "8e7249c8c09212397526845e7c156fa3e3805c46": "gitlab-gem: remove references to pre-Mavericks.",
+    "e0980523f8700535918d76163f27ed319237c121": "gitlab-gem: update 4.8.0 bottle.",
+    "21d5d41a6fa5878fbb8257c96a4b39e5da82b0bf": "gitlab-gem 4.8.0",
+    "30cdcf1781e33ac306636bd05022ace5aef8b9ef": "gitlab-gem: update 4.7.0 bottle.",
+    "5d5e0d2ed9a50a58a8951aa50bb4d0773fc7780b": "gitlab-gem 4.7.0",
+    "39103e28619085a8dc5f68c47b9a746214f67fa9": "gitlab-gem: update 4.6.1 bottle.",
+    "c06ac1750c9c8ff810b3fceea35f9e522a4f913e": "gitlab-gem 4.6.1",
+    "cc7b90cd9f59a6fb612ab16c510bf5fad4b3083d": "gitlab-gem: update 4.5.0 bottle.",
+    "ca0db78bc584f85dcb8fd9809302007e10b18711": "gitlab-gem: update 4.5.0 bottle.",
+    "611cfb9a64f115a9e8553cafed1e188b64aff31e": "gitlab-gem 4.5.0",
+    "41c2dfe2c2c1d9961d30ba5f5205924295c2a544": "gitlab-gem: secure/fix url(s)",
+    "bf976f7309350aa82e3a9b61f8f7dfffcbf4c507": "gitlab-gem: update 4.4.0 bottle.",
+    "1ed63c9dfbc4626b4d0a2010f4f690800d7a8539": "gitlab-gem 4.4.0",
+    "d16a43cdbaa49943c342a104ede1cb5a86a4e662": "gitlab-gem: add 4.3.0 bottle.",
+    "0d6b334c312852143483e71c8b190c9dfdf69cbb": "gitlab-gem 4.3.0 (new formula)"
+}

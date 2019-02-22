@@ -1,0 +1,10 @@
+{
+    "30030697c89368cbac7803121913493466becc02": "urdfdom_headers: remove checks for old compilers.",
+    "b7450ae6c6cbb1b27a9a66fb36529ff184948502": "urdfdom_headers: update 1.0.3 bottle.",
+    "05d39888162823172b37470dc3b6e281b28e24b1": "urdfdom_headers 1.0.3",
+    "dde8f72d00067d62d293e2a14212c4d18d386dd0": "urdfdom_headers: update 1.0.2 bottle.",
+    "1a9c8bcc47b289429868503c237d4024c5f4db4c": "urdfdom_headers 1.0.2",
+    "88d18ddbde398ca76df0660b11faa262c017a826": "urdfdom_headers: update 1.0.0 bottle.",
+    "75b930243843c2f6588ea4212c9f9b2ec598c0de": "urdfdom_headers: add 1.0.0 bottle.",
+    "bdbeb332e92ae31bd369d37428a8b9f729c7272f": "urdfdom_headers 1.0.0 (new formula)"
+}

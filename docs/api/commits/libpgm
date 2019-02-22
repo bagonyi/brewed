@@ -1,0 +1,20 @@
+{
+    "c52ea86c282f23751866d96b9e79575f5509c0ce": "libpgm: remove references to pre-Mavericks.",
+    "1d99ad0dd72a4d311718b6324c19dca516143a98": "libpgm: update 5.2.122 bottle.",
+    "4f42ee06b253afcfe0495087588c91062d031c43": "libpgm: update 5.2.122 bottle.",
+    "11bdb00393fbdf6fe370226d81a94c5569448db7": "libpgm: drop universal",
+    "9868db2c1fca714daa14e2fc973aa5bd3608f035": "libpgm: update 5.2.122 bottle.",
+    "5341f30e47fb08ba70915ed74348b863ef4e2681": "libpgm: migrate to archive URL",
+    "f0bfcb61b3abd19bc75841d436c5cdc010dd12fc": "libpgm: audit fixes",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "bcba24fc5cce6422cb04b5096c7dee0dd87ea827": "libpgm: update 5.2.122 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "18b30e33823b61876c52d668a927e891f3048485": "libpgm: update 5.2.122 bottle.",
+    "7b1b07409d91bd81d63c18dff59874107f895024": "libpgm: add 5.2.122 bottle.",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "126c595ac465e761c07aade90a3318bc16f3398e": "libpgm 5.2.122",
+    "1d251b0aa6004a654328c335be97bae6ba0ba28f": "libpgm 5.2.121",
+    "a92879704383adc8d417d59581aa693f57490156": "New formula: libpgm"
+}

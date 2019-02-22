@@ -1,0 +1,17 @@
+{
+    "4f8d8069d21f6af4515d10b9bf01de31915f237a": "typespeed: update 0.6.5 bottle.",
+    "173b5c74744a1b714f9974c91ebf22b969f0523c": "typespeed: update 0.6.5 bottle.",
+    "83fbcfe5012d5c208824a62ecf1da7c5c603f553": "typespeed: fix audit about sourceforge link",
+    "6cd756a1655914a792e8be521aac7995f484c70a": "typespeed: update 0.6.5 bottle.",
+    "6e8857ffac03f49cf7232311fb0ba785cc1d3ca8": "typespeed: add 0.6.5 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "56fba491e60c70cf0499676640e3e35825ea8795": "typespeed: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2fcf5760da977756927fa22efba49a6d1f5a4440": "typespeed: fix pointless interpolation",
+    "fa7ab387a4651b39c9341f7060f28dd8b46becea": "typespeed: Fix hardcoded gcc",
+    "e8f9f4b89bf891e6ea1f200679a6ae0c59ada912": "updated typespeed homepage",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d9c74fcab18dd30fa84b97c0cfa916eea0a7de80": "Added Typespeed Formula"
+}

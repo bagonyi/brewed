@@ -1,0 +1,20 @@
+{
+    "e575736100ef30b08dcc538420ce5dc4ebd5c77c": "bibclean: update 2.17 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4829e0f5dcbe1692f078a9da116958a2f3313b70": "bibclean: update 2.17 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "5e62f07fed2be3499aef1aa9a5bde908807f200d": "bibclean: update 2.17 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7ed8b68cb1153ca6c1c0856794a0c5487f501445": "bibclean: add brew mirror",
+    "c359966aea79ecbbea43b74e6b9db018aaccee15": "bibclean: use secure homepage",
+    "35b9a354d8bac1feeeb56fcebc55d184554f6830": "bibclean: update 2.17 bottle.",
+    "59f3d3e9966e53189bafcc9155cfff876c9a3fea": "bibclean 2.17",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "cc1c326b5412131042573856de69e11887ee0e2a": "Bibclean: update homepage",
+    "7e9d79d42e2898268b46595ffc984e86ebadd0d1": "bibclean: improve test.",
+    "511a98f00a367bc2a4f85572c479c6db1aafb22e": "bibclean: add 2.16 bottle.",
+    "c86da83e184fa79260c2a9fca303f3442c531dcf": "bibclean 2.16 (new formula)"
+}

@@ -1,0 +1,13 @@
+{
+    "945a51154d5c3ebea4a3fb3c1b92386f326c64ff": "ext4fuse: update 0.1.3 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "824f6e515b015a19063792bc087045708d2081de": "ext4fuse: update 0.1.3 bottle.",
+    "2f3eae2532b677179d524f551948779701f3509f": "ext4fuse: add 0.1.3 bottle.",
+    "bbdb078bc4a1569dbfeb5ac9d03c02ac58e0ffd6": "ext4fuse: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "efe6058609ffb7d5c6a6c62e5a795454f1858a06": "ext4fuse: use osxfuse",
+    "d2ca88a0c652077b1764c202d55de65040046759": "ext4fuse 0.1.3",
+    "ea1864ae55f6f970334abb1a7eff713df33d3654": "ext4fuse 0.1.2",
+    "cbb72d1f12de1690fbacac0b25e400d0e6b91191": "ext4fuse 0.1.1"
+}

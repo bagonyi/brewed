@@ -1,0 +1,11 @@
+{
+    "d048791ff98613da75efa7c4496df180c67f75c6": "sendemail: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6dbe074e54968132f32ae645975b7d112a0fdd04": "Start pointing some things at githubusercontent domain",
+    "11639da6bb13c9c46068c19450c8d460514440cc": "sendemail: use checksummed patches",
+    "c220f8ba8ea91d18cef22cf8221508c794533237": "sendemail: Add patch from Debian to fix SSL version format",
+    "21f6cc3a74a9f43ec5cbc9ff8b176a966026f6ba": "sendemail: use test assertion",
+    "89b3c56693069ece66ebb1285e33041d690a8800": "sendemail: fix test",
+    "bb3ba860d2ff331da04e503fc976dcad19072e46": "SendEmail 1.56"
+}

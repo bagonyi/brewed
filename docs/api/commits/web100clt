@@ -1,0 +1,23 @@
+{
+    "4742676cd158564f6eb47e0f76940f8d4a1cd9b3": "web100clt: remove pre-Mavericks support",
+    "fa8e3e80a3dd7e92d45c297740cfebf580f157b2": "web100clt: update 3.7.0.2_1 bottle.",
+    "e940a19a0c3a335e541633683874309d09527ff4": "web100clt: update 3.7.0.2_1 bottle.",
+    "b787718cc3b1cdf411724d371e9cbf3b81c126d8": "web100clt: use https for homepage and stable url",
+    "c3c54b35ffab32328d932b9b3b7374d8ab5fc15f": "web100clt: update 3.7.0.2_1 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "fa5d62c9208817d2ea75a3d0dd537e83927b7c99": "web100clt: update 3.7.0.2_1 bottle.",
+    "f4793375d0e23212cc6fa8350f222c00d62df534": "web100clt: fix openssl linkage",
+    "0856887c222607bba52315fca9a4bbf81c943c10": "web100clt: update 3.7.0.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f5fa1f7d2e0e387f320d514f6301e0f4e44dfba": "web100clt: add 3.7.0.2 bottle.",
+    "1d7b1bda5ecec638718b57d892ed85aad94e7baa": "web100clt 3.7.0.2",
+    "8ef0b46216a3ab8af8d01c6cd3c00898e020afd4": "Use githubusercontent domain",
+    "ac6085de79b7f5a338b5a7452827af76c98c609d": "web100clt: use make -C",
+    "ac799bcf1b729a40ebd15d6b3dda20d3072d602c": "web100clt: use checksummed patches",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "f97e8c75ccc439bca3e6fb634996052d4b251f72": "web100clt: fix build on Mavericks.",
+    "55536ac19b872c062cfc0984351c0a96be4fd056": "web100clt 3.6.5.2",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "4aede117c82a32210ba17529155fdaea81513ba1": "web100clt 3.6.4"
+}

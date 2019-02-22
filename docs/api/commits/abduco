@@ -1,0 +1,20 @@
+{
+    "d4d530ad4ab6b8ce15d345955c8ebce7d8bf0321": "abduco: update 0.6 bottle.",
+    "6bf1c679e0f0ba1788811aa5bd821359cd8efc80": "abduco: secure/fix url(s)",
+    "2b7c49e7c86bf64f5881c59b8512e3a6b09c8fe3": "abduco: improve/secure repository url(s)",
+    "3d05b261af107985fe7d368d5ab3677129c8f13e": "abduco: update 0.6 bottle.",
+    "e1ce6074e31102929d3a31a86ac455d02a8db20d": "abduco: update 0.6 bottle.",
+    "2263275da670545a6288a903aa9b47cb3abc3f61": "abduco: update 0.6 bottle.",
+    "b161d987a892f22a6a54d366d307452b53ad2768": "abduco 0.6",
+    "4e78033269b7dd5ccf2867753c5946d475be84aa": "abduco: update 0.5 bottle.",
+    "ac2e56bd4f6957b42c3d3156bb36c9d104888644": "abduco 0.5",
+    "d8900576441a6f2e839169a449dce18e89504ecd": "abduco: update 0.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8991014cd86d3f6e15976534d8d9517a0d9d841b": "abduco: update 0.4 bottle.",
+    "0d1d12eb41c7dfc37612533e4c973013a88a4874": "abduco 0.4",
+    "7fe40bb1aea3d9a9638d2da5ed1da9a723a8ab63": "abduco: update 0.3 bottle.",
+    "43d2542e58eba9c392a563a222354f597fbb615a": "abduco 0.3",
+    "84c2809bc1c334cab419e407235677e8487714f7": "abduco: add 0.1 bottle.",
+    "558ee6b4c2b3526bc0809d4fdf31b9d1cc675e03": "abduco 0.1 (new formula)"
+}

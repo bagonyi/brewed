@@ -1,0 +1,20 @@
+{
+    "2c7c239b59cfeda614f516e926333023d61b9f53": "diffuse: update 0.4.8_2 bottle.",
+    "78ac5ad5ba83f289a5267ada36a704f804d891f9": "diffuse: update 0.4.8_2 bottle.",
+    "4aafc090015268428975d9a60f47379bb928351d": "diffuse: revision to fix install receipt",
+    "ae543b76626830d579e62868526f789a92e48f9a": "diffuse: update 0.4.8_1 bottle.",
+    "293015e57c97c1664b53b01085d1b169ec906b8f": "diffuse: use /usr/bin/python shebang",
+    "543002d9f40ff0e828df58b170564ebd8605c144": "diffuse: update 0.4.8 bottle.",
+    "b391526477a57adc60afb3a8cec38cf2a12d5b13": "diffuse: fix audit --warning",
+    "dd4a71a852c91e60e882f018a7de67fd72f0fb85": "diffuse: update 0.4.8 bottle.",
+    "29e4682e0f992b48f98ef789a90109894b1b57d6": "diffuse: add 0.4.8 bottle.",
+    "a1cbecd0db0c7c2ad302fb9c9dcfde1b7f8a75a5": "diffuse went quartz-only",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1f241eb58ea50383f08a9c6a095b549163811f8f": "diffuse 0.4.8",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "bb865f254f8391b5898526a79bcc436c84294266": "diffuse: cleanup python usage.",
+    "f6e80bdea25a44c9ce1f64f4577c9fbe93013661": "Python 2.x and 3.x support",
+    "2b02ea298671d5f829ded3333e1fbbacb74c703b": "diffuse 0.4.7",
+    "31efabaddf7ac3387f1c6f6e051b0db8b00ca6b6": "diffuse 0.4.6"
+}

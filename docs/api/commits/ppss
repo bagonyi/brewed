@@ -1,0 +1,10 @@
+{
+    "2c5572c61df26d7915af8ee796bad3dfea66ed90": "ppss: update homepage/url, add test",
+    "ae996fee2dc4a3f1922af1997d1d088f3f801be9": "ppss: use secure homepage",
+    "4b0e9626276dfdc6d68fda021ca2830e9fdbfbb1": "ppss: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "04c02acc9ded226f36caae53cd3b8d4d4bf07c88": "ppss 2.97"
+}

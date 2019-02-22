@@ -1,0 +1,17 @@
+{
+    "e2ab6613979fd024ada8d52a93fada2893745207": "libcuefile: remove references to pre-Mavericks.",
+    "139c0754b0bde0fca630759d02e983785bfa2955": "libcuefile: update r475 bottle.",
+    "f997e81fbf91d20c67fa44c529834f5a8b920164": "libcuefile: update r475 bottle.",
+    "5ef553f1ae838255a8d89b4e6e3359cafb1acd35": "libcuefile: update r475 bottle.",
+    "82e33489e8fe85e7411ec0e013439fb776ceb99c": "libcuefile: use secure url and fix an audit issue",
+    "c5384c40f1802b72c244bb3af75a0f7e35271053": "libcuefile: update r475 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "03d3b7dca7acc7fe50b81016ed563c50844c5ea8": "libcuefile: use an https homepage url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "bbe202865a7a28271d781b9a8df311b323e0b6c2": "libcuefile: update r475 bottle.",
+    "09de54bd012b2da39e04f47c99d4c53f72fb38f2": "libcuefile: add r475 bottle.",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "a5a8346e75988612e016cdada0ab6339a4734482": "libcuefile r475"
+}

@@ -1,0 +1,12 @@
+{
+    "21cf68b5e531b84219ca0376e8420d120681f5f8": "jumanpp: update 1.02 bottle.",
+    "c518dc44484380c1ff75f151ed2de2a49533153a": "jumanpp: secure url(s)",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "402f02b7edf095ad9611e099bcb454cd2e53edb4": "jumanpp: update 1.02 bottle.",
+    "1c32c8438c7b796fc0ec1f4ddd0c0337d64d42b8": "jumanpp: update 1.02 bottle.",
+    "732b043195daad49a1b428c933564f9812c1cc5f": "jumanpp 1.02",
+    "e313c189cae6bee67247e5d774f55ede3f5efdd9": "jumanpp: fix boost-build audit failure (#8285)",
+    "98b47045fe2ca20f8c42d5fecd06ee4a8c62db00": "jumanpp: add 1.01 bottle.",
+    "ceb9680c6d444ea0bc0acf71e42671d8d51d4488": "jumanpp 1.01 (new formula)"
+}

@@ -1,0 +1,20 @@
+{
+    "880d32126f73f0a356eec7a7ceb79ff59b4e6710": "normalize: remove options",
+    "e9a57d5a5e20ca936fdd59a30831243d7cad25f2": "normalize: update 0.7.7 bottle.",
+    "f0b4250a8dc6cf8c516092eb8f6f4a69986a7bc7": "normalize: secure url(s)",
+    "78de6174b65a7727bdc9b240d689ec8bbbf71417": "normalize: update 0.7.7 bottle.",
+    "78353d7b69fd7a1e873f34faab0341f77d215624": "normalize: update 0.7.7 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "236544c6e9e9a6e5f9f993070d6943fa1755251f": "normalize: update 0.7.7 bottle.",
+    "755fd650539d831bba05aca8ba58104d6ed69866": "normalize: use secure url (redirected to cleartext)",
+    "8f9a2380c58a6001a2dcca429d7e3e9e4a0fb688": "normalize: add 0.7.7 bottle.",
+    "85c603871d47ee21e077b3db47f3cff639b377aa": "normalize: follow url redirect",
+    "69f9f5b207af7cc83bccb76a84b23250c394a844": "normalize: fix test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "91cdf48f539b0d52b9682770149078b4438fac4e": "normalize/num-utils conflict",
+    "dc248aefba591b1907c424c2dda6df8473cb7a86": "normalize: use recommended dep",
+    "1fb7d195cd59ae01ad01047af4d54d831548fdeb": "normalize 0.7.7"
+}

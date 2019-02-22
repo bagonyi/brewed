@@ -1,0 +1,14 @@
+{
+    "2c4197e2bc1584db0d9c6221c72fcad5230b2870": "m2c: remove references to pre-Mavericks.",
+    "bf57646b19b4a17b4d5beb5657a1ed95de7126b9": "m2c: update 0.7 bottle.",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "03fad2b9f3aa7ab4e3be344706a319ca75137a97": "m2c: update 0.7 bottle.",
+    "985cb4770abc50b468f04231579111fec4ad7877": "m2c: update head url (#11703)",
+    "de669327c2a59e1616d2d98f0bdb896c60f8a998": "m2c: use https for head url",
+    "dff022de62578d320c51b15011072e5972191683": "m2c: update 0.7 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "8f8b2ca693ca582e2972eed2039029b0bb8defb6": "m2c: update 0.7 bottle.",
+    "78f7676fb46a328d3e1d2ccd016265180e3b6352": "m2c: add 0.7 bottle.",
+    "7eac9ba262b59507414ea92fcf4eb22a9771f59f": "m2c 0.7 (new formula)"
+}

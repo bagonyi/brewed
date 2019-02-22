@@ -1,0 +1,15 @@
+{
+    "bebb614d6db6fa781ecf423ddfd1c3109b8b867c": "tcsh: replace broken homepage with archive link",
+    "28f37f8166a0e4a8b4a9fe39ae34da615b9a1de3": "tcsh: update 6.20.00 bottle.",
+    "2362cb233ebfd49268b62a62f74df8c38c88402f": "tcsh: secure mirror(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "57a4a5104f858cb40284f4f4286a79f2d1c815d4": "tcsh: update 6.20.00 bottle.",
+    "63901c0d1b208f57f1c182d0e7e26969f6e52a26": "tcsh: update 6.20.00 bottle.",
+    "98df518ed1dfcb27852d6293c802d563221d4952": "tcsh 6.20.00",
+    "ecc773d8e773702cbdab9bca93451da7e76da2d8": "tcsh: update 6.19.00 bottle.",
+    "880abda9071802a45efd8a7fce7504c838560c29": "tcsh: update 6.19.00 bottle.",
+    "0d174633f5f81c12b57fe2f3f75af62cf36afa17": "tcsh: add 6.19.00 bottle.",
+    "5545b2dbe9cabf13be0d76925cbb391f6361944a": "tcsh 6.19.00",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b976f8f10c2a5cde3bf70422b2f14c7ffded78c6": "tcsh 6.18.01 (new formula)"
+}

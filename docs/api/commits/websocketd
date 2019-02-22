@@ -1,0 +1,18 @@
+{
+    "f1d24c201a7faaaf3a1e68f521bb97dcd3b6c1a4": "websocketd: update 0.3.0 bottle.",
+    "95c0451799def088efebaee6933541239dc1a08d": "websocketd: update 0.3.0 bottle.",
+    "a9c1934f85661af7a4ab73ba38951561be44071f": "websocketd 0.3.0",
+    "bb66dc470264caa9e76cf82b72cd2990107712be": "websocketd: update 0.2.12 bottle.",
+    "4e8d8a21ecb7908fadf69ddedc0a3ad207f1ed24": "websocketd: update 0.2.12 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "27982d6b3fd6ed2e1dbb3af953949f6c3787c206": "websocketd: update go_resource indentation style",
+    "b8f7985fd3a70dabe6364d8e50d9d30b97b92145": "websocketd: update 0.2.12 bottle.",
+    "64e871171b6f3ce071bec8d8490bf3ddd1ff45f1": "websocketd: fix version flag passing",
+    "2e631b61fd344cd92c6497f20904a96892a5c872": "websocketd: update 0.2.12 bottle.",
+    "088ff22b4e3cb83a52d2607f19ba1634be69e76c": "websocketd 0.2.12",
+    "5b2b79a974e53a603bc855c559374d5e90aad415": "websocketd: update 0.2.11_1 bottle.",
+    "3c8763a995d18d1e26892fe1f16276a813ab3afd": "websocketd: revision for go",
+    "1503aa80fd0a52085d2a1a7b8acb37050034f51d": "websocketd: add 0.2.11 bottle.",
+    "c206e1e117007402c6655c78bb443d89bfe1d1fc": "websocketd 0.2.11 (new formula)"
+}

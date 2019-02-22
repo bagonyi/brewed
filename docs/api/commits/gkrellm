@@ -1,0 +1,21 @@
+{
+    "4048132d9ca03d5abdf570ca4ee63e95a83ebca6": "gkrellm: fix dependency order",
+    "48f82621372d7c5890158905dc817d4b298e72da": "gkrellm: update 2.3.10_1 bottle.",
+    "e79499ae08bf59ac5f03afc0899dc45f20702218": "gkrellm: update 2.3.10_1 bottle.",
+    "ad3cd4df681afbd61ec99eb12c503d7d3ee013c3": "gkrellm: remove unused gobject-introspection dependency",
+    "e6b1e8bd54736a5082ca86d0ed6151ed61feb000": "gkrellm: use assert_predicate instead of File.exist?",
+    "bcf00a625a36a219f58bf054e0665171766cb646": "gkrellm: update 2.3.10 bottle.",
+    "491b9f24f7e08b1a5a8580aeaed2222dc2dc68d3": "gkrellm: update 2.3.10 bottle.",
+    "68b361a7fbda79edaefff2a255dfc7bebff82b87": "gkrellm 2.3.10",
+    "0108efa8b29bf76acca2437d0cb45ef79a2c1069": "gkrellm: use secure head url",
+    "1d8d3134875ffb84410f7d6ffa417893a197b62a": "gkrellm: update 2.3.5 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "0ba91dda8e3014f9887488ca17802f3e901b2558": "gkrellm: fix bottle placement",
+    "d14015bc322c33dbe9634e68a46d6ad5d2d092d2": "gkrellm: add 2.3.5 bottle.",
+    "9e6ab8c3acbc447319db39c6393be2f17fa29fc0": "gkrellm 2.3.5 (return from boneyard)",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "b59573f92a444fdbebfb7ed55bc9c71937dca3f8": "gkrellm: use checksummed patches",
+    "7bbedba86465187eacb67688086bd26c49cc36c6": "gkrellm 2.3.5"
+}

@@ -1,0 +1,20 @@
+{
+    "76977a73e5df033f2bc34c64d8fbbf38d7b53610": "fx: update 11.1.0 bottle.",
+    "a9b743abb3c27dc6c0a7ca3e68ecb59ca2450022": "fx 11.1.0",
+    "8866b3c58c6213a84d0e441012e501a93564c913": "fx: update 11.0.1 bottle.",
+    "4d0117a664510ba862c66d3ddc01c9ea7d5820d5": "fx 11.0.1",
+    "5075bdd22b1ecbe50f30b5dce520c2cda8a38995": "fx: update 10.0.0 bottle.",
+    "06fc016b6d7d96e6abce906324a4fc6e2cda2ea4": "fx 10.0.0",
+    "ae3774c533dcee71ef1c6bd75dc95077a10c3313": "fx: update 9.0.2 bottle.",
+    "9fdd5b505836f4798a6b942607655d55b4bbe39a": "fx 9.0.2",
+    "b6de45e9157a62eb1cea6157ec1865b9103c6c20": "fx: update 9.0.1 bottle.",
+    "f5c9f28223f6cd5c2e0285716cfd7301b66da81e": "fx 9.0.1",
+    "21425ea7c2f7b279b5d2343ecc5728783aab0178": "fx: update 9.0.0 bottle.",
+    "8b0958d8ccff98359409f70cacb3d52467214f97": "fx 9.0.0",
+    "f236bc36296dba8d21c3f04438fd6e833dcad084": "fx: update 8.1.0 bottle.",
+    "c6b61c2a776caf31dfbe13b327c007ab6fe15a97": "fx 8.1.0",
+    "9fdea87bfa28de4bcc48eb84cb54c9aad27c599d": "fx: update 8.0.0 bottle.",
+    "7ce67ad04cb1e82b6ece00e7558fadd25bfde518": "fx 8.0.0",
+    "d45d6a654cd6e559def4922c343b65e598416449": "fx: add 3.1.0 bottle.",
+    "1a9ed6bb2b04fd254f3a314963d868f7b52ae6f3": "fx 3.1.0 (new formula)"
+}

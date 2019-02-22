@@ -1,0 +1,18 @@
+{
+    "b7f77114510bb84e0e1e8f7b47d2cbb5dd418df6": "curlish: remove references to pre-Mavericks.",
+    "53b43b7420e46cf3ee8ebf16e6c5b9748a9ef725": "curlish: add Python 2 comment",
+    "0695a471bf99a2beaa824e14f1d0e90d702987a4": "curlish: update 1.22 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "5215b6d7e7d03e3ce565292ac64debb546b22efd": "curlish: depend on python@2",
+    "5fba0523a402a411b9f0f5bb3605056ef44e09c1": "curlish: rename python@2 dependency",
+    "a318c1c9c11d79242dbcc790c5859b9ce73a91c3": "curlish: depend on python instead of :python",
+    "a8db5e7106b67fc63790793dd8c89fe1d870ddb8": "curlish: update 1.22 bottle.",
+    "b3d024ac44cb47d602a6fabf1d70ebd6857e4486": "curlish: secure url(s) in test",
+    "12bd43b1c4bdc0fae8df32e9dd7397e00d540285": "curlish: update 1.22 bottle.",
+    "fdbf463fe7481187cb58db445809925c7199041b": "curlish: update 1.22 bottle.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "104187f855c0d473326c4aa2266b90538d6c8e99": "curlish: add 1.22 bottle.",
+    "f7e0a651fb53661989ca63c40c2d337eb6523ad6": "curlish: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c2bc4ad25d07909496be93828d76bb6068dc91ec": "curlish 1.22 (new formula)"
+}

@@ -1,0 +1,15 @@
+{
+    "2f2e707a9b241cf6ba12ed92aac24383069e6ecb": "ivykis: fix dependency order",
+    "904def437768f0360992262e5e697f86a18147e2": "ivykis: update 0.42.3 bottle.",
+    "b3be2bc70d7511467bfa71a36d6c0a8cd9efa604": "ivykis: update 0.42.3 bottle.",
+    "21f3e4db19fc6909ba5cf7708b4184d53325582f": "ivykis 0.42.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9fbbb81e11e9f2bc6c416b921c066abe13782519": "ivykis: update 0.42.2 bottle.",
+    "ef7e602fbd363b026c6a5b2351492a03dba488f0": "ivykis 0.42.2",
+    "25084d4aa325fcce0ba446d11d1f1e537852388f": "ivykis: update 0.42.1 bottle.",
+    "7e2534b5cf9c74998e63a638ac3ba0234f55c35a": "ivykis: update 0.42.1 bottle.",
+    "5b87b6d941143e62d7ae1feaeebe4cf8f18e7206": "ivykis 0.42.1",
+    "4236b2744ea19bc27b093cc171ff9c02d0b5a1c0": "ivykis: fix test on 10.13",
+    "8ad8bd46af9ab5d138e0b6fe030dd77a7a662b3c": "ivykis: add 0.41 bottle.",
+    "e6e2885743693f4d01a2f7d79d9c4d35af1b2a6f": "ivykis 0.41 (new formula)"
+}

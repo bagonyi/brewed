@@ -1,0 +1,14 @@
+{
+    "cae06ccf8acb96f5839bbdbab833274548dd11e5": "composer 1.8.4 (#36884)",
+    "99a2ce20b15a49be2c91e64bc5ccf16a1816ddf6": "composer 1.8.3",
+    "349640ee87836f954f8ce7faea10f56e56e9aa8f": "composer 1.8.2 (#36509)",
+    "c1e1bde5d14152f1ba590c88eda7865837665f0d": "composer 1.8.0 (#34742)",
+    "c2d103733cf9341756919de3c03af8d4b9b1d1f3": "composer 1.7.3 (#33587)",
+    "4b5b5e32ab18b8b362dadd7668668e6bf4864b7d": "composer 1.7.2",
+    "5943a356943bb642703c0a4151eb7be6b621bc96": "composer 1.7.1",
+    "2a8d916064ea995447d2935c83f83c81907902d2": "composer 1.7.0 (#30775)",
+    "2a7f74278db36d992e34272a17b39c88b03ee5df": "composer 1.6.5",
+    "a9ae1eb2a2c86d06166f4322ed79e78ceb41ca9e": "composer 1.6.4",
+    "d1538fee4c08e887c091b84b4b4cdff7f094facd": "composer: move to Formula directory (#25976)",
+    "1c0c6cf32634a16d12f658f262efbf4a2d77518d": "composer 1.6.3 (new formula) (#24739)"
+}

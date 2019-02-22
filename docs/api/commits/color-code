@@ -1,0 +1,12 @@
+{
+    "7757614fb885a9ff00054b7342007ef7e7b957a8": "color-code: update 0.8.5_1 bottle.",
+    "4d4d528ae0098d69620a79c3d53f1604336bedb7": "color-code: update 0.8.5_1 bottle.",
+    "1f9144b909a5e2280e078e4fff98d2ba172ee04f": "color-code: update 0.8.5_1 bottle.",
+    "989be1053309ed91dff526eef3f59eb7d274131d": "color-code: rename qt5 to qt.",
+    "0039e8fe4f239e2daf541b1c8e29964b581c6d2d": "color-code: update 0.8.5 bottle.",
+    "ef903d34c7ad1b68632bfda0a929cd40c56855dd": "color-code: import from homebrew/games.",
+    "ff28a0ebf793ad44737c5a81fea384b68512c1b3": "Move more games to Homebrew-games",
+    "efd3e9362cbeb71fe0720ad94c64c8d9c166b123": "color-code 0.7.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "867df3a689a8d75c564b2fff923e152af5aaa07a": "Color Code"
+}

@@ -1,0 +1,15 @@
+{
+    "dbd72025c589af04a879bbbee039b474b0d314f1": "mdf2iso: update 0.3.1 bottle.",
+    "96170b125de5936ae4ac96258d18939631d73c1e": "mdf2iso: update 0.3.1 bottle.",
+    "422a3dc6fda3b3f86f88354577ab9f6ecb67a50d": "mdf2iso: update 0.3.1 bottle.",
+    "0a64356995c1610b07de5a4492c8ff20d4a547ec": "mdf2iso: update 0.3.1 bottle.",
+    "38d4b8966c8fd7d39659e53e46a889c3ecaea4d2": "mdf2iso: prefer berkeley debian mirror",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4d64a6510457c9bf7f20e336323efe13fd5415b8": "mdf2iso: add 0.3.1 bottle.",
+    "51da2cac93d606158d5ea5fdd8447abd496e4225": "mdf2iso 0.3.1",
+    "6e0cd39c442ae3b1a774264ce31a1ac5277410bb": "mdf2iso: switch to Debian mirror",
+    "ae95080b0d0c31ae6e88abeb3427b018f8bb438e": "mdf2iso: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2549bc89ea603eaa2998e261f5bf6bda17656298": "new formula for mdf2iso"
+}

@@ -1,0 +1,21 @@
+{
+    "22551219bd8e7d287424653abf0ef924a1462b35": "libdmtx: update 0.7.5 bottle.",
+    "8212012d6ca60826c190746bd82f016610c43b39": "libdmtx: update 0.7.5 bottle.",
+    "bfe68e6fc89672308c98e7b5774beff4824d4ffd": "libdmtx 0.7.5",
+    "2b7adf28e9243ac9b4a5030b83e45dee28ef5e47": "libdmtx: update 0.7.4 bottle.",
+    "8e3232e6a5af9c8dc673d15018eaae601b58e900": "libdmtx: https homepage",
+    "3fe8e0b1f54cae47f44242f6dff1a0aa627e2e0f": "libdmtx: update 0.7.4 bottle.",
+    "0e3f323486ec5902a1bcbc6b515172fb49479041": "libdmtx: update 0.7.4 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a88b5b9fe19bbddbf3a177bd59264cad3c573326": "libdmtx: update 0.7.4 bottle.",
+    "8208fb7b8a497003f3bd64cc8d4fa78834215648": "libdmtx: add 0.7.4 bottle.",
+    "9e4ada6b871e580e0fce321a8907b819f4e34ef8": "libdmtx doesn't need imagemagick",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "ac77eb6e4fe9c872bfcc5b57c7a1386032bd5b24": "libdmtx 0.7.4",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "aa1df559d2f41164942f922fe43d85610dd97076": "Normalize SourceForge urls",
+    "c34a1d07e6831eb9e0dd9004be48e93869f2dc84": "Add Formula For libdmtx"
+}

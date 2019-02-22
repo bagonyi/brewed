@@ -1,0 +1,22 @@
+{
+    "038995dfd61724ad4ab82193f01f1889d6a414b3": "cpptest: remove references to pre-Mavericks.",
+    "cd3b260517c0f5a24b7b0b56228123e62917d507": "cpptest: update 1.1.2 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8eb3eed5bac7606ddf33c0a60c189a82224e52ae": "cpptest: update 1.1.2 bottle.",
+    "e4432072a908d5aa271b2d5d7355c3d154cde805": "cpptest: fix test on 10.13 (#15288)",
+    "a85ec66d3c3ae91d192e3c60c79020fd9227dd5a": "cpptest: fix audit --warning",
+    "0a5cbb0c17318b614d32e09f0177666646da79c6": "cpptest: update 1.1.2 bottle.",
+    "8a142fee5ee0c1e395e1fccf89e594a1c7e9541a": "cpptest: update 1.1.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "93e9d349fbeedccb97de4ee8b683eeab9718e355": "cpptest: update 1.1.2 bottle.",
+    "a9d72713c43fb1616bc4ed09ed277a93cca8b358": "cpptest: add test",
+    "5a6e6e18484884f4a30e48c7d5d649381941fdd9": "cpptest: modernize",
+    "56358aac029b63dae82b84b5cd470cd2a698b021": "cpptest: add 1.1.2 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e8202951898c46cbf4f2a12701bd218ad919ebb2": "cpptest 1.1.2",
+    "4d949b9a89a4357662dc3d06d7f88a9acb6c81dc": "cpptest: style update",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e45c2505022bac77d113d6c415c72be9cb071307": "New formula cpptest"
+}

@@ -1,0 +1,18 @@
+{
+    "459c9aac1f1c154ac5ed066e7fab636739d30f65": "ccat: update 1.1.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d609fa4f950488d7f63d86e5ff7ed3e8a70554fd": "ccat: update 1.1.0 bottle.",
+    "f056482bdf97137e6850848587f5f68bf0605a57": "ccat: update 1.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "8782b32af7a8a1c7d6be78f457038f2d6d062384": "ccat: fix audit warning",
+    "e5fb04202e9784a126abf54c010d600f95525516": "ccat: update 1.1.0 bottle.",
+    "a005f0f92e9693a0a96dac2b950ef35048ccbd57": "ccat 1.1.0",
+    "44af0e76f8d2e228111d3103df471fae891dc4b2": "ccat: update 1.0.0 bottle.",
+    "0c0baf0cc140684cdedb684da6096ccaef4bf11f": "ccat: conflict added with ccrypt",
+    "f85953a7b7c1d5b9e08d37cf542e9b5b117378b2": "ccat: update 1.0.0 bottle.",
+    "b901f0beef437b2a33cfcf3ff2947ce82120366f": "ccat 1.0.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "23b313d23ef9c89d83aee2b9ac1ab98e800a6d4b": "ccat: add 0.1.0 bottle.",
+    "c63829d2c7a06d632f553f2562dbea432f0624d1": "ccat 0.1.0 (new formula)"
+}

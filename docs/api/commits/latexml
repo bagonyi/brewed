@@ -1,0 +1,17 @@
+{
+    "95f76d853067d6723539af2f3533565283bd99a5": "latexml: fix rubocop 0.65.0 style.",
+    "ecd2f7959fd1f511531a59cd04309c849a5632a2": "latexml: update 0.8.2 bottle.",
+    "98c8259fd22a5e985bf1db590231a0b5dc10056b": "latexml: remove retired search.cpan.org mirror(s)",
+    "5ec0748891f5e559c0313229af492ee7a0c8798a": "latexml: secure resource url",
+    "57b1e74a8ed2ac6c08c7ecf4e521f5567b95da36": "latexml: secure and fix url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "56917b2ba7b1c33ed11bc03c7cb9e105d8959ff0": "latexml: update 0.8.2 bottle.",
+    "2752782d6439090c6f8b294566b549ba444f5b68": "latexml: update 0.8.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "538862b2055250686bd2f286ae5f1e5464b014db": "latexml: update 0.8.2 bottle.",
+    "db85a069f0c80a8c9cdda7f75fd56177dd03d052": "latexml 0.8.2",
+    "4ce34ec98a07d69214778600fa1e3fdfa7d785d5": "latexml: add 0.8.1 bottle.",
+    "0940a1d3b072e0c193a1ccbec9235dc0eb3d0fb9": "latexml 0.8.1 (new formula)"
+}

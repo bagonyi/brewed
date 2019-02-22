@@ -1,0 +1,7 @@
+{
+    "57c2b98490a51bc59fe349d3e7521109e996933b": "startup-notification: update 0.12 bottle.",
+    "5ad6d0d69206945bcbf5f6db0bf3abb3246a967a": "startup-notification: update 0.12 bottle.",
+    "f25cd32f075bc2d4acde4527306fb61261873dd5": "startup-notification: remove accidentally added bad test.",
+    "0ebbcd5472f0f081de32d5602636e9580af4f77d": "startup-notification: add 0.12 bottle.",
+    "0d8ba9ac74abfe3b771a17669d48af7bf9d498b3": "startup-notification: import from homebrew/x11."
+}

@@ -1,0 +1,18 @@
+{
+    "4f0e49630fcf0391c200f77d4bcb96663bf9bd63": "recon-ng: update 4.9.4 bottle.",
+    "c5982fe15aa5e0ad5c6330eed875ba137a12d74e": "recon-ng 4.9.4",
+    "adafc56d205e15c063f3ebe079fc1fd5b0d42ae2": "recon-ng: add Python 2 comment",
+    "d365e62e8f820d39acca69e590a07bc510363071": "recon-ng: update 4.9.3 bottle.",
+    "2e529a67fecb7d4fa307d755daa0f034fc3088ec": "recon-ng: depend on python@2",
+    "91dd0e13294153a9340475b1ee037a446500c8dd": "recon-ng: rename python@2 dependency",
+    "59c887f0d5f0c0ae97ecd5cd6a041cae0578d388": "recon-ng: update 4.9.3 bottle.",
+    "28d555da36a2ca62fbb9f233a451035bd6615f0a": "recon-ng 4.9.3",
+    "87b18751ddbd6173ccc05dae6492a3913058c197": "recon-ng: depend on python instead of :python",
+    "30abddeed8f2b8d6e3d7b5ee313ddcd2c8ff1671": "Use EOS or 'EOS' for all heredoc delimiters",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "57bf272d5caf990f958b841ba9317cedf72a40df": "recon-ng: update 4.9.2 bottle.",
+    "37877fb86a3c71c32d05474ac48b2b7c13803573": "recon-ng: update 4.9.2 bottle.",
+    "94f9e2611a428123089845acddc8795dc7f0808b": "recon-ng 4.9.2",
+    "da0d482627db6df02480e54cd72bf4c58f5322c0": "recon-ng: add 4.8.3 bottle.",
+    "d2db79297d9a11e0801ba9e6911681429ecb7d62": "recon-ng 4.8.3 (new formula)"
+}

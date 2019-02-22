@@ -1,0 +1,18 @@
+{
+    "38078c715d094a362f442049a405f4aa192975ab": "ipsumdump: secure url(s)",
+    "4a94441308bb0c37a0b3aacfe4ac134115514c28": "ipsumdump: update 1.86 bottle.",
+    "cafa34aa027fc8d3a26b8f6329ce6b17e0bb7213": "ipsumdump: update 1.86 bottle.",
+    "f06062938ad88b1d5339eafcc6041dcfef302571": "ipsumdump: update 1.86 bottle.",
+    "f15094b428e795f56c556350320ee1f81db7383a": "ipsumdump 1.86",
+    "b0a79683692047572eb177923a161ccdbaaa554d": "ipsumdump: audit fix (#6919)",
+    "36c539ca99ebb539722c896ee598a46d77ba34e6": "ipsumdump: update 1.85 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "53680d063d194eec87834d62896b732196e41d9e": "ipsumdump: update 1.85 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ca93215681aeea8c2c69a954c438a3bd8f4bb0f4": "ipsumdump: update 1.85 bottle.",
+    "d527cddbb2d234eab15cd6fa3bcadceaca2af03b": "ipsumdump 1.85",
+    "ba1a2b88068454f57f8585da040627e58fe12e8a": "ipsumdump: add 1.84 bottle.",
+    "b6e8d0b4ebfca37a217ce43eb1147319b45737ec": "ipsumdump 1.84 (new formula)"
+}

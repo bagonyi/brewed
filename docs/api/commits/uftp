@@ -1,0 +1,19 @@
+{
+    "3b529fa46990394c2b5e338ad969d5071814028e": "uftp: update 4.9.8 bottle.",
+    "e8bf75914779d6085cbdf0c2eeb3f90303908c18": "uftp 4.9.8",
+    "c00de10999142dbec42364585e2fc7600dee11a2": "uftp: update 4.9.7 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "f379f7fdc767b881e813aadc09aaa6e25fe6e5dd": "uftp: update 4.9.7 bottle.",
+    "5eb4571242340f3222296bc48708884d7211ab33": "uftp 4.9.7",
+    "22d312261bea9bdb932dafacfd4d43ce75caf291": "uftp: update 4.9.6 bottle.",
+    "0a6939f486cd0fcae6016c23df88437cb5fb3fbf": "uftp 4.9.6",
+    "b64999fcd0969e1983c59b2774f5726070edd5e1": "uftp: update 4.9.5 bottle.",
+    "454c7574c96c6f569942d17c4e10f1cab4ee3c4f": "uftp 4.9.5",
+    "8816f820977c2d825977c2ef8c760e312d3d61b1": "uftp: update 4.9.4 bottle.",
+    "2882ed6e6118df6896c9360aba01b55c61f1ec35": "uftp 4.9.4",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7c67bd8254f592eeb1b999115dee9be0e6fa8f49": "uftp: update 4.9.3 bottle.",
+    "c591c08bcd9d1a5951e839ca5648384f588ec3f2": "uftp: fix audit 'description must start with capital letter'",
+    "2f238882953b70ebe5750e5cc5735e91d65d0a31": "uftp: add 4.9.3 bottle.",
+    "cc6a74b9b3d557dc82c7c136f8fa0d80c6b024d9": "uftp 4.9.3 (new formula)"
+}

@@ -1,0 +1,9 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "4c3a3c84164588a501b3bd468ff9d9e21c3a5e5e": "luaver: remove :run.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d0191369d99a97d4d6d683781f7976869fa5e2a2": "luaver 1.1.0 (#16839)",
+    "777da6db220e98839aef8efe19741ec4c3842987": "luaver: use full_index patch",
+    "1fa3e21e6072f37d006add898d74684b3b32b150": "luaver: Improve description (#6725)",
+    "4c143c9e0790cf745abd0cecb5569728003c428b": "luaver 1.0.0 (new formula) (#6696)"
+}

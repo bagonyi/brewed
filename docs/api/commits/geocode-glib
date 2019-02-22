@@ -1,0 +1,21 @@
+{
+    "516191d47e0b62cc1218c7e03b3da91be51f53df": "geocode-glib: update 3.24.0_1 bottle.",
+    "7eaf72cc5af126de28021f91c65eaa6fbb70d812": "geocode-glib: update 3.24.0_1 bottle.",
+    "262bf0c6988535b6dc9c93eeaaf250373ccf4809": "geocode-glib: make gobject-introspection build-time dependency",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4a66cb1ced81f10deff3a4cd4250f186b85ca594": "geocode-glib: update 3.24.0 bottle.",
+    "6756716e9f9017d8ab396c7a798a79556eabf2ed": "geocode-glib: update 3.24.0 bottle.",
+    "c7a8da61ab89be1bc49e551510686da0c13925cf": "geocode-glib 3.24.0",
+    "4b6d27bcf3378d99d8e544adcde0fc43e0a9183a": "geocode-glib: update 3.20.1 bottle.",
+    "226fa2cec2defdb841c408a0f7bbb3a9861de116": "geocode-glib: remove compiler flags found in the environment",
+    "1704d980d44e18a81d0e4c6c308f7e4ca1fc5bc3": "geocode-glib: update 3.20.1 bottle.",
+    "02012cecacfd925ad25fe29cd4791969917364ed": "geocode-glib 3.20.1",
+    "e084cc7bb118ad6497c9f03a1e6b80f27af27776": "geocode-glib: update 3.18.2 bottle.",
+    "7f0922c6990f68ece64b2dd0b88d07247484a661": "geocode-glib 3.18.2",
+    "ea3475f23a71c88262d7fdaec12018c9c0fc99b2": "geocode-glib: update 3.18.1 bottle.",
+    "496fe177f6f66c3b139cbef6124d452042cea8ed": "geocode-glib 3.18.1",
+    "fa32911d2ba54ec447d30e33c7596f8547263233": "geocode-glib: update 3.18.0 bottle.",
+    "65646a913e19e4b4ddaf9c69fe2fe918fd6b8055": "geocode-glib 3.18.0",
+    "c588ac6d29b56d45cbc67377528043db73d60d45": "geocode-glib: add 3.16.2 bottle.",
+    "080625e335a83ab39a9178feef6cacaf3f0ae5e6": "geocode-glib 3.16.2 (new formula)"
+}

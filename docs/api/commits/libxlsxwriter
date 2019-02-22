@@ -1,0 +1,19 @@
+{
+    "b2c875f42d8b5f9f070492b9def90600d70f5683": "libxlsxwriter: update 0.8.4 bottle.",
+    "2a6ac1c4c009b99f12bf700305d1b3ef8f8ab0f9": "libxlsxwriter 0.8.4",
+    "b6a37f4e6c3db351374b094ecbd770247f65437b": "libxlsxwriter: update 0.8.3 bottle.",
+    "c4e392ff98803436720c7bf31b7ac1bbcaf80896": "libxlsxwriter 0.8.3",
+    "47ab3d16b51d3700b7d21b7c362530deaf9dc8be": "libxlsxwriter: update 0.7.9 bottle.",
+    "fc7d9e446a4aaec2243a97339a408b3d188be7d9": "libxlsxwriter 0.7.9",
+    "aaef5f2ae90e4f7183f8adcb46e8fc8c014e0d64": "libxlsxwriter: update 0.7.7 bottle.",
+    "213f33f9afa0afa86f3166b680facd4a9eb7642c": "libxlsxwriter: update 0.7.7 bottle.",
+    "c0592b096a7df37b2d80510b835de5123a438503": "libxlsxwriter 0.7.7",
+    "00701cfe91fac9ace5db0efa2a8a5ef0ff4708fa": "libxlsxwriter: update 0.7.6 bottle.",
+    "511b0169bf32e31fa06f90fffd6a37aee4c2f776": "libxlsxwriter 0.7.6",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9c2447f52254a92ac37c08a1538e45e3e3563b54": "libxlsxwriter: update 0.7.5 bottle.",
+    "40548ef8f78333349be3a74ea087935f720ab182": "libxlsxwriter 0.7.5",
+    "0ba94dd5f58cbb1684832b38f76788324a956437": "libxlsxwriter: update 0.7.4 bottle.",
+    "fb4061c175144330edc2e9c17b456ae9830567eb": "libxlsxwriter: add 0.7.4 bottle.",
+    "a8516a794eace2e6893aab84baf0d077e022987a": "libxlsxwriter 0.7.4 (new formula)"
+}

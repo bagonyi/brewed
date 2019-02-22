@@ -1,0 +1,19 @@
+{
+    "8dae5c5607c4dbeae8e0854b6ebe8e9806557fa4": "libdsk: update 1.4.2 bottle.",
+    "ce219cb4a06af81057713024df8fb89e24692e45": "libdsk: secure url(s)",
+    "46b71d08652223faf41b77837f823284bb3c21e0": "libdsk: update 1.4.2 bottle.",
+    "bdaf7deb0aa2e66cd6621ee6aea2a587cff6aa74": "libdsk: update 1.4.2 bottle.",
+    "72dfa1ffbf5da0988ecbaf3cde662ce1b3b5d4a0": "libdsk 1.4.2",
+    "607e84298ca0e0132c031ee8ef17c982cd76ae62": "libdsk: update 1.4.0 bottle.",
+    "8b9a4e40e64090f4d1403482a759441fbc8359ee": "libdsk: update 1.4.0 bottle.",
+    "541d7f14aa419a0da5483cf71ba2dd51de5b4486": "libdsk 1.4.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3d429f0eb35e8d9025fd0fd8263942958ac7862f": "libdsk: update 1.3.8 bottle.",
+    "823c9e010f5769a0de723eacfefde199a88ef274": "Update libdsk formula to 1.3.8",
+    "37348021392ba0e47126f5aa8e710becc5f61ed5": "libdsk: update 1.3.3 bottle.",
+    "069afe20db4bef702a9ba46fcb775d4f7fa082c8": "libdsk: add 1.3.3 bottle.",
+    "9e33948d5727ac80bc43c87819942031d97fe285": "libdsk: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e4e56fa3824339263d085524c65f55d825c73fe3": "libdsk 1.3.3"
+}

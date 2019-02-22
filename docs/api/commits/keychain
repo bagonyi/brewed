@@ -1,0 +1,21 @@
+{
+    "b658d762781ce29928a9f525ee20911ae9eb1b7f": "keychain 2.8.5 (#26623)",
+    "e9867b7589f94271661a871eff435892fc6150bd": "keychain: add test",
+    "067e7f1d3f37c68d47d69932a6e0cbc54b3fd195": "keychain 2.8.4",
+    "520e1622a26f570b7a0edbd5daba4055940e7faf": "keychain: secure url(s)",
+    "e20761b626a93f02557ad34f7a75a6cb4615e213": "keychain: new mirror (#11695)",
+    "a5c6aef99333eec0481ea456d7f4835b333ccb45": "keychain 2.8.3 (#2462)",
+    "5ebfdedc103346ed2e17bd504a17ea2663f10129": "keychain 2.8.2",
+    "d2f9d705552912742d0cb41699314c3283013fc9": "keychain: bottle unneeded",
+    "05ebd78891a221846a65c29b6c2eab41e806c138": "keychain 2.8.1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "88c9f65362a941d08aa942e5cbf61d60f751d895": "keychain: add 2.8.0 bottle.",
+    "b3ba821a1c3c76e275d0d58dab43e1bbc9d7d8e4": "keychain 2.8.0.",
+    "f6109ad2ca232e3f77f2f794f26caa9e3efb26e2": "keychain: make a mirror the primary URL.",
+    "961b11694e41fd2f5d48b45273071ef8a3f8451e": "keychain: fix homepage",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "6be5163588f10ec83caba8e784b3029b4875a2e9": "update keychain to 2.7.1.",
+    "203b7d55f1c6ed4845c582c63f58d5e8039d1a2d": "keychain 2.7.0."
+}

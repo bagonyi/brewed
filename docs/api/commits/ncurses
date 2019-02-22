@@ -1,0 +1,14 @@
+{
+    "f9642e0591fb0d21e8367f78d3678a16fa5d11c5": "ncurses: update 6.1 bottle.",
+    "6b638f01125b84aa199ec048ad908b1f054bc8c5": "ncurses: update 6.1 bottle.",
+    "1ff0b8303992adabd9eff7ad30daab28276272d9": "ncurses 6.1",
+    "e5bc038aea5cc0dce5653de99919024327d800fe": "ncurses: use *_by_macos.",
+    "057e974f8204d8ac837f5f8b5863e6a406bc110e": "ncurses: update 6.0_4 bottle.",
+    "ee393e25b47ead1855d872917b59b426b18c9703": "ncurses: apply 2017-09-30 rollup patch",
+    "76414ecb21f176739fcee5347a227ccdd72a80fe": "ncurses: secure url(s)",
+    "124fa5cb582d19981fc595014d97d23d72e80df9": "ncurses: update 6.0_3 bottle.",
+    "01462292a99fbeb5d2be11da6ac6af8f633a59eb": "ncurses: swap GNU url and mirror.",
+    "1049d7aa21a669f9ec8f6c45c0e44eb02d815ca3": "ncurses: secure url in comment, update homepage",
+    "5798f977ce519d30107b6fddca4e0fda685dc687": "ncurses: update 6.0_3 bottle.",
+    "7baa7ca7670d95317f19c7d461c328be35516137": "ncurses: import homebrew/dupes into core."
+}

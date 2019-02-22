@@ -1,0 +1,17 @@
+{
+    "92b73939a5ece622a67a5e0b6f7de3d005072fdb": "clean: update 3.4 bottle.",
+    "41f9a9202fe33a8a8b05acd76d5b88bc26206033": "clean: use refute_predicate instead of !File.exist?",
+    "a7ed85848a1049958cccd40cfb04b3500e846e03": "clean: use assert_predicate instead of File.exist?",
+    "0ce6bf518fc889d23a70a3bad5a50d3501e9c57f": "clean: update 3.4 bottle.",
+    "aa76981dd2d76524142a485436297fa42353cfc2": "clean: fix audit --warning",
+    "efe8683ca56ad2162526d83342cc8a00a8399dd7": "clean: update 3.4 bottle.",
+    "be598fec26bfbc49e0b29d962f8bd002f83489f5": "clean: add 3.4 bottle.",
+    "6f7761a23a1d79f727ea518c5f803b11173f78f4": "clean: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8c015af64d066db3acaa3746042c894495bd73f8": "clean: style nit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "99593e01b3efe75180d302cd4f9cd784ee1c6eb8": "Added new formula for clean (Nifty Clean)."
+}

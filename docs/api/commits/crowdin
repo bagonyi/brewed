@@ -1,0 +1,18 @@
+{
+    "87033ca10056959192e6d0e35898b51f066ebfe5": "Crowdin version 2.0.26",
+    "fed9484c65fe489aaa034ed2b8ac240a0641907d": "crowdin 2.0.25 (#33441)",
+    "bd0990d9d3e33dce50061e49601d4cca2968ac97": "crowdin 2.0.24 (#33020)",
+    "c781b9372900bf5c45235eb0cb39ad5bbae85c66": "crowdin 2.0.23",
+    "383645b1842369e4fd032485418238ef64480dd9": "crowdin 2.0.22",
+    "8ca4cbc6f937eefa5a180a0465a2a6197ccc8e16": "crowdin 2.0.21 (#22157)",
+    "2c559218aa358803a123397ef754e7d23f57baf8": "crowdin 2.0.20 (#20096)",
+    "02d438dcd59d08b356284449c8cc72f9c5bcf0fc": "crowdin: fix url",
+    "a31798485c208f92e1b4c5f768fd8664fafc6818": "crowdin 2.0.19 (#17400)",
+    "8fda2823a838d226537ae186b996949c89ebf38f": "crowdin 2.0.18",
+    "b4442fcde7404c3fcacf93a17f3f93ba16d0bb59": "crowdin 2.0.17 (#15730)",
+    "3d5a2b2964bab11bacd7ebf71f02bf5669ad7d07": "crowdin 2.0.16 (#14955)",
+    "bfb6c85250057c05f16f76304f026cfbd1e4efe4": "crowdin: move jar to libexec",
+    "4bc75b4640a7c83a868d8ac8554294ed1e13215e": "crowdin 2.0.15",
+    "de4ca1ba8e179c528bd51d4ec320da71c4f7a498": "crowdin: move to correct location",
+    "1ea081abc54eca002f3a15f588fc7d8680eb33fb": "crowdin 2.0.11 (new formula) (#11036)"
+}

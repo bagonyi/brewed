@@ -1,0 +1,20 @@
+{
+    "97896944c3bf536814d654e2ecdbfcd793ef207e": "udpxy: update 1.0.23-12 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "de83ec6731a3bb21cc346ccf6f7678c3d2b0aa31": "udpxy: update 1.0.23-12 bottle.",
+    "1b50bd4708d022a6bb3ed4c0424d758ec2e7bd8b": "udpxy 1.0.23-12",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "391c18f687cc97295458769c1c6f0f7d59818f5c": "udpxy: update 1.0.23-9 bottle.",
+    "fc1e39030e9bfb7035d7d09d3717b882f0a60bd1": "udpxy: add mirror",
+    "780cc4d48efe4bfcb3ee18cc901f37f50c121ce5": "udpxy: fix audit",
+    "109939afe4af2dd8742cbc31af1bc2b0e04a6556": "udpxy: update 1.0.23-9 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "2d260bc726d5f1cfde9f61719eb26dcf9f4b44c4": "udpxy: use secure url in comment",
+    "f977cf98f6d4cd7c87e426237502dd7884f6728a": "udpxy: update 1.0.23-9 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a33dc9b3f845ccdad28d353a0c8565b1274c9bed": "udpxy: add 1.0.23-9 bottle.",
+    "2831b267163c5eac5f0c33ca38493edabd3b3887": "udpxy 1.0.23-9 (new formula)"
+}

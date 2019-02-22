@@ -1,0 +1,19 @@
+{
+    "31b0259c575467f950b7ee104744415566157fee": "csvtomd: update 0.2.1_4 bottle.",
+    "56395912d46411b2017d473f3a52383fc42cabd1": "csvtomd: update 0.2.1_4 bottle.",
+    "2747466d106616f7be70246bc42c628fb32fb3e6": "csvtomd: revision for python",
+    "c13fe9b0a5502a6717e92551863fd295f310f8df": "csvtomd: update 0.2.1_3 bottle.",
+    "332275045a513f882b307126a5aa74123a6f896f": "csvtomd: revision for python",
+    "520b85d1df32e3089e03eee1cc8506828283ed8a": "csvtomd: update 0.2.1_2 bottle.",
+    "ce26028a197bd2dddf3942a813494d226cbf0678": "csvtomd: rename python dependency",
+    "fb27e6c23cad5d784e77de5b757af4baa1d254d9": "csvtomd: update 0.2.1_1 bottle.",
+    "d7ebd517562a1db3c339ba0e439638c669460508": "csvtomd: depend on python3 instead of :python3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f4ec1483e4998fd7b98b22edc05d26d514806a59": "csvtomd: update 0.2.1 bottle.",
+    "52a64411ff5dcfed93167e7c9f63a3896e31d19f": "csvtomd: update 0.2.1 bottle.",
+    "df7c20f120e97add660f9041646a18d3e7a5e1c8": "csvtomd 0.2.1",
+    "6d12d396495e845407b475bb90476d7c14e7412b": "csvtomd: update 0.1.1_1 bottle.",
+    "c311828270879220dd5c0fcfa06de534e5cb0544": "csvtomd: revision for python3",
+    "c333d4fdd9b349e17c3f5448dc21c797d3dd7f39": "csvtomd: add 0.1.1 bottle.",
+    "ffaeaf9abe3c6eb3c65629fe9e5e135c944d1079": "csvtomd 0.1.1 (new formula)"
+}

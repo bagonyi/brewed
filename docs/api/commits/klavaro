@@ -1,0 +1,22 @@
+{
+    "6a8034dfd082361f05d2dcb4e06fb59541e3219a": "klavaro: fix dependency order",
+    "8f956aa460821bf1b778f17c3e6ac81969e15141": "klavaro: update 3.03_1 bottle.",
+    "f22d9b5a3e8f7db25706d3674edee99756e7868e": "klavaro: update 3.03_1 bottle.",
+    "22ac5bc42bbe4206b86c60c923d82ec855e3b35e": "klavaro: revision to fix install receipt",
+    "ef3aaaace307b855690179d705927c9699515f8b": "klavaro: update 3.03 bottle.",
+    "c3377075f6193674de81a6866e63bcc0e62e2a7a": "klavaro: update 3.03 bottle.",
+    "34616799ac0c9d88babc14b5e69a6823a695682b": "klavaro 3.03",
+    "c8604ad3117b2536c52861407c351f6b67877366": "klavaro: fix audit --warning",
+    "4c07c2ca11caba83b609549eb784a7de8d29377f": "klavaro: add 3.02 bottle.",
+    "915782b57b9f7578ee7ba583b9b6907b12a1c5e6": "klavaro: import from homebrew/gui.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "b7678ae56135943ebe597497976f6549078b1904": "Change some SourceForge urls to use https://downloads.sourceforge.net",
+    "f378165d47459d937eee743f1d72367b2b27bf6c": "klavaro 2.01",
+    "498801d9747b2aa8379278cb2c4228274e4a62e1": "klavaro 2.00",
+    "f5662e2b8bb5505f30ab4f942e5d854d07e68285": "klavaro 1.9.9",
+    "879e06143c353a08c4b4a2ca2689a3b22f8cd873": "klavaro 1.9.8",
+    "122253ff3dafb08ee72c4bf5a91e27d6dd8bbce8": "klavaro 1.9.7",
+    "fcdee6b84ba479980ddccde2044814f732b04390": "klavaro: intltool is a build-time dep",
+    "7a6587bc58eacd8e59e84bf3076d476093d4b8f7": "klavaro 1.9.6",
+    "aaddd3bf40908819a9b3970d92a779ff7e318fd5": "klavaro 1.9.5"
+}

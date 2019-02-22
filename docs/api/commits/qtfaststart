@@ -1,0 +1,18 @@
+{
+    "b2deb23f572eb6fa603223cf5c399eaac50f837c": "qtfaststart: update 12.3 bottle.",
+    "14fd951ff496c22aa79e8d40c049252611677564": "qtfaststart: update 12.3 bottle.",
+    "029d7cb4ba295417cb67d30e17c502f6e9633b3e": "qtfaststart 12.3",
+    "1920d4e4fb7e6e913d7b8429b4d22524afde625b": "qtfaststart: update 12.2 bottle.",
+    "bb87e650847668eb77daa4e6a95d4c9a49970488": "qtfaststart 12.2",
+    "0ec46150a89843972c492bb7342e6101a0d55220": "qtfaststart: use assert_predicate instead of File.exist?",
+    "4a36726a370176350f9c71fc9eccfcf9809da476": "qtfaststart: update 11.6 bottle.",
+    "c06716a3c3f9787b11e07720b4785ac35abb2dd5": "qtfaststart: update 11.6 bottle.",
+    "4d9b6c732a8a5926d0d1b321363d1b8875128e2d": "qtfaststart: update 11.6 bottle.",
+    "99f17e4f1eba3dc9db40a1e90a1c72fc53fcc7cd": "qtfaststart 11.6",
+    "795e5458a99cb906425aee0d5159fbf990268cbd": "qtfaststart: update 11.2 bottle.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0f0ffa18e6df75e9ffe24e0ca6abe0a22af17b86": "qtfaststart: add 11.2 bottle.",
+    "0f27f6a731fabc3c011b1ac387a567d2f9f65061": "qtfaststart 11.2",
+    "f587d4873e695969f1f2c58746465ac32c3ab141": "libav 0.8.3"
+}

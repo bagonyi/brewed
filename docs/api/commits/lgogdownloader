@@ -1,0 +1,18 @@
+{
+    "755457104ee7eea98cdc11fee9071756f511aeeb": "lgogdownloader: update 3.3_5 bottle.",
+    "bd0d563fd4e2b2d73c7fe3f219c3924b2c48fbd7": "lgogdownloader: bump revision for boost",
+    "7b4a9746df225ea8152b360bb3576068cecd745c": "lgogdownloader: update 3.3_4 bottle.",
+    "94c6133592e772961717d50223ad7ee85aa97522": "lgogdownloader: revision for tinyxml2",
+    "87db5196fe31c65b0e18c4f0f7213061bfbbc175": "lgogdownloader: update 3.3_3 bottle.",
+    "5d1562a3a680929ab0f228a76bd7ad135bb05825": "lgogdownloader: update 3.3_3 bottle.",
+    "ffe3718b4c7ba3141f34c2093ef5a7646c4b247c": "lgogdownloader: revision for boost",
+    "c6793b6d9c71b9c9086b0cc3367a32efc6ffb9b4": "lgogdownloader: update 3.3_2 bottle.",
+    "8d7921987e102ed1af907e156ddb797cf8bb3978": "lgogdownloader: revision for boost",
+    "7e1b9c2f414a562ef91325e335db28a9362a9e34": "lgogdownloader: update 3.3_1 bottle.",
+    "6ef1bfeb0f22681f9646401f8e6c0444a1a4e28c": "lgogdownloader: revision for tinyxml2",
+    "b41511a9acb0f4ca1bf2557684ef25d6fbb41100": "lgogdownloader: update 3.3 bottle.",
+    "c2a8f861588e3851c2a5e92d95e078a273779261": "lgogdownloader 3.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6d7898b33e57bab9d4d3478b5892ae2b616fee8d": "lgogdownloader: add 3.2 bottle.",
+    "281476223d325251ae44d559f5e1165c793697b3": "lgogdownloader 3.2 (new formula)"
+}

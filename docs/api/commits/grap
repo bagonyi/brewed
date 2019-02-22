@@ -1,0 +1,13 @@
+{
+    "009c3d6e6270c047a449009cdf6e04a37427babc": "grap: update 1.45 bottle.",
+    "ae032cb9aceff87f5aa43b435a1bcb0e23b051e4": "grap: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7c90d83221f092eb4b1e845930a4da97ff8163cd": "grap: update 1.45 bottle.",
+    "54a857263f0f3d4896d65161712b2cd973eafc67": "grap: use mirrors (#18278)",
+    "00ae2c85b234476cf87ba6cfe5d64909e724b421": "grap: use pkgshare (#11683)",
+    "5749468846fa59f8f9139ae6f40efec353261cc6": "grap: update 1.45 bottle.",
+    "cfd87ea1ffdc6994cd2b6691155b0beb4c678d7d": "grap: add 1.45 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4b6ce0e9456dbaee57933b47ce7f31ae81ba7211": "grap 1.45",
+    "ae60048ed73f371f6e63d72b5460f73f36cfc25e": "grap 1.44"
+}

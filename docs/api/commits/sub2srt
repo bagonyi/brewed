@@ -1,0 +1,13 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f38d12774308618bd9b994a5f3fa0abd9a930b1f": "sub2srt: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "39bc8be81ac8a629086d32edd9d751a66e468cc5": "sub2srt 0.5.5",
+    "a9e0ca0da03f350957395b827a383b0b2eb9ba29": "sub2srt 0.5.4",
+    "d1b9bda1a57c0e17542253e600ee4036b7815ae5": "sub2srt: new url",
+    "510407a7a8252e0e0bdab58e86376415c6865cba": "sub2srt: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "dfc272eadce40d1a9d5a9622b04b2ebcf73031da": "sub2srt: style fix",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "15874c5fa9cb4c646da094b9f681307ea457d3e9": "New formula: sub2srt"
+}

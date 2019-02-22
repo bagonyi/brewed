@@ -1,0 +1,15 @@
+{
+    "30c6ae4ac838b38de127b5d578c961ef7bbffcf0": "bats: conflicts with bats-core",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "22881d1ea59c2d2606e5fa1944ef7cffd5b14894": "bats: bottle unneeded",
+    "45868a3aff9333bcd96ccbca5abee24b41f18fdb": "audit fixes: B: backupninja - bigdata",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d33e9dbe36e396aa5e19a81c47efabad745e85d4": "bats: modernise and added test",
+    "b43738add2fec79e82c4a72c89461e9305916354": "bats 0.4.0",
+    "800fb81440591ac39297ad590a6cfd6942baa801": "Bats 0.3.1",
+    "8e3a10e2fea25cd1af6932437e2a7dd2f34f59af": "bats 0.3.0",
+    "42f48b301b366fc75e5e066bbc255a28da91a19c": "Bats 0.2.0"
+}

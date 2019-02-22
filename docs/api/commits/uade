@@ -1,0 +1,20 @@
+{
+    "6b51f19dae31d7575c6ba72f63ef4f7f9839cdc0": "uade: update 2.13 bottle.",
+    "bfe262cbf08ec65e7586e5d846a35b150c2c3eb2": "uade: update 2.13 bottle.",
+    "566eb270c9110534cce2f32bc7955aa080a70f93": "uade: fix audit",
+    "e2e9e01809fc7e7ab6a9c438c0ad5cf56c6e8b62": "uade: fix rubocop warning.",
+    "4aff74f34b0e10637ad0c83d70fef7094fd710d5": "uade: update 2.13 bottle.",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "93b0d7d9dfcf290f2a242b376e4e833a7281392d": "uade: add 2.13 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4e726bf004fa82b9c1dde812d3b5abbfd0e4206b": "Fix various indentation issues",
+    "0a01c84ab7aad8fa27e7df5aa52b2f3fc8b5fe16": "uade: add new HEAD resource",
+    "34292fea4df749a393f6ac94bf97cbf536c3a73f": "uade: use patch DSL",
+    "102ac4e888e9c22b5e372cff402be5e9d7ffdd92": "uade: move conditional into method",
+    "b35a535caf274b1c8f3c9c9b5f9613176c56e1e5": "uade: fix build under superenv",
+    "88997089199104c3990d161c85783fd3f2b2394f": "uade: add HEAD",
+    "07da990868ec88ab326c7de118fc282441daef38": "uade: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2764bf5c7c0537280f42e499a69266c51c650799": "uade 2.13"
+}

@@ -1,0 +1,11 @@
+{
+    "1772eb5fb234d3d1dd4d53a906ac49090d2c422b": "putmail: fix audit about sourceforge link",
+    "bd02ffdc89382d9a020106fcbcbf8e2917d73ee4": "putmail: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9a377db0017f88085c0503cdd4257b97ffb3f417": "putmail: use install_symlink",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "a515e009bf8aa1cf7c422753e5ef9f39ec52ec86": "putmail: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e4caa083473cade09d76802fb2bf1e226cbd09f3": "putmail.py 1.4"
+}

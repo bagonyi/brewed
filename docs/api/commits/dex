@@ -1,0 +1,13 @@
+{
+    "d11ba3cb106a8973cdfdc436bb4913fbc3f68bd0": "dex: remove options",
+    "24e19edad9450316acaea3d44168e41859ea3122": "dex: update 1.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "98784ebafc9965ec50ebbcc3c82c245de121b05e": "dex: update 1.0 bottle.",
+    "175a2db3e067cb388986ddd412b8171bfd327c1f": "dex: import homebrew/dupes into core.",
+    "f8c480efca2f4d1e2fbf8d4c1c4fb834b8456470": "dex: update 1.0 bottle.",
+    "4bb6c8fa5c61b543821b8488fd54e2b0179956b3": "dex: fix array brace position",
+    "15c045c15b6161674ca9b81736d9dadbf23cdbdf": "dex: update 1.0 bottle.",
+    "64d867e2257f75649e2fd93d0e3fbbd53febbc73": "formulae: various audit fixes",
+    "551000a5d5bca5af9cdee17212069294eba1d314": "dex: add 1.0 bottle.",
+    "eb083bfd3fc95c452d0f963422554b02a039004c": "dex 1.0 (new formula)"
+}

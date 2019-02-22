@@ -1,0 +1,20 @@
+{
+    "780b12a4e293ea912438378bf4a713cff09ac766": "cweb: update 3.64b bottle.",
+    "a7e31eda5c86bfceb2252fd8643818c95a13e423": "cweb: secure url(s)",
+    "ee7256e413c1f379a4f3698f8d46fc1e80f65740": "cweb: secure/fix broken url(s)",
+    "65ac7262bc114eacdc115eeb0dba8c24f8ebaee8": "cweb: fix homepage url",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "588b18152bdd9ec70b9063bbb22cf54c7812c52c": "cweb: update 3.64b bottle.",
+    "2ac7d96e84e8e8763882e4ae5f75e47689157abe": "cweb: update 3.64b bottle.",
+    "939fe34ee8805bacd7dba12721125072fd9e7253": "cweb 3.64b",
+    "f738c3e3da0d40a115416778b041d5c0e0b1dbac": "cweb: update 3.64ad bottle.",
+    "ea2c8903e3ff4ee8b5950297b900701d43ace0f3": "cweb: use elisp shorthand",
+    "e0f1bc95a7fd77bc2284a6674b53746473202339": "cweb: update 3.64ad bottle.",
+    "9b5ed7c016e2975db21eb1b65686c18f6e7fdbe5": "cweb: update 3.64ad bottle.",
+    "43d035ce59e386f9a620c161f9687a2a2b480bbb": "cweb: formula-specific directory in site-lisp",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7caf1948f3404fc6af392063dc96fdbb135d23da": "cweb: use full path of executable",
+    "b7fa0129a29d2995844b6cf45f87ce51d4bdcc47": "cweb: add 3.64ad bottle.",
+    "77aa909188bcb604bbb98b584bd0c3af283a38c2": "cweb 3.64ad (new formula)"
+}

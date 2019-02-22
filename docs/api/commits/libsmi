@@ -1,0 +1,20 @@
+{
+    "9fdf2f5955142de7762b4639cce4eaa3c4b8f6d7": "libsmi: update 0.5.0 bottle.",
+    "b53514b70cbd9ecfcc2b4999e0341717b52dc15b": "libsmi: use https for the mirror",
+    "b3015fb408231058e5fd0e664a1e34f24dc86e2c": "libsmi: update 0.5.0 bottle.",
+    "8768a10f2af7d86b688b256fd2032d5b927b316a": "libsmi 0.5.0",
+    "be3982ea829dabe9440fd82adf013393e353b046": "libsmi: update 0.4.8 bottle.",
+    "f70557a74db2555acc545cc796c214070d8ba2dd": "libsmi: new mirror (#11701)",
+    "1568cdf90fea48a47a73ad366e0ccad7bb57bedf": "libsmi: update 0.4.8 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "d63614342b046c1297b24008a2e424f535060ecc": "libsmi: update 0.4.8 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "deb2f3064ebc5ed2e6e2e3eb177abe4eb3c417a0": "libsmi: add mirror",
+    "9f64735bce12d55dff5b379108f1b1085f0589b0": "libsmi: update 0.4.8 bottle.",
+    "d5d992adf92af83247a6240a90449b068ee196f9": "libsmi: add 0.4.8 bottle.",
+    "d3bcf0b2378d61375c12d048d3761fffbb03cb3b": "libsmi: use https download",
+    "58463d5450162e16d6ffe22032aab4b9808b41ca": "libsmi: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "63f08a40571a37c50456b3997ce42d4c8a79f989": "new formula: libsmi"
+}

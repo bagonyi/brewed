@@ -1,0 +1,18 @@
+{
+    "93faf13b41bdee16f04aece8129834ef3584362c": "luaradio: remove options",
+    "a94cb41e97c04360d3806a3cff06db135790d645": "luaradio: update 0.5.1 bottle.",
+    "ab0dd255db02d3ab5e7f2adbfdba403b8376eded": "luaradio 0.5.1",
+    "661ab7021b1e97314f8d4a9c8da6e798dfcc2225": "luaradio: update 0.5.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a192d311e97b7cbf41ea71b2a7de778445d7c374": "luaradio: update 0.5.0 bottle.",
+    "cf248bae25c7270b5f4be05ce34e91f35c5d410f": "luaradio: fix audit 'description must start with capital letter'",
+    "d6ceaadc2ef15da04200a6d6ce2fbc111e62c3c2": "luaradio: update 0.5.0 bottle.",
+    "c2ccf6ef497b217c003b7701d493930c4bd9d6d2": "luaradio 0.5.0",
+    "886b62eaa925e12000438451780db83fc1270297": "luaradio: update 0.4.0 bottle.",
+    "c18fe7459e5e227583a1764e54aacd0cfd30cd47": "luaradio 0.4.0",
+    "7fdd1b4ef9f362e7c61da7139cf3ee31d822e94a": "luaradio: update 0.2.0 bottle.",
+    "4fe070200739510d8b25b7fed8d5808c48dfdce3": "luaradio: update 0.2.0 bottle.",
+    "43477c755c8d90c12cc7647d7a7ee81627ce5043": "luaradio 0.2.0",
+    "b9c7004e4791912c877460c3a6dba88a4991f5f3": "luaradio: add 0.1.2 bottle.",
+    "03ae50075180cd98f20363b1e1ca3347d1b89a33": "luaradio 0.1.2 (new formula)"
+}

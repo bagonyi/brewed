@@ -1,0 +1,22 @@
+{
+    "882c39f5efbe3969cc7058fe64fe9672331360f2": "netcat: update 0.7.1 bottle.",
+    "b4a733988ff8941c722c575a0ac00ef4d1d40b98": "netcat: update 0.7.1 bottle.",
+    "2f9b09cf5eee81a82570e4213bb5d91504919995": "netcat: add nc.1 man page symlink",
+    "38d172e57b70b57f917e38f7ef04680bcad76995": "netcat: update 0.7.1 bottle.",
+    "c16e2c4e13f318cc46d6477e7fb694e6c260cb2a": "netcat: fix audit --warning",
+    "fd6e01c5cfda055942d05e0f27aa72808a7b7a80": "netcat: fix test (#9953)",
+    "a741ae668b61a138291c559a45fbaf5144fa0d3d": "netcat: update 0.7.1 bottle.",
+    "627d6d1d95af09ad99dd5ce3cb898273a145771e": "netcat: update 0.7.1 bottle.",
+    "e3acc1639ac98c2715ab019e14ee12dce1c89227": "netcat: add 0.7.1 bottle.",
+    "b246bf0a30245199776fc2c72db0b1c6a89b7689": "netcat: add test",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b2352e07d0baa5ae236a97928166da1d1dcf0b8a": "netcat: normalize sourceforge URL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e2b9616928445c43a05f512c419114bbca01e3c0": "netcat: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2f641db35be4c1d945617603dce5db7d75656fa0": "Fixed netcat formula to install man and info files in the correct directories.",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "0b0f93329cf9cdfd71458b76d9c20d78e47a79d8": "Added netcat formula"
+}

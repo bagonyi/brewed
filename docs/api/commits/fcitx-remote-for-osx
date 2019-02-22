@@ -1,0 +1,17 @@
+{
+    "e73a839ee35d05feb1ca5b17a7856a0316c39484": "fcitx-remote-for-osx: update 0.3.0 bottle.",
+    "6a981a1118b5dcd6bcd3e1a18eee04d01393dc4a": "fcitx-remote-for-osx: remove options",
+    "320cf5edce3cb36c2bbe5fe887b849ab55935a59": "fcitx-remote-for-osx: shorten long lines.",
+    "706d435d6ac44458290d48385ebe1416a6cfaf50": "fcitx-remote-for-osx: update 0.3.0 bottle.",
+    "70e40d89b8402335967b2fce0846f7aeb5907f37": "fcitx-remote-for-osx: update 0.3.0 bottle.",
+    "3b7051ee194467e4e7a78bf5427549dd06748942": "fcitx-remote-for-osx 0.3.0",
+    "cc552e4caa532d24d7debe3df92569498b0558f9": "fcitx-remote-for-osx: update 0.2.0 bottle.",
+    "7160bf557192316aabe475b68880c6d6a758f74e": "fcitx-remote-for-osx: fix audit 'description must start with capital letter'",
+    "45ef83c1c4239c8b25b9b5465836d3fb5e83d8ae": "fcitx-remote-for-osx: update 0.2.0 bottle.",
+    "d86b1b6aca0f025c8fd9f2e2ffd026d5cd7845fc": "fcitx-remote-for-osx: update 0.2.0 bottle.",
+    "e3c13ed9a971c8f5e540b6c27dc5afe524e0993f": "fcitx-remote-for-osx 0.2.0",
+    "e42841fde7966696baaa9c8f509aef3772ffa7ba": "fcitx-remote-for-osx: add 0.1.0 bottle.",
+    "4ba71b161e901fd0dc068a2fbae7b4b21f079a18": "fcitx-remote-for-osx 0.1.0",
+    "f6d7ff936b6ed11cc03ad3b3def07cf591bc6394": "fcitx-remote-for-osx: add 0.0.2 bottle.",
+    "85559f75c54fc0b3899401f72063ce1ed419a034": "fcitx-remote-for-osx 0.0.2 (new formula)"
+}

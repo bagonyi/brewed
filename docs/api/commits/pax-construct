@@ -1,0 +1,16 @@
+{
+    "9a21917a8dae87b738455d7018149faf8087afe9": "pax-construct: use assert_predicate instead of File.exist?",
+    "2c4fd2b728c3a64e0a1002d12fac8dd65de0b472": "pax-construct: remove deprecated ENV.java_cache",
+    "42205c9a3f41d0adebe9e8599fa2c9fc9aa1fbcf": "pax-construct: use canonical maven.org URL",
+    "c51914f82fcc44996ca810e9ce563cd35c8d9e19": "pax-construct: use new java_cache env",
+    "9210a929cad6b4843cc32ca39a1d74c891c4c040": "pax-construct: fix audit, add test",
+    "f77173f5ae7886fd29fd3f2ca404d45122577188": "pax-construct: update homepage",
+    "383f48a4d64bc3ae8e83006b30134d8d7ddcab9b": "pax-construct: bottle unneeded",
+    "5eb862d0c7854968eefe3b09c5d10984af4b589a": "pax-construct: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "4d8b4af228e11ba08685f6877ac62dd05d576a21": "pax-construct: remove skip_clean",
+    "05974f251b851a084f1aa2fa61eb4aa3aa7fad6e": "pax-construct 1.5",
+    "512af75bc34011a6f7d3306a96865f954bf0e4b0": "pax-construct 1.4"
+}

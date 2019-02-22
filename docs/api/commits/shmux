@@ -1,0 +1,13 @@
+{
+    "926e4851b15fd50caccc85f9792ac425936bf859": "shmux: update 1.0.2 bottle.",
+    "98aba413f25a5b2e592d1942ffabb26304e2ff89": "shmux: update 1.0.2 bottle.",
+    "0514748f665c7ea52c128099742a5a94f29d4a12": "shmux: update URLs",
+    "a443f86c502e8b9d75a076915cad3e7846a85f8c": "shmux: update 1.0.2 bottle.",
+    "6c4955565e976d46233d20c860005bc38d509ac8": "shmux: update 1.0.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a9a53445450f4fd147951b0b7e0999aae6bed80d": "shmux: add 1.0.2 bottle.",
+    "b827a411c02634eba12b5da4b793f258614dae0f": "shmux: basic test added",
+    "1fa1202ce5f108bda8c99800e99f12e9fff4a61e": "shmux: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a6937738d18887faedda279310113fbfa297f4fb": "shmux 1.0.2"
+}

@@ -1,0 +1,16 @@
+{
+    "05c5367ec54477bfe1c174e7bfafb8a8bd4b04df": "intercal: fix dependency order",
+    "fed5f5cfd5ac1dd293e6e47500a4244bd381e635": "intercal: update 0.30_1 bottle.",
+    "5a4f2c5add5e5fc40d4d385c4a87907ce78f7274": "intercal: update 0.30_1 bottle.",
+    "2410b1736b2ca7950e393029028b751d30a69483": "intercal: update 0.30_1 bottle.",
+    "483f29f02265ddf7341e6b559aed61aca2cbaa70": "intercal: fix test",
+    "ba31798a107beacf83f3b0e8fb325582f541a712": "intercal: update 0.30 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "819bab9e6c88883ccff22c3bb01254535dce84ef": "intercal: update 0.30 bottle.",
+    "4fe1c81ed2a8d19dbc5ea5578e801b7e8ab05f22": "intercal 0.30",
+    "95b603eee182bd757a7d9d8ee3a9ce32d99efc8e": "intercal: add 0.29 bottle.",
+    "3584553ac311434f799cedeb9d11045a73b7aa2a": "intercal 0.29",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "3393737d7dd2034467152e4b3d9affa044b5f339": "intercal: remove unused autoconf dep",
+    "57c86447273692900aae96bfe7fbe4f6785058c0": "Intercal 0.29"
+}

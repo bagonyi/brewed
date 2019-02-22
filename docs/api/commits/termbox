@@ -1,0 +1,10 @@
+{
+    "c5c69e9bdf41f5840585eb76d1521275a5f39cfb": "termbox: update 1.1.2 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "6cd688d40f6685c682b6724b674cd87ddb69cd5e": "termbox: update 1.1.2 bottle.",
+    "8e358d694c6e7739e35a1e6e767c8265c05b2d6c": "termbox 1.1.2",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f7e139b29dacf72283683f610a2b4b39b3bce4ad": "termbox: update 1.1.0 bottle.",
+    "4117357e1f54f48c6d8d877f7ed4e3b8aacf01a8": "termbox: add 1.1.0 bottle.",
+    "5b90fd186dc5a76638332fa07b2a4f19d56c878a": "termbox 1.1.0 (import from head-only)"
+}

@@ -1,0 +1,21 @@
+{
+    "ccd1ed2534e21216d833fed924adec7e812ec4c2": "mktorrent: update 1.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "eeacd6f22c40d6dae43ea6b2ee857f754478974b": "mktorrent: update 1.1 bottle.",
+    "7c2820fbce59c4b59f881cd369bb8d7b0a996884": "mktorrent: add test",
+    "a76b9de98ba07ff669e7ffb70be5395e339eb650": "mktorrent: fix audit --warning",
+    "04baab7a7d50009c4d899cb443c2cc5c3484de3b": "mktorrent: update 1.1 bottle.",
+    "ea4c805e72daf5df4a07c18ea0dd8b1b58b8f077": "mktorrent 1.1",
+    "7da4142ce235ef0fcf9263d907c199f89862c3c4": "mktorrent: update 1.0_1 bottle.",
+    "2392e4bcb7581264de88e569cfb1f538076b38cf": "mktorrent: update 1.0_1 bottle.",
+    "0b40eb89a7cec52a3988205eddfedf7f6b4a31d3": "mktorrent: fixing warning",
+    "cb522957a3cda5750c31b67a235722ac55d9b543": "mktorrent: add 1.0_1 bottle.",
+    "3f8bb8151d4d6f3d97adc352d1eb021fdbe5dc00": "mktorrent: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "44f9f3057b3e635ae282d8835a0ddebd1c9d918c": "mktorrent: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "6126048860257699fa884855393e6564ca801eb2": "newbrew for mktorrent"
+}

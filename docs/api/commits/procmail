@@ -1,0 +1,12 @@
+{
+    "9582b24a9f0146b4f5768da935f4a8639f733357": "procmail: secure/fix/follow url(s)",
+    "eaf096f4d98c25742852ab63e5a58da9da533685": "procmail: update 14 bottle.",
+    "c5b1f3a800ca1b372e9aac31c84dab3c4fad2450": "procmail: remove more keg_only reasons.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9e34647e5f1f949457b66845ea0c83896600738c": "procmail: update 14 bottle.",
+    "17411e6c9da48892cca907cdfaa4619bb356ecb5": "procmail: update 14 bottle.",
+    "6cd5e7c787304ab8ad74e0e1d42a17cb010b5be7": "procmail: use secure url",
+    "a16e75311ccfdd8ffaa041c034612dd25ce49eea": "procmail: fix bottle misplacement",
+    "af0c80f17b0c5e9a63b62a04e40c85af2d67f297": "procmail: add 14 bottle.",
+    "25cec7ac5b4a5b64356b52686b8caf97d299d248": "procmail 14 (new formula)"
+}

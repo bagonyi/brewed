@@ -1,0 +1,17 @@
+{
+    "ca9d376a797ae0ca6796fe9495f1d1333b0473b3": "rke: update 0.1.16 bottle.",
+    "2e4e546c4b0254116aa64cdb7e52894a2b7e9a4f": "rke 0.1.16",
+    "079cb5a9bb765db54162b4d0d03f0d95e233e8d3": "rke: update 0.1.15 bottle.",
+    "3b4d4e51ee3baf42bf343fba4261a1b1cf52ddd2": "rke 0.1.15",
+    "d668ea9d099e8eaaa44652d35de526f396f9a338": "rke: update 0.1.14 bottle.",
+    "7100d30b6d4db6308a5e21f33761bd034a5bd58f": "rke 0.1.14",
+    "eee76a6568ff4d531ce72029b8a41f2cb4dc616c": "rke: update 0.1.13 bottle.",
+    "d491a8b6cd4fa6be7c80df64f5bad04ae95d81b3": "rke 0.1.13",
+    "de69cb69926b072095c061cd850ad92fa4626bd0": "rke: update 0.1.12 bottle.",
+    "c31203fa8774eac9b6f6a7074524d7042ce946fb": "rke 0.1.12",
+    "1f8c7ab0d850b0ee1e5628c2a36b52eaef4ed30e": "rke: update 0.1.11 bottle.",
+    "d95cf5d49025518e12b2b156c1e87e97e0566098": "rke 0.1.11",
+    "a4129273efe8fd533b44b4c7e6768aa8a7d000c2": "rke: fix RuboCop Layout/AlignHash.",
+    "c28b10975091c8ba2809cd6129d5b4b487efd181": "rke: add 0.1.10 bottle.",
+    "660ce32b02dedebd0b10051ed21c943fefd36938": "rke 0.1.10 (new formula)"
+}

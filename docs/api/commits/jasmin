@@ -1,0 +1,13 @@
+{
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "46a6d4e5fe743ee24c7f550df1053057a64b82e9": "jasmin: fix audit --warning",
+    "be24f376612d706939b4edd24d1c1694823028f4": "jasmin: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "374e58dad1961cb664d9257b88150afd7ce61b7e": "jasmin: add 2.4 bottle.",
+    "cf19f042c995682663d4170d68072e02aed99c71": "jasmin: use sha256, better test added",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e0392119a7baa16f29347ad78d34f7a4b37fac62": "jasmin: fix test",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "abee1acf73f5db6fa9a0c9883be344bfe27debfe": "Jasmin 2.4"
+}

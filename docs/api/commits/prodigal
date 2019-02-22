@@ -1,0 +1,8 @@
+{
+    "afb0985414ba69e5456e485313b5582dee356ce3": "prodigal: update 2.6.3 bottle.",
+    "079b63eea3899fa23a441aaa153c7a93cd5af40b": "prodigal: add 2.6.3 bottle.",
+    "f8079a93c83ba5c9e928f37cb54ae9700fea6c9b": "prodigal: import from Homebrew/science",
+    "f7e96b7a2666a0b2d7d2ef3e5ede2f88c5152931": "Remove formulae moved to Homebrew-science",
+    "925a6a6adf2a21f49dbb31c679df46e9eaf19304": "prodigal 2.60",
+    "9755945a8873b0cc7f57c283e9e4f6a755510018": "Prodigal 2.0"
+}

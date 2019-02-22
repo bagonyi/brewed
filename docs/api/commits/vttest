@@ -1,0 +1,15 @@
+{
+    "3d4233be15a3efa61d16cc9e5111f87e39fbfd13": "vttest: remove references to pre-Mavericks.",
+    "18bb9a21b74d235c9cfc08467379763de27e8c33": "vttest: update 20140305 bottle.",
+    "6cb9c4255d233ed3c54c1c868980ec7aeb090a91": "vttest: use assert_predicate instead of File.exist?",
+    "2abbf8dfe2b16b329143648d08ab14de52529024": "vttest: update 20140305 bottle.",
+    "31abbd5db9bee544aaaa9f7938829d92fb314df0": "vttest: secure url(s)",
+    "d48c9a72b5310b500315bc48d5ac3aed5f4f1188": "vttest: secure url(s)",
+    "976fb3c3b26b90938fa39bc75d5078352054d0a5": "vttest: update 20140305 bottle.",
+    "c5347092f4f248f22ea5340e0e8ae2cbbaa6ac8e": "vttest: update 20140305 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e216b836afd516888fd87bb067bb1df2fb6d809a": "vttest: add http mirror",
+    "7497ce5ed94a68f0ce550bf2064ef76215e0f0af": "vttest: add 20140305 bottle.",
+    "4656b4eda692266d9ebdfee7d8742e9cf6971e0d": "vttest 20140305",
+    "c0c7c255567e3b06a2aa8fbd1bd09e7c8f028df5": "New formula: vttest"
+}

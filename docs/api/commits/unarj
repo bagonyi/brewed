@@ -1,0 +1,15 @@
+{
+    "1a075d703dfbf8995966453365b4d06418fba4de": "unarj: remove references to pre-Mavericks.",
+    "d6495dd3e566df986b4b36ceaadd7245d5fa9d0c": "unarj: update 2.65 bottle.",
+    "5ed0da87b06542c110baa0ad4a7b20355a9d04f0": "unarj: secure/fix broken url(s)",
+    "8ec34643360e3abaf6781b7dd5fa160691c413a6": "unarj: use assert_predicate instead of File.exist?",
+    "7cb4e293c503f83541a24706767076e0932760d9": "unarj: update 2.65 bottle.",
+    "78680f8b954bef36e810ba229c4e58e257c8f689": "unarj: fully scope test system call",
+    "c05b73e34afec38f124f0c87574b471d3e6ce7d3": "unarj: update 2.65 bottle.",
+    "bcc7719e8418272849b90c85ad636a02b02e1f04": "unarj: update 2.65 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "97497ca90c467dfed047418588b50ad189278600": "unarj: https resource and sha256",
+    "eeaf7add537af52d4289eb60716f59e0bab52c97": "unarj: add 2.65 bottle.",
+    "4f7771b31b6ac2ba6cdbfa672f1fd3ed0ee9244f": "unarj 2.65 (new formula)"
+}

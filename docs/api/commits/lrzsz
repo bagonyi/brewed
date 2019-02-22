@@ -1,0 +1,19 @@
+{
+    "bc19d018bb07657f4ced25ceb4988967a1fdb30a": "lrzsz: update 0.12.20_1 bottle.",
+    "cf77946938b05237d6ed9ed7d78ff50b2844290c": "lrzsz: update 0.12.20_1 bottle.",
+    "5361ba0d1d1d0fdce0ff52565be4f8d92eea42f4": "lrzsz: patch CVE-2018-10195",
+    "d5722272fc856f6c50cd54a25529a1cf14401623": "lrzsz: update 0.12.20 bottle.",
+    "e4e8364d1faa0cd0b8585d6c999971e40aa52bbd": "lrzsz: secure url(s)",
+    "01ff2e59edd083e398254d85894f2112f608114b": "lrzsz: update 0.12.20 bottle.",
+    "baaa2ce9073345ca86d5d60ef57a1e225ed5ab28": "lrzsz: update 0.12.20 bottle.",
+    "db013cbef7bf747aa895fdfd02aab384baa16118": "lrzsz: add 0.12.20 bottle.",
+    "78fd8b5f3eb86c13bac584d3dbf723a4c2ee7db3": "lrzsz: use brew mirror",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b4925f707618caea5bfa3bfc2a8f1e0014239642": "lrzsz: use install_symlink",
+    "881b0478b43b875f1b58571072adb0e3b87bd6de": "lrzsz: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "212cace2125b6d6cdb3bb042189c8c866824e9b0": "lrzsz: add links to sz and rz",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "4152b692cb2a7e627b0723ec274ebce34cde5b60": "New formula: lrzsz"
+}

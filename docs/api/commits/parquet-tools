@@ -1,0 +1,15 @@
+{
+    "cd1f7fb20962ccfb3ad29797dc50be9aed447e8c": "parquet-tools: fix RuboCop Layout/AlignHash.",
+    "dee8074c22f45379afac8b585c2ed20ca0cf9067": "parquet-tools: update 1.10.0 bottle.",
+    "4b07ff67cc190ff83e0006981b8879b41d1ba9b4": "parquet-tools: update 1.10.0 bottle.",
+    "636c00879fbb9e8d63024a2c23d9c70497ec6c9c": "parquet-tools 1.10.0",
+    "ef32a924d626cae96e1d0db24232a73c73cfe032": "parquet-tools: update 1.9.0 bottle.",
+    "e0ab5c190cf06e14a3cec98ed408a42f5ba1a257": "parquet-tools: remove deprecated ENV.java_cache",
+    "d120012926f667fec3161927561ffe552e9f7dd6": "parquet-tools: update 1.9.0 bottle.",
+    "4841a7db68968952ce022db3f3ee2627fada6c3d": "parquet-tools 1.9.0",
+    "3303786c0702cd0fd61edc000816124da36113e2": "parquet-tools: update 1.8.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "717098f23eb032ad55a6afc458d39918a7ae103b": "parquet-tools: add 1.8.1 bottle.",
+    "1a4d0b73edc24523ce628774f9f4c1b23a0c5f79": "parquet-tools 1.8.1 (new formula)"
+}

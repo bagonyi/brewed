@@ -1,0 +1,20 @@
+{
+    "166f63fcb8ffc4b6c9943e49e1fbdc25bdfc5670": "libusrsctp: update 0.9.3.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fc65a4414cdcfe8112554594e301a17db63cd424": "libusrsctp: update 0.9.3.0 bottle.",
+    "4089f0d385a91cf92ced60b8a480d18d8550f10c": "libusrsctp: update 0.9.3.0 bottle.",
+    "47b9479e55abb1b40943b2ac4df6ab7e8f6e6ee5": "libusrsctp: update 0.9.3.0 bottle.",
+    "d2fbdbc10d9bde4edbf4d76291008356bd36ac5e": "libusrsctp 0.9.3.0",
+    "6244b8cf899a026721d375d9fc044c79a6f9d4db": "libusrsctp: update 0.9.1 bottle.",
+    "2099e168b93fb9f99e5202967105ae2bb97e9ce9": "libusrsctp: upstream moved",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "81cb56e6e282605b74b450a550279de922c5bd35": "libusrsctp: modernize autotools deps",
+    "ccdedfdfbeb0b72ff121cabe3e20061084b8671c": "libusrsctp: update 0.9.1 bottle.",
+    "19a44d4072bb15e6e4b37384d262643e6c887788": "libusrsctp: add 0.9.1 bottle.",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "a7e6f83d616698d6ec45a15a67c4fac7bf098241": "libusrsctp: use spec deps",
+    "075e68a8e50e130e4e5aab9c986af43bc39d3a43": "Remove redundant :using",
+    "f9742819608d3cd15d3b73328cc73b1b3127645e": "libusrsctp 0.9.1"
+}

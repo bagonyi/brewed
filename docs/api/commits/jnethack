@@ -1,0 +1,19 @@
+{
+    "3c08d34b4134f22293d62bc61d6671a54c430d43": "jnethack: update 3.4.3-0.11 bottle.",
+    "f686890b36978cee10465858254107109ba9a1e2": "jnethack: secure url(s)",
+    "0f254750031ba3776f53120232b5622ab89b689d": "jnethack: use canonical osdn url",
+    "8b2f4cdb41e2bda203b0c6ff3b15d5e94cf52085": "jnethack: update 3.4.3-0.11 bottle.",
+    "d82679ae46dd7e1d2c6a99bc656b422285042fcb": "jnethack: move patch to formula-patches",
+    "e9123d832ca937a1735ce1b8778d348eef79f136": "jnethack: restore correct whitespace in the patch",
+    "ec6602db2279d38a1c45d68d343f222ad3988e78": "jnethack: update homepage",
+    "2498cb7e920389e5a660dcea31170c807e464274": "jnethack: fix audit about sourceforge link",
+    "49fe68b2fc6221f65eb222d0184e67434a3a482d": "jnethack: add 3.4.3-0.11 bottle.",
+    "ad4f494f8c9f83490f29f4936647dd090c4e54d1": "jnethack: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "da3fdbd0cf2e3f61bb88804021137c7a71c26dcf": "Use \"cd\" instead of \"Dir.chdir\"",
+    "89b2018d807cca3e3f2d127a973991d680c3aa46": "Update bare fails_with_llvm calls",
+    "6e81cec742e28a76499bff531e784cad6dce0f40": "jnethack: put patches in the correct order",
+    "99b61b9a238156e7490a20f63b4d1c699ee781a2": "Update fails_with_llvm in formulae",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "36fcf31c96901188162cc5a0765a2d1f21d532d1": "New formula: jnethack"
+}

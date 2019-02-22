@@ -1,0 +1,16 @@
+{
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1d43b68f083a91a863a127441e7ef40dc47580f0": "mahout: remove deprecated ENV.java_cache",
+    "acb558dcb437af495456468d3d7488d3256b2bb7": "mahout 0.13.0 (#13020)",
+    "e97c41ee7643fa9299a2505debb4b18bca08b5ea": "mahout 0.12.2",
+    "d6cbc4cde74db8c960520ec278e43f3703a0bba9": "mahout: use java_cache for head",
+    "9b72c198131ca27ab9101e5dfd73a21c6930a8c7": "mahout 0.11.1",
+    "29d61d8d46d21529369a8fffdb80cce0ad2b432e": "mahout 0.11.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5ca8b5b6b8f1ee11082be6e7b8ec126487b39953": "mahout: use apache canonical redirect url",
+    "8007fa64aed7eda6a6f3f98a9d38d689ee976431": "mahout 0.10.0",
+    "a834f8bc58aead8732b3a7aa5d63975636789629": "mahout: maven only needed for head builds",
+    "93fcfd606a6fdac2f117b5e45b66082da93629df": "mahout 0.9",
+    "3832dc791f3b3e9681d5500dfc954dde92776cc3": "mahout 0.8"
+}

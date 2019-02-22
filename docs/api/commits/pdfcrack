@@ -1,0 +1,21 @@
+{
+    "74cd15f65fccdbf19a4306d1cb28dbb1b882461b": "pdfcrack: update 0.16 bottle.",
+    "83b3ddfbe688b23894c469982aa15fe99c149e6d": "pdfcrack: add test",
+    "d16255ee792a5e5006a177949ff8bdbf067bc472": "pdfcrack: update 0.16 bottle.",
+    "5a62cc30447d33615eda34094ac5967f7af1b7de": "pdfcrack 0.16",
+    "2c7d5797798fafb41460a0690bad1ae36df54ce6": "pdfcrack: update 0.15 bottle.",
+    "9de28c2713856572ae0f96410017ded173123d1b": "pdfcrack: fix audit --warning",
+    "dec146156d772df22dc2f725107ef7524558079b": "pdfcrack: update 0.15 bottle.",
+    "ca947cf594b58db4b9d8c09520e81aa622b9ecbb": "pdfcrack 0.15",
+    "2e12f46354b844b24364de351919bc95335b4173": "pdfcrack: update 0.14 bottle.",
+    "6323329efb220dd1305a1196a093e1a48d62285c": "pdfcrack: add 0.14 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "aa85a625cb93a3a8e38d79f04e71b5b2c2262707": "pdfcrack 0.14",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "812e91d1f96fab2c395cc8015a5ea152ed892c45": "pdfcrack 0.13",
+    "3d04a1ba59e91967ace19218c8ac8c521d92ed76": "pdfcrack: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "2b1d3d19b7c94767e7e1b34c6bf6fd11cce9dde6": "Add formula for pdfcrack"
+}

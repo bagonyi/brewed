@@ -1,0 +1,11 @@
+{
+    "908abb49de3c8f97bf4ab61cdb3d2453335ca373": "smartypants: rubocop tweaks.",
+    "3c0014e94a6d50a08f701426122acdb4880ed9ee": "smartypants: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e97b8cf030ac506a03204853177ae3a78a5247a6": "smartypants: https homepage and url",
+    "551575e4d8ba558ab87c6485c1753caf0396fa70": "smartypants: test added",
+    "59605c5bc2b8ac81eb6f36231c63957513e2c73f": "smartypants: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "10ac953eb8e809c7ca6cc128600c9ab86cf43f35": "New formula: smartypants."
+}

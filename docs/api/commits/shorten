@@ -1,0 +1,18 @@
+{
+    "c3731f48b66fc2d1fd171aba62c6f759d6d195c5": "shorten: remove references to pre-Mavericks.",
+    "3e94875b60eacfe4a46c66ac714f0196d391e7f4": "shorten: secure/fix/follow url(s)",
+    "d76520657038e5133de40932d960f339414325cf": "shorten: update 3.6.1 bottle.",
+    "8eba4a8dab404f060d08c940168bae7fd18d98e5": "shorten: use assert_predicate instead of File.exist?",
+    "0f090871488eff6352a006a5e6673aac560582aa": "shorten: update 3.6.1 bottle.",
+    "7b851c3520e6c78b6f3f1793641ff87e52257aa0": "shorten: update 3.6.1 bottle.",
+    "d20ced4e6e7d903e1e38330fd0a1af36f0b12a74": "shorten: update 3.6.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "072bb6624577ebab1308d349e5dcdfad1baef53f": "shorten: add 3.6.1 bottle.",
+    "bffd58e1befd69e96bc47fcf2aa0318a99c3465d": "shorten: test added",
+    "91434425228373cc24b7638c9da545bba7bf11eb": "shorten: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "dcd8571b97b89a9c361652ec46011718f7c7e2de": "Shorten formula."
+}

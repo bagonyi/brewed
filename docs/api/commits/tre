@@ -1,0 +1,16 @@
+{
+    "eb4d5beb6831b5fbd3861b5658ecb5ace70784b3": "tre: remove references to pre-Mavericks.",
+    "3b0841f06c0ea18d61ded4d743332e73ddbb541c": "tre: update 0.8.0 bottle.",
+    "d995c3a9bf60c6b8460c6a34914ddd2108d62458": "tre: update 0.8.0 bottle.",
+    "cfbd4ed66c585f53e609359a72d7fcf89cce16b2": "tre: use https for homepage and stable url (#11799)",
+    "6c408c23f636a9d64723d8462da569ad07cdfbce": "tre: update 0.8.0 bottle.",
+    "16b712eed605a852478b1b92d6dcad678048200a": "tre: update 0.8.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "77f8c65e9882bbbd61e33d55b25b439db0c66589": "tre: add 0.8.0 bottle.",
+    "2f290ec82fa330cb6e6e7c0cb99754594d313557": "tre: test added",
+    "b9525c4263e6bca2ac11208023ef2c15101fd856": "tre: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "b84cb05d7604e4ef671b04325c796fb67d2ff582": "New formula: tre"
+}

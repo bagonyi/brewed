@@ -1,0 +1,16 @@
+{
+    "cec4c57012b1419ccb8bb916358235659dc2cdad": "bower: update 1.8.8 bottle.",
+    "46e20db09a760e6bb7689e090c57dd58a4b33ab6": "bower 1.8.8",
+    "d7343b8f88d47a2adc34526f4e39710f45134d7e": "bower: update 1.8.7 bottle.",
+    "178b85da4197011eace93c900d39be19268cae29": "bower 1.8.7",
+    "84c20c2a4e013dab31ed3f96ca7160e7c0836506": "bower: update 1.8.4 bottle.",
+    "431b2057f04fc1e6aa1425edb4925be9fda9296e": "bower: update checksum",
+    "3c9f91db57583c74400abf368d75750ffdb46990": "bower: update 1.8.4 bottle.",
+    "ed00c1b119f834c3e0be981877831e05b6336539": "bower 1.8.4",
+    "a5660aa7c7e82b016062e9fbb81c8cbe40b4d925": "bower: use assert_predicate instead of File.exist?",
+    "de2aa0b451c2628ed8ddb7f176b575e6b18023c9": "bower: update 1.8.2 bottle.",
+    "7b8360bcfb5d89e5f6d26d607245beef77bf4113": "bower 1.8.2",
+    "296704c4b96905b0d874045aeb168fbfd22b0ea3": "bower: update 1.8.0 bottle.",
+    "e433ca1099d8bf1978a67949f0321e708750db43": "bower: add 1.8.0 bottle.",
+    "028b51e77fa60a8807c66d7354725197981321ed": "bower 1.8.0 (new formula)"
+}

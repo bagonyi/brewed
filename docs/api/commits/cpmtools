@@ -1,0 +1,21 @@
+{
+    "9c98656ad2c0a8d83bca0171cfa58b4908527ee7": "cpmtools: update 2.20_1 bottle.",
+    "4561e87afb13a459cfeb373558adc127afd1c876": "cpmtools: remove options",
+    "000e7f87641b1ae67dbe59c6d6bedb2e66b8ca16": "cpmtools: update 2.20 bottle.",
+    "8648c1c5a65117d42c2e0ff009fe58fdeb788aba": "cpmtools: update 2.20 bottle.",
+    "932c5daaa3261de807a414f119f308d8718a92f9": "cpmtools: update 2.20 bottle.",
+    "822ca0593268d812081ceb6b1d1228b8fddbd93c": "cpmtools: add optional libdsk support",
+    "0961bc0f7be46884dfc8f6b793cc38e4908164b1": "cpmtools: update 2.20 bottle.",
+    "a1616393ac137637cec618390fa4fa0222e2b5fa": "audit fixes: C 05: cpmtools - cryptopp",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "df2bb0cfd6cb6c1b22db3f6a1c3728b0a26ca5fa": "cpmtools: add 2.20 bottle.",
+    "941c6582aca0fd4b99a4e1bfb42e6003576824d3": "cpmtools 2.20",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "c5bf910ac199dc2f22b4f6bbefe00284276778b7": "cpmtools 2.19",
+    "151b33642f2b291a913f6b732297d19678a3142b": "cpmtools 2.17",
+    "a5d1f785de0992bab11fca8a750f8451d6b4f95f": "cpmtools 2.16",
+    "bac3104855c561c17f6dad8976aa6f86e38ee1e3": "cpmtools: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "76ba6e2f2b0fc166b08e964855c0b27cc3df4117": "cpmtools 2.13"
+}

@@ -1,0 +1,19 @@
+{
+    "b9170cc0ab8ae7eebcf0c619c2acece9860b1588": "kite: update 1.0.4_2 bottle.",
+    "d36568941d8da2644004d813563529ac1a36e044": "kite: update 1.0.4_2 bottle.",
+    "7edc97fedc666da6719931445acadf5954f2fb58": "kite: revision for bdw-gc",
+    "25e5f1039a8670a7a7092697a12b43b03782fe6b": "kite: update 1.0.4_1 bottle.",
+    "25caf97a70a4179dd56c2a3268777f4aa16fd645": "kite: revision for bdw-gc",
+    "b6c1fea0cc5c47dcb4d08f4c527dd991c2392fe2": "kite: update 1.0.4 bottle.",
+    "900a58d513041aa90188f3cafbb785e8e2d31b8c": "kite: add test (#12169)",
+    "bc96a0cd638b6a933076e1fbe53464d6df30df53": "kite: update 1.0.4 bottle.",
+    "eed35a880808b8ff731673c8097c32dd05224977": "kite: add 1.0.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8ab3bb633c0db2e498f1121fe44ac036fab86dd4": "kite: use patch DSL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "b56eb64695d7e6c724246ee31432e6c248fd4361": "kite: reformat patch notes",
+    "1ba613855d6f6ff5a2d86d0c9c7db67978020940": "kite 1.0.4",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "10e011858bf6b13047f34fe26f79ce3a7ce49728": "Added formula for the Kite Programming Language."
+}

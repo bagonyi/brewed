@@ -1,0 +1,12 @@
+{
+    "94627e0e27f6bd44cbab7d91747c4ecb9b38f3db": "stress-ng: secure url(s)",
+    "5fc42a417817c7558c410222d713da27d852efec": "stress-ng: update 0.09.11 bottle.",
+    "2466010cf2190e25a40ff368fa7398c4f89270d1": "stress-ng: update 0.09.11 bottle.",
+    "2d94ac8e1466f102da079f0aa0f1536e4bcec8b1": "stress-ng 0.09.11",
+    "948791a4f0d26087f1f72dfa2e6160c6ed83e244": "stress-ng: update 0.09.09 bottle.",
+    "7f25f8eb7410adf36b0a346f7b0aca1dcf202c20": "stress-ng 0.09.09",
+    "3912103d285671dac6ce65141063a79ed0a76949": "stress-ng: update 0.09.07 bottle.",
+    "7d7759fa6dbff9ed322a91f0757ea915fcaa7bfb": "stress-ng 0.09.07",
+    "8846ed5f3f7108e4f723c28219bc3621d2651a9d": "stress-ng: add 0.09.06 bottle.",
+    "4f0620403dc0ecfb9845eed2dd951b1752848dd1": "stress-ng 0.09.06 (new formula)"
+}

@@ -1,0 +1,8 @@
+{
+    "8f8ccbaf826d54271b6d62769db13ddcd296b391": "jing-trang: require Java 8 specifically (#24033)",
+    "48e29fe5dde0b2f1e764ccec8da2e46b57fceb4c": "jing-trang: depend on ant instead of :ant",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6fef2c61d5207ee4fb89c0ca26c34f9a3ab60205": "jing-trang: allow higher versions of Java (#18179)",
+    "c0baef79c9221785ca7e007ed79aa3ae3f664b49": "jing-trang: secure url(s)",
+    "492aa25f7857b63e5d78a402a38dae4d40fc0524": "jing-trang V20151127 (new formula) (#12998)"
+}

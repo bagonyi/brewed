@@ -1,0 +1,20 @@
+{
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "258d1bff35c5435c483e18e4e343a272a663da59": "tomee-plume: remove redundant version specification",
+    "13faa7a7f64d029638ffdb4ded7d951b2b719031": "tomee-plume 1.7.4",
+    "4ed7294d4b8b5d664a78d75944527589bc78bf4c": "tomee-plume 1.7.3",
+    "616b43bbbf51cfd0afb2558efd09bc59e96bbef0": "tomee-plume: bottle unneeded",
+    "a9ceb5e136bc0bbfc1bcba40a5ce533b4a677590": "tomee-plume 1.7.2",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2dffd432e238349628bdc6e958a647015b4ab2a0": "tomee-plume 1.7.1 (new formula)",
+    "0a485e66d1645ca55b7311d5409cbc196df0f792": "tomee-plus 1.7.1",
+    "f409b88e4616c497328c50a5ce5d4cd0a84ffd25": "remove explicit skip_clean of libexec",
+    "66cb70e581cb92812bae12f0a972dddf9b50bfef": "tomee-plus: Update to version 1.6.0.2",
+    "1696d2b4a2300bd77f56f111b3556f185cc624c8": "tomee-plus 1.6.0.1",
+    "653670b15d61c2ac01f5bb7e0a9040525b1641be": "tomee-plus 1.6.0.1",
+    "772a189fbc97f4c9d888f7be1e2902aad2a4c4da": "apache tomee jax-rs 1.6.0 apache tomee plus 1.6.0",
+    "91760c3fd1bab486ebfd39b52d5a2185001647a4": "tomee webprofile 1.6.0",
+    "831e2971a8b646fe8c85f78fd3fd3ef796102117": "tomee-webprofile 1.5.2"
+}

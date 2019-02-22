@@ -1,0 +1,15 @@
+{
+    "4a91b690fddb877b49c6ac931750c5f1f4dd7ad9": "shakespeare: remove references to pre-Mavericks.",
+    "49bbf25f0dc55c0e1811374b33bd9e73baaf296c": "shakespeare: update 1.2.1 bottle.",
+    "5ea7bef7be0062be859224c8e7595dbfd06e1bdf": "shakespeare: secure/fix broken url(s)",
+    "2a3ad8196a51d8d87487f0c77db2912c84351e0b": "shakespeare: update 1.2.1 bottle.",
+    "3acd81914fdcf170f21b919c0ba22ed57e8736fd": "shakespeare: fix audit --warning",
+    "dd8f9d8e1b3c0e0f807dcddb5eff63eda409b24d": "shakespeare: update 1.2.1 bottle.",
+    "a57cf2869ba142fd91e50908154ba14c433550ab": "shakespeare: add 1.2.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "32e8598d4d33753767d8828cd582a8de82d605ed": "shakespeare: depends on flex",
+    "a84e0077c05b5ce9d1c802442038092ce325a6d6": "Streamline metafile installs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "b1fa9b8a5fcc60266ea10480820290e1ad114520": "shakespeare: New formula"
+}

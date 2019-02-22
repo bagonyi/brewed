@@ -1,0 +1,17 @@
+{
+    "0620525e22e97fee9678d2e3eb7ab57144d7cf8c": "gaffitter: remove references to pre-Mavericks.",
+    "c0cbb58b382b66c2f0ceaf8be3abc19d1c73fe7a": "gaffitter: update 1.0.0 bottle.",
+    "a1c6c5f805566400de03c06f1af32b3f8cd654e8": "gaffitter: update 1.0.0 bottle.",
+    "8b43d1e10b7f4b6fd89601643e769e828a4c4544": "gaffitter: fix audit --warning",
+    "32d7f972a67944d01f257ec8734cdd514edf2d65": "gaffitter: update 1.0.0 bottle.",
+    "897bfcd6a75a72929ac6925a87276016c5139467": "gaffitter: update 1.0.0 bottle.",
+    "8194db9f3ffcf3c33d012c999370f7c5e3435a12": "gaffitter: add 1.0.0 bottle.",
+    "fa6185ac780041275ec436f2b0a56d6ea2886c2f": "gaffitter 1.0.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "59a82013da04feb351255ef7d8243f511427820c": "gaffitter: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ad613765f70a9362ffa483a264967a3ffc40fb2c": "GAFFitter - Genetic Algorithm File Fitter"
+}

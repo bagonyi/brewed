@@ -1,0 +1,13 @@
+{
+    "482076bd7a3ec85cad25358eaec4cc4834734f8e": "ren: remove references to pre-Mavericks.",
+    "d6662671badd6692d66272867638689b89c13c30": "ren: update 1.0 bottle.",
+    "cec2ecac96ba2ca92d8a8700e71d1de2ea3de090": "ren: use refute_predicate instead of !File.exist?",
+    "3800b4eac1ed74ae0d3ded70508ffcdf81a4a727": "ren: update 1.0 bottle.",
+    "48220c0034e607058c21deee47d109342eff6575": "ren: update 1.0 bottle.",
+    "87d37aa69bf862227841b9428139a0f2ba8e9395": "ren: update 1.0 bottle.",
+    "ef529297076b4b17f3e57b39e238a8f0d256ce93": "ren: use an https url",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "de0e191c2e67a61e5141e3d9311a74b113d26a0f": "ren: add 1.0 bottle.",
+    "9a187d4488ccebbf96831e3d045550825877ad82": "ren: formula makeover for current style (brew audit --strict)",
+    "fca1bfded40d072e9060b4310e34cb6dc5941234": "ren 1.0"
+}

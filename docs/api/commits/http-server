@@ -1,0 +1,10 @@
+{
+    "c2b7a6fd9c57924766e5cc05b86aaf359557ddea": "http-server: update 0.11.1 bottle.",
+    "bec600a07c8103bc8911163defc6355246346c9b": "http-server: update 0.11.1 bottle.",
+    "b1c5f3f73027d1f47be041a6f536ef53429f075c": "http-server 0.11.1",
+    "fdf99e38b62396354df94613e5779c25fd48c717": "http-server: update 0.11.0 bottle.",
+    "0d6d53004cb9f6731a993d07a6e4437b01a31802": "http-server 0.11.0",
+    "7a79cdc782693815e1474bd4e3583b767c20c099": "http-server: update 0.10.0 bottle.",
+    "c1a68c3d844f94c76b12a3040dce16056583f609": "http-server: add 0.10.0 bottle.",
+    "3f51a23dfe2caaf3f311e286c8ede4cfd8040d66": "http-server 0.10.0 (new formula)"
+}

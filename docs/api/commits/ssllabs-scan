@@ -1,0 +1,14 @@
+{
+    "238ef7fa3f72ecb97a3e39a31fa166410309ac86": "ssllabs-scan: update 1.4.0 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "6420a82883435b22cc3e9401fc22128febcf45ea": "ssllabs-scan: update 1.4.0 bottle.",
+    "886f61e236dd7b6fd6fa783d118a315647d82570": "ssllabs-scan: update 1.4.0 bottle.",
+    "d8062d69c70a94962b78cab20c122fb7ee3d6b24": "ssllabs-scan: update 1.4.0 bottle.",
+    "3c206ed70b3fc6dd75eb176b40e767ac18235985": "ssllabs-scan 1.4.0",
+    "b88296932bae8305bb6281eba612551ab4b909cf": "ssllabs-scan: update 1.3.0 bottle.",
+    "fa41c639a4fcc066042ad74d70d1d6ff569c3f87": "ssllabs-scan: update 1.3.0 bottle.",
+    "f45ce453f3733538e8ea44d4927112baa78734d2": "ssllabs-scan 1.3.0",
+    "39674b89cc6b93f3b7fcec07f7954e34aeb2ebc3": "ssllabs-scan: add 1.2.0 bottle.",
+    "638a256b8587fc08135215f22c2ff99e83ef1fed": "ssllabs-scan 1.2.0 (new formula)"
+}

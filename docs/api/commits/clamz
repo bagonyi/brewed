@@ -1,0 +1,14 @@
+{
+    "91379551ae44e49df088e28e0ce27cd1246a8f83": "clamz: update 0.5_1 bottle.",
+    "a45427773480da5bef782a6ca96c919ea50dc1b2": "clamz: update 0.5_1 bottle.",
+    "2cc331a8ed6b33068146777e9ea2150172dbaac5": "clamz: update 0.5_1 bottle.",
+    "6edce283a2bd21813bb985eb898e96dffd9b5456": "clamz: migrate to archive URL",
+    "843be0463e3f2a47b0259c274f8bc318e588885e": "clamz: add 0.5_1 bottle.",
+    "709eb21586274533a077b8dbc1fc51bfbd440928": "clamz: follow archive redirect",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "e99ea88cfc7ffa6eb1df107eaae4ba670c2de517": "Increment revisions on libgcrypt dependents",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "a965f846045a24396766c7a4371adb149475e5b0": "New formula: clamz 0.5"
+}

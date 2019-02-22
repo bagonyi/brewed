@@ -1,0 +1,22 @@
+{
+    "59075ee00f61d5441639eb03c8be5079e826489f": "ht: update 2.1.0 bottle.",
+    "fbea0c8acd8fd3d4e72405d244fa1c525c8c03a7": "ht: update 2.1.0 bottle.",
+    "b9ca9ee5e32ea4ef0aa268e4745698e7747c3f61": "ht: fix for Xcode 9",
+    "809adb58647c619827dea863db717e221f85952d": "ht: correct homepage (#10307)",
+    "1eae7e3bab221e042762790ef11cfe29a45ba70b": "ht: fix audit",
+    "9e5a44ffc0ea4de7f9102ffb983f8b91213dfafc": "ht: update 2.1.0 bottle.",
+    "e4802abd4d51a307c1963739f62b09cedbbefb0b": "ht: update 2.1.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b71cdfbc9494f5c343b610dba4eac3ea1ed0cf72": "ht: basic test added",
+    "18c72343b10ae7cf09f42b51bdb5ad06eb4b2417": "ht: add 2.1.0 bottle.",
+    "3a0af42b5b661b6672b0e27e40433ea6f5d6601f": "ht 2.1.0",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "13a05f431e5e4badeac615c660027e6b6c81c7a1": "ht 2.0.22",
+    "f49bfc3af315a9e8fe49c4b29e28883be6f6796d": "ht 2.0.21",
+    "2b2a9917d7ebedf5447b82b7b4114f9af013309e": "ht: Add --disable-x11-textmode.",
+    "a4323486dc79b62221694551435ed6274d838116": "ht 2.0.20",
+    "fc66ae709c8d9a650998fb056c1156bbe4036a4a": "ht 2.0.19",
+    "0741ff948e5d7839d0c1c2488d4873ba74399a9d": "ht 2.0.18"
+}

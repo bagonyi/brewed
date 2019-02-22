@@ -1,0 +1,18 @@
+{
+    "a55dadd0a27f70371eea05685d59b00257b09092": "rbenv-default-gems: depend on rbenv instead of :rbenv",
+    "a728d7736c6b7d3c4b285eb50044d20beaaa287a": "rbenv-default-gems: use full_index patch",
+    "c08327af9c95d31565b6e82cf0648c26e07495c4": "rbenv-default-gems: use assert_match in test",
+    "26b6379206717b4b888a52f86b822a5a0a41e5f7": "rbenv-default-gems: use new rbenv dependency",
+    "7f5f274e1c38e530cd96bfb01d7f29120150b502": "rbenv-default-gems: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f129cb6f0df32dae5264848bba9d11943a34c05e": "modernize and add test for rbenv and its family",
+    "c00f9c4173c4f330726f7ac34bdc2274a15d794d": "rbenv-default-gems: add upstream patch",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "3a4f7bd7678254cfdff2f6c9a8089606b5f7216e": "Cleanup rbenv mess.",
+    "941e92a1178ec93d0996d74f71cc4dd056512f75": "rbenv-default-gems: fix audit",
+    "915bfcefe6e47845c9644bd9142e85c0fac74879": "rbenv-default-gems: fix caveats",
+    "6e9f62d68c92a2703e8c4de32d2cbbf7cad7c964": "rbenv-default-gems: fix caveats",
+    "b7d5873c3df85cc34f5c80a491ab3f6a32180a18": "rbenv-default-gems: improve caveats.",
+    "0c5483e86f655d249216bad29bc9ac0b22e3a9b5": "rbenv-default-gems: 1.0.0 (new formula)"
+}

@@ -1,0 +1,22 @@
+{
+    "df93c375ef13daf3b1ac0941d18721faa4604685": "cutter: fix dependency order",
+    "d8d07b9e01b1764afee22d3746da15acdb43b699": "cutter: update 1.2.6 bottle.",
+    "a53a8765a91b3a0938506aef1327dd7a2d3a5fd9": "cutter: update 1.2.6 bottle.",
+    "9996105c5b1a1ae265ba81e23b5d88ce3d450a41": "cutter 1.2.6",
+    "4d9f900123345f0ad55e96d4f9f202b4fe8cb719": "cutter: update 1.2.5 bottle.",
+    "f8700b4d264c579359c535bcbaa72b77466b9c86": "cutter: fix audit --warning",
+    "d61f65e0ee067a020e3908ff0cbe2c3556ca3457": "cutter: update 1.2.5 bottle.",
+    "fc8768908bfd08dd314efae2f26e04accd61d6f9": "cutter: update 1.2.5 bottle.",
+    "3daa89448ba6baad92f7c5082b966b186defe28e": "cutter: update 1.2.5 bottle.",
+    "6dd479df13d829ad055f18852c3278c0e94f593a": "cutter 1.2.5",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "0d122a19e1e75bc840094fa66f3525dee5ffc97e": "cutter: add 1.2.4 bottle.",
+    "4a24f19ede255e9bf4df706dbb9e1a854bbf587d": "cutter: fix desc and modernize",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "547606ed649e04f751369084e675b60149970d63": "cutter 1.2.4",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f81c3c8a01c6ef47ebb88e60cf24698864d8a4d9": "cutter 1.2.3",
+    "6e569fd5d6237c121b6025a45aaec6a4b2153105": "cutter: intltool is a build-time dep",
+    "785e3ae24f54704f9bf802b3c9031e8d4f5fa83e": "cutter 1.2.2",
+    "3c65138434b01fd5a4242edef14112c2194ea6c3": "cutter 1.2.0"
+}

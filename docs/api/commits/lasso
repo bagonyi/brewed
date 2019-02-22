@@ -1,0 +1,11 @@
+{
+    "835ac5a8237a5ff82e7f885845559fd7988b0615": "lasso: update 2.6.0 bottle.",
+    "80cefd648a23834f32b9a2af68e2b07e20133d5a": "lasso: update 2.6.0 bottle.",
+    "5716440bc94c62d198dde76014314dee0124dc68": "lasso 2.6.0",
+    "2566bcee8c8e9c6d44752bc40e38e387fcdc8923": "lasso: fix dependency order",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "33fc2d0dd7b57f959d3f445ed98755a04ff2f1c2": "lasso: update 2.5.1 bottle.",
+    "86edea088babf615021cfed1847bac8fd3fddcd6": "lasso: https homepage",
+    "d325c86d612e2981a1f526998d0491668203972e": "lasso: add 2.5.1 bottle.",
+    "18a6f90fa4b2798284fd977853ddbbb3f65d3f8b": "lasso 2.5.1 (new formula)"
+}

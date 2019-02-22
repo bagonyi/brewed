@@ -1,0 +1,15 @@
+{
+    "ee61ac0f0bd6355c9e97603cfbb9a9a1f0e9af07": "stellar-core: update 10.1.0 bottle.",
+    "80ca8aedebd3ee0df986c210d781d59162456720": "stellar-core 10.1.0",
+    "7daab40d9ba16d92523c19d6d3bc0be90ed59905": "stellar-core: fix RuboCop Layout/AlignHash.",
+    "bcf5a99c2e5d593db2bb51fd233ef1c4be6c4eca": "stellar-core: update 10.0.0 bottle.",
+    "8bc52c37611e1a610f333287f626864e0d3babee": "stellar-core 10.0.0",
+    "d89a44aa43582a7a5dc538c2e14c22fc921e5fc9": "stellar-core: fix tag/revision indentation",
+    "145d2303170ad2d05ddb0aa845a5cb916003a49b": "stellar-core: update 9.2.0_1 bottle.",
+    "6b20a87d8ce5f444e40704c5149b67d7f2c743cc": "stellar-core: update 9.2.0_1 bottle.",
+    "5f42eacd581d3dd4f461a7f62b3e080edbce6b71": "stellar-core: update commit hash of the tag",
+    "f80bcba5a714b00463d78cdf726391802096e428": "stellar-core: update 9.2.0 bottle.",
+    "04c72ec52a44d959f2721fea6367c6077970fc6d": "stellar-core 9.2.0",
+    "196802ea36ba65969d10679c54fe4905c872ae35": "stellar-core: add 9.1.0 bottle.",
+    "0a9b758ab52898f83fcff2ea655608f80f2043a8": "stellar-core 9.1.0 (new formula)"
+}

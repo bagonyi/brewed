@@ -1,0 +1,12 @@
+{
+    "1e9d9ec2213952f135c12a67f26a46ca7598cf6d": "nxengine: reduce maximum line length",
+    "5d90ad9635b1e1c3a3897016258d25633f9953ab": "nxengine: update 1.0.0.6 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c8e9aa51786b28378d32f473c9df36f5a68508ce": "nxengine: update 1.0.0.6 bottle.",
+    "a838f73cf33166f51e770806d1f360a60d041f93": "nxengine: https in comment",
+    "650c61f86e9b206d1a00f60449b086d07eb3a056": "nxengine: use https for \"game\" resource",
+    "d408a525ec308ebb32775f32a713d041207af687": "nxengine: fix audit --warning",
+    "669bfbb1c930b64bd4ed0a57a7804804890fb375": "nxengine: update 1.0.0.6 bottle.",
+    "b4f7365448fa719aa1f962cb6b1a775028c633d1": "nxengine: import from homebrew/games."
+}

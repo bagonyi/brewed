@@ -1,0 +1,15 @@
+{
+    "63eed0d4e0e1d02a6d02202b8c468ed647548aae": "tclap: update 1.2.2 bottle.",
+    "c1ee598dc796be854756c0cc06e94aca038e9d0d": "tclap: update 1.2.2 bottle.",
+    "fe9011fa38ffc204bd20e6ffa1804350940a5eb5": "tclap 1.2.2",
+    "ab68ae7b14dde63ddc13311e468e8a6a2c7ebeb1": "tclap: update 1.2.1 bottle.",
+    "dc751d362188fe12ee7f9013066c8addf6b94ebe": "tclap: fix audit --warning",
+    "e2acd976c3f86375084f1be8a4ef8088532b9515": "tclap: update 1.2.1 bottle.",
+    "d7a9b0dbca26d1ed9a14a06e74dd3a428ea113c3": "tclap: add 1.2.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "055efa676515dffae20fd4a5b44c0c37bf7cf0e9": "tclap: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "0b012b06eed182fcd9dfb53ab03f7942dbc41c56": "New Formula: TCLAP"
+}

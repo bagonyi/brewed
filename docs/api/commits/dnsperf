@@ -1,0 +1,16 @@
+{
+    "540a16d3e189e1d887fe415a480a4a6b8fb9d74b": "dnsperf: update 2.2.1 bottle.",
+    "74d3c926b3a9b28a453cc3ee9d2e8454e1104a9d": "dnsperf 2.2.1",
+    "4746439e5c8676c9fa76fe824910a904cd820d48": "dnsperf: update 2.1.0.0 bottle.",
+    "39a6f4281af5d491d34e1ea660675037a9650e25": "dnsperf: secure url(s)",
+    "936ffb3a3558ee4f6e4d1fdbae0bb983ab90bf35": "dnsperf: update 2.1.0.0 bottle.",
+    "63961af68f44c37ca07be6b390c5ce51e1842d27": "dnsperf: update 2.1.0.0 bottle.",
+    "63ff6f4add3a29a2a1606ce0635744a11db40994": "dnsperf 2.1.0.0",
+    "80846d23943eaf679f8ef6fa6cf83383f89fef2f": "dnsperf: update 2.0.0.0-1 bottle.",
+    "cd0c3edba7a806e93f2c429e2990de1d700dc95f": "dnsperf: use secure homepage url and follow redir",
+    "c6205e5868688238601d137bb10588abc233c1fb": "dnsperf: add 2.0.0.0-1 bottle.",
+    "4f38030cf32ad7154f8e68239873a8eb32daed6b": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2c13e260af2437bb35ea0b8e8bade41e8f0abcb9": "dnsperf 2.0.0.0-1"
+}

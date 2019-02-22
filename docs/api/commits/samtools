@@ -1,0 +1,23 @@
+{
+    "bbf3de14f752f7cd1c8bec4e1704f390356c7e90": "samtools: update 1.9 bottle.",
+    "ea3fec61c268ccbbe4172a2f1cbfd08760025cf0": "samtools: update 1.9 bottle.",
+    "3dbf067c7b487a8283940b67505c1a0fb4518511": "samtools 1.9",
+    "3a1aedd5e2a43f2504cc4e713052f47d6b0cf43b": "samtools: update 1.8 bottle.",
+    "b11d99f0a934ac61b69953e12baed4b835d52244": "samtools 1.8",
+    "33450d0406cd75bff95de0fccc839f82c6c5a7a9": "samtools: secure url(s)",
+    "b44c24272efdef9a3b2a54d8d8ab72dacfcd580f": "samtools: update 1.7 bottle.",
+    "651e21b0556808054ba3ba56077e599b343bdcf6": "samtools 1.7",
+    "4129ddb532ee2433899277fbeab2b5cc1e285160": "samtools: add 1.6 bottle.",
+    "7f1f59d232e8f93c998f36342b544efa4684e631": "samtools: import from homebrew/science",
+    "f7e96b7a2666a0b2d7d2ef3e5ede2f88c5152931": "Remove formulae moved to Homebrew-science",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "899a19eccf0465a939d1a35a5d4df93ad6c59915": "Avoid chdir in subshells",
+    "352c8fd1c21a62c99f9ff06cf2708042639b48b1": "samtools 0.1.18",
+    "a25c265fc75353c73e4f2245f1f4d7a06aa3cf55": "samtools 1.1.17 and add install bcftools",
+    "7294dd4a5c2c80ee663019e4af71ca9bcdf46437": "samtools 0.1.16",
+    "c2f1db1ef512ed0fbf869592999383c13adbc780": "samtools 0.1.15",
+    "9b4dba19ecc0c815780de549559375543cc54b5e": "samtools 0.1.14",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "5a4a78b1b64e402c8998e6f2dbef4ba0b7c02326": "samtools 0.1.13",
+    "1f2d56814894a8cfc81636e58d92e37659fe682b": "samtools 0.1.12a"
+}

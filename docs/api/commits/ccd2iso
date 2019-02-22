@@ -1,0 +1,15 @@
+{
+    "167d14fb060c4644fbd75d4192bb76c78d8b12d7": "ccd2iso: remove references to pre-Mavericks.",
+    "166896d13a143ff5f39916a6ce9d53237f75847b": "ccd2iso: update 0.3 bottle.",
+    "f172a89c6d96dda26c15a0dd55a32448c9985ae8": "ccd2iso: update 0.3 bottle.",
+    "3e965c1bebe640cd2708034b47f5aa554a373375": "ccd2iso: fix audit --warning",
+    "1b56935d4578d56c0f26a593d96e0584ab07395d": "ccd2iso: update 0.3 bottle.",
+    "839c33a3295c95df51133a225aa548efb27bd7a1": "ccd2iso: update 0.3 bottle.",
+    "58bcfbcfec68fc5982b5b49030cd3a70ed5b0e32": "ccd2iso: add 0.3 bottle.",
+    "8c09cd67e85c0178635640619887884d0a64aa51": "ccd2iso: add test; `brew audit --strict`",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "ec8f54a95f20d77111b238106fd42bfe6f2cb027": "ccd2iso: style nits",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "63579599473cc719d0749d0b394a8fc8751762ca": "Added ccd2iso 0.3"
+}

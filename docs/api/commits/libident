@@ -1,0 +1,18 @@
+{
+    "f6471afa2e27defd5477e94d628458983c5b8b75": "libident: remove references to pre-Mavericks.",
+    "beb55cbe78ce80fbd0f209010b3f241f74a47ef3": "libident: update 0.32 bottle.",
+    "6804a6ee1221916c33093205b5739b9ceeb0e07a": "libident: update 0.32 bottle.",
+    "52fe901d2af27182d0d6fead740703f0307bca70": "libident: update URL to HTTPS",
+    "69dd54271155ce50e2699b79860ac389eb8a3237": "libident: update 0.32 bottle.",
+    "2dcdc9761b46c8a3f12810245e1c27d2661a8d94": "libident: update 0.32 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "13d4c0eae0bafea1adc7f6155fa8d6ba820dcb4c": "libident: update 0.32 bottle.",
+    "78a56ee67048c731e8eedf94f464b3c4584b97b4": "libident: add 0.32 bottle.",
+    "dc547685abf31280bd4bf415b30d3117511e832c": "libident: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "384a3b60a19bebb62fcd7816cde07caa9d60f6bc": "Fix mandir for libident",
+    "5fa037d55a09954734e82cdde3dbbc568e1dee5d": "New formula: libident 0.32"
+}

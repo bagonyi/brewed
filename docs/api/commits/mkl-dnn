@@ -1,0 +1,19 @@
+{
+    "dcad5fbbcd5621a961babe875d378638a4abf648": "mkl-dnn: update 0.17.3 bottle.",
+    "0b316a4f3dfb7631ae2cd50e17b7a91af60109ad": "mkl-dnn 0.17.3",
+    "f81896bf93f6cd4ddb0627bbe56f3b26f9023a45": "mkl-dnn: update 0.17.2 bottle.",
+    "961a55b0ae3b2a8b747e3befbbc4422b26f117c8": "mkl-dnn 0.17.2",
+    "7403f012a755b5f39824bd9ae82a105589434bd8": "mkl-dnn: update 0.17.1 bottle.",
+    "32111c78dd96fd0f79b696629c07f47e55f41ab3": "mkl-dnn 0.17.1",
+    "a266871741361ef22b342106d13b85c669ede727": "mkl-dnn: update 0.17 bottle.",
+    "541c47abe88788623e9568c0b8d844b1fdd74071": "mkl-dnn 0.17",
+    "7e7064a1ce14b689ac3c68bfc6da3cef7e4764da": "mkl-dnn: update 0.16 bottle.",
+    "3a1c2b7dabc335e03d2d54c4003b08a2e4032ae0": "mkl-dnn: update 0.16 bottle.",
+    "2714bee2f8d191d8d67c9e3a37d7fc4a0bc13dbd": "mkl-dnn 0.16",
+    "2f4d87534984126abad6ef8171c0b8d72375d084": "mkl-dnn: update 0.15 bottle.",
+    "511c02bc8a475b0b25856b8a24285aa310cb60e0": "mkl-dnn 0.15",
+    "4f86290f02824b40350c9526128c5f53ca32d2ce": "mkl-dnn: update 0.14 bottle.",
+    "d13d29f77cd818a55356af2bcba81dd021557acb": "mkl-dnn 0.14",
+    "f8f0e7250fdafc35b99fe62376dceba0ccbc9509": "mkl-dnn: add 0.13 bottle.",
+    "46398f6922b7d37cbc3db910708f901853a89a63": "mkl-dnn 0.13 (new formula)"
+}

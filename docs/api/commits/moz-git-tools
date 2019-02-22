@@ -1,0 +1,14 @@
+{
+    "32ab596b95256a30cbc38b15682d026890190f1c": "moz-git-tools: fix RuboCop Layout/AlignHash.",
+    "475e620004577127caede248cc56cecb023b06db": "moz-git-tools: fix tag/revision indentation",
+    "7b6b8231da4610c50acf120d34b1de0ac8426f88": "moz-git-tools: update 0.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8fa166b3857d242705f5e225225461372346cc00": "moz-git-tools: update 0.1 bottle.",
+    "a5f162ab67ca70e0f1480079d521f611c90fb77f": "moz-git-tools: update 0.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7600b65226482a51bc550ccb85e8f18595cf1dde": "moz-git-tools: add 0.1 bottle.",
+    "e1e92a807e6b39c958f08fc74780f2ba1a0ca00f": "moz-git-tools 0.1 (import from head-only)"
+}

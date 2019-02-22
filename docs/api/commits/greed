@@ -1,0 +1,11 @@
+{
+    "d19277ebe99c3f66605eef4e27aab79b6c47a885": "greed: update 4.2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "908c824c3ae09ab06ee4868eb60916a7bee950cc": "greed: use assert_predicate",
+    "402f65729b852672527a9ee692d5de4ad987ad1c": "greed: update 4.2 bottle.",
+    "6e080dcadecf9c37872f3fec4328c8110f0b5781": "greed: update 4.2 bottle.",
+    "fc6aa4b49097d887d65a5b39de142d82f354eddc": "greed 4.2",
+    "ac6de9e7e22b2f6868a3fe7943590edca194dee0": "greed: update 4.1 bottle.",
+    "a21a1bd7e63016f8807d3b6b318a796f1e9cd9cb": "greed: import from homebrew/games."
+}

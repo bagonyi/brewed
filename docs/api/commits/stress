@@ -1,0 +1,15 @@
+{
+    "5fb7c16cb49d520c06d38224fd21ba5a71eef411": "stress: remove references to pre-Mavericks.",
+    "1193d81cba61ab4f22abeea4374dd34b7d821b48": "stress: update 1.0.4 bottle.",
+    "cdfb7ed92af61a0345d15438b011a677f8811cf0": "stress: update 1.0.4 bottle.",
+    "ff4492af03e624942893e3abb41045bcf0b84134": "stress: update 1.0.4 bottle.",
+    "27f024ef0f3978861b93c00572cc2a1bb64244df": "stress: use secure urls",
+    "340fc266196b68591e29baf637ed25402c6a6d5a": "stress: update 1.0.4 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "aa767418d77fb08f546d4c527e32738dc49ffe1b": "stress: add 1.0.4 bottle.",
+    "3515b82ce70b576305ca452c17b453b7a64504dc": "stress: update homepage + add test",
+    "5fbd4ee4922e011d1c422b0705c3a272f15878e2": "stress: update urls",
+    "2e3d1e9d9b29997076a810a4a1d6044b7cc77d60": "stress: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5d668b08c99c911f64350d7caa8cbd511334e5a0": "New formula: stress 1.0.4"
+}

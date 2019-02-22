@@ -1,0 +1,10 @@
+{
+    "01102f0640b4d015a03dced8d3d99f9f5d146f39": "fairymax: fix RuboCop Layout/AlignHash.",
+    "528fe61c957948c80936c6bc42f806b1f8f9c29d": "fairymax: fix tag/revision indentation",
+    "a77b484561832f5efdffe9ff4ae0d3ec6749f7fe": "fairymax: update 4.8V bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "b041666825a0ad7f33368fc013f4b5d54748643f": "fairymax: update 4.8V bottle.",
+    "37d1d66cd566a635744df89e74fc6a0a6518c03e": "fairymax: https homepage",
+    "d04e4ac193e45265283b3677a50157098bcffbb4": "fairymax: update 4.8V bottle.",
+    "478e86a425f8b6214e8a46c94a35a3b5347e2aa3": "fairymax: import from homebrew/games."
+}

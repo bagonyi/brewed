@@ -1,0 +1,15 @@
+{
+    "d1357c8734fe1f7cb6d225742c6126805d7fa78e": "fastjar: update 0.94 bottle.",
+    "906f3268193e903f7cab2a0c4ad38d4735570703": "fastjar: update 0.94 bottle.",
+    "d1494894555f35f32efa94e85ba4413b8b997ccb": "fastjar: update 0.94 bottle.",
+    "715dec19a8909d684c9932f311c1ebd0e74e0986": "fastjar: add 0.94 bottle.",
+    "5b907507232c767c70975ce9dfbbfeb7f186b9c2": "fastjar: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "6f3942bd004f2dce8366797959f8473f89f89d21": "fastjar: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "0d2da95007a3c92ef4cc898c35cb92f9ae937bb0": "fastjar: use full path in test",
+    "926f4e36098e7bd44fea5ac3baa00ba4d8ca3615": "New formula: fastjar"
+}

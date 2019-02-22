@@ -1,0 +1,22 @@
+{
+    "b622fdf60ae358afdc71e21519dffdba08d402e4": "ctail: update 0.1.0 bottle.",
+    "96ca9c09f14eb6a2aa02f68971987e14f3255f78": "ctail: update 0.1.0 bottle.",
+    "7e6d7ddf8e36b5f8dc7c63adc9411069dc03282d": "ctail: update 0.1.0 bottle.",
+    "f7365853b16f965cf57ad4adc197379226f110f6": "ctail: add missing dependencies on apr and apr-util (#5550)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "102e7aa628ff691687d9c5c8ac5c297b46723257": "ctail: update 0.1.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "556999d767ee5d10fcbddeb5dd00b03f3ae8da26": "ctail: conflict with byobu added",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a1784b8ffff88b8388036f27159362d7bf222e0b": "ctail: add 0.1.0 bottle.",
+    "344845a98d23931df22d3035ca3ae260e79a36ef": "ctail: moved to github",
+    "ae298c983b98d43da1a249495ccefe39aeb79da9": "ctail: modernize autotools deps",
+    "8248e19d7968d732da2046ce86e5116c04346c4f": "ctail: fix build on 10.9: set libtool tag.",
+    "f38fdb17058fc137775cafb58745ff6ce3119fda": "Add explicit :autoconf deps where missing",
+    "a2dbc590d1e44c38db242488c91516fe57023116": "superenv fix for broken 10.8 apr-1-config",
+    "3c68ccb2580b3f66b954e177630ecf760587c877": "ctail: fix build on ML due to apr-1-config",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "ca0ecf0c1dac0ab5dd13da3a185a23156cd0de5d": "New formula: ctail"
+}

@@ -1,0 +1,14 @@
+{
+    "c7fd91ab6ccb57340f8a939dd30254b5f03419df": "dvdbackup: update 0.4.2 bottle.",
+    "082639c2b592256b9ed99de9c33031205dcfbb70": "dvdbackup: add test",
+    "21f1558cb42a1688ab4b26186e5c97b18c4f00cb": "dvdbackup: update 0.4.2 bottle.",
+    "958f579eeca8f66bba6c067263517e43b28eded5": "dvdbackup: fix audit about sourceforge link",
+    "0bb78bc24d9944ea175309d46dde6ad33ede8551": "dvdbackup: update 0.4.2 bottle.",
+    "9464bd6707e08dff87ae56d7ceb5441da87d3c66": "dvdbackup: add 0.4.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "622b2dbf5da7567a80d7b0263e655b9eb0f6a129": "dvdbackup 0.4.2",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "e03b4c29d8a8baa7bf893a949ee41cd759a07b35": "dvdbackup"
+}

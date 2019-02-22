@@ -1,0 +1,14 @@
+{
+    "95aa67411eca271678052ad87fc2d687a17cf81b": "repl: remove options",
+    "b5011cd3aeff5b7ef0e456d06f303b73f62422db": "repl: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "843063a01e08fa9e7f63966097bd6f81af98b4c2": "repl: test added",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "42d9bc4bef9871a028ee96e8ef64331f0431085e": "repl: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "b3d7fe364e9b4437f92c8dbd026939655a24e113": "repl 1.0.0",
+    "8b275c916af5cf0bce50b45728d29a064fd2bf0d": "Use https for all GitHub URLs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "a481cbb1acfbc51f148954c990dc3c2d95cb1b6b": "repl - use stable version and rlwrap",
+    "8f72c3cf4f70d62a98b70b8897afe358a71b519e": "Add formula for repl (http://github.com/defunkt/repl)."
+}

@@ -1,0 +1,10 @@
+{
+    "454995ed0493eb7dbf41258fe897e74f685097b4": "pinfo: update 0.6.10 bottle.",
+    "a800bd7602f5220105da6b736185fd336366b36f": "pinfo: remove options",
+    "2cb41fb7fa59e79ccf75764a0c4fa00dbd7b6b80": "pinfo: use mirrorservice for primary URL",
+    "40f5f6423b8f5553952752efa29d631c75d63070": "pinfo: update 0.6.10 bottle.",
+    "ae69f4fe5a8d7876a7ac52236ee5fa4738c9ce62": "pinfo: fully scope test system call",
+    "54e5e2ca3447fcd414f19f931da7907ec1501897": "pinfo: update 0.6.10 bottle.",
+    "68e2273698c66df2c0a2618b6935f3849e304345": "pinfo: add 0.6.10 bottle.",
+    "3f588ced380ee2f402703edfc6c571f864187a64": "pinfo 0.6.10 (new formula)"
+}

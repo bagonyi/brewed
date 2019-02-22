@@ -1,0 +1,23 @@
+{
+    "de55e1b650c51da23bfa7fa0e1a1596ef41a1e51": "unac: fix dependency order",
+    "0b86c52a8adb28df19d98a659c88531a7a44b878": "unac: update 1.8.0 bottle.",
+    "a0126d74bb527e04cbb02c34a2a333d8aa72e73c": "unac: update 1.8.0 bottle.",
+    "8afc42636a764b0635d06925012628421745b9fe": "unac: use ENV.deparallelize.",
+    "67f053807a125e7d7b05dda3756689393a82f3c0": "unac: update 1.8.0 bottle.",
+    "7778e51a72b85e4d5a31add8a4dfe058df88d219": "unac: add 1.8.0 bottle.",
+    "7e39bb70f1edbcfe9060bbab0cac2a321e5ace88": "unac: use secure urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "8fac6a0bfe05259b926ec280306f5300d72ba10a": "unac: fix audit warnings",
+    "d527b8ae3b568b6a755c5271c2a44f613eadcb2c": "Remove encoding comments from formula files",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "f9ac194a79a96bf28477d965228365570d854618": "unac: remove old automake hack",
+    "e7797485e82a62c4ab72923358f24dcea9707106": "unac: use checksummed patches",
+    "b64a191539d3035b66ae334fe767e37764916dc7": "unac: use test assertion",
+    "67949d44c0e40c94917de432e16f40bfa5a8148e": "unac: improve test",
+    "eef05263c7d45eea75733b911b43a8e7828aaaff": "unac: needs newer autotools",
+    "7261a67835f3273e98466b6ab574ed8a5c66c87d": "unac: look for iconv_open",
+    "904dae3fd8c3c00825b62a635ceda46db2a42bde": "Normalize magic encoding comments",
+    "3b35c0be7d5fc4e9216471996abbf233fa5eaf19": "unac: fix patch for 10.6",
+    "3c33f8a5ceefeb466128f1594a741178032f0607": "unac 1.8.0"
+}

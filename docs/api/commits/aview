@@ -1,0 +1,21 @@
+{
+    "b1ccd09e570663d0914271cd2d1dd7a0082c2bba": "aview: update 1.3.0rc1 bottle.",
+    "70519eaa77e33ba14a84c51e8fec9da53ef04da1": "aview: add test",
+    "322608db4ec50ba63e1542fefcd7f64061a4ab30": "aview: update 1.3.0rc1 bottle.",
+    "fc6625dfa19b5404c077969b66e4144658305089": "aview: fix audit",
+    "ca349550adee1d6f96f6ee43be0fc2d26024dc92": "aview: update 1.3.0rc1 bottle.",
+    "b0aa2c2a0f2cfd8421412be3aee3da9daf0176f8": "aview: add 1.3.0rc1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9e9fadfa2f688732a594a10422a847734e6fa033": "aview: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "e476a36da09487de1a4eec938c001a497d51188e": "aview: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4242df3c34b383593174f1ba1e6c226ef1ed5ff6": "aview: doesn't depend on X11.",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "67722e2ab99ea49e9129975a888ab13c7519fbf5": "Fix aview compile; Fixes Homebrew/homebrew#10579",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "aa1df559d2f41164942f922fe43d85610dd97076": "Normalize SourceForge urls",
+    "70f499fdb46dbab3109b242c084480dd9a46e3ad": "Fix mandir for aview",
+    "29c3e9dd5d6ad9be31df65c6b2eec3a5631858a8": "Added new formula for aview 1.3.0rc1."
+}

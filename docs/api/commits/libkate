@@ -1,0 +1,21 @@
+{
+    "5319d7d109c792e3ca2a8fbeb70a66614e19f537": "libkate: remove options",
+    "5032c647c4c8fbecced462407857040d95cc6eba": "libkate: update 0.4.1_1 bottle.",
+    "969d4682baf4b36a3c87c85a6254edc43b890cfb": "libkate: update 0.4.1_1 bottle.",
+    "14baed0aca47673012361545125824e68006c871": "libkate: update 0.4.1_1 bottle.",
+    "2fc0d77ad08cdd8530a6860e929b3f8f5ab01b04": "libkate: migrate to archive URL",
+    "5a40eccd1ef8bba24aa98dadae981a7b46902a9e": "libkate: update 0.4.1_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "90de54292d784a5828f5eee660523ff9e31cdf50": "libkate: options before dependencies",
+    "ef4b9c52f913dd658c2bea70f10449a3d1435279": "libkate: update 0.4.1_1 bottle.",
+    "df57df966b8c07b66e02ce5bd4aa45d6fe546b77": "libkate: dependency fixes",
+    "6144cd9cbf26d65af8fbee4365a62414253107b5": "libkate: update 0.4.1_1 bottle.",
+    "1f6a485f90e958935b1ab509d93a2ab74b47c427": "libkate: add 0.4.1_1 bottle.",
+    "0aadcff34609a2b1f452dd5ef6bc6c31ec8a2a24": "Update revisions on libpng dependents",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "64afeec6d43528a235ff61d2a627a829f089cac1": "Use new fails_with DSL syntax",
+    "387b45d9c6bf65cac311c04d7aef01550f96c1a6": "New formula: libkate 0.4.1"
+}

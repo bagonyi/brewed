@@ -1,0 +1,19 @@
+{
+    "a7c7227b9ce270b84fc9f6d9f3d7339a16737b53": "prips: update 1.1.0 bottle.",
+    "d569ff987db6e75a5c410ea0755a745416f27797": "prips 1.1.0",
+    "8fa3f043a1c026178eb48da6359678de1fa9f9e1": "prips: update 1.0.2 bottle.",
+    "8bd7741f2a0662670226c91e65b3a87a86a4509a": "prips: update 1.0.2 bottle.",
+    "c9e79b920c808cfd529a22fbf0dca432f8838fc6": "prips 1.0.2",
+    "031d31ed81f8d9eed1f6d22e6decfe9cdbc7a5a0": "prips: update 1.0.1 bottle.",
+    "3514be2384b9feefa97c8f9b704c1478f750dcfd": "prips: update 1.0.1 bottle.",
+    "5d87d96df74835fa5a01e8afa4e4cdb396f97cc8": "prips 1.0.1",
+    "ae45cedbd1a3b1c8fd4240959a73a52d95783148": "prips: update 1.0.0 bottle.",
+    "def4522f5e9bc8b72c8d390575d334b0c5947db2": "prips: use secure urls",
+    "2a8c0e497868fa21188fd18e995d110b0f3e85cc": "prips: update 1.0.0 bottle.",
+    "ed5307bc31ce2ad60ca3e86fb5a4d0c3298c8668": "prips 1.0.0",
+    "241ce2725fd156cf7d4fa40cc5069a8f624138b0": "prips: add 0.9.9 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a73a881d48cb9458088c7bcf641dd9d79fd8ef0b": "prips: modernize, use sha256",
+    "743602272739a06b7a021c5bce5c08d8e277f82d": "prips: use test assertion",
+    "f536da9310a3bed1932db61985a41bad466ccd7a": "New Formula: prips"
+}

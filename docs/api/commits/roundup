@@ -1,0 +1,17 @@
+{
+    "c13ea2d7cc8499c641870864d8275154f7ab6d29": "roundup: update 0.0.6 bottle.",
+    "4a8bc75e639c3eb3bfad7fe21f1d0fde59728019": "roundup: update 0.0.6 bottle.",
+    "ce04ca9ec14a96fd2420c6bafb88eb46db9786ee": "roundup: update 0.0.6 bottle.",
+    "9e32ab70e63c75aee3fceae6da26542bc51582b1": "roundup: update 0.0.6 bottle.",
+    "d40092846b714c3c215753f3b43c53e2d799b9c8": "roundup 0.0.6",
+    "c32cf9c01a84b60bd58b267788892992e9e9bae2": "roundup: add 0.0.5 bottle.",
+    "729608d318fe792d01cd9fe1886bfc9bfdc380b2": "roundup: fix incorrect formula description",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "be2eaa3dea80f5c2aeabff1c2b037487696d1f42": "Update github URLs",
+    "c8d2d41c1d0c3f7901ccf018f2956240bfd199e5": "Change github /tarball/ URLs to /archive/ for formulae L-Z",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "3d8c7562822eea0d781702b136085d21cc2d7ff5": "roundup: style nits",
+    "505ebb8fd8357e200f3f57839fddb90376340f81": "Roundup 0.0.5"
+}

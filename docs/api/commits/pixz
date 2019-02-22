@@ -1,0 +1,18 @@
+{
+    "26aaa8b7ca2de727372ff40ddb33ddd0a21f05a1": "pixz: update 1.0.6_1 bottle.",
+    "f7088e7712d9fc4b03e082903e274b2b69a952bf": "pixz: remove options",
+    "08e9da8290024985c20a855515b75fb918bce387": "pixz: update 1.0.6 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "a22db6b4a31c9a9ac9be6432caa1f13f94537d7a": "pixz: update 1.0.6 bottle.",
+    "9889eb68e9bab596a637893cc48ad2a60d523bcc": "pixz: update 1.0.6 bottle.",
+    "46fc58c9eaebb01d5e5fac89998fe3222e38f695": "pixz: update 1.0.6 bottle.",
+    "61e5b51b809000c9bbdafc14ceb6c8998466bf49": "pixz 1.0.6",
+    "e83bc9e8e0d9d96809bfa3782210e241f6feec19": "pixz: add 1.0.4 bottle.",
+    "354601fe7ade224e335534b7a69eda430267fe13": "pixz 1.0.4",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b71f7cf5abf430e402ac27f6becab884ad794f54": "Prefer etc shorthand",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "a32a184f6bb7f26fe6f02671bae10fca0ba90cb8": "New formula: pixz"
+}

@@ -1,0 +1,21 @@
+{
+    "64a234137361c56bd631f09aac2dcac157f1ef3b": "xsd: remove checks for old compilers.",
+    "e9ad81258824e1d9d8df3e61861d58cb142c36a2": "xsd: fix component order",
+    "5255d77a2c4dfbc69f32b71ca5064aaab1813a7c": "xsd: fix typo",
+    "365e654826726c62190498517ffd0eee6af4dcda": "xsd: fix test linking",
+    "6a19a39c80763844961780c28971683d6f1f8d91": "xsd: update 4.0.0_1 bottle.",
+    "a9076b6228fdac1748da4ae5e0b10d1e2fd4ea6e": "xsd: secure url(s)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "44497addb1fd12aa2c30f3426b7dd2020877f87c": "xsd: update 4.0.0_1 bottle.",
+    "506d3a741314adbb9b45d96a6edec57dd9a40136": "xsd: revision for xerces-c",
+    "83953bcd94a85c1e324d4d620aee46f104308f60": "xsd: use assert_predicate instead of File.exist?",
+    "0c996453ed89e19aa7ea25e549f01dcf9964f67b": "xsd: update 4.0.0 bottle.",
+    "c848364153eae0f02773df6c538a6d37e2686fdc": "xsd: update 4.0.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "91625f2fb510dd76b4bc71bdfc5eb493e1175e59": "xsd: update 4.0.0 bottle.",
+    "40eed5be6db9c5ba0732307b795fa181987a3b7a": "xsd: conflicts with mono",
+    "061ba71d87b4d98bdd6fe71d6f1e41a25e3af464": "xsd: add 4.0.0 bottle.",
+    "aae79742a2a1a5e7492f659795a6249751f7986a": "xsd 4.0.0 (new formula)"
+}

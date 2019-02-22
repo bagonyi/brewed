@@ -1,0 +1,16 @@
+{
+    "1515c464e36faa5f38f1ca12ba6ef5b0120846a3": "c-kermit: update 9.0.302 bottle.",
+    "949939d2e9e81e70f3a52d328374d4b5337e2117": "c-kermit: update 9.0.302 bottle.",
+    "5636db5090f692fd7971c57525c8a6859bb3d29b": "c-kermit: update 9.0.302 bottle.",
+    "7ef44ea75e0ff2626dcec24314d8cf8d3183d994": "c-kermit: fix test, fix code style issues (#3034)",
+    "37782104c5ac7d7ec665d9e8580d22cbdc001bad": "c-kermit: update 9.0.302 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "dc45141c0a392c5d4f55256503f42e1718f7efba": "c-kermit: add 9.0.302 bottle.",
+    "bc814d03e8fa968c0f1adc64b22135435b4ddcd3": "c-kermit: test added",
+    "0e3b1ed4ef986ff5041ed37c5728a20c3c571df3": "c-kermit: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "53572eb663fb21fb0bb26827379add4996bfb655": "c-kermit 9.0.302",
+    "66b0a340d080a7e112d616b8bcd46ff7789e4506": "c-kermit 9.0",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1805e81cef9a455ac4f863e43b4473bcfe015852": "Renamed kermit.rb to c-kermit.rb as per https://github.com/mxcl/homebrew/issues#issue/2401/comment/652976"
+}

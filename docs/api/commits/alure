@@ -1,0 +1,22 @@
+{
+    "8ce11b39ce7e0a4398e8403757e4211367f301b1": "alure: restore live urls (from archive.org)",
+    "85d5fc47179edc83ee2a1a2e74497d8099b37740": "alure: fix url(s)",
+    "098183bd39901b9ad148a0dd965c0337f4a3e76f": "alure: fix dependency order",
+    "ea23afe033022d24965eb939ede3a1a9c6b50d3e": "alure: update 1.2 bottle.",
+    "27bb3d0c099d1dd4336aca0fcd66889f9f296555": "alure: update 1.2 bottle.",
+    "5cb7151298029ccc30654dab61896ee7e32d7231": "alure: remove options",
+    "407fc53537a50d4a2f9e4327fed39ba0a67031ce": "alure: update 1.2 bottle.",
+    "b2e05a4309e4375723b12b2b1b05a1833d4e5881": "alure: patch for 10.13",
+    "29aab01417d35a97f4d830c1cc5e694c24bc6586": "alure: add test",
+    "e09f40d334931fb56f2334d6445cae3800773ce3": "alure: update 1.2 bottle.",
+    "fd53a5393b33bf9a6292a95555c9dbc649d1a5eb": "alure: nit",
+    "2de7a2154419fb9b0ed9be54feb92f185973465f": "alure: add 1.2 bottle.",
+    "680e8ff5cdc29eb05d2d73a08d8b0bf48403d327": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "168b5f6a233a80115959f12daa403258f36a4d14": "alure: don't use libvorbis when it's not requested",
+    "e17add5db81c9d1a80ae9d80747b6cca84299aa8": "alure: add missing pkg-config dep",
+    "9a0119dcf44c6530e9f7ed2a5edbe32deb98d087": "Update docs, comment mxcl/homebrew refs.",
+    "20b097df87d836c43233f4dba1a62d918e0514cc": "alure: fix audit warning",
+    "6726276695bc138fa2b6413664e5eb1fc92ea008": "ALURE 1.2"
+}

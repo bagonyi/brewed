@@ -1,0 +1,11 @@
+{
+    "82bb75502fa479a0f03cfe4fe0c105cb623d4c67": "pakchois: update 0.4 bottle.",
+    "e313311341d59d7cc33e655d8fcc2fb6920ab3ad": "pakchois: secure/fix url(s)",
+    "015cbf554b1aaf62da65726eccd4f701fb6c3565": "pakchois: update 0.4 bottle.",
+    "c4fa2042604b5e8d4104bf9199a041a05595f2f0": "pakchois: update 0.4 bottle.",
+    "43685b258f6879abaa15178b1b2b79a16cc7a05a": "pakchois: add 0.4 bottle.",
+    "c7363c3eaa3198600f834e8d789e3444251a4577": "pakchois: audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "71fbb582c50e3198202a20512a3866c2e8450462": "pakchois 0.4"
+}

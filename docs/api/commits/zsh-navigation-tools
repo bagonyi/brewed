@@ -1,0 +1,23 @@
+{
+    "6a9f047bb3e875168a97a6e227296648e17eb0fd": "zsh-navigation-tools: update 2.2.7 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "310268e2f2c95f9a48e7b541a36333576a99747c": "zsh-navigation-tools: update 2.2.7 bottle.",
+    "f507a9ee08c88368b1a0c278396e2b9d955b39f3": "zsh-navigation-tools: update 2.2.7 bottle.",
+    "8fd965117d226facb409241900c3e4b837affe2a": "zsh-navigation-tools 2.2.7",
+    "7c6de924e0c012e7fc7c6f70f7bc140efdf66f52": "zsh-navigation-tools: update 2.2.4 bottle.",
+    "238d0637b3a7f83241e100393b998b862e273084": "zsh-navigation-tools 2.2.4",
+    "6f7184faf4243f99e466de0c776f50ebf139ab70": "zsh-navigation-tools: update 2.2.2 bottle.",
+    "760de2e4828f688e769a806f9a81578205a60560": "zsh-navigation-tools 2.2.2",
+    "ac37924dedab7338a3b7e5e8e3e0c919b328aaf2": "zsh-navigation-tools: update 2.2.1 bottle.",
+    "644e5d2bacc6b0abe9491a67cf75f53c838a94a2": "zsh-navigation-tools: update 2.2.1 bottle.",
+    "ffe2bc48beceaaacd8af3952e5f527faf848aa3b": "zsh-navigation-tools 2.2.1",
+    "780fd13b8c1ce38a068e1db242dfe26e9df11daf": "zsh-navigation-tools: update 2.1.16 bottle.",
+    "11e9a51a2a796ec297f11149d342b2b28f48be84": "zsh-navigation-tools 2.1.16",
+    "4733c5fb52488daf0146d6a40187bfe89479439e": "zsh-navigation-tools: update 2.1.11 bottle.",
+    "1cb6f2619b6e77b992ed24e9570a521c74af9fe7": "zsh-navigation-tools 2.1.11",
+    "43dc7019d9f734d5e2acb35bb3ebbf7a7af9044a": "zsh-navigation-tools: update 2.1.4 bottle.",
+    "b6df7cc9e76736e31756125050a67ebc6417bb72": "zsh-navigation-tools 2.1.4",
+    "ac6ff3a2c459ce577f46ffe51fa1fe401b38644e": "zsh-navigation-tools: add 2.0.5 bottle.",
+    "7e265f9e4038c44439b4cf4f2701a9a4a1b622dc": "zsh-navigation-tools 2.0.5 (new formula)"
+}

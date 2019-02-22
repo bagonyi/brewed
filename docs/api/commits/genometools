@@ -1,0 +1,14 @@
+{
+    "47c796d8ae9d2959cedc7671318162864499aab6": "genometools: update 1.5.10_2 bottle.",
+    "cb082a1660d58ecafcc952571f340cca0d6236f6": "genometools: move to Python 3",
+    "1ce0f84173c975c252b2de93568a29cf5f0439cd": "genometools: update 1.5.10_1 bottle.",
+    "f931f16206e7462dfd658df2c57334f878bdc212": "genometools: add conflict with libslax",
+    "e2e89bb8a091061c4533e14636654df288dd1367": "genometools: depend on python@2",
+    "45df4533d743d34920723db05874a604349c6a5f": "genometools: update 1.5.10_1 bottle.",
+    "52a74c6b1cf2fce93cd2c392997b133595f4be9e": "genometools: revision to fix install receipt",
+    "a210f95539710b1686f62f0bb7e8a07acb9ae408": "genometools: fix test",
+    "3adc93a71b24828a597d3a3a3b0f410895c9b62c": "genometools: rename python@2 dependency",
+    "2862df6a64c38df761bd816a81fb3b0d91a7d8b3": "genometools: depend on python instead of :python",
+    "a90b13b02f17d69e1a8ad3d2e272366977e7708e": "genometools: add 1.5.10 bottle.",
+    "ad85126d58326669d8ff0305991c5cb072a8db5f": "genometools: import from homebrew/science"
+}

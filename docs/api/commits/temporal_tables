@@ -1,0 +1,17 @@
+{
+    "233708791bee22cc9184f4da17ddf1e5abe8282f": "temporal_tables: update 1.2.0_1 bottle.",
+    "94ba3941eb12b07a4f5e26eeb462dadde01338f0": "temporal_tables: revision for postgresql and patch",
+    "a128c6050bd609ae90ff7fc4d101b62c89bc715f": "temporal_tables: update 1.2.0 bottle.",
+    "4e806fb1c4f954fcb92329a482ff17245cca9cc6": "temporal_tables: update 1.2.0 bottle.",
+    "de9a4d2756550169e8dd4e9a8cf6b2b55280ff2e": "temporal_tables 1.2.0",
+    "ee664a8dcdadc36f2e693a103ac02d0fe3ff9785": "temporal_tables: update 1.1.1_1 bottle.",
+    "c403fa997487c884891a71135d3dbb13542e3dad": "temporal_tables: revision for postgresql",
+    "ca1033c202970cc02aaa998bf5a789afd0748e54": "temporal_tables: update 1.1.1 bottle.",
+    "9acce6dd78c3e459e9e615d4ea235ad89085f52d": "temporal_tables: HTTPS homepage",
+    "7d16063eb2238d2ab66c2963d0530a3ceb105f33": "temporal_tables: update 1.1.1 bottle.",
+    "32b11ee83cc7849f9cd1e2a4db5e2f46294c5d8b": "temporal_tables 1.1.1",
+    "09d4d73f434439ae0abfa9bcaa570827c685654e": "temporal_tables: update 1.1.0_1 bottle.",
+    "3ee007cd261330d64e27b90426071e48be141707": "temporal_tables: revision for postgresql",
+    "f276ee84236015090cad9469fbc55a9b0f267fac": "temporal_tables: add 1.1.0 bottle.",
+    "30fa5a0d446982d0dc63e3e64334e448e270e714": "temporal_tables 1.1.0 (new formula)"
+}

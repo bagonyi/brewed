@@ -1,0 +1,16 @@
+{
+    "c968459e8515144dbc187795325cccc99425837e": "apache-opennlp 1.9.1 (#36752)",
+    "b20131e0abd571e18eb7c9104552ec66f42b5adf": "apache-opennlp 1.9.0 (#29739)",
+    "eb0b1797166b6bfe90e8aba014033b11549776a6": "apache-opennlp 1.8.4 (#22139)",
+    "e7646b8e3539a99fefb2c65d19d2612b09558044": "apache-opennlp 1.8.3 (#19943)",
+    "cad443fe1dc40ada980c646567b82a0abd1c4b00": "apache-opennlp 1.8.2",
+    "bd183da98ef5b50be2dad791ccde11194ea4f3dd": "apache-opennlp 1.8.1 (#17606)",
+    "186137ef038a9e1016eb7d0e75c7771f946d04c4": "apache-opennlp: fix mirror (#11650)",
+    "b9d11c8f308f02f942d256965db86d65b92ef1c1": "apache-opennlp: bottle unneeded",
+    "d76de63c9ce2667799c0c6ab3091ae35b8ed5a0d": "apache-opennlp 1.6.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "95394da1373e39d674568e9cc6d00db42f1ee21b": "apache-opennlp: use apache mirror geolocation",
+    "30aae6985378b86a282f51c7e50c14f6a79c0833": "apache-opennlp: fix download mirror",
+    "61a1f2c961ef2d6cab2da85ec27bea47721fc25e": "apache-opennlp 1.5.3"
+}

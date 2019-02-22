@@ -1,0 +1,14 @@
+{
+    "2f904535729c954def135b73f052aadcdcc0711b": "libsmf: update 1.3 bottle.",
+    "fa422499834b3d02455baa185208725c1aa5ac00": "libsmf: update 1.3 bottle.",
+    "014caa261626f8f2aa023d7cd299b898c4e779df": "libsmf: update 1.3 bottle.",
+    "9545a58cbdb33e6ebd17cb1f4d830afa5fdc5920": "libsmf: update 1.3 bottle.",
+    "58fe0a9c1cc24217cc67dcfac6ed13e2f0654407": "libsmf: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5f87d5d80150d24d8b56cfe3d227dcf18e4c0bff": "libsmf: update 1.3 bottle.",
+    "a3b2ef1d8af1f07df68d8a0c98ae7accc86ca940": "libsmf: add 1.3 bottle.",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "f3fab613e52afd79dd1f155d45e51477204aeae2": "libsmf: add pkg-config dep",
+    "88ea672fc860879a8e7fab6cfadfb77a7cb206ec": "libsmf 1.3"
+}

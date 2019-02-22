@@ -1,0 +1,23 @@
+{
+    "9db7e55c65ff46b474cfcbef8e57f780ea0c0662": "libestr: update 0.1.10 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a77b42f8550aa719423fc4ebbd3b5febfbe567d6": "libestr: update 0.1.10 bottle.",
+    "052deb6776b626d6c9feb4d7e78a89945983fee8": "libestr: drop universal",
+    "a3b3d3793d32161f6031459474fc189f84ece796": "libestr: update 0.1.10 bottle.",
+    "53cf40f032152adebff5845e94b1bfe44b08e3c7": "libestr: update 0.1.10 bottle.",
+    "4b6cbb899cac6177e6a62a1031241c52741db9c0": "libestr 0.1.10",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b5bf4c225b082c1967596b980e2d86fdee9696e3": "libestr: update 0.1.9 bottle.",
+    "803d5f5fd05f893d65db241b9ec940a2b6e7d84f": "libestr: update 0.1.9 bottle.",
+    "e64c840ac0225d0a74748dede492f62d3ff9cfdf": "libestr 0.1.9",
+    "9ca57b94abfd7661270ea12adeabf23b8f4934eb": "libestr: add 0.1.8 bottle.",
+    "b914b946487d59a32998953b0995ae1ef0c54093": "libestr 0.1.8",
+    "a06db9cb5be4a83d950239dd3d95cf97099a9d20": "rsyslog 5.10.1",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "149ba166ab8050e65499ab7888fadb3a5bbe5db9": "rsyslog: use options DSL",
+    "acbe0aa8e3f1fa8645ca320ac6bdb3ff672b4b7d": "rsyslog: simplify environment setup",
+    "19a21ab313efeab971702ab8803df07a925b40a2": "rsyslog: remove trailing whitespace",
+    "89a199c089ad2417f301bbc38fc51bde8dbe33f3": "rsyslog 5.8.0"
+}

@@ -1,0 +1,17 @@
+{
+    "626258cff748eb2ce6bf8b4aad6681199d9d1169": "dsd: fix dependency order",
+    "d5af43b1c623be4b1d6523748935427b23e08613": "dsd: update 1.6.0 bottle.",
+    "4ddf6e91dd4ec0d1d578e0d3683844d917f6c4eb": "dsd: update 1.6.0 bottle.",
+    "1c47a0463a87a651317fef59c05b1f22de82ced0": "dsd: use full_index patch",
+    "2e5b788b94d967e2b6bc9e3718f0c208094a8ac9": "dsd: update 1.6.0 bottle.",
+    "16e66768a51a18fe4d9e9cd81de730a5557237e7": "dsd: vendor mbelib 1.2.5",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "fa296eb454e507f4d74a8af61851f1d844f33580": "dsd: don't patch head",
+    "cee0dbc24bb311b19593438d5451e2c64fd0ad9c": "dsd: use secure homepage url",
+    "8668f1498bb2ac49c838629b36c84ea31126805a": "dsd: update 1.6.0 bottle.",
+    "4f38030cf32ad7154f8e68239873a8eb32daed6b": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f5af694b7562577c43c1d8a1d374d29a8ff5c7e8": "dsd: add 1.6.0 bottle.",
+    "7b36e18f018eda27201b207c4a6284fdadf11bf1": "New formula: dsd 1.6"
+}

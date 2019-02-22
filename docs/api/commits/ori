@@ -1,0 +1,21 @@
+{
+    "858037990d751cd5faa03317bd6f8abbaae2e20c": "ori: replace deprecated scons call.",
+    "f7cbbf8fb7a99e31886067dfeb8a4de39df0e60f": "ori: update 0.8.1_1 bottle.",
+    "2c20a235b8b1228ccbc89b7a5fcad602e36dba7d": "ori: remove SCons 3.0 build fix",
+    "d5547cbb7394be3d31c51b9b8fb2d306b0c65413": "ori: update 0.8.1_1 bottle.",
+    "72f8c2bb628f30df99ff579bebf94218f94fa216": "ori: use 2to3- instead of 2to3",
+    "5fe855f23fdbfcb9b12a735fec0bc29084962d98": "ori: update 0.8.1_1 bottle.",
+    "199f6a3f00258652f700f782fe475ca04271ebd7": "ori: fix build with SCons 3.0 and depend on boost@1.60",
+    "a5da6c3db10bf9c67484d2a41cd5b69c74c3d982": "ori: add 0.8.1_1 bottle.",
+    "6effb2a7d97c11b848d094a7821550d74c5e6134": "ori: import from homebrew/fuse.",
+    "89f2f2ede93a265b94005aa51b7d31095a2c8257": "fuse: migrate mandatory fuse dependency formulae",
+    "8ea40826b21dff0e503c2ada8f7d828016432c36": "use new :osxfuse symbolic dependency",
+    "fd132bd0836e0fba26322e76d65922753a7e6668": "ori: update 0.8.1_1 bottle.",
+    "dac6576c7d47192c1b04a95794fdd5c5a127109d": "ori: use double-quotes.",
+    "fd5dde37d6aca9e98eed2b0ab6a8447d099a777e": "ori: add 0.8.1_1 bottle.",
+    "a2bafa27f811db0d4537c9b0e0275adff9aa9bb6": "openssl: disable SSLv2 support.",
+    "955b4a12263c654fbc7ae8d4404e3547e93cdb9c": "ori: use scons helper",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "b2c18a807cac6fda09a9c7165bf734d222f30bc3": "ori 0.8.1",
+    "a7e88db61ec10e92935bc1e365829743dc1da47b": "Ori 0.8"
+}

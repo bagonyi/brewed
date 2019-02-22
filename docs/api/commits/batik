@@ -1,0 +1,11 @@
+{
+    "8669eacc15dac0be77abc64a1446f69ad8668302": "batik 1.10 (#28365)",
+    "c1b829f4e31955bc8c9e19227ab7a41e92ab9b77": "batik 1.9",
+    "70ebd6278e2d21f0ab7d19337f1cf50b86207aca": "batik: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e298c4350fafb55e082019464d2f7b70aaa4d8fc": "batik 1.8",
+    "42ff4449558c6c72466b11f5d5494e20c06721be": "batik: use https url",
+    "1d2f92485934517d7feb63593e352048308e9c36": "batik: fix moved URL.",
+    "159490986453b996c83ef477dd207ec8683b948f": "batik: add wrapper for ttf2svg.",
+    "29aedcc39905b31422d0cbfef9c7a5ae1805a102": "batik 1.7"
+}

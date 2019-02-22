@@ -1,0 +1,16 @@
+{
+    "e3bd4c19a72526fed5713f4e8c1b8bc55ee8463e": "wmctrl: fix dependency order",
+    "f1964b33a1e716d26079c0b0d9a5dafbcfa46846": "wmctrl: update 1.07 bottle.",
+    "a126cef472b1ac27cf63508ce0e51c16d78b9037": "wmctrl: secure url(s)",
+    "e405fde8c92d68f9afbd90d1326433fdfcd40a9c": "wmctrl: update 1.07 bottle.",
+    "8cd78c44cfec81d74d74bc799f5af5fa097b55a6": "wmctrl: https in comment",
+    "03d438af513a49b13587b39cf9b190f33f7332d8": "wmctrl: add 1.07 bottle.",
+    "e96873902dfcf34748c11edb39338a65a1f20fb3": "wmctrl: import from homebrew/x11.",
+    "ee7405d33d344139bb720d53e775ed609cb5ea2b": "Migrate some formula with hard-X11 dependencies.",
+    "cdc89729b2a6b62c62b21521db986fdb81a90122": "wmctrl: remove dead link",
+    "4b36e99783abbbad28ef679db4c004bc6a1590d0": "wmctrl: use patch DSL",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7d34c0c0dc6edbee267445ce00844c8af7447f70": "wmctrl: Patch for 64-bit arch support",
+    "d6e824428787a55259d46fbae4e2104b822ee45c": "Update formulae for XQuartz compatibility",
+    "a89c491610622063f575be85e6382b3d385eafe5": "wmctrl 1.07"
+}

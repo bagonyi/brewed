@@ -1,0 +1,19 @@
+{
+    "0f155e142827ac9a3ee7ea4664579722a7b92411": "lzop: update 1.04 bottle.",
+    "330d2a10ab81fb0b3c26f3ada9c81af828c3c28f": "lzop: use assert_predicate instead of File.exist?",
+    "35790788346f7cff0a4f54dcccde60b13bf40661": "lzop: update 1.04 bottle.",
+    "21c093791672be265f1ea8a4edccbd28bd3c1245": "lzop: update 1.04 bottle.",
+    "2d602ff9be510d5a3475119dd1953b3499096248": "lzop 1.04",
+    "62a744ed561fc70d21112f47b90d6287ef18155b": "lzop: update 1.03 bottle.",
+    "f0a3f997054ac9b560eb343ad15d962e63ef7fb0": "lzop: use secure urls",
+    "64cc303aa112bb6f28b8c168d1a9429d0bcc6dec": "lzop: update 1.03 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "758c69be84dd3890a7c81a9e47c2772bc3f60d27": "lzop: add 1.03 bottle.",
+    "8b52ab36c185badcf03e83590b969efa1f4df372": "lzop: test added",
+    "beed40c8b0db0ed8c9b55c61ecb2ce9c2273dd8f": "lzop: style nits",
+    "d013974d718b02dee915082933acd48a51708a0d": "lzop 1.03",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "3ce2fa0d871bd457e727a9b845fafbe5728e1772": "Added lzop formula",
+    "158261caae5b5ee05d43cda8603e4fe0a50ced48": "Fix mandir for rsnapshot",
+    "930c5d7eab104312fb1cb7065d4272dc148f8a72": "New formula for rsnapshot"
+}

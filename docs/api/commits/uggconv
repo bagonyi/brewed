@@ -1,0 +1,9 @@
+{
+    "9691aa0439216f283905b5ea2e313add4d4a1e53": "uggconv: update 1.0 bottle.",
+    "4e0d5cef08684bbc8d6abc8d35f360141d16b7f1": "uggconv: update 1.0 bottle.",
+    "4db5ea3cb20f8de2943a28b45a237dc9e3d12dd7": "uggconv: secure url(s)",
+    "e1b165964feea44da5119b2f8346c2887a82f889": "uggconv: add 1.0 bottle.",
+    "4358c67efd45f8475361041b0197dd740cefbadd": "uggconv: import from homebrew/games.",
+    "939da08319d00abffb5fa1afebbb1abcfacac147": "Relocate game formulae to homebrew-games",
+    "ece2641dd52429be833b9bf7e36028ade0ed934b": "New formula: UGGCONV (Universal Game Genie Code Convertor)"
+}

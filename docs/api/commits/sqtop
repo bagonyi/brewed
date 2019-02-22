@@ -1,0 +1,13 @@
+{
+    "01119faefa9762e61a4233a570a30588a9d18b47": "sqtop: remove references to pre-Mavericks.",
+    "9e7f8a637e6c594984cb921783a273c21d25741f": "sqtop: update 2015-02-08 bottle.",
+    "46f6e0bc05f7a1c9360159e0da7f1632620fd590": "sqtop: update 2015-02-08 bottle.",
+    "67151f50ffcae0ba9a8adbb1c69e5aff61e07e8b": "sqtop: update 2015-02-08 bottle.",
+    "4c31f8c5328339507f0a148ce46f326d78b8fa87": "sqtop: audit fixes (#3979)",
+    "e0202da1e0a5b11404d7bdc849a4e51572ca0ce2": "sqtop: update 2015-02-08 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b532bedc837a63eec33617e237d584c7691aaf87": "sqtop: add 2015-02-08 bottle.",
+    "5be41ce57b1992c64c5b02957517cb21e6392f4e": "sqtop 2015-02-08 (new formula)"
+}

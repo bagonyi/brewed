@@ -1,0 +1,14 @@
+{
+    "70fd89399014addc9f1266230a93837122360b03": "mpack: update 1.6 bottle.",
+    "b6f9fe7d16bc36f620e42b9558220454bf8173e8": "mpack: update 1.6 bottle.",
+    "f81085966a4ded26d354fe376c2a1b12560e08f8": "mpack: update 1.6 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "b1ad531bfe0804aa6e0a10cf4bc06538aef94f93": "mpack: add 1.6 bottle.",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f85203b2e6b04af6f4fbf43467a1d04f38619495": "mpack: use checksummed patches",
+    "83d6245f8a92ecfeccc46cac9099198460cd226d": "mpack: fix compilation with clang",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "270ccf42b29f39559b0a85926b799feca10f010a": "Added mpack"
+}

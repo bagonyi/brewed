@@ -1,0 +1,11 @@
+{
+    "8f5ee42d399c1a669409a1092d7ee4f8ad88c176": "qdae: fix dependency order",
+    "6eec3172fe9dddad24fe2877fd000d35b83949df": "qdae: update 0.0.10 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "6d21d0ad42105c7adbca5b601ad97976fa208348": "qdae: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "18ddc847a46e808d1f00053d13e9e6bd7793a305": "qdae: use assert_predicate",
+    "f53e6487b9e4e9e901ddf888ab0ca5bfba6c2f80": "qdae: update 0.0.10 bottle.",
+    "4954e4f9ad88de23a797ebf87e055e46fcfe0186": "qdae: update 0.0.10 bottle.",
+    "9b4e83096c4257a81a19404f6e8979a577161403": "qdae: import from homebrew/games."
+}

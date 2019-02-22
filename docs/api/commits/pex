@@ -1,0 +1,18 @@
+{
+    "f0e746589209edb4eebff4644af94417ada336bf": "pex: update 1.20140409_3 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "8f18e9d888a6db5c1ed28fcb3b97c88d74b28fe4": "pex: update 1.20140409_3 bottle.",
+    "5744cccb1226244949c366513b062d229c4cceac": "pex: depend on postgresql instead of :postgresql",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "959c2ad83ad6e5bb261bc7b1cc2006b1560e656a": "pex: update 1.20140409_2 bottle.",
+    "e97c9c309eb40e1c59787d79095130739eb990c9": "pex: update 1.20140409_2 bottle.",
+    "13e5d51bef2a5ed76e3f5c12c22a7f474e723443": "pex: revision for postgresql",
+    "6bd984f2dea856af37827057d52d7b6f5782eb77": "pex: update 1.20140409_1 bottle.",
+    "e1d4e952b97f6f4bf811698f9cb0fb4d4341fb8f": "pex: revision for postgres 9.6",
+    "da22a95696e1f8d5f4a4d7997478e13887dfdf87": "pex: update 1.20140409 bottle.",
+    "2daadb60ccd62da31c26651ddcb6c8a7058090fe": "pex: drop unneeded regex",
+    "c3b1e5428fae5fcfd1130451dd93418d9496ca41": "pex: add 1.20140409 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4c1f095c2e3068ff4faeb6e3637bfe87b400aaf3": "pex 1.20140409"
+}

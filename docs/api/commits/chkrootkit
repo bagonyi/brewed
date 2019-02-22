@@ -1,0 +1,23 @@
+{
+    "21b3ff8c287b81f8be0b2209a21aad7d1cc8c1d9": "chkrootkit: update 0.52 bottle.",
+    "a88fcf3bef3066e42fbe29388d393f4cfca422b0": "chkrootkit: update 0.52 bottle.",
+    "6edc08a0b335907a4016e3a5079981a3e3e58fd7": "chkrootkit: update 0.52 bottle.",
+    "3811f8af7cd80a368949bb10c75054ec7c7b4dc4": "chkrootkit 0.52",
+    "7652cf7c1885b135e02ba401f534cacf2325fd5c": "chkrootkit: update 0.51 bottle.",
+    "030cd7117e475aba0d9c30128fffc2e4cf8cb34d": "chrootkit 0.5.1",
+    "bf3483702959ceafd290b4ebb093949867854916": "chkrootkit: update 0.50 bottle.",
+    "7d72090fe16a6883de73d7b5ffc2c339bde5080f": "chkrootkit: prefer berkeley debian mirror",
+    "fc04befee76e04ad0602f369ec112a0fe0794044": "chkrootkit: update 0.50 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b5978971bb2756c07d134159c2d4fb11b0668eb8": "chkrootkit: add 0.50 bottle.",
+    "eb776abba1bac68405c5873ef2f1dacf5e04e419": "chkrootkit 0.50",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "06d2992edc4d9728eca785b4955084d7b2bd0826": "chkrootkit: fix test",
+    "5bd323adfb03860f6c0819ccb8bb07da0f763c5d": "chkrootkit: drop Makefile munging, install to bin",
+    "a1a8cf55c6a63d0812fc62e8b0ca7ae00bfa514b": "chkrootkit: use test assertion",
+    "c744e87e8a9ca5aa71daf8f44e572789a368b939": "chkrootkit: fix test",
+    "daa75d91a4613deb80aa7cce19752bf5add766ad": "chkrootkit: use debian mirror and sha1",
+    "4371532bfb8916e8a111f7523c6cffcc21fd7495": "chkrootkit: style cleanups",
+    "e7f1edc600f1a7b61b13c8669d146e6a89537fff": "chkrootkit: fix indentation",
+    "a953b3970c69b89083559a62b502e7b20732bab2": "New formula: chkrootkit 0.49"
+}

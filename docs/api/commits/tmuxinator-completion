@@ -1,0 +1,14 @@
+{
+    "3a2332e4b3cdd235621b9fff2319ff41e7d96fde": "tmuxinator-completion 0.15.0",
+    "9ab6ce4c9a91b1ee8793dc4459cc204c8ee2f73c": "tmuxinator-completion 0.14.0 (#34946)",
+    "398d68c35df6118c5bf855cfb85be484843bf05b": "tmuxinator-completion 0.13.0",
+    "24a2af9a0bdd8b8c269b57ddbee67c0cf8ba9748": "tmuxinator-completion 0.12.0 (#29731)",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "b0f3ba56ed703e7cb7b30f769e992e5b6586b9c2": "tmuxinator-completion 0.11.3 (#28931)",
+    "01f3cf9a8e9f2b28103a9f71edba164fb8a932f4": "tmuxinator-completion 0.11.2 (#27655)",
+    "463586d8630e49db97f5a2e9dce85a08eade7c60": "tmuxinator-completion 0.11.1 (#26719)",
+    "e4ecc55dd0f9fc99c5dc9006bad129e759449e5c": "tmuxinator-completion 0.11.0 (#25991)",
+    "26da19a5177c3e27d25d46875d2c7f3ba8ad321b": "tmuxinator-completion 0.10.1 (#21462)",
+    "2070f8589179d9c78ffd3c3bb5993c60bb85de03": "tmuxinator-completion 0.10.0 (#18322)",
+    "d89d0d3b583902d000225b2ade443e9391befd20": "tmuxinator-completion: import from homebrew/completions."
+}

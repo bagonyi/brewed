@@ -1,0 +1,18 @@
+{
+    "55250dc17eacd17e80287ceeb1144c7632299a5c": "globjects: remove checks for old compilers.",
+    "4be381d58e0a90c4341f984b45be08f8da8cb236": "globjects: update 1.1.0 bottle.",
+    "ce7209ab91ad1915477b8a4d8e86fac3882c5502": "globjects 1.1.0",
+    "2a8484085c9e41c273dc7d02512fc4a41f040f1f": "globjects: fix dependency order",
+    "e34b54eb565e934491ec5f9bc32e46afe238412b": "globjects: update 1.0.0_1 bottle.",
+    "e1ef45777f1c5cf27c15611a41530a55f94ecd12": "globjects: fix test on Mojave",
+    "b1e9aa36aa9c53ff747051370b4424fa08c2a0f6": "globjects: update 1.0.0_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5d3017d5ae6a69055f0683521b0afaf847d62aaa": "globjects: update 1.0.0_1 bottle.",
+    "cb65cb41b5809bcfe05dcd76780b854df8586c87": "globjects: fix checksum",
+    "82e229b8d8b58d84cf56ba65b02965c790d13dcf": "globjects: fix test on 10.13",
+    "8d435c6b5cf07602e536fe45118a0e7fb02583fc": "globjects: update 1.0.0_1 bottle.",
+    "0726e29a3033acba1408a9d5da2ce49d31e158ff": "globjects: revision for glbinding",
+    "c38b2808a9c82cf0d47e203aabd05dbeb60820a0": "globjects: add 1.0.0 bottle.",
+    "a9228978237503e118fc1d730a7e221ab147c0a4": "globjects 1.0.0 (new formula)"
+}

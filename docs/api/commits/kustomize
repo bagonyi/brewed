@@ -1,0 +1,19 @@
+{
+    "a504cd09b8c2532449d6bc67cee37f6c57e44ce9": "kustomize: update 2.0.1 bottle.",
+    "405767a7578abd0a66ee81f33069353c8a6c5981": "kustomize: fix version",
+    "6a19b85b07f4e5a59c67f92b2194638ba78ecc28": "kustomize: update 2.0.1 bottle.",
+    "297f3384cdba484072508e178bd0557d0061ae78": "kustomize 2.0.1",
+    "4e0f41716fdb111c0b8302b3992e2a3aec8097b2": "kustomize: add head (#36345)",
+    "f7ea547b17fe1e8e8f882cc9f3ea98644f236f1f": "kustomize: update 1.0.11 bottle.",
+    "158846297fcc93bd5ea65ab5caae6957b775ffe9": "kustomize 1.0.11",
+    "0099aaa994dbdfa7cd75b1ba3a6ff9384913f3ef": "kustomize: fix RuboCop Layout/AlignHash.",
+    "e41ed378e2caf0f286eabfde32f2742a5f1bd9b8": "kustomize: update 1.0.10 bottle.",
+    "81bdcb723ad36f242b84bb6bc2995a72d4e8c223": "kustomize 1.0.10",
+    "51bbfa78cc3f0680b4e7879f2d40d82f324bec74": "kustomize: update 1.0.8 bottle.",
+    "69bd5b3c1f0dd786cd7fc4dcb416b5c0fa18ceb9": "kustomize 1.0.8",
+    "9ca099a525fd73808c8af28bc269c23d5e00bef1": "kustomize: update 1.0.7 bottle.",
+    "58452d9a44d50467ee6f060b30901b923246cce5": "kustomize 1.0.7",
+    "df96223959931c6a0eb769f748aa1c440aa67cd5": "kustomize: update 1.0.6 bottle.",
+    "36dd0c0348a9689dceb72d76ba44023f7b5d51e7": "kustomize: add 1.0.6 bottle.",
+    "ed932d411a3470be81d5009b0b654e7658503340": "kustomize 1.0.6 (new formula)"
+}

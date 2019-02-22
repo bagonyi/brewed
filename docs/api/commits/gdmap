@@ -1,0 +1,18 @@
+{
+    "41201db7ed589df757fa64b67b9d3510098081e9": "gdmap: fix dependency order",
+    "ae9480c1f5794daacac2338608a96aaac32cd7a2": "gdmap: update 0.8.1_1 bottle.",
+    "b8a020af23d9703d941783a35fc63052d213f013": "gdmap: update 0.8.1_1 bottle.",
+    "cbe5269fe66fc8eabccf3df7dcc082077cb908e7": "gdmap: revision to fix install receipt",
+    "d662805dd2285aa57f458ddc39f88dd96bd311e4": "gdmap: update 0.8.1 bottle.",
+    "f33f86c2962c4ebd105c13b7d4c4f523ed2e9723": "gdmap: update 0.8.1 bottle.",
+    "bd00a8560f103ef89b5c4f66e34d08277ea2e921": "gdmap: add 0.8.1 bottle.",
+    "75d6bf174555c1a28a2d100ea8770fddd918a668": "gdmap: https homepage",
+    "bc55eee11d6a402f56ad5542597ca9b04fac77ba": "patch information added where necessary",
+    "3ebea46e8d7d99c97d782b025d11b4885cb0ec15": "gdmap went quartz-only",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0951dee9e5809dce950e6828660ede50ac9ff971": "gdmap: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "0ae7aa3c79cdc9d47619e16316e09e208f583a58": "gdmap: intltool is a build-time dep",
+    "93ecfa1ac23baa7929ce28193a9fd2af7153e293": "gdmap 0.8.1"
+}

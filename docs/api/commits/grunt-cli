@@ -1,0 +1,15 @@
+{
+    "1bc4e2682f9a56053d784c4497dd6801170718f8": "grunt-cli: update 1.3.2 bottle.",
+    "1a2127023bba969cda92da7a803e0e827febfffe": "grunt-cli 1.3.2",
+    "93be1840908adb2f9ee8c48c66586ee6327480e3": "grunt-cli: update 1.3.1 bottle.",
+    "254583ae7f3d3a7fd10c381ea3478e644aa76378": "grunt-cli 1.3.1",
+    "87b77c3e33e66aef3bcdec966ec0bc8909b3b33a": "grunt-cli: update 1.2.0 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4933de4331cf26cc9c58a21146c70d64412269c0": "grunt-cli: use assert_predicate instead of File.exist?",
+    "abf31a07d57c7976a3c38e8c69468e00be0e1b8c": "grunt-cli: update 1.2.0 bottle.",
+    "ac27618cfcd6e3e620741a598bb19620daa074d9": "grunt-cli: update 1.2.0 bottle.",
+    "c8ad86aa69620c60fbf715ae76fb3dfd4ebac2bd": "grunt-cli: renamed from grunt",
+    "ade1b3a7555c25183aea9ba88054f50d04f266d0": "grunt: add 1.2.0 bottle.",
+    "cf9de73382a4d8bf4ba13f4dd8f631d68dff8a1a": "grunt 1.2.0 (new formula)"
+}

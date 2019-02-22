@@ -1,0 +1,11 @@
+{
+    "bd5a287dcf259fbbdf66f358ec68aebb9d64cc8d": "putmail-queue: fix audit about sourceforge link",
+    "1644c681521214f327bf74fb7eab725fabcebb43": "putmail-queue: bottle unneeded",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "40e78d38007250b006c0a5f1054fecffa75696f0": "putmail-queue: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "90ddd15be1d1ddbf3998fdcb09042d7a8a88cea3": "putmail-queue: style update",
+    "3494a961fb4c8d700010d6456c604be8b7ff670c": "putmail-queue"
+}

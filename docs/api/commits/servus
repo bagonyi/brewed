@@ -1,0 +1,13 @@
+{
+    "f977169ff885a52de6cf73ea90bdd225b162a872": "servus: fix test",
+    "3ee407a5cfc5baca56b7691d22cfd8b387e35e37": "servus: fix RuboCop Layout/AlignHash.",
+    "621dfef83af2c70bcdfd64f5924ca12212eb8b4d": "servus: update 1.5.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4825dc567bd3331eeba7e0b48a2b3c120fc05111": "servus: update 1.5.1 bottle.",
+    "8201b5a2579f053bcd628967c88007815efbba9f": "servus: update 1.5.1 bottle.",
+    "5fa78d57f6d1e1bd12f28aa5c4ecfb3286ba625b": "servus 1.5.1",
+    "9b80aa0732d1dfc92e60130f480189b00e9a5b89": "servus: update 1.5.0_1 bottle.",
+    "1561d88a1ad25f32a4757e64a5599dbd4394036a": "servus: revision for boost",
+    "1dc388519013500807a97470c3ac77be8aee5b46": "servus: add 1.5.0 bottle.",
+    "d04db0ffbbe9108ff888824bfd431830b90f3686": "servus 1.5.0 (new formula)"
+}

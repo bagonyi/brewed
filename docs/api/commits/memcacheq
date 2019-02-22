@@ -1,0 +1,22 @@
+{
+    "76cf983659bf0fe09c0f98d615ab4c99afdcbbd2": "memcacheq: update 0.2.0_3 bottle.",
+    "5dcd535ac3402d3ea146ff0395e038a22dc0de10": "memcacheq: secure url(s)",
+    "beeddd11a7ac62d0b24b2bca10f21df7e870f85a": "memcacheq: update 0.2.0_3 bottle.",
+    "cddd32af41a60bc4fdcc17bb7a9dac2d26ff7b47": "memcacheq: revision for berkeley-db",
+    "3898f4bfc159e0f9be7b62163b7031aac78adb49": "memcacheq: update 0.2.0_2 bottle.",
+    "2baec3a6083f5ce1af1ec2ec2b388b5dee16f06a": "memcacheq: update 0.2.0_2 bottle.",
+    "76da45a000818cbca409c268562642ee9ad6a753": "memcacheq: revision for libevent",
+    "0897a090fd2f01fc766d1c3df0ee1cf99bf1ff39": "memcacheq: update 0.2.0_1 bottle.",
+    "3c3707b59f0353b46da1074afbf807d1e214e572": "memcacheq: revision for berkeley-db",
+    "828c89e11eb84fcedd0decb165d28bb2d8f2fc98": "memcacheq: update 0.2.0 bottle.",
+    "f2e62ea62d393178441adaf1803b6634cf7dc765": "memcacheq: migrate to archive URL",
+    "450dbdeada9daa3c5febf9531fe10983a50b6e67": "memcacheq: add 0.2.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "05829b1edc6c9a76e442b0d3a39e1cc0747edd68": "memcacheq: fix build with clang",
+    "32cfef12b25cece7eec670ec6390d9a0eb6767a9": "memcacheq: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "9b568763eda577823d4645f085e1a49f81ecd984": "Add memcacheq formula."
+}

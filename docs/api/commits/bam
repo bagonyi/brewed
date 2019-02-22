@@ -1,0 +1,21 @@
+{
+    "327e0bdd033d15014592e558b048edf29f784c6c": "bam: update 0.5.1 bottle.",
+    "835f837b1ca2cbcaabdc2f2fdeceb06c4468fbed": "bam: update 0.5.1 bottle.",
+    "a42690a104b8b53026a3bbcc67bb3159c09b3d71": "bam 0.5.1",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fb240922909e7c6f63965b56770cdab6d1c3640a": "bam: update 0.5.0 bottle.",
+    "00289c5b75477eeea21b4518c02060edcb072a7d": "bam: use full_index patch",
+    "4f1e04491af2df35254192225cfdb0610d7eeefd": "bam: update 0.5.0 bottle.",
+    "07b80486ad2cf90db351b026d1b4fae43fbcb253": "bam: update 0.5.0 bottle.",
+    "5c0bff16d25e181ae76ccedccce00c8815af40cb": "bam 0.5.0",
+    "2514167ae73c416b6c8a389ea643a61b0dd75d2a": "bam: update 0.4.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "07dc2b3c99f958f7a52a5b20579a33621fe1cbc9": "batch http->https fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c1fc6f5be4826847ea483c97d95c95df368c16d2": "bam: add 0.4.0 bottle.",
+    "b30df077fd904246a4d71d20f6c147f297e8aa7b": "bam: test added",
+    "be2eaa3dea80f5c2aeabff1c2b037487696d1f42": "Update github URLs",
+    "987ff0c166f9b282db3973f5ceef287cc198880b": "bam: fix homepage",
+    "69554007d1c19b440ea1e54b5f4ee37d62c941f3": "bam 0.4.0"
+}

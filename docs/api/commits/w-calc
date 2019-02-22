@@ -1,0 +1,17 @@
+{
+    "98e2bdfadc9a5498e99b65b02630dce16891619f": "w-calc: update 2.5_1 bottle.",
+    "f0e3f94e53b286ddf101ec3ffafd63d4701521cf": "w-calc: update 2.5_1 bottle.",
+    "c9ef812f9f164a174513f70289ad5570c48f6db7": "w-calc: revision for mpfr",
+    "06f2e1d403249b12aeea112b48d4370fac1881ac": "w-calc: update 2.5 bottle.",
+    "6d0efe99a202b621f3b22748892c49f6e0c8bb30": "w-calc: fix audit",
+    "5bc4597c973413be2587773f58acfcf1ca36a31a": "w-calc: update 2.5 bottle.",
+    "26b36e31477817303626dd8d61205bc342933676": "w-calc: assert on test response",
+    "b13db6c2e6cca06cb0b439dbc1e4189607ee7723": "w-calc: fix code position (#3651)",
+    "05a41e99a8cb3b42b0f673ae852c93659dec4125": "w-calc: update 2.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7377f13cfa042d27706caf3a38cdd9cfab392e61": "w-calc: add 2.5 bottle.",
+    "c8faa6bd8880a2f0da878a894a481e6a8437bd59": "w-calc 2.5",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "c17c5cbe91523436c1d56f5914b96ff70f725634": "wcalc 2.4.1"
+}

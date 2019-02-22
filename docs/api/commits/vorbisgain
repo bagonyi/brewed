@@ -1,0 +1,17 @@
+{
+    "eb7c1a60af1f983e512f563ffb379015e9ee1eaf": "vorbisgain: fix dependency order",
+    "dbc3660dbc6006f0c67fa869ea3a69795dc24f2f": "vorbisgain: update 0.37 bottle.",
+    "8add4df1bd7abe0e435f53aef188e68cd793b6c7": "vorbisgain: add test",
+    "7ce7d77a7b4060b53c0a2bf1dfaa42579e3dfafa": "vorbisgain: update 0.37 bottle.",
+    "6278d281fb0e0133272f4833707d6ecd231cee8f": "vorbisgain: update 0.37 bottle.",
+    "52df79fde74be93d4bc69dbb777b48c3580a2691": "vorbisgain: add 0.37 bottle.",
+    "18f884387aed8daa20064f5cf1bc908765598b3b": "vorbisgain: use https homepage",
+    "d9ef821678f3363fcd09ea0089398ff41c4db715": "http->https links update",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6198d1de37891f14fee5bdecf24ed4d580525aca": "vorbisgain: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "715acb5b0b1556b2fd6819e289c367857414b643": "vorbisgain 0.37",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "86f911972c4802b971742ce582fe7fd758219520": "Added new formula for vorbisgain."
+}

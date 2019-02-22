@@ -1,0 +1,21 @@
+{
+    "c3c80c5b68f5237d7f93f24eb6e39802cc819606": "libxspf: remove references to pre-Mavericks.",
+    "b9d7828bf2a82fd730cb4f442f7a42b3ed650718": "libxspf: update 1.2.0 bottle.",
+    "887741b87c1db864e1470cf043803f4848b31277": "libxspf: update 1.2.0 bottle.",
+    "2bfc7371e0f4b9be3cb0447392c6b1c5e3559dd8": "libxspf: secure url(s)",
+    "defcebafc30a1679addefd96d395fca6433de8c3": "libxspf: fix audit --warning",
+    "0e10ffaf059dfee716d14cd750525f1df01ce96c": "libxspf: use secure url in comment",
+    "a0a588e3e06a0f55d2e31bbe2eb33ce6738c2418": "libxspf: update 1.2.0 bottle.",
+    "5e6a5ff8258f1c0893e21d1cff6c5f2ef63cb2bf": "libxspf: update 1.2.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4138f9b54d38981c8aef2b99d876cfdc309f7d77": "libxspf: update 1.2.0 bottle.",
+    "a2e8765175bdd07c79447e2ec1b97b3f621fbd45": "libxspf: add 1.2.0 bottle.",
+    "3486495abda4801d432025c11782174e0fa28949": "libxspf: use patch DSL",
+    "6e01f16be8f502788d5010b75f14ceed03c86257": "libxspf: fix build under superenv",
+    "340a63b0d0cdbfef331d1db317713b489fb63532": "libxspf: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1da481085db300c76305743b7a0b01b4b6c1539c": "New formula libxspf"
+}

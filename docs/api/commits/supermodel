@@ -1,0 +1,13 @@
+{
+    "0a60817f1f0a1934d62e6ebe60278820f79e12e9": "supermodel: restore https for svn url(s)",
+    "d8b23a0c0efd0c230df3afd1cbda6fdd61ae86c1": "supermodel: adjust svn URL",
+    "dfe44799d5bba82b83dfbeb3f57a3e6878921045": "supermodel: update 0.2a bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "d00c523152251d05900816ab5b9a25f6f50a7717": "supermodel: update 0.2a bottle.",
+    "43f1b2fb4457cf8619ce38989c9864c3f56b8cbe": "supermodel: secure url(s)",
+    "58b61b0872f70b40c872527876454a252e2c6062": "supermodel: use http for urls (#22673)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e86ff712aaf4da8dd9ee52dd7b9f61952da941f1": "supermodel: use https for homepage and stable url",
+    "1e8894b01091bbc2afb0a176eebd04958a48a8ab": "supermodel: update 0.2a bottle.",
+    "7c3aed199e2337ece72068d2a05b540f75a496cf": "supermodel: import from homebrew/games."
+}

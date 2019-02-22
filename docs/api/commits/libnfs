@@ -1,0 +1,18 @@
+{
+    "c688361f40e2ce8eae294556ebb0d7cffe685ad1": "libnfs: fix dependency order",
+    "02584212640fe4e7fa511d77005015cdffe79aee": "libnfs: update 2.0.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ee01c7aa9267a4686e943c0c88f73c96cfb6b608": "libnfs: update 2.0.0 bottle.",
+    "679d79100c82dcca8d1513614d935af0cdee5c5e": "libnfs: fix test on 10.13",
+    "451863a353b4a9b0bbcbce5a48977b8648074779": "libnfs: update 2.0.0 bottle.",
+    "f071a3448f009d4ff3d284c09e7feeed99986d2f": "libnfs 2.0.0",
+    "0d10f2939e77fa4a539073f92019bf20ef0cba9f": "libnfs: update 1.11.0 bottle.",
+    "1958a7a6717a03dbe60a4cb8a7221c1a79cc8486": "libnfs 1.11.0",
+    "70162f9cf3be149621105f5bd252655a46aba911": "libnfs: update 1.10.0 bottle.",
+    "ac880a99e0830ab38bbd6cb53d283b1d05a53b0d": "libnfs: update 1.10.0 bottle.",
+    "086d03f93379c756db82f2cf448dbcdad3eb6ae3": "libnfs 1.10.0",
+    "2f7583baeaee3bb07aca0607194c5c442c368d64": "libnfs: update 1.9.7 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "89fa5640ebb0899157c8942cc1e529e300c3d9c4": "libnfs: add 1.9.7 bottle.",
+    "33eb67fc43ec78b223012e3837dd4060b2ef325d": "libnfs 1.9.7 (new formula)"
+}

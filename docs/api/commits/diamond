@@ -1,0 +1,23 @@
+{
+    "1eb7bc5a11554b55e7017620086e8d0694496c15": "diamond: update 0.9.24 bottle.",
+    "dde38e5986480d44bae1efab2cb09b3ea053971c": "diamond 0.9.24",
+    "5c16dfee63bd2f9902e3920512cdc92b792c3b77": "diamond: update 0.9.22 bottle.",
+    "0d87ab6d97727313da473bc0f7cac8aed9b5af69": "diamond: update 0.9.22 bottle.",
+    "f3e11c750fb79a258238b1646c4d487eb5845899": "diamond 0.9.22",
+    "eb29dca41a4ead57eb0d977c986fee6476b35ce0": "diamond: update 0.9.21 bottle.",
+    "833d007508ed8603edde51e299a1a21f4c1bc338": "diamond 0.9.21",
+    "5bd404dbd9a0e4dc58980f30924550965f7365a6": "diamond: update 0.9.19 bottle.",
+    "2a768106d5a07a1e34ff025ce94826e0a308c15b": "diamond 0.9.19",
+    "dc5deb5d75f1d4a89be523c90d246b38c59f098d": "diamond: update 0.9.18 bottle.",
+    "c12faad2b7f05d1543aea8da0449f19e44028cfb": "diamond 0.9.18",
+    "7241a96d7c2cc418655c908ad61bf686c94425c9": "diamond: update 0.9.17 bottle.",
+    "70045fcd1f830af0811c3050e559302b58154d2f": "diamond 0.9.17",
+    "8d7d96966539455ca13def3b461911f255f1c7aa": "diamond: update 0.9.16 bottle.",
+    "169b9ce82b163ea45ca96065f2a1ab4fe8b8604f": "diamond 0.9.16",
+    "716daa0bee733dcecb2a92022ed0d5e740dfd483": "diamond: update 0.9.15 bottle.",
+    "cc6d6d8d9da96e1c08811a1f2f653c2f8c5374fb": "diamond 0.9.15",
+    "0e9d66b32d15825e0372bdc01021db32dd600bd4": "diamond: update 0.9.14 bottle.",
+    "af4d1ad7c2db1a7642d653d9174da0e74a6b92c5": "diamond 0.9.14",
+    "71acb1e760960b08723d0384caea06ab7b55ed64": "diamond: add 0.9.13 bottle.",
+    "3f421d70e4f927a33169dca1f3e369cc90b16c25": "diamond: import from homebrew/science"
+}

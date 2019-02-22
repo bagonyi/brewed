@@ -1,0 +1,19 @@
+{
+    "d772f3092e559eb104b328f7aa20f38dec1c2f3c": "gmediaserver: remove options",
+    "4f283b2661d6819c111b0e0c9685085a84b145dd": "gmediaserver: fix dependency order",
+    "040e71a4083f9caac520ed0dc8bf9967127600b8": "gmediaserver: update 0.13.0 bottle.",
+    "12cf48d7f33fc23b8e1a1f64b5f05c5098eb3afc": "gmediaserver: update 0.13.0 bottle.",
+    "9d183a6c2ae79a7dc6e129aac12ec40564f4555c": "gmediaserver: update 0.13.0 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "529ae51b4a96eb9cb26caf404ce24d718a6c9b56": "gmediaserver: add 0.13.0 bottle.",
+    "8152433a3ac4f60daf255d01147254713cc5eabc": "gmediaserver: fix build",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "13505434a85c6673d040f94b34ac3e17e2ec2e3b": "gmediaserver: use patch DSL",
+    "2daaffd3ad19881dae9965db278e5befa677793f": "gmediaserver: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "12cf47487e775cb3e2f1fd911074cadc5b04cb9b": "Added gmediaserver"
+}

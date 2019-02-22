@@ -1,0 +1,18 @@
+{
+    "612685696aed4ddaeeaf4edda00ff69fb699cb58": "mecab-ko: update 0.996-ko-0.9.2 bottle.",
+    "941030b6caf7101faeadc09b620e8aeecb18d512": "mecab-ko: update 0.996-ko-0.9.2 bottle.",
+    "574731320910c35e963c0cfc82d6fd364db9ca71": "mecab-ko: update 0.996-ko-0.9.2 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "323b2f456a89281fc2e5f9275616fca01502e1e6": "mecab-ko: update 0.996-ko-0.9.2 bottle.",
+    "9dd643ba7ddd7cfabfc1f5d0a7bd0457230d29f8": "mecab-ko: add 0.996-ko-0.9.2 bottle.",
+    "8289b251651121eabb1fe7ffb36a9f0155f76ff1": "mecab-ko: fix for sandbox",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c0e15dd4ac46829e9a6122cd0613e32df160ded4": "mecab-ko: use opt_prefix",
+    "7a8686227e8a86828089eb1a414cc6b59b33a2c5": "mecab-ko: mecab-0.996-ko-0.9.2",
+    "0f1698358ca2d896838388b0f240db40b2f97af0": "mecab-ko: fix dicdir path",
+    "d851a51720c1f089252fc2623980fb9a9f6d5dff": "mecab-ko: fix sha1",
+    "8b88de9706e5bd40d9090379b0d9f968703f7a98": "mecab-ko 0.996-ko-0.9.1",
+    "9575ed2b083b77ce9e9c8da0bfcd43184bd443e1": "mecab-ko 0.9.0"
+}

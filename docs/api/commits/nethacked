@@ -1,0 +1,8 @@
+{
+    "8807444013fd88fa786c27818fdc85aca275ec1e": "nethacked: update 1.0 bottle.",
+    "ee302c914109a286b8547df0a2337040adace0b4": "nethacked: update 1.0 bottle.",
+    "1f7fa635d36aeb4d3ee5ad5867a931439f1615cc": "nethacked: move patch to formula-patches (#25141)",
+    "2be50118fe2d25cccc6e27e0f6cf824cf6703f0c": "nethacked: https in comment",
+    "fc8ebf027d63279ca6a323dc4bf1fc5743930117": "nethacked: add 1.0 bottle.",
+    "e193d3beac24d06e9107100bba8f827d6db0a3b7": "nethacked: import from homebrew/games."
+}

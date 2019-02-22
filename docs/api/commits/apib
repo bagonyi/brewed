@@ -1,0 +1,20 @@
+{
+    "155dd4dbd3c4f9f0abb2223a9767dc630c6dc170": "apib: remove references to pre-Mavericks.",
+    "d80b558381ac948b2f4989dfd6049697ae43e605": "apib: update 1.0_1 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "7dca3a499ae8c66ec03c9d8de8073a282184f835": "apib: update 1.0_1 bottle.",
+    "5f4f473647eb21ba36fb9b3dcf4e24849979fe14": "apib: refactor deprecated :apr to apr (#8345)",
+    "93472e6da358317471bbecca2831a061f160e615": "apib: update 1.0_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "535d27a9645e6661c2f3a28ed87545a0c8b79955": "apib: opt_prefix/libexec => opt_libexec",
+    "979398fd8c592062dd7200d6277e84f1474f698b": "apib: update 1.0_1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "497dfebd4a6c147349c244947d7514954f65e612": "apib: head added",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fe1b37fb54a3b3d997cbc61c2b78cd55cb1b3001": "apib: support brewed apr",
+    "868a42fbce272e140a461686e0d6e6cf447c6c6b": "apib: add 1.0_1 bottle.",
+    "74b053b20fc5948063776e2629169ed284f5c105": "apid: added openssl dependency",
+    "7f000e41f8625af1e6fe7acda904c41ac0e87e60": "formulae: don't use GitHub zip files.",
+    "9f6cf7c6ae9dc12030c55c827a3c76bcafba8d3c": "apib 1.0"
+}

@@ -1,0 +1,15 @@
+{
+    "05f311c76f4e761720a8e40615cc8183939bce52": "hardlink: remove references to pre-Mavericks.",
+    "dbb6b2751f75eb16968d4d4281a86444da59baa1": "hardlink: update 0.3.0 bottle.",
+    "8fd02042de2bb2b954280d327031b559e9073b44": "hardlink: update 0.3.0 bottle.",
+    "86a6b5095a3073a2b18ab4d712458271180287e4": "hardlink: use https for homepage and stable url (#10999)",
+    "a435a930415096604065d288143ef0b2edfea1f9": "hardlink: update 0.3.0 bottle.",
+    "666c39fdc2f9b9e6a3dc9dc76c7e203b62534f33": "hardlink: update 0.3.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d2eb8ccd16112cb8c209993cc3855cf0439336b1": "hardlink: add 0.3.0 bottle.",
+    "ccf37ed6eded7ca89ab634cca4f571ea3c8cbae7": "hardlink 0.3.0",
+    "cfe8e594dd30cac981677ffe4d0ee886a624fc74": "hardlink devel 0.3.0 RC2",
+    "0ad5d48646094f1c161a76ddaf68480a19a0e420": "hardlink 0.2.0"
+}

@@ -1,0 +1,19 @@
+{
+    "a88dd7c98369c9140cf8bfd01eaf18768ef2a9cd": "reop: fix url(s)",
+    "9fa7049601a1a40bc0755fe9653111692b19c095": "reop: update 2.1.0_3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "599e1da8c225724d26a7c69d503c54717d3dea84": "reop: update 2.1.0_3 bottle.",
+    "65fa9336dfc74bb85ec3d66a2cd4477640a14163": "reop: add a mirror to workaround upstream SSL failures",
+    "de434282471b0922cf4df2da79f910ed283d6171": "reop: revision bump for libsodium",
+    "2b5306b78323b0b5ef5d8d978ee18ca9155fde48": "reop: update 2.1.0_2 bottle.",
+    "99c327a02d54e64a048bf6b34a571e4df1eefe5e": "reop: update 2.1.0_2 bottle.",
+    "46cf906aef2c9a766ac757f7cda9e7507ad96a3b": "reop: revision for libsodium",
+    "24c779644b211e752a1cd4bc8246f44dc335a709": "reop: update 2.1.0_1 bottle.",
+    "3dbedf97c9ae23e7d0595921b86571511c65a9fb": "reop: bump revision for libsodium",
+    "5ec75e2acd3b67ccc1ca5613efef954799170aba": "reop: add 2.1.0 bottle.",
+    "c0086a893d1d5c025e5bf34eb5082f6760c2d249": "reop 2.1.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "60290cf2d3eefbe7cc5ccf863115e971a5f53806": "Bump revisions for libsodium dependents",
+    "4cce2ca8a7be39995285deea0ebbdc9171147395": "New formula: reop"
+}

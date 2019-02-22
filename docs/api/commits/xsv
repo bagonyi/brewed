@@ -1,0 +1,19 @@
+{
+    "6ff8b8e4e13717cd5284926267598109237082fa": "xsv: avoid cargo deprecated syntax warning",
+    "5bb4ec758408df3a58244f160330545dc1cf53b2": "xsv: update 0.13.0 bottle.",
+    "c743a76ef0b6b49d77e191dcc6211cf7dcae0c1a": "xsv: use `cargo install --prefix`",
+    "cd721d460a6b2bb0e567e08deb6f56367f856c5f": "xsv: update 0.13.0 bottle.",
+    "5a4690ae23695ea6454fd32cab414ec209a4d52e": "xsv 0.13.0",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "17d1b02df9b49b086c85987e7170fa6af21ba797": "xsv: update 0.12.2 bottle.",
+    "b09e2e6063776ae6687cea0ce5d6a0323082ab98": "xsv: update 0.12.2 bottle.",
+    "a9c139bd958d2f4725861fe3a98f4ea726c73a54": "xsv 0.12.2",
+    "12825ce4373b5c03c144414d7a224ecd0e3b172e": "xsv: update 0.12.1 bottle.",
+    "64e6e543f6b99da6864944918b43861a111a5da1": "xsv 0.12.1",
+    "da1664044b3cab8b334284195c5a5dc90fcd76b9": "xsv: update 0.12.0 bottle.",
+    "2644d66a90a146b64a92f6d788377913bf86784e": "xsv 0.12.0",
+    "868192aaf063e48832836c0049c890a3adab571e": "xsv: update 0.11.0 bottle.",
+    "c4283ba74d52a3687185f84868a192cdbcc8c073": "xsv 0.11.0",
+    "17b58d2b69e3aaa6ee49e2cb515890912163d664": "xsv: add 0.10.3 bottle.",
+    "f01d71fb1ea8b4728ab5b81d9ff80b8f51ff555b": "xsv 0.10.3 (new formula)"
+}

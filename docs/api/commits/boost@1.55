@@ -1,0 +1,20 @@
+{
+    "d7154c7eb3a0fb007c6a6fe95f9f43fb213afb78": "boost@1.55: remove options",
+    "c904a9051584f80afc54243f0990b24c39c34e2f": "boost@1.55: update 1.55.0_1 bottle.",
+    "a08c57d7f58acb95ac2c9146cf857e91ad188f23": "boost@1.55: remove options",
+    "f77fd5152b6256dd06a405ad6b54fe0712b6cc97": "boost@1.55: update 1.55.0_1 bottle.",
+    "e72d564331e64184932b2a1404aa1ecb452166b6": "boost@1.55: remove unnecessary `stable do` block",
+    "aa213091c83afd18b65f1cea200a9092698821b2": "boost@1.55: fix use of deprecated option name \"python3\"",
+    "201f50880f76847449a1f6bd252e5bc4ed92024a": "boost@1.55: rename python and python@2 optional dependencies",
+    "ef7bb08b124c79cde2d6902ba6dba464456fb71f": "boost@1.55: remove mpi option",
+    "1d3fca0c155810579e5e0a2391011718f718be4a": "boost@1.55: depend on python3 instead of :python3",
+    "05fa5348f15eb951c6d6efe3b5af4936f289858e": "boost@1.55: depend on python instead of :python",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "2f2094efbd38bc194085c5155af3cff71c633b72": "boost@1.55: update 1.55.0_1 bottle.",
+    "aaf850b37b030cb77ada7491d75b23ca761c8748": "boost@1.55: use full_index patch",
+    "30d2f8b930e83b2963607d417fbbcadabaad49e0": "boost@1.55: fix patch checksum(s)",
+    "4e614d6f62398e2ef4531f1ab2677a4fbb423688": "boost@1.55: remove `env :userpaths` (#10637)",
+    "793733644c8f521ddff207e153d2b40d9e84a2d9": "boost@1.55: update 1.55.0_1 bottle.",
+    "3c7e7c14909d9ed1b9c1dfeb750c11baa3ff2480": "boost@1.55: import from homebrew/versions"
+}

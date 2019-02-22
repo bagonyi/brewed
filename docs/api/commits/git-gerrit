@@ -1,0 +1,11 @@
+{
+    "1036f9151a8ea3e534129cbc48d7df4ceb3b8411": "git-gerrit: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e6013b721fa346f4375fab0b86373f928d98491f": "git-gerrit: test added",
+    "3d4f2dc9cdacfd13265ec036978c8198afb143c2": "use bash/zsh path helpers",
+    "3ad9a0896fe321f81d5b9be4c408c9d77dc065bf": "Change github /tarball/ URLs to /archive/ for formulae A-K",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "89b28609cc23a07a6f3c4ce96a049190f8ece0d1": "git-gerrit: style nits",
+    "cd0c45258833de6c27f82c1d4914faee7a95e33f": "git-gerrit 0.3.0",
+    "e11933bb1fc8b56ae04a017ca20cdaae4b34eb91": "git-gerrit 0.2.0"
+}

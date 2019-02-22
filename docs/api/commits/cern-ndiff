@@ -1,0 +1,16 @@
+{
+    "2ecd0bc996d7cb0f243e99559ab69f34b47083b8": "cern-ndiff: update 5.04.02 bottle.",
+    "26a6ea3a771f13d411ebfa5874c8122167b63751": "cern-ndiff 5.04.02",
+    "7fe2b84ea0b3f26a2686250ab0b9ef0112715153": "cern-ndiff: update 5.04.01 bottle.",
+    "372dcece333c36f3dd23a7f86f987e38967dcdd3": "cern-ndiff 5.04.01",
+    "38982fae829a2e61d495440025c8cf1c0823846f": "cern-ndiff: update 5.02.11 bottle.",
+    "a03a4f740526e30b76ee0231a1c9c3d2f5b4166f": "cern-ndiff: update 5.02.11 bottle.",
+    "cd3128c99e464c1bfdd55113fe9c7d963ad76a95": "cern-ndiff: update 5.02.11 bottle.",
+    "e4da412a481a64cb2694a2fa8df3aae1c392d9b7": "cern-ndiff 5.02.11",
+    "f633cd837cb4b53b089d11b83fc5a59ac4abd783": "cern-ndiff: update 5.02.08 bottle.",
+    "890fc6391c7097a629c3c14346ee76b77d4e6c45": "cern-ndiff: audit fixes",
+    "f312d9eac6805e91875d25153c43a69298f709b6": "cern-ndiff: use https homepage",
+    "c946f0b4284cb05576633bd0eab897cbd5b4536a": "cern-ndiff: fix the 'bottle do' position",
+    "db9fdaad4a5f90ec684c10b7f04c9cd880eb375b": "cern-ndiff: add 5.02.08 bottle.",
+    "805accef9d527021abf63f8f599eda4c66caed99": "cern-ndiff 5.02.08 (new formula)"
+}

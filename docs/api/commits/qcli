@@ -1,0 +1,18 @@
+{
+    "5332e532a4e0e5848893492fd99045595e9eafe8": "qcli: update 1.0 bottle.",
+    "60f7ca306e2d565c92e030d019b07bb7c37e46fa": "qcli 1.0",
+    "74c73f6f72b94fc24fb9773bb435d87e36ea5e57": "qcli: fix dependency order",
+    "827c9bd2f6408da6281d20109e42ce557e5509dd": "qcli: update 0.9.2 bottle.",
+    "c7e641b183aea237bec322ea3b720734b1bb55a7": "qcli: update 0.9.2 bottle.",
+    "afe5e56e65bada46dd2f9c8dff9778a4f1d7239c": "qcli 0.9.2",
+    "2ad570b51aca98bb5dc568c3b975fe47865a458d": "qcli: update 0.9.1 bottle.",
+    "0894c3f85299fded5c18bde4acaeed48107cf78d": "qcli 0.9.1",
+    "e6ead3d6d76b81adaea61a1550d5639ab71b6292": "qcli: update 0.9_1 bottle.",
+    "9a53992607dca2d4fc388af611f49c8ca23b79e8": "qcli: revision for ffmpeg",
+    "9bf7af845028cc429b0576c5e50bdaa81dba67f9": "qcli: use assert_predicate",
+    "e85b5d85b456af037334e1595cf22b487e8c88f5": "qcli: update 0.9 bottle.",
+    "02d60ea2339fc12cb3cacc75c590940c79da480f": "qcli: update 0.9 bottle.",
+    "7a761f2a28acad0fc25805ab0eb792acd3bcb08e": "qcli 0.9",
+    "3c54b2b1b8c118f4a4b3b53a7f7cc7a71ce11f31": "qcli: add 0.8 bottle.",
+    "e6f72387e0592bc30e71632e78d6290e7f330659": "qcli 0.8 (new formula)"
+}

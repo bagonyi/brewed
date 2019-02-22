@@ -1,0 +1,18 @@
+{
+    "d60e48889aef6f482d68d97514fde086cef61e3b": "ne: restore live urls (from archive.org)",
+    "fbd4fa2b32cb268426947656705a443344b39eb2": "ne: fix url(s)",
+    "7b3e33e03c192929b5ca05f8bb5f82623f2c27e1": "ne: update 3.1.2 bottle.",
+    "7ec97cc8fb70d028c4991713fea7905ca4cc7a0b": "ne 3.1.2",
+    "dd712140bf6add4ae4c9331987387180a4ef503d": "ne: update 3.1.1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "aefd3a9cc7a0f45b02c8b3c281cf07c97738989e": "ne: update 3.1.1 bottle.",
+    "d66323b1529da53c66c506143218b7a40ffd0361": "ne: update 3.1.1 bottle.",
+    "3fcb4fa01424df2d5f807f91a7d1dad48e2920cf": "ne 3.1.1",
+    "98c76691d56de835f51329052942a9264b77a6bc": "ne: update 3.1.0 bottle.",
+    "f3d8e19ffe8b416642e247484045a04f6fbb599c": "ne 3.1.0",
+    "8964d099a601614dabdda4eea514d0996a2fd50f": "ne: update 3.0.1 bottle.",
+    "d2b36e19b3265dbd085caadaa14f4fa2aae0c1e3": "ne: improve test",
+    "431e7b2fd379b3a604dd8a1964603ef022d9761d": "various: automated style fixes",
+    "04f0b59b37f3826f40ad8c9eeeb8d98c990026fa": "ne: add 3.0.1 bottle.",
+    "9ba0accdff93b52759d6f53a24a5d39625a4c982": "ne 3.0.1 (new formula)"
+}

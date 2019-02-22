@@ -1,0 +1,9 @@
+{
+    "e4b21cad9367e2d22f2927294b11e33896842287": "serveit: remove references to pre-Mavericks.",
+    "3683b3913ad32236a9c20fd407f821906d8d491b": "serveit: depend on ruby instead of :ruby",
+    "da80330d2cc0b91e3b9ea129a8827bd29e1023c4": "serveit 0.0.2 (#13379)",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "4f63bdbe595b7527030924d64dbf46b8fb666385": "serveit: bottle unneeded",
+    "93da6e5af7f32a7e350894e04ab8476f198ffe79": "serveit 0.0.1 (new formula)"
+}

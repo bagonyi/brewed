@@ -1,0 +1,20 @@
+{
+    "82ce1c476eeece584754d4796bfa27221b7b26d7": "grsync: fix dependency order",
+    "9d887a333f72280a62c58bf02fe73af868a4688b": "grsync: update 1.2.6_1 bottle.",
+    "c41b76af5e3ea7ea012ce16e33c256fe48cfc4cd": "grsync: update 1.2.6_1 bottle.",
+    "643968e96f4699c75578d9dd220300e73ba3d7bb": "grsync: revision to fix install receipt",
+    "3dd59c91d77d98b30fe52150977c90c10e6b2452": "grsync: use assert_predicate",
+    "d67da95981c9307a7d37b1f9674bd13b4ffe750d": "grsync: update 1.2.6 bottle.",
+    "f242bbce4d1f58235b730e2003f1868fe7484791": "grsync: update 1.2.6 bottle.",
+    "6af8f27db8474b6a1973912612336e73ccb1e596": "grsync 1.2.6",
+    "050b741b84df521053ec2ee01edee9229c666c14": "grsync: update 1.2.5_1 bottle.",
+    "72a70fab3fdc91aa7c9e70f73bbadee592be7e5b": "grsync: update 1.2.5_1 bottle.",
+    "f9a3ef9a47b658c122ffdfd43fd4a2b2a2fe3b94": "grsync: update 1.2.5_1 bottle.",
+    "8439a564da5109e5e2db2541c9070afd6f4de76b": "grsync went quartz",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "8b7c8574b2ee7e1fd0569e2ccfa03c56fc3b2cef": "grsync: update 1.2.5 bottle.",
+    "c6e460039e2d4b8a5ce27c33abc7ccbceb82bc45": "grsync 1.2.5",
+    "60ff2340ff0ef51f60640484584c8d7c4df365aa": "grsync: remove failing test.",
+    "763b56eae5062f479b2fe1d9d39e342ea2f41f88": "grsync: add 1.2.4 bottle.",
+    "e96475e3ed8713b7a6d11e9a34ddae8c35361aeb": "grsync: add formula"
+}

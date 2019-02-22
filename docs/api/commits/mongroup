@@ -1,0 +1,13 @@
+{
+    "f9751b9ce675a20de40f1fb1f5c6d8e7ab169526": "mongroup: update 0.4.1 bottle.",
+    "521075851d0973009ecc561e6b6598a4a8d0b3cc": "mongroup: update 0.4.1 bottle.",
+    "683b8019001cc5f52e7d7d9c34e85cabc4af3f7b": "mongroup: update 0.4.1 bottle.",
+    "af2133c905ad3876bc13225c8f0e487491bf8770": "mongroup: update 0.4.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "5d302908d83166e50ab62ed191b965e49241c8d0": "mongroup: use sha256",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2b45eae549f81ac187bf8d49b512d4bbdb7a4efb": "mongroup: update 0.4.1 bottle.",
+    "64c2b3fdb8e34271ff1ad290c0cb7b9b461c6055": "mongroup 0.4.1",
+    "612efc9cb9e0fdda1e2b7d0b77de2009232fae65": "mongroup: add 0.4.0 bottle.",
+    "1e8969d403afe0d1f1341ceb7b3946c57f030e7f": "mongroup 0.4.0 (new formula)"
+}

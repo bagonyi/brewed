@@ -1,0 +1,22 @@
+{
+    "3f87cbc2abce4b8a2aa06c1c0aa05035b7325c99": "mecab-ko-dic: remove references to pre-Mavericks.",
+    "a4610cb4b2946fdcf821e54b73dc131e795232b8": "mecab-ko-dic: update 1.6.1-20140814 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ec469662ee14b3bb22a074496e7c390ed567a74f": "mecab-ko-dic: update 1.6.1-20140814 bottle.",
+    "5618543ac4ffa1115cd2e667ecb22b89f95f5ee7": "mecab-ko-dic: update 1.6.1-20140814 bottle.",
+    "4417531372bd550a20d49f0829b48ff60ca96f1b": "mecab-ko-dic: update 1.6.1-20140814 bottle.",
+    "6b83656a1d3def1b9b896df49960c71b0cce4a69": "mecab-ko-dic: add 1.6.1-20140814 bottle.",
+    "59ebec044e4d1b6f014940169a4aa0bd3e2eacce": "mecab-ko-dic: fix for sandbox",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2913d38ab9c6cf70c402716a17fe88d7a9c48e37": "mecab-ko-dic: modernize autotools deps",
+    "25611f2db2e149722c9e9d9bcc40f181d9a36802": "Use \"if empty?\" instead of \"unless any?\"",
+    "b518e3ddf3304bddc5c38ea636452585c6040f32": "mecab-ko-dic 1.6.1-20140814",
+    "3c3e0a46d8252f5589a3ee752a732178c74f1655": "mecab-ko-dic 1.6.1-20140515",
+    "a29aec9d85efbc47da75073954c68240819d7a1a": "mecab-ko-dic 1.6.0-20140515",
+    "8b82e219f2933a6370e3b51716d5cd45c865c285": "mecab-ko-dic 1.5.0",
+    "1350955c0b3a3c796f27dbeaa5ada968c84ed10e": "mecab-ko-dic: use patch DSL",
+    "d817006ed50253fc728b9c148577fbddeb0aa835": "mecab-ko-dic: fix version warning",
+    "60a7aa0aa60c093e4fb62f84df194d4be213ff0b": "mecab-ko-dic 1.4.3-20131115"
+}

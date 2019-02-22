@@ -1,0 +1,14 @@
+{
+    "782a3f301be31d2e575e4893dc70160223e9b593": "lci: update 0.6 bottle.",
+    "46883d44ac092562360f23af334db9bb1cf64af6": "lci: update 0.6 bottle.",
+    "5b8741aeaa51c0e989b7fd5ad054eb075a156322": "lci: fix audit --warning",
+    "55d8af70248bb6811113d2f2aa7e38ab6e1eef8a": "lci: update 0.6 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "e92ecd789aee23a64ea7efd3e91339ebdf1b64f3": "lci: add 0.6 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "3205896c24268ce50318a81b814974a454888e79": "lci/lolcode conflict",
+    "2d9a7cc2efcecb9bfe60e244db737f33ef3d66be": "lci (interpreter for lambda calculus) 0.6"
+}

@@ -1,0 +1,17 @@
+{
+    "baab892b2571b690128bec56876dfce7e790ec5d": "darkstat: fix dependency order",
+    "379d6d10277526b8fb8d46f2c1a3959f56d0fb7c": "darkstat: update 3.0.719 bottle.",
+    "1d44a9f209333efd11ee1d340868c720dabc598d": "darkstat: update 3.0.719 bottle.",
+    "e945de6e70c9e50d7963ad9498ead3a93d5fc7a5": "darkstat: fix on 10.12 and newer",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "b59995799c47212d213d1b1ba601ede57fe21a4d": "darkstat: update 3.0.719 bottle.",
+    "444b8a75c4fbeb54ceaf0ea3c06b243a09c4edbf": "darkstat: update 3.0.719 bottle.",
+    "017c1ad8f76b2198f3d156521594aa8e26c1773e": "darkstat 3.0.719",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "51311e309b3067cf8f003bda9578e696726e021f": "darkstat: add 3.0.718 bottle.",
+    "e40438f2d19236458fc706a6cc7f656c4b72c6a4": "darkstat 3.0.718",
+    "13e38922b38842934e549b6646c3ae07669f15f4": "darkstat 3.0.717",
+    "0ef8b8d49df5da6ccd0351f818ce8c0ce63a577b": "darkstat: fix test",
+    "d5acd6522aa1c39b791cd6beab3c7b22936aef88": "darkstat 3.0.715"
+}

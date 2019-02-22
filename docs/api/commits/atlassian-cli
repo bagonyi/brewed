@@ -1,0 +1,22 @@
+{
+    "84463e95c745a88ae774bad24c12e9c03042410f": "atlassian-cli 8.0.0",
+    "221d31f521e045a7cb3f61cbac309c593de92bbb": "atlassian-cli 7.9.0 (#29610)",
+    "7898cd2f8bdbcc79207fc72aeafb8f08af5b0fbe": "atlassian-cli 7.8.0 (#26820)",
+    "1dc031c1d78bcba86ac899e06360a13264e96056": "atlassian-cli 7.7.0 (#25249)",
+    "75fd12a41226c485ac787aa064bf291c40c6175c": "atlassian-cli 7.1.0",
+    "1bc9a4a20c59c9a444dd6f1f09dc83e55b9a1b6a": "atlassian-cli 6.9.0 (#17403)",
+    "9537ff485c1a8f7d32f076d6eac73e956dc51311": "atlassian-cli: remove redundant version specification",
+    "d57340ca4ed15a83e01c00a56939494bfe2abacf": "atlassian-cli 6.2.0",
+    "86f16b285912ea9517c33d88b84ac57e0664b8c6": "atlassian-cli: rename from stash-cli",
+    "71dfa59377cc7902266c46f302b84462edb70ad4": "atlassian-cli 5.7.0",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "36f168f8ab7ee4ef08f42532f890eaa06762c1f1": "stash-cli 5.3.0 (#1059)",
+    "da0648e7c470c3caa0a63986a5147bcd13a9a808": "stash-cli: bottle unneeded",
+    "0533aebe1e1fabc99753a5b48f07da703e4e0fa1": "stash-cli: audit fix",
+    "e74ea52f598536b53a79627e84673d2a6113d8f0": "stash-cli: add 4.5.0 bottle.",
+    "0609dbb101133f460fdd9372b0c13b4f95f7a663": "stash-cli 4.5.0",
+    "a2260fc7d87508e8d17c9a5c3e94820407229ff8": "stash-cli 4.3.0",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "70e5d8c5b4612065c2b5e0e68c4abee1dbac23f5": "stash-cli 3.9.0 (new formula)"
+}

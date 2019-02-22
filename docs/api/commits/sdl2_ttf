@@ -1,0 +1,21 @@
+{
+    "c3aa9720fd038e2b52040b350fa18ea68d321bcb": "sdl2_ttf: fix dependency order",
+    "252afe5743d5608f475923137c5606ba45fc97a7": "sdl2_ttf: update 2.0.14 bottle.",
+    "d9feabfb2b139266b84b4feca64b89808637e10f": "sdl2_ttf: add test (#23247)",
+    "722c84ef911cd26f733b3b6adda5801f12f852ae": "sdl2_ttf: update 2.0.14 bottle.",
+    "19414a81242d252d2860c23405b14d8befc80a0e": "sdl2_ttf: drop universal",
+    "cbbaa82bc6c6ac08ddf09f10c43ff7d2cc83fa7c": "sdl2_ttf: update 2.0.14 bottle.",
+    "363ded47b5efc697824d22f1f38d0b9738946178": "sdl2_ttf: update 2.0.14 bottle.",
+    "bb23fdf2efb0979b5f088c808b39632ea8d70d0b": "SDL2_ttf 2.0.14",
+    "eda82658d66cb8edd8fe1a78360e82459b41096f": "sdl2_ttf: update 2.0.13 bottle.",
+    "721a652a421b63646f541aa092a537d8da71aa97": "sdl2_ttf 2.0.13",
+    "ec9c6f27a7bd3f44982c9614094b254a989feb6d": "sdl2_ttf: add 2.0.12 bottle.",
+    "234790e745d0e4fb80fc1499872f4dbdcc85fe30": "sdl2_ttf: audit fixes",
+    "505d56606aaed0f61fa6845c0c155d15f649d20e": "sdl2_ttf: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f44f1e1619a91e895dbbdc39eb876bfabbf01aca": "Replace last uses of :freetype and :fontconfig deps",
+    "5bd69bde1a16e10bc65cbf524c3c32db30b285e4": "Use symbol form of freetype dep where appropriate",
+    "f26a782177d648b74c239a32977446197e98e124": "sdl2_ttf: add pkg-config dep",
+    "ce19c5a439688f7dac88e583360749646f60344e": "SDL2_ttf 2.0.12"
+}

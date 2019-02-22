@@ -1,0 +1,19 @@
+{
+    "18364a9de265ea664506b030015abd9e21d5c5df": "xaric: update 0.13.7 bottle.",
+    "d90a5216fd089d256b52e81e4d2b49abda03a945": "xaric: update 0.13.7 bottle.",
+    "036110e5f2a33a4151684a0909f70068a3c03f7d": "xaric: update 0.13.7 bottle.",
+    "c76a186c975601f40cfb8d0bfb5c7e877a2626e6": "xaric: bottle revision to rebuild.",
+    "fe188e862bd9aab51fea2c3940f707724d2420ec": "xaric: update 0.13.7 bottle.",
+    "504a649640335eeb42c8532182c519b6a9468210": "xaric: use secure urls",
+    "0968be4fc8aa84b46976f37d4700a0707ff717e3": "xaric: update 0.13.7 bottle.",
+    "09b575caa97085ded436bc80796362e6b1fa5877": "xaric 0.13.7",
+    "6dcae1f422e688c9d1a744fe108e433ae607689e": "xaric: update 0.13.6_1 bottle.",
+    "a6069987c2d436e8324e2fc22e87f01b2092155a": "xaric: fix openssl link on 10.11",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "002eecf89ca7c3b4bb66945906dc0a8d62b79b91": "xaric: add 0.13.6_1 bottle.",
+    "057370a7553c515415f9b9fb2dfccdaa13b5dd78": "xaric: test added",
+    "7ca1d0d52011fa9e79e6b4f5682e4bbf9c952c5b": "xaric: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a822d0183678541257d3567959837da399442b01": "New formula xaric"
+}

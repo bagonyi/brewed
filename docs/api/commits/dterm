@@ -1,0 +1,15 @@
+{
+    "2f808cf05f32021e12194df5919658da292d7580": "dterm: update 0.5 bottle.",
+    "5125ef8df0487f625c97b75e9c675703ecfbce6c": "dterm: update 0.5 bottle.",
+    "f93b3f8fe1bec6eaefd32ef3935a47ea01bba81e": "dterm: update 0.5 bottle.",
+    "b9650516e631f3c9963a15f8981368d62c677d32": "dterm 0.5",
+    "cf1c7e262f77dc9b902ef04e8ab77ff66ef9cd30": "dterm: update 0.3 bottle.",
+    "60e8d6c239a581b8feef6639c19dec986bd45735": "dterm: update 0.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "0a0e940ed53aa0d4e792e0aa1c01ecb96f53a76a": "dterm: add 0.3 bottle.",
+    "4c628c42c27273054546de89ef97535a38879759": "dterm: test added",
+    "ae5276fee34ed54e7db0ee9fc71a5887c775b50b": "dterm: fix homepage",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "7ecae68b5247c651d7883dcccd74d7657008b51e": "dterm 0.3"
+}

@@ -1,0 +1,10 @@
+{
+    "feeb50569234fd69e9156ab86f6a608a13a3c25d": "wskdeploy: update 0.9.9 bottle.",
+    "854981eb0515bdd5237c00de5bcea5d9bc96aeef": "wskdeploy 0.9.9",
+    "0b04abe5959bae3888272b615b6fedb4615cfcfd": "wskdeploy: secure/fix/follow url(s)",
+    "5b8f24db39b59cdc6d6edff55991e8ff0883d2f1": "wskdeploy: update 0.9.8 bottle.",
+    "1ef6ddb2c2e0ba8d3f35f18b69fa6162afc4efd1": "wskdeploy 0.9.8",
+    "fa90d0d782460594a8ba0e27cc5f5bb28f68b7fb": "wskdeploy: update 0.9.7 bottle.",
+    "e6662554d2a3fa0074fcaa18e0d591ff5ab862cb": "wskdeploy: add 0.9.7 bottle.",
+    "a0dd5317aff3ed608f54e7bc3a04a9d843f57701": "wskdeploy 0.9.7 (new formula)"
+}

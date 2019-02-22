@@ -1,0 +1,20 @@
+{
+    "e7e331d8c3149b28019342f7ee5f9c696bf85644": "uru: update 0.8.5 bottle.",
+    "f2651c90404975898c176c2f9d00718d7ac1facd": "uru 0.8.5",
+    "baca23aaa56fa1c2e6c16eb7a40c6ad051552c03": "uru: update 0.8.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "22e402219aec559548841b56f54975688d0e69ea": "uru: update 0.8.1 bottle.",
+    "523a22e2c5f0901af0e5b7304d3b0fe319c74a15": "uru: update 0.8.1 bottle.",
+    "e07e6dbb8989f9657d71af2c50b7bf6a8e310655": "uru: update 0.8.1 bottle.",
+    "51ae61cff9ccd6c003e736a839793b680529f6de": "uru 0.8.1",
+    "d70cb85c630caab7afe274561ac1c7fdf3d50dca": "uru: update 0.8.0 bottle.",
+    "b6f2be887b61c38714ad2b4d613069660ce0e237": "uru 0.8.0",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "47ded14318d1ffb0976d5e2a2b096f52d58c400f": "uru: mark bottle as relocatable.",
+    "0c1627b8864e9967013fa5ba20cdf2e5d702c1f6": "uru: add 0.7.6 bottle.",
+    "09860c3d1f17015476e0a017827ff3c06343cb24": "uru 0.7.6",
+    "de50833a2b6473217317761fb6c5f21c81e00606": "Address style issues related to use of Dir[]",
+    "c4dff845e2445a86553dba57093110b8a39642fd": "uru 0.7.4"
+}

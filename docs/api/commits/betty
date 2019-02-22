@@ -1,0 +1,14 @@
+{
+    "c14af519a0f0406f5d22e5841151bcc51dae4df7": "betty: remove references to pre-Mavericks.",
+    "f546b413111d5742a7d76cec8d9d4d69777ebbaf": "betty: depend on ruby instead of :ruby",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "94bffc4ac55c264fd93fd2c7bcefcb3e3e02d562": "betty: bottle unneeded",
+    "7ef19d78f2ca0f8b61d6ee787391eacc76d671bd": "betty: fix strict audit.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b01c6c5e96fc7c5d158bacc8dda9d4e36d9df6b0": "betty: fix test",
+    "23980df9a38811193f4ac4ee79b229a93672c0ca": "betty: use RubyRequirement.",
+    "1643358967320447d1092f576b631b04590b189c": "betty 0.1.7",
+    "2bd52b92ff449999f5831769b5da5057d9288372": "betty v0.1.6",
+    "0db7ba23d2a73e38a3073e1121155344fd070c03": "betty 0.1.4"
+}

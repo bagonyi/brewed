@@ -1,0 +1,11 @@
+{
+    "81f1054583ed450a9070e5124f50afc054d3a476": "mfoc: update 0.10.7 bottle.",
+    "2d3f0fa6329979ae093e1d1836bf242026eb33a3": "mfoc: update 0.10.7 bottle.",
+    "f8d0297c224c01199807990270432f7e0d66292c": "mfoc: update 0.10.7 bottle.",
+    "eec9482b3bb468268bc727c3c14ca21e3f5b5269": "mfoc: migrate to archive URL/GitHub homepage",
+    "dddf82a746bb856d9261da680e1556150a0c0282": "mfoc: add 0.10.7 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4dd48ee2dffd7ec43014e70cb8c5e73038fe4997": "mfoc: remove unused deps",
+    "8030e9f20227a36a84edc02981cef560571b536f": "mfoc 0.10.7"
+}

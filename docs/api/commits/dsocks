@@ -1,0 +1,16 @@
+{
+    "d3ec2f329c6a642c11287fc523e2580c59143cd8": "dsocks: update 1.8 bottle.",
+    "23dc43a8b84ed152de51cab64ea051f515a32e37": "dsocks: update 1.8 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "680b2ac17c65b431e68735e6cbf3f554b944a064": "dsocks: update 1.8 bottle.",
+    "f5a9024a96350e1d87a4e3a9a945218bb11b9493": "dsocks: migrate to archive URL",
+    "49d65afb8aa0edd41759f6e0e87cdff1cd7d8d04": "dsocks: use secure homepage",
+    "a9e5b19dccb896db3c11bcc6904288d57d497d48": "dsocks: add 1.8 bottle.",
+    "4f38030cf32ad7154f8e68239873a8eb32daed6b": "formulae: various audit fixes",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "8578ea82d2f7770ec87104463c411f31d908986a": "dsocks 1.8",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "7e7c9e8b7c254baa9e9293d449cfe7d6490c7e28": "New Formula: dsocks"
+}

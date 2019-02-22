@@ -1,0 +1,18 @@
+{
+    "172662a209c3e6e02fb2ce3d199d57a5be32f657": "netcat6: update 1.0 bottle.",
+    "c4a94f262b3fd816e94108dcb8b1fe0cf51abd65": "netcat6: remove options",
+    "09b69698743c6990924adb1a496c9651b308675b": "netcat6: fix test",
+    "70173b841548da6679f25c7bc57c33553b9d845d": "netcat6: update 1.0 bottle.",
+    "bde57967736a116e23705370fd8e1212dc9484ab": "netcat6: update 1.0 bottle.",
+    "3ccd1a9a8440992a04c56fd0b90362e6b11b3b9b": "netcat6: https homepage",
+    "a2dccb40882f58983c791420e1ab077be16b4603": "netcat6: update 1.0 bottle.",
+    "5f0c1540e2cc8a5d615330709e39056f08b5d900": "netcat6: update 1.0 bottle.",
+    "891dcfcb93950e89522f105b79aeef3edeca8a75": "netcat6: better test",
+    "e6cc26ddd77d5b16997db2b09d9acb5723b7da80": "netcat6: add 1.0 bottle.",
+    "0868fc5bf8f9475176ba1beabb848c739a510a79": "netcat6: use ssl/tls debian urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3340b9c1990761c6b16b22aa67d23419409e9f3a": "netcat6: remove popen, use assert_equal, add assertion for exitstatus",
+    "6a91f5b7e7d97dd3d903cd17bbc99ffb9b2d01f3": "netact6: make silence patch optional",
+    "a10a9bf80cac98944b53fc566ebd5e2fe7f94cf1": "netcat6 1.0 - an IPv6 network swiss-army knife"
+}

@@ -1,0 +1,15 @@
+{
+    "74235930e828fff55d4a4ffeabf7924202a23ab6": "qhull: update 2015.2 bottle.",
+    "23995d44664ae19312c37d6731947b32f66445b7": "qhull: update 2015.2 bottle.",
+    "37352cf9de116aa3550db177ecd9ffe7040ef94d": "qhull: add 2015.2 bottle.",
+    "0f6784e54f8b5f8d8653613295d7728afd70886e": "qhull: migrate from homebrew/science",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "ace9530c6a38b2e634592383cfb3e6840f5ece68": "qhull 2012.1",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "7c648d97320d9e146ba4babfc42c5fc7cfe29f37": "Shore up a number of shell quoting issues",
+    "7c5720e36f5d3e00f6a0ae5e5fac7b9a0e161815": "Put source path last in cmake args",
+    "9b0487af96da829c9a3ca21c93a20f9d2d2f317f": "qhull: fix audit warning",
+    "7e120845e3abad24c066d9393046260a42142303": "QHull: Update to 2011.1",
+    "62d6765a309e344b37e1103eff3fd155de216ffc": "qhull: audit warnings",
+    "4abf57a44620558f975b00f78071e22f45b29948": "new formula: qhull"
+}

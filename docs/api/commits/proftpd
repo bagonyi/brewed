@@ -1,0 +1,21 @@
+{
+    "1c1c9efa24d8777ffe20043a34f46bbfad626eb1": "proftpd: add secure mirror(s)",
+    "174f142c60693fdb8e88b73a86e0c0999a1951ea": "proftpd: update 1.3.6 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fc19180321694298a75cfb3b17413c0ef9649c70": "proftpd: update 1.3.6 bottle.",
+    "0fbb2c7b3028dd4f691dc096958bbf2fac86a2e4": "proftpd: update 1.3.6 bottle.",
+    "7d5fc8c4caab9559c7054d6e9f6ae50013d72dc9": "proftpd 1.3.6",
+    "d23c6ef8e9aee86c75e1b79ec88417c2a4cab8d7": "proftpd: update 1.3.5d bottle.",
+    "739165b790701474b3aff6acddb83ce6399c1f91": "proftpd 1.3.5d",
+    "7c3a9b88e3a6dd2ad96cc775fb6a39b71518e9dd": "proftpd: add plist_options and a test (#8237)",
+    "d78ea36982b352349b1d9eeac33760c9b9e06ab5": "proftpd: use ENV.deparallelize.",
+    "e16d53ef209820c5d5c13b3891fdb7933f71169a": "proftpd: update 1.3.5a bottle.",
+    "b0289843a5caa9b7c94fd4c372e5e13dd5445f7f": "proftpd: add 1.3.5a bottle.",
+    "24f945281b99f4b5568187ad3e084cdf0711edd2": "proftpd 1.3.5a",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c9c8f22820c4d6473b91b831005da715cccd161c": "proftpd: use patch DSL",
+    "f7c8f449ac3195bbb672d3efa3f8dbbd12c987d4": "use opt shortcuts",
+    "23db5c53ddbfdb052f6db34c42616e0eaf1d6b3e": "proftpd"
+}

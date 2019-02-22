@@ -1,0 +1,16 @@
+{
+    "a641a163af2dac31d8020e2e734240752bf45d17": "libedit: update 20181209-3.1 bottle.",
+    "ebd4a1f34519d1e6a576b47976b602c0a5c61309": "libedit 20181209-3.1",
+    "8440c32d2d6371a87731149b10cf96ce5b927aef": "libedit: update 20180525-3.1 bottle.",
+    "ec220c761e76696940955d1575d6d034a5120bff": "libedit: update 20180525-3.1 bottle.",
+    "9cb6821b62c020ef72e587ac918ee809464aa530": "libedit 20180525-3.1",
+    "843a0ff9bff776afea64f762ce390ffe5c534efd": "libedit: use *_by_macos.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8b14cc50cd4f0fc52311725966be59801a8b7458": "libedit: secure url(s)",
+    "d116a0e6c1fd087482b453d6dbb0b1b1151e0c8f": "libedit: update 20170329-3.1 bottle.",
+    "d89bd024e3a14f4ce34a60825e3afc72913b4a51": "libedit: update 20170329-3.1 bottle.",
+    "22f21bb73613ce2509a3a988e8850c93fca0e5d2": "libedit: remove deprecated configure option",
+    "facc87f241e4fed08b02813f287eed294c823973": "libedit 20170329-3.1",
+    "db5df57acbfe6fbac7f334992b6de6fff260b280": "libedit: update 20160903-3.1 bottle.",
+    "b752211a55a37dd26453ee5a8a94ec04662ffae2": "libedit: import homebrew/dupes into core."
+}

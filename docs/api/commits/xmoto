@@ -1,0 +1,18 @@
+{
+    "249586b5dfb79a6a759925c2ababe9b2a6886eed": "xmoto: remove options",
+    "393595dd727014b188771d4e91c8488fa5482b90": "xmoto: fix component order",
+    "49a59747aa029ecca7f140a5403e124165722eee": "xmoto: fix dependency order",
+    "c7d1cb407f09835d3735616115f60a5da768afe7": "xmoto: update 0.5.11_2 bottle.",
+    "85ce43bfab709e0112a88c5a5630aa7b10ff1000": "xmoto: depend on lua@5.1 instead of lua",
+    "af78adae8a6a392d8f7d664c70d53276a9831c66": "xmoto: update 0.5.11_1 bottle.",
+    "90566d6d79412d18a77bbb12c0d28be1eadecbd9": "xmoto: update 0.5.11_1 bottle.",
+    "215c26d8331f04da823dbbf41b68fa37295dc9d9": "xmoto: revision for jpeg",
+    "f1eed2fbbdfc8989389f1164da870fa59bee1447": "xmoto: https in comment",
+    "02f8d7dd338d045eba464fcc6cb958e11e97b3d1": "xmoto: use https for homepage and stable url",
+    "f558431b9282c9ae0a0e2157172075e47b672474": "xmoto: update 0.5.11 bottle.",
+    "0eba37d81e57dc125930fac7e686c3605bdee9a3": "xmoto: import from homebrew/games.",
+    "ba149d99559c03f0c023bf4cf5999c3d7213f65d": "Move xmoto to Homebrew-games",
+    "21ba9c145a7dfb721b5bf93b6f079a3499ef5247": "xmoto: disable sdl test",
+    "6822c025fb69d52222eb6245b583e0089362ab45": "xmoto 0.5.9",
+    "e2fc88c9bf7742ac2c29b219054a9d2133488ff7": "XMoto 0.5.7"
+}

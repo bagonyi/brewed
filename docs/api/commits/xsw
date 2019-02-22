@@ -1,0 +1,14 @@
+{
+    "42af298a5e4b4391e8bdd50d1f58cfb6571ff569": "xsw: fix dependency order",
+    "626e69276125f8d2604166a8e7f6a1f569ab8947": "xsw: update 0.3.5 bottle.",
+    "2cf1f520c2b8a2eeb2af53d771ab11b15d87e7b8": "xsw: update 0.3.5 bottle.",
+    "8032ca4dc8515e22e9373e71344d4473fcf42b57": "xsw: update 0.3.5 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "ed4205f16ef2644e65cd0de5b7562cfe1b753664": "xsw: add 0.3.5 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9d568a117a1161ebaef6f5225a47ba4702471946": "xsw: sha256, https, add test do, remove require, system make install fix",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "2a24b6724af479d52c498d76be950b6800206d7a": "xsw: style nits",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "bb2841569413047c6268df9853e2ed3f75b9a4f2": "Added xsw presentation software."
+}

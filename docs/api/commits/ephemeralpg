@@ -1,0 +1,17 @@
+{
+    "9c7ac66ad27fa3a396d3cbe29649f5fccca09ad8": "ephemeralpg: update 2.5 bottle.",
+    "00058ce42c3423a48aa7b392ef060fa6d8374492": "ephemeralpg: update 2.5 bottle.",
+    "0272776614b4f6e9eb3012ae4d33c847488965e8": "ephemeralpg 2.5",
+    "fb826f5b9e1f8e3dbbf85f43cdafb5229085781f": "ephemeralpg: update 2.2_2 bottle.",
+    "176d1828cac8dd830723cf0b1731999992a3a38b": "ephemeralpg: depend on postgresql instead of :postgresql",
+    "cc333092ed74db304d5ca1b7c43f2ff5d70007ec": "ephemeralpg: update 2.2_1 bottle.",
+    "e8710084582a879ebd1d34ddc15f7052fa77208b": "ephemeralpg: update 2.2_1 bottle.",
+    "8b50f0d5aaae277bd445069dfb69a062c0ecbb75": "ephemeralpg: revision for postgresql",
+    "d0c9a811032bb46e5755133e23e585e0086d36f7": "ephemeralpg: update 2.2 bottle.",
+    "4a176da779bf72f1728cf39f687b2ad0b4c5644c": "ephemeralpg 2.2",
+    "75487ecdc3f9284db6f03842d34990b7a9f1e982": "ephemeralpg: update 1.9_1 bottle.",
+    "2cdf464c1582f6b0427733a5f50eb6ff84c629db": "ephemeralpg: revision for postgres 9.6",
+    "6df25f7b8b9b55f3ae53d65b712a091eed0abf71": "ephemeralpg: update 1.9 bottle.",
+    "762f490f0edff303934909cd085d7e9042b2ebf3": "ephemeralpg: add 1.9 bottle.",
+    "d92425a43454155b0890121a9ba89c65fc0f23eb": "ephemeralpg 1.9 (new formula)"
+}

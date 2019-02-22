@@ -1,0 +1,6 @@
+{
+    "9407e39ccee9580597dd825b3264e8af17491cd5": "man-db: update 2.8.5_1 bottle.",
+    "de6cade167c371b6c42371140eb668698a054315": "man-db: symlink commands without 'g' prefix into libexec/bin",
+    "39bf67e24d05ead023b57f746fd233bda806d0e9": "man-db: add 2.8.5 bottle.",
+    "4f968e0a6e54bb9f8dda1068f1751595ec7c928c": "man-db 2.8.5 (new formula)"
+}

@@ -1,0 +1,14 @@
+{
+    "038bfc0a37bff0c2a83ea3df6804cc430fefee18": "cf: remove references to pre-Mavericks.",
+    "7791b98e38c76270e05fd2572ac60fd56dc9bcf2": "cf: update 1.2.5 bottle.",
+    "a9b4e5bf92eaeac14ecc5ed930c11e4364266bba": "cf: secure url(s)",
+    "a0657c62f9925768b25a7683076873b6d8905ea7": "cf: update 1.2.5 bottle.",
+    "99463de1bf4c31e360915768148b1ada4ae3ae9c": "cf: use https for homepage (#11654)",
+    "89e3764c92406bd49f05abfaab8173b65f4a3ca4": "cf: update 1.2.5 bottle.",
+    "583d4826c81abe48bced9ef1801743b932702004": "cf: update 1.2.5 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9a372d46e7fab19de7d2c66a52708e3e876b3043": "cf: add 1.2.5 bottle.",
+    "346f8e0713903b28521c5e565ed2c10b0932592b": "cf 1.2.5 (new formula)"
+}

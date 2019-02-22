@@ -1,0 +1,16 @@
+{
+    "3904affbc4af0b746e98d9a3bf4e0a1393e3bb84": "bsdsfv: update 1.18 bottle.",
+    "b9a8eb30b0d324ba6439814462fe9efa3bdb0aa7": "bsdsfv: update 1.18 bottle.",
+    "586866813658c0832218f4ad044ab2abc239ed96": "bsdsfv: fix audit --warning",
+    "7a07f0c6c703a4205827a3d8c684b9e9bb7f0cf0": "bsdsfv: update 1.18 bottle.",
+    "ad531eee43911c2f1ecc5e834be6883c30d2d7ad": "bsdsfv: use secure url",
+    "7746a5ff47d4a20f3cf565e1c486c2e3b9455efc": "bsdsfv: add 1.18 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6e86cdff6dbba475ed275e9e09d56d6785d3833a": "bsdsfv: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "ff07d5b55be19371e05bf4c1e8226362d45a3db5": "bsdsfv: patch for 64-bit compiles",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "316b758944bbf5d52a71c42f8db64f6f01c6578b": "Adding bsdsfv, a BSD licensed sfv checker."
+}

@@ -1,0 +1,10 @@
+{
+    "fca11b20839de816db6fd8d16f7421799f3b46f9": "envconsul: update 0.7.3_1 bottle.",
+    "e45f376a6fb09b62552ef0c94c2003724744a9db": "envconsul: remove options",
+    "18cee379f00abfa8c70ff38502f473bf65819ac2": "envconsul: update 0.7.3 bottle.",
+    "09adcc8020514aaabcfd193232750d688be02a0d": "envconsul: refactor test.",
+    "6ec425cf7dac41bb3eb31f4d109c9840bc5b3d87": "envconsul: update 0.7.3 bottle.",
+    "dab4d2cc4e23cdeee39f5956bfd3dd7f2def1ac1": "envconsul 0.7.3",
+    "7b3d28b568e7365198fbbd0a3e7c05067ec3331a": "envconsul: add 0.7.2 bottle.",
+    "51b94cb3dc9ab3c93e6f31c6e4f7dcb78f0c571c": "envconsul 0.7.2 (new formula)"
+}

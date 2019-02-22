@@ -1,0 +1,23 @@
+{
+    "bd90324df1198314d11aeaa894ebaf32d64120d6": "monkeysphere: secure url(s)",
+    "a20b263a6af7c377307f2e199212aaba286a11c1": "monkeysphere: update 0.41 bottle.",
+    "be909efaa9bdd1cf9bcd06a9636a930ae4053bd2": "monkeysphere: update 0.41 bottle.",
+    "a7ef70341746154fe58cc46b6c6c5c10e0c4adf9": "monkeysphere: update 0.41 bottle.",
+    "c01ee22e8417383c9e9516179d784672b8a7eb3b": "monkeysphere 0.41",
+    "92bb74f1d0624ce2c16834b58556b4ab8456c4d3": "monkeysphere: update 0.40 bottle.",
+    "63e12dc0ff548108c21fb24f10b055363b51aa57": "monkeysphere 0.40",
+    "6043b26ff5b3a8c514409184848b626b39c954cf": "monkeysphere: update 0.39 bottle.",
+    "3220c1a5b0da0a366dc5f65e0c8c23657794dff9": "monkeysphere: update 0.39 bottle.",
+    "72f5398e68de6f410cd8dc09e5edae04dbd3f0cd": "monkeysphere 0.39",
+    "78a457bbde2d229a8896e4c6af5eb2c56d1ff3d0": "monkeysphere: update 0.38_1 bottle.",
+    "c5ff2ad0373eb76d142b730fc011c01baa5ce289": "monkeysphere: revision for libgcrypt",
+    "03e096a705ac52b2d8f3cfc13b77a13957816bfc": "monkeysphere: update 0.38 bottle.",
+    "1f6165eaae0787307d16d010bf31990f0ab59acf": "monkeysphere 0.38",
+    "1c7c1750fb7e32837715f62bfe8ad55ee91a8f34": "monkeysphere: add 0.37 bottle.",
+    "8d1d856a41a500d74919a0bd14ace308adad5213": "monkeysphere 0.37",
+    "4dcbcba782794c7962a38a3aa88f79a0fc67ffaf": "monkeysphere: audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2fe74655d4ffdb4b80509dbf150e3b93334cf5fb": "monkeysphere: use patch DSL",
+    "5a34d3c1f884f7cf28df5df790c18f7023f2614c": "monkeysphere 0.36",
+    "f754047b135ecd1d936f8bf9663ad419ff2085a5": "Monkey Sphere 0.35"
+}

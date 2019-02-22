@@ -1,0 +1,22 @@
+{
+    "846248c9f7160132e7822b66fc445e4193bac3f1": "kyua: fix dependency order",
+    "bb68d6d1c772a473afcf5c7f57a1d01fd8acd03c": "kyua: update 0.13_1 bottle.",
+    "d45bfc13a6a6c672d980f21f38a4e4ece471e667": "kyua: add lua header nudge",
+    "6f72c13f6903e5c8bb089c2eabbf279a627046a2": "kyua: update 0.13_1 bottle.",
+    "bf529fd95c40fc7726b25d5d4b8d6296a4f7eacc": "kyua: revision for lua",
+    "dc694784877f6611057db0b03016297a4edf0755": "kyua: update 0.13 bottle.",
+    "352adf9c62ddc2b6f9e022428f5959bb91838f25": "kyua: use ENV.deparallelize.",
+    "82d8d4aca8d58c4321f301b968e55e52abc7d694": "kyua: update 0.13 bottle.",
+    "c36593ec3838af6888402f2ac2cba077e0d8766c": "kyua: update 0.13 bottle.",
+    "6ff8d6771d17e9042f99737ed7bdf75c01547c84": "kyua 0.13",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "d8aed284f5b2d8e289307babc495e50510cebcae": "kyua: update 0.11 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "46ec8538cce0a573dd478a663d8921744f576d0f": "kyua: update 0.11 bottle.",
+    "d6b08584ad8fcb67bab2237c1223d7d3d14452ae": "kyua 0.11",
+    "504e31b6ff5ef5d026d6327f9d09f72dba9ee4fa": "kyua: fix atf and lutok dependencies",
+    "faaaf2f387a9260210f3e5aa2d57b65790b8efe7": "kyua: add 0.10 bottle.",
+    "659ae282c8bd32ddbb9d5e4ab10a0b0866f076d9": "kyua 0.10 (new formula)",
+    "88a6d4c0268ca010991ab035fa4043ee254c1748": "lutok 0.4 (new formula)"
+}

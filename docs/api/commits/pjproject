@@ -1,0 +1,19 @@
+{
+    "925962481fb9cb931e1390a823dfd5275817dcb9": "pjproject: secure url(s)",
+    "4bf5768d13a331e590b629c918b0022b908d5ca7": "pjproject: update 2.7.2 bottle.",
+    "31beb96d7547f9211b88e67da4aa81faa708b6fc": "pjproject: add head (#26971)",
+    "c54f81f3829de084d4e42bf2d1e1424917ee4dac": "pjproject: update 2.7.2 bottle.",
+    "0c38ef2e53427c86140c6047e5da4f7b15c2294e": "pjproject 2.7.2",
+    "c5d26e5dc0604eceecdbdf6ad3d4375fc876fcf8": "pjproject: update 2.7.1 bottle.",
+    "ee25a49dda65d51a9f0b5dba4993bd196ff0879b": "pjproject 2.7.1",
+    "f9ac4e6198e9a2a12231cac503e6971b4939794e": "pjproject: update 2.6 bottle.",
+    "d8e46bcdc1f45b55c512427f439144964863271e": "pjproject: update 2.6 bottle.",
+    "00e029a0b8a4bbd4ad6979d7096cc15736ae6c91": "pjproject 2.6",
+    "6e907664475424949be7fdbd947d8096ab6be712": "pjproject: update 2.4.5 bottle.",
+    "ef99332a75462f4033e0d9f85eea4123a8c3a369": "pjproject: update 2.4.5 bottle.",
+    "b526ebb45f8cb60783984558ceee33730e9d1d4a": "pjproject 2.4.5",
+    "28578d5c11258b3718fa94582b9e0756bea3aae6": "pjproject: update 2.3 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "979b3050e6aa48d67bacf929ec01fdd7817dbe41": "pjproject: add 2.3 bottle.",
+    "aa5aae0db52829647febc1c70ff7edf80f298592": "pjproject 2.3 (new formula)"
+}

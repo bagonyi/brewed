@@ -1,0 +1,7 @@
+{
+    "fbc383924f8f9363b2d5959e5e4f4159accce0d6": "ampl-mp: update 3.1.0_2 bottle.",
+    "a59e19f7824b7885a485b60534f9272795f3837b": "ampl-mp: improve/secure repository url(s)",
+    "9797a6f2be136458f0522b2ac02fa9272505f575": "ampl-mp: update 3.1.0_2 bottle.",
+    "ab3d390dbb96da86ebb85fed7a5e4f4ffd699700": "ampl-mp: add 3.1.0_2 bottle.",
+    "06cbff6787315cb8a1d17a4ec7856aae315c49f6": "ampl-mp: migrate from homebrew/science"
+}

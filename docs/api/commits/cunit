@@ -1,0 +1,20 @@
+{
+    "30d727fc0d8643d09bf3b16383621a62bf77f1d1": "cunit: remove references to pre-Mavericks.",
+    "1fed6d81cec594cdad3b116edbda84defe4dca99": "cunit: update 2.1-3 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "5c8f05e6600ec07708141d486e5b8e5db17822c4": "cunit: update 2.1-3 bottle.",
+    "4e27359ea9a8f40f7f82fc9193d4581640fc3a84": "cunit: fix audit --warning",
+    "3b6791763cc1e0d9b222e660b3e4400a376d3eeb": "cunit: update 2.1-3 bottle.",
+    "8cbd3033225a4b348a9f7fc9262aa4bac16d6833": "cunit: update 2.1-3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "16f9d6373298b18d2e70951dc493d3c46864b87a": "cunit: add 2.1-3 bottle.",
+    "78337a2837b9fff82b9a19b2bf6ef61844c3e32a": "cunit 2.1.3",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "010aa1e60c1cab392480debcb8ea9c31d5713036": "cunit: style nits",
+    "f50d20ec154ff7b5e55f64fccbb926776b37ae16": "fix version audits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "f110bb29087a410ff1cabe93553e7c27e77e2902": "CUnit 2.1-2"
+}

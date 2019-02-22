@@ -1,0 +1,20 @@
+{
+    "1f2ec4a7ea6b88634e3effdfd438b561e3e81910": "cryfs: update 0.10.0 bottle.",
+    "086b085eb5b5cde43cdac17f657d6d42d448b434": "cryfs 0.10.0",
+    "fd7e474f3457bb8cbe8a18654e23134769f5c1fd": "cryfs: simplify mkdir in test.",
+    "763c6df1a77399c5b2d1e54602cfff4725d0c526": "cryfs: update 0.9.10 bottle.",
+    "4a313194e17f96998032462382f924d0eb6bb007": "cryfs 0.9.10",
+    "d76188bed37f62620883d62bf79210e89bb21acd": "cryfs: remove checks for old compilers.",
+    "9ba3d6ef8891e5c15dbdc9333f857b13711d4e97": "cryfs: add OpenMP support to HEAD (#32588)",
+    "9e05af0c5ccddfefe5579d64d472cb15c271c8e7": "cryfs: update 0.9.9 bottle.",
+    "ee1265ca4d06987a3f91cd393a08cfabae868403": "cryfs: update 0.9.9 bottle.",
+    "58ba55248e5c95f0988c581f5f47ea0a415d3c47": "cryfs 0.9.9",
+    "1202fc7892f15f8cad59922337db4655b03ea54b": "cryfs: update 0.9.8_1 bottle.",
+    "785ebd2a119e43cb612de80f5482bdb46545d0ee": "cryfs: revision for cryptopp",
+    "deddf8cb1a8bd6b9eed61b2b7671cf2f55951d3c": "cryfs: update 0.9.8 bottle.",
+    "323d2d1027069724909e654e27c8e6cff379c103": "cryfs 0.9.8",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "99937986f998cd31bc0ff9cf71960c5f7c336d9d": "cryfs: update 0.9.7 bottle.",
+    "d162f0ed02e55fbbf2bcbf1595163dda760313a4": "cryfs: add 0.9.7 bottle.",
+    "43c9a3416a893caafcdc0da651b53f241b6320d1": "cryfs 0.9.7 (new formula)"
+}

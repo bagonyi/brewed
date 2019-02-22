@@ -1,0 +1,12 @@
+{
+    "66fdae2007ee0492fbabcec1a2a2570e29fa39b5": "gpa: update 0.10.0 bottle.",
+    "c2477dff647407cf09d77829443821ac91fa6522": "gpa 0.10.0",
+    "ba7c75214dfa04a4ba112d4d934be2d2c41efeea": "gpa: update 0.9.10_1 bottle.",
+    "7d23e32bdb6c41498e2fbad55ba0fdfbc556c164": "gpa: revision to fix install receipt",
+    "625f60785999df6c42e391e58f02b251831dc759": "gpa: update 0.9.10 bottle.",
+    "27426cb83de466730f9ffc65a74e1803a98a4371": "gpa: update 0.9.10 bottle.",
+    "1b613b3b9444284ced1bcd717248d2f29301c73f": "gpa 0.9.10",
+    "24bfb598a7fc9e3c717f9917b9b325c86cedaef4": "gpa: update 0.9.9 bottle.",
+    "c16db098d408839601979f47d12529fc0b39f5cd": "gpa: add 0.9.9 bottle.",
+    "3c19b7ddb1a925d0311ce3b5185028a2ba37bdeb": "gpa 0.9.9 (new formula)"
+}

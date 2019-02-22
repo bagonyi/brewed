@@ -1,0 +1,13 @@
+{
+    "81f291447a37a7d4a17956172894c335ff7287ee": "ploticus: update 2.42_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "db438d56c64c8d78429dde1e7dcae8a086bcf06d": "ploticus: update 2.42_1 bottle.",
+    "afb86fdaf4470a68b29faad15e02d0a732ab83f9": "ploticus: fix rubocop warnings.",
+    "43df52252ce442804473246e41540d1fdea6ef20": "ploticus: fix audit --warning",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "8085ebf0438a041ab7664fe0c44d128f51bb649d": "ploticus: update 2.42_1 bottle.",
+    "fb331c718ac2bb008c280e0a5788d7585f013fe3": "ploticus: update 2.42_1 bottle.",
+    "18de525327c836ee2f9ee37d8d639538098bc160": "ploticus: add prefabs to installation",
+    "1009fd4acdd3c9678fbdc5cf83c8532acf2d0aa6": "ploticus: add 2.42 bottle.",
+    "d9012ffc26a18a29e28d5bd010d9d80251d3f56f": "ploticus 2.42 (new formula)"
+}

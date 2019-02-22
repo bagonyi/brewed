@@ -1,0 +1,21 @@
+{
+    "00e97c87306f609302d555d497251843ce11dbd3": "forego: update 20180216151118 bottle.",
+    "315947787b3e552d8520275175fc9d9dd9846dad": "forego: update 20180216151118 bottle.",
+    "7db217dec89a57bcb0b7c246050528bc77c52c71": "forego 20180216151118",
+    "da270c7dd64529670b0bba1301bb67f18d823ec7": "forego: update 20170327195458 bottle.",
+    "bd0842f7ad59ca12338821ec65a7c92c1880baca": "forego: update 20170327195458 bottle.",
+    "f6f07421543edc9f555b2b9ff41b1be46ee50c49": "forego 20170327195458",
+    "8615ed5bf3c356ddd998c607872ae8210715d424": "forego: update 0.16.1 bottle.",
+    "8591c44684c005b33e3dc81c118b8ceb8da550ca": "forego: update 0.16.1 bottle.",
+    "5f3985934f9901117cac23028a1a00ba41092979": "forego: fix flag passing",
+    "0404b897965dbc86f2525a29011bcdadd92d0da2": "forego: audit nit",
+    "5ecb8409229db01496ec7c5ea8c6cf023d201d07": "forego: update 0.16.1 bottle.",
+    "09b2d06c55c57db2b145d63f6fad8ea99896fadd": "forego: use godep formula",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "202bba5a2d11ba64e5862d7d3d407aa0938829d7": "forego: update 0.16.1 bottle.",
+    "28c11fdd2de19010ba804846fa421af770b1e640": "forego 0.16.1",
+    "3fe170e805cc42d41f3d5b7e17123b2c03b0bc4a": "forego: update 0.13.1 bottle.",
+    "ad6818944ae114956f2cc389ee3e1bf801c9812d": "forego 0.13.1",
+    "bdfa22a9ffaec74f9edb42e7af7c7863adc7ce59": "forego: add 0.12.0 bottle.",
+    "d78d992cf0bc9bfbeca9300269d768c74c1abda3": "forego 0.12.0 (new formula)"
+}

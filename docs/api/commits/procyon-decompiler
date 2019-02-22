@@ -1,0 +1,11 @@
+{
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "bd0fefc9887e47b25c82bdf1687090fa130f65f8": "procyon-decompiler: bottle unneeded",
+    "24058bd7079e78f8f475007011e83401d7b27457": "procyon-decompiler 0.5.30",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "e6e3938bf485c3ebe90acf84d5e104f111431625": "procyon-decompiler 0.5.29 (new formula)"
+}

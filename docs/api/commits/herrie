@@ -1,0 +1,15 @@
+{
+    "3f15e98ff7d9900ed0085e6ab4a59e53086b1cf5": "herrie: fix dependency order",
+    "0a41a4399e32a03387e59468ffad48f67b3b8a4e": "herrie: update 2.2 bottle.",
+    "5ade0fe703aae4d09504f8e355041771fc035941": "herrie: secure/fix url(s)",
+    "7b3e1797fef696b2ee66482caf41dd37b5c58224": "herrie: update 2.2 bottle.",
+    "897336972ba5eb85dca11778e8469f8abd6ade32": "herrie: update 2.2 bottle.",
+    "846d923259b98ecdd914461660196c27ce5d2f60": "herrie: add 2.2 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3d8ae67b5ff5f970a16dcfd4968bb78de8f28fd5": "herrie: basic test added",
+    "74b001102c066233d3cf900ab6ef415af51ecffe": "herrie: needs gettext at runtime",
+    "8c60c16642e36d8042e4a552442720349509e1f4": "herrie: missing pkg-config",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "617f88c2431a6a1ef0710dd088eea35857d7e50d": "herrie: depends_on glib",
+    "47373c9fc5d0c13e7948d0c924784d1eb57ed68f": "New formula: herrie 2.2"
+}

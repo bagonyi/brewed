@@ -1,0 +1,23 @@
+{
+    "daa063f9ec320df6998f23d93560c72ee8093b2a": "chrome-cli: remove references to pre-Mavericks.",
+    "90658c614f88545ddb89f859634db40144f4c004": "chrome-cli: update 1.6.0 bottle.",
+    "d499bc3bdc6fb878c40545f093240c5fcad2f184": "chrome-cli: update 1.6.0 bottle.",
+    "5901b2b3c0998cb0fea853ada561bea95fe27e7f": "chrome-cli 1.6.0",
+    "450b2a84094fc0e38fb691d13091bd3a3af87829": "chrome-cli: update 1.5.0 bottle.",
+    "19cda2c4fe5210d68236d03d2fbab4a7fef3a3e6": "chrome-cli: update 1.5.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "7465ffc90681046fefb09b9dfae119f3468159da": "chrome-cli: update 1.5.0 bottle.",
+    "86fe8354f799e822f6c759ba2260ea485ecc1021": "chrome-cli: update 1.5.0 bottle.",
+    "b4cb7dba87c60ca3bc1ec12b7c59195cc52df26b": "chrome-cli: fix wrong \"inreplace\" string",
+    "34b0cb7e128553f0958c1fa4305aff8933d82dd0": "chrome-cli: update 1.5.0 bottle.",
+    "0c899560f6b0bb711920a818be6296aab9197f6e": "chrome-cli: add support for chromium",
+    "8860cb8d7be5cca134924f4b1ec634dd27003bbc": "chrome-cli: update 1.5.0 bottle.",
+    "63141400249f5d62cf3c00708c268af577002724": "chrome-cli: use sha256",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9ebe66e570ac7e2f8f75d456ae1dfc50111ed7ff": "Explicitly mark Xcode deps as build-time deps",
+    "f83cab7fde5d186abda078b2fb6af90b54bad2e1": "chrome-cli: update 1.5.0 bottle.",
+    "91f6465b4e4fe6cc23eab626e397f852a82f808d": "chrome-cli: add chrome-canary-cli",
+    "e1c0729f49b6a00c386a3662e88d92e8084d0f47": "chrome-cli: add 1.5.0 bottle.",
+    "9a656d9181b4e6785ea4bffb96c4f138ba8b6e74": "chrome-cli 1.5.0 (new formula)"
+}

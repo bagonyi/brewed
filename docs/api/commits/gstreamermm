@@ -1,0 +1,23 @@
+{
+    "67b65c823c96acbf4ed4038cc1a8036eb6532de4": "gstreamermm: remove checks for old compilers.",
+    "b1f430bbefa1f4ef0f0e59b53f49ef3ecad4e54b": "gstreamermm: update 1.10.0_2 bottle.",
+    "51e8744d220d5d7f29475386dfbe547df71e350c": "gstreamermm: revision for ABI change",
+    "3cc2c3291402e0f06404e3643b27b33bfbaacc09": "gstreamermm: fix dependency order",
+    "31fef73fb0460137d9bd3d6fa194cf13234916b4": "gstreamermm: update 1.10.0_1 bottle.",
+    "f5c152984d4ef5dd9f714017ea9b5c08ac5f73ba": "gstreamermm: update 1.10.0_1 bottle.",
+    "3decf9e36862feefa78cd2741f835761c334041d": "gstreamermm: revision to fix install receipt",
+    "1e50e601dbf79795bece743294a17bf69bbd9509": "gstreamermm: update 1.10.0 bottle.",
+    "ade9a616d23af2cd34b399790184fb9e96a04fb8": "gstreamermm 1.10.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "ffb23f5da1f36602ac3f97b106b7af3cf969a3b8": "gstreamermm: update 1.8.0 bottle.",
+    "7373a619a0cb73b70281dfa3b7420823bb62dbf0": "gstreamermm 1.8.0",
+    "bb6fe1ccf129651880fc0ea10f86635bd10826e5": "gstreamermm: update 1.4.3_1 bottle.",
+    "da9e80a22babc9bf5f1d6cf9cab3d1432c1952dd": "gstreamermm: remove compiler flags found in the environment",
+    "bc4c791b2375aa30ca4384bbf5fae189aaf02c14": "gstreamermm: use secure homepage",
+    "05380f4062bbae2e307050a76249e505ca8dd829": "gstreamermm: update 1.4.3_1 bottle.",
+    "193da10b50fd1765012a0fc1f3726f86c21d8905": "gstreamermm + gtkmm: C++11",
+    "3166a0467d3ba379ded0686a4ea3c19d585d2917": "gstreamermm: update 1.4.3 bottle.",
+    "46f34dc43bfec96a461d94378f9e4b193a799b3e": "clutter-gst and gstreamermm: test fixes",
+    "c44c0666076da3dfc35bbf89703aa22affc1a48a": "gstreamermm: add 1.4.3 bottle.",
+    "a6831a8039a7725eea16d75b1cfa54b6eaa2e72d": "gstreamermm 1.4.3 (new formula)"
+}

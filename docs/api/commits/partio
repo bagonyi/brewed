@@ -1,0 +1,14 @@
+{
+    "2ac5fc81f4aaec1a4336ec8def80537426560078": "partio: fix dependency order",
+    "0f02fd662e79f10c06a5325caa8f81158f5e3631": "partio: update 1.1.0 bottle.",
+    "8372cdb17af25fc657dd5c330cfd06551a97896d": "partio: update 1.1.0 bottle.",
+    "3651399772084041ff7bfd45cb7cf11e9f9aeaf2": "partio: use full_index patch",
+    "69bd4bebcdfb18c1c70b8e490db20cca0dae07e9": "partio: use GitHub repo for homepage (#10196)",
+    "fd136f3bd2a2acd0f1a8ccfa491a0a70f61624f7": "partio: update 1.1.0 bottle.",
+    "93b7e1dbc2f55cab21cdb779b592cd1f8901250d": "partio: add 1.1.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a649d9b4eca4e9bc9ba3e52373a749a697d98416": "Use .diff instead of .patch for github commit sourced patches",
+    "d0fc9a861f36dd80068d8dae0dd4c5d41d0f7236": "partio: use checksummed patches",
+    "19b72cc477ceaf353641857dd72aaaf3a8d4514e": "Partio 1.1.0"
+}

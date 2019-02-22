@@ -1,0 +1,16 @@
+{
+    "f0355e97a4ca3526bb1a0cfb9ddda8052218a8d0": "expect: remove options. (#36226)",
+    "7558184a99c8beefb01eacaac4735f80537ac746": "expect: remove old code.",
+    "2d375572337d22cc74a7d7ff0b2e8724df84bcef": "expect: fix dependency order",
+    "403dc9714793d1ccc5e5cb2a6ab04172cc0f831f": "expect: update 5.45.4 bottle.",
+    "0d1f3ed3345cd80a254167db1401872dacde4692": "expect: update 5.45.4 bottle.",
+    "2de64abd17cd279dc16a1622c7ab25df5f483282": "expect: update checksum",
+    "8571096379e0c2507e22ccf5c9ecd4af44f2ffe9": "expect: update 5.45.4 bottle.",
+    "f5c7a0800caff971b36374d03c2fccf98563598a": "expect 5.45.4",
+    "f320e244c412b0e70e1cc0ccaec4f74e07526060": "expect: update 5.45.3 bottle.",
+    "68e519627319ae71d3122d0e1075a8389680d695": "expect 5.45.3",
+    "851994c83e0f69fa417be303c8140251a9ce535b": "expect: update 5.45 bottle.",
+    "4c859bd25c2245e7c55da01cb7304ecfce3d6642": "expect: fix finding Tcl/Tk on 10.13",
+    "9fda72602c2138e785f8601e96cfb9c6455b64fc": "expect: update 5.45 bottle.",
+    "d3fe2ee76de4de87fec3a173817cdc8e9b71e2b8": "expect: import homebrew/dupes into core."
+}

@@ -1,0 +1,6 @@
+{
+    "8ee8121b76c86f59564136e3ac47d92e67c1706b": "soundpipe: update 1.7.0 bottle.",
+    "f01aef5c3ccd66860bcbc90589d0404464244f0f": "soundpipe: clean up install method (#28223)",
+    "7ff79a05533166c6e6fceb17cfcbca4eea3743c7": "soundpipe: add 1.7.0 bottle.",
+    "c7bece57d4a212ed6e7f37929e70d585c15b8211": "soundpipe 1.7.0 (new-formula)"
+}

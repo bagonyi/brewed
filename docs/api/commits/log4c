@@ -1,0 +1,23 @@
+{
+    "56b56be4cb36ffd7948832d49271164758d2a42a": "log4c: update 1.2.4 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "c2142468d5e9f45cd8eca472b2f0903955038822": "log4c: update 1.2.4 bottle.",
+    "7f3d53321f1ecaf5326ad05b59daccf31646cb4e": "log4c: switch head to git from cvs",
+    "6614c8f09b2cddb1cb5e7c718c5bbd6a498391eb": "log4c: fix audit --warning",
+    "e5481b011bdff9c030ac1274dd822cf0417a7a85": "log4c: update 1.2.4 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "37d9d5c8484a30c0346e3756b07a58d3fecd4652": "log4c: add 1.2.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d7f3beadc7890e7ead2132c955155aace30fa03a": "Deprecate appending the CVS module name to the URL string",
+    "7e0ae2acae8d0f7c8e3ed472bada45d6e1ed168f": "Prefer :using over made-up URL schemes",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "22768b2714332d1c24431d8782f2b958a57db5f6": "Added empty password for anonymous CVS access.",
+    "e5c032eff55835cc9adafdc4dba0667c5a45ad2c": "log4c 1.2.4",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "768078bb5734edeb87cd97cbacb0b2d6017b3b66": "log4c 1.2.3",
+    "19bad15facdc8422beda4ee87454e29ec1ee7952": "log4c 1.2.2",
+    "72ee523cd77de678ab8b3b18f48e46f94a65937b": "+log4c-1.2.1"
+}

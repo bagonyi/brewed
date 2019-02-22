@@ -1,0 +1,15 @@
+{
+    "c60735c77c3776576c2f0454f88470ae1f75946f": "engine_pkcs11: update 0.1.8 bottle.",
+    "fe1fcf2a6b1ac7a2207a57cca5b78375b7e571f1": "engine_pkcs11: update 0.1.8 bottle.",
+    "2fa39e61b048f1934668b662a16ae146ea240adb": "engine_pkcs11: update 0.1.8 bottle.",
+    "c020e80f12ba4454a14d887387de90f92e23a286": "engine_pkcs11: add 0.1.8 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f1528e2233503b6b6a6dd3927562ebf3dafd7152": "engine_pkcs11: use Homebrew openssl",
+    "facd5cb85faa9d6ee58ca834b6db51c447aa04c1": "engine_pkcs11: modernize autotools deps",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "c91fe197d436c2f2acd009e79899c61b7b07c7f5": "Add more missing :autoconf deps",
+    "b23c98268678edea4b9c25404076a166e6ed6e77": "engine_pkcs11: use spec deps",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "d3e4efb57ee8a6fb000f25c7278efac9bc65c81e": "New formula: engine_pkcs11 0.1.8"
+}

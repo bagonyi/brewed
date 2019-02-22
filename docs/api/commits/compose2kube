@@ -1,0 +1,9 @@
+{
+    "c3ea7c857d2c8338619712f3b147ccb2dbeeef3c": "compose2kube: update 0.0.2_1 bottle.",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "38272164f191dd253c97993e1a025ab7d4b6ff16": "compose2kube: update 0.0.2_1 bottle.",
+    "22dfa0fb3f883ae49dc3e74d1cfa1ef9cfa7fdb5": "compose2kube: update 0.0.2_1 bottle.",
+    "42ad2b7156c0f8883c9d1800e410afcf8a4d4608": "compose2kube: remove unnecessary `go get`",
+    "18459c3462db3cec20e9266b5cb98acf66a145dd": "compose2kube: add 0.0.2 bottle.",
+    "4e0f1cb29f561e31d047f2080c7c7cf3d6b1af81": "compose2kube 0.0.2 (new formula)"
+}

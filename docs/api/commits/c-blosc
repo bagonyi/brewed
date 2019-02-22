@@ -1,0 +1,6 @@
+{
+    "0704c364d08f9731263f0d873d67da3595e818cf": "c-blosc: update 1.15.0 bottle.",
+    "9ac7fa8793e217261c11e810c63856f4fe79ebd5": "c-blosc 1.15.0",
+    "fbf8d7f6e0836632598ccc5a45d71f9b8c331c06": "c-blosc: add 1.14.4 bottle.",
+    "a310fcc10bd9d90055181e0774885a356e5e99e9": "c-blosc 1.14.1 (new formula)"
+}

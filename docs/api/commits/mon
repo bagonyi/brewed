@@ -1,0 +1,16 @@
+{
+    "7977ca1de2feaef447c32bd9cb5d6f61a0a0790f": "mon: update 1.2.3 bottle.",
+    "0d7d5cc1f2a68ab143d1d4cc2f46337d8cf2f23e": "mon: update 1.2.3 bottle.",
+    "121db05ad35210029d202c4e3664b13757e49525": "mon: update 1.2.3 bottle.",
+    "057081dba8aae2a7c8baa81e1ece81dd0a4fc70b": "mon: update 1.2.3 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "c2965a6a8c346910a5256ea32dcb9339e5f509fb": "mon: use full path of executable",
+    "c4fc778c6cf742f59bd3ebbc86185bdde0d4baad": "mon: add 1.2.3 bottle.",
+    "06478a365269ab64ebd101fba5c1c7e06cfd2f2b": "mon: add (crap) test.",
+    "ee3c4a2891233e6771fe93403a0f086f671b5287": "mon: use make install.",
+    "a1b0ff4b00c2ad1fc6612c02eaeae524431d69ac": "mon 1.2.3",
+    "e14fe43554118e8ea803c0f12b05cc5c871cf5b6": "mon 1.2.2",
+    "aac14b659f954bf7dd38952918656a500c89e922": "mon 1.2.0"
+}

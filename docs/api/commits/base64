@@ -1,0 +1,16 @@
+{
+    "18264646301d2f1324043c83b73e6e43de65812c": "base64: update 1.5 bottle.",
+    "fdebb058695f8603e30d11b3f8a4d6dfd3deaa40": "base64: update 1.5 bottle.",
+    "19b2d1c36739ec9b3fcd75c77ea9b12a89efc51b": "base64: update 1.5 bottle.",
+    "791a8f95f8d5751e2ad0db56671ce8018324bc5c": "base64: add 1.5 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "7b1b922a6be15bad48d33f28046fa3b2ce901e72": "base64: use SSL/TLS URLs",
+    "aee1ca9e642e59c6644c512720045b8788258bd7": "base64: pass strict audit",
+    "1d9631c423c4b0034eeaab1ce4fdf167651eed81": "use test helpers",
+    "8bd8d1a62989130dddca9a73282e22f3d608eebd": "base64: add test",
+    "93215f951ab70e232bdca01c0b2b9b26c874e24e": "base64: install manpage",
+    "79db41955a0e7db68bdb17b0dae1a0db074a9818": "base64: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "697d69c740aa63a53435f37a4dc5421cc02344f5": "Add base64"
+}

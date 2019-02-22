@@ -1,0 +1,15 @@
+{
+    "dcf655790b5a30b9018bebca5f83688af49d9bb2": "libuecc: update 7 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d3758070b7a3ab2bb1f674835ee9bbb62a293e53": "libuecc: update 7 bottle.",
+    "17e73113bff024ac8a274a1e93c7b86debc626af": "libuecc 7",
+    "0947d5fd97bf23988c2d5ee83ccc889aec4e1334": "libuecc: update 6 bottle.",
+    "d1eab0e15d86d1af79a6d0e76c81d6e94f13315c": "libuecc: update 6 bottle.",
+    "458784a69bde3bcaedb0c44728cb7e26ed6f3569": "libuecc: update 6 bottle.",
+    "1912dcbc80d9012b9d4a96006d608a001eed8a3b": "libuecc: use secure urls",
+    "1db75039419180c087630016dda076027a564b20": "libuecc: update 6 bottle.",
+    "a0d27ef981a05ac8f4a4ccfd16107b3c203a9030": "libuecc 6",
+    "72dae86724f85e6f57b554b6fc3b3bbf9fb71784": "libuecc: add 5 bottle.",
+    "fd5c33bf222f944f0e48e7b4db2fcb303b66b9e9": "libuecc 5 (new formula)"
+}

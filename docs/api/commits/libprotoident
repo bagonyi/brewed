@@ -1,0 +1,22 @@
+{
+    "58b330fbed4f923f45726b37c094e675e1fc04ac": "libprotoident: fix dependency order",
+    "e3fb4cb0348fb5054f7e32c9f1681e05ba848f7e": "libprotoident: update 2.0.12 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a2cecf89ab9d2b7d300ce56d857c3e353ed924a1": "libprotoident: update 2.0.12 bottle.",
+    "f1908208ad7e7fc29c25f418a3053e71e569a65c": "libprotoident 2.0.12",
+    "06134f9cf0a13141f9b1cfda5ec688689c3b2ec3": "libprotoident: update 2.0.11 bottle.",
+    "d9ab063167f90c924d661814b2b671a7c911f484": "libprotoident: update 2.0.11 bottle.",
+    "3e48604a16510f0d750f312ddc5a82bb9b350094": "libprotoident 2.0.11",
+    "6f8f320026dd4abfc02c139ba1af6402d9bddedb": "libprotoident: url updates",
+    "266dbe3b0cdd590f08dfb2d1cc496d820b12a728": "libprotoident: update 2.0.10_1 bottle.",
+    "e0515b1981b48e194441aa9396c14dd495506358": "libprotoident: bump revision for libtrace",
+    "07e19163dddc46f6621b7f0fdd48629f85f86b67": "libprotoident: update 2.0.10 bottle.",
+    "e6ecd9c89a36edc4f33f4ef0df1d47a6a9063d62": "libprotoident 2.0.10",
+    "4f0599f1ad5dd2008cf0b6d3af6392ab26bb555e": "libprotoident: update 2.0.9 bottle.",
+    "22c550c83ef5dd6140e9b2d4aa7b5df93af5ce52": "libprotoident: update 2.0.9 bottle.",
+    "528bd3bebfcdb2b4d7c70d345fc4d69f365da4cd": "libprotoident 2.0.9",
+    "04a0be0c030d4a342987052214d83d0aa2b96ec4": "libprotoident: update 2.0.7 bottle.",
+    "7bfb6891dbc180c21b975f0ad170a1f5e0caf340": "libprotoident: audit fixes",
+    "f68a72dc79bf3e9e9c58edaa1ba9ae125fae1605": "libprotoident: add 2.0.7 bottle.",
+    "745664d88ed8aee222875816a3350681310f4870": "libprotoident 2.0.7 (new formula)"
+}

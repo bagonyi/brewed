@@ -1,0 +1,16 @@
+{
+    "e98529cba87da2c31e06013e83e70ac1ed451dcc": "enigma: remove checks for old compilers.",
+    "1056c03cf975afb59a16fb8c15c013420d01caec": "enigma: fix component order",
+    "2faf9ff9638e43331046b3e3242523f2712fd347": "enigma: fix dependency order",
+    "13406c4a89f324b9d23adbdd104df9657074058e": "enigma: update 1.21_3 bottle.",
+    "7505271ba7039376d555d22729972e36275c22d1": "enigma: secure url(s)",
+    "7360153f5d5ab26102d562dd5f8aad4e6ad9c513": "enigma: update 1.21_3 bottle.",
+    "e336939db1fe157cf853048f8d32f24251fd74df": "enigma: revison for sdl_mixer",
+    "ecccb8ca3035de7961eb7e0b424b08c75131dac3": "enigma: update 1.21_2 bottle.",
+    "567e3842c8f83de5286e9fa663d129e364152821": "enigma: revision for xerces-c",
+    "12f0868c6e17379a557dbeaf580a9c1fc4e1a89d": "enigma: update 1.21_1 bottle.",
+    "451bc0281dde446b83f521c1744e84a9ef560f24": "enigma: update 1.21_1 bottle.",
+    "ee23790ffe42263971a7bbfaa20539351317f9f4": "enigma: update sdl_mixer dependency",
+    "a82b260ccfb7b28c8de34c30b9f57f87a031c385": "enigma: update 1.21 bottle.",
+    "bbe795edb49530f58d0391e01556c493d7b47065": "enigma: import from homebrew/games."
+}

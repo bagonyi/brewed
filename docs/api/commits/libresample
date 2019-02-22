@@ -1,0 +1,13 @@
+{
+    "5de22ebeb55ba0a815ce65979b0c7f2c14050a98": "libresample: update 0.1.3 bottle.",
+    "a86e880b01b1707a5faee6fef177eace04302d2f": "libresample: update 0.1.3 bottle.",
+    "f533c18d2917b6b7e91eac2720dcb4ab001aaec4": "libresample: update 0.1.3 bottle.",
+    "0d92186680ccf03fdb09800ee14057f1c2aceef0": "libresample: update 0.1.3 bottle.",
+    "0cf8bb09b0c0f6aa2b985616533a2d3d10fc6a49": "libresample: use secure debian url",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "47dcdc77606ebac14da86cadf5065c00bc730128": "libresample: update 0.1.3 bottle.",
+    "ef925dff7f526ceb4d800fb660e8ac4d44a72e6c": "libresample: add 0.1.3 bottle.",
+    "48b64d6eee1b7442047590282d25285e9faf7a62": "libresample 0.1.3"
+}

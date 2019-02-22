@@ -1,0 +1,14 @@
+{
+    "1a96b55c6fc5947d2ee9b113f472092dbebcf2fb": "cp2k: update 6.1 bottle.",
+    "3c1e8f29fca691f315cba13610a2f879e3e36d3b": "cp2k 6.1",
+    "7960062107ddfbd04ff0a44c72999204f9c30cce": "cp2k: update 5.1_3 bottle.",
+    "3a70cb3c41176452866a03ed92a6c93a01f5df90": "cp2k: bump revision for open-mpi-4.0.0",
+    "0b87682949d417a73edd331ab14efaabaa3211e5": "cp2k: fix download URL",
+    "0e1b5770b8ea0b658b049cfb369812228266774d": "cp2k: update 5.1_2 bottle.",
+    "8e1383074aa4629917a0678f1bf4458efb29aa6b": "cp2k: update 5.1_2 bottle.",
+    "aef2ec7f766e2fe98acd462ed76b5b1613068a71": "cp2k: revision for gcc",
+    "3517f446c737a43202b339c1d94ee17b70578983": "cp2k: update 5.1_1 bottle.",
+    "9a5f50870cf43ead1a7fb69c08a103126c29bd2c": "cp2k: phase out :fortran, :mpi and :openmp",
+    "d6dff5cbbb35a585a6125dbb27bbde0e3c3ebddf": "cp2k: add 5.1 bottle.",
+    "86761fc9517a74b1cfae6b5b50e2c125ebc7df01": "cp2k: migrate from homebrew/science"
+}

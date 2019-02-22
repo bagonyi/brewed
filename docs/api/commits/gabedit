@@ -1,0 +1,22 @@
+{
+    "a35c36bea9d70d037f5a36a64d33ee09ec7bd5f9": "gabedit: update 2.5.0_1 bottle.",
+    "a0b56cc8b5a6e814f9e6f73ad0a653e865c75f62": "gabedit: update 2.5.0_1 bottle.",
+    "7a99be990024990c42d5dc54d7950b16cbc66e80": "gabedit: revision to fix install receipt",
+    "dd4780a4f411559c181726fce275a1da4b4ddd5a": "gabedit: use assert_predicate",
+    "cf90d47ea6a63a43d6187b14963e504d9a614067": "gabedit: update 2.5.0 bottle.",
+    "c66f639ce78e932a7dbceed4d61eb53d139ea641": "gabedit: update 2.5.0 bottle.",
+    "8dd00fdf5d55e336d511828b4f32026de14bcebf": "gabedit 2.5.0",
+    "a4c8c8f4ebe9aec844200bf06d38b3d73c0b2aa4": "gabedit: fix audit --warning",
+    "5429b272aac39aab53f0236cd6bb9d20fb520c14": "gabedit: update 2.4.8_2 bottle.",
+    "21126e398f8c5b6dd077b5656f570e9928b6d763": "gabedit: assume Quartz GTK, not XQuartz GTK",
+    "26515c31a7b8bb9f124a92b23b0994a56d28dddb": "gabedit: update 2.4.8_1 bottle.",
+    "62fff610d6a7a47a118f81bf2a0d44c11e3c2b97": "gabedit: add 2.4.8_1 bottle.",
+    "7b127a6f391a9351299f032d53ee02553790e42c": "gabedit went quartz-only",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e6c598e7797772b9c3e30bd70470052dd68ce915": "gabedit 2.4.8",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "df596552cf4d0c011ba035299042cc2c2e391a4f": "gabedit devel 2.4.7",
+    "3fd3a8ef117229f15f2b6e6d1e7c0fcd1b547c5a": "gabedit: disable openmp when using clang",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "77210000c2ea9e81d1f660e5bf05c8930deb6a4e": "gabedit 2.4.0"
+}

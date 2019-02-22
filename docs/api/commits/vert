@@ -1,0 +1,6 @@
+{
+    "3ac7fcb13d86a7ee0d4604560e774dc5137ce6cf": "vert: update 0.1.0 bottle.",
+    "497e6c87cf16a9974295f69eacdce2e12774297f": "vert: pass -vendor-only to `dep ensure`",
+    "f2ac6423febddd10ce056a1579ca6d2b5243e8cf": "vert: add 0.1.0 bottle.",
+    "b35215772e768ddd7e59ba4e4413b76998990fbb": "vert 0.1.0 (new formula)"
+}

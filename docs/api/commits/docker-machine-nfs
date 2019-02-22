@@ -1,0 +1,11 @@
+{
+    "3b0ef6129eb56f91f352d5eaac8e31c4448af217": "docker-machine-nfs 0.5.2 (#34997)",
+    "780bd0902ce375042af21d140253bd352245ee79": "docker-machine-nfs 0.5.1",
+    "510c58ad0103549db929dc9ba0a7c3c2ac5802ac": "docker-machine-nfs 0.5.0 (#22733)",
+    "186b93dd712b8074e9f4eeddf4d523d167a15ef6": "docker-machine-nfs 0.4.2 (#21242)",
+    "3876918214e13b6eff1711d5ca67e9a6e099e678": "docker-machine-nfs 0.4.1",
+    "24f468f1524685314349538b6dcb7954ff647492": "docker-machine-nfs 0.4.0",
+    "56555df7beebb7854fd8f42bcb7a448e099e67ea": "docker-machine-nfs 0.3.1",
+    "d74e1c991dbd5a007c81d508ea796e919161ba67": "docker-machine-nfs 0.3.0",
+    "a7b2327e24be8dc528cbdb5e7060dee256b6c95e": "docker-machine-nfs 0.2.0 (new formula)"
+}

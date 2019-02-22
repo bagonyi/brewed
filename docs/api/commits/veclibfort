@@ -1,0 +1,12 @@
+{
+    "22f9629d93aa28709ea51f989b5f61fbc5fd40e5": "veclibfort: update 0.4.2_6 bottle.",
+    "eb925b026b8836b74ed1ae8fb2300aa4b2d4fe49": "veclibfort: update 0.4.2_6 bottle.",
+    "95fc41e5ae7e9f1f0a40a6750fe013bda60f16dd": "veclibfort: revision for gcc",
+    "d021c6ba497b5817f8e6160922a95c00bf744a89": "veclibfort: update 0.4.2_5 bottle.",
+    "ccf120c4557d5af9924bda0baa6523bfe04f9bc3": "veclibfort: phase out :fortran",
+    "039d56a20d8178b9a501c4a77b6042af802e7e80": "veclibfort: update 0.4.2_4 bottle.",
+    "2d74eb25aa0315c814ff6c3e14789f502ab24a4d": "veclibfort: update 0.4.2_4 bottle.",
+    "bc6119849570ae7eb21a4229fdb10fa2665c948c": "veclibfort: bump revision to pre-migration value",
+    "7e34c36b88fc3f264ec2caff02e630e7a4715e00": "veclibfort: add 0.4.2 bottle.",
+    "5873f07185e60c72e16471ad940251c9b7792649": "veclibfort: migrate from homebrew/science"
+}

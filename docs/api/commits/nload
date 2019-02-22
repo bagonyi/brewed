@@ -1,0 +1,22 @@
+{
+    "136ccd9bf98a077d69d44aa295cf2e2130cd6968": "nload: update 0.7.4 bottle.",
+    "ced366064a5c445b85fb5d28403c29da93965865": "nload: add test",
+    "0b2f0946d2c2f5c3c2655383f21d16d969805311": "nload: update 0.7.4 bottle.",
+    "dabb117df1857abe33d7407836665f8dae2a84ed": "nload: remove unused fails_with :llvm.",
+    "9c7bed6deae488f853a9910dda49ec6b65bf390d": "nload: update 0.7.4 bottle.",
+    "ef446ea47be2b36dc722dbc7f9eaee58c2c4604c": "nload: use secure url in comment",
+    "5e4c447ccf496cdf9db75d1f8a2c5a92b6a8d74f": "nload: add 0.7.4 bottle.",
+    "0328b016bef9aaa2b6ffc9e58aeaa554f9dfad86": "nload: add patch for option Crash and wrong adapter read",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "e7ecfd57ef3d2c1272277fd2e7ccbc62112c9a64": "nload: fix build with clang",
+    "dff778af3865ac3d417f064fe909d5dd2f427343": "nload: fails with clang",
+    "cbb8a5f59f0cc3b2614b53aa48039199dabe82b4": "nload: use patch DSL",
+    "e140014075137d49b5c34783ca3a14984f8f77bc": "Add more missing :autoconf deps",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "62fa0c4f4232c4381af50bd4a245788537f2dda1": "Use autotools symbols",
+    "4b797d56a98f435b2beebc6f7f232bb5ffea1632": "nload 0.7.4",
+    "64afeec6d43528a235ff61d2a627a829f089cac1": "Use new fails_with DSL syntax",
+    "89b2018d807cca3e3f2d127a973991d680c3aa46": "Update bare fails_with_llvm calls",
+    "af9f0be64fd5829ccea05dbaad150d4b61362f01": "nload 0.7.3"
+}

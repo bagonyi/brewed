@@ -1,0 +1,14 @@
+{
+    "de88cc2f942dd3a7f998a658522e6baefca6f8c0": "libfixposix: update 0.4.3 bottle.",
+    "c40c0334d6deae901fae1e460284c5e0bae288a8": "libfixposix: update 0.4.3 bottle.",
+    "1a41f2a377389d4891b33bd22c9307a1584c7319": "libfixposix 0.4.3",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "1cfe36a862caa0260007f10699810f04af61cc72": "libfixposix: update 0.4.1 bottle.",
+    "986831e2207213855a9d92c4b359c612a8886113": "libfixposix: update 0.4.1 bottle.",
+    "ff42105b836b39e8373dde6b70620c2977236d3a": "libfixposix: update 0.4.1 bottle.",
+    "bab7b6bcb78847946ac100b01bbd659ffe2f7703": "libfixposix 0.4.1",
+    "20a03d4939d08bb1d10cbb7d3c30c6e1c3bbfcd2": "libfixposix: update 0.4.0 bottle.",
+    "ff9d6c1e5bdc4abbe9d5b74c8e51fd1a4e2a00da": "libfixposix 0.4.0",
+    "cf6c2065a27f36daefc8e9e6b3f3d92c1fdbdec9": "libfixposix: add 0.3.0 bottle.",
+    "4bff53ba2ecb08ec72e1c944950d89a7ec48657a": "libfixposix 0.3.0"
+}

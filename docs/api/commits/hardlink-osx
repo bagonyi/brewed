@@ -1,0 +1,16 @@
+{
+    "056f379a626f932961f154938bfb96e62674adb6": "hardlink-osx: remove references to pre-Mavericks.",
+    "52ba71bce9022422da1086ee50876af58529e4af": "hardlink-osx: update 0.1.1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "4b534cf56ade42246cd03e62ffbe2364df9bcf78": "hardlink-osx: update 0.1.1 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "23dc81bec085792cc1d8d14798dd230683dd3984": "hardlink-osx: update 0.1.1 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "6da14c5a08abfa2fb95c6cf62ad466f69767aa37": "hardlink-osx: update 0.1.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "07bb12d20f9c6157e6936940d514404c9391d2ed": "hardlink-osx: Rubyify the test more.",
+    "df74c4d15423b30320ad2b307305f440c20b6993": "hardlink-osx: add 0.1.1 bottle.",
+    "d8ff4143babde4d81c39e6c4cccf407184b7c6b7": "hardlink-osx 0.1.1 (new formula)"
+}

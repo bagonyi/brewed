@@ -1,0 +1,20 @@
+{
+    "a46b9dde83db89bfd95eda30eff26ccb878b721f": "rpm2cpio: update 1.3 bottle.",
+    "469f3051e8a6ee53cd9cf75336b4e485b62b4e5c": "rpm2cpio: update 1.3 bottle.",
+    "e2516a2cdd44cef9bb303f92f06dbf03640dd1a8": "rpm2cpio: update 1.3 bottle.",
+    "124d7ff467c8c3d3ed0f2e0bc4b53a7ecdfd5f61": "rpm2cpio: add 1.3 bottle.",
+    "9e8329d41b624f3715592384f421a935441d500e": "rpm2cpio: use https homepage",
+    "2522e11d432ce1c57bc43f853c55c2e0f08bdb5f": "rpm2cpio: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5dbe7fd902840c073f14a5a82a5838907ed6f62a": "rpm2cpio: fix install name",
+    "8ed14787066451d671ca8941dc9da1ed00ea75c4": "rpm2cpio: fix download URL",
+    "bfb7769688f8e7adb564f23ee694befea1770a1f": "rpm2cpio: restore .pl extension",
+    "8b731bd74b03c9c4b0a16856cd39b7c78a810271": "Use ScriptFileFormula",
+    "3f85bf5634caa2a16828496c18997c6cd4782c95": "rpm2cpio: adjust version to match upstream",
+    "cf41527536cf5ef0e9b0367fe8a21136a82f4769": "rpm2cpio: install to bin/rpm2cpio.pl",
+    "e5860de296e240d2372d966da233d2b59970c239": "rpm2cpio: move from cvsweb to svnweb for FreeBSD",
+    "4d738418843b2c9ebf3576a0bab5cd28bebc49e9": "rpm2cpio 1.4 from FreeBSD Ports",
+    "2b97dd1ac7791bae8de8d3907aa757cb2fdc8294": "Fix inheritance for ScriptFileFormula.",
+    "d64e896b4a3bbfcc9dab42b2cc8398ab2196d742": "New Formula: rpmp2cpio (the perl script)"
+}

@@ -1,0 +1,12 @@
+{
+    "1b0412c6dc91f0adebf6c327ff43d0f63718dbb2": "darkhttpd: update 1.12 bottle.",
+    "151e1a0555467e83ab88399eeb2432a98999d4db": "darkhttpd: update 1.12 bottle.",
+    "02949149f45a0a4a4977fd4bcdc6870605f71cf1": "darkhttpd: update 1.12 bottle.",
+    "dfdeda4638c21dee3482797b2ca6df522b76340a": "darkhttpd: add 1.12 bottle.",
+    "a0dcb8432ac718b43c3c18bb031589b4dbdef851": "darkhttpd 1.12",
+    "54794b1f346f90f74249ec9354b3f191e7a9ea1d": "darkhttpd: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "10371f7c7d1fb87423608839a0adecae60ec3546": "darkhttpd 1.10",
+    "f5d4569f9d1122d31d5b462cc5160e14deb31e2e": "darkhttpd 1.9"
+}

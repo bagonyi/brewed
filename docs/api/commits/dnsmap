@@ -1,0 +1,14 @@
+{
+    "40d718db024d7f95c230d02f898d2b29d73b7d78": "dnsmap: update 0.30 bottle.",
+    "fc59bcaf2d20408701471279cc89e2370b73c052": "dnsmap: update 0.30 bottle.",
+    "a47efb24f908ec0f35fd2a7e290c68c8eb6fd30a": "dnsmap: update 0.30 bottle.",
+    "76776cafd4399e12a121701137f7123ab5a5a205": "dnsmap: migrate to archive URL",
+    "a833be719873b9be408157c0241396f573f4c43e": "dnsmap: add 0.30 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "7856eed55af6591270a56365f7ba323c54ad55c0": "dnsmap: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "96d77e3786c12138e4d1e6979686e5eec1a0eabc": "New Formula: dnsmap 0.30"
+}

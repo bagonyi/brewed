@@ -1,0 +1,13 @@
+{
+    "5fe190ed8ce4840952b9d5913200d3ad0dd98d4c": "savana: fix homepage",
+    "7f7bbac707b217bfe982fdd5ec6c955e8ab0742e": "savana: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "448538619f37da54911e935d374a7dcea9aa1960": "savana: fix url.",
+    "c7d411b0779a9fe02e148167ba0eddce36ade68e": "savana: URL fixed",
+    "3d4f2dc9cdacfd13265ec036978c8198afb143c2": "use bash/zsh path helpers",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a209c24ac2707e3e8ec6f46424686b05de9c4673": "Automatically append shell completion caveats",
+    "0c89a5c8dd99ce83693278cd653132d011839ae8": "Remove redundant versions and update version tests",
+    "57c8c564c280c334df567972e79456ecc9477b1c": "savana 1.2"
+}

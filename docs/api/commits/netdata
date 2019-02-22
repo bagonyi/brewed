@@ -1,0 +1,12 @@
+{
+    "7fd83c6cebec3a3c522605578757b0a186b05c66": "netdata: update 1.11.1 bottle.",
+    "5d290711dfebc3b3b0add416730254bfbe754bd1": "netdata 1.11.1",
+    "f49f358309137ef30cc70a760b05847d9f277c98": "netdata: update 1.11.0 bottle.",
+    "4c11e46c589e657a51bd04c6be3b0b1a06d6ccbc": "netdata 1.11.0",
+    "38fdffddb452c2d13ad810f481cae73feca7e807": "netdata: update 1.10.0 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "e144836e119fbbfafbd17c2fa627222d07916bbb": "netdata: update 1.10.0 bottle.",
+    "7895c39de6d3a133c9cf3aef60662513939167bb": "netdata 1.10",
+    "357b9d0a7b71bb7fd858e68caa320fb0ccfcb363": "netdata: add 1.9.0 bottle.",
+    "0bd1e23dd61999daac83268938cdeefca4a32dd9": "netdata 1.9.0 (new formula)"
+}

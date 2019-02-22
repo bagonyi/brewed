@@ -1,0 +1,22 @@
+{
+    "10220d2cb408e447ae1919dc0f4b587b9110c491": "mdds: remove checks for old compilers.",
+    "5d48b9a21c267ef548003738141f7fc5b7eccd07": "mdds: update 1.4.2 bottle.",
+    "dd88003d17eef114591c5e4c9715f7e2f6bf8ec1": "mdds 1.4.2",
+    "ac2bfa952307dbf6a9ac102010656f6e29ccde96": "mdds: update 1.4.0 bottle.",
+    "d4375c6db1878ac201ac97bb86517ae3ec91cab9": "mdds: update 1.4.0 bottle.",
+    "b550eeaffcf7ee3b51a810670460fcc85f10cc27": "mdds 1.4.0",
+    "de2881e6ad2dd2afe97137ff687f57d9a84178ef": "mdds: update 1.3.1 bottle.",
+    "0c664e0110093ba2386e368d13979136eb458343": "mdds 1.3.1",
+    "c729e0c43abb192c45353c122c7ff93368a0ab57": "mdds: update 1.3.0 bottle.",
+    "0b4db56f4777703de5c8cba7036cc78b4b778f66": "mdds 1.3.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9308c40373663760686776f3bb9f23776088273e": "mdds: update 1.2.2 bottle.",
+    "d86bf537bd53ec04e23e63fe2f8b115443ae56d9": "mdds: fix audit 'description must start with capital letter'",
+    "22dd641f6ff8d4c88bf93cb2e7a38234d75751ba": "mdds: use https for stable url",
+    "63dc61979952b0e1d695cd0cb3cc3d160f3ec147": "mdds: update 1.2.2 bottle.",
+    "2d34778a4b8fb471e0ea0edeacf69b847a64177f": "mdds 1.2.2",
+    "f35857c75b1e591a76be5ec2390cf6596c9bd63b": "mdds: update 1.1.0 bottle.",
+    "70e05c3798f74c4bb71bc70ab1e1c2752122306a": "mdds 1.1.0",
+    "b28f0c7999495c01cf505ff95cea899b045a1639": "mdds: add 1.0.0 bottle.",
+    "7656cc40845b062b24489f3f33f5757bdc0b945e": "mdds 1.0.0 (new formula)"
+}

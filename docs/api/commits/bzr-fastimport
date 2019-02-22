@@ -1,0 +1,18 @@
+{
+    "b8ce8e440020195f5b635284d25112f442f6f8ca": "bzr-fastimport: remove references to pre-Mavericks.",
+    "834cf5fd1e33baf899edaaaaf2cf60440e511185": "bzr-fastimport: fix dependency order",
+    "5493cb9dfe001f2a861a94564f689fcf546e789f": "bzr-fastimport: update 0.13.0_1 bottle.",
+    "6ee56a23575e942586161dfa86673fb37f40ab2c": "bzr-fastimport: depend on python@2",
+    "84c41a73fda3cb7badfe5a5cd5d6431cde67fd9c": "bzr-fastimport: rename python@2 dependency",
+    "01f874b870fc258ac5711697c83af69fe74ca155": "bzr-fastimport: depend on python instead of :python",
+    "97cfd7285c5e6263e572cbaf1ce7a43076bba364": "bzr-fastimport: fix shell profile in caveats (#21542)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "78ef2b1a0f36301d6b41f95bc37ba295857ea2cb": "bzr-fastimport: update 0.13.0_1 bottle.",
+    "b1c9cc08bb4a564941b4805f1731adbba3c0adfd": "bzr-fastimport: update 0.13.0_1 bottle.",
+    "2501ff95b9c66de0a414daa0720785c42f8c4233": "bzr-fastimport: update 0.13.0_1 bottle.",
+    "951842809f7622046751e7ddd1634b36500a97b5": "bzr-fastimport: update 0.13.0_1 bottle.",
+    "55edb80a497ee9e8539b7817bfd1fcab36041e83": "bzr-fastimport: install into Homebrew's bzr plugin path",
+    "b225e868bb02715c9ac0acc93dae8f184dab7b4f": "bzr-fastimport: https launchpad",
+    "27a14a39df9141419cd686cd050ea559fd65e984": "bzr-fastimport: add 0.13.0 bottle.",
+    "d6af4d56aab1e4c23ff3de57b66b1a0663ddc4da": "bzr-fastimport 0.13.0 (new formula)"
+}

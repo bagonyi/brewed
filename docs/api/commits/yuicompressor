@@ -1,0 +1,21 @@
+{
+    "5c0fed0e7fad13d9367c2bd4f7a4472f24ee1fb4": "yuicompressor: use “squiggly” heredocs.",
+    "dbf9c62852315d9a3d3e5238023a072bd230b6b8": "yuicompressor: fix RuboCop warnings.",
+    "564ce07f813e1b0a45ed9776c7edbd82e8473b69": "yuicompressor: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "11e6837e56ce34f5e29c6ab2f274b54dad53dbe2": "yuicompressor: modernize, https, sha256",
+    "acb09586422409cb6d59f7c4a0338d6656afc7e9": "yuicompressor: update homepage",
+    "4ec1a004c4636fa8acdee407a1fe4a15237863ca": "yuicompressor: add test",
+    "c0bccfb026737252e41b6a495c685ff4e8f1e86d": "yuicompressor 2.4.8",
+    "476a47fa334cbf99b8f52e6d1dd20d85ec6c9b17": "yuicompressor: interpolate version",
+    "0806504e0e0fb8e1ff73c725b32ac7f06154fd54": "Use script helpers",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "5ccfbce856e93f2b6f00e1d30c23eefcb5ac1e70": "Clean yuicompressor and htmlcompressor versioning.",
+    "03b802b171add730e220d1603047514c0153a25e": "yuicompressor: fix quoting",
+    "a1acab2bd259cfd926d47f3c1ce277d6b90cd8eb": "yuicompressor 2.4.7",
+    "409adc4611c80b53f5566d72060c1d57882cdf7f": "yuicompressor: updated download URL",
+    "4c5b8f8421fc419974669a7f7c846f4aa6c71da4": "YUI Compressor 2.4.6",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "80f773b8f74c3518661a51d8108d905e829d116a": "Fix yuicompressor homepage",
+    "f14464eadfeadaf40be7d0fc7827c674ec5a8612": "Add yuicompressor 2.4.2."
+}

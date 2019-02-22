@@ -1,0 +1,15 @@
+{
+    "b7b559c441b3ffcd1c10c45de56ae2133e681a4c": "libforensic1394: remove references to pre-Mavericks.",
+    "57e5854ba9664d15203bd8671655658385ac63e0": "libforensic1394: update 0.2 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f19d7e7970d5f6ac7f023bb57e7059e12594bbfa": "libforensic1394: update 0.2 bottle.",
+    "6e62d4d2ce558fbe31e2ad0244a84e684b4bac21": "libforensic1394: update head url",
+    "6af394fc054eeaba18b6012821654403a5585d06": "libforensic1394: update 0.2 bottle.",
+    "0aceb8c31c33994f8942ce55e17dc35c65256b4c": "libforensic1394: update 0.2 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a137bb5a1d6161c77835787653aa659f69bc4d2b": "libforensic1394: add 0.2 bottle.",
+    "654aa075304fa92cc6810f8231e558e3579b7f12": "libforensic1394 0.2 (new formula)"
+}

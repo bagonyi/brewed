@@ -1,0 +1,19 @@
+{
+    "daa3b7152a67d4d20e4502c1dfc9bfbac3072926": "webfs: remove references to pre-Mavericks.",
+    "0a74311a70fb5775b1529e43f1d246cf56d0ca46": "webfs: update 1.21_1 bottle.",
+    "f42b24022041a044e09e880d06ae09cab9ead6cc": "webfs: update 1.21_1 bottle.",
+    "fc64de0bd3cd13ad119a2a090475fb81c5339d0a": "webfs: use https for homepage",
+    "6d88c7dc6ed0db8544f6300be08d5c2d2a61e060": "webfs: update 1.21_1 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "75b6812fb8e28bb6079c49179b9c3d8db2e24cd4": "webfs: update 1.21_1 bottle.",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "8114120c6b758a2e87c1232d83432dd4a1b06793": "webfs: add 1.21_1 bottle.",
+    "25d003db147c925d70e195db5684f1a2ff522c6e": "webfs: use sha256 and fix audit",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "333f7f9f05a78a72767cc44c7aa2bb2463ea2e65": "webfs: use checksummed patches",
+    "938ef4a9daf0e2acb3a469b55b127faf3e59edb3": "webfs: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "26e31e2fb28aa4630258ed161a7c7d32aa73d544": "WebFS: fix audit warning",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "1d1b55770de5468468c6b69556761eb2767da0de": "webfs formula from zimbatm"
+}

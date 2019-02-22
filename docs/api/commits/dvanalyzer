@@ -1,0 +1,7 @@
+{
+    "7a9d3f03e91e357bec5681a6f2d0edbb6e63647e": "dvanalyzer: update 1.4.2 bottle.",
+    "7a9b7dbed2236f118448513334c58dfe02762769": "dvanalyzer: update description to fix audit issue",
+    "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
+    "c90be9d5d6bc1973e3a901774d98b9b3e6c7bcf2": "dvanalyzer: add 1.4.2 bottle.",
+    "f6d8d78487bb0bab276ee6c9fd4bb02fbe3fb5c6": "dvanalyzer 1.4.2 (new formula)"
+}

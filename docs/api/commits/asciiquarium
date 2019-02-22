@@ -1,0 +1,13 @@
+{
+    "062904108c328762c5fa5d9ffb324385d7f128bc": "asciiquarium: update 1.1_1 bottle.",
+    "e16e6f4002e940af9e15b231336ea69dfc6601b6": "asciiquarium: secure/fix url(s)",
+    "c04672ee1649d15fe772909f92e50649faa553b1": "asciiquarium: remove retired search.cpan.org mirror(s)",
+    "5363933f88b552b4e48fbdd5a69134f23a93eeb3": "asciiquarium: update 1.1_1 bottle.",
+    "5a12adedaee34648eca4dcaf038354510aecfe59": "asciiquarium: update 1.1_1 bottle.",
+    "cd39e580483339a6970da0fe89265bb144b28f0d": "asciiquarium: always run with /usr/bin/perl",
+    "9cbdd84116ebefb220ae1e7d2e4b6de265a48d07": "asciiquarium: update 1.1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "973e9a487376aa30c9a289dc17da1f56228d4604": "asciiquarium: add 1.1 bottle.",
+    "42a29f9667a965b86f3d77c1816ce3a87ff1f2c9": "asciiquarium 1.1 (new formula)"
+}

@@ -1,0 +1,23 @@
+{
+    "e2cbd853a074ce2b50e02ead742c5beb245fbbab": "henplus: fix dependency order",
+    "04f45cd81d80f8a9b61585d4e81a1898e58c68d7": "henplus: update 0.9.8_1 bottle.",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "ac9f9fe1a94c1fb9ecfd70e9262308ea3a383a5d": "henplus: require Java 8 specifically (#28317)",
+    "33c4e43d597b8586483cfbacd03fe50fa7d65bab": "henplus: depend on ant instead of :ant",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "15b7cf0d67efdc60d6889472aea35543fa43e8da": "henplus: update 0.9.8_1 bottle.",
+    "7bfc2966f70ad3b0cf30c9a8032b65c4512c37d6": "henplus: update 0.9.8_1 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "3406d621189cb599db7488b78f70f44d24eb9bb6": "henplus: add 0.9.8_1 bottle.",
+    "e611874172681c0de3c918ff42b9a058ff006b21": "henplus: use :java requirement",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "a3c5b3d435206a7690adcb698d34d550b2d8365d": "henplus: don't put /usr/local/lib in DYLD_LIBRARY_PATH",
+    "54d43ec068aa4e7b19d072bdd9624e02ab124589": "Explicitly mark ant deps as build-time deps",
+    "4b2912e93746a4f4edde5490bf2ac60a941577f2": "henplus: use full path of executable",
+    "875ca13941848fc1c1e2fb1eb7d6e6809ff34718": "Normalize setting JAVA_HOME",
+    "fa879cd14ad5203244557ff5766701aa800f6c55": "henplus: depends on ant",
+    "1801a9ca1977334be7e878bda29692afaaf1e2b5": "henplus: fix syntax error",
+    "8aa231ada1794f56d3a44cdaa77aa8aa671f5c7e": "henplus 0.9.8 (new formula)"
+}

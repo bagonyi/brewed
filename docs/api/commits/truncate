@@ -1,0 +1,9 @@
+{
+    "f84b6f4f1493b5db71bb6ea9d560f4f3d295f1a0": "truncate: update 0.9 bottle.",
+    "2ecbc9c8c09f4de62e4d7ec5564fc6043aaa8b89": "truncate: update 0.9 bottle.",
+    "b86539c95ba8f02a6c0c231a4d1b8fe00fb94b0c": "truncate: fix audit 'description must start with capital letter'",
+    "4d3193de7c19180ca35f93fb5f3ac557a36cfea9": "truncate: update 0.9 bottle.",
+    "d4ca73b3fb1a2666028c37cd2112020abd76004b": "truncate: use secure homepage",
+    "593206666a18235f2128eb8326f38d32a48c001e": "truncate: add 0.9 bottle.",
+    "f4b6e7a61061135c7dc274e9747f3bbccde1198e": "truncate 0.9 (new formula)"
+}

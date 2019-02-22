@@ -1,0 +1,15 @@
+{
+    "1e49b74a54bebb907f95b57fb8f4b7b4b0f9a7bf": "raylib: secure url(s)",
+    "0beeb04efe1b848f71ca561a2712bee55114cc3c": "raylib: update 2.0.0 bottle.",
+    "813adfa3f3e06a61642f0e39ce65d5760e59674b": "raylib: update 2.0.0 bottle.",
+    "228aa6b66c5645857574c95190d5155c8687f494": "raylib 2.0.0",
+    "1b6784add0019c6aee24df5f171398d530a20888": "raylib: update 2.0.0-rc1 bottle.",
+    "99339dfbf56f47ef1d6b413ab02407c5cc5a4a36": "raylib 2.0.0-rc1",
+    "e34eb89b44f13897979012e4eca64e38b88e6d16": "raylib: update 2.0.0-dev bottle.",
+    "cbd3ae008561355ab9a2ba8e78534274ee522f95": "raylib 2.0.0-dev",
+    "84de217fbbb833fd73d651b83da520ba16c4218a": "raylib: update 1.9.7-dev bottle.",
+    "5d50400536e01f4463e682d46177aa5e210f3399": "raylib 1.9.7-dev",
+    "ecf3435a75626e155c4d0b8aa39e852eec8c092d": "raylib: update head URL (#24318)",
+    "e4c902199045035f86b4b8925518ccb0bef90550": "raylib: add 1.9.1-dev bottle.",
+    "7f7b4bc0a604c8e6a9ccc117bde37245de61ff30": "raylib 1.9.1-dev (new formula)"
+}

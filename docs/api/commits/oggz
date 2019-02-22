@@ -1,0 +1,20 @@
+{
+    "0daa6fdb890cca19426b8e1a7c4d4c600509fcaa": "oggz: remove references to pre-Mavericks.",
+    "7e9c8737a941bd4b7e6d4c3e71d51c7614a7999c": "oggz: update 1.1.1 bottle.",
+    "8e56d0395e242af5f9b120c77786baa0aabd0252": "oggz: update 1.1.1 bottle.",
+    "a394654f88a73c1eeb94b6a8e34ca77ede5475f0": "oggz: secure url(s)",
+    "49ab5c7e9941640ce046efc96210026a45c3eb56": "oggz: update 1.1.1 bottle.",
+    "e0461b9f6f65026d4d7d8bc35cc39230f2d4e207": "oggz: update 1.1.1 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6f21f24f4e1538bc097bd70ce88d91fc3c2b71a0": "oggz: add 1.1.1 bottle.",
+    "87b2cb61653a082c2d6d80c91cb1e26304271892": "oggz: test added",
+    "8f569f51eb6ebb2f4598dece103ccf72c9ef80d8": "oggz 1.1.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "19e5e6e64a9bc9965be1fc8a8b64362c9e99b27b": "Mark scons, cmake & pkg-config as build-time deps",
+    "5f6913c69113e464f9bc1e4d8ea41f355b991647": "oggz - missing pkg-config dep",
+    "72e19eb5421201a2be3dce1e298861cf6aa4a132": "Don't need +x on these",
+    "1f7bc468bdbaebe8d5cfc2b74368cacde10b852b": "Use new symlink aliases",
+    "8d8005612c5861c52b2f2aba7881cd2e56b571b0": "Put more aliases in the formula",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "3465f118706b96db263348c0ecdee24a3cff1603": "Oggz formula"
+}

@@ -1,0 +1,18 @@
+{
+    "891f3597291ae0382ef9a097242c7405e6966283": "picoc: update 2.1_1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "674d96f1609e720492c91e8e6441035e3f440ce7": "picoc: update 2.1_1 bottle.",
+    "0060517bb5123bc7c10dc17f682f1e8e61f2d41b": "picoc: update 2.1_1 bottle.",
+    "b7a18f1f387d35eb4baf5d9fcaa0de2a05e739ed": "picoc: apply upstream fix for stack overflow",
+    "baf9a7f6616a486ba2eb5496c7164ca4afef4168": "picoc: update 2.1 bottle.",
+    "bd4df163b7ead21fe055f62341a234d467dc90e6": "picoc: update homepage/url & add test",
+    "c23f3714d98f6fe50b2c543ce769e60f32c525ff": "picoc: add 2.1 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "926c4ccf8ac2266dc4d165130c451d920dd9e594": "picoc: avoid inreplace",
+    "a009ed888eff3b9ec87bb4848251135138844d38": "Updated picoc to 2.1",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "22986fa1e802229ac0ebe003b28e52c4f1af7f7b": "New Formula: picoc"
+}

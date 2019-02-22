@@ -1,0 +1,18 @@
+{
+    "c7fe57d12994847b4e249fb52ef1dfe3d79252ba": "guile@2.0: remove checks for old compilers.",
+    "4cdb257a136f88ac5313ac17e715d947273331b7": "guile@2.0: update 2.0.14_3 bottle.",
+    "b19d0337544a75ff922529cc79a795ba189da2b1": "guile@2.0: revision for readline",
+    "ceef7ab3eeb8b294ecdece84aaca17152770f6a7": "guile@2.0: fix dependency order",
+    "b8e72368e051c249675818c6c8646f578e5821fd": "guile@2.0: update 2.0.14_2 bottle.",
+    "9bcc65679ccb145e7dc55c894e2ba6dbf4a4b946": "guile@2.0: remove head spec",
+    "054f953343b470e77c74811a2fbf9ec33e1497e7": "guile@2.0: remove :run.",
+    "d489971451c84502929328feca591f3f78356c07": "guile@2.0: update 2.0.14_2 bottle.",
+    "65eb7951d573574f38956e06448a3663393eb044": "guile@2.0: revision for bdw-gc",
+    "be6c2e8d4cc72348e81cd3e7f312d461122ea5d1": "guile@2.0: update 2.0.14_1 bottle.",
+    "2d9f86999b8d30c8efbeb8a3ac15d5c19e9f6694": "guile@2.0: revision for bdw-gc",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "bb9f3761063b59c41cde20db81b6edb87627604e": "guile@2.0: update 2.0.14 bottle.",
+    "ef084af6e7c4ef0e874a70a24daad82f4688a6e2": "guile@2.0: add 2.0.14 bottle.",
+    "9bdf5c1f079c3d6ed2af46a0b2bd5caaf4695ee4": "guile@2.0 2.0.14 (new formula)"
+}

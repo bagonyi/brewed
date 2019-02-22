@@ -1,0 +1,10 @@
+{
+    "14b511a99bd7c6c892edabbc0977bd87b7f218e2": "phpmyadmin 4.8.5",
+    "f9f189f493661bf457164d23841c58e84e18701f": "phpmyadmin 4.8.4 (#35021)",
+    "f2ab0ab3769346db3a1d47d222ad296b07b89852": "phpmyadmin 4.8.3",
+    "6a23cc5f89601b23ce08206ba1481637aef6772f": "phpmyadmin: fix whitespace",
+    "ffbf35cf01f17afb30f9affb5d62611fcb06343f": "phpmyadmin: import from homebrew/php (#26264)",
+    "990c33e2a00daff85226bfc5f97c480768ad301c": "Remove PHP formula from homebrew.",
+    "0c89a5c8dd99ce83693278cd653132d011839ae8": "Remove redundant versions and update version tests",
+    "1ed92575c124836e15c02573346ca8b3f008b046": "phpmyadmin 3.4.7"
+}

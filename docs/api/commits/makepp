@@ -1,0 +1,13 @@
+{
+    "70b71fae20c0d4fd84299a2db892dff14c8622f9": "makepp: update 2.0 bottle.",
+    "a0165b0dd67014ea78ea3370a2ee6b1dff97ebb1": "makepp: add test",
+    "d56cb778d63c5e24e0e7728a45f43300908d70c8": "makepp: update 2.0 bottle.",
+    "1aa7e70d42cc14330fd977c57f958547ee7c566a": "makepp: fix audit --warning",
+    "6923d67dfd4cc6e9bf91683e990c18e628236626": "makepp: update 2.0 bottle.",
+    "5c00d6e8ce6850a8b30f65649c6fdcbe6901bc83": "makepp: add 2.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "9b3c3bdd406b555cbb7ba1a6d2c9d6861dffd6f7": "makepp 2.0"
+}

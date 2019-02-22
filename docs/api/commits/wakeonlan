@@ -1,0 +1,18 @@
+{
+    "f79c399bb178c542d6dcb5e670eca68c0ed45acd": "wakeonlan: update 0.41 bottle.",
+    "604b736efed989b4795f691c647c75ec28e3054a": "wakeonlan: add test",
+    "43547c8eab209992fa742b3ce2d071ca9fde674a": "wakeonlan: update 0.41 bottle.",
+    "ab48d75d6de4e9ed717b8f7aad277ce3b4847f67": "wakeonlan: update 0.41 bottle.",
+    "33f49f7ed341b4c90fd400ec3fb60fc4ab631962": "wakeonlan: add 0.41 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "38b9fef297b0731375fd9ea50d3f92bd3786b0c2": "wakeonlan: fix install",
+    "c5e7a628524387731a46c9a5cff4ba6717058bd2": "wakeonlan: switch to github",
+    "e96e59d468ddea2ae2711c4cfa93767d15bc0937": "wakeonlan: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "e6021a2d3246307174a7c482c1c848b997e2b674": "wakeonlan: document manual install step",
+    "f09ea2bae20721a347b196defcf228bdf08bb0f5": "wakeonlan: use manual install step",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "78e5a42ca6972ef369ee71006476d3df02dfe248": "Fix to install in Cellar as it should",
+    "142acd7252a7da3abc2b83f5b2dc6a6713c33280": "Adding wakeonlan recipe"
+}

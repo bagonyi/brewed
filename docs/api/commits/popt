@@ -1,0 +1,23 @@
+{
+    "2a42f54cea22475ccf7c43ffeb3d4127eb71c59e": "popt: remove references to pre-Mavericks.",
+    "369287ecec4fc5497c89514888c0972e3e57d151": "popt: update 1.16 bottle.",
+    "14d3ca2d948ad26e81cf449de2f9575f59a8a20b": "popt: add mirror (#28299)",
+    "9a200af44517f8995b4299f37024159f7d30e225": "popt: update 1.16 bottle.",
+    "579a6f4752e0fa8385093ae415e70a29515cb7d3": "popt: drop universal",
+    "f05afc9d5e7e61d7edae8fb5cd026e70607880e6": "popt: update 1.16 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "b823ade3e5b2e23c47cf53797bda333cdc438ee3": "popt: update 1.16 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "2c0d071b82f9eb7b50eff566739dd7782ffc5b0a": "popt: update 1.16 bottle.",
+    "baf4dad2fefe0b4a98f40b482e1ca79fb1e75224": "popt: add 1.16 bottle.",
+    "2f734c991de30b4d46cdfd45f2de7bdc8b230bdb": "popt: add --universal",
+    "1d63f94f828e3d2ee16ee33b0168433f6441400d": "popt: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "dacdaf979525c8478687cb3c6ed81c0e9710b531": "popt: version update to 1.16",
+    "6442a3c7d7ba18e46ad1235b47f115f57fef4858": "Bumping popt",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

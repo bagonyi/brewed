@@ -1,0 +1,15 @@
+{
+    "10a41818601b77555d2aa694001fb5002f7c0bf3": "vcftools: update 0.1.16 bottle.",
+    "2ceb0dbd767064afb692b04c162fa8bb894acf9d": "vcftools: update 0.1.16 bottle.",
+    "da9712058ec0a1b454a34673daf8f900e71a08d5": "vcftools 0.1.16",
+    "7fb73e28f72f5c309cb25fd60b2349b820285098": "vcftools: add 0.1.15 bottle.",
+    "7d1fb584894c2d580e589812ad6e59ea804ab3ba": "vcftools: import from homebrew/science",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "616561d23003d15f70d58ba10fe3f753fcc50bfa": "vcftools 0.1.10",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "8c1fc0288bafa35ac5dbb989767b9862925833f8": "VCFtools 0.1.9",
+    "3c031a556e1ce922c588f93382ce205b0b445e47": "vcftools 0.1.8a",
+    "e995b16933f524d2d242742f2b82df4ab3cb1089": "vcftools 0.1.8",
+    "82a805cb6570e0114716f01d05efdbbced9b1a3c": "Formula idioms",
+    "7ba141bf794242d66cdcbddfd00aaf32b0581a4b": "New formula: vcftools"
+}

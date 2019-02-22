@@ -1,0 +1,19 @@
+{
+    "277957aad2018506834338d6fc98af22abdf12c5": "coturn: update 4.5.0.7 bottle.",
+    "e22df6fdc16d7236237ef7c9e0db5e6e16ed36ea": "coturn: update 4.5.0.7 bottle.",
+    "3132008bcd4eb52a48bb0df28bb51b2b9b771391": "coturn 4.5.0.7",
+    "bdf9ce4fb33f942898864c5e6e5fa603c0a6614e": "coturn: update 4.5.0.6 bottle.",
+    "45d0db1d08885e7d9656b7e2d128db6e12b59f70": "coturn: update 4.5.0.6 bottle.",
+    "5e4f4e4da20ac1cfd2b6bf14c3f86a3fbb38a543": "coturn 4.5.0.6",
+    "1c33d2bae0549971ffdfea7718ab93a275a8cf39": "coturn: update 4.5.0.5_1 bottle.",
+    "4abb3b2708dcf03639e086d55104fea81e35a182": "coturn: revision for libevent",
+    "d61ce6f0929b69eb1412be813774080afa626776": "coturn: update 4.5.0.5 bottle.",
+    "77b1ca93d2a332e4fe1ce930b146feed526e1524": "coturn 4.5.0.5",
+    "a404fbfad30c17ef13a7263c6a47c05bcc5e8209": "coturn: update 4.5.0.4 bottle.",
+    "0708161535023a6ad4079ccf1651abb074154064": "coturn: update 4.5.0.4 bottle.",
+    "6c6782bb453885a65afd3709ca707de18602b039": "coturn 4.5.0.4",
+    "5694090e7771cd067537cc7b11ee9de97b7baee5": "coturn: update 4.5.0.3 bottle.",
+    "cbef9cd14cacba957c8deeed84f938d062b03260": "coturn 4.5.0.3",
+    "f2b8dc3c5a0c0d77463a2df4fbc5a5f12d95e759": "coturn: add 4.5.0.2 bottle.",
+    "6d0b9a6053e35fa38a5d82e9cdca2c59091aaf4c": "coturn 4.5.0.2 (new formula)"
+}

@@ -1,0 +1,18 @@
+{
+    "0c290957b0e9ebd071dab59a7e399d235d14616c": "hilite: update 1.5 bottle.",
+    "6a0dffd9b2a7d7e8375d2ca3ff2c85b4e69f276d": "hilite: update 1.5 bottle.",
+    "84a7346907976737a1b4ff8d4cb7830afacfd545": "hilite: fix audit",
+    "e159a1a8999d9de4222e91767b8c06e70c859e49": "hilite: update 1.5 bottle.",
+    "3d2e7709de6c35f3d9465fc1af7196c360804fb3": "hilite: add 1.5 bottle.",
+    "886a546918cf4e39a4baecbbe2a0ed005b2068c5": "hilite: use secure homepage",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "f2aadb6cbd672855503a9ce6c90d5f1a26198de4": "hilite: fix audit",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "63cde03be46795831374e03ef8920b6883d045b0": "Fix more quoting issues",
+    "caa5dbe6ad11ed47d9f0c2e778e1a915629a1e14": "hilite: use full path in test",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "01a6474cf9161a767a39a6a9b1498a0125cf2f9f": "New Formula: hilite"
+}

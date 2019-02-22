@@ -1,0 +1,23 @@
+{
+    "d4397e427f338a94fb589ddf807ae6c127b10293": "mairix: update 0.24 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "dea7df198f6e1bae202549b42b655ccc59540853": "mairix: add test",
+    "42737f7e0b333828a2fd8e0dccff7b8e7cd92119": "mairix: update 0.24 bottle.",
+    "4ec4d1913c5cbd0b43b6dc577acf5cf0a7291557": "mairix 0.24",
+    "1e7b50c018cfa3d0394b71fdf8228e0bb0a9ff23": "mairix: update 0.23 bottle.",
+    "c7f0607d43de197633c4d3513e3ba8cd1d892d83": "mairix: use ENV.deparallelize.",
+    "7512981c5b36351a7df5026f2f2323e4edc301db": "mairix: update 0.23 bottle.",
+    "5ac4651dda112ee17b9a14fda4210996dc09d0cb": "mairix: add 0.23 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "2156f75b840e7c08e9c1f4b6173946691bf9790a": "mairix: use HTTPS for GitHub head",
+    "d3ecb36090f1dcd5837543fd6564552e9314a73f": "mairix: Add HEAD",
+    "f038db2d7b65dabf7bd29753e996df1d4b19dd8c": "mairix 0.23",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "f5523dc38fe380b671e7920ff1cb0988f42302db": "Update Formula: mairix to 0.22",
+    "4e04048b42f7afd79b530283316df0e68ac499c2": "Update Formula: mairix. Fix man path",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "d33c05ecc0f855d5dc2f084b1685ba7b12ba51ce": "mairix formula"
+}

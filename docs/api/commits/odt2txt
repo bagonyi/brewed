@@ -1,0 +1,17 @@
+{
+    "74aef0a7ca59e0ba118ad9ab12c177906a99348e": "odt2txt: update 0.5 bottle.",
+    "4f5676ffbb0501e5e58ffa7c085a30baad2ce973": "odt2txt: update 0.5 bottle.",
+    "32c8aae71c0bce688351cab4ef22fd2af81dce62": "odt2txt: update 0.5 bottle.",
+    "867164fc418dc7c843b64786820376abf253fa3b": "odt2txt: fully scope test system calls and fix test",
+    "fd84423a3bc2caf10413d17783e5492f2d42fbd3": "odt2txt: update 0.5 bottle.",
+    "4b4a47ca4c648eb1b6206beabbb3186442bacda7": "odt2txt: update 0.5 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3d89fe149ad62fc093a8586a20f83a9b542f85ea": "odt2txt: update 0.5 bottle.",
+    "5a6fd2439fe5c1956dbb6baddc3ea415fd46ac83": "odt2txt: fix missing prefix",
+    "633b9159ab1d443293261f9e9780539efb2f7ced": "odt2txt: add 0.5 bottle.",
+    "003a44f4798d19d86750302308abcdf33f73461e": "odt2txt 0.5 (new formula)",
+    "c76836010e25d996e8c78d943d87d76ad5a108d1": "Move head-only brews to homebrew-headonly.",
+    "dd8790964ed6c0bf162b2c54e3d40af3d9578c2d": "odt2txt: set flags instead of using inreplace",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "f56489cd11055e501cdeb2e494fe72f273aeefe8": "Added formula for odt2txt tool."
+}

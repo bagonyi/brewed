@@ -1,0 +1,12 @@
+{
+    "e6d8a5091b286871625093cd1e31b8c2f90deb42": "midicsv: update 1.1 bottle.",
+    "88dc60efb182f91142bb4641d04e62199dec9ffd": "midicsv: update 1.1 bottle.",
+    "76bcef4200aa43659df5a4efa622f2bb38ab7bcd": "midicsv: update 1.1 bottle.",
+    "fbfdbd3f284eba306b15720e8c7deb86b1ec61cb": "midicsv: add 1.1 bottle.",
+    "5934ea51a7eea16838cff7f0f7bd154a6cdd75c0": "midicsv: use https urls",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "80785193dbee761ced9df51c4eaedb909c2a92f4": "midicsv: remove inreplace",
+    "4e726bf004fa82b9c1dde812d3b5abbfd0e4206b": "Fix various indentation issues",
+    "c26c397b2860d7443934d18b86f35775ad1f59cf": "midicsv 1.1"
+}

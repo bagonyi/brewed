@@ -1,0 +1,23 @@
+{
+    "17e12ec8f5b1a758ce33545ba3955dd2ff3b6d6d": "predictionio: fix dependency order",
+    "023acf102122b070b56b7e46635987f88d431a60": "predictionio: update url and mirror to Bintray (#16779)",
+    "71f1504967f674d2e2e247bd6097396f3d25aecd": "predictionio: use secure homepage",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dc6c4b5008f7dd00125ea87153adf63932ce2601": "predictionio: redirect homepage (#4917)",
+    "ee235a9ccb78a92de33c9bba7799b7b698e1c693": "prediction 0.9.6 (#4907)",
+    "8d5dea6940685c6a400b7f0a7efa436ac2af50a9": "predictionio: use secure url",
+    "7d8ccbd8d068395224c1840f5102b911f2a9b836": "predictionio 0.9.5",
+    "de5cf9fd51ff52a54355b870617ecc069aa60a02": "predictionio: bottle unneeded",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "80fec7344f35d5895348cd7863c8f7e819702b6d": "predictionio: audit fixes",
+    "f70069c69d8f4cc6dc7c473576b92dce229aa157": "predictionio: SSL/TLS homepage",
+    "d5eb01e9baf8849b3b919f688953c663459c43f4": "PredictionIO 0.9.2",
+    "457fd8d08996d4835a057a7e4c2284c6272d336d": "predictionio 0.9.0",
+    "23e35d0d6732b74701a9ffb73d1ae6c706120920": "PredictionIO 0.8.6",
+    "c773b664064408c711a221caf4fe9ce993aa22bc": "predictionio 0.8.5",
+    "cb9a1526678e0ebaadd8502da670c1802645d9f0": "predictionio 0.7.3",
+    "8f66b352cc16dfe1ddf94bd298fc4cde5ac92f34": "predictionio 0.7.2",
+    "00cd4c1c1eb04da2886455bffb30b0bc5e680519": "PredictionIO 0.7.0",
+    "d50112d04654c253f87ebb358adaeb713894bf07": "PredictionIO 0.6.7"
+}

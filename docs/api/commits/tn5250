@@ -1,0 +1,17 @@
+{
+    "315400c74da4d3a9fc5bea4f9bf36edd508e5265": "tn5250: update 0.17.4_1 bottle.",
+    "3c20a76424a487946ad60c2d3c4ee6713226a0bf": "tn5250: update 0.17.4_1 bottle.",
+    "15a6d1f0dd8bf6cc58cfb0dac7d128d074dcb0b9": "tn5250: https in comment",
+    "ed566335b2cb02728e16869f845db03f79de9c2a": "tn5250: fix audit --warning",
+    "7d773355c623b2787ec3d021869e444a0dc6bfad": "tn5250: update 0.17.4_1 bottle.",
+    "18d442d1ac7492d961f6b06c74df7d61d5e37533": "tn5250: add 0.17.4_1 bottle.",
+    "054f614bd6a81cfdf9193d6ba21f81938bcc33b2": "tn5250: add openssl dependency",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "ea6b4b8206ad3c39fe5ffe7546141220e1319954": "tn5250: use patch DSL",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "8dc451e3e20d8e92f7403941e5c1ebe41c4ef3ee": "Fixed several broken sourceforge.net download locations",
+    "633706ac48ea6c0b70814a08a316f8786c101097": "tn5250: add patch to fix segfault",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "cfca96dded6ec3cf609701c5086a011a87399c02": "tn5250 0.17.4"
+}

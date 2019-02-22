@@ -1,0 +1,15 @@
+{
+    "687e106e756d25f94a46743b332ea20194afe964": "bitwarden-cli: update 1.7.0 bottle.",
+    "4b56f04f6647c9110c7b208468eed103cb704d8a": "bitwarden-cli 1.7.0",
+    "39052146b63e37204646ba33711ca848c73ab7cd": "bitwarden-cli: update 1.5.0 bottle.",
+    "ea914107d55447662c111f0556bb47e24e36cf9d": "bitwarden-cli 1.5.0",
+    "d35427486e1afff1913e4f09c9b934323d71a8ea": "bitwarden-cli: update 1.3.0 bottle.",
+    "0b7f23866f4cd0106ca179ca387d83c6add3f610": "bitwarden-cli 1.3.0",
+    "4660a8183b21ccea28b104c84f8355cdbddb2f1b": "bitwarden-cli: update 1.1.0 bottle.",
+    "2db38ef424a54020851164d3efea715d5f10a5d1": "bitwarden-cli: update 1.1.0 bottle.",
+    "fffa0e64cdd0a3581333826f0016b7c8b5613f85": "bitwarden-cli 1.1.0",
+    "152b2ee6dc34d0e23214362f430adfd8f81bdd6a": "bitwarden-cli: update 1.0.1 bottle.",
+    "734a63d1797d252f7f1077d245132207b511f101": "bitwarden-cli 1.0.1",
+    "32bc4c6c0bb9a40779ec794a979db9a7f15981ac": "bitwarden-cli: add 1.0.0 bottle.",
+    "bbb45c3277b7ed1aef04dad3b3209038fa80ce8a": "bitwarden 1.0.0 (new formula)"
+}

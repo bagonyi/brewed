@@ -1,0 +1,22 @@
+{
+    "c903502c331c362c9d19ad578493750a1f2f25b8": "ohcount: update 3.1.1 bottle.",
+    "2be7b4c352add38cb50122ebda8e4918b94f729a": "ohcount: update 3.1.1 bottle.",
+    "7144017df751f7d883435c9a4f4056a323a7a9da": "ohcount 3.1.1",
+    "270a6e7c3e1105aa6e86806326c9feb1dbdfc904": "ohcount: update 3.1.0 bottle.",
+    "9ff93799c3cab8a8ab3ecb8120092c2f2839c420": "ohcount 3.1.0",
+    "e914293a335d2d8b9438552190487a9163c5274a": "ohcount: update 3.0.0 bottle.",
+    "2bb993e590059929bda0f9bbcd9815656098423f": "ohcount: fix RuboCop warnings.",
+    "eff5bfb2a2f3839bae926ca40b4c94e1f26649df": "ohcount: update 3.0.0 bottle.",
+    "343a77330ab7b815535585ee5640207b69d0d415": "ohcount: add 3.0.0 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "64edb5470f3550ec5c34b5268d1751059d6ed20f": "ohcount: add test",
+    "73d226a39874d16503cac8eaf172b3595e63c1f1": "ohcount: use patch DSL",
+    "ef5b02770fdca56ce139dd2383a48e4f4308c091": "ohcount: use spec deps",
+    "2f4fbfa1e77985686213e35c6eaef296cd8d0ef7": "ohcount: update URLs",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "d1a2bb3c32538bb35fc0489f4310949cee59d0a8": "Use Homebrew's pcre where appropriate",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "a3f48460bfa5211bc24b238947e45352e2bd15c4": "Use Homebrew CFLAGS in ohcount formula",
+    "b0636b5edd96a49024d26d934ab2e99c3f860f6c": "Formula for ohcount"
+}

@@ -1,0 +1,19 @@
+{
+    "e39b676aaf56b49454ad5c531836e4bec22c587a": "braid: update 1.1.2_1 bottle.",
+    "ecb15cc5cc3d1a9f32670921dc88d491b2597036": "braid: add JSON gem for <= Sierra.",
+    "69d91448cdee0e62d12dde92bd3b8b34634a2a11": "braid: revision for keg-only ruby.",
+    "b04dbbf4196356f4adeae8debd720cadbc5b1f69": "braid: fix RuboCop Layout/AlignHash.",
+    "2f224023d640acca5962754fe5a76b14472a60ec": "braid: update 1.1.2 bottle.",
+    "c4b47ec3b48651e355170fd992da0424075e5a77": "braid: update 1.1.2 bottle.",
+    "5c58f854b5d501147f52426319824e7ee63b66d3": "braid 1.1.2",
+    "950bb0580763e6e38769d42ee2abcb33829b3613": "braid: update 1.1.0 bottle.",
+    "b78a99e21937c62d932fcb1a080ad70a52701b5a": "braid 1.1.0",
+    "07e62a99fa880ea0150029f83051c90a3033e56c": "braid: update 1.0.22_1 bottle.",
+    "6f77c7bf65490f94de455046ece33262f2212962": "braid: depend on ruby instead of :ruby",
+    "6c99c2b41f9280a28d8e69cfb83f94de46835c73": "braid: update 1.0.22 bottle.",
+    "5cc8165bd2d52adf18d203f376525ce5ce985074": "braid 1.0.22",
+    "91de938d24c4fe994efeea7d1fd85afe7b340fef": "braid: update 1.0.21 bottle.",
+    "e0d35e1bb38d3b9a4935fd1bef48109494875f78": "braid: fix indentation",
+    "32744e0683b8eb5ec7ef9f90987a226497f6d1d0": "braid: add 1.0.21 bottle.",
+    "78bba8f5dd59ec703781abef8de4578fcd7e5e9c": "braid 1.0.21 (new formula)"
+}

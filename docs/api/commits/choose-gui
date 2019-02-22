@@ -1,0 +1,10 @@
+{
+    "1d4fb00e1b1160ac81c30848d81a9a58f4720cd9": "choose-gui: fix dependency order",
+    "d267a7ca10c9fdd9ef5fbe8d915a9f473150cf46": "choose-gui: update 1.0 bottle.",
+    "1495084e0b7ef2a133d78c3d639e14ba3b47f263": "choose-gui: update 1.0 bottle.",
+    "dec0421dd54c6d170475fbc5e4925c8f061428d2": "choose-gui: update 1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "350cdd3cf410693cf92dfe5dc76ab32633c8dd81": "choose-gui: add 1.0 bottle.",
+    "9e44867719ecd430d56dd6090be6f6553e173d58": "choose-gui 1.0 (new formula)"
+}

@@ -1,0 +1,22 @@
+{
+    "ade744c01bbe18a3bf69ff8e96a2fe932aad30d6": "tinysvm: remove references to pre-Mavericks.",
+    "8c24f33c22d8a13ddedba10b6b30dae980f8f14c": "tinysvm: update 0.09 bottle.",
+    "ec2da05a0dc0a47727da888239d219bd604b6b7e": "Indentation style fixes (#19679)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "066c260ffe018836c88d0dbea0744653dee64a69": "tinysvm: use assert_predicate instead of File.exist?",
+    "72f7e1ab748cd4c798ce651b08fbb6839748cc92": "tinysvm: update 0.09 bottle.",
+    "53d172254effe419864960ca1bfd0f3b3fe0c59f": "tinysvm: update 0.09 bottle.",
+    "7f5799fd2178001b715827e3a84e021923d357c2": "Rename patches repository to formula-patches.",
+    "663b410f44336e320ec7d0e861761c8809fadb78": "tinysvm: update 0.09 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "781abee84137792c1096e02df0ce6595fb28f9f9": "formulae: migrate patches (part 2)",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1c4d1047200cc1db2088dd69b5174dfbb0d954c5": "tinysvm: add 0.09 bottle.",
+    "07d4bf8b2fae8036ae60980fef7f7a133daef8b8": "tinysvm: real test added",
+    "e4b9517ba29336251507b73ff1c4e2348ee3cda4": "tinysvm: use checksummed patches",
+    "c6c40d03f2cefcd8aae1d5ec8f1ba36511f4a1db": "tinysvm: patch out bad compiler flag",
+    "a9dc00811c782c566bb622fe922e2fc8cea120c2": "tinysvm: fix test",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "48a1b6af391f7b475292f050ab334a4d6da42000": "TinySVM 0.09"
+}

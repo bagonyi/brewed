@@ -1,0 +1,20 @@
+{
+    "eaac1d6578148e4d026bf2203cf0a31f5caae727": "rats: update 2.4 bottle.",
+    "1c425afeb0783cc7cd9766f3d94a988b87f354d2": "rats: update 2.4 bottle.",
+    "79f714ea70739ca2473a2df08f158bb60dec7c6a": "rats: update 2.4 bottle.",
+    "e41991bac77081c4f51fe0afe098c23799320faa": "various: update remaining googlecode URLs",
+    "ce0283491075fef8712c546acbc5450f9b17605b": "rats: add 2.4 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "eeef5f2f422849c391c71a24be711dab40d2516f": "rats 2.4",
+    "0e914c28d9baf976c692e4e8448571921bfd9974": "rats 2.3",
+    "899b38d593b17d666d9caae0b32335fe2f8d60be": "Redact rats.",
+    "b0adbd5db5432a55b6feb0f15994426991785445": "Updated the URL for the rats package",
+    "e3bd886263def15c40f43a639d347fadb0d4a65a": "Add a formula for RATS.",
+    "c2af27e1742a8f3324b01ad2c77ef7fa4e32971d": "Fix some more man paths.",
+    "90e57c8319eb3777daba9f3018f2e569fee18d23": "cabextract v1.2",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "7a1ecdc5a03494da3a5cb7e4dff4a840dca23bf3": "Added postgis recipe, which depends on postgresql, proj and geos.",
+    "d5944fa8a9f2ccdd15132aa942729c07ea3d75d4": "Popt formula",
+    "9faf689de19ee982be280fbab5f54ac16ab06e9d": "Formula for SDL."
+}

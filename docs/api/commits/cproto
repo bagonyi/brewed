@@ -1,0 +1,15 @@
+{
+    "93965599ffe83104f48cdf9fc6c5f0aa6a890721": "cproto: remove references to pre-Mavericks.",
+    "b775ef792f1c8aa1514a40f1cef9f5cb10e484aa": "cproto: update 4.7m bottle.",
+    "39a991ab21c844b426f6d4a04296f041bed32c8a": "cproto: secure url(s)",
+    "c8cbf9869f83eb04edc0f8200cb7e166b525ac43": "cproto: update 4.7m bottle.",
+    "7a3a3a2e01afdd9a94153c7ec424f1acfd39a012": "cproto: secure url(s)",
+    "2b56b75283d5dfa73d16b464865dd414de101137": "cproto: update 4.7m bottle.",
+    "6e5bb78d9a8d2879f66aba0cc30fee266ab9d445": "cproto: update 4.7m bottle.",
+    "196243785a0da15947c996c4ae232da9347859c4": "cproto: update 4.7m bottle.",
+    "12f77ecd190fc61297b4862cc5fe882ec3ae701f": "cproto 4.7m",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "779337a4c789d515507374c29e58a895b1c5f1b5": "cproto: add 4.7l bottle.",
+    "57602dec20b02670177c77462e53a94a41a26aee": "cproto 4.7l (new formula)"
+}

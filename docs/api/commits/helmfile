@@ -1,0 +1,20 @@
+{
+    "76955b971c99975984d7adf9591dcc67bca9b2a3": "helmfile: update 0.45.2 bottle.",
+    "b449cc2d22fb5103a31488a78830068356c27834": "helmfile 0.45.2",
+    "737883b2b1ea6d025544d39bc307c0da32dbfe2f": "helmfile: update 0.43.2 bottle.",
+    "48161a3410bd75f3dd9507c7867f7b80437da8d0": "helmfile 0.43.2",
+    "7279f0f4e7670e27d908ac76f8b4e3a0dfaa0824": "helmfile: update 0.41.0 bottle.",
+    "fb26d9938bb699e3cd83cd41afda7ac7964f1532": "helmfile 0.41.0",
+    "2d8d5dd78d2d28e67b17bc61c0ae7b15b9bd7b55": "helmfile: update 0.40.3 bottle.",
+    "867e57485d03209f7b42df58d13b2110934ba062": "helmfile 0.40.3",
+    "2ce223eea642d9b2a058fe012190f1ec3a79d889": "helmfile: update 0.40.2 bottle.",
+    "b584c084d30e3d57d2ad95b78868e1df78537a97": "helmfile 0.40.2",
+    "d853ee10f84a61f6f178c4db32c00940b9a05d73": "helmfile: update 0.40.1 bottle.",
+    "d6412650447cf95f2ace4a40a47cccd5b3aab23b": "helmfile 0.40.1",
+    "bc88acb07244cf77eab011fcd63ba8b3b8c8ced1": "helmfile: update 0.35.0 bottle.",
+    "fd3d6c4c24fb26085ecab6c6720f2434ddf5fec3": "helmfile 0.35.0",
+    "46582c655b65472bccf1aa9ca466a50162c6815c": "helmfile: update 0.23.1 bottle.",
+    "a39a6d243c0dec8fb6c40f02aa58f51dc64628d9": "helmfile 0.23.1",
+    "35b98d0b7938c07bbc856c5d55943db8296e11a2": "helmfile: add 0.21.0 bottle.",
+    "7ae10498c3fb2ce59887d7fb43e049df3b99b814": "helmfile 0.21.0 (new formula)"
+}

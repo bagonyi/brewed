@@ -1,0 +1,9 @@
+{
+    "eb20bf2597de831b678f3d25fde61d731c17c6e4": "psql2csv 0.10",
+    "dbc7727adfbbf385ee56bb77bbc7a9ba0b17e170": "psql2csv: revision for postgresql",
+    "325bc7caa98e3afa3691a8fe954dd23cbb7da868": "psql2csv: revision for postgres 9.6",
+    "714044b8e6fceb6ce2fe7ae1e0b4b2d68f0a8bc8": "psql2csv: rubocop tweaks.",
+    "93e1c34cef4f1b9dcda33eef0091a1463f8522b6": "psql2csv 0.9 (#1777)",
+    "dcd0957ebaafd5a40243c6517f393e6db99bec2d": "psql2csv: bottle unneeded",
+    "55b3e030286c8b55aea8185dadbdad9750e82922": "psql2csv 0.8 (new formula)"
+}

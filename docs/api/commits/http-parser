@@ -1,0 +1,22 @@
+{
+    "6412e41b6ee917899255934ba7ab07aa1b76d297": "http-parser: update 2.9.0 bottle.",
+    "75ba7d76c51b2557692c7390b5629fbab577e423": "http-parser 2.9.0",
+    "fd483c7c592ac7d9c91343077a5655c42cd2864d": "http-parser: update 2.8.1 bottle.",
+    "a49ce7eb9fc41e94859d1121b0a9e4e7174df5b9": "http-parser: update 2.8.1 bottle.",
+    "7b62ff7161159ec930f56f19effe3f7c4a853993": "http-parser 2.8.1",
+    "6604a43197ff57ad7e6142da63a7254f3abe7e8a": "http-parser: update 2.8.0 bottle.",
+    "602dcf78ee273f17f0618fc120ee132f7757736c": "http-parser 2.8.0",
+    "86e8f6534d609e8143a7db3f76ef34dc1d73beef": "http-parser: update 2.7.1 bottle.",
+    "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",
+    "0d23048dc8fc9c226a244b2bf58cf45194f26920": "http-parser: update 2.7.1 bottle.",
+    "503e8b3257f5d383601eaef10bd60337771df9b9": "http-parser: update 2.7.1 bottle.",
+    "ffa71f28255a7bc3ba82b260904d3671483600d1": "http-parser 2.7.1",
+    "88272ba23d9675bc4527926aba09a091d3747850": "http-parser: update 2.7.0 bottle.",
+    "6b0f96edcee372a18e4d49d813404ac12d43035f": "http-parser 2.7.0",
+    "4ea597de431aaa5d93d722d3021f4feef13a86dc": "http-parser: update 2.6.0 bottle.",
+    "679ca571274e147b9fb9df030756eeae8ebcff59": "http-parser 2.6.0",
+    "cae86470e89566232539cd1b78904d29ab053462": "http-parser: update 2.5.0 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b29cf779fbeb4023ceac340c103f8143e75f9c7a": "http-parser: add 2.5.0 bottle.",
+    "ea4019909a7a96f05a43bc2123ed16e3cc88ed6f": "http-parser 2.5.0 (new formula)"
+}

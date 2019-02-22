@@ -1,0 +1,13 @@
+{
+    "f9882d06fbd2ad3b354a8c9128ed2652ef95407f": "tta: secure/fix/follow url(s)",
+    "6fcd20819993077d06389d27980e7656a40e4915": "tta: update 2.2 bottle.",
+    "49d1e9c43169f18c76476c2b8cf9cec713607828": "tta: update 2.2 bottle.",
+    "3e4db6a475d2b0bae51fb012387fded643883e18": "tta: update 2.2 bottle.",
+    "88f03109a2e5763426c9767c4e075988c1a4985c": "tta: fix audit warning",
+    "7e120dd72d7337c511102a6b8cd7de80bf8a8226": "tta: add 2.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "1ce42a820a876ba55229a617ac4948384634d11f": "tta 2.2",
+    "9174a808b32bc990e86321632d634108adb7704b": "msktutil 0.5.1",
+    "34bee0f6aefd3c3063fa2a4afa9dc1da5e019f86": "msktutil 0.5"
+}

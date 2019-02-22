@@ -1,0 +1,17 @@
+{
+    "31f0275c02c96615ee0029e186cabf0bdd73c14b": "qdbm: secure url(s)",
+    "25e338416270657fedbe021b67fb9175973c4180": "qdbm: update 1.8.78 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "aa327382605787b5dd26a00a30c7fe4d18e0ab8a": "qdbm: update 1.8.78 bottle.",
+    "49ff6b86dcbb692373ce8d9d09770dfadd568a68": "qdbm: update 1.8.78 bottle.",
+    "755b2bc1cd2e37b9481d115798af12568cd7a3d4": "qdbm: update 1.8.78 bottle.",
+    "3f88577f7b93bdcd69565bf7d1c7fcdde781e3b2": "qdbm: audit fixes",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "60cd13cc4adaaafc83970352dcbc6bc0b6dc5290": "qdbm: add 1.8.78 bottle.",
+    "32f5dcec8300f2affecea1221db8139d2d7a05ec": "qdbm: test added",
+    "53d0da84309b371abacdd5a59f81ddb605b635e0": "qdbm 1.8.78",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "94b9e56c651b1bb416e689aed3e1425ee3348d18": "Homebrew style is to indent w/ 2 spaces, not tabs",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "c33787d3a271775f266a8c3c20d21f54e6fde727": "New formula qdbm"
+}

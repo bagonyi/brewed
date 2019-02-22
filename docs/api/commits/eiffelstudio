@@ -1,0 +1,21 @@
+{
+    "96adf765d457c9d46958ba0cba711c52ce72e3b2": "eiffelstudio: update 17.01.9.9700_2 bottle.",
+    "3acbed8a87aef41afcda87fab8b038e3a2b90912": "eiffelstudio: revision bump for ISE_PLATFORM fix.",
+    "aaf8c10b09a9d6c002c9920c6e0f0322bbd198e6": "eiffelstudio: Restore ISE_PLATFORM env var",
+    "137759d678c2c064cf414f8b75561f2a8acf9ae9": "eiffelstudio: remove old code.",
+    "1c07160bc3d2b5edbccd2d2cb5f017ce78af0b65": "eiffelstudio: update 17.01.9.9700_1 bottle.",
+    "923a5c2ca78947ef8453c0612e927d1dda901ffb": "eiffelstudio: update 17.01.9.9700_1 bottle.",
+    "9f4c44c12a2f11ec6d23754b0ab979df3f251c2f": "eiffelstudio: revision to fix install receipt",
+    "a58b6723ce0979de077f08ac7d8a6c73dc89bb23": "eiffelstudio: update 17.01.9.9700 bottle.",
+    "a79c6bcd0d638298b8d8d875801047a19d0e8a93": "eiffelstudio: update 17.01.9.9700 bottle.",
+    "f35dd0276e1e8f4b8e2e6aa0a1d11f67ebbf474e": "eiffelstudio 17.01.9.9700",
+    "1852b5499c42e7e6edebbde0f98dd311de2978f3": "eiffelstudio: update 16.05 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "54c5531edd987f39d458297f90790a49166841d7": "eiffelstudio: use preferred style",
+    "8f1580c1e9b46e52d632a3dffd597b602db74334": "eiffelstudio: update 16.05 bottle.",
+    "4e09cf83cdc779e4d98a691f737e701da01b0b16": "eiffelstudio 16.05",
+    "9532410a5bd759a810c4e55ca2d57c6c107334d2": "eiffelstudio: strict audit fix",
+    "27d4e076bc972bc84967dbc232aa0314eef3e563": "eiffelstudio: update 15.08 bottle.",
+    "5017b21cff6115922480972cef16057ecb6d1f6c": "eiffelstudio: migrate from x11"
+}

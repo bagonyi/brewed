@@ -1,0 +1,20 @@
+{
+    "e5cffbc8461ccfc83a6ea3054738cb1f5dc48fc6": "lout: remove references to pre-Mavericks.",
+    "81dc698bf0205d364dda8c3bf2177b6c7374a428": "lout: update 3.40 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "a596137bc36165bd3e7f2eb49c8c8ba1654dcbbb": "lout: update 3.40 bottle.",
+    "c1b36ef25728b427d22caa0f676c01b173a8e9b0": "lout: update 3.40 bottle.",
+    "510d5ac1ff02055f121b162d80855d50c97a8c00": "urls: update savannah to use https",
+    "38f264e45a004ef37026308b91d8b0722e441935": "lout: update 3.40 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "5c443a9e435b20832805f966c85588e768de64a3": "lout: add 3.40 bottle.",
+    "e89b33324479f7f8eda8c0e177bb76e6229b4bcf": "lout: modernize",
+    "b8a07eed7a55f23f00ff44742e5a0e311cc728f9": "lout 3.40",
+    "916bab37dc7f74ccb1f256431a510870dc4b1d65": "lout: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "3a8b5e4def1065e4a9633c3768aab37d73079d02": "lout: correct man path",
+    "5220d01d38a39ef7ac571254cbb775354dcab28c": "Lout 3.38"
+}

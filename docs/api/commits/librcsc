@@ -1,0 +1,17 @@
+{
+    "d1707b71aab620f710d127a46c6249ff75e1ac83": "librcsc: remove references to pre-Mavericks.",
+    "997828c7e6945eadd7ea19a17a7bdf250251656e": "librcsc: update 4.1.0 bottle.",
+    "f019569fc559affbbfd6da86163d7b8ccd3c33f2": "librcsc: secure url(s)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "57df27c6d9a9de0c77a39ae90bb59f51fbb4ec4f": "librcsc: secure url(s)",
+    "68abcd08b7bea2a5be267da631d4199d16126431": "librcsc: update 4.1.0 bottle.",
+    "1f219228c0f6f95a8b6d667c04684a50d3e65d11": "librcsc: fix test on 10.13",
+    "9f3e55bd8e9e8e7e359ea225d3f0506239c7c335": "librcsc: update 4.1.0 bottle.",
+    "690d02e7d6fea78fc4f5916c38e08fa663ef6b04": "librcsc: update 4.1.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "dc16f41548e185421d6d094c0f704d7dc4b11e69": "librcsc: update urls, pass strict audit",
+    "1569956e4449afadce68a8e3ef6e1aab1d4cee47": "librcsc: update 4.1.0 bottle.",
+    "f3115b456597caf447ee5882f3d8003eb1fd3594": "librcsc: add 4.1.0 bottle.",
+    "43826edb14c5f0825244d0f550e402d790c5c718": "librcsc 4.1.0"
+}

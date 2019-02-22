@@ -1,0 +1,17 @@
+{
+    "5b5cf4d39971cc95b3d9b632e5511b806c580a2f": "rinetd: update 0.62 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "8a68438c9e3cf8bf4b5648ee4f7119f9cfcb8ce5": "rinetd: update 0.62 bottle.",
+    "7cdd9ccaee444906edca3a84df44426fc9a29fcd": "rinetd: update 0.62 bottle.",
+    "afbf69e1e04e7161126d297fedf633e1deadce9d": "rinetd: use secure urls",
+    "c1bbdf90c11df74ed154f15c1e6cef632661882c": "rinetd: update 0.62 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "6d34c4d4a9722932d884ba17c7fa1a00fce3630a": "rinetd: add 0.62 bottle.",
+    "f25d56d04ca4c30998fb5f8d74126c981bca58b7": "rinetd: modernize, test added",
+    "274e02c5f8535d25a575125668dfee82c12dfc02": "rinetd: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d68fd0ad664f279727143eb317567370dec2f3c4": "rinetd - don't use DATA for initial conf file",
+    "7bd947eb0b604c31a1092979c525fdfbb25f3934": "Update formulae for version 0.7",
+    "f4e99ed84f133186b442d0f8210697c55dbd628e": "rinetd formula"
+}

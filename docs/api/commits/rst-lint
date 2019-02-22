@@ -1,0 +1,14 @@
+{
+    "6c0ed8d676abc4fb7c8f2cfb1a73068b82307e75": "rst-lint: update 1.2.1 bottle.",
+    "047d3621de3541989899a42be70364e1c0456f13": "rst-lint 1.2.1",
+    "d32f00482cb70ffcda8094bb6b3af077c977c4a7": "rst-lint: update 1.1.3_1 bottle.",
+    "f4c2dbc2c9d8772871484531e9477ce163592a18": "rst-lint: move to Python 3",
+    "3d589013d7136d81253d95c85cb952cae6948149": "rst-lint: update 1.1.3 bottle.",
+    "d88cc1fa1adda6d99802651d42d4078be8961296": "rst-lint: depend on python@2",
+    "d9de295784d4e4f60bda1e64b9ea0702a81fcee6": "rst-lint: rename python@2 dependency",
+    "f82b40b823767a92e31c651ecfabc226a978cc32": "rst-lint: update 1.1.3 bottle.",
+    "199284df103748fc39cdc59a8209e0c1103da67c": "rst-lint 1.1.3",
+    "f870cf1372c4dee5213120c2360af67cf4f216c8": "rst-lint: depend on python instead of :python",
+    "e2ea91fe288435ca20506cb6bc7af12925b52a7a": "rst-lint: add 1.1.2 bottle.",
+    "f60751f411bf4cf9e4ea9584a329941b5a1fb715": "rst-lint 1.1.2 (new formula)"
+}

@@ -1,0 +1,21 @@
+{
+    "85ea337cf8f8b7ca553b58283f3673b1354f6bf1": "peg: add test (#32860)",
+    "41e6c0369d20d6650f12922d3a5cc76d56eb132b": "peg: update 0.1.18 bottle.",
+    "f366d05f43373441fe68bd4f2717ba0756a677cb": "peg: update 0.1.18 bottle.",
+    "a5ce9bb1fcc93724a936d4c5813d5c7ef3f17240": "peg: update 0.1.18 bottle.",
+    "074db2d28ce4fc882ef3cf79c18083d94f3b6832": "peg: update 0.1.18 bottle.",
+    "78fd1ff14bd644be645d324fbd3a7a961a749a09": "peg 0.1.18",
+    "00054a8091693f5de6ba0035079d12a6f688af0c": "peg: add 0.1.15 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "68acc34cade92ef8cbf12896cedb7f8b622a7350": "peg 0.1.15",
+    "cdc1e49ddc2a7bb988faac6ee09a6aa2e2c1b5f9": "peg 0.1.13",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "605d8dfc5ec4a18f28ea81a91730f934ff905b32": "peg: Update to 0.1.9",
+    "3b66668632b3165416c6847d52dece2b47e50411": "peg 0.1.7",
+    "fe81868dadbdd05aa6dbf3ca5b4c06b577a865c8": "Fix homepage audit warnings",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "72e19eb5421201a2be3dce1e298861cf6aa4a132": "Don't need +x on these",
+    "1f7bc468bdbaebe8d5cfc2b74368cacde10b852b": "Use new symlink aliases",
+    "9d9deb496f7c8c609a8f619f6f9dd624674e64bf": "Added formula for peg/leg 0.1.4"
+}

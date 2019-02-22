@@ -1,0 +1,20 @@
+{
+    "67baf0384fa81a904a4a67ae951f9d327242b409": "unittest-cpp: update 2.0.0 bottle.",
+    "a8087161f6e9f6f5e302bd991111c38d2dfec326": "unittest-cpp: update 2.0.0 bottle.",
+    "c16072435829ff0b7016b8d255406232bc3b705d": "unittest-cpp: update 2.0.0 bottle.",
+    "18219272dc0b45494e56ad5da2927cc6d6847a66": "unittest-cpp 2.0.0",
+    "09ce0dbca7529711a65a211bc0d1f171896e895d": "unittest-cpp: update 1.6.1 bottle.",
+    "74dbe2788e0454d61fa0aa628318b1d789d79313": "unittest-cpp: update 1.6.1 bottle.",
+    "20db273744e0dc9ef400f8e4fdfb21aaf67cd5fc": "unittest-cpp: tweak test",
+    "90b3594db8154d8ef1e4e21d2827064c5c22b63b": "unittest-cpp 1.6.1",
+    "4a0b4cc65b05efd518b1bb4cc88a27983dc99466": "unittest-cpp: update 1.5.1 bottle.",
+    "a092eca62325a17dfe309dcfddac403661b84c64": "unittest-cpp 1.5.1",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "153866f6748337370380dcad1fd28b8e1faa9ae5": "unittest-cpp: put bottle block into right position",
+    "f1b06b4c62c602ced4a6a659045382cefd527a04": "unittest-cpp: add 1.4 bottle.",
+    "34d876f0129f90c20a3af920f609214ede82af59": "unittest-cpp: homepage/url move",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "7bf99118f5ff798e678254faa4434f5561e5c11a": "unittest-cpp 1.4"
+}

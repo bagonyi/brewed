@@ -1,0 +1,19 @@
+{
+    "fe4190daded0539db700bea852b686f8a9c0df00": "vcsh 1.20151229-1",
+    "973b53970f05042f8acd7cad310d5e579e3d1041": "vcsh: bottle unneeded",
+    "e8f57396a88dd82f185289fe1e72435f94361206": "vcsh: fix nits",
+    "f93601a7df53ed27bb91ae5807ad49afbaa3ed32": "vcsh 1.20150502-1",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "b17e5585d2a42f4dd7124927b608fd0121caa025": "vcsh: remove dependency on mr",
+    "fd73ba86e9486917c066fb525ca9cae088b53188": "vcsh 1.20141026",
+    "5e656b6cf13c1cc279c99b39f6b70abb9d791af3": "vcsh v1.20131229",
+    "56d123572808dc7eb0379ed4c428853c0067f9ad": "vcsh 1.20131214",
+    "d47d0cd74d48772efd3b2bf40c03c3203aa09974": "vcsh 1.20130829",
+    "3794cb249f0d54e3e1c1a5eaacfa3f4c409e4c6a": "vcsh: Add zsh completion.",
+    "9bb486a758c12cb16e5d3fdacc67ea2b73f8e28b": "vcsh 1.20130724",
+    "bc97dff10c961cd5bfc49aceebc28ac416ae4f3e": "vcsh 1.3",
+    "24495f350adaa84d77bec94a13ac8fcfde5ed8bb": "version 1.2",
+    "e714c0410f20393311a889f0593bf71c7d4eca96": "vcsh 1.1",
+    "c492a4f02b4be5411be0158e2872186467396e38": "vcsh: fix test",
+    "3a54d9c044bfa9ff71dbff4d3555ae49672f9302": "vcsh 1.0-1"
+}

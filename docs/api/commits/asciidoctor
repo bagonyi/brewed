@@ -1,0 +1,15 @@
+{
+    "14d03f35f2b54e1e3e367589681f36b6ff1283f2": "asciidoctor: update 1.5.8 bottle.",
+    "b4151dc89919fde10cff87e7bea8376e7e5745fb": "asciidoctor: update 1.5.8 bottle.",
+    "750a18459a0caaf59aa6ad945eed25d3eb722a95": "asciidoctor 1.5.8",
+    "8d88fc40113a1b357bf4f83421f738389e57faa2": "asciidoctor: update 1.5.7.1 bottle.",
+    "9810616f4ca93b76ceb8a40208d60f3580a70fcb": "asciidoctor: update 1.5.7.1 bottle.",
+    "5c566ce8c73be70a9d5fa4f091a0f8ee590ff30f": "asciidoctor 1.5.7.1",
+    "431cf971cdf9242799a65678f2cfc91c9b6ea402": "asciidoctor: update 1.5.7 bottle.",
+    "d46a14c4e72cb8cb5b678ea734865571e3498690": "asciidoctor 1.5.7",
+    "b4a3152e14012d823353f884c13488433e1f3032": "asciidoctor: update 1.5.6.2 bottle.",
+    "2a776413856ce4cebde1a0279f8477acbc6b28c0": "asciidoctor 1.5.6.2",
+    "ecaf272f648a46f0dcfe4e5248cb55498dba665b": "asciidoctor: secure url(s)",
+    "08e46e979d62fc8638049823ccf10c18f86d8d5e": "asciidoctor: add 1.5.6.1 bottle.",
+    "f071184b3ac9220fb33c2961bab915f931975db4": "asciidoctor 1.5.6.1 (new formula)"
+}

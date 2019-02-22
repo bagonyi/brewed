@@ -1,0 +1,9 @@
+{
+    "fd3ddd77143563751d6e0f83e8d51a5f97a95b53": "libccd: update 2.1 bottle.",
+    "215f6a1b5daa97de107183da62bf98799f6a4877": "libccd 2.1",
+    "eafa48fa6745b231caf2c436e0ffbd8c057f1e0b": "libccd: update 2.0_3 bottle.",
+    "6a67b084aa164df7c95acf9f9eee843452e9ea32": "libccd: update 2.0_3 bottle.",
+    "92925ac74d52bdeb53f87242b433932c100f9eae": "libccd: use correct option for double precision",
+    "432636c800e0abc6483bfba662fe643b5ca0d0e3": "libccd: update 2.0_2 bottle.",
+    "395d8ce10ea5e6617a8c5297ff9645955ab79f94": "libccd: migrate from homebrew/science"
+}

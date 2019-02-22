@@ -1,0 +1,21 @@
+{
+    "a46e6d18e4d1ceae7ff30aea49705d7cb97580ed": "innoextract: update 1.7 bottle.",
+    "7decb03298c4051f9b141dd43703b5afda9921b1": "innoextract: update 1.7 bottle.",
+    "8bc597674e451c56bf9fc349f82e9a6f9f554286": "innoextract 1.7",
+    "6848861de503408f6bf5a66cdbfafd63a1a3bd41": "innoextract: update 1.6_2 bottle.",
+    "93af4206c73685f20f02d39d3dac351b5ba985ac": "innoextract: update 1.6_2 bottle.",
+    "fcf15c68a2962af969734b22b3d6b90eea4e368f": "innoextract: revision for boost",
+    "72ca36690461683ed7d312cf5e3ba0c08056fb34": "innoextract: update 1.6_1 bottle.",
+    "539a7ec1c616f109d383f0c859c7a79c731feca0": "innoextract: revision for boost",
+    "f6a1e926075c49f3592419c5ce9885afb7997856": "innoextract: update 1.6 bottle.",
+    "cd918f8c14979dc179203b60bc83914367cb3b94": "innoextract: update 1.6 bottle.",
+    "72c6f6a8539b595630a9b8df320f7b22d02a2fdc": "innoextract 1.6",
+    "09c9323f78606a24adc272f3c6845f894b1d242a": "innoextract: update 1.5_1 bottle.",
+    "12bfe5c425ef72a91a44fdb878412c43383ca903": "innoextract: bump revision.",
+    "c45a8b53370fd9429a277cad971250575b7b4b6f": "innoextract: use secure urls",
+    "b4cb8b531965657de10fdc1d0c9dcd9aad0bed14": "innoextract: add 1.5 bottle.",
+    "0aa49167e3935a85f7a0cf386ab3ef193ae35620": "innoextract 1.5",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "3b75bdcbe87d57571931d655d5d717810fed121e": "innoextract: 1.4 - extract Windows setup archives"
+}

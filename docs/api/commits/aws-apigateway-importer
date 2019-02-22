@@ -1,0 +1,18 @@
+{
+    "d1d55cb3f7af16b5f1b6e7755bb1565db8292990": "aws-apigateway-importer: update github url",
+    "8743422fc0fc26184dde02555cf28bf1a4a09d86": "aws-apigateway-importer: fix component order",
+    "2e303aa57c280d3fb9630b7943f342818d6e46b2": "aws-apigateway-importer: fix dependency order",
+    "e043c2800c5880c6444ddeb02db09e5f7f49d34d": "aws-apigateway-importer: update 1.0.1_1 bottle.",
+    "0c2c71131ccc9534b7b7b74df8cdfc2b224953ce": "aws-apigateway-importer: require Java 8 specifically (#28315)",
+    "c7767d1bdbc6155f6fce3339e72404773517c685": "aws-apigateway-importer: update 1.0.1_1 bottle.",
+    "45d34b8b79f88543fbef33a6c93cb15a258cd65a": "aws-apigateway-importer: fix checksum",
+    "d2a12580dd82e71ee1ef86d917aafae8f99dc31a": "aws-apigateway-importer: remove deprecated ENV.java_cache",
+    "f9fa03817d7cf88124a769444a50a6507fc7b5b0": "aws-apigateway-importer: use full_index patch",
+    "5078a8a0dc7bd759a218b67747a434f48ecbe99a": "aws-apigateway-importer: update 1.0.1_1 bottle.",
+    "a4850544f194393fb6c85e3378f42b36d23de4c3": "aws-apigateway-importer: patch for compat issue",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "dce1ed17c2b9c1287c29c45ede145b30f4b0ed5b": "aws-apigateway-importer: use new java_cache env",
+    "4e62b2b7b8ca132b32c5b09700c84d734b5ee03d": "aws-apigateway-importer: add 1.0.1 bottle.",
+    "0795531ec511f33901615f4643ccd9914d790e22": "aws-apigateway-importer 1.0.1 (new formula)"
+}

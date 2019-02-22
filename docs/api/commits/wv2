@@ -1,0 +1,18 @@
+{
+    "decae1b848ee1bb0cb165ed4b33ca5dedb6e8308": "wv2: fix dependency order",
+    "f1955a4a1b0f4c40f13a564ae6dfe342fea23bf1": "wv2: update 0.4.2 bottle.",
+    "8738c494690deef42b7a4ffb103af62a4107c26f": "wv2: update 0.4.2 bottle.",
+    "6b069540382add11ac8030880c0c21190e5c3a9f": "wv2: fix audit --warning",
+    "d4a981a6769c1c980871c810bb409e2d7e020f0e": "wv2: update 0.4.2 bottle.",
+    "6bdacb923849a832036accf13a61eb9b89c31bce": "wv2: add 0.4.2 bottle.",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "74c83fa9f6190095dfc9564aed0a2567e33692d4": "Batch convert http download urls from SourceForge to https",
+    "efad358d6d785f5a8f0a8ba9d035ca73e0b90a17": "wv2: add missing cmake dep",
+    "1e37a5140d6695c1d439890aa4308fce9e45e48b": "wv2: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "c7630f5ff487c73a4b4e4d0244ebb2ff55455b19": "Use new std_cmake_args method",
+    "0cfb74692f5910741c936c902e3b23f7e4f796cd": "Remove spurious libiconv dependencies",
+    "d4028c10e006b0efe25270776482086d90c677bb": "wv2: remove template test method",
+    "d87dda1dd1131a98ac3bd8261212f88631de1e05": "wv2 0.3.1"
+}

@@ -1,0 +1,13 @@
+{
+    "b8020a05e7915425d3e4ec57431988178e8f611c": "libxdg-basedir: remove references to pre-Mavericks.",
+    "8b7f2fa5e946c42cf1524d494805a38788cad348": "libxdg-basedir: update 1.2.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e60c6c30e7bdaa38a68900f680a01dfc40d856b5": "libxdg-basedir: update 1.2.0 bottle.",
+    "7e98e515bffcb29d66ef8c082444b4d9fc8bc57a": "libxdg-basedir: fix test on 10.13",
+    "e522a81ac86c4e1478a89ae80678f62b5cfe2144": "libxdg-basedir: update 1.2.0 bottle.",
+    "d9b743fc8dc2bdb6ad845942b4c29e0dfc23bee8": "libxdg-basedir: update 1.2.0 bottle.",
+    "e5a661b62a8fb77c6bbe8c96f952561a8d48bcd4": "Clean up existing descriptions",
+    "ecd07f27ed1b0ed04f1623450cd39a3d7c6d5f83": "libxdg-basedir: use ssl/tls url",
+    "e52d05f3097202db8c7be50e1d81b7eb1984ba66": "libxdg-basedir: add 1.2.0 bottle.",
+    "d59eb6cc9e822a450f225b81a980b769f16caccb": "libxdg-basedir 1.2.0 (new formula)"
+}

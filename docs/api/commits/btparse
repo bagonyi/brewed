@@ -1,0 +1,21 @@
+{
+    "fa6c249c1b75516fb44dad3fd1d88f3c2eda0111": "btparse: remove references to pre-Mavericks.",
+    "5a9d0db88e7789d672ccc4a37abfc002770ba6cd": "btparse: update 0.34 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "33fc218566c00ad2b26900a73643b8351fc6ea36": "btparse: update 0.34 bottle.",
+    "0b512cf7e6c910c4bd090e486b045a5d160502a8": "btparse: update 0.34 bottle.",
+    "e830d6711ead09343d578368f359d3a2068d91d5": "btparse: use secure urls",
+    "9ce5b7fe29b8d58c8f7765de0d3f80972437b905": "btparse: update 0.34 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4f78611229f2897bf234a4e2da3d24c38a7a9263": "btparse: add 0.34 bottle.",
+    "62cf87318c380b1f3cc7661d1236e0da4d123931": "btparse: test added",
+    "e1991c3df755df2594fb6415e4d95a666bdbef27": "btparse: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "d7affe0e64619757cf2a482b137688aec4db06e0": "New formula: btparse",
+    "7dafc00d32b3fb5954df2c84c14e4b19d65271a1": "New formula a52dec",
+    "e36852a7b4842791a9012b925d9e4d6d0a4115c2": "Fix mandir for jasper",
+    "778863b3bd0d06e8e369c61e964e72661d17c4fe": "Fixed typo in the Jasper formula",
+    "61b23071393b4c88de130d568a9003b1c6dbe645": "s/require 'brewkit'/require 'formula'/g",
+    "1247b70de2f1b7f909f84d7ba0d5b6915ebaa4ca": "Jasper formula"
+}

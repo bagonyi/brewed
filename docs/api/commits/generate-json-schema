@@ -1,0 +1,23 @@
+{
+    "e8748b9f9936ee67f4734f29a0bf3ac0ab66f9bf": "generate-json-schema: fix test flakiness",
+    "162e161092cef79b0bce7931be0a0c8c53dd5a0b": "generate-json-schema: update 2.6.0 bottle.",
+    "ab40be2d0439533e7fbbf5246865f6c77bf0c4a2": "generate-json-schema: update 2.6.0 bottle.",
+    "5dbe8812ee6f978e36632c004090d2b4cb8d5ffd": "generate-json-schema 2.6.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "eda09f14c6e3d16ea7ce39e87425464d3e0552cd": "generate-json-schema: update 2.5.1 bottle.",
+    "200bae545160296b2b7deb1ba29d92d9c3088036": "generate-json-schema: update 2.5.1 bottle.",
+    "a0181615efa73e4a2be9599cfae4a896aa6f22fa": "generate-json-schema 2.5.1",
+    "41fcd457d0bbd931922f84c15d9f26dfd1c22a27": "generate-json-schema: update 2.5.0 bottle.",
+    "47075bf0749507b71128991bb3fa617226691619": "generate-json-schema 2.5.0",
+    "69de35f739c24e2de8f03708481670d57c149948": "generate-json-schema: update 2.4.0 bottle.",
+    "1139c53a0235d0193d3f5a92008f5a6270e25030": "generate-json-schema 2.4.0",
+    "752d6ed2d7278d126437757935c253f934cf7553": "generate-json-schema: update 2.3.3 bottle.",
+    "f57036123bf5a1ef251c3733d45a7273d3d97849": "generate-json-schema 2.3.3",
+    "b0cb1e3808b57fa3de40923800d510760bb9ba1b": "generate-json-schema: update 2.3.1 bottle.",
+    "84b4f8e681dff3dd8bcfe98365b405971fe1af53": "generate-json-schema 2.3.1",
+    "50bd78c3be8dbfba1618f55fc71ed856cefac9a9": "generate-json-schema: update 2.1.1 bottle.",
+    "0a1c5b48f896542c16dc9c8ab5622effa6d2a113": "generate-json-schema: update 2.1.1 bottle.",
+    "cf1adc9c002c5a137c506c6806784a8d268bd76d": "generate-json-schema: use Language::Node",
+    "2ad0efa243e3239559c856bd7fca6226588dcf41": "generate-json-schema: add 2.1.1 bottle.",
+    "ba570825c151ca029ee87cdeb2006038a62a6ebc": "generate-json-schema 2.1.1 (new formula)"
+}

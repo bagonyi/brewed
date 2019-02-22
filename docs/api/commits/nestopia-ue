@@ -1,0 +1,11 @@
+{
+    "3bb18bdf0a52cd614102800e75d520c80dbded2a": "nestopia-ue: fix dependency order",
+    "79b5ae01ba32f47fab7521cdbdbe1aacb7c09dee": "nestopia-ue: update 1.49 bottle.",
+    "6c2e0492c90e2db93b26daa029956c1c4aff8a2c": "nestopia-ue: update 1.49 bottle.",
+    "81e0f4e0586b409fd406b919f975d04606846fbe": "nestopia-ue 1.49",
+    "bc51a93abc29a8b6890f62681bbfb31e4ecfde55": "nestopia-ue: update 1.48 bottle.",
+    "95fcd0eaac3730aa299a27a6f6154dde35579f0f": "nestopia-ue: update 1.48 bottle.",
+    "c3c94b0cf3e6e3c60c4cdd88e62adda228cbf8b4": "nestopia-ue 1.48",
+    "46d599b351da49b349ca484f8193656d06758a84": "nestopia-ue: update 1.47 bottle.",
+    "d4c8fa7e2dd07bb20a6a20a09e443748afddb974": "nestopia-ue: import from homebrew/games."
+}

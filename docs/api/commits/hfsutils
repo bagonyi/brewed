@@ -1,0 +1,15 @@
+{
+    "567ff307f476cda58095ccc868a1bcfc8ae68fdb": "hfsutils: remove references to pre-Mavericks.",
+    "1b85bb1338a8380b3f345cbf0e4d0e1ba34ad0e8": "hfsutils: add secure mirror(s)",
+    "0309ac0c84cbf457b61f9bd7bd5c8cb6281584da": "hfsutils: update 3.2.6 bottle.",
+    "0cd0392a3307830e5b82eb8c27c404be2ae1afc6": "hfsutils: update 3.2.6 bottle.",
+    "2af6d61ecb398879995eb35afd459fa961b8e18c": "hfsutils: update 3.2.6 bottle.",
+    "1583213cf2b97a47ceafe85c977a3cf46e39f8ec": "hfsutils: use secure homepage",
+    "1872185032623d0f81fe9620144d2ac4b4e00478": "hfsutils: update 3.2.6 bottle.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "95792393d4b2d72c8c179c1086d18aa45477a4df": "hfsutils: add 3.2.6 bottle.",
+    "a07422eac4ae2b8036be8e2007f3c17c37191f34": "hfsutils: fix audit, add test.",
+    "76ab29ee4a103620d65278e35afb8cfbb2557c10": "hfsutils: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "59699a021eb0d2d7a3d40c095562d8e385815a35": "hfsutils 3.2.6"
+}

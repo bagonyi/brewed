@@ -1,0 +1,15 @@
+{
+    "fa96a601ecc9b8ac18d1931e6d0926c9395e44c4": "blazeblogger: update 1.2.0 bottle.",
+    "f694d7711f4e7013ecb19006fd314ea239dc822b": "blazeblogger: use assert_predicate instead of File.exist?",
+    "52fad23f05b0287d25b0af2bb1404162c5afb8cd": "blazeblogger: update 1.2.0 bottle.",
+    "fecf6bebdf429cd4b914a3f98aa57136f4265fc1": "blazeblogger: update 1.2.0 bottle.",
+    "0bd04b79f6717a762620c3b73bc9ad63c9a15f5e": "blazeblogger: migrate to archive URL",
+    "30cfa7320de18b7d77414ef906287fde0c4a3a0e": "blazeblogger: update 1.2.0 bottle.",
+    "f0feaf62ea235c33748b94d5ccc05cb2f990c962": "audit fixes: B 02: bittwist - blockhash",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "4b13ebc6c0958347273ee47e0be9c741589259fd": "blazeblogger: add 1.2.0 bottle.",
+    "806e8fe63409f6af21a5d516ea4c08f25c0adf72": "blazeblogger: add test",
+    "9c098cb9b667d7f823b18bc91373e5bcb8eef164": "Batch convert http urls from Google Code to https",
+    "df01a44f0d6194bd5c494d17b67b26f24ba9acf8": "BlazeBlogger 1.2.0"
+}

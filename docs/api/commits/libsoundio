@@ -1,0 +1,13 @@
+{
+    "c1a06904950854a0bd9fb16779dc65d3c048f9cf": "libsoundio: fix dependency order",
+    "f185558a4484e1127207fa663fa2ae0cf3f0b369": "libsoundio: update 1.1.0 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "fa9ed1e7ab6f6be924392eade24dcb12f1145740": "libsoundio: update 1.1.0 bottle.",
+    "1254dfd3929369e25f81334ef4c9d907f5cdae58": "libsoundio: update 1.1.0 bottle.",
+    "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
+    "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",
+    "009ab6533751b35516b18f701ad928334f4f141c": "libsoundio: update 1.1.0 bottle.",
+    "203be3edce55ce635afe75fa52b58627766e832a": "libsoundio 1.1.0",
+    "55bb09c5dfdcf4f03a4378552f35628e5e862471": "libsoundio: add 1.0.3 bottle.",
+    "91ad746b40108edc83a3db525ece6cba90708f21": "libsoundio 1.0.3 (new formula)"
+}

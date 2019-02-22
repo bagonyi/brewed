@@ -1,0 +1,19 @@
+{
+    "7b4d014434b7b657e659b5ce67a648cad79a3890": "wemux: update 3.2.0 bottle.",
+    "d39177ad312f460096e92064bef101fa2622013e": "wemux: update 3.2.0 bottle.",
+    "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "f4595f14b607f0454dacdb5fbd6833b379e7c3eb": "wemux: update 3.2.0 bottle.",
+    "aa3254efa11563098f0e66bcc843beac82070b50": "wemux: update 3.2.0 bottle.",
+    "05ef218be970174b887c9140a9fd555228c0f889": "wemux: update 3.2.0 bottle.",
+    "f4bd9ce4b511d7fb87f464865077112b4ef1a77f": "mass SHA256 bottles rewrite",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "d16384a15993e84fd82db08cfe7fbf2c83ac6b87": "wemux: update 3.2.0 bottle.",
+    "8f90d447fa3f74109e21ac91a16e395c33a390f8": "wemux 3.2.0",
+    "1fa1c8c7936f579f0624a426b0e79b1219a0fb93": "wemux: add 3.1.0 bottle.",
+    "3b793e0230ceef68b94d5d102f864620828bc520": "wemux: fix test",
+    "0e15510feac8323d18ec1389dcd29066d7b97e43": "wemux: specify etc",
+    "a96504c1bcbb1a03fb5495612f2267d90360a915": "wemux 3.1.0"
+}

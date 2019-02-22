@@ -1,0 +1,13 @@
+{
+    "d80dd7edb05ca611c3973750fe62c7bec08a984c": "virtualpg: update 1.0.2 bottle.",
+    "e8f88f9293f387ec3e8e1f36d5fc16c73a0006ba": "virtualpg: update 1.0.2 bottle.",
+    "421c2150586c151845c6a97cbfe28b150b7a52cc": "virtualpg 1.0.2",
+    "69eb6c0bb8377d745f73939fc2d5e2296af0fe5e": "virtualpg: fix audit",
+    "23d6253a9e8d74b7f859546506080e8249c97b1f": "virtualpg: update 1.0.1 bottle.",
+    "ca19fd8b73657c591c19658d35439a22e691dbf3": "virtualpg: add 1.0.1 bottle.",
+    "7dfd1fe0b15a849437c85912cac37bb71aac1f2c": "virtualpg: use an https url",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "49a15b2d1ad13993889847f514725444bf99561b": "virtualpg 1.0.1",
+    "763585c3cd7d6797f213469319b57e536d54aebf": "VirtualPG 1.0.0"
+}

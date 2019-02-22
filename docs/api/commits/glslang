@@ -1,0 +1,17 @@
+{
+    "8ea439051d8bafe47fe6327bf862089544bb5547": "glslang: update 7.10.2984 bottle.",
+    "b8bc6c4fe76ab573e5a49cc8778e57783f7bb30c": "glslang 7.10.2984",
+    "9e1da7663f0c2d356cb1c511a6e9956207e89feb": "glslang: update 7.9.2888 bottle.",
+    "d4aef68580f08381ee5a718b9d4a357f1cbc73d6": "glslang 7.9.2888",
+    "95b3c066e0ce6d90864d13f16f2b21eaf659bc72": "glslang: update 6.2.2596 bottle.",
+    "fdb604cae3980f133ae83637fce85a0f5447ee8e": "glslang: update 6.2.2596 bottle.",
+    "4acaf98e42f70df9eecad0d7022fd9ebed3d4121": "glslang 6.2.2596",
+    "c32dc6d0906b0044137a7a5283e44a91b2e572fc": "glslang: update 3.0 bottle.",
+    "1b16809f578ec15636f6c180b4262846ce69751a": "glslang: backport patches for Xcode 9 (#20006)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c7a18154f3680a233c89010be93c2013e559f141": "glslang: add HEAD (#9874)",
+    "0a7c4cf07d456ab82561be6888d3d23d9abf83ff": "glslang: update 3.0 bottle.",
+    "b0156bb334780f01ddcff31c18682c120132f2b7": "glslang: audit fixes",
+    "8edd47fda6309208d4906d90467cf19d29ed9c08": "glslang: add 3.0 bottle.",
+    "8722e3126fb784d14a91eaa79b1161d6af984077": "glslang 3.0 (new formula)"
+}

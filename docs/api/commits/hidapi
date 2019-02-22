@@ -1,0 +1,20 @@
+{
+    "abbdb70ff4946282894307e8e7fc7be76459fe45": "hidapi: fix component order",
+    "eafd4fcf36a84cf35a7cb76d06e5c809496d0e22": "hidapi: update 0.8.0-rc1 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "d53625b2b3d69ccefc9638a7b7d90cc403de029b": "hidapi: update 0.8.0-rc1 bottle.",
+    "16214d7bacff9ab60ec1687271583aa62671f8e6": "hidapi: use full_index patch",
+    "e16fa1c078d3c0afbd2171b9ff052d87d5fa96b2": "hidapi: update 0.8.0-rc1 bottle.",
+    "951ed24de35febbcf23a32632a9fd8f68c83ee59": "hidapi: add head url (#5095)",
+    "1611b34d354709b02c142605588657c1010024fa": "Fix use-GitHub-pull-request-URLs errors (#4028)",
+    "997ee1a40c4ec65485ba53e7135fafb8cbbee5f6": "hidapi: update 0.8.0-rc1 bottle.",
+    "449c105e1a01b6e7ae9ca73a3b781f9263d3649f": "hidapi: install hidtest",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "f5f8e78c266079c4b9eca3e05b9d5cf968d7f34e": "hidapi: update 0.8.0-rc1 bottle.",
+    "c0afce8d9339b319f0daf40f0221dce8b4db776a": "hidapi: apply patch to fix IOHidManager.",
+    "bbc646dfeb56e1ef33b336a5142c2b369fde8317": "hidapi: add 0.8.0-rc1 bottle.",
+    "abe2e9b5b76f7c5190aafbdd9828b48ac9586981": "hidapi: don’t use pkg-config in test.",
+    "4df83192fe5b1f6047b79ee7c85fdb7ad446864b": "Don't assume cflags is non-nil",
+    "e424d7fe7244e7813ce5ef6fb0bea379ded13cf2": "hidapi 0.8-rc1"
+}

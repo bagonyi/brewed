@@ -1,0 +1,19 @@
+{
+    "765fb782e46f54c1d30a85848605129a3490fc7d": "hana: update 1.5.0 bottle.",
+    "fc826deeaa9dddb98016cff7737d10a5eb5e6206": "hana: update 1.5.0 bottle.",
+    "f1501c694aaa8c8eaa739d35020ebcdb2255e50c": "hana 1.5.0",
+    "1c145ec2f0196e2c8e6f6db2daf81683d3b3aaef": "hana: update 1.4.0 bottle.",
+    "91183b05355ab0d4f6621520764ae567a88ed114": "hana 1.4.0",
+    "99735083af4f47d735c15ed9b85177e631922ac3": "hana: update 1.3.0 bottle.",
+    "36f2c42fb817a400dc5246534d853e98f3147726": "hana 1.3.0",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "e12476175ac6e865b7274ef02e8e87745b34937b": "hana: update 1.2.0 bottle.",
+    "1e021a0e6c8b2e850070c383e08661d6d0aded5f": "hana: update 1.2.0 bottle.",
+    "cae9cff641f7f84a21ba351d728350c2a99db38a": "hana 1.2.0",
+    "848c173cdb3aecf188e06cce220e8ab9e7c05725": "hana: update 1.1.0 bottle.",
+    "b0c2b57d26e00e3dd7588ceb8a3964b0068256f2": "hana 1.1.0",
+    "f47c452aa987ac61c01727b8de4e9ab983056bb4": "hana: update 1.0.2 bottle.",
+    "a72c82415fe8dfab9c03a4c49bbc5bd18cb23327": "hana 1.0.2",
+    "bf3f3cfb66ff07b424caa6e17252c9dfea5d576c": "hana: add 1.0.1 bottle.",
+    "918a7fe69f1d97a444af2e8a28c24d4e8fea884a": "hana: migrate from devel-only"
+}

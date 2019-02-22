@@ -1,0 +1,5 @@
+{
+    "b52ef78f2237c546b381928326b712011ea21164": "Fix whitespace in top section of formulae (#29511)",
+    "4bffc82ada16951e3708a8acc3a6ba8fd1e3facf": "rake-completion: update URL",
+    "7916adfa2a8c29fb55b880f3f0c139f14a619e64": "rake-completion: import from homebrew/completions."
+}

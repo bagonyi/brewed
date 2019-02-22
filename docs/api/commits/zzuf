@@ -1,0 +1,22 @@
+{
+    "0073842b77a7b5342c26d271280e5041b7f0d5e5": "zzuf: update 0.15 bottle.",
+    "d83eb93087ac5a12f88f4091112305d3578a7e7f": "zzuf: update 0.15 bottle.",
+    "ff0869a7bbb798425ff52ab3f5883c294501c96c": "zzuf: update 0.15 bottle.",
+    "17273c1eef57c2eaf6bffb3a16a884b20d3156da": "zzuf: update 0.15 bottle.",
+    "5cc0d9e2ef500ef91672a116ab1554997c8ff493": "zzuf 0.15",
+    "fc96e3bb21985daccfce7f95108de7ee7722da48": "zzuf: add 0.14 bottle.",
+    "3363abde9046fde566d79edb8e7f74dc7b07b3f3": "zzuf 0.14",
+    "95884bae227933b2802ddc78bc57adcfe5672828": "Formula files style updates.",
+    "de6a2cc61314c563d1d5b2a113de4e2e87d2e6f6": "Remove indefinite article from description",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "9195632478e2637f0e41f30b5d91b961d565df76": "zzuf: modernize + test added",
+    "d5d0b6ec7f14ee8ea4bd177967dc7c28c4dc3940": "zzuf: use checksummed patches",
+    "0d79698d5060892f4d038db052221f51fb5d310e": "libzzip/zzuf conflict",
+    "280f77e8c75430352d6011a72c689110ee6db354": "zzuf: style nits",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "a10138f3914a27a8ed538c8a1e825430490daea1": "zzuf: add OS X-specific memory patch",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "c6f3f974deaf18335727f442154e48c3549c0cbd": "New formula zzuf",
+    "fdfcb22c32eca36d372b2bb68fe18f89a9670d7b": "Add btpd formula",
+    "a23149c060873b317c4c76e6a2870361724ce2d3": "Added forumla for lft (Layer Four Traceroute)"
+}

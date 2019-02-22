@@ -1,0 +1,11 @@
+{
+    "be5bd8b93a4fbb07b720694fc65d2fa2c3986d50": "glktermw: update 1.0.4 bottle.",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "c9f7b2dd30d5c158c472d93f5b8ff5e035a4d283": "glktermw: secure url(s)",
+    "a9c9c2ea77088dbf124ec1f612f1d101c02c6c32": "glktermw: update 1.0.4 bottle.",
+    "9d32294e46e69b39a8fd72e09cc9361d893e9420": "glktermw: keg_only style tweaks",
+    "129b62e183de133167c1d99781a5ce06c0a3cc08": "glktermw: update 1.0.4 bottle.",
+    "d681b3f3e3dbbb38899a4a8422277688cf3b0d9b": "glktermw: import from homebrew/games.",
+    "ef44a5c8f0f489c0620bffda4289cc861ac64e18": "glkterm: import from homebrew/games.",
+    "5464dbfc55b0b65712e825a8c01c1f16cd28a193": "cheapglk: import from homebrew/games."
+}

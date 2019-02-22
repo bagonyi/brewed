@@ -1,0 +1,23 @@
+{
+    "2bf9f3e169be4e9ab39da0941e0b78fdb54839c2": "wildfly-as 14.0.0.Final",
+    "a166e9056c24df960ed925d8cf655df243065f4f": "wildfly-as 13.0.0.Final (#29494)",
+    "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
+    "0aeb738f9f10ba3edd4edda9551fe11441bec458": "wildfly-as 12.0.0.Final (#26520)",
+    "10ff1d6b3d1caee99bcd275eaf237ce18bc6b72a": "wildfly-as 11.0.0.Final (#19871)",
+    "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
+    "9b2cc1fd68d5c790d64343c0842bfe2ab9940937": "wildfly-as: add launchd plist. (#6226)",
+    "97806e96ea20f26bf907ecf7821dc0d1b218ac68": "wildfly-as 10.1.0.Final (#5050)",
+    "749f0f690d49f145c6d2d2bb5a827f44247ced3e": "wildfly-as 10.0.0.Final",
+    "c52e8a4ef76876d808b2c2a7cb8bdec6faa39d98": "wildfly-as 9.0.2.Final",
+    "1ae1a79fccd515dc3fe7e7ad3722bcd30ea54961": "wildfly-as: bottle unneeded",
+    "a118fac33318a795fa3385260d53e1e2f745f6d6": "wildfly-as: use https url",
+    "437be87e0e83c9b4cfb8c8a1a8eea031dbdd3045": "wildfly-as: style nits",
+    "85374775345ac4f969e2bf6c3f5261032ab973dc": "wildfly-as 9.0.1.Final",
+    "758f6e95332ffdb89a2ecf802bbd2cf045816985": "Add descriptions to all remaining homebrew packages",
+    "fc40038047a23d6aa01715a8e6d161577c08c63a": "wildfly-as-8.2.0.Final",
+    "d1f0d4409783a05be3ed80c6dd1f11832c5ed9fb": "wildfly-as: remove stray devel block",
+    "2eb5e58b4975062b2de564ac7c2a82b94d1ffa7d": "wildfly-as 8.1.0",
+    "bc796d3c1e26eddbfbaf1ee8027dee3deb9b3aff": "wildfly devel 8.1.0.CR1",
+    "f7c8f449ac3195bbb672d3efa3f8dbbd12c987d4": "use opt shortcuts",
+    "345b4cbb4c7192289323c2ef6f5e83a60744da65": "WildFly 8.0.0.Final"
+}
