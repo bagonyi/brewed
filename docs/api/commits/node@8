@@ -1,4 +1,6 @@
 {
+    "0f8f43d4fea471b78d4f69d1e0ec848bf51bc3e7": "node@8: update 8.15.1 bottle.",
+    "710942ae07fba919880b7e231336e82e3845e055": "node@8 8.15.1",
     "c1f2283cee854ff982b934ff750aee877cc70bec": "node@8: remove checks for old compilers.",
     "6f40164aeddf4ba3e951503bc4bfb32752728884": "node@8: remove old code.",
     "4d3bea5dc8fdb65a40c682a296a2849fc1e1513f": "node@8: update 8.15.0 bottle.",

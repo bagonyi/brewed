@@ -1,4 +1,6 @@
 {
+    "430ef3dbd6d7f5db9438e6e9445ce0afde8652d8": "dwdiff: update 2.1.2 bottle.",
+    "5c7c161bf15d6fe8dc752d7bd89e5cce863d9843": "dwdiff 2.1.2",
     "eed8a0a6e4c71f14ff26e7755e006f38e9f62543": "dwdiff: update 2.1.1_5 bottle.",
     "d02215bc90632a43368430d2bca018ab40d369b9": "dwdiff: bump revision for icu4c",
     "19cd00eacf8d3a1d943177cdf3fe91be991e904b": "dwdiff: update 2.1.1_4 bottle.",

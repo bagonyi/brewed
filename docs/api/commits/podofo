@@ -1,4 +1,6 @@
 {
+    "796fc493ea7287ba7ba41e81bde41f4e0552cbcf": "podofo: update 0.9.6 bottle.",
+    "3a332aad1215bc56e1f78337c9c1a5d315d0b038": "podofo 0.9.6",
     "05ee125b8b0d86cf0f900266320dcbbc8d2392a3": "podofo: update 0.9.5_2 bottle.",
     "db3b97d2a6f165277f740fda0da33636a6445ddc": "podofo: remove options",
     "ca80f1457f020d52ffd31db94fea7ba10d9644cf": "podofo: fix dependency order",

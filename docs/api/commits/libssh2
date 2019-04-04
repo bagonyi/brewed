@@ -1,4 +1,8 @@
 {
+    "f321fe1bf3fa27eaffcf92f3b2afb69592bf08f3": "libssh2: update 1.8.2 bottle.",
+    "62266b961a7217168267ed3dd1a12346f09a7e4c": "libssh2 1.8.2",
+    "0c8147ec6bfde029ac35110c9951d751bbc9815f": "libssh2: update 1.8.1 bottle.",
+    "08248bedcc2121027246b8cd8715f028c3913699": "libssh2 1.8.1",
     "1b4e0d4dafc2b52f214191aaf6904d5dfb3c7e03": "libssh2: update 1.8.0 bottle.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
     "0fbf2b919f8b4a378dee2f6fb4be821290b2149d": "libssh2: make openssl required (#18779)",

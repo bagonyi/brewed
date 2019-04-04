@@ -1,4 +1,5 @@
 {
+    "c64047895332d9ad0533ec1423627eca5b6ab49c": "Update debian mirrors to fix audit",
     "b9977125708718b90d28183c87dcd50f775a42ed": "cd-discid: update 1.4_2 bottle.",
     "ea51962c20b9e4e36123daa5e300806ed4cca7c1": "cd-discid: update 1.4_2 bottle.",
     "1e62c645b2fc2d82042d9f7c364c6a246f2e11ed": "Replace references to “(Mac) OS X” with “macOS”.",

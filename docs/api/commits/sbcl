@@ -1,4 +1,6 @@
 {
+    "ba5bb98f7cd8e53e29b19cc281b4157948aac5ae": "sbcl: update 1.5.0 bottle.",
+    "5a68414fbc65e2a6f59d60831c65fca6020d5931": "sbcl 1.5.0",
     "27f626ad79c7b7f05643e9d90d3eb344ec3ae336": "sbcl: update 1.4.16 bottle.",
     "38227e5f45aa066ae88c7cc57afd137496e352d6": "sbcl 1.4.16",
     "5ea55925bc2ef89ae1b26845aa212e8decf012b9": "sbcl: update 1.4.14 bottle.",

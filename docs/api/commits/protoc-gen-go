@@ -1,4 +1,6 @@
 {
+    "6174382d4bdf64ea55937a8648fdde87779126d7": "protoc-gen-go: update 1.3.0 bottle.",
+    "3256fdcc6776e9c0c047d0992c2ae0137bb62737": "protoc-gen-go 1.3.0",
     "f4f709b0df5ad8654b7315482d3cb1150a202ae2": "protoc-gen-go: add 1.2.0 bottle.",
     "af76c9afda59e1337a9179a5f654b0eca44994d0": "protoc-gen-go 1.2.0 (new formula)"
 }

@@ -1,4 +1,5 @@
 {
+    "274c900e221990f595dab267a0e5cecc777c7c26": "docker-machine-driver-vultr: remove unused godep dependency",
     "028c71a5f56be4153fa25dca6f0f5d2f82fd0dce": "docker-machine-driver-vultr: remove options",
     "4992ccc50e48423322bde581abcb8b5af0880ad2": "docker-machine-driver-vultr: update 1.4.0 bottle.",
     "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",

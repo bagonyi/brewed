@@ -1,4 +1,10 @@
 {
+    "f25d7b9981c2cfdc46480181f374be6438a73fcf": "glib-networking: update 2.60.1 bottle.",
+    "72dec8f86031e15db38cd2e5bc2ba72ffd864e57": "glib-networking 2.60.1",
+    "0e11533b62f701a9df9cc0d26ddf7a465a33546f": "glib-networking: update 2.60.0.1 bottle.",
+    "7c53260f4df89a95a223bfd2df9ea8fb6970658f": "glib-networking 2.60.0.1",
+    "e3a286616269d9245991104af0cd07bd6c7d865f": "glib-networking: update 2.60.0 bottle.",
+    "537ccc45fcafb1a7d6e3046ae0b44ff1383e652b": "glib-networking 2.60.0",
     "91e0dff13b1b1781fba823821d50929c8205978c": "glib-networking: fix dependency order",
     "8d163f2bb36fdd06dca2250940cc3974635f82fb": "glib-networking: update 2.58.0 bottle.",
     "73766f7f1fa356707fada623256044539ec4a02f": "glib-networking 2.58.0",

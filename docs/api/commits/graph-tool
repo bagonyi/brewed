@@ -1,4 +1,6 @@
 {
+    "61bf6a52806c82adbdeca40501855d1236641290": "graph-tool: update 2.27_6 bottle.",
+    "f99ebb88fdda90ab8713094186cfaa387b3cd687": "graph-tool: revision for boost",
     "628d92c1b42790c8479e44fb419a9bd10aca2f3e": "graph-tool: update 2.27_5 bottle.",
     "5bdfdc9a490a698383fca02af4b921690df9086f": "graph-tool: revision bump",
     "412f56d6961520732bcffe2ca5e830fe6bcd3123": "graph-tool: update 2.27_4 bottle.",

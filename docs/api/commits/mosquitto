@@ -1,4 +1,6 @@
 {
+    "0d4d256e0e26725cef764c8040329d9ee9057353": "mosquitto: update 1.5.8 bottle.",
+    "0f2970ff662a48fc34b3afd1309a820cfbb87773": "mosquitto 1.5.8",
     "e539e97d486af1f89e5786d2ea0acabbce0bd91b": "mosquitto: update 1.5.6 bottle.",
     "02ce70c02049cf12cfd1f77ff9a70424500ab50d": "mosquitto 1.5.6",
     "22369f1ca03a8a4a109f17d943dc64ef9305bbcd": "mosquitto: update 1.5.5 bottle.",

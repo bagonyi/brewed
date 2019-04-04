@@ -1,4 +1,5 @@
 {
+    "23ded75f58831f87575370532dddeb31a369f3f0": "brew-php-switcher 2.1.1",
     "3daa9e4f97bdc31a04e08ac4592b4414e83e3b5d": "brew-php-switcher 2.1",
     "ed16afddf365c60473a8800fb2d9c41f2c1ea4dd": "brew-php-switcher: add head url",
     "df6ebc5c895ec23a35898439c72ca71fb0e60a65": "brew-php-switcher: simplify test.",

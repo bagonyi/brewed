@@ -1,4 +1,5 @@
 {
+    "a3a6f5ae000b9616cf5570e8f05a5a5ef20a4d23": "phpcs 3.4.1 (#38046)",
     "9d03417efa94bb72b4f488c6867da11dd6a03b45": "phpcs 3.4.0 (#35299)",
     "b5da0a4cd7b41f49a6f13d8fe5a2fc3dedef8f53": "phpcs 3.3.2",
     "db1e06b387af82fa343e8696044b533707dfbc20": "php-code-sniffer 3.3.1 (#30521)",

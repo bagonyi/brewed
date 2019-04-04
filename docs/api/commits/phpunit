@@ -1,4 +1,6 @@
 {
+    "2bf25927352b4e590be4f96761bc627021cc016b": "phpunit 8.0.6",
+    "7b0008e87ef5614ba2c3bb39a00391a819e28fea": "phpunit 8.0.5",
     "782131f79f3eb840ca6d162d2ffe09bbb56c48ea": "phpunit 8.0.4 (#37073)",
     "edabb7414c20ba9ff077b267e39e19d21c64eacc": "phpunit 8.0.3",
     "e216bc6d40f2e00c990d5eb58b8be6661947e133": "phpunit 8.0.2",

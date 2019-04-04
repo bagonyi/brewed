@@ -1,4 +1,6 @@
 {
+    "47dcb68c0f86501b90a019f86550e1422558316c": "librasterlite: update 1.1g_5 bottle.",
+    "882a378dbb00832c949d7be5899ffc7cbbdeb5ca": "librasterlite: revision for proj",
     "daa9b6e8dd2ac7f4f5478570b29ab59c86a969f4": "librasterlite: fix dependency order",
     "d7fd98f53675e6f8319d9a0997bca9d79453c5b5": "librasterlite: update 1.1g_4 bottle.",
     "ba2f2ede33c732b0636057023d0a2269143f0848": "librasterlite: update 1.1g_4 bottle.",

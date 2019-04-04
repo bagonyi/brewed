@@ -1,4 +1,6 @@
 {
+    "d66155d9e7600d850e770325c4f52dbb80700690": "boost-mpi: update 1.69.0 bottle.",
+    "38fe4df18a5d9a3116ab6f2f40b560677490153d": "boost-mpi 1.69.0",
     "924998cbe62744e592b37ecc8ebdc33525f3c7d1": "boost-mpi: remove checks for old compilers.",
     "1316964bb1773921f19f1edc4d8d90e8d88176ac": "boost-mpi: update 1.68.0 bottle.",
     "b0ab651f6d9396dd0ad6815e6d0e536d90c1e65d": "boost-mpi 1.68.0",

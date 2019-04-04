@@ -1,4 +1,6 @@
 {
+    "477e24ad73d55d75f12ef13d01db53d56355a82d": "ktmpl: update 0.9.0 bottle.",
+    "212ee88179a11b85ddfe54abf227f7939c4f4924": "ktmpl 0.9.0",
     "23e8508d9b1211caf25bcbd29f62904d73a1cb45": "ktmpl: avoid cargo deprecated syntax warning",
     "0c34c5c197554d6dc7b2f58badc79c6813faa825": "ktmpl: update 0.7.0 bottle.",
     "60f5e2feaf56a4239587af65c890f675775f1663": "ktmpl: use `cargo install --prefix`",

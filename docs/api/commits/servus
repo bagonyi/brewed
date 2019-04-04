@@ -1,4 +1,6 @@
 {
+    "4c027472a29e7a5d6adb36817286fcaea1ee8bf6": "servus: update 1.5.2 bottle.",
+    "78b2b04682bd8920e1a55a0c53de2ee6b4f7df53": "servus 1.5.2",
     "f977169ff885a52de6cf73ea90bdd225b162a872": "servus: fix test",
     "3ee407a5cfc5baca56b7691d22cfd8b387e35e37": "servus: fix RuboCop Layout/AlignHash.",
     "621dfef83af2c70bcdfd64f5924ca12212eb8b4d": "servus: update 1.5.1 bottle.",

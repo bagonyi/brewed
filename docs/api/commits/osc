@@ -1,4 +1,6 @@
 {
+    "75b8906821abf1b4076cd806281a67233a64c148": "osc: update 0.164.2 bottle.",
+    "5773e6a78f0182a14f63fc794d2314edac357510": "osc 0.164.2",
     "dccf9aa7fb9da3c7554838b22e378eb0a5124750": "osc: update 0.163.0 bottle.",
     "efd678e6e2f4e6d62109f70f2e4aad165bdf1881": "osc: fix build on Mojave",
     "8051190ff5c801aef0d799b95a269d9b04b553fb": "osc: fix dependency order",

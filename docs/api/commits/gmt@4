@@ -1,4 +1,10 @@
 {
+    "d98bbfba736a562792ae6971a133c128d85d917d": "gmt@4: update 4.5.18_5 bottle.",
+    "a5905729a7234e7168263525831a7045ca3071cb": "gmt@4: revision for netcdf",
+    "dac0066fce49e9ad3eb741e73841fa6dc4dbe64c": "gmt@4: update 4.5.18_4 bottle.",
+    "cfe5de6c8558a9867e92682b9e532b0791e50c31": "gmt@4: revision for proj",
+    "b6745916aa0c905c56a11d6c78b5531966ab35fe": "gmt@4: update 4.5.18_3 bottle.",
+    "435bc492306ea2797f472ff7fa05a2a5604fe81a": "gmt@4: revision bump for hdf5",
     "3d891b614c327a6baee3fc06e2bf236c5856f8e5": "gmt@4: update 4.5.18_2 bottle.",
     "7406ee414317b8722aab5cbd6fc53e29911ab553": "gmt@4: revision for hdf5",
     "5da0252b1d6e49aaeb40091cfe258a1373e9ed31": "gmt@4: update 4.5.18_1 bottle.",

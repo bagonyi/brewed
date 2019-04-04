@@ -1,4 +1,8 @@
 {
+    "fe46f4666a446efc6f81c20de52d3cd41f9ad5d6": "gmsh: update 4.2.2 bottle.",
+    "3ea16efae421158e9aafb5213df95f64fee4edb0": "gmsh 4.2.2",
+    "632040c71eb606a6cd0cc0f8c722f86086994e58": "gmsh: update 4.2.1 bottle.",
+    "f264434d1f388676b23ff5793e447df03e163d07": "gmsh 4.2.1",
     "90a7d09cc2a4e7e43c3d07b26dcbb332f3927d79": "gmsh: update 4.1.5 bottle.",
     "daa53e3dad5cc1b99e40667018c9440b8c691b28": "gmsh 4.1.5",
     "5621f1ce9171df16ef14daa0522a46ef4e390838": "gmsh: update 4.1.4 bottle.",

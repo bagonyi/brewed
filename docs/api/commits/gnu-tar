@@ -1,4 +1,6 @@
 {
+    "499c6f071bebcf0c46a3d3be95a329a3f05a0220": "gnu-tar: update 1.32 bottle.",
+    "a3a1399c3e4e6292c18fe855b7d9498f5ea453f8": "gnu-tar 1.32",
     "e0cbba3909f9fdba97bfb3212927bd542cbd06c6": "gnu-tar: update 1.31 bottle.",
     "2538faef9ddc8cf3bbe1dd9e7f6e04d2f22a4039": "gnu-tar: create symbolic link `man` to `gnuman`",
     "48d5e398be517c10d40085aa0fc31a738267d017": "gnu-tar: update 1.31 bottle.",

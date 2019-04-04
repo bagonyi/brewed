@@ -1,4 +1,6 @@
 {
+    "51b2cc5d844af4e878ffd60bbbf1f9fd37fe6fb7": "ghc: update 8.6.4 bottle.",
+    "abe1c5357a7da1f1ee9a3c86fd151ed5b21efb9c": "ghc 8.6.4",
     "74b2f3dc87c6c29236c29dbefd79e353e7bb743d": "ghc: update 8.6.3 bottle.",
     "0640346404003e566585d1710404fa355ddfa288": "ghc 8.6.3",
     "aafb295c907b99225d98fe22edbcead9db9f22a7": "ghc: update 8.4.4 bottle.",

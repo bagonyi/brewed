@@ -1,4 +1,6 @@
 {
+    "e476b09c9bc4703197dcdc45993eca1aea3073f1": "spirv-cross: update 2019-03-22 bottle.",
+    "bebd0b519e0f366720d44b9b94f312e54866639c": "spirv-cross 2019-03-22",
     "02c2af290160a27f042427634701d8618296dc90": "spirv-cross: add 2019-01-31 bottle.",
     "470b98a6272cfe4918e0ac6bd6c6982ac96a1b9d": "spirv-cross 2019-01-31 (new formula)"
 }

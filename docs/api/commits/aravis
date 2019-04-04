@@ -1,4 +1,8 @@
 {
+    "2fa628b691b32880ab86d055d57c12dbf6117ebf": "aravis: update 0.6.1 bottle.",
+    "7226be26d5ee2866e10d20365bd542f13f81c89a": "aravis: add gobject-introspection",
+    "42d1d55e971011d9010ed8c029ed15c589b9e9bf": "aravis: update 0.6.1 bottle.",
+    "3c75de29e09609a72d982cb5a90920d5478bccc0": "aravis 0.6.1",
     "6f3bdace6095018a5b17ad2154691423386fbef1": "aravis: add 0.6.0 bottle.",
     "3f4ef26eef77e8e54523a08e0375bc0243595978": "aravis 0.6.0 (new formula)"
 }

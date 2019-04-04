@@ -1,4 +1,5 @@
 {
+    "3eed9a90833d8c8f73d286bce821887f03e266c5": "fastqc 0.11.8",
     "ad4f9ce11390020219eeb70f1ec8d4ec2ce200c7": "fastqc 0.11.7 (#30175)",
     "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
     "92715a21b09ba9ebe399fb55a7f076d0ff89d0a0": "fastqc: import from homebrew/science (#21735)"

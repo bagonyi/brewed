@@ -1,4 +1,6 @@
 {
+    "e91396ddaa73a61c6959886d25aadc1908b69393": "sdl2: update 2.0.9_1 bottle.",
+    "4fbb6a7e63d9256d2d83b324ffda8287730bbe0e": "sdl2: patch for coreaudio framerate bug",
     "26de3f87004c3097ffc786f6d3c3159adce5c708": "sdl2: remove references to pre-Mavericks.",
     "6669d326b74279ed6bf7f0795e9446b9f1968e61": "sdl2: remove checks for old compilers.",
     "6486d2d092f79913480f5fe64504dcaa571d21f2": "sdl2: update 2.0.9 bottle.",

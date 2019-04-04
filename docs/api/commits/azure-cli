@@ -1,4 +1,10 @@
 {
+    "008151fa9c5e064ab066e2386d5f53eaf846d41e": "azure-cli: update 2.0.61 bottle.",
+    "c0cdce302a7fd649d95e03fda59ab338fce3704f": "azure-cli 2.0.61",
+    "678c80fa7daa7d0ed90b989c4144572212f4a9a5": "azure-cli: update 2.0.60 bottle.",
+    "5421f801ad3174e611ac56211046ec92773d5dc9": "azure-cli 2.0.60",
+    "7f12532fb0136aba015f65a44008cdee6dcad217": "azure-cli: update 2.0.59 bottle.",
+    "c0eec0e776b4adab0defa787678f787e57d52606": "azure-cli 2.0.59",
     "ad0a16d846cb3128352b512ccb345cd94926de07": "azure-cli: update 2.0.58 bottle.",
     "0375f9f63aad4af48cc5c961b04f312e40082461": "azure-cli 2.0.58",
     "4f4c72b7d4655e9d7691b320bb1cd172f860a946": "azure-cli: update 2.0.57 bottle.",

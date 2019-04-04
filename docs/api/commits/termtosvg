@@ -1,4 +1,6 @@
 {
+    "fb9ee05a74c8c713d5b6b07908d825d996dba7e1": "termtosvg: update 0.8.0 bottle.",
+    "66a0785cdd02cf1cc116ba40c34e071e2b5ca17a": "termtosvg 0.8.0",
     "2b57ca77a58ed85664788ec71d966f39243b3849": "termtosvg: add 0.7.0 bottle.",
     "66e6b72997dbf07b2d8e58ade2d8c531f7d758e2": "termtosvg 0.7.0 (new formula)"
 }

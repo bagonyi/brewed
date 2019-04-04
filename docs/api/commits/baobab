@@ -1,4 +1,6 @@
 {
+    "f02499953300739e6d73af77ac587b00ac5965b2": "baobab: update 3.32.0 bottle.",
+    "cafa8cdcc20780880d75cf5b22cdef3d711f1190": "baobab 3.32.0",
     "1bf96bf2ec34917fb7fea3ec879cb3b6a0499de9": "baobab: update 3.30.0 bottle.",
     "047aa6a8405cb3a7291c25c6492e794bb47de6ed": "baobab: move to Python 3",
     "33537756f6e7bf2062bb1dded551433fec9ec54e": "baobab: fix dependency order",

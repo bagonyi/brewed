@@ -1,4 +1,6 @@
 {
+    "d970c2945dd3eeb7509a30f83237e14da7a9a141": "fstrm: update 0.5.0 bottle.",
+    "bc87512cf66c239f8135cc74c31a8a10e9e57c9e": "fstrm 0.5.0",
     "dc00f1c6b00416e9035080b7fd1de23ffcda03ef": "fstrm: fix dependency order",
     "bdc8bd382cbad10059a074d5a80ff9102508c026": "fstrm: update 0.4.0 bottle.",
     "795acc0ff9d6181204236b034b9df52e49947e40": "fstrm: update 0.4.0 bottle.",

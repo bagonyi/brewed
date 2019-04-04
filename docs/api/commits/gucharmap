@@ -1,4 +1,8 @@
 {
+    "a6fc7849abf7d93ec823c55ba37052c0ba22e799": "gucharmap: update 12.0.1 bottle.",
+    "ff9e53be3eee32ed8124e733531bd81c17475304": "gucharmap 12.0.1",
+    "b8c8c8a83e9a24b73cf618370e02534f803c431a": "gucharmap: update 12.0.0 bottle.",
+    "ee2319259803c9ebefee9c43be170babbd4c282c": "gucharmap 12.0.0",
     "d103dcc9c93be6bba45d0061aa8754661c12d4cb": "gucharmap: update 11.0.3 bottle.",
     "97e96bdaa4556814309e465a60ec2ce546c9fefe": "gucharmap: move to Python 3",
     "54602c6e666acc201e1fe52b95f9feb3f8793e0f": "gucharmap: update 11.0.3 bottle.",

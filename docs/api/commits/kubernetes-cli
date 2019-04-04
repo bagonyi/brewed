@@ -1,4 +1,8 @@
 {
+    "575695b8ad87d32f445956d532103a9e4c6067bd": "kubernetes-cli: update 1.14.0 bottle.",
+    "a48ffe7ddd9fae9c40934a2c57e12c47ba7d5697": "kubernetes-cli 1.14.0",
+    "1827ebb2fe905c931deb283f7245eaf465c7cbbf": "kubernetes-cli: update 1.13.4 bottle.",
+    "75af35f7bf344b6ac8436e3a60932504543d7012": "kubernetes-cli 1.13.4",
     "282bfed707648123a4ff8ec7ee333aacee5cbf25": "kubernetes-cli: update 1.13.3 bottle.",
     "8834a5776b3c4b14c5e989b469fa7ea6727bda3c": "kubernetes-cli 1.13.3",
     "3b8f056c5459668b6bca7d26182f4f15526d3fff": "kubernetes-cli: update 1.13.2 bottle.",

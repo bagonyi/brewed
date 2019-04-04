@@ -1,4 +1,8 @@
 {
+    "1237d0c6b31a722ed8fcf9847a8faf58d9f3182f": "gnupg: update 2.2.15 bottle.",
+    "12ad463acf6141146e7ac89e97c34e88a09e209a": "gnupg 2.2.15",
+    "f3a3f034498388768d9825b9b46cb174933fa91e": "gnupg: update 2.2.14 bottle.",
+    "690f150a12544dbe375a68c1efedff54d832fb44": "gnupg 2.2.14",
     "5955f02e3a3f84221da2815a0bb10fe4c5aa240c": "gnupg: update 2.2.13 bottle.",
     "362866160567ebecc884e037bca31f9ac1d7cf4c": "gnupg 2.2.13",
     "d859b3d272b15aa76c282051afd2b787eb6b2a8a": "gnupg: remove unnecessary caveats.",

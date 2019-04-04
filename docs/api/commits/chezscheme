@@ -1,4 +1,6 @@
 {
+    "796f8626717b73bcffa3dc720df02e2008390b42": "chezscheme: update 9.5.2 bottle.",
+    "b4f77c1183200c854d53738af883459ef5f7e4e5": "chezscheme 9.5.2",
     "5e1a03c66e002be70c289804d5c6694307c6651b": "Merge pull request #36364 from MikeMcQuaid/xcode-installed-check",
     "db7dc78f2361cc020b4e82f79eb8bd2634633dc9": "chezscheme: update 9.5 bottle.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

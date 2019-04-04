@@ -1,4 +1,6 @@
 {
+    "0eb3cd318fe04f8c2460116d79e2ec0a3fa18036": "ncmpcpp: update 0.8.2_4 bottle.",
+    "d5d7722bfa977d340686e47632efcee37c69d351": "ncmpcpp: revision for boost",
     "d6e091a4f54a256d2c951e9e96ab21e20066a4b3": "ncmpcpp: remove checks for old compilers.",
     "9fa4a8cec740e8e87cb6b07fd0a4b53be81607dd": "ncmpcpp: update 0.8.2_3 bottle.",
     "1df0fdec3f8bc470575fef8675944d64b11a7ba0": "ncmpcpp: revision for readline",

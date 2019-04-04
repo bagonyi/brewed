@@ -1,4 +1,6 @@
 {
+    "bff221ebb99639c31e86bf9bf55a410cc3f94caa": "libtorrent-rasterbar: update 1.1.11_1 bottle.",
+    "ed8f7ee8d9405eb0a38cc701c7933ef615361bbb": "libtorrent-rasterbar: revision for boost",
     "7cbfe3fa839f775572244cd96250db82095e5d8f": "libtorrent-rasterbar: update 1.1.11 bottle.",
     "b5c6ce27ddceba88ee4418ff36b045c3c945380f": "libtorrent-rasterbar 1.1.11",
     "347c90ef2997478e6d10ae5bdf036bceaee06ec8": "libtorrent-rasterbar: update 1.1.10_1 bottle.",

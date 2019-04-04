@@ -1,4 +1,6 @@
 {
+    "1fae7b7c5ac395ad6f6fbbfc9a4d3a11442ece3f": "bdw-gc: update 8.0.2 bottle.",
+    "e68571dbc27b1d032c805e489c67ce61b613f473": "bdw-gc: build static library",
     "08572a091f4a430824366dc304fc6b84bf6a6a49": "bdw-gc: update 8.0.2 bottle.",
     "6152511fa6834d9334d5154232bd0031fca22fed": "bdw-gc 8.0.2",
     "cf49f519cd4ed924287820f441cab623c5e9cff4": "bdw-gc: update 8.0.0 bottle.",

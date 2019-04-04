@@ -1,4 +1,6 @@
 {
+    "b8ee2d57c68867f06e45772b02c3f3433f113af3": "wsk: update 0.10.0-incubating bottle.",
+    "93b90648caf168b9d6c02b9afbf5f6e5178a4d26": "wsk 0.10.0-incubating",
     "e2771dbf5b0c80b6ac9b1ab46391a9c9fdfe9995": "wsk: secure url",
     "2d92aaa14293376d4903724efc7efdc20ec56c8b": "wsk: add 0.9.0-incubating bottle.",
     "2e08c66a9eb65da118297f0854539502ef574f20": "wsk 0.9.0-incubating (new formula)"

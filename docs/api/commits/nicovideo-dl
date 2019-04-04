@@ -1,4 +1,6 @@
 {
+    "b085da6a671ce794aa9b53287743e8ea4fbf41cd": "nicovideo-dl: add 0.0.20190126 bottle.",
+    "5dfe0a7180db87bd8bdb557a9810f0e8f38f3856": "nicovideo-dl 0.0.20190126",
     "116eefab8581aaffe8d29a25e13175eaf6589381": "nicovideo-dl: secure url(s)",
     "12357be177d14b075b543820c9afa299c37cd6be": "nicovideo-dl: secure url(s)",
     "142611ebee2ebdf9ca56ab1f05cfecec67f7c0be": "nicovideo-dl: bottle unneeded",

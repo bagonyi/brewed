@@ -1,4 +1,8 @@
 {
+    "eabedec1283aac5f827a60b4d4641ec2693e1c3e": "auditbeat: update 6.7.0 bottle.",
+    "1a5ced7dfbd4bbbcf5934c38d8aa12eb903ff130": "auditbeat 6.7.0",
+    "2cc1ea9b3477bcc9cad22503fa668a0581b6ccf8": "auditbeat: update 6.6.1 bottle.",
+    "1fa4e3ba0de63108c8a052c6a0ab1747ac72de19": "auditbeat 6.6.1",
     "f71294b4cad2ad47221ed3800f6b10f9242faaf8": "auditbeat: update 6.6.0 bottle.",
     "4b286f2c92aebfc619cdd20b8e09fbb9951b1951": "auditbeat 6.6.0",
     "23eaa6ad29f5ad8403fb9aaad9278a8d05d962f0": "auditbeat: fix component order",

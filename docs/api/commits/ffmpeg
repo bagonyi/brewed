@@ -1,4 +1,6 @@
 {
+    "59f8c6ca4c9485fa7e97e9f8cd30ce42f8466395": "ffmpeg: update 4.1.2 bottle.",
+    "61db6d5b790b19bb2859f60442c1f32533c6c377": "ffmpeg 4.1.2",
     "b99c1053f197ee0662e1b34664077784dd2d5432": "ffmpeg: update 4.1.1 bottle.",
     "e0517e464777c81566008de824da7a1b38b2350d": "ffmpeg 4.1.1",
     "1087d671f307e1f0ebd7f22e7d7fa6e0029f7251": "ffmpeg: update 4.1_6 bottle.",

@@ -1,4 +1,6 @@
 {
+    "df3d59c4f0a1ca1a5702bf66e440be49772bca97": "slackcat: update 1.6 bottle.",
+    "4ecd73092beaccd370be82c1b9fc05698e95f028": "slackcat 1.6",
     "36df20d6a38f171a098bee294bd911aa19f88550": "slackcat: update 1.4 bottle.",
     "966abf9d482b34f33be8c250352c9a26a72c7be9": "slackcat: pass -vendor-only to `dep ensure`",
     "332624faf5e082ed384b5b22fbed0acea923dda6": "slackcat: update 1.4 bottle.",

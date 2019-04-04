@@ -1,4 +1,6 @@
 {
+    "87ce30862517ebfe467c6c1422fd835004a830c9": "gobject-introspection: update 1.60.0 bottle.",
+    "efcb302067198958392dc8d06ef857d6eef1489e": "gobject-introspection 1.60.0",
     "b9833f8787eaf0708007433f6b8ab6ebbea96359": "gobject-introspection: update 1.58.3 bottle.",
     "3a203906b56ea8f792adbd2d13e305160ce4e4c6": "gobject-introspection 1.58.3",
     "13173ae51ccdebfaba15a83185d3a29b40ec2d6d": "gobject-introspection: update 1.58.2_1 bottle.",

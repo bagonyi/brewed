@@ -1,4 +1,6 @@
 {
+    "02fd808f4543485b53e0914f977383f15712f939": "doctl: update 1.14.0 bottle.",
+    "06214d56fe87bbd96595c83e9d630f3c54328f46": "doctl 1.14.0",
     "a5085e8a6ddfd2a4ad542f5d9f1abd76034a8f48": "doctl: update 1.13.0 bottle.",
     "8dcae5bb8ffe9c350d990f8be185ea294e8139ef": "doctl 1.13.0",
     "06005eff28737a03607b7b551e40b58562c40f25": "doctl: update 1.12.2 bottle.",

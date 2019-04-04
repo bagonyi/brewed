@@ -1,4 +1,6 @@
 {
+    "984d8b75f236a15b365b460798557d49df199785": "dynamips: update 0.2.20 bottle.",
+    "4b34671be6d7dd260877ea929b46c7f6cd5dfcf9": "dynamips 0.2.20",
     "daac98d770a89afa5e2bb46eb30fd1bc162a36f0": "dynamips: only support 64-bit",
     "7d87fc3970b274723257cc66e9356c459a18e3b0": "dynamips: fix dependency order",
     "351781614b0fde8eeca464443d4ae46e5b34a02a": "dynamips: update 0.2.18 bottle.",

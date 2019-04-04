@@ -1,4 +1,6 @@
 {
+    "bf629f7b43734e92acb9bc8f8bf2ba8121e5994c": "arm-linux-gnueabihf-binutils: update 2.32 bottle.",
+    "153e040c1c5fe460278e305897ed1f0ca904de6f": "arm-linux-gnueabihf-binutils 2.32",
     "f2efa3e47b23656a684487f76a4180c93e6a4fcd": "arm-linux-gnueabihf-binutils: update 2.31.1 bottle.",
     "4a1e6d1c154015ac5aa9f3c46e50e48a6ae98576": "arm-linux-gnueabihf-binutils: update 2.31.1 bottle.",
     "a08babc578370f68cf4afcb3d53e62a5b43525ee": "arm-linux-gnueabihf-binutils 2.31.1",

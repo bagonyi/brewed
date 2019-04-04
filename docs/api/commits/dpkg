@@ -1,4 +1,8 @@
 {
+    "7e98559001b4a0713b5e53d51093330bd6c1217e": "dpkg: update 1.19.6 bottle.",
+    "20ce82baddae0997a6039e19a1ea00f513b418d7": "dpkg 1.19.6",
+    "0047bd312d9c2a05b0c05af54a19f368404a9b5f": "dpkg: update 1.19.5 bottle.",
+    "e6a956faa0b5053923bc34fb174bdc139a4983e1": "dpkg 1.19.5",
     "756df3f8edd0e2a5c06567af141e3958326795d8": "dpkg: update 1.19.2 bottle.",
     "32c769befd7bca20ebc9eeecb1e3d0bf4224325e": "dpkg 1.19.2",
     "f190f94134b82ffe3b080c39716e63426ff04cae": "dpkg: secure url(s)",

@@ -1,4 +1,6 @@
 {
+    "e95df5500174ed36714ff1218923f38c8ceb5722": "libbitcoin: update 3.5.0_3 bottle.",
+    "effb1278ac373054246788deef9d24b8020fa9d7": "libbitcoin: revision for boost",
     "caa129be07d60f55f93a0ffe08e63bb5c12576b2": "libbitcoin: update 3.5.0_2 bottle.",
     "a372b7b9199563d27e820615ed3ad4f57317e59f": "libbitcoin: url at renamed github repository",
     "5a64f12b35b9d955897c91cf8dfb20d4eaed60f8": "libbitcoin: update 3.5.0_2 bottle.",

@@ -1,4 +1,8 @@
 {
+    "ff33a7c457592eafb3dd65fbe8ad69d8f2514b32": "gpgme: update 1.13.0 bottle.",
+    "4a31a396cb68ffc4c40fab37b6c816f43309acd4": "gpgme 1.13.0",
+    "0f6461e888a6b0010bde04702498868aa8b6e3eb": "gpgme: update 1.12.0 bottle.",
+    "07360530118e6a4abe1193ab84a713892e014345": "gpgme: package python3 bindings",
     "68ac654f910df396dddca7efc20c0688cc4b8f57": "gpgme: update 1.12.0 bottle.",
     "ed4b005f4bdb4451edc96110c4c96d172e43c852": "gpgme 1.12.0",
     "990e8ee4df0c8375e747f176e5e4d64b675eaa82": "gpgme: fix dependency order",

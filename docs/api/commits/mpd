@@ -1,4 +1,6 @@
 {
+    "d744954f44862fb899715a6efc060103d57bb2b6": "mpd: update 0.21.5 bottle.",
+    "0a857fdabf6627d9f071764cd3b6365593baa671": "mpd 0.21.5",
     "92257148f913e677a47dcda6afe4bb7ca63e814b": "mpd: update 0.21.4 bottle.",
     "d8c25fdf61137c283fe9732530d1d2828fc35bd3": "mpd 0.21.4",
     "c3cbc3cc8beace4949b78fc4caa9819412879b57": "mpd: remove checks for old compilers.",

@@ -1,4 +1,9 @@
 {
+    "1d13dc92251ce74984a939158de890e4ebdfc425": "yara: update 3.9.0 bottle.",
+    "5f2f081c4e9014803d547bae99b6e679e50d916e": "Properly enable crypto support in yara formula",
+    "e46cba59b5c0125c5f86a9d9d6b275a9565c203a": "yara: update 3.9.0 bottle.",
+    "60065c479dea3467b38c8d285439d49e8e7ec065": "yara 3.9.0",
+    "d7eecede5d7491b0afa56ec26165be7d09e49cab": "yara 3.9.0",
     "3b19471cc6e38316c43ba73755055a7b47fb43c8": "yara: update 3.8.1_2 bottle.",
     "7dcd716a3cc55de46f47971aa78b09995b2f0e7b": "yara: add more modules",
     "ff5b58a67281e8a6afbfd242aec53d7f530f6717": "yara: update 3.8.1_1 bottle.",

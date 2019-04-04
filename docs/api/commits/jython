@@ -1,4 +1,5 @@
 {
+    "79e8cf37b25f2685967d7f88279e8bd3cb5d7b21": "jython: secure url(s)",
     "fe548a3ebf5e81bed7713d4851f9b8a1c5479e90": "jython: update 2.7.1 bottle.",
     "c4f4865c94808c94c092d2ca8e83d65e84a9d039": "jython: update 2.7.1 bottle.",
     "ba96f43d45c5421b88fe5cdf25a34f74961dd53a": "jython: remove deprecated ENV.java_cache",

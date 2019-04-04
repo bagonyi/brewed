@@ -1,4 +1,7 @@
 {
+    "d53472ab5c114b4741cab8eef27ff73758a52536": "uhd: update 3.13.1.0_1 bottle.",
+    "b5b2096ddb3cc83849b12fcf6e9d064f52f7a9ae": "uhd: patch for boost 1.69",
+    "f33237172fb7563318b8faca043a0fe2f965d815": "uhd: revision for boost",
     "e4c643081d731980af5c1aa5f2b81b970e74498d": "uhd: update 3.13.1.0 bottle.",
     "a4cf244b9a396660621745cb8b6c54380be916da": "uhd 3.13.1.0",
     "7c7bba99899454cc0bebd8c249f4b65852eb4ef8": "uhd: update 3.13.0.2_1 bottle.",

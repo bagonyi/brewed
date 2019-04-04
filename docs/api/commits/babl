@@ -1,4 +1,7 @@
 {
+    "d67367932e41b08712949e8e38d694d8481559d2": "babl: secure url(s)",
+    "69cfb2f5969038b8da7ec03e60362d5d8c8ad34e": "babl: update 0.1.62 bottle.",
+    "fb7e422eae44168a46493638db093d5e006affb7": "babl 0.1.62",
     "6381e3f74504de68d1739976472d2d75b50ad8fa": "babl: update 0.1.60 bottle.",
     "a961387f940b9b44340cfd975526f3b2465c4dce": "babl 0.1.60",
     "8b6d7a4fb901995abfe9a3c97a09e6561fe52921": "babl: fix dependency order",

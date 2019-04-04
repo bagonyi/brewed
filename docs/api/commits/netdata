@@ -1,4 +1,6 @@
 {
+    "4a2a42e9397fe986e41c2d32e6776d085d7e6927": "netdata: update 1.13.0 bottle.",
+    "3c05d3467cd9321bf552f561fb6fcf11ee230954": "netdata 1.13.0",
     "7fd83c6cebec3a3c522605578757b0a186b05c66": "netdata: update 1.11.1 bottle.",
     "5d290711dfebc3b3b0add416730254bfbe754bd1": "netdata 1.11.1",
     "f49f358309137ef30cc70a760b05847d9f277c98": "netdata: update 1.11.0 bottle.",

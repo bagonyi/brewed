@@ -1,4 +1,6 @@
 {
+    "2b86ef5b82bbbae52a30172107704507bb8669f8": "dep: update 0.5.1 bottle.",
+    "3870c0c38f8502f85ff5e64b13113152703721c8": "dep 0.5.1",
     "0e962e1a1102a23ae39bb93b1e076601e4400eee": "dep: remove old code.",
     "cb5475757cb40e2abcef6de55e904341f7097503": "dep: fix RuboCop Layout/AlignHash.",
     "f4b9ae29ca4614c868448e748a333ca4a671cdea": "dep: update 0.5.0 bottle.",

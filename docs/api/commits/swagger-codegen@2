@@ -1,4 +1,10 @@
 {
+    "47a23d4798068c3a0fe329cc3f788fdc5820cbef": "swagger-codegen@2: update 2.4.4 bottle.",
+    "006b87ad73705ee608e86ffef1370d12d430b039": "swagger-codegen@2 2.4.4",
+    "9cbe8b0055b31dc591974850ea72d370b22a77b3": "swagger-codegen@2: update 2.4.3 bottle.",
+    "cc053f9f5b457ad3b7f9d13b839df0ef085d13dd": "swagger-codegen@2 2.4.3",
+    "40923f5ea7af15b80bad9f528b54eadf530bbe76": "swagger-codegen@2: update 2.4.2 bottle.",
+    "78d3e17642132081f91679fd1f6829677499dcb7": "swagger-codegen@2 2.4.2",
     "bde1f34f0d2f7b3c53ffbe01f82a3b628ae8982d": "swagger-codegen@2: update 2.4.1 bottle.",
     "a52b71d4a7b171f87dc6bf8f73e66198a9680b96": "swagger-codegen@2 2.4.1",
     "2734b2688ce7e33f5e8ee3eb6c5c5748a10e1143": "swagger-codegen@2: add 2.4.0 bottle.",

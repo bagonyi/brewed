@@ -1,4 +1,5 @@
 {
+    "e42cd8e28f50d7e8a9127b2448ea566c74e49ff7": "logstash 6.7.0",
     "060eed76cec0bdb26e0b7ebb76326b5edba61ce2": "logstash 6.6.1 (#37136)",
     "bf83fb79eaa1a6726e9401bcd1c41841c5cf7df6": "logstash: ensure oss version",
     "175af0f78ca84574424ee12d940dfb16e0543652": "logstash 6.6.0",

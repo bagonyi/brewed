@@ -1,4 +1,6 @@
 {
+    "3113971bb7ebc65c9b0e7fb1c897900da0091716": "libxlsxwriter: update 0.8.5 bottle.",
+    "55028b7cc9c29eecf078a23de5d237c9697ca0f1": "libxlsxwriter 0.8.5",
     "b2c875f42d8b5f9f070492b9def90600d70f5683": "libxlsxwriter: update 0.8.4 bottle.",
     "2a6ac1c4c009b99f12bf700305d1b3ef8f8ab0f9": "libxlsxwriter 0.8.4",
     "b6a37f4e6c3db351374b094ecbd770247f65437b": "libxlsxwriter: update 0.8.3 bottle.",

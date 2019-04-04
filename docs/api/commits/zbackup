@@ -1,4 +1,6 @@
 {
+    "005a71ff28b0605eb48512ea37eda46d4b6fcda0": "zbackup: update 1.4.4_9 bottle.",
+    "12c773b1836fa845caf08917b21e773754067399": "zbackup: revision for protobuf",
     "7be9656ebfef0f152cbb2d4dba6e8c0a9e71b853": "zbackup: remove checks for old compilers.",
     "0d9ec813dd5e10973d95c652053cc2145bcbeacd": "zbackup: fix dependency order",
     "2fa4315ced53fc8b16b84cc466b4a4d569728e40": "zbackup: update 1.4.4_8 bottle.",

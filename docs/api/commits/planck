@@ -1,4 +1,6 @@
 {
+    "4cf9780b85abdf8ef90d1b936b40034b5058e88c": "planck: update 2.21.0 bottle.",
+    "3b2f53172d2ccc676421515f924f8063560a1946": "planck 2.21.0",
     "410d388990204ebc604e81e2b5bc34736274f139": "planck: update 2.20.0 bottle.",
     "eb938897ef9a6fdcb017ffd5863affa5f2b4cd29": "planck 2.20.0",
     "61c383aefabc1e3e68ae4196c7bcaa14204beb24": "planck: remove pre-Mavericks support",

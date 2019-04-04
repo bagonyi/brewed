@@ -1,4 +1,6 @@
 {
+    "9001a5d89d75429a3180d3828c1c2f034a68e3be": "nats-streaming-server: update 0.12.2 bottle.",
+    "6f9335ab65014a7395db607d5aee204f5d3fe1d0": "nats-streaming-server 0.12.2",
     "637c5d8bf2173d3304a840c3a2a31258b70b6f17": "nats-streaming-server: update 0.12.0 bottle.",
     "cf8ad7333d18409db4b2452816e601602f0b816d": "nats-streaming-server 0.12.0",
     "7535dc7dfab83cab1ca822a48c9d2ef67f0c5361": "nats-streaming-server: update 0.11.2 bottle.",

@@ -1,4 +1,5 @@
 {
+    "79505b308725998e9237f8c7aa5d899eab1d75a9": "crosstool-ng: add lzip dependency for head (#37402)",
     "f2504be647bc9c5231a3ab7db5041e5c612a746f": "crosstool-ng: update 1.23.0_3 bottle.",
     "55e13925c0971c490c2b6dd8f20a30d9d26349d6": "crosstool-ng: add head, fix build",
     "4d40fd1591e8d2f0c0705c57dfe06e64e854757d": "crosstool-ng: update 1.23.0_2 bottle.",

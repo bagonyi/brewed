@@ -1,4 +1,6 @@
 {
+    "b7ed0733a3489879d0a4c24f60c9c80353c2539a": "ruby: update 2.6.2 bottle.",
+    "37720c5db6c9b41f5436000279e4b369f8b27cfe": "ruby 2.6.2",
     "955497722b9bf65069957b0e7c903b96939cdd99": "ruby: update 2.6.1 bottle.",
     "d0274653a8548c38fa08a6da825e02f2aa75901d": "ruby 2.6.1",
     "66abe7790933b3321dc9f3d212031c6219d9c5e7": "ruby: update 2.6.0_1 bottle.",

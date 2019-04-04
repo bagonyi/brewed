@@ -1,4 +1,6 @@
 {
+    "12e678946e83d82f5c27c5051ad0bdd66cf60664": "libsoundio: update 2.0.0 bottle.",
+    "05341291dab2b0972bb2d8d4ef2e3fd43da5f557": "libsoundio 2.0.0",
     "c1a06904950854a0bd9fb16779dc65d3c048f9cf": "libsoundio: fix dependency order",
     "f185558a4484e1127207fa663fa2ae0cf3f0b369": "libsoundio: update 1.1.0 bottle.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

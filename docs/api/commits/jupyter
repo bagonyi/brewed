@@ -1,4 +1,6 @@
 {
+    "456a2dff404d81c4d0faa7c6251e63b3177b1211": "jupyter: update 1.0.0_5 bottle.",
+    "f00209f6fe389fbd07a42db5003e3f3a8c677ed8": "jupyter: add completion",
     "df5ba6afa00d708bc18dc4175fec2dbdd8d217d0": "jupyter: update 1.0.0_5 bottle.",
     "15c6c97ee128c0897b1d00a155bac156d8fd2c0a": "jupyter: remove options",
     "71f0f10915f37ce4da62c6e7ebc6624c4c120a57": "jupyter: fix dependency order",

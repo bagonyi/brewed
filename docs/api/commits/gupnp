@@ -1,4 +1,6 @@
 {
+    "735f2bedd3728629cd5b1c793a287b9002e1ba78": "gupnp: update 1.2.0 bottle.",
+    "cadd8cde5f1ba6fc19bddbf35f58bf404b6995fe": "gupnp 1.2.0",
     "e3791936613638d2b68f391b5e5cd3913b00b7dd": "gupnp: fix dependency order",
     "3c47afec6e33866676202297d0539b892df3c8a8": "gupnp: update 1.0.3 bottle.",
     "97ad8f54d8a5eba2d0932c05bc49197c8f24eedc": "gupnp: test tweaks",

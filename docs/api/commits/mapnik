@@ -1,4 +1,6 @@
 {
+    "be2c6b22745c85890d9a741d7567ddc684110403": "mapnik: update 3.0.22 bottle.",
+    "e18d544c69497aa27c698498fdf69aa60b2d5064": "mapnik 3.0.22",
     "5b11b54f35de910fc494cef07cc01fc427551eae": "mapnik: remove checks for old compilers.",
     "4fbee5d45821506f3b91045ca1dc8ed2e4f910aa": "mapnik: update 3.0.21 bottle.",
     "42b71ae24f17f5b97f851ea3eaaab21681a82c40": "mapnik 3.0.21",

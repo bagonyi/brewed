@@ -1,4 +1,6 @@
 {
+    "72b46231fb2ca46044f21d4b76e4aefbae753088": "libbitcoin-blockchain: update 3.5.0_3 bottle.",
+    "dabeae124fab15c56ee76997e407a5dae44400db": "libbitcoin-blockchain: revision for boost",
     "cd6eab8141f06f9d0793852ec688db91d0ae9f65": "libbitcoin-blockchain: update 3.5.0_2 bottle.",
     "6c6b5cd51c8efee75f326703e08c0b3c360701b7": "libbitcoin-blockchain: revision for boost",
     "ab7f0625e926655ebf30ee61c66375307c7c2998": "libbitcoin-blockchain: fix test",

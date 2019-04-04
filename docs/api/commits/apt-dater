@@ -1,4 +1,8 @@
 {
+    "509ce9d035bdeee7a1bbfe3d5322e33cef889cbb": "apt-dater: update 1.0.4 bottle.",
+    "6bbdf684cb4270d301d3d40c95e470d6a7b8295f": "apt-dater: don't install global config",
+    "d93a16f7e98a0f4b35248fde100486c82313823a": "apt-dater: update 1.0.4 bottle.",
+    "fe8ca5fe0ecf5fe2a751777911a80078989fbe1c": "apt-dater 1.0.4",
     "4695d47f7e3a1d4b9631508887272cbe6ec72891": "apt-dater: update 0.9.0 bottle.",
     "91cbdeb44b4f6ed93a2d5253e56c4b092f42de7d": "apt-dater: update 0.9.0 bottle.",
     "8cf41415a6f711479018816902d00f6642d148f7": "apt-dater: update 0.9.0 bottle.",

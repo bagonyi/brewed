@@ -1,4 +1,8 @@
 {
+    "6b3527e45655110d2094fab2d3fcf62f1fc7230f": "aws-sdk-cpp: update 1.7.70 bottle.",
+    "4563ed1cfd56ed7205ab6aee8809bb064ff1531d": "aws-sdk-cpp 1.7.70",
+    "2d70c6119516c1126d834dd9577e261912706954": "aws-sdk-cpp: update 1.7.60 bottle.",
+    "88ca258d4ca1834bfb8da337494054202f100d84": "aws-sdk-cpp 1.7.60",
     "a6d37cf0856a1adaba4f7fb9ec509d4da9f12156": "aws-sdk-cpp: update 1.7.40 bottle.",
     "b1c755cbef2b6dd40bd7a361a312c253e74e9fbe": "aws-sdk-cpp 1.7.40",
     "a6502fc103c68259290826b85809057eeb3fc0b8": "aws-sdk-cpp: update 1.7.30 bottle.",

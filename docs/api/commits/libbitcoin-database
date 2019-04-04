@@ -1,4 +1,6 @@
 {
+    "7d166aed2638d96f4c5dfa0463f72421ea810648": "libbitcoin-database: update 3.5.0_2 bottle.",
+    "aa47ae6faab8df0db6e139065392ffef4b553573": "libbitcoin-database: revision for boost",
     "10dce831b695a0b282939a1610a80d9c05f501e4": "libbitcoin-database: update 3.5.0_1 bottle.",
     "e10ac5460ebd9740dff77ff46c0d99c4ed6de399": "libbitcoin-database: revision for boost",
     "754a74e289907fe50a57833e207ccfd8c88674f3": "libbitcoin-database: fix test",

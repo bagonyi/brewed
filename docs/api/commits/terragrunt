@@ -1,4 +1,12 @@
 {
+    "66bad76be4d0ba9dfc7a0672f6b63b0818e9b72d": "terragrunt: update 0.18.3 bottle.",
+    "fb99f1df15e1ae81db9a194e0913ec8a04c9ce79": "terragrunt 0.18.3",
+    "5c5b05ac46b8086b897133240747271e2b1f0de5": "terragrunt: update 0.18.2 bottle.",
+    "4ddfd24a02159a3eb5a8a866660eb7faed62793f": "terragrunt 0.18.2",
+    "9b144e7fc29fc6cd59b05994feb9182bfc46de55": "terragrunt: update 0.18.1 bottle.",
+    "17962d75545f546ddf02ffd50f598c87bf701a15": "terragrunt 0.18.1",
+    "f6b77c9654a1f3462426e239e0c7ae154ed0603f": "terragrunt: update 0.18.0 bottle.",
+    "fc548622ae6d8d2fd5c9061c14c4475e981d06f0": "terragrunt 0.18.0",
     "0d76065b9b107c0f6a0a49afbf586b17af0c6a29": "terragrunt: update 0.17.4 bottle.",
     "ab257ba892adc2bb9e50c0bd913c229fab2846b7": "terragrunt 0.17.4",
     "f4e4ac2baf67ef4c2a6d98b38e85701d9953ae81": "terragrunt: update 0.17.3 bottle.",

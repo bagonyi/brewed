@@ -1,4 +1,6 @@
 {
+    "abc6896c9ea169defb64c840d7e7d18553e4496f": "unzip: update 6.0_4 bottle.",
+    "6ad3a9cc7d5369a51055e4e32819e3666803c21b": "unzip: apply Debian patch for CVE-2018-1000035",
     "4139e8a29226b858ebe2e985a507de082fa87285": "unzip: update 6.0_3 bottle.",
     "1ef7dbd3a4811dd381d09e2f1e78c83634190c44": "unzip: secure url(s)",
     "8ac7f572ea05a82cdf6876f8fec205705641c8dc": "unzip: use *_by_macos.",

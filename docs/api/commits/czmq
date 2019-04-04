@@ -1,4 +1,6 @@
 {
+    "4ce204abf8295acd2b234133fe81d81cc3a2d699": "czmq: update 4.2.0 bottle.",
+    "e97ecbcc898088eb861eff83a2523d151e0da0bd": "czmq 4.2.0",
     "6abac04b3e36d65a7bba385770753ab7fe9572b0": "czmq: remove options",
     "12b8744fc6f0d9cc1998949a2c7f496a7bca7c3d": "czmq: update 4.1.1 bottle.",
     "5e0fa822945cc0e99497b2036eb28593c43f55b0": "czmq: update 4.1.1 bottle.",

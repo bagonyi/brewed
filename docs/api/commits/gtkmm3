@@ -1,4 +1,6 @@
 {
+    "88b3153d7637069f360c2a8610fe6074772a487b": "gtkmm3: update 3.24.1 bottle.",
+    "2ea6816710e9ced43d4b8ef02411d0ac10972ce3": "gtkmm3 3.24.1",
     "a7f4e01915715b20bfba7853e3690d827a1a294c": "gtkmm3: remove checks for old compilers.",
     "fbf8a198184d604dd0512f9180b9759e264b8848": "gtkmm3: update 3.24.0 bottle.",
     "ec64b736a2cf2aac28960cb4c49e070004d7b48d": "gtkmm3 3.24.0",

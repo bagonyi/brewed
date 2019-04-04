@@ -1,4 +1,6 @@
 {
+    "39c87c402ed95a0c22875048d58baf17c8b2bbd8": "pulledpork: update 0.7.3_1 bottle.",
+    "f95b49e1e0a3882ee070a45f1223ce9bdd5d8778": "pulledpork: revision to fix test",
     "6b6dafdd9d6c91ec8311845cf717e2c2eba5f51f": "pulledpork: update 0.7.3 bottle.",
     "a9477f3c4934ae65883e9fffc6953a4d11d1d10b": "pulledpork: remove retired search.cpan.org mirror(s)",
     "5ab9994ad2b3b4129f95c12a93aaf8e94ee9c54f": "pulledpork: update 0.7.3 bottle.",

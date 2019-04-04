@@ -1,4 +1,5 @@
 {
+    "abb587739b437045e214465e18d682e8ea6343d0": "jadx 0.9.0 (#37608)",
     "4eefaf70709f7e432327fe61268e8a576b7bd37c": "jadx: fix dependency order",
     "70c96237bc53e5578cdba0bbf2043bcb611bb4fd": "jadx 0.8.0",
     "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",

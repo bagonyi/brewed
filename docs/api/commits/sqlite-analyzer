@@ -1,4 +1,6 @@
 {
+    "19244b45e3c221a730c86e976a25b1fa918e3166": "sqlite-analyzer: update 3.27.2 bottle.",
+    "ba12bb1bb264bc134f0338a1442d3f2aee65b1a3": "sqlite-analyzer 3.27.2",
     "ff87050d5c1c0b9aa0cc64389ef66c0df0ce1177": "sqlite-analyzer: update 3.27.1 bottle.",
     "c85b36f37d9f5e0aadc435014033fd722b31799c": "sqlite-analyzer 3.27.1",
     "4b23b92670a4ee876717ee98e3555a727f17bdd2": "sqlite-analyzer: update 3.26.0 bottle.",

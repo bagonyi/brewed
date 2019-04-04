@@ -1,4 +1,6 @@
 {
+    "6e4377150980e08c14fd5830585d32e67184f41e": "node@10: update 10.15.2 bottle.",
+    "c2a6ad8ef6dba560bd3fa118f04d6e4a7bbad850": "node@10 10.15.2",
     "68356965b5123ca62eb30935d304db8936b3fe83": "node@10: update 10.15.1 bottle.",
     "2fb2a9a90d4ec035bb44d6500b40131bb970059a": "node@10 10.15.1",
     "e7318202cbd3542bb79af57090c94ed90323a3a0": "node@10: remove checks for old compilers.",

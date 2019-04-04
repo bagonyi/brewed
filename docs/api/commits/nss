@@ -1,4 +1,8 @@
 {
+    "d8d38c0fd9884b2d5d3b99638e4ac3ab12bc4fc8": "nss: update 3.43 bottle.",
+    "8dce4a3c10823c59470364c6da96156f57195379": "nss 3.43",
+    "6c79755c9dfd45c7f49aff6146af6b237c17febc": "nss: update 3.42.1 bottle.",
+    "08aaf48ef48b1efee62ec0cccd1f891ee6f094ac": "nss 3.42.1",
     "2d7f8fd88ce7cc43d20076e0e1a64119d40585b2": "nss: update 3.42 bottle.",
     "8b51984365c8b0b082b6a5fd695152a4a8db6b3f": "nss 3.42",
     "88d960f1b9de294b626863aa53d426bc3fc6171c": "nss: remove old code.",

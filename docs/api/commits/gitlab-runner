@@ -1,4 +1,8 @@
 {
+    "5b1ca5324ebbbe626d264c74b8c90d56eb5e96a3": "gitlab-runner: update 11.9.0 bottle.",
+    "d7c8058ca3b89740e414df6b61b3e08380e2ba78": "gitlab-runner 11.9.0",
+    "a7be1de6fa3aca7b7bf8f70f20739ae996d73edd": "gitlab-runner: update 11.8.0 bottle.",
+    "15fbbe9716a14a2c8dc91be05fc22cf4beac9b02": "gitlab-runner 11.8.0",
     "c58c72c0647b648e7db2b14b79a3fac3337696e3": "gitlab-runner: update 11.7.0 bottle.",
     "edcc443e51aee640effde58263e0de66c3d9ea9a": "gitlab-runner 11.7.0",
     "27bdc25f3d3e36b96c514318a28f0390587cc240": "gitlab-runner: update 11.6.0 bottle.",

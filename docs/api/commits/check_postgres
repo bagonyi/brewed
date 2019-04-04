@@ -1,4 +1,6 @@
 {
+    "94790592e4c4db72b4737fd42e977881728f9690": "check_postgres: update 2.24.0 bottle.",
+    "20ded2db81b568066cb26adf01fa8863cf58d10c": "check_postgres 2.24.0",
     "c66f914a82e567172c8fde6d8a1876a01467377d": "check_postgres: update 2.23.0 bottle.",
     "e92c84d9132c55c604a2f374558fdf09c120c8eb": "check_postgres: update 2.23.0 bottle.",
     "aa17e01a8f474bcdaab9af01fcea3d251283fbaa": "check_postgres 2.23.0",

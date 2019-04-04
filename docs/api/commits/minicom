@@ -1,4 +1,5 @@
 {
+    "c64047895332d9ad0533ec1423627eca5b6ab49c": "Update debian mirrors to fix audit",
     "83afb1a673779f5f3072ab70b3ed3754cd3093ea": "minicom: update 2.7.1 bottle.",
     "0a68784e11dcacc341d8bf9f06a9655e52745055": "minicom: use Debian mirrors",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

@@ -1,4 +1,5 @@
 {
+    "1e70929954460f0776d2145b8b612def89904dd2": "metabase: secure url(s)",
     "4e05159f49c7e44bc0b0958ebf205fa05901d628": "metabase 0.30.4 (#32683)",
     "6d8d18d76dd4533248dafd0b509a5b5f1144f896": "metabase: fix dependency order",
     "d44abb92cf7cd692fa21fb8630e7e24335725ca6": "metabase 0.30.3 (#32091)",

@@ -1,4 +1,6 @@
 {
+    "ce00af9f0d5f4f1b080e73e02bec83e299fcdc38": "s3ql: update 3.0 bottle.",
+    "99aae7e0c642ab640d00ba0fe13e978d93fdf008": "s3ql 3.0",
     "73e71bd13f48c00e8b1ac5fe9586844fb82384f0": "s3ql: add 2.33 bottle.",
     "a73a8a962651091d6da52e206232c31349a96239": "s3ql 2.33"
 }

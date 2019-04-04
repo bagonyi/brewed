@@ -1,4 +1,8 @@
 {
+    "4da4f1a6f274eeee8cc0ff4eea155c7e2a29aa20": "protobuf: update 3.7.1 bottle.",
+    "372d31769c739852cccdefd76813364cc7260f2e": "protobuf 3.7.1",
+    "735b957a85bed789fd0565e92e71c37b5b23dd66": "protobuf: update 3.7.0 bottle.",
+    "e4e0c4d521013894c4b69f83107b375e92b0f945": "protobuf 3.7.0",
     "25a18923216ee7d92eb99eba34a644df0a0d2d2c": "protobuf: reduce bottle deviations.",
     "72f15491f1bb7b4e336817caf4df50f21aa97863": "protobuf: remove checks for old compilers.",
     "23f51d1a7d3635d902ddc740dd77b9285d98e3d7": "protobuf: remove unnecessary caveats.",

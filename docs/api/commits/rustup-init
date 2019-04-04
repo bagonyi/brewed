@@ -1,4 +1,6 @@
 {
+    "0539319ee3a23b14f7651b7ade79d2a189f8bc7a": "rustup-init: update 1.17.0 bottle.",
+    "b84adead3fd49b3c240f533ee32563b5cf4c6f59": "rustup-init 1.17.0",
     "e430598607937c11acf5f26e96758858d44bfe25": "rustup-init: update 1.16.0 bottle.",
     "72df486005753a3bfb29489631613d4435323039": "rustup-init 1.16.0",
     "5dd52206436463798ec0584a4b7ddd091f1b8ac8": "rustup-init: update 1.15.0 bottle.",

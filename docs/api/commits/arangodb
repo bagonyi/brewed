@@ -1,4 +1,8 @@
 {
+    "ac3a252c3dafefc4b417cc5313672f6da077e9a4": "arangodb: update 3.4.4 bottle.",
+    "47a90e3956b8c9cf6207ebc1062bf1d45193537a": "arangodb 3.4.4",
+    "a4a79106572fa29a80d769864aa82023ec567d25": "arangodb: update 3.4.3 bottle.",
+    "81ad25ee06ba29f5a1caa26fceb5c9db933077b0": "arangodb 3.4.3",
     "2d8808866960177cc00e841c29e19938baa73617": "arangodb: remove checks for old compilers.",
     "ddd1ba358767c02ac69163062809747ec535c2c1": "arangodb: update 3.4.0 bottle.",
     "a2d8e2b6714c95c9830f5e5ad923b4d49c66d686": "arangodb 3.4.0",

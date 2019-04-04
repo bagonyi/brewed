@@ -1,4 +1,6 @@
 {
+    "ca3f829303b9b999da556536404893f0a02d8d96": "deja-gnu: update 1.6.2 bottle.",
+    "719c11976634406ff0ca4ab292ec2edeac985dd3": "deja-gnu 1.6.2",
     "c0e64c68c285f4f79bbbbfc6965b94ec4293b2e7": "deja-gnu: fix dependency order",
     "d5a29b8ab97846c0881f0151774a9a80bd5baf71": "deja-gnu: update 1.6.1 bottle.",
     "b868cb73e6f6f68132f879af85e3c7ac77b92a2c": "deja-gnu: update 1.6.1 bottle.",

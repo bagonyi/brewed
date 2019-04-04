@@ -1,4 +1,8 @@
 {
+    "7c37ab5615812ef5693f2fd101077c8fc07a08c5": "yelp-tools: update 3.32.0_1 bottle.",
+    "f2dcecbfd9aa7712c5d53fdbb4c120d02b3065d5": "yelp-tools: update yelp-xsl resource",
+    "6a886b97fa4f04525bfeb3fb21c4b79c2ec92a12": "yelp-tools: update 3.32.0 bottle.",
+    "d63451e91dc03056f3faa5e9f90e0b4abbafd40c": "yelp-tools 3.32.0",
     "3d36d2cceab0cdee112d0649e23cf3955989baac": "yelp-tools: update 3.28.0_3 bottle.",
     "abfc5c974b79f7868fec7cd0afd453e16afedc87": "yelp-tools: update yelp-xsl resource",
     "5922ac584bf981d257abe4ef7316ff816544bfd3": "yelp-tools: fix dependency order",

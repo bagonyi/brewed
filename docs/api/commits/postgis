@@ -1,4 +1,8 @@
 {
+    "6f63bd5262a11e60cd7b3a6624b9595af4eeced6": "postgis: update 2.5.2_1 bottle.",
+    "1e1e6c229b404cfad5fd914a447cfdbcb9887d18": "postgis: revision for proj",
+    "72f91f56a888b359a62761784745e53db0fd8966": "postgis: update 2.5.2 bottle.",
+    "258f42036516cab8fbe36f4bc73dea675643d184": "postgis 2.5.2",
     "b71824a63fec136c123e31bd5dcb03964c76b04c": "postgis: remove options. (#36286)",
     "b5250b31734fb7d4b2ac7d530eddd2bf33f91137": "postgis: update 2.5.1 bottle.",
     "7b7d9237886c14ac970d4e25412c31d411d50057": "postgis 2.5.1",

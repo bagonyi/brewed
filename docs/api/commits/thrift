@@ -1,4 +1,6 @@
 {
+    "6e82367af0f9631efe67ea728c227526b01e08e6": "thrift: update 0.12.0 bottle.",
+    "2a11925d90d50b37a7b3ced8c64d211392c82a19": "thrift 0.12.0",
     "a1d5a1e87bccf56b741a1276f0b305baadca0e16": "thrift: remove pre-Mavericks support",
     "0c4a944dcf8db94cfd03803ac853b73f694172ed": "thrift: remove options. (#36294)",
     "4ba654c6d99b3b6804dd3843546a9dcbb700188b": "thrift: update 0.11.0 bottle.",

@@ -1,4 +1,6 @@
 {
+    "220de4a11549bff96f5266c0998397c4f223e094": "gtksourceview3: update 3.24.10 bottle.",
+    "3223c6e07c76602a3c627c3feec1f39aa97fb69d": "gtksourceview3 3.24.10",
     "4a11f0d582ca6dab023c72d5c763970f31b376de": "gtksourceview3: fix dependency order",
     "59838961fbf5585fc13bc284ebf41ca5920530f9": "gtksourceview3: update 3.24.9 bottle.",
     "55f0cae43f8cc48526d13482bc041a7728809305": "gtksourceview3 3.24.9",

@@ -1,4 +1,7 @@
 {
+    "746ae7a4b666d85aaa8021d8804515c277f985ff": "cromwell 39 (#38463)",
+    "f3e48aa54d3020068eb4f6e418fc92a99258cf30": "cromwell: fix HEAD install (#37854)",
+    "fa6db456eef7fe79a95398dead8a2dfdd4e51a57": "cromwell 38",
     "a89e0c4c44ddaa587f7105647a948856cea012a4": "cromwell 37",
     "de3b1b5b76c5dd84b25dcc4c7319ef7c41ba3ac1": "cromwell 36",
     "ff5429b6058d88ebc928cd2fb713013004c21e90": "cromwell 35 (#32473)",

@@ -1,4 +1,6 @@
 {
+    "3e66be1e5fe4529ae0636c0c7f572b51d0f0355c": "bigloo: update 4.3e bottle.",
+    "ed2ed494d5aa6152348bb7212f4b0fc41737a9e0": "bigloo 4.3e",
     "6b93162dcc29b8deb71b9c51e92181ceda348ddf": "bigloo: remove checks for old compilers.",
     "9a5903ce92391ca12b00ad8c2dbb23e18ef3fe1b": "bigloo: remove options.",
     "f70cc1d29cd378884406498dcb914bea5f3cd992": "bigloo: remove old code.",

@@ -1,4 +1,7 @@
 {
+    "d01b7a14b551aad7faeb76155df5f5e7f953d0b5": "streamlink: update 1.1.1 bottle.",
+    "6022b28bb4a6eadc6f8b7302fc5c6d78e3f1d933": "streamlink 1.1.1",
+    "3811abef100a9d13da070072cef38f1082756fb2": "streamlink: fix test",
     "1dcecaec8e86ab91fd91f6475e594e8bc65d3f01": "streamlink: update 1.0.0 bottle.",
     "931fcd4aa010476190b521e23a9b9539e2827d5e": "streamlink 1.0.0",
     "37322925daa55083456ef1c2aabeddd3f08b273a": "streamlink: update 0.14.2_1 bottle.",

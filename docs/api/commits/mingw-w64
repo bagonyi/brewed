@@ -1,4 +1,6 @@
 {
+    "4ac3ea57fbb1a5b7ff4df201d80e7d5a2f0e3aba": "mingw-w64: update 6.0.0 bottle.",
+    "2047122645a50c05b23dd67ac8edd10a0d9dd4ba": "mingw-w64 6.0.0",
     "46c23e0257a4429c71790cbb5120abce27a570cf": "mingw-w64: remove options. (#36279)",
     "869fdf67661818705442ea0b6dabd6a998f478c9": "mingw-w64: fix dependency order",
     "a475299694c2b6d6d8c28ec8af9b2c04e53ab744": "mingw-w64: update 5.0.4_1 bottle.",

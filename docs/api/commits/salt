@@ -1,4 +1,6 @@
 {
+    "d17f255b6dc36f7ed167f2785a42d816e4681a44": "salt: update 2019.2.0 bottle.",
+    "3a393bc46e836d727f27fa9bc4651f8423297f1a": "salt 2019.2.0",
     "19206a4976d64b32f549be758e2798ccda5ba9fe": "salt: update 2018.3.3 bottle.",
     "0889c3c85f00d57bbf9fd63da936fbc043ff9fab": "salt: move to Python 3",
     "7f5c79903cc97787543e5d375ef6308a0e2bc1fe": "salt: update 2018.3.2 bottle.",

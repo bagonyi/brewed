@@ -1,4 +1,8 @@
 {
+    "b28218ad74947a80193c18198ff0683cf7f94773": "xcodegen: update 2.4.0 bottle.",
+    "0608b651ab12f1ffff4d5eec23aa9be6c74bbcac": "xcodegen 2.4.0",
+    "5f572a1d69505b1982d8b8c3ec96633ddd2c5c3e": "xcodegen: update 2.3.0 bottle.",
+    "baa328c7c8390a9fc10ecb9838f54ca2e6205de7": "xcodegen 2.3.0",
     "fd6e943f95fdd7f3fbb8079f97f5e8d95b2a5eee": "xcodegen: add head (#36965)",
     "0af7155e26c4dc004fc37ce487030c3fc88694ad": "xcodegen: update 2.2.0 bottle.",
     "148a15e496c03216f2c6fca987d642bde62e5e7a": "xcodegen 2.2.0",

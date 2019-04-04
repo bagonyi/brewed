@@ -1,4 +1,6 @@
 {
+    "fb9f00dc8c38b4876d54d543a76db00e5398c286": "z3: update 4.8.4_2 bottle.",
+    "d090872bbdbba6205c09b510cdec35e7d27e5b34": "z3: include qprofdiff",
     "eaf6c5679096571c16d72dbce332a93262a5e8bb": "z3: update 4.8.4_2 bottle.",
     "92a54973af20c5c2fd3aa7134fcbbf083d2009c6": "z3: revision for readline",
     "3a798dc8af8930c124a1382817475c0d25f8f602": "z3: update 4.8.4_1 bottle.",

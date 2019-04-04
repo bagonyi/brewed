@@ -1,4 +1,8 @@
 {
+    "a1aee77e41f3dfbde97a736bbfbc8f13b7b4c229": "ask-cli: update 1.6.2 bottle.",
+    "655768ec81f71235fa85a9e6ea478c3f2331a994": "ask-cli: fix subcommands",
+    "cd7cadc0c9dfcabdba55e777939d7c66e725a11c": "ask-cli: update 1.6.2 bottle.",
+    "5fa00a3cc3a03f78d3f87ac48ffe79788293d668": "ask-cli 1.6.2",
     "0b5d999a1cf7ed801e6b1f83d2dd3639bd8f105f": "ask-cli: update 1.6.0 bottle.",
     "cd64490560857bac9eddb918dc4c2b61fc58700a": "ask-cli 1.6.0",
     "aa523dc7cb3535dca5ffa1e46cf22bc05f9be363": "ask-cli: update 1.4.1 bottle.",

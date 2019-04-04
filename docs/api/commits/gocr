@@ -1,4 +1,6 @@
 {
+    "635dbe07e19894445924af5fda83c3d6c25293fe": "gocr: update 0.52 bottle.",
+    "a87ea70523a25f91b19fb812a1f80e0edade2d25": "gocr 0.52",
     "0d169b97f646cf826fd19d84908689452a476952": "gocr: update 0.51_1 bottle.",
     "d1f2114416defb70153947c1b106b255a46cf0ff": "gocr: remove options",
     "aa69d78d4f299808171c1b0c5cc43902eccbdbb5": "gocr: fix dependency order",

@@ -1,4 +1,6 @@
 {
+    "a55a12c0ccc2f3452b9dc746ab45d8f638c3210b": "clamav: update 0.101.2 bottle.",
+    "5f6471d2d686329d3077101e0ec45a4dcc6eea0a": "clamav 0.101.2",
     "8bb82f5e547fafae263f4d5cb517bced783cb785": "clamav: update 0.101.1 bottle.",
     "1e1db87c9a3ca11f1cd450b748b8f7ea5ee66749": "clamav 0.101.1",
     "4374c2f89d011c75e788ecba2cd50ebd76fa7e20": "clamav: update 0.100.2_1 bottle.",

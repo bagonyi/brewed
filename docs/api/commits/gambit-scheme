@@ -1,4 +1,6 @@
 {
+    "543d86498a0915f0584ad60f193d54c68cfd99ee": "gambit-scheme: update 4.9.3 bottle.",
+    "264974aa9c74c8a3f7dc0c9eb7e4ec65d74c6b46": "gambit-scheme 4.9.3",
     "c66e399d3424f14c90e3d8513c9bbdd2053c2a88": "gambit-scheme: add 4.9.1 bottle.",
     "e0b95a0e316a49a8345d51b46ec2b36d816940f1": "gambit-scheme 4.9.1 (new formula)",
     "231548ab15700032f2ebdc142e8cfe44fb7c98fc": "gambit-scheme: boneyard. (#1537)",

@@ -1,4 +1,10 @@
 {
+    "853cb58f0ad8e3fcc56eda479cd7f4ae6a037208": "telegraf: update 1.10.2 bottle.",
+    "6a5039b219165d00371fe5c44726adb0fa09d332": "telegraf 1.10.2",
+    "de9468b4d8d6a60c8864f777655598dd5975aedb": "telegraf: update 1.10.1 bottle.",
+    "e0c585d515d64ec23f70848fb8fdd4e7de2eaac1": "telegraf 1.10.1",
+    "b7901fb2094b26cebe60dd5749ac5a08184993ab": "telegraf: update 1.10.0 bottle.",
+    "aaa3894ff6b42e433574682ecc9287818bc9ebbd": "telegraf 1.10.0",
     "5acd96dc812e0eb2d546b6dd863dbc245115597f": "telegraf: update 1.9.4 bottle.",
     "6406b8436b2ad5a1944b52aefae75db6cb841986": "telegraf 1.9.4",
     "5f1095b2f25645411770da93ae4da0aa0911ed06": "telegraf: update 1.9.3 bottle.",

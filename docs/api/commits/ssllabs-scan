@@ -1,4 +1,6 @@
 {
+    "f35214c3dbffe0ffe3f62978b1c3072a9352cdba": "ssllabs-scan: update 1.5.0 bottle.",
+    "9005f65e4d1bf8d9b3c8b7537ccae9903fcc70c5": "ssllabs-scan 1.5.0",
     "238ef7fa3f72ecb97a3e39a31fa166410309ac86": "ssllabs-scan: update 1.4.0 bottle.",
     "3608b3449cb3865a60b4c2731f72cd7701be45b6": "Audit fixes for descriptions (#20013)",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

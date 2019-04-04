@@ -1,4 +1,5 @@
 {
+    "89d6de6074b0f882a1fc15ce9b13d5dfbbaeab85": "apktool 2.4.0 (#37603)",
     "4afd98993ddcf05727d84b062ae3bfe6b3bed8a6": "apktool 2.3.4",
     "d8f2c363c606ce800971e5b61386a4d81901e187": "Remove unnecessary `:nounzip`s. (#30011)",
     "dcdc7d3b2ca496f4a795226f09457d2f511020a0": "apktool 2.3.3 (#27164)",

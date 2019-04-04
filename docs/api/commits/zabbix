@@ -1,4 +1,6 @@
 {
+    "c54f68e05dd64420d230bf7f571c7d59974da4fd": "zabbix: update 4.0.5 bottle.",
+    "9eadb4d0c38cdc46760a9b362b03ebdf39f3c51d": "zabbix 4.0.5",
     "5e1a03c66e002be70c289804d5c6694307c6651b": "Merge pull request #36364 from MikeMcQuaid/xcode-installed-check",
     "f3b16c8b085846e48e886ff54a465b8163909548": "zabbix: update 3.4.13_1 bottle.",
     "c92b98ba70e806e2d7726c33ee9d66eb630e7f94": "zabbix: remove options",

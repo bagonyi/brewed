@@ -1,4 +1,10 @@
 {
+    "8a7da54e74e8e086d7775cf0179dd38a8dca6032": "pandoc: update 2.7.1 bottle.",
+    "02db2126cabc27a68946e5d0e266e377ac20475f": "pandoc: install man page",
+    "ba6dc2b8b52f34de161072f7fd5be0627148fd85": "pandoc: update 2.7.1 bottle.",
+    "5b7b6e81bfd4cd706e502a6a06a75a42674637c7": "pandoc 2.7.1",
+    "c42b348a783d2f794a112c7855fa4f2a9e9e79e2": "pandoc: update 2.7 bottle.",
+    "e197f90ea48a6b9d33ecf63892ab7ea5e1fd2f7a": "pandoc 2.7",
     "dd1cce2d27f55b6832763da7a41ef4ee3362aeb5": "pandoc: update 2.6 bottle.",
     "73d8d8c3f3b0e14507716baaeace9e32059e567b": "pandoc 2.6",
     "2065af8a6d9cc8c95f54aa780c763d3309647f2a": "pandoc: remove references to pre-Mavericks.",

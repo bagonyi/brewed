@@ -1,4 +1,5 @@
 {
+    "39cefd624b0f37f57e5c9989af7508a3e0d4f362": "Update Debian mirror (#37600)",
     "4c35a4ab277e1433426a45830dc551b8d473bcfe": "dns2tcp: update 0.5.2 bottle.",
     "0738c389d1b1d9ccabe248883dbaba7b762f83f5": "dns2tcp: use Debian for homepage and url (#22619)",
     "79d6a105d793b290255fd89c4d7cdaef65f13134": "dns2tcp: update 0.5.2 bottle.",

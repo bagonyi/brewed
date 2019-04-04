@@ -1,4 +1,6 @@
 {
+    "32e100ee2e3692575316c0427a944eef245dd440": "wget: update 1.20.2 bottle.",
+    "4acba65c6e3096cee1971c7fa8f53f856ad1f9c5": "wget 1.20.2",
     "ea2a4e61c58dde9265374c722559768e86743218": "wget: update 1.20.1_4 bottle.",
     "870974a269e847b3a43b0447e22ef4f4542b5511": "wget: revision for libidn2",
     "db6bb2374fbac9f6f8de322a0ebb195a75eae604": "wget: remove references to pre-Mavericks.",

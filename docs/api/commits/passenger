@@ -1,4 +1,8 @@
 {
+    "b6672f393a044a3b818ec4ac69c30032c8942a0d": "passenger: update 6.0.2_1 bottle.",
+    "4612246f4dbf6f12331c52f9a10c119b82d96b78": "passenger: revision for nginx",
+    "d1c46ea17a805714f705c4f71d286da2fe0c367a": "passenger: update 6.0.2 bottle.",
+    "04e53efca0a6385dadf4ee1370b2aa1a24df02f7": "passenger 6.0.2",
     "4387d427d3394d7952653642f1da3e25f7b9be39": "passenger: update 6.0.1 bottle.",
     "7fe5cbaf60173ea3d99caed35bf34aadc6be2648": "passenger: change nginx module installation path to `libexec/modules`",
     "d543790cc3ee0c8a5a6a6572a0680fedef93e9ea": "passenger: use nginx src from opt_pkgshare instead of opt_share",

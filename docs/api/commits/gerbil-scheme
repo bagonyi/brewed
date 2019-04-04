@@ -1,4 +1,10 @@
 {
+    "f7a857ba7bb135995935078af111ec9fa170a2ea": "gerbil-scheme: update 0.15.1_2 bottle.",
+    "4a6764897dd8c51e3a620787472285b07a7e4e9e": "gerbil-scheme: revision for leveldb",
+    "ccaae83b786e458c036da6855839ccd6daf5b387": "gerbil-scheme: update 0.15.1_1 bottle.",
+    "264974aa9c74c8a3f7dc0c9eb7e4ec65d74c6b46": "gambit-scheme 4.9.3",
+    "8ba60f79c153b611fefadb0f2f05633c13606c4e": "gerbil-scheme: update 0.15.1 bottle.",
+    "6546d3f257f80c1f2151b6ea0af468b6e3a082f8": "Bump Gerbil-scheme to 0.4.15.1",
     "6118155002b154258f4586e4043edf1460632af9": "gerbil-scheme: add 0.14 bottle.",
     "9b0671060b1815dc542e88048822d8138fb3177e": "gerbil-scheme 0.14 (new formula)"
 }

@@ -1,4 +1,6 @@
 {
+    "fae7fcf5e067f7c70c21bcb4c98ad5f70f3cb396": "libetpan: update 1.9.3 bottle.",
+    "2a8997aa7a377d2cedd885caa80b22df2418b6c0": "libetpan 1.9.3",
     "8efdad2720df5da1cd322d6f599d1bda90d63c9e": "libetpan: update 1.9.2_1 bottle.",
     "751efdfdc2e98d3e6601537de034b68fcba49fb7": "libetpan: install through xcode",
     "3259e1ebd7f6a194016edba989413f2ca54659d9": "libetpan: update 1.9.2 bottle.",

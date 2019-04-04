@@ -1,4 +1,6 @@
 {
+    "0477b018c2e6d341ac9f2f8bed5ccf9a513ee397": "rhash: update 1.3.8 bottle.",
+    "0b21f9b7161433c6d82fdddefa96104caa25afec": "rhash 1.3.8",
     "97928327b75c46dfc835ef06b7eb38641ad368e9": "rhash: update 1.3.6_1 bottle.",
     "9623af306426378a6be99b8b32043b5c5ca751b7": "rhash: update 1.3.6_1 bottle.",
     "8312fec234c7a1d15e067ae341686ce5bf7e1ed4": "rhash: install headers",

@@ -1,4 +1,6 @@
 {
+    "76346c550099fb841bcd2160ee2556f823f0e51b": "openrct2: update 0.2.2 bottle.",
+    "0bd769c83adf670c923b343b91144770b1c25dad": "openrct2 0.2.2",
     "272d2fe2c4e34a746f66fee8d06be1b57264e234": "openrct2: update 0.2.1_1 bottle.",
     "e9aaf25bd092e874c3d049a2669684d961f6d230": "openrct2: bump revision for icu4c",
     "1a60dc2506323507eb39cea1631486fa58ced3b0": "openrct2: fix RuboCop Layout/AlignHash.",

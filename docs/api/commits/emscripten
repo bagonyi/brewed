@@ -1,4 +1,10 @@
 {
+    "d716d3a912521ef1c137e52f68774fec64395599": "emscripten: update 1.38.30 bottle.",
+    "b6781907956e97a8b9c4d0c1229767929a9fc01c": "emscripten 1.38.30",
+    "6af1caacf953071fb73653479a43a6baefa3caf9": "emscripten: update 1.38.29 bottle.",
+    "b7a3095ced916cb26b15711d62a9be5f2a3cca4d": "emscripten 1.38.29",
+    "7cea8da0608ee07befc3be2c51b6a77c42886545": "emscripten: update 1.38.28 bottle.",
+    "901b07efac263de779a3158832108fd8f5ff9822": "emscripten 1.38.28",
     "2c65b84edb9223ce4dbfe1dc1afbf793fc61ffef": "emscripten: update 1.38.25 bottle.",
     "412eafc4304a3b2f9764b8e5c608aa3ef2860936": "emscripten 1.38.25",
     "4604845627f6a6e1c8b8e357231f8d9d086c86a2": "emscripten: remove checks for old compilers.",

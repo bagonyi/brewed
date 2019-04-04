@@ -1,4 +1,8 @@
 {
+    "7242a30440171b8628af5adfa685f63ee1fc7ed5": "libgeotiff: update 1.4.3_1 bottle.",
+    "879b533c0d32c08ed2668dda1ed674596c2506a7": "libgeotiff: revision and patch for proj",
+    "cee71a2e89812c384c55f0a59013929451ade073": "libgeotiff: update 1.4.3 bottle.",
+    "22e65381774b531eef01bdf367cad80e77aaa861": "libgeotiff 1.4.3",
     "dfee25ae0e3f0bdb67563fb962bb9c7c1a6ac76c": "libgeotiff: fix test",
     "a7e446654e461659189c044cd15dcf5d58931637": "libgeotiff: fix dependency order",
     "c8b38b10a1b05ebe0a8615e8e721450959c5bdda": "libgeotiff: update 1.4.2_2 bottle.",

@@ -1,4 +1,8 @@
 {
+    "8bbb1bfd7d7c3b62a3810a81a9913a4313f8f000": "libqalculate: update 3.0.0 bottle.",
+    "5f0742c850e4b4f2da9400c0d1b81a72baaf3cc1": "libqalculate 3.0.0",
+    "4f4809144699882cd02a5c55b09f3b15451fda98": "libqalculate: update 2.9.0 bottle.",
+    "4e39afe4ecc36559db90568cc72d0de707ef1e00": "libqalculate 2.9.0",
     "fe46066aea3336bf8d31dd0d7e159a4a578d0d99": "libqalculate: update 2.8.2_1 bottle.",
     "fdde1231961bdd28999c181e8bbf89a145578b99": "libqalculate: revision for readline",
     "49e8c2c95c2da1d39319150bf653f51299487d24": "libqalculate: update 2.8.2 bottle.",

@@ -1,4 +1,7 @@
 {
+    "9bc6154020ad994c8f5a30602fe69fd591882344": "gupnp-tools: update 0.10.0 bottle.",
+    "645e2e7f0d37cc13d13eb5051b57db79f9504dbe": "gupnp-tools 0.10.0",
+    "b45c27ef49b77b177b9644d2946676397cb8e60d": "gupnp-av: fix dependencies",
     "9f86a002964fcb30fa7ef45616173dba46a2f070": "gupnp-tools: update 0.8.15 bottle.",
     "bbdc154775b1aa702937bc2da8eea437f9248c70": "gupnp-tools 0.8.15",
     "d63ecc56b4358f8ce5d6976215d51f1c8a6ad6ed": "gupnp-tools: update 0.8.14_1 bottle.",

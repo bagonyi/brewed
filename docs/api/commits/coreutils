@@ -1,4 +1,7 @@
 {
+    "0c27ead93da5deeb41d965796f547c8883367730": "coreutils: remove obsolete fix for El Capitan",
+    "14e8f8102f42cace60c162925311a109da09559e": "coreutils: update 8.31 bottle.",
+    "b68bfdae7d6aab646f9639ff9c737412b5a08774": "coreutils 8.31",
     "101bbea6fb6731dfac7d122c13d88e70706aa630": "coreutils: fix rubocop 0.65.0 style.",
     "7bd00cd3fc66f494b71e06e0e41ea750e06e8543": "coreutils: update 8.30_2 bottle.",
     "1b198c839ba376943aa51988ba0a84570214e121": "coreutils: Do not symlink dircolors, dir, and vdir",

@@ -1,4 +1,8 @@
 {
+    "0f07e3e628497283d54a1210a4b5b67200fda0b2": "prometheus: update 2.8.0 bottle.",
+    "9d5161db8a32d18840c3b0f51414055cc71c8e9e": "prometheus 2.8.0",
+    "786fe6b97788c0b82e35f44d9edb8977f1d42631": "prometheus: update 2.7.2 bottle.",
+    "2612f9241104b23a2a89c09c35c0f9439326792e": "prometheus 2.7.2",
     "ee0db18a3de42e7cadb07e325fdeb08bade45fe7": "prometheus: update 2.7.1 bottle.",
     "56eaaf364bae93eb73cc5c9bf6c46a17e5c052e9": "prometheus 2.7.1",
     "36455d8136359482b80483f84012009c3e643b40": "prometheus: update 2.7.0 bottle.",

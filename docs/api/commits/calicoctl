@@ -1,4 +1,6 @@
 {
+    "045a26fe7f3165514da2ae9263d2812e02fb4611": "calicoctl: update 3.5.2 bottle.",
+    "f4461edcd7e772ff24c3c436c5d058d40bbf39c8": "calicoctl 3.5.2",
     "b661b1597654d000ace84aaec78e59129f865a3f": "calicoctl: fix RuboCop Layout/AlignHash.",
     "6ac0cbca9dda619f061b28f6801d2100c5cad026": "calicoctl: update 3.1.3 bottle.",
     "b16e7dacf4f310bac9d661568694d75c7ff925f2": "calicoctl: update 3.1.3 bottle.",

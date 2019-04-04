@@ -1,4 +1,6 @@
 {
+    "963f0c03f78a34912d84ea7799e381f0a7f2b940": "node@6: update 6.17.0 bottle.",
+    "d1662e8dab43d2dab0aab5c2cac2382f31ca741d": "node@6 6.17.0",
     "6bc9d1475f90dbd584376e5cb4332a8d5dd32e5c": "node@6: remove checks for old compilers.",
     "59c3da0fa36fc24f211e725f80dad26ef5aa55b9": "node@6: remove old code.",
     "132f78093baca9207db4b54d4bd670d0832d6a02": "node@6: update 6.16.0 bottle.",

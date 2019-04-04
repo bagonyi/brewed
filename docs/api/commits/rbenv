@@ -1,4 +1,6 @@
 {
+    "c041de29ba7073f2649e6df270845c43e69a9602": "rbenv: update 1.1.2 bottle.",
+    "e39103c1eb774582f4f0f1ef921966e6cbde0c5c": "rbenv 1.1.2",
     "daf7022c42b679e66a7891f0449efaf46bd9dbfa": "rbenv: update 1.1.1 bottle.",
     "35c02368f5cd8e772b08767551103bfeb0eb1ba0": "rbenv: remove options",
     "f17c5cdd8e764ebb085f58dc572a139b529ec96c": "rbenv: update 1.1.1 bottle.",

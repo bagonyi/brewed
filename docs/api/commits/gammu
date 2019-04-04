@@ -1,4 +1,6 @@
 {
+    "c7f168b5a94a47ae82abf77e7efa452321308f73": "gammu: update 1.40.0 bottle.",
+    "223a654f5671b53b9719cd27edd56949547e6a01": "gammu 1.40.0",
     "f12840922391203f9b16e676bf2d33466f92bc0b": "gammu: remove options",
     "e3b225843f7921e1570fb31cb8cacc309d294cbc": "gammu: fix dependency order",
     "8197d8deaaa156e8878838e5c1a66063739baac5": "gammu: update 1.39.0 bottle.",

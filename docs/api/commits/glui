@@ -1,4 +1,6 @@
 {
+    "6b78711a3b8e6e005a754a5059a96b9648449356": "glui: update 2.37 bottle.",
+    "fa1d45e32c4d5513930065b91430cb842c61d4cf": "glui 2.37",
     "ea2652f577d559cb8d984d85c5dc22d8018e712f": "glui: update 2.36 bottle.",
     "8b3652a705fddfe315d17f599884655d59e9abfd": "glui: update 2.36 bottle.",
     "fc1c5303615a32d5a9fa2a793b7841495e816b76": "glui: fix audit --warning",

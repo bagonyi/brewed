@@ -1,0 +1,14 @@
+{
+    "bbf164a3c7ea008a7d4a3639112a1d7543d3120f": "gnunet: add 0.11.0 bottle.",
+    "141089c52dcfc60bcc045cbed6c1b994537ebdba": "gnunet 0.11.0 (new formula)",
+    "8b1e21a4911029f861218b2985d2d918326eb5a1": "Move gnunet to the boneyard",
+    "5ad1f5b638db1222122e0944230ba673de929fbd": "gnunet: bump revision for libunistring update",
+    "5720914f691c7adc4f38d1eab12975ac93f882f2": "gnunet: add missing libidn dependency",
+    "e99ea88cfc7ffa6eb1df107eaae4ba670c2de517": "Increment revisions on libgcrypt dependents",
+    "cd7e789e082dc4c71c02148a3db1ec7d04106762": "gnunet 0.9.5a",
+    "4cd0935be73b5503e918167673d216b7c962b589": "Convert all 'def test' formulae to 'test do'",
+    "e9a399c8f14b666b8740a1d58b6357a407270969": "GNUnet: depends on libunistring",
+    "53473b6bf518b2e648cdec2ca25374dc7e285721": "Clean up MacOS version method usage",
+    "a1a62da80d77fe5fedef25946d8d5df313608a27": "gnunet 0.9.3",
+    "0edba57997c5f6019b843114c32aa96e170076c9": "New formula: gnunet"
+}

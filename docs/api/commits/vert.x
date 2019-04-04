@@ -1,4 +1,5 @@
 {
+    "c2f48cd0eb29307e584963fc026000b5c4bd9580": "vert.x 3.7.0",
     "82366884988fbd34f7b26daae0257ef9e84ab1a7": "vert.x 3.6.3 (#36597)",
     "5f2d1e83eecf460d8adfca23fdaf49e1eb5d5a7e": "vert.x 3.6.2 (#35188)",
     "10a7080610c7dbf858d49ef3c4aaa40aa22e2d67": "vert.x 3.6.0",

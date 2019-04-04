@@ -1,4 +1,6 @@
 {
+    "6148f03b089478cd0f65e4e5ac15793f3b210137": "mmv: uncompressed patch at formula-patches",
+    "c64047895332d9ad0533ec1423627eca5b6ab49c": "Update debian mirrors to fix audit",
     "c3145d2bcf604a0a8e1c9baea5c92e64b89257f5": "mmv: update 1.01b bottle.",
     "23dcbc49e983a02c9e20f0e84fcb2623c5b1d88f": "mmv: use assert_predicate and refute_predicate",
     "0f8fd633ef0971544d3c732db884407ba4ad1f37": "mmv: update 1.01b bottle.",

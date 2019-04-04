@@ -1,4 +1,8 @@
 {
+    "b4e8be2ffb5b9552901d802911dbae522654cf1e": "kustomize: update 2.0.3 bottle.",
+    "6be22225d2f9712b0d0b1a0c7a04f55abdb77940": "kustomize 2.0.3",
+    "c18c5ee75ea4e70f1f1e1c8e5a610997a2bddd2b": "kustomize: update 2.0.2 bottle.",
+    "62bfc3e90df252720f1f182d861783b33f78435b": "kustomize 2.0.2",
     "a504cd09b8c2532449d6bc67cee37f6c57e44ce9": "kustomize: update 2.0.1 bottle.",
     "405767a7578abd0a66ee81f33069353c8a6c5981": "kustomize: fix version",
     "6a19b85b07f4e5a59c67f92b2194638ba78ecc28": "kustomize: update 2.0.1 bottle.",

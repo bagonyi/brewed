@@ -1,4 +1,5 @@
 {
+    "527d7873b1da39903413984cace756f8245f54d9": "Switch to Debian.org from a Hard Coded mirror (#37596)",
     "b92635eb4131ec2f90fee89afdbc876679abbff2": "cloog: update 0.18.4_3 bottle.",
     "9517aa6d6122678a2124354149d5f5296355b71a": "cloog: update 0.18.4_3 bottle.",
     "39ba7b976a0a29a870e869466296fe34bce0a84e": "cloog: vendor isl 0.18",

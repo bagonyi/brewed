@@ -1,4 +1,8 @@
 {
+    "9fcacea4a3730b664bd4bc47728b67b00b82c8b0": "node-build 4.4.5 (#38503)",
+    "9ee6eae1d8010ceb49c5c875474f0d1703f84d62": "node-build 4.4.4 (#37882)",
+    "4a9aa8d87af8b0131fdfad6b68c776a8f8a3bb77": "node-build 4.4.3",
+    "979d9bb39ef7c919f06338c8d8ec9e72df43dc5e": "node-build 4.4.2 (#37357)",
     "049c267182d4525bce6d1fea0634829ceb2198eb": "node-build 4.4.1",
     "4bd3e55d39e04169af21b8ffad0846ea70287c77": "node-build 4.4.0",
     "0c0fcb7fb0fe456ba8eb2b5538168b2ec0c16cac": "node-build 4.3.0 (#35586)",

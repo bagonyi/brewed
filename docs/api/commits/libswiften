@@ -1,4 +1,7 @@
 {
+    "c344e3a44aa2c89a1e59e950705794177c99036a": "libswiften: update 4.0_3 bottle.",
+    "262cc3b28b717cb81ecf0c8caa19823f7fbfaf8b": "libswiften: patch for boost 1.69",
+    "931d07c333e8bdd7cba512adcca29d9ee357297c": "libswiften: revision for boost",
     "552594f547a096b7d5926b1e02517bfab834ba2e": "libswiften: remove deprecated scons call.",
     "e00bd7a7937a0acefdc0d0c5c9fabb6078569a15": "libswiften: update 4.0_2 bottle.",
     "b23038dadeea9e5076ae0994725e2559ba295fa0": "libswiften: bump revision for boost, update test",

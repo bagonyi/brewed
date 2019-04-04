@@ -1,4 +1,8 @@
 {
+    "addc253a3c9fab123bcbc964d8c202dfc0ddbec6": "redis@4.0: update 4.0.14 bottle.",
+    "4dd6b54beb8b621441fb7b04c88b2e865c1d8214": "redis@4.0 4.0.14",
+    "751a444fdb96e1447723f6ccc1ecd581f90e8707": "redis@4.0: update 4.0.13 bottle.",
+    "01f49d7e4e2e1667fe7f17422c3d8be9bdb4cbd1": "redis@4.0 4.0.13",
     "3ba86446623a1a0e606fae9d06a60ee3dee0f18e": "redis@4.0: add 4.0.12 bottle.",
     "d98a6feb8cf67b6a9285ed60041936dc45d7b424": "redis@4.0 4.0.12 (new formula)",
     "f6d196bba61022841dd13e739eaabedead30aea4": "redis: update 5.0.3 bottle.",

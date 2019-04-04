@@ -1,4 +1,6 @@
 {
+    "476669206dc7e24265d13974be3a3b8d5f0ff809": "calcurse: update 4.4.0 bottle.",
+    "bdc0e3bbe24645ce9a16d229c515a815603d70f0": "calcurse 4.4.0",
     "91b7da487e56619b1efaebdf944dd3eb7f423b84": "calcurse: secure url(s)",
     "dde25aab22bf2541f3be12e22cc083063b019611": "calcurse: add HEAD (#33721)",
     "25a2828b90ecbc26f0f52aa21a007982508b6460": "calcurse: update 4.3.0 bottle.",

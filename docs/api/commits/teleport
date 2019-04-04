@@ -1,4 +1,6 @@
 {
+    "ebb5022124189a64431bf0a7a577e889278e1464": "teleport: update 3.1.8 bottle.",
+    "7c536f4341205462a0aa678094143b5cbc33fbb3": "teleport 3.1.8",
     "d1f3fd674be7a6246970ac1ee335026c5bd45969": "teleport: remove deprecated MacOS.prefer_64_bit?",
     "fd6888cf5765d38c51eb65ad11d6bb7aca02445a": "teleport: update 3.1.3 bottle.",
     "4f2aa1e94bdffb80a118db4203073ed61fc50e5b": "teleport 3.1.3",

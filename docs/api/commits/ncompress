@@ -1,4 +1,6 @@
 {
+    "90c2c041daa43ad56b4564d61eed96a651d59361": "ncompress: update 4.2.4.5 bottle.",
+    "da435cd99e37c447b6cc2f08bf9074a007ba607e": "ncompress 4.2.4.5",
     "2044fe656742c636ef10dccceb87f763a3fed1f0": "ncompress: update 4.2.4.4 bottle.",
     "9e10eb800fe6f5a822f483684065c46234b66f84": "ncompress: use *_by_macos.",
     "af15c72b54b4d126f80ce0e32464230e98d49291": "ncompress: update 4.2.4.4 bottle.",

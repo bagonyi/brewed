@@ -1,4 +1,6 @@
 {
+    "cf103f322509d33d63b4085e07a86e6d3c4485fb": "buildifier: update 0.22.0 bottle.",
+    "39e9f118c381c5a51d6eee3a4ff8a960eb35cbf6": "buildifier 0.22.0",
     "9581ab51e0560e6f6925f3171e5c2e51e7bcbdf4": "buildifier: update 0.20.0 bottle.",
     "7d4437803c33ce896ebb747e798797b532acead3": "buildifier 0.20.0",
     "10743f35b86253e63b8f69c7809dfff29b961acc": "buildifier: update 0.17.2 bottle.",

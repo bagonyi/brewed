@@ -1,4 +1,6 @@
 {
+    "12608bae289eed2e1d6bc7376c34c4cf298611d9": "curl: update 7.64.1 bottle.",
+    "2a7a648e6ee7f4eadcdb3fe19f33fb4be8061a52": "curl 7.64.1",
     "007a4a6ae0c7a400fa4cac057f4dcc02e124f01d": "curl: update 7.64.0 bottle.",
     "eba0ae3f3f5bded520763574530c558c22c32fa5": "curl 7.64.0",
     "2f5aa1443267d0027c0370a5620d4423c886d6fa": "curl: remove HTTP URLs.",

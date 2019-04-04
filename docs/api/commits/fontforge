@@ -1,4 +1,6 @@
 {
+    "5f5a31a893433285ebc3d0ad67081c43121af832": "fontforge: update 20190317 bottle.",
+    "8c7285d8cce163ae0046a40a027edcecd06e08ec": "fontforge 20190317",
     "0e8ac9a8d100f3b75cf08db847e06d6d0a86c0cb": "fontforge: remove options",
     "ec89db9a9b0db26a959b6a8c87bea316d1441fc1": "fontforge: update 20170731_4 bottle.",
     "cc1d138c8cf0cdf4586ddad5627fc63afe4c27db": "fontforge: revision for readline",

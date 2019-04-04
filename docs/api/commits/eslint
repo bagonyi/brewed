@@ -1,4 +1,10 @@
 {
+    "672536c0652e65260ee3fa5fe2915c36881c51fd": "eslint: update 5.15.3 bottle.",
+    "1192313cf6e9298dfa93de8b9920b8bac9e33f61": "eslint 5.15.3",
+    "0818ecab23da82a9ad716db98bf355fa337d143f": "eslint: update 5.15.1 bottle.",
+    "71618246780fd952ecb794e530d85976ac00877c": "eslint 5.15.1",
+    "903f97caeab889dd5646572bd0c5beed2024fab3": "eslint: update 5.15.0 bottle.",
+    "b8b2934205ef6ee06498d8b06dd43f211b3a9194": "eslint 5.15.0",
     "859d2a21f12ca8abb143b6f3a3f9b2e1e2711aa0": "eslint: update 5.14.1 bottle.",
     "2c94cca0ec476b643ad1f128bf429925a603604d": "eslint 5.14.1",
     "d84aabc20a7165bbd7d64bccb90e5bb6bcf26c77": "eslint: update 5.14.0 bottle.",

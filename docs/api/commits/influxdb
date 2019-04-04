@@ -1,4 +1,6 @@
 {
+    "1b5d46a020154a382832ccd5732d5eb81d169d4c": "influxdb: update 1.7.5 bottle.",
+    "006843cb481e52a3dd6524c889646df27bc29b3e": "influxdb 1.7.5",
     "265d61d33a137796215812118dbf1443be2ca10a": "influxdb: update 1.7.4 bottle.",
     "dc2d850206cd756f52728d383e86444fbde44e60": "influxdb 1.7.4",
     "e5a779fe0709fef04c29b5cb2fc1324e7138ad2e": "influxdb: update 1.7.3 bottle.",

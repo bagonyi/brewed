@@ -1,4 +1,8 @@
 {
+    "fc4d9efddd11ec545ee3c4c9dfd4286d47223c07": "gmic: update 2.5.5 bottle.",
+    "8be424d06a4980320b1d265fc84717e4fcfe75b9": "gmic 2.5.5",
+    "2c00728f79bb35b1961c3d5f3c57785fda614733": "gmic: update 2.5.3 bottle.",
+    "3ea86eb28172982de6fb77b37287674fdb6a7b3f": "gmic 2.5.3",
     "67e666abe503b2021569d71dd448fdbddf249e81": "gmic: update 2.1.5_2 bottle.",
     "3fe32333d38d952310c22a3b505b11b8a775be36": "gmic: update 2.1.5_2 bottle.",
     "db2806c83a0ecc6693ed6c1da3a1360a0bc31914": "gmic: remove options",

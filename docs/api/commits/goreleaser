@@ -1,4 +1,10 @@
 {
+    "1b58ddb6f2eea33a546810a635ff4cb92955d2c3": "goreleaser: update 0.104.0 bottle.",
+    "faa00b710b8258d789c46810ee3dc61699ed0682": "goreleaser 0.104.0",
+    "e78974c5a2a13a5789699a1ae35d2cbd96aecb67": "goreleaser: update 0.103.1 bottle.",
+    "430a0b82a2d025560eec74707c527f4a52d0c786": "goreleaser 0.103.1",
+    "2c7ab692ef580c10f37b6449419b3f71116a5b3c": "goreleaser: update 0.102.0 bottle.",
+    "3d85c9bfae2c0a10c94241dd0c6ab884afc317d0": "goreleaser 0.102.0",
     "355b0f6718d5dca09dfe809fef73a504127d2718": "goreleaser: update 0.101.0 bottle.",
     "9c95229af4221e8f67bb2d64413eef3e896f9079": "goreleaser 0.101.0",
     "1f4cec430b027012dcba37d3bf416e18a2cdaab4": "goreleaser: update 0.99.0 bottle.",

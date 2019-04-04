@@ -1,4 +1,5 @@
 {
+    "781ec83134d3ecfe643ab7cf92099eaef5d9c9d5": "riak: secure url(s)",
     "088dfe9cd9654d229bd1d3a9956772b7125761b0": "riak: remove references to pre-Mavericks.",
     "3d179e9113984801013184a566d3ec02bcbf8a86": "riak: fix RuboCop Layout/AlignHash.",
     "e9348df1d20c380220dd838271a276ccce665c08": "riak: fix dependency order",

@@ -1,4 +1,6 @@
 {
+    "3d576c379982cdb389206ba21435dac6c6e76dae": "pre-commit: update 1.14.4 bottle.",
+    "fe8bd1d928191fc22969303635d7607450f6b746": "pre-commit 1.14.4",
     "3a556029d1ef0fe0ae0afcbb6172885db6a559bd": "pre-commit: fix rubocop 0.65.0 style.",
     "fb5e92b8510c4eb938507d57e2c6ca7640f99428": "pre-commit: update 1.14.2 bottle.",
     "d3fa679cf6b1ee56d1d5a798fe7d72294f5d095a": "pre-commit 1.14.2",

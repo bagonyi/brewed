@@ -1,4 +1,6 @@
 {
+    "1127d45280e8a2cf4eca773a0b2c93cc7b42d37f": "qalculate-gtk: update 3.0.0 bottle.",
+    "66aee5874a8e67febc9ced7a3e3a644bb769e230": "qalculate-gtk 3.0.0",
     "ebb037db45830b11b6916c01e149cac3c7751eaf": "qalculate-gtk: update 2.8.2 bottle.",
     "11cd8e881e186b53cc2aa0561ddd7383e7bb53d7": "qalculate-gtk 2.8.2",
     "c98f082a5d09bc3ab102db2263cb8acf9c561a9a": "qalculate-gtk: add 2.8.1 bottle.",

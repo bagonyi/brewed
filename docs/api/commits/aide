@@ -1,4 +1,6 @@
 {
+    "b1b5476ae65e223a5d46f4b7a42716e23ec4592e": "aide: update 0.16.1 bottle.",
+    "016bd69157782d70b427cdd916f36dc39418d539": "aide 0.16.1",
     "a6d175f69889d1cb207626941363315b06d8ed29": "aide: fix dependency order",
     "ed3d31a0cf1bb9be74215cb18d39d5e1c2ee5b71": "aide: update 0.16 bottle.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

@@ -1,4 +1,8 @@
 {
+    "6ae17d9ad92897e6b734b21cb8ee8f48667b3f50": "istioctl: update 1.1.1 bottle.",
+    "17e033a8abf390dd46c579e672b6ef58772a1e1e": "istioctl 1.1.1",
+    "bafe902057f4b66ec50afacc33358cb8af1f5224": "istioctl: update 1.1.0 bottle.",
+    "a471d2a357f1f68159aa783afb223e52655d8d51": "istioctl 1.1.0",
     "12f9951ffcaee16ecd6c2eceb94550e4ed9ef05c": "istioctl: update 1.0.6 bottle.",
     "bb9cf8af1831b17ab6ef96e57818a705b1f98795": "istioctl 1.0.6",
     "af28f8c581c4b56114af10148c14213ecd6a88ae": "istioctl: update 1.0.5 bottle.",

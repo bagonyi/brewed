@@ -1,4 +1,6 @@
 {
+    "7377824cd8eecc06a24848ea77a7ce40c377b4ae": "sqlite: update 3.27.2 bottle.",
+    "a4c66682792f6ef7d50b90cb7dcfa058fcb4a150": "sqlite 3.27.2",
     "3f8a575be728c604070c77986d2e397a7f04b6c1": "sqlite: update 3.27.1 bottle.",
     "78ecae434a2a0aeeadf597a02f9f954180881799": "sqlite 3.27.1",
     "29d769c6d4a0251992ce6017c89a7f7f7c45506f": "sqlite: remove options and caveats.",

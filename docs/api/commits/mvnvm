@@ -1,4 +1,5 @@
 {
+    "15d472aee3d863c2ae0a7f5b3eed83ba9b9f9607": "mvnvm 1.0.11 (#38441)",
     "c14148de66f44d558e5a8b9a7b9769296622cbda": "mvnvm 1.0.10 (#20195)",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
     "0e8413e5f4cce9b4d2bbb731f7228138c793b609": "mvnvm: fix audit",

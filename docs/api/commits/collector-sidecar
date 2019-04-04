@@ -1,4 +1,6 @@
 {
+    "c02273ab7fbb686806eff31f90585f401041c97f": "collector-sidecar: update 1.0.0 bottle.",
+    "7bfb09aedb3543e46a8c41814a3523fea0ebb981": "collector-sidecar 1.0.0",
     "a1e700e1f77b92a21ee93f02dc56316f1ca0d14f": "collector-sidecar: update 0.1.7 bottle.",
     "f51fc6c4f64165f966ccffa6f0c67ce3ca5fb4ba": "collector-sidecar 0.1.7",
     "9de80eddc4230e86095165cb46d5b68c08683c9c": "collector-sidecar: update 0.1.6 bottle.",

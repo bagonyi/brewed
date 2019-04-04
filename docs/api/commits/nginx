@@ -1,4 +1,8 @@
 {
+    "b30910e179ba1f7b54e90939bb027db4b6f6d4d2": "nginx: update 1.15.10 bottle.",
+    "2a7debc41b4e6eb0fc962028e65d435e8b996756": "nginx 1.15.10",
+    "46be226f7cf3ebf722b1c18a676fea3da403692a": "nginx: update 1.15.9 bottle.",
+    "e47d45fa258dce7b82327a0d3a4d43ff20db3618": "nginx 1.15.9",
     "d2c55299b4053f2266e14bcb4b160ec8e4a851a2": "nginx: update 1.15.8 bottle.",
     "e78965c5283519831f8a5fd613be05c42488a1d8": "nginx: install src to pkgshare instead of share",
     "45782d6ddf9075bd9acaa791969d1fc481b1efc4": "nginx: update 1.15.8 bottle.",

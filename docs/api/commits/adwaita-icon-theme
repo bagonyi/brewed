@@ -1,4 +1,6 @@
 {
+    "37b83b333c43ab6349e87b99e829a1b5d4a76eae": "adwaita-icon-theme: update 3.32.0 bottle.",
+    "0602ccb3a07fecafb27e28a8bf08bec0cad22d3b": "adwaita-icon-theme 3.32.0",
     "3d0345443a257ca332ca5a554351eaf669ee4d7d": "adwaita-icon-theme: update 3.30.1 bottle.",
     "6f71a75eb96156430daf4583042bf714b465fb5e": "adwaita-icon-theme 3.30.1",
     "621ffdd45415bdd057ed212e3a30f18af49cdcbb": "adwaita-icon-theme: fix dependency order",

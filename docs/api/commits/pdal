@@ -1,4 +1,8 @@
 {
+    "fa5e53d83e626130894b71ffdb6dc0de3b340621": "pdal: update 1.8.0_4 bottle.",
+    "4ab0be9b5afcf8cf9ed49543ec7be1b34ee84dac": "pdal: revision for netcdf",
+    "2056b8ef5c9bc670dd23c354b40e43bf8a0f2e21": "pdal: update 1.8.0_3 bottle.",
+    "51591579fbed0373e6cf03ace01f6c224ae6c6a4": "pdal: revision for proj",
     "f14ff2f9bf6167d0c7ef43037c6e16f79b1751df": "pdal: update 1.8.0_2 bottle.",
     "07ff73d5f87f81cecee2725e0c4817e0b22bb231": "pdal: revision for vtk option changes.",
     "a22aed6a8a5012fe637be659a8dd8bc62ccec431": "pdal: update 1.8.0_1 bottle.",

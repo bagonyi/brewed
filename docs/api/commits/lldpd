@@ -1,4 +1,6 @@
 {
+    "20fb2375254782e29e612b17e6fcfd35980c8b3a": "lldpd: update 1.0.3 bottle.",
+    "e10a7677f3057aae96d1488621952eb0615c7768": "lldpd 1.0.3",
     "bbf02626db418e91e2c65d0a4aaac3d2fdd8f03d": "lldpd: update 1.0.1_1 bottle.",
     "3931f5209f7446a2c6ca5b604fd990b9a26d51be": "lldpd: remove options.",
     "35555e7358243b7278855755d6a3a75c349c0856": "lldpd: update 1.0.1_1 bottle.",

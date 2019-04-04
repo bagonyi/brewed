@@ -1,4 +1,6 @@
 {
+    "66ceff2021741a339417fa5f69c820b5359ebd48": "diffstat: update 1.62 bottle.",
+    "6dcd27bc49b11317322e0fa1758896b00c975b36": "diffstat 1.62",
     "7b2d7d11a1869614fd3b501e0634db58235ab296": "diffstat: update 1.61 bottle.",
     "99f607fbbf414230d728aa3463331557611f5ebe": "diffstat: use “squiggly” heredocs.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

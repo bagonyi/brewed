@@ -1,4 +1,6 @@
 {
+    "0e4329a529d0f99798e53d969fe7e5a9d6d40ca0": "redis: update 5.0.4 bottle.",
+    "470d0634e89e28fa03c3c2b61b2d92dc288721fc": "redis 5.0.4",
     "f6d196bba61022841dd13e739eaabedead30aea4": "redis: update 5.0.3 bottle.",
     "e9113f20edadfc8dd7de53782e97a8ecde702c2f": "redis 5.0.3",
     "06e3368028b1a5a000bf8f251e1b405a4fdac8ba": "redis: update 5.0.2 bottle.",

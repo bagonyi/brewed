@@ -1,4 +1,6 @@
 {
+    "6c5a17a2df354977a62cfa27d7975dfa4b693ec8": "freeradius-server: update 3.0.18 bottle.",
+    "42f9d799398ae030b0df05051a292bd54042aa09": "freeradius-server 3.0.18",
     "56b9d94a04a250d9794d620cf2efc09a8ded8468": "freeradius-server: secure URL (#32627)",
     "93aef62e9e180d05c68ae8fc77cec3b70a9b445b": "freeradius-server: update 3.0.17 bottle.",
     "0270594e6b6a2a80455f9e22f9a262e1369bb82e": "freeradius-server: update 3.0.17 bottle.",

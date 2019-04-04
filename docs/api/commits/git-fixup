@@ -1,4 +1,6 @@
 {
+    "05d93ec92cbbbd97294e100bee059c86de40383f": "git-fixup: update 1.2.0 bottle.",
+    "cd6f14a7797cf373fdf6e7c9e2f63bf07c978f34": "git-fixup 1.2.0",
     "dcb8fa5a3def03537a3ee84bb4af8d0b0a4b2761": "git-fixup: update 1.1.2 bottle.",
     "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
     "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",

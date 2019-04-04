@@ -1,4 +1,6 @@
 {
+    "def118b9258775e3f3692a395d20f2eb93c0f122": "gecode: update 6.1.1 bottle.",
+    "e0df8f03dc919a8279867649fb6a9a6bb5529da2": "gecode 6.1.1",
     "67cbc222f67ec7c480efc9cc3209ddf88922a056": "gecode: remove options",
     "dc4803055c3b7d7f8afbbc32a79754a0ae4ba22b": "gecode: update 6.1.0 bottle.",
     "3b79cdf34e88fd770b4b6ec9f60d9591c9be8080": "gecode 6.1.0",

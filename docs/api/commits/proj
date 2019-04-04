@@ -1,4 +1,6 @@
 {
+    "3e52acf4ba13204e47ebbba2cdbb5a87999a7c1c": "proj: update 6.0.0 bottle.",
+    "9ada44bb2754301b99997ace32ad75b09f351334": "proj 6.0.0",
     "122f2a2a2c44462823360fc5a1becec968b9abf7": "proj: remove options",
     "23f8aac70cc3448d34d24f597d8b487ef54fcd88": "proj: fix component order",
     "cc8b37d018e1dd29b9051fff899fa397239c59c4": "proj: update 5.2.0 bottle.",

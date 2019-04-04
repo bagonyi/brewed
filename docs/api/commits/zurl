@@ -1,4 +1,6 @@
 {
+    "aef510c4a14d384556066c9c97a8789a2ce70c81": "zurl: update 1.10.1 bottle.",
+    "81c4b8925b2faa2a04cf015e2a762ae6909bf3f4": "zurl 1.10.1",
     "6b6a3c6ab0aaab78ec97519bb73bd4a724ba611f": "zurl: fix rubocop 0.65.0 style.",
     "ccc827472c4185fd9f84fc60074022204c42149c": "zurl: remove references to pre-Mavericks.",
     "6cc478c2085c6ce149b7308b7463d01aa5f9caf3": "zurl: update 1.10.0 bottle.",

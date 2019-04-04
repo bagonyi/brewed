@@ -1,4 +1,5 @@
 {
+    "cc8e029fe01a1f8fb9356833a5b6b37adfb40f5b": "mu: fix --HEAD install (#37371)",
     "5c7d8b6e5182f4b20504a0aa03f1c0722d330487": "mu: update 1.0_1 bottle.",
     "d4484ed60feaaa7bb899788936f7da4e60d1b836": "mu: remove dependency on emacs",
     "c4b3ce19413b55234b568af923029e9a2663bc6d": "mu: update 1.0_1 bottle.",

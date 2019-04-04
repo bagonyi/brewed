@@ -1,4 +1,8 @@
 {
+    "d53ff8cf5e8940475276ced4259c325929c5a99e": "rust: update 1.33.0 bottle.",
+    "08f1a5556f1c4327c4bd42260208e937852f10c7": "rust: cargo 0.34.0",
+    "037f01e876ee1d237e892e4ff226dd124b5de166": "rust: update 1.33.0 bottle.",
+    "0c5ffd92a682f51ed4705ce545503bef91adb1aa": "rust 1.33.0",
     "5008cce228a08884ed5772fcbcdf5b3901beae61": "rust: update 1.32.0 bottle.",
     "cc370b787b364d011c0b76883a2f65fc0d977cac": "rust: cargo 0.33.0",
     "dfa590c0f586e23e9ec801dc83e2867291e006e1": "rust: remove checks for old compilers.",

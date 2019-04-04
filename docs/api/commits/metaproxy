@@ -1,4 +1,7 @@
 {
+    "458da6aadda62b3455ebc8c3d3d5a77a86648b73": "metaproxy: update 1.15.0_2 bottle.",
+    "f4a8e5cb3ccab9995e75996327e58fc241e10b2f": "metaproxy: patch for boost 1.69",
+    "4054ec34550ed4d66ed1cc3d65b163bfbee2b63b": "metaproxy: revision for boost",
     "fe0debdd3fda4cd44839a93229df0b573fc8d40c": "metaproxy: update 1.15.0_1 bottle.",
     "bb7a23ac792efccc86ea71ddf297811eff5add2e": "metaproxy: revision for boost",
     "a3715b0e2420413378d5e36aba9c2ad7171789aa": "metaproxy: update 1.15.0 bottle.",

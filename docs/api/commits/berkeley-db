@@ -1,4 +1,6 @@
 {
+    "7e51afcdd9753a07182dea1dfde84a1b2897ac38": "berkeley-db: update 18.1.32 bottle.",
+    "a55890b6b3bfff5dc38944813dd21a2d53c2d63b": "berkeley-db 18.1.32",
     "3d0b27129ab82eb5a641c2074d6c3f4998b111f9": "berkeley-db: update 18.1.25 bottle.",
     "b05ebe46ab3609bd8946b149c9f2b45c6182cac4": "berkeley-db: remove options.",
     "9a8424a3b75a0a26673ca52a6b334edc568e6cd9": "berkeley-db: update 18.1.25 bottle.",

@@ -1,4 +1,10 @@
 {
+    "3d33adc9ff168820e39d6ceb1ed6609d7aa5d723": "armadillo: update 9.300.2 bottle.",
+    "02b8230cda0d22e60918fd93542696a09dc008a9": "armadillo 9.300.2",
+    "258d122a00fc9e0574131e499b0ddb6126ce0d5f": "armadillo: update 9.200.7_1 bottle.",
+    "b7447e75da02007c54a8b098109174093d9624ce": "armadillo: revision bump for hdf5",
+    "033ef2f16d08e9cf72c03090a5ba31eaeba8c832": "armadillo: update 9.200.7 bottle.",
+    "ad93d227a1ef0aaf9def0c540e1187dd053fda64": "armadillo 9.200.7",
     "b4101fad6eba75b6eeeda12306d905c6b957269f": "armadillo: update 9.100.5_2 bottle.",
     "6bebb04a10598f0d1788227fe5dfbd62693b64e8": "armadillo: revision for hdf5",
     "fea18c897d379ad4a2d965b5ab09af0c7163fbf4": "armadillo: update 9.100.5_1 bottle.",

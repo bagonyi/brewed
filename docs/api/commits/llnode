@@ -1,4 +1,6 @@
 {
+    "cec2dfacb80470ea7477a19611be3d04ce43c6df": "llnode: update 2.2.0 bottle.",
+    "191c5e1033a8b20cf2686a0a8234befee94787e7": "llnode 2.2.0",
     "dfbc3a5891598d830033eebbb688dbabca8405e8": "llnode: restore https for svn url(s)",
     "a2aa4aecd954223776009a42316fb95d09318716": "llnode: update 2.0.0 bottle.",
     "dff664dab21a928b532e88bbe580b9b160161b60": "llnode 2.0.0",

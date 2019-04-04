@@ -1,4 +1,8 @@
 {
+    "ed313b3c81dc6ae6178be9b36c675da2cbdc515f": "monero: update 0.14.0.2_1 bottle.",
+    "f26f42164ebadf3ab720d7214cfeef701cdbcd1e": "monero: revision for boost",
+    "ac895212a27d249b13207c8f64b65ee56446211d": "monero: update 0.14.0.2 bottle.",
+    "e184e10700e78c5328ddef389739d9535b632f8f": "monero: update to v0.14.02",
     "de01380c4f3d5ebb5b724e5f98048690419f9228": "monero: add plist (#35854)",
     "6164afab9a200516a6f2f4485745bd1347f1bcfa": "monero: update 0.13.0.4_1 bottle.",
     "87d2fc9137139b7894c126a44763c6e8213ae56c": "monero: revision for readline",

@@ -1,0 +1,11 @@
+{
+    "ea13afb07f77122dc0234de65f0ec9774b65bcc1": "triangle: update 1.0.4 bottle.",
+    "0d2617201a0b3bbb53bf8ebc30d615a56e3c10dc": "triangle 1.0.4",
+    "e197911abd4940b500f4cc2f9edf284c385f8bbc": "triangle: add 1.0.3 bottle.",
+    "bcd86d633053a23ea50d8c3633e9ee8eb7bff0c1": "triangle 1.0.3 (new formula)",
+    "53406d246fbb41e62314ca43f72b1d40c7508da9": "Moved to homebrew/science Octave, OpenCV, VTK, ...",
+    "a73e259b6061d822c3fc16c0da551226f4c1f8c0": "triangle: Depends on X11",
+    "88779ade49eee9d03a9e1c3f62cce6187ddd8463": "Batch convert MD5 formula to SHA1.",
+    "4147b05c5703e8740d02e001e094d306b97525a4": "Use ruby style for inheritance.",
+    "b9788c1a86659e5d1dd805ade8b036ffaf4b3955": "New formula for Triangle"
+}

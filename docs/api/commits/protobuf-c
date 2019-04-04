@@ -1,4 +1,6 @@
 {
+    "6445c098e73c9cf4602d32a101c0187b411add4c": "protobuf-c: update 1.3.1_2 bottle.",
+    "cd2253e797283e0e92ca29c08406f11bc8a15ca9": "protobuf-c: revision for protobuf",
     "05d1a62c8376110fac85e78ff4e6636573df010a": "protobuf-c: remove checks for old compilers.",
     "b1820088be546c16fb78228397b6b82d754cb5f1": "protobuf-c: update 1.3.1_1 bottle.",
     "ccfc879d6c76c1ff8d790387310e70bea370ad6d": "protobuf-c: revision for protobuf",

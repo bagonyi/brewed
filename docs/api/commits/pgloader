@@ -1,4 +1,6 @@
 {
+    "f848284710d5688a3d60597f199e4775ea98d52b": "pgloader: update 3.6.1 bottle.",
+    "3acde49b07f106954cb49f8ad03a84f8616b05e1": "pgloader 3.6.1",
     "03cc0dd812a4512313533622766115491ee48409": "pgloader: remove options.",
     "4bc6d50fa1fb5db8949a415319641dea5bd248d6": "pgloader: fix dependency order",
     "918034714c11b6480d92647a36a0c2faf5c2fe41": "pgloader: update 3.5.2 bottle.",

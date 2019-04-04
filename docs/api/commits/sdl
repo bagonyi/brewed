@@ -1,4 +1,6 @@
 {
+    "d314b22b451781043dd4a8e4919b3c80b381a23e": "sdl: update 1.2.15_1 bottle.",
+    "633e6d5c5517f3ebcaf2c93f338181314ec666b4": "sdl 1.2.15_1: add mouse cursor transparency patch",
     "69a7f1b23eefa2d85934cd2668811c8c81c0e374": "sdl: remove references to pre-Mavericks.",
     "569d7ac98678c63236ca8c364c595d31ad0f478c": "sdl: remove checks for old compilers.",
     "37191f181c6000025da366ca29196afdd8928aef": "sdl: remove some options",

@@ -1,4 +1,6 @@
 {
+    "f2a3423afd919ab9b8c1543a75afd0ae02b9e486": "openimageio: update 1.8.17_2 bottle.",
+    "a86f831a433b28e91255dfabde69eca891e389c0": "openimageio: revision for boost",
     "c631de85a5532556741cfa76467038501527c47b": "openimageio: update 1.8.17_1 bottle.",
     "79030288e78fa0c75aefd458bfba2c605cc5cb3b": "openimageio: Bump revision",
     "662fa638e4f5198654824673fbbb287893f4f72b": "openimageio: update 1.8.17 bottle.",

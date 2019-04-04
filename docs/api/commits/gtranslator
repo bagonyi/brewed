@@ -1,4 +1,6 @@
 {
+    "b57155700766f357e4ad10d2ff0be500d3602944": "gtranslator: update 3.32.0 bottle.",
+    "b077f165a89404fc4a6df76eca92884aeb0b22d7": "gtranslator 3.32.0",
     "dc842c54c6ab75ffbf9673eaea18720213760e33": "gtranslator: add 3.30.1 bottle.",
     "d7851014c2ef30f23f8b08cd4e557a78e85cc298": "gtranslator 3.30.1 (new formula)"
 }

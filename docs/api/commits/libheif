@@ -1,4 +1,8 @@
 {
+    "e76edd9cbcf237a7f17e68d527a218b9c4a85df1": "libheif: update 1.4.0 bottle.",
+    "b3ea3ae80ae80570b1b7177246b0cac1789e14ee": "libheif: depend on shared-mime-info",
+    "4350611456da53f8bb8476a7e72439dae1bf398f": "libheif: update 1.4.0 bottle.",
+    "9a1bb2817294b9e38b54e9376d4e3c0a5d61ef74": "libheif 1.4.0",
     "657045adc470fc4f62c71d16caadc641012f713d": "libheif: update 1.3.2_2 bottle.",
     "17e7c5d8fa282a234abb34352ff01994e83b29d0": "libheif: revision bump for x265",
     "e30fbb519d7d5e0ceb89b7fa5c6b1d25cafe8bdf": "libheif: update 1.3.2_1 bottle.",

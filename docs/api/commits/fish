@@ -1,4 +1,5 @@
 {
+    "9a78879b9a67a92310fc9819a0eca2382370f151": "fish: use sphinx-doc in HEAD builds (#37416)",
     "1317e7f77d9583b560f1f62af98c90b4beee068c": "fish: update 3.0.2 bottle.",
     "db2baf45bee31e159ea2f607d113284490f5f6c8": "fish 3.0.2",
     "ef21110a4e50becd45bb307e459d6617d3b01907": "fish: update 3.0.1 bottle.",

@@ -1,4 +1,6 @@
 {
+    "8646789146182644db5a28fe196aab52ae0719cb": "gosu: update 1.14.13 bottle.",
+    "bfd867b2276adf6b4de75f4b5b20f50559b20672": "gosu 1.14.13",
     "927e5a62c25a319e453a66431b3300df96e133b3": "gosu: update 1.14.12 bottle.",
     "886d7eb09b10bc84cf28447cdc15a71e26681165": "gosu 1.14.12",
     "b8d45aeaaae5d20720905f6b990e43d0ae970aeb": "gosu: secure/fix/follow url(s)",

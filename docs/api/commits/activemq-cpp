@@ -1,4 +1,6 @@
 {
+    "d9c3e02979fe0bec91307d62dd876b2f1b24e7d4": "activemq-cpp: update 3.9.5 bottle.",
+    "7a7bcfa8a92931414f9290c587ed4d67702e0bf5": "activemq-cpp 3.9.5",
     "e81cff7c26de97600f59551e4169c622ae520c6e": "activemq-cpp: fix dependency order",
     "842299c23841100748c7f1baf57e45cd2cd74371": "activemq-cpp: update 3.9.4 bottle.",
     "1eeac6b1e56ac563d28b8dd72d9f56f474c5f443": "activemq-cpp: update 3.9.4 bottle.",

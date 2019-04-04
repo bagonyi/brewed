@@ -1,4 +1,10 @@
 {
+    "2b221303e1826b6a81c52399fa44b30af6a49bb0": "grpc: update 1.19.1 bottle.",
+    "420b55caf4d0a7645f2c00aac5cdda3b0cdf4960": "grpc 1.19.1",
+    "ba143028dfb126a8ec4ba861c5789ae8a97bd3b1": "grpc: update 1.19.0 bottle.",
+    "95912ae88cd34074eb02539050375a7069134f55": "grpc 1.19.0",
+    "40d31c7ad24e2c932555c99885e0853ded093d22": "grpc: update 1.18.0_1 bottle.",
+    "e4ab4f1b9e01e4dc5d21c8330ccbb0e3d829a656": "grpc: revision for protobuf",
     "a090256cbf2acac3fa410883bc215c4ddb132f2a": "grpc: update 1.18.0 bottle.",
     "90e216b6e505d89ce12c88f805264d42d1b99e4b": "grpc 1.18.0",
     "ffea38f04009dffc563b3b0a2e171eb0b045504f": "grpc: update 1.17.2 bottle.",

@@ -1,4 +1,6 @@
 {
+    "6ae75bc76d37666f21600ee11a753a7fc8a36340": "docker-compose: update 1.24.0 bottle.",
+    "652d21b948849d4de2ef112b7ae861a37682c27c": "docker-compose 1.24.0",
     "605702e5b4a7c6e11c6296306e5549302c8ee79b": "docker-compose: update 1.23.2 bottle.",
     "d86239c145d0d3470efa51441f5337548e1f853f": "docker-compose 1.23.2",
     "8645cce0ef77d86fa6a3af654b52ecbcf6525a28": "docker-compose: update 1.23.1 bottle.",

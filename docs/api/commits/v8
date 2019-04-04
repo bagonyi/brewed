@@ -1,4 +1,8 @@
 {
+    "062ceee8cfd87b9e4ee29401688764bf71d9a6bb": "v8: update 7.3.492.25 bottle.",
+    "44749b71aa28d6a8dbc8d8fd857a0d44973ba69e": "v8 7.3.492.25",
+    "6de36908d29d90d0d0f88708a6cd8362e3ca0190": "v8: update 7.3.492.23 bottle.",
+    "e5d761ae76be971f0dda37e3cd5c476ff2c45fd2": "v8 7.3.492.23",
     "c5eb266ec15ffc429f3062f7e9837da54144c178": "v8: update 7.2.502.25 bottle.",
     "083d400fde53e43394a06c8fba5fde2ab9e3c7f6": "v8 7.2.502.25",
     "51d6f4def5835026a5e6a9017a011df36648f0a0": "v8: update 7.2.502.24 bottle.",

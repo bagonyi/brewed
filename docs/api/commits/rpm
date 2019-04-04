@@ -1,4 +1,5 @@
 {
+    "5898325d99b419697b9e293d296f1c0141a1eba7": "rpm: secure url(s)",
     "9f0ac310bae2c6c7b3e04daf0f5f25104437b62e": "rpm: update 4.14.2.1 bottle.",
     "735f3d06d0f2a8cf559d0da981fba079c1ec7a5c": "rpm 4.14.2.1",
     "f49f7170ffbde4ad3678f6185bb33c4bc9d110f3": "rpm: fix dependency order",

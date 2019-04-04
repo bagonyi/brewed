@@ -1,4 +1,8 @@
 {
+    "459294d014cbc270185ac3d235a2c66c76ecb92c": "liblwgeom: update 2.5.2_1 bottle.",
+    "268e25f249793f2aa474a8aa9cfac7b7394d694e": "liblwgeom: revision for proj",
+    "6866bd1d8228ad8501cc0e9f8dbca5ddc1c46d78": "liblwgeom: update 2.5.2 bottle.",
+    "9d98d234878fcd1bab17c5f1ef557b2a1b49ae2e": "liblwgeom 2.5.2",
     "1017b19c9ea1c8735446e6d146e33c1df6a9035a": "liblwgeom: fix dependency order",
     "9d3be43a175d1748c8b3270b97dc1b848a28310e": "liblwgeom: update 2.4.4_1 bottle.",
     "d6affb6304991450bdcbdbadc7a94a510fc5623a": "liblwgeom: remove unnecessary `head do` block",

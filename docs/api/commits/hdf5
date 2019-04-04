@@ -1,4 +1,6 @@
 {
+    "fc69dff180df6859900982f1535c2efe2ff747ea": "hdf5: update 1.10.5 bottle.",
+    "b3eb55b6c5bc1aae035be9867208320fa35c9fe3": "hdf5 1.10.5",
     "f6af85d20a265a5affe22456793bfe8ed61407f0": "hdf5: remove options. (#36272)",
     "a3c71dcd96fe512685328c335d1907f9db3bbf2c": "hdf5: update 1.10.4 bottle.",
     "8a875c053722a25d9db6a70361cc689bb6f4cc9d": "hdf5 1.10.4",

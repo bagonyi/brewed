@@ -1,4 +1,6 @@
 {
+    "3d6fc369fecba8248f3486441945529da2b790bb": "libpq: update 11.2 bottle.",
+    "046481fd60532a9e48ccdd21e8dad80480654c0f": "libpq 11.2",
     "6640b122ab6dd335687f58927c11074bd76b760a": "libpq: update 11.1 bottle.",
     "41a9c0c561922f909d052ab59936e882f66edee5": "libpq 11.1",
     "22aeb85e7e399741b95361379dea89fca9fd16ac": "libpq: update 11.0 bottle.",

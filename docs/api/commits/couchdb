@@ -1,4 +1,6 @@
 {
+    "ec243a9db2dc1672d88af4b1db3747b709d97650": "couchdb: update 1.7.2 bottle.",
+    "5add99d51b5478ac14ae027c181366fd4f69b0a4": "couchdb 1.7.2",
     "40cfe595c369e221c14162cc193af12b403225dd": "couchdb: update 1.7.1_8 bottle.",
     "8d9b0f5c2e3cbc4a72d7a4906c77d7836c87c201": "couchdb: install config into prefix.",
     "7eafa3e699d99761678772d2537036296f4a3032": "couchdb: remove options",

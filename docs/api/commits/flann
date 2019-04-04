@@ -1,4 +1,7 @@
 {
+    "1878df9c0a50012d2d2e5382b52f034d755024df": "flann: update 1.9.1_7 bottle.",
+    "b5984a462951023b98f97e458724dbf3388e4197": "flann: explicitly disable matlab bindings",
+    "3b57e07659041b9bb19942309055dae615fcbeb5": "flann: revision bump for hdf5",
     "5398b844431cc70408073f9836dadba1e8c1cc1a": "flann: remove options",
     "6461b224c95f0c4dbcb55c0b61a01dbd253ecfca": "flann: update 1.9.1_6 bottle.",
     "309550334596b30f31bb099710c2050e860fe130": "flann: revision for hdf5",

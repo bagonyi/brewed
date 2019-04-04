@@ -1,4 +1,8 @@
 {
+    "af4ac90ff21de0a0d95a7deda83f828f5f1458e7": "apache-arrow-glib: update 0.13.0 bottle.",
+    "5830e7dd9daf5e06245ad55addc9e3cc018b537e": "apache-arrow-glib 0.13.0",
+    "a5326258f60b5adf72096dbc1bab5aa5586051c1": "apache-arrow-glib: update 0.12.1 bottle.",
+    "b9712b755457a81169fa5eb602b0f96d018467b2": "apache-arrow-glib 0.12.1",
     "73f765cebd3c074c086ed38790aeb7263626eb00": "apache-arrow-glib: add 0.12.0 bottle.",
     "e8384ecac45d4f90a9563f019a4630f0fa6d0da8": "apache-arrow-glib 0.12.0 (new formula)",
     "7d4c03e53ee9bfa5fb938cf6572b2269075e75f2": "apache-arrow-glib: remove formula.",

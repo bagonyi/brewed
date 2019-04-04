@@ -1,4 +1,13 @@
 {
+    "ffda91fd8752cc685a42896aef286a88106dc80d": "osquery: update 3.3.2_3 bottle.",
+    "64202c5a26124e68621818065e5fbdd5c20b6e56": "osquery: revision for glog",
+    "9e8475944a2cdaf7d212a00303e2b64e80db033d": "osquery: update 3.3.2_2 bottle.",
+    "d7c9f8ea45a4c791d482db1dfecb8799a779fd69": "osquery: patch for boost 1.69",
+    "bc4cf088951c6fd71b8503b8e949c7ec2514204a": "osquery: revision for boost",
+    "90476d89e748afe0922441f99a3a4d5a1e29157d": "osquery: update 3.3.2_1 bottle.",
+    "ea00488edac043c5e24b73f1d116d263b1e46840": "osquery: revision for thrift",
+    "0611b407ad08b89811fc0356a1dce12c62b9da74": "osquery: update 3.3.2 bottle.",
+    "8b42b60bf3ab0775d95b844e15b75d214d26d07f": "osquery 3.3.2",
     "4e0f30f1f87a4e7f8acec7a3aef502d703adbac8": "osquery: update 3.3.0_2 bottle.",
     "e686eeb7963ca3e2b22f7f8a68186bfa5a10585a": "osquery: revision for rocksdb",
     "1767a16c5dcde1216fd3f1ef501e2c0fda31b70e": "osquery: update 3.3.0_1 bottle.",

@@ -1,4 +1,6 @@
 {
+    "889baef46285d4af5ae3c8f9a8543915a4bd0222": "gtk+3: update 3.24.7 bottle.",
+    "71d73d702f9fcc0a6fba2ca9ae3defefe7dbd1b9": "gtk+3 3.24.7",
     "cb3fda1143927d285dc8f96afe99684271c6d2f8": "gtk+3: update 3.24.5 bottle.",
     "0931ffe3c14f19512e1dda51e6f5c87707e2f189": "gtk+3 3.24.5",
     "2893bc20f8d299eb2069d5a8703e0fd2c2262787": "gtk+3: update 3.24.4 bottle.",

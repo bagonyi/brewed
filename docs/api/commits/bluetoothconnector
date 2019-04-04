@@ -1,4 +1,6 @@
 {
+    "82b5a661c5a6cda68ae71a0f3635e8936d954cab": "bluetoothconnector: update 1.3.0 bottle.",
+    "c0af58e48ff21a9096d3309296951c7b503f9d3b": "bluetoothconnector 1.3.0",
     "50d77d74edc34a54bcc6b35bbec0a3dda0adcda3": "bluetoothconnector: update 1.2.0 bottle.",
     "8a1cc73c177a7d79d067feedb6bb2c72e0c2cc4b": "bluetoothconnector 1.2.0",
     "19c293844ac04cc3ca0acb96fc5da420cd695a76": "bluetoothconnector: add 1.1.1 bottle.",

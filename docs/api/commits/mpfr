@@ -1,4 +1,6 @@
 {
+    "1488e20fc8ba9c853cc4f956ce6c7d4d5d868f08": "mpfr: update 4.0.2 bottle.",
+    "f04b813ea978d0b18b48848916e8b632fc6bff85": "mpfr 4.0.2",
     "b319c846bde0053846eeb3c364a887aec940c7cd": "mpfr: update 4.0.1 bottle.",
     "5de3d34b865f90d699df50d1bec731ab6a934e44": "mpfr: secure url(s)",
     "fca10ded463762a076e6033ced82453c834cbb58": "mpfr: update 4.0.1 bottle.",

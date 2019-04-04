@@ -1,4 +1,6 @@
 {
+    "05c9a12a17742d188aa3f1fb32392d0900a584d0": "xapian: update 1.4.11 bottle.",
+    "999da10e832def4c7360826f1970118e4c670412": "xapian 1.4.11",
     "4ffd2aac9f2db0b7df63e30b05a776338f0e10f7": "xapian: remove unused resource.",
     "e52069d92ddb346e93bab4a9c9b4e6c4de02a72e": "Merge pull request #36299 from MikeMcQuaid/xapian-options",
     "07bc7b1c39ceb337bd43412792f1b2dfeb532f41": "xapian: update 1.4.7 bottle.",

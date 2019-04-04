@@ -1,4 +1,5 @@
 {
+    "36d65f0d729395c4d013843f1aa784c55483eb69": "jruby 9.2.6.0",
     "2f0225d284f726840c924e204046df10c1f30ed3": "jruby: secure homepage",
     "7ed42a791426ef49e04438518ca4490cfc4b8b61": "jruby: depend on Java 8+ (#32568)",
     "06d0713c51da65b1d68709c87283f06598e23f50": "jruby 9.2.0.0 (#28259)",

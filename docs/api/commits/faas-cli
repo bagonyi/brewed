@@ -1,4 +1,6 @@
 {
+    "7fa4fdd55ef3430c12c9ec14f20e7d724a367b2c": "faas-cli: update 0.8.4 bottle.",
+    "c1d734d45c4f80770ea62b4560ff856f75ef7e46": "faas-cli 0.8.4",
     "883412bae0b605a0d0f48c315c9f8db1d63162a8": "faas-cli: update 0.8.3 bottle.",
     "5279454346c41740b5b48309c39bb02917a52f43": "faas-cli 0.8.3",
     "5501e8ed6da6382234574f3636f0e9c7fd290027": "faas-cli: remove old code.",

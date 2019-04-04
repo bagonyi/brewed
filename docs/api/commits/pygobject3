@@ -1,4 +1,6 @@
 {
+    "5334ed5037f300d00f69356a46ba3bce7780a4b6": "pygobject3: update 3.32.0 bottle.",
+    "48d20ee3dcfebea06776ee38693309c8e3f48605": "pygobject3 3.32.0",
     "45f5d6366bffb6cce4800403dffe1106a88de378": "pygobject3: update 3.30.4 bottle.",
     "aee328318d0201fa0bba2b143edafdb35c339b14": "pygobject3: remove options.",
     "73568fe5818e9cbfdba11b7c721e64c9fec2a6da": "pygobject3: update 3.30.4 bottle.",

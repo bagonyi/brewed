@@ -1,4 +1,6 @@
 {
+    "c46eb1ff86dd4ce6482928de36f36bf0333426cd": "leptonica: update 1.78.0 bottle.",
+    "f3d5d29018883b721c904698512c210fa02c87be": "leptonica 1.78.0",
     "b636ee3dd967ff55250a0939e8382b6b1fa26d94": "leptonica: update 1.77.0_1 bottle.",
     "81b044d226bfb314eb568cb37d613700af917eff": "leptonica: remove options",
     "78a457a2367fd8439ff79728efd653988d290262": "leptonica: update 1.77.0 bottle.",

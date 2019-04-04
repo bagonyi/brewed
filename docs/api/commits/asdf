@@ -1,4 +1,6 @@
 {
+    "9a70ede8a87687fb1c77c6b11ff47057cca83e14": "asdf 0.7.1",
+    "eb410ef630786913560ff6623cf9e4d7176cdc6d": "asdf 0.7.0 (#37566)",
     "03d0e842a7ff8a89b721b0aea2b9f09b9b48531c": "asdf 0.6.3 (#36413)",
     "06f776eed5fd9a18d7ba08f3745bef144b04be70": "asdf: add conflicts_with homeshick",
     "91f906e66419bbf1e25271de77129763dad9b7f3": "asdf: drop caveats (#35767)",

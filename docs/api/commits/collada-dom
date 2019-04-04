@@ -1,4 +1,6 @@
 {
+    "4c3d4728df9171bf78d51debff4343ee9b8205d0": "collada-dom: update 2.5.0 bottle.",
+    "c90caf6e5d64728c86eb0a891b130268e91c8995": "collada-dom 2.5.0",
     "7f5ad53584b5ac137fc4b9b41246180a0e5592dd": "collada-dom: remove devel spec",
     "e169407cef45d488114a1663ad6bc326915fc1ef": "collada-dom: fix dependency order",
     "893a38c4d39869e182e5e16b2ee22c1e1b5dacaf": "collada-dom: update 2.4.0 bottle.",

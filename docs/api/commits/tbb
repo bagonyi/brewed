@@ -1,4 +1,8 @@
 {
+    "2abc978073c0b9c713a4b88d18e07c1fba8ff31e": "tbb: update 2019_U5 bottle.",
+    "99189e80d8285e0d8b13f62e1dd233a2a71863e9": "tbb 2019_U5",
+    "6645ffe0cd7ad94939db4bfb72dd9d5388e99e57": "tbb: update 2019_U4 bottle.",
+    "7372791037b03cd93a81a7738716d0d3ac4fd478": "tbb 2019_U4",
     "5c6b964c550c71c83a325eaec618d534d8aa22ab": "tbb: remove references to pre-Mavericks.",
     "6290eb5540cbfa1e4f00ea6e9ec5d47aaba6bf05": "tbb: update 2019_U3_1 bottle.",
     "5bb87e603e86a57f6b4afaea5682d85bebf142ce": "tbb: move to Python 3",

@@ -1,4 +1,6 @@
 {
+    "3dc76c073e1b204e6827061102c7e05e0bea4f86": "sourcery: update 0.16.0 bottle.",
+    "a8d69da20ccc25d19c5f582bed3da1d40d99f30d": "sourcery 0.16.0",
     "ffb0f33e931f1f9db46928ca93ebcc71918cea04": "sourcery: remove workaround needed for `rdar://40724445`",
     "a0fdd78c98233eefd57b59b223ef313b8cd52682": "sourcery: update 0.15.0 bottle.",
     "3055c3622116061fad612d4f0abebd7600f8f145": "sourcery 0.15.0",

@@ -1,4 +1,6 @@
 {
+    "881c8f4695742519bdac31138d5136f2d5061d62": "watchexec: update 1.10.1 bottle.",
+    "0444c697912895f5b74d0b8a1f7c86629eaa4180": "watchexec 1.10.1",
     "61340b93e15fa1de458ad1b66b5a5177513e8bee": "watchexec: update 1.9.2 bottle.",
     "d2576c186eac32e498fec628bbe73ab00e0a5562": "watchexec 1.9.2",
     "743d5556537a0d2e5111c2e38a2d9949d3624b7b": "watchexec: avoid cargo deprecated syntax warning",

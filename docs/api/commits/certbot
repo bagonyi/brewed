@@ -1,4 +1,6 @@
 {
+    "ddcfce189babae96be6271ff44544dda762b7cef": "certbot: update 0.32.0 bottle.",
+    "1a3a41bf4c386e31e880ba3be3fbeefbd0a2749f": "certbot 0.32.0",
     "1cbb44d6358e91c6934f4b8784a4a849d9ef1498": "certbot: update 0.31.0 bottle.",
     "cd9d8ca1c39325ccfd1441d023686685af153c7f": "certbot 0.31.0",
     "09e53d7f0e0cb7f10212c807efe2215d7b3c5dbe": "certbot: update 0.30.2 bottle.",

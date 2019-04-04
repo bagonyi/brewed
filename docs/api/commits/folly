@@ -1,4 +1,12 @@
 {
+    "1ed3dc40279b78f649e6cbbb9b424872a99929dd": "folly: update 2019.03.18.00_2 bottle.",
+    "ab3e4ecaa1b093b948635e4c454b5940b93b7394": "folly: revision for glog",
+    "68172ef6f93bfedc69d13018789da44b21e85b2c": "folly: update 2019.03.18.00_1 bottle.",
+    "909e6181982a991e5fe24e78f5a7746628bfc734": "folly: revision for boost",
+    "7861bc11184e9092275a13e9340c835356acf888": "folly: update 2019.03.18.00 bottle.",
+    "c1af489ab1e2b8fb72d27a7101e10cb0cd4fcfda": "folly 2019.03.18.00",
+    "e3b68bc0d53b38669b4035ff5b291623ccd0d3a2": "folly: update 2018.09.24.00_3 bottle.",
+    "856619b13ea9a8060e86352989f010ff7939d38a": "folly: revert depend on zstd to fix build",
     "c3e6b5b2132edc430be5b584d2d6d504e59617b9": "folly: remove checks for old compilers.",
     "ebe71a397d1e4010f6eb73561e4c0024983ba178": "folly: update 2018.09.24.00_2 bottle.",
     "dfc46fafaa3cb2bd7d5edaad9cee2ccf6ad5b347": "folly: depend on zstd",

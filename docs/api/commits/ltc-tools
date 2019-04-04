@@ -1,4 +1,6 @@
 {
+    "30c86b9f232f14c7ddc31d1108a872360be15841": "ltc-tools: update 0.7.0 bottle.",
+    "b198484e748fa9ba714513ca5e7b2ab268ab098c": "ltc-tools 0.7.0",
     "bdfa207d1647a0ef7526e787587978fdb8a5980a": "ltc-tools: fix dependency order",
     "c1f99ca14cd6cb9e92fb3d4ae6b50c050dbefd34": "ltc-tools: update 0.6.4_1 bottle.",
     "9ece30a1a475ea5a9e3e4b911f3a96c3075f294e": "ltc-tools: update 0.6.4_1 bottle.",

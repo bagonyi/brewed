@@ -1,4 +1,5 @@
 {
+    "f54110274735faf6b8e3ebcdbff82d6000d5db18": "flume 1.9.0",
     "df4dcf6594e0b6f260618fdd4978bbc55f900957": "flume 1.8.0",
     "7a4dabfc1a2acd9f01a1670fde4f0094c4fb6ffa": "Use hash rockets again. (#5177)",
     "303660134f72cffaef94f87abfb6bfeedccc0e1c": "Use Ruby 1.9+ symbol hash keys in all formulae. (#4942)",

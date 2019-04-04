@@ -1,4 +1,10 @@
 {
+    "222f08536898e9070ac09595668616fc32ca2b44": "topgrade: update 1.10.0 bottle.",
+    "34dbbe52a297cafd055eeb520e13e93be0532dd1": "topgrade 1.10.0",
+    "88324b1dcaef16c49a4f9ec08d26476755be0914": "topgrade: update 1.9.0 bottle.",
+    "3bcb9b693885f1835cb02cca8a6f17202e54cba5": "topgrade 1.9.0",
+    "faadf8c85bc2b8cbf2abe94c2912143033abd1f9": "topgrade: update 1.8.0 bottle.",
+    "f04d21518b9d45f4c6af6960a18bde1b9d4f0027": "topgrade 1.8.0",
     "31741098fdcaef9e3a12634d9ae7291247da3a97": "topgrade: update 1.7.0 bottle.",
     "6799f986a33fccd37a5f743cc0f33a1eaaf90438": "topgrade 1.7.0",
     "f4367ce25b7743a4831555771f776b07039f2e89": "topgrade: update 1.6.1 bottle.",

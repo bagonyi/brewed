@@ -1,4 +1,6 @@
 {
+    "6a37348794b3e3ad68d845bfdf18bdb3e6b68f58": "glog: update 0.4.0 bottle.",
+    "dda8fa46391e1f24ff2f783950ee6f8643064611": "glog 0.4.0",
     "950f3de29fffb5d9f3a4ac611c935858054754db": "glog: update 0.3.5_3 bottle.",
     "23e4dd9e45218ab072c60bbbc39c1bba59763db9": "glog: fix test",
     "4eb314562dbd8fa07f50b3f2b332fab6ecf76990": "glog: update 0.3.5_3 bottle.",

@@ -1,4 +1,6 @@
 {
+    "719124b945ba911dd62c09d1953223e25859c57a": "fabio: update 1.5.11 bottle.",
+    "b78c0413ccdc4283c2f4a390f03fe03c19229e8a": "fabio 1.5.11",
     "516b207bbb285bd809acf2a9533eecc23ebd4f7c": "fabio: update 1.5.10 bottle.",
     "0507fad16b7bede117b737acdeb769d197de0f27": "disable go modules for builds and rely on vendor dir",
     "81740de783630dca771f7379a397080e5f7f492c": "fix style",

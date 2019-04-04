@@ -1,4 +1,10 @@
 {
+    "ad4d8e947153603cb4885beffd68957e9bcc9ea6": "cpprestsdk: update 2.10.11_1 bottle.",
+    "fa53dac2ced8cbac42887d462ed1c1bf84b86a4a": "cpprestsdk: revision for boost",
+    "891fa2b8d0f1c5102379e27aa5593ce986e439fd": "cpprestsdk: update 2.10.11 bottle.",
+    "e452e8dbe82e3e9ed19110364bc688ea3e442a28": "cpprestsdk 2.10.11",
+    "e9eb05eac855a9ff3255eda1865405c90945b2d7": "cpprestsdk: update 2.10.10 bottle.",
+    "4aab020a49b0c4b763e8bab7c06aee3c2789932d": "cpprestsdk 2.10.10",
     "58ee0992310daae72a0e539f3b8659a079cf1e93": "cpprestsdk: update 2.10.8 bottle.",
     "430ec1e5ad7169a0619884a0aec2be79ff463842": "cpprestsdk 2.10.8",
     "ca69c561c85ec3f79bb186d07a12e73518f03d54": "cpprestsdk: update 2.10.7_1 bottle.",

@@ -1,4 +1,6 @@
 {
+    "3698671fd6d20093fc67e1bfc8aba679f65b6f64": "cdogs-sdl: update 0.6.9 bottle.",
+    "27af0a707e63985acce819d8250dfe51dec16081": "cdogs-sdl 0.6.9",
     "5257b6e4f27dfc3124bb9ff064daf943bac4d2c3": "cdogs-sdl: update 0.6.2 bottle.",
     "2c3f36697fdc1f231fe7789a3e06c1bf0bd04411": "cdogs-sdl: update 0.6.2 bottle.",
     "4da2e9e31d673798d3f8e40c18f7212d7f7d0830": "cdogs-sdl: fix rubocop warnings.",

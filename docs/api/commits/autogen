@@ -1,4 +1,6 @@
 {
+    "f08b21bd78bea83abb3fa221c56664192ce720d7": "autogen: update 5.18.16 bottle.",
+    "bd47dae183fea18b49bf546da5f607e089274f5b": "autogen 5.18.16",
     "c2a2869645f2c9055849c596a06756d8d1d84d76": "autogen: update 5.18.12_1 bottle.",
     "f22fad0e3992dc441b9c8b27447aef387f518df5": "autogen: update 5.18.12_1 bottle.",
     "daf81d072dad3a6aa8d73b4ed6ec02325a22b098": "autogen: revision for bdw-gc",

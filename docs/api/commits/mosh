@@ -1,4 +1,6 @@
 {
+    "f3a0af401fa312cb1f688c878632483ccb1ebdb3": "mosh: update 1.3.2_5 bottle.",
+    "7811f041971fbcaec6fa675d41101e6ce6f64ad5": "mosh: revision for protobuf",
     "665814465071f640958fec79c87ebd044e3c672a": "mosh: reduce bottle deviations.",
     "61c1708c668d8cce72f4ed44cc584a98beb0f97c": "mosh: remove checks for old compilers.",
     "dca23d899b1e0b0b72f9e1393f160e582b4bd67a": "mosh: remove test option",

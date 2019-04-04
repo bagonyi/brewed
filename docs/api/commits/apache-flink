@@ -1,4 +1,6 @@
 {
+    "97b7a467beb81412bef2fbc497671c8ad3d407e5": "apache-flink 1.7.2 (#37203)",
+    "1ec955a6e7141139c3c7b071b0813ca64108a20c": "apache-flink: update URL (#37356)",
     "d111a9fd1551365d9b6f02288b26693295a13c11": "apache-flink 1.7.1",
     "bf214dcf9ae94c8be284fbe19d58c576d9a4b40d": "apache-flink 1.7.0 (#34639)",
     "fe986f0503082ec8e5d8a0b3e50b94146b14661e": "apache-flink 1.6.2",

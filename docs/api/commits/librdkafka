@@ -1,4 +1,6 @@
 {
+    "e86ce94492524dc452be3d184abe639b41ee4ca0": "librdkafka: update 1.0.0 bottle.",
+    "83856820d0ac8b85a6d145fb3b658f4fb8d672eb": "librdkafka 1.0.0",
     "b830d68ee246f216704cadc3bda689e88edc40ce": "librdkafka: update 0.11.6 bottle.",
     "263bc6bda94eb86f4d8d8179043de20f4a094062": "librdkafka 0.11.6",
     "64e6f08a03a23d9f6dbe4592145c9f1d928e88c7": "librdkafka: remove options",

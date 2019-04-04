@@ -1,4 +1,8 @@
 {
+    "aadf095e5f9f481daf24b9a3d137e79505805d9c": "kitchen-sync: update 1.12 bottle.",
+    "e8361afc81ce3aba97f43f65e11e2c2351e3183b": "kitchen-sync 1.12",
+    "878ec63f32b896c919257399ab4606fa7c9a5e32": "kitchen-sync: update 1.11 bottle.",
+    "f8258e1fe20b84a5257e4d34b3511ecb932cf7a2": "kitchen-sync 1.11",
     "c52f5c68f939a563387fd5d0d559757e350a0c9c": "kitchen-sync: remove checks for old compilers.",
     "10e57eed94312682c4edf30336546f6f906ad2c4": "kitchen-sync: update 1.10 bottle.",
     "08fdf8a0726b27c315042bd58532a227278fda0d": "kitchen-sync 1.10",

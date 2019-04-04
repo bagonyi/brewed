@@ -1,4 +1,6 @@
 {
+    "93419f430d608ebc57ebbcf7cbc84ce427bf24f5": "libosinfo: update 1.4.0 bottle.",
+    "8cfe4ac0c7d86be60f7ceec0da75dc9ca54f4381": "libosinfo 1.4.0",
     "a311eb7f562e5ce93a47ad1d8cdd7dbe0fcec6ec": "libosinfo: update 1.3.0 bottle.",
     "967ddf569e8ac058a9bee457e9451a4994b1bc7f": "libosinfo 1.3.0",
     "f8607c687f09b61e0277cea3de67e4a387092311": "libosinfo: remove options",

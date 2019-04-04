@@ -1,4 +1,8 @@
 {
+    "59fd1d94908a5deafc4dd38c5cda2dfcf1196555": "jasper: update 2.0.16_1 bottle.",
+    "fa03f80010b4042b43f4c7330ce2520131bfe754": "jasper: bump revision",
+    "bc94a3f420d00823776a87141872eabeea6b0b1b": "jasper: update 2.0.16 bottle.",
+    "575f47ea3afbf0352d8f8ba0166dac8683f31353": "jasper 2.0.16",
     "0cbc45bd22c1963dcaba5437aad339c6cb3c567d": "jasper: update 2.0.14 bottle.",
     "cf312d7466fe9c24aca931c11d200cf03d8a4177": "jasper: add static lib",
     "0965b9045913e5f256945a7c7bc3e1311793023c": "jasper: update 2.0.14 bottle.",

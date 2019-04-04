@@ -1,4 +1,6 @@
 {
+    "ae135be4cd7155b842ea3131ba4af2802ec10e35": "qxmpp: update 1.0.0 bottle.",
+    "6499a8dff4c00ca0b2ee8b2b317d32ae5d0043ad": "qxmpp 1.0.0",
     "62e5cbc7602a9f8aa42f91f80968919562c68395": "qxmpp: update 0.9.3_2 bottle.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
     "2c7dcb9796ab77023d34b54a4d4de4105f9b3a8c": "qxmpp: use assert_predicate instead of File.exist?",

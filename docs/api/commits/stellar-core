@@ -1,4 +1,6 @@
 {
+    "24855d5deb3883fb22e804bc4e93321cd2e1bf9a": "stellar-core: update 10.3.0 bottle.",
+    "805c69cf106dfa9def7092b6abebb37b2dee9f99": "stellar-core 10.3.0",
     "ee61ac0f0bd6355c9e97603cfbb9a9a1f0e9af07": "stellar-core: update 10.1.0 bottle.",
     "80ca8aedebd3ee0df986c210d781d59162456720": "stellar-core 10.1.0",
     "7daab40d9ba16d92523c19d6d3bc0be90ed59905": "stellar-core: fix RuboCop Layout/AlignHash.",

@@ -1,4 +1,10 @@
 {
+    "eb0fa93ac852302ec98f253d1e1e69d9440813b7": "caffe: update 1.0_11 bottle.",
+    "8270cc5cdcfd9bc18d7be46b92b784c7753c1ac8": "caffe: revision for leveldb",
+    "ed2cbe24887b4278dcebefbeaaef0f6a3d3c61e7": "caffe: update 1.0_10 bottle.",
+    "a4559ff2925c98212e5f5e204932dc87d5f01f42": "caffe: revision for glog",
+    "6f2021db7130b78663518db2b8f83f97ac731008": "caffe: update 1.0_9 bottle.",
+    "8030615f8629075085817b605279e1d90980d0dd": "caffe: revision for protobuf",
     "204a8bb5af845be0b2b1ac19b00d3114ad19275f": "caffe: remove checks for old compilers.",
     "21b61b8c7265333c1999a50ff4115ee036545dcc": "caffe: update 1.0_8 bottle.",
     "0c72a6ee4af451d5f0c63139bd5a4431c7509985": "caffe: revision for opencv",

@@ -1,4 +1,6 @@
 {
+    "a119440df68243ba297f51f029a939ce6d6db1f4": "freeipmi: update 1.6.3 bottle.",
+    "42381ea39b38fa952093381f9b5751cadef27718": "freeipmi 1.6.3",
     "c438fcfccb8cd7c9a7f64644c4f2199683a3219f": "freeipmi: update 1.6.2 bottle.",
     "9cf11cebc948a3b02f842f739e74541fb2d0e1c4": "freeipmi: fix Mojave build",
     "a8460c426e067dfe7f422a62a16c6b5863f47fd4": "freeipmi: update 1.6.2 bottle.",

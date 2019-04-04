@@ -1,4 +1,6 @@
 {
+    "c30aa75391fbc773cb987fb453894594d5149a1d": "openssl: update 1.0.2r bottle.",
+    "05132d775aaf550873f627c971927678dd8d6117": "openssl 1.0.2r",
     "63063c790f814ff24a6d66631b7174f59e2dbeaa": "openssl: remove HTTP URLs.",
     "2d29e397b8c3a02c8c66a6dfda5710fbdd6bb9fb": "openssl: remove references to pre-Mavericks.",
     "e5dca7c4ac8d880a86b4a9eebe42b4751160aa33": "openssl: remove old code.",

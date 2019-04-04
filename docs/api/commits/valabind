@@ -1,4 +1,6 @@
 {
+    "079894d2436e99cdffccd409635a93b0e19544f8": "valabind: update 1.7.1_1 bottle.",
+    "5fde77a536b77db806f2fc3260dea81833cb86d8": "valabind: bump revision for vala",
     "e665ec98308c826c042beb736fb5ae0d45e63ffc": "valabind: update 1.7.1 bottle.",
     "32eb9749bad0ffeba0442f625a4484095817594c": "valabind 1.7.1",
     "2e42a3431424fc9ec6f025742985e28da5b99151": "valabind: update 1.6.0_1 bottle.",

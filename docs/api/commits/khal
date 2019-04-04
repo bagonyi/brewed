@@ -1,4 +1,6 @@
 {
+    "cd6e96ecfc90553114ed56bd4ed4429e7cb72350": "khal: update 0.10.0 bottle.",
+    "a4b9d2a520b2448f99309d9e8f2aac8abf35254c": "khal 0.10.0",
     "b2620bb1f9cc99c80e0272a9ffb1e105c1113b25": "khal: fix RuboCop Layout/AlignHash.",
     "fddf850cd635b9976655c4837575f69dc41027df": "khal: update 0.9.10 bottle.",
     "33f552a66f26defc552ac1680368d86223429025": "khal 0.9.10",

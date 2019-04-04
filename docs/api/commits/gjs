@@ -1,4 +1,6 @@
 {
+    "255c87af5008ce1e2d35492f7986f02fe260984d": "gjs: update 1.56.0 bottle.",
+    "4b3e1623fc9ffc9628853f6ec1fd3b979af69875": "gjs 1.56.0",
     "6b60e21680a1f47adf3f382ee0b6bc695afb2456": "gjs: remove checks for old compilers.",
     "ca417174585eaffdf80984d81383e6ecafc07bc9": "gjs: update 1.54.3_2 bottle.",
     "fcb92e60bf73ee6e600e0816291df8633d6b0a93": "gjs: revision for readline",

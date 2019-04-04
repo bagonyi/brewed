@@ -1,4 +1,6 @@
 {
+    "7332e8cfea890d3be2ede1c4a5aeb75aac63ea08": "golang-migrate: update 4.2.5 bottle.",
+    "e481586c8314dc1fba707bf0cd75be4507497d6f": "golang-migrate 4.2.5",
     "1cda0355abc490136149f5372556d8de65593c99": "golang-migrate: update 4.2.2 bottle.",
     "594fb7a06310b168cb446f84b7a79549590a0851": "golang-migrate 4.2.2",
     "312a35a88ea53aee98e5ce49720938848f844dad": "golang-migrate: update 4.2.1 bottle.",

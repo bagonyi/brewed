@@ -1,4 +1,6 @@
 {
+    "3d9105316049501c05d1e3dbf433960df1bc3836": "fuse-emulator: update 1.5.6 bottle.",
+    "3378a9877a09e8c300b61bf07c2242b9dfab6bb2": "fuse-emulator 1.5.6",
     "54b1f4ccbad6e0c64de0e4cab09682bbc50931af": "fuse-emulator: restore https for svn url(s)",
     "79d02e82979ed5c2a45401c0dcfdb43686fa1365": "fuse-emulator: fix dependency order",
     "5e005cf11a9609efcf9f25c5ff73db9ba9586c41": "fuse-emulator: adjust svn URL",

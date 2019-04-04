@@ -1,4 +1,6 @@
 {
+    "6f683fc820b539dd082257de8dec5a10bf263922": "dropbear: update 2019.78 bottle.",
+    "67101a67bd49dc4e227c66dc15e66a69dff98a19": "dropbear 2019.78",
     "530538663c985b30c7527a9ae89b430c96e37f73": "dropbear: fix dependency order",
     "1b91a2eb1921da4f07dbabe26092651f92fa644a": "dropbear: secure url(s)",
     "844cf3f03921bc5ad86602f7c55f357333ae6cb6": "dropbear: update 2018.76_1 bottle.",

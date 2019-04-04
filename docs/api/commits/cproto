@@ -1,4 +1,6 @@
 {
+    "1389aa4c51e4c405afca5aa7002fbdcca14f7563": "cproto: update 4.7o bottle.",
+    "44a307b9d79a3d043e878d44668c1be07be387cd": "cproto 4.7o",
     "93965599ffe83104f48cdf9fc6c5f0aa6a890721": "cproto: remove references to pre-Mavericks.",
     "b775ef792f1c8aa1514a40f1cef9f5cb10e484aa": "cproto: update 4.7m bottle.",
     "39a991ab21c844b426f6d4a04296f041bed32c8a": "cproto: secure url(s)",

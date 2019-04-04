@@ -1,4 +1,6 @@
 {
+    "daf6425d44eed21b5e2b2a471cf097345d0c8938": "tmux-xpanes 4.1.0",
+    "c3ed0f6a59e91eab0e38c58fa06aad68eeb07950": "tmux-xpanes 4.0.0",
     "455b1f296c6a60fe511ca89dab264e802f6e39ac": "tmux-xpanes 3.1.1 (#37054)",
     "bff1c8bbe262c78531f00f7cf7742c60240e8973": "tmux-xpanes: remove options",
     "2ddc180ae63870e608b43234f6fea1c53de7ab23": "tmux-xpanes 3.1.0 (#30750)",

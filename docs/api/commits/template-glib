@@ -1,4 +1,6 @@
 {
+    "529a4065758d69ac5e9f62dda525f9aa90813c02": "template-glib: update 3.32.0 bottle.",
+    "f04989ae412e44541fd60e10c1306092c1bf3a11": "template-glib 3.32.0",
     "6fa2094d50b362910fdc5c7f3cc6cde87528b716": "template-glib: update 3.30.0 bottle.",
     "f5f3523b634c4f02225e7f144d4537332a267768": "template-glib 3.30.0",
     "b8ce8fc0f0cca35fb8e3c64a728562dd9f62be66": "template-glib: update 3.28.0 bottle.",

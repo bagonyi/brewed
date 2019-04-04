@@ -1,4 +1,5 @@
 {
+    "c555d6ebca084169b9985b1b7c612b865945fe8d": "bochs: add missing dependency (#38267)",
     "97547d875721ab48145f49634dc454c8ebe3d8e7": "bochs: update 2.6.9_2 bottle.",
     "330b0510ea64dd54a6b630f16b4a5aff3f2d0dd2": "bochs: remove options",
     "25f30c1c8b50040fd2abda6a6567acfdd44e4035": "bochs: update 2.6.9_2 bottle.",

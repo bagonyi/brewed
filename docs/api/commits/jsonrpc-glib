@@ -1,4 +1,6 @@
 {
+    "92891e352e6c79ee441c937bf00563ed5e929d2a": "jsonrpc-glib: update 3.32.0 bottle.",
+    "1599775f4bd98137b21136d6ec1b893d877fcdce": "jsonrpc-glib 3.32.0",
     "d848813252896450239b5155c74046d9be6031a6": "jsonrpc-glib: update 3.30.1 bottle.",
     "467b28b2dbe874453b289ac919d9eb7510d0316c": "jsonrpc-glib: build vapi",
     "828c5aac1c38a68319b9d9798b808dd4639a558a": "jsonrpc-glib: update 3.30.1 bottle.",

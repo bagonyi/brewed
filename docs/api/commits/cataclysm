@@ -1,4 +1,7 @@
 {
+    "7c7c31e69bb7ec0564012c3b290707cd816106e4": "cataclysm: remove lua in HEAD (#38112)",
+    "b5fed7744cafd28325b54d4208052013ed1ab6db": "cataclysm: update 0.D bottle.",
+    "8f5c66c7434aca473a35ef2b1af2fe3e6aeafb63": "cataclysm 0.D",
     "4b3453e2c76be46e7f93a1a15bdfdf31ffc5f543": "cataclysm: remove checks for old compilers.",
     "e5fc295da217d6e5a71a862a9195d6dc12dc1d0c": "cataclysm: fix component order",
     "57501b6d2c01cc75a8b41be00dcae01e36f1988c": "cataclysm: update 0.C_1 bottle.",

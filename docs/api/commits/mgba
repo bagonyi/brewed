@@ -1,4 +1,6 @@
 {
+    "0bd7ca0bae2c5ce8ce10898d00362cc9114ed4b8": "mgba: update 0.7.1 bottle.",
+    "368f7e2b77bd9d2224b2f6855448e2fc9298cf2c": "mgba 0.7.1",
     "6ab7e34b6ca6422e6d97735f42a128d14d24877d": "mgba: update 0.6.3_2 bottle.",
     "993e7ea499f94f2b6b19ea464f8e1acb241f0800": "mgba: fix build with Qt 5.11.0 (#29056)",
     "f25c87c6d8971ee3a1d161d708d65ee14a289ee9": "mgba: update 0.6.3_2 bottle.",

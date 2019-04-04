@@ -1,4 +1,7 @@
 {
+    "f5a019b5d9eaddb171b12235287b49fd083a9690": "hledger: update 1.14.1 bottle.",
+    "0d922cf09ce4344db4996c32060233cc8b58d424": "hledger 1.14.1",
+    "5eb0c53612905215f18658818ae75cc565c6774f": "hledger: secure url(s)",
     "7bfb1882d78c3b940c9873f5b4b2274a4509c5c1": "hledger: update 1.13.2 bottle.",
     "bdb66ff8edeb9d84f331b209fcd10bc87bb587af": "hledger 1.13.2",
     "f3f3777caad040a5086ceef619519cccdd7c4437": "hledger: update 1.11.1 bottle.",

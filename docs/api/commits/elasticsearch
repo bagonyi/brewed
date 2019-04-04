@@ -1,4 +1,8 @@
 {
+    "df429ea9caa91554789f9e39d2e7ffcaef665589": "elasticsearch 6.7.0 (#38430)",
+    "cbfae130be00ead7a3679bd94583dd7efef9a40a": "elasticsearch 6.6.2 (#37939)",
+    "b19cfc64634eb839827f283f96acb3b73ea14d6b": "elasticsearch 6.6.1",
+    "de68c83e4bfca3a55f80f02f2843cf9045d2cc3f": "elasticsearch: make postinstall rerunnable",
     "7149961076cee85cfcf307b43997c7b95d21d07e": "elasticsearch: use oss version",
     "98017e7ff3e43e394280946eda8003479e1e7be7": "elasticsearch 6.6.0",
     "a407735155c03fd551378c5496c66e4bdadad933": "elasticsearch 6.5.4",

@@ -1,4 +1,5 @@
 {
+    "1aa2de98901f46c33e7e8f7167110a6d335f5107": "nasm: fix HEAD (#38003)",
     "0ff090bfdcf3fe96c105cf0bec828337827d0fd2": "nasm: update 2.14.02 bottle.",
     "5a74f96c1a7ae0cbeb444e1ffd9b55ed7fafe955": "nasm 2.14.02",
     "29be66b9a96ae6e76424d8c07c1c60496a1c6674": "nasm: update 2.14.01 bottle.",

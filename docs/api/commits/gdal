@@ -1,4 +1,12 @@
 {
+    "f8ac64c930a67354f02a7ef7a77929eb2f013737": "gdal: update 2.4.1 bottle.",
+    "e0d89b4d6936e36962cb80d8cab369ad2174b96d": "gdal 2.4.1",
+    "d850619e6c8dbbb29d9b2349b5b823f0548ab769": "gdal: update 2.4.0_3 bottle.",
+    "80f2908d0f14664fcb2c65ff0d0dd672da515f53": "gdal: revision for netcdf",
+    "4e3e00adffad530d15035181c2d86ccf962b1e28": "gdal: update 2.4.0_2 bottle.",
+    "d9ddb38c247ebb63c7388c0dcfe9581c3dfef874": "gdal: revision for proj",
+    "b600ecaa2da92f890b492cce98f6f32d9cdf3992": "gdal: update 2.4.0_1 bottle.",
+    "5d4faccb2b9cd6c59184a460dad5d60028a98f4b": "gdal: revision bump for hdf5",
     "157558848835755f77e5673282c7c4bd7b97d26b": "gdal: use --with-proj instead of deprecated flag",
     "fab353d56746e7688c66160f1e6139c10bd04bdf": "gdal: update 2.4.0 bottle.",
     "182570bcc1d5c589db6811ead8e805daf56390da": "gdal 2.4.0",

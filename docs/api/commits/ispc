@@ -1,4 +1,6 @@
 {
+    "8536aae57d84111dccb40996464c0e0efebf62b0": "ispc: update 1.10.0 bottle.",
+    "5c39b562ebe2fcb677ddc509b8f25d4769081505": "ispc 1.10.0",
     "ca6406087d9dd3883b5539c3b31b531cdc3830a4": "ispc: update 1.9.2_1 bottle.",
     "f442d346621041513da6b488efa39b9c9939ab82": "ispc: add 1.9.2_1 bottle.",
     "9bae48941e396bd8546e25ef24d802fcda92d35a": "ispc: build from source",

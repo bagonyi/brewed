@@ -1,4 +1,6 @@
 {
+    "9c14a29a76b5cf26941e54b119b83ce09d74019b": "libtensorflow: update 1.13.1 bottle.",
+    "73eead0c7bb7d5b8dd82114c05e721e3d5054851": "libtensorflow 1.13.1",
     "dabec31c32fe2c351dadf20c41a3b1b76b44e260": "libtensorflow: update 1.12.0 bottle.",
     "d378a495c7f6e8f889c20a00b1dc955eecfb73d3": "libtensorflow 1.12.0",
     "62a4f44e4bc652fe40555d0a234e31858bfe3605": "libtensorflow: update 1.11.0 bottle.",

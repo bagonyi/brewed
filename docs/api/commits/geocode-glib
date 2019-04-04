@@ -1,4 +1,8 @@
 {
+    "9b12da4ae9feea5589ff87ba154124fac50304bd": "geocode-glib: update 3.26.1 bottle.",
+    "202539adbec9d8069566370aeb9252d41e6170d9": "geocode-glib 3.26.1",
+    "912d73ae0e5e38162e1dce53e5a53bb060d78da8": "geocode-glib: update 3.26.0 bottle.",
+    "7e5f5a3df5b140d4fa6e9666ce64ef8f37e5bd41": "geocode-glib 3.26.0",
     "516191d47e0b62cc1218c7e03b3da91be51f53df": "geocode-glib: update 3.24.0_1 bottle.",
     "7eaf72cc5af126de28021f91c65eaa6fbb70d812": "geocode-glib: update 3.24.0_1 bottle.",
     "262bf0c6988535b6dc9c93eeaaf250373ccf4809": "geocode-glib: make gobject-introspection build-time dependency",

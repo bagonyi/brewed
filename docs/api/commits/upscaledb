@@ -1,4 +1,6 @@
 {
+    "9e63bef84dd53261ce7d819cab0ad6849927ba29": "upscaledb: update 2.2.0_11 bottle.",
+    "75cd1adeca09df69f030f55991d11921aee38cd7": "upscaledb: revision for boost",
     "c94b68b5958d2adbbb50b3e96a733349a289a583": "upscaledb: remove checks for old compilers.",
     "0ebe47918b41f21861da39a6babd2e761aea0d78": "upscaledb: update 2.2.0_10 bottle.",
     "54fbae4493b6050230388647fc23489e303f94a4": "upscaledb: revision for boost",

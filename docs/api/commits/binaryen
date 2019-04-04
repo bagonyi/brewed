@@ -1,4 +1,12 @@
 {
+    "6b886a249f672be081b464f360987817342a3d25": "binaryen: update 73 bottle.",
+    "626b6fcf969e580af2cc4890be4e2973271d951c": "binaryen 73",
+    "c0f8f1629e8d28deda4b1bccc1c47d65dcafaa78": "binaryen: update 72 bottle.",
+    "a6d0729ae25c20001c37bf402440d22f6bb5902f": "binaryen 72",
+    "ae8e2111b12e77cc0e8b8c1712c16beb61653e77": "binaryen: update 71 bottle.",
+    "cd1b10d0b7ba3c40a40387701870fec6e880f9c1": "binaryen 71",
+    "7fa34a298ecdf3a89aa84c2bcbd0d212f89b0750": "binaryen: update 68 bottle.",
+    "7eb58dada4e138587f8f3847d846b7ca4cadbcfa": "binaryen 68",
     "cfd63d5bb34b82fd05c33fbf3b3a1e380e55c247": "binaryen: update 66 bottle.",
     "74747fe194b1f1e8c507a98d14fd9b95faafb69a": "binaryen 66",
     "16ada1de5f18b358e93f5dc01f8c84d1eeccf788": "binaryen: remove checks for old compilers.",

@@ -1,4 +1,6 @@
 {
+    "5bc841fcb04d238a56d9881c0dd7bf71a822c8b1": "libbitcoin-explorer: update 3.5.0_5 bottle.",
+    "3b37dd1aeba8b549a9e4cf537cd68ebd2212c0a5": "libbitcoin-explorer: revision for boost",
     "204cc3b670329e014aa01562e850c2d32a2bd51d": "libbitcoin-explorer: update 3.5.0_4 bottle.",
     "908b0922d3626a50f7d50d61b05d109446597303": "libbitcoin-explorer: revision for boost",
     "5f0d0c3f6fe5299a33c96dd1e54cf7ed476e990f": "libbitcoin-explorer: update 3.5.0_3 bottle.",

@@ -1,4 +1,8 @@
 {
+    "d75f314198afe8bd1805b7d4d5666e5078cc1b08": "amqp-cpp: update 4.1.4 bottle.",
+    "1003fd86c5c3adb919602bff14ece78027233b30": "amqp-cpp 4.1.4",
+    "60767c3907fc9f33d58ef4555413a8171cd28bce": "amqp-cpp: update 4.1.3 bottle.",
+    "8a7f90132d96c3aaa3c926281227869ada5d80a0": "amqp-cpp 4.1.3",
     "b351abf22da83fadd665352d868c55f551961530": "amqp-cpp: remove checks for old compilers.",
     "61f955cbba56f91d6408ecd6822e3361eccb4101": "amqp-cpp: update 4.1.1 bottle.",
     "f7d057f28208b6f3e15fa5482270178799611da0": "amqp-cpp 4.1.1",

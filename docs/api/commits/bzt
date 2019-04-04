@@ -1,4 +1,10 @@
 {
+    "bd021ccaeb92e87abb5001441e68a00629f55dce": "bzt: update 1.13.4 bottle.",
+    "f671f39a4d6edd808081eb0929e0c1559341b439": "bzt 1.13.4",
+    "48952baf847ac4c1f8d8355c3e4c5ebe6ace53a8": "bzt: fix test",
+    "db14d6a50bb08ed20d5764ee18a8567ed7959938": "bzt: restore https for homepage and test",
+    "273eacf317735c25c8e633de96dc52a6556b8027": "bzt: update 1.13.3 bottle.",
+    "46f42a07f90f231ac67f1d826de09157bc5bb1d3": "bzt 1.13.3",
     "e27422dcd5a3b9056ac533818b7e4b18ffe60252": "bzt: update 1.13.2_1 bottle.",
     "87554564182cd088ddd2484ba1b5469783d5a81e": "bzt: move to Python 3",
     "0ab12be6f5f41ae92ea677fce92ca81dae069749": "bzt: update 1.13.2 bottle.",

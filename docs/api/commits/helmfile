@@ -1,4 +1,10 @@
 {
+    "711cb6c48f3b11f6c5d8e31f37cbd9284d7ba2eb": "helmfile: update 0.47.0 bottle.",
+    "ec97bef10500ed6d168678781eb244bbaf3b8310": "helmfile 0.47.0",
+    "70992a5db61d58a2a14708639e06b23399c3591c": "helmfile: update 0.46.2 bottle.",
+    "77e7a96b3125efcfe21123af164f27c9637c596f": "helmfile 0.46.2",
+    "19353e54e9dd6958eb78b3004b8e0ec66845b930": "helmfile: update 0.45.3 bottle.",
+    "6dc8050df17283a84a73cd2190260459e7b11019": "helmfile 0.45.3",
     "76955b971c99975984d7adf9591dcc67bca9b2a3": "helmfile: update 0.45.2 bottle.",
     "b449cc2d22fb5103a31488a78830068356c27834": "helmfile 0.45.2",
     "737883b2b1ea6d025544d39bc307c0da32dbfe2f": "helmfile: update 0.43.2 bottle.",

@@ -1,4 +1,6 @@
 {
+    "d6cb19f1679bd8f039cd5a1ef582154959a9f8d8": "anycable-go: update 0.6.2 bottle.",
+    "280ed6a26d58f5d2f931228204e3c07bb6ce8caa": "anycable-go 0.6.2",
     "d795f4a0f5497d64eb1d8f4fd80b35f0b7c8a73e": "anycable-go: add 0.6.1 bottle.",
     "f31a8d1abcbb174548d494cbe46002740a3f8e81": "anycable-go 0.6.1 (new formula)"
 }

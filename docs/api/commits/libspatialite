@@ -1,4 +1,6 @@
 {
+    "1bbba12ca10e05e7194a6233d4bf5bf56677939f": "libspatialite: update 4.3.0a_7 bottle.",
+    "37563b42266f9455d751e2ac7d2b2114e4c8c393": "libspatialite: revision for proj",
     "835ae521c065524abdf66578e68032fa24bce514": "libspatialite: remove options",
     "09ee353e30d437de9cef362f1787432cd178fbda": "libspatialite: update 4.3.0a_6 bottle.",
     "20ee7ff71d537bf4d8148b891236f49000eb676c": "libspatialite: update 4.3.0a_6 bottle.",

@@ -1,4 +1,8 @@
 {
+    "609469db3dc21c7914e8f5d53b9afe74babd5d8a": "kubeprod: update 1.2.0 bottle.",
+    "e1fbb1e60f68ccd113c4c84b5501479c367235f9": "kubeprod 1.2.0",
+    "5586214830894b3b84be367aa40d855cb7392d4c": "kubeprod: update 1.1.2 bottle.",
+    "3f2efacd36aba5d123b7f1f53d0ae4cac1c0e87b": "kubeprod 1.1.2",
     "b55f3711d3d15c722be798ebbec1cfba0142d2bf": "kubeprod: update 1.1.1 bottle.",
     "38b195d34c3ab393df7feed4c5b424574f762291": "kubeprod 1.1.1",
     "4db11f30f353561251a079bfb6df08a7f7e4aaa0": "kubeprod: add 1.1.0 bottle.",

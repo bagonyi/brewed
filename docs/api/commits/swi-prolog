@@ -1,4 +1,6 @@
 {
+    "b83b440d7d40e13b3cf709203ed6092cfc4f1e11": "swi-prolog: update 8.0.2 bottle.",
+    "5991f57755ac0a53c197ffdb8bc80a8d3d21548c": "swi-prolog 8.0.2",
     "09a94009142a6265b0b8e322463100610aeda964": "swi-prolog: update 7.6.4_1 bottle.",
     "3425e8ffb37394da1d2c7d0a6519297d782c8ec9": "swi-prolog: remove options, fix head",
     "71cbe12488b1087285a9d506561d3a7af6e05c01": "swi-prolog: remove devel spec",

@@ -1,4 +1,8 @@
 {
+    "c3a105c41a8f8be942bf97554466af236c2fac72": "kubernetes-helm: update 2.13.1 bottle.",
+    "fd2c01c0cd6ba9a32c5a84b9b914debd077c7498": "kubernetes-helm 2.13.1",
+    "ed9dcb2cb455a816f744c3ad4ab5c18a0d335763": "kubernetes-helm: update 2.13.0 bottle.",
+    "a55a387ba0a45ebc06b47e106cd39ac94e56c2bf": "kubernetes-helm 2.13.0",
     "869efd7bc843ac82a4d7f46753cb5a9c5c3949b2": "kubernetes-helm: update 2.12.3 bottle.",
     "39532fd81f267961177d8aaeba68f7056e91f78b": "kubernetes-helm 2.12.3",
     "e046a932a36345bf90398a19272e57c7fc640494": "kubernetes-helm: update 2.12.2 bottle.",

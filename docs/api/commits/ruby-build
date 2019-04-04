@@ -1,4 +1,7 @@
 {
+    "24c1729b66700aa09973dbdc48c4d2c91a0c0f76": "ruby-build 20190401",
+    "cf0721f6aef4b3f46f6d93bcfb4f3415554fe3cf": "ruby-build 20190320 (#38091)",
+    "d78f6f37813a44312bc56a72ad7fce6185d68c97": "ruby-build 20190314",
     "46df47d317d207d8ffd4df000c5fcc005a1e0997": "ruby-build 20190130",
     "92af2775fd60a613cae8f1c8f1b0e5eef97a2db9": "ruby-build 20181225",
     "69a9b8fdf1310a73c465e45fd6b9fd2ae9baf541": "ruby-build 20181207 (#34866)",

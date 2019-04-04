@@ -1,4 +1,6 @@
 {
+    "53f84a655f54b2f1c8459b1ea8540dc5766280ee": "afflib: update 3.7.18 bottle.",
+    "f5ac9955609a95c596690535358ee605f7dfeee4": "afflib 3.7.18",
     "c47b738158708c64d5ec4e73a4f1bf83a396b025": "afflib: remove options",
     "24d7907eaecb8e913fe812195c14239345c68080": "afflib: update 3.7.17_1 bottle.",
     "42055c4d1f78652dbd87820fed70f7dc40212462": "afflib: revision for readline",

@@ -1,4 +1,6 @@
 {
+    "6a64bff6116e6fddce52cc0974d496f63728fdd3": "spatialite-gui: update 1.7.1_5 bottle.",
+    "6a12d6d4dd4730830bc4ccc2a9d780ac38a376ff": "spatialite-gui: revision and fix for proj",
     "a72376aae937aebffcc949056d5ffcd5186bffe3": "spatialite-gui: update 1.7.1_4 bottle.",
     "048b2722b933821ff501b8c399ce0ef4f93fd7c6": "spatialite-gui: secure url(s)",
     "44078f0d8da24fab0c704ff4883a7cce53a336c5": "spatialite-gui: update 1.7.1_4 bottle.",

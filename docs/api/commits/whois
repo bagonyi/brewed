@@ -1,4 +1,6 @@
 {
+    "25b6a8a48550213e4cfcd2a1150cac86fb1cacb9": "whois: update 5.4.2 bottle.",
+    "a1f5803a98ba989bbcc79e525737091f67f491dc": "whois 5.4.2",
     "815b8d54f1bcccc81089bdc0929b20870afc7964": "whois: update 5.4.1_1 bottle.",
     "84e0db5aa6b89e284c2e50791579d5364e7e1c96": "whois: revision for libidn2",
     "a5fb6fe1eda3991f3b02f19196c2a40093480bb1": "whois: update 5.4.1 bottle.",

@@ -1,4 +1,6 @@
 {
+    "27c58b33406ea4e680afbafe761572b8b69934ac": "cfengine: update 3.12.1 bottle.",
+    "5913408568020a2cfdc7ccb3b1500852b365ed56": "cfengine 3.12.1",
     "28cc8448a750c99194d6bd5d15ba6605c8b9d9d0": "cfengine: remove references to pre-Mavericks.",
     "b189040e66097b2c454d005e3003a5ba0fdb937e": "cfengine: fix dependency order",
     "c35f2aa97901ac9df0454f204d3f3688c34d2e4a": "cfengine: update 3.12.0 bottle.",

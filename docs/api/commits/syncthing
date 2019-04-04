@@ -1,4 +1,8 @@
 {
+    "80f34214324edfe3da0a5fe3e54e1cb1ca362a07": "syncthing: update 1.1.1 bottle.",
+    "4563f63b9ddacb7bc1ff695713c20b40bd01bf51": "syncthing 1.1.1",
+    "8824d5b6f8d3427c2cf0c6868715099ad9de131e": "syncthing: update 1.1.0 bottle.",
+    "a195486de686002c480eca1e232a8b39d567c915": "syncthing 1.1.0",
     "e654012c4a620388da3c574cad7fd84f3186271a": "syncthing: update 1.0.1 bottle.",
     "ae3dfd23f04546305ae807cb30044dd2b6622a75": "syncthing 1.0.1",
     "2213143485de3cc0da529620a6c34421c431c240": "syncthing: update 1.0.0 bottle.",

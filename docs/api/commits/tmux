@@ -1,4 +1,6 @@
 {
+    "b3bd700d9fc53fa153c884b0ea613822de1f375c": "tmux: update 2.8_1 bottle.",
+    "a55adc5bdf785cb351582495d5aa0b1aa05f6ce8": "tmux: use ncurses",
     "60b80cf6cd4028adbedb08fd23d450d52505c43b": "Merge pull request #36218 from MikeMcQuaid/tmux-remove-options",
     "6aadb50f0c54fa8cf55beac662d4114445f1e1f9": "tmux: update 2.8 bottle.",
     "9d2ab46c92cc88470b1c54f5da2d0a1595188533": "tmux 2.8",

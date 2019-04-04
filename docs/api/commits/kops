@@ -1,4 +1,6 @@
 {
+    "5a622d000cf3845d0d4d82abc328ab863ed92518": "kops: update 1.11.1 bottle.",
+    "42d32ad2047344aa17905f247b1ad426ca83bae6": "kops 1.11.1",
     "cdd300041b3564dc49503a1164aa2245d27ad937": "kops: update 1.11.0 bottle.",
     "663f7770233bf74f235606061d331105015419c2": "kops 1.11.0",
     "f4efb01c4eaf1fb185086d0dd86b0d3882a4ae7a": "kops: update 1.10.1 bottle.",

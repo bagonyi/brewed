@@ -1,4 +1,6 @@
 {
+    "e1c8c77fb6af216c1faad5298707f1a7a641c3be": "consul-template: update 0.20.0 bottle.",
+    "73826a13bd415d5ee6f2b7f3b0097189c1446b99": "consul-template 0.20.0",
     "e36a2e87de77c6cdff00ba6186eeb72ba4b4c4a4": "consul-template: remove old code.",
     "b0429b3a6100838a5e357c8795e04be7dab135d7": "consul-template: fix RuboCop Layout/AlignHash.",
     "04c343914855fe41274f5498e75f3b36d3c12b02": "consul-template: update 0.19.5 bottle.",

@@ -1,4 +1,10 @@
 {
+    "33129c029f7889ba1798b28a1e9c41cc1eef1f10": "gmt: update 5.4.5_3 bottle.",
+    "8e0f1b5c385924d45d3e84fa9a46d2ed35c70123": "gmt: revision for netcdf",
+    "75048b01cc468cddbd5e5be751190e07136346be": "gmt: update 5.4.5_2 bottle.",
+    "255e653e68dbfe0b6a84ab211b3360f1dd9339fa": "gmt: revision for proj",
+    "6e4288aee4a591bd1665913438fe361648492ff9": "gmt: update 5.4.5_1 bottle.",
+    "fb6da30918efa255dc82899b75bd12f25ce3975a": "gmt: revision bump for hdf5",
     "de24acae30479e0c98927a2cee7e5d0723f5ef59": "gmt: update 5.4.5 bottle.",
     "1d362249973307ebcd4fdffcccc5ad6161e06b86": "gmt 5.4.5",
     "44d47d9aca7ec994ba31b00559f2e2273cf819f8": "gmt: update 5.4.4_2 bottle.",

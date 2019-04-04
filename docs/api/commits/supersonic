@@ -1,4 +1,8 @@
 {
+    "b0bc6c8b41105f573807202628bc77ac3d468d86": "supersonic: update 0.9.4_11 bottle.",
+    "77488eeb422507269766f9b22e6f9005bbb76c47": "supersonic: revision for glog",
+    "df7b8f96ba29687d37ab35be491c4b5a02351014": "supersonic: update 0.9.4_10 bottle.",
+    "e810142d7059b5de7e5141be32696f5ded7512fe": "supersonic: use protobuf@3.1",
     "d9f4963664eb35d5e674b67f30240e8dea0310ae": "supersonic: remove checks for old compilers.",
     "bd40643ce9e1d0c75742801be7609cdf8c1c1a8e": "supersonic: fix dependency order",
     "38f9034d904a7e0bcf79f934a01cf63946a19d8e": "supersonic: update 0.9.4_9 bottle.",

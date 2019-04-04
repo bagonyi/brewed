@@ -1,4 +1,8 @@
 {
+    "2dd1d908dbdaa548ef77169b9890fee18fdff229": "hadolint: update 1.16.3 bottle.",
+    "640c3d0369d087f4e29230d56fd05afc94af8f57": "hadolint 1.16.3",
+    "c42c58af525ea40419066551e96418fa680bef27": "hadolint: update 1.16.2 bottle.",
+    "4d3e039101e324266759445a90e2b4892cc2a1bf": "hadolint 1.16.2",
     "6b37ec8021cc03640cbbf565426312323b0f48a6": "hadolint: update 1.16.0 bottle.",
     "b6d7fe7bb76de7161ac1379442dc1b976420cd83": "hadolint 1.16.0",
     "74473d9ce5b6318fd775c028c622c11b7688ee58": "hadolint: update 1.15.0 bottle.",

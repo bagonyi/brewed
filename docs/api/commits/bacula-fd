@@ -1,4 +1,6 @@
 {
+    "ced2792ed9bc5e9908f81f644b1867ed9e1a6ccd": "bacula-fd: update 9.4.2 bottle.",
+    "f569444943968b031daff92791ca4877a78df0fa": "bacula-fd 9.4.2",
     "429049df496d3b9413cf5b10cb3eafb963e2d2c9": "bacula-fd: update 9.2.0_1 bottle.",
     "77873c9fc9dc55462c130d0bca03d5ae5c662ac7": "bacula-fd: update 9.2.0_1 bottle.",
     "e31eebc0695d549af28dcbda82b55125e3fc5fd3": "bacula-fd: revision for readline",

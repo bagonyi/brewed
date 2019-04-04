@@ -1,4 +1,6 @@
 {
+    "02248b811552ce69c9869203c62f0d7d5c7d1e72": "ori: update 0.8.2 bottle.",
+    "30654825d6788b210efa864c0cdb1133b1ff87f9": "ori 0.8.2",
     "858037990d751cd5faa03317bd6f8abbaae2e20c": "ori: replace deprecated scons call.",
     "f7cbbf8fb7a99e31886067dfeb8a4de39df0e60f": "ori: update 0.8.1_1 bottle.",
     "2c20a235b8b1228ccbc89b7a5fcad602e36dba7d": "ori: remove SCons 3.0 build fix",

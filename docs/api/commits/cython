@@ -1,4 +1,6 @@
 {
+    "7227623b0ad61c675914f24f9df76e5a9ccdc6bb": "cython: update 0.29.6 bottle.",
+    "bbe3be91d56d3a9040d03f911ff027b4f9e6f186": "cython 0.29.6",
     "0dd9529d4a636f368e08683892143019ee026d9b": "cython: update 0.29.5 bottle.",
     "5d2f228d3263c5a3306db430d48581f49b0c11c6": "cython 0.29.5",
     "d333164ad9fe89211bb795181ec5f1ac4e251452": "cython: update 0.29.4 bottle.",

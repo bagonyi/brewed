@@ -1,4 +1,5 @@
 {
+    "89a3ab307d48b7ce5bb1ab1bcbeb437b36bc62a7": "gegl: secure url(s)",
     "436f49717e78d382fde8d38659eb633c1fc73482": "gegl: update 0.4.12 bottle.",
     "76d228deac3e9c784f25dfe02edcae42efb2dd1e": "gegl 0.4.12",
     "3f99f5b00462199efc896153b08ece78768650ea": "gegl: fix dependency order",

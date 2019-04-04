@@ -1,4 +1,5 @@
 {
+    "430b29f5bb19b527faf34da8b08d679a11e458e2": "cargo-completion 0.34.0",
     "0ca066bd74115f63a55d5ab2b47e3b80fec2cac2": "cargo-completion 0.33.0",
     "fe96795085a6e357a7aa0b5a2764ad0653bc0faa": "cargo-completion 0.32.0 (#34861)",
     "df3823571f60b1bede6de9b0a3ce62f662c6dc53": "cargo-completion 0.31.1",

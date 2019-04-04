@@ -1,4 +1,6 @@
 {
+    "7f68a1066738856e214c215ae59ea5e78dede4e0": "bwm-ng: update 0.6.2 bottle.",
+    "eb227ba53a3f960c09a8372ef7d68525723df0b3": "bwm-ng 0.6.2",
     "cec99c35f826e7879aedecb7b13342ab8ef07771": "bwm-ng: remove references to pre-Mavericks.",
     "0ce6243be23c5d77e3f0f26fa02e9eaf48028a37": "bwm-ng: fix dependency order",
     "f1b0690b40075fd28ff62b153a7c7f11561aeab2": "bwm-ng: update 0.6.1 bottle.",

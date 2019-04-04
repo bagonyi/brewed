@@ -1,4 +1,7 @@
 {
+    "9d98147a7562c8ef3fa6710facbdd6470ec83fec": "pcre: disable JIT pre Sierra (#37411)",
+    "9d5b4cf8c4447375153b783b90193eda5866cc33": "pcre: update 8.43 bottle.",
+    "a28532522ff12d29cc9dfa2d0db711a2be41c180": "pcre 8.43",
     "839adfb30f52a6e93d30d4fe2a8eb5f53f20dc4e": "pcre: fix dependency order",
     "5c8234138dacc6973df9ed092b593b2027068eac": "pcre: update 8.42 bottle.",
     "4a0c545d8ed20e3ec0baf10f9e6276380523f67a": "pcre: update 8.42 bottle.",

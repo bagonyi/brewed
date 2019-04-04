@@ -1,4 +1,6 @@
 {
+    "ded3866c531e51a9fff43f50a50b3fd35057ff09": "xtensor: update 0.19.4 bottle.",
+    "a422178b1d23ab6ac914f922597d66184ffd17d6": "xtensor 0.19.4",
     "f3d4cec222bc44c5d4ea7f188f11338d9d2d89bd": "xtensor: update 0.19.3 bottle.",
     "8780522e21efb072ba04482194296fd4c3f6e4d0": "xtensor 0.19.3",
     "425d332653b5019222dcb209512ddade5b7fabfa": "xtensor: remove checks for old compilers.",

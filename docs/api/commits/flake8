@@ -1,4 +1,6 @@
 {
+    "dc88cba2b47b10e43381adb7e20f8973600a2d9e": "flake8: update 3.7.7 bottle.",
+    "dabd1c30f40df6577bd0cc46708796cea40cf104": "flake8 3.7.7",
     "e408252fadd68472c3762531e8c249e88beed4d4": "flake8: update 3.7.6 bottle.",
     "e69074064f159ebacab491fd11e5dcc96077e081": "flake8 3.7.6",
     "5bacd1b180b8b07445c42b4bca5319bea09db8b0": "flake8: update 3.7.5 bottle.",

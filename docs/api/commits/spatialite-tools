@@ -1,4 +1,6 @@
 {
+    "80553c3b2ea7c41164fdc2947edefa5d21d8eeca": "spatialite-tools: update 4.3.0_4 bottle.",
+    "720d30d9b67f10c316ea7c99926a3be509675a63": "spatialite-tools: revision for proj",
     "671c23d29ae9ceeb750e8e8d18351ec5fa5794bc": "spatialite-tools: update 4.3.0_3 bottle.",
     "b8b0ad36321aae7fb821c3f2e941bc4ea65552e5": "spatialite-tools: revision for readline",
     "9b8e0e8233b56ed8f0c3f6145820d0786109776f": "spatialite-tools: update 4.3.0_2 bottle.",

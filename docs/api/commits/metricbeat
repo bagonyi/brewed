@@ -1,4 +1,8 @@
 {
+    "01a85985ed702b7bdcc434055279581a24448ffd": "metricbeat: update 6.7.0 bottle.",
+    "8fcd031fed7ab524dc7eaffe9035cc0cefbce317": "metricbeat 6.7.0",
+    "dedf3032c451ea19c8ef157fe722f4520f235a34": "metricbeat: update 6.6.1 bottle.",
+    "d9ec85ee3b5bdcdd5c6c9d722b36e5049601798b": "metricbeat 6.6.1",
     "c1ee93da7354dd9f3a3c4b275116d540bcfa62fe": "metricbeat: update 6.6.0 bottle.",
     "5813dbaca53d8719872cdd9b204269980a4e4bdc": "metricbeat 6.6.0",
     "862700f7bf36b54e81d3f7ad800d2ab48e502e9b": "metricbeat: update 6.2.4 bottle.",

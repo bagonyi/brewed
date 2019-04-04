@@ -1,4 +1,8 @@
 {
+    "724e52a50ff9a8d97f6b11c9e64e15517c962ab9": "ponyc: update 0.28.0 bottle.",
+    "bcd613deccd2473b273ef43bb73704c2e7ebe098": "ponyc 0.28.0",
+    "afdc50b849c9f94879560cd121fe94af4e1fb942": "ponyc: update 0.27.0 bottle.",
+    "fa1b3c78c393f3cd94329274f8dc45ee9feab496": "ponyc 0.27.0",
     "dc86b620b3a40d63720b53826bf8890bfbd38323": "ponyc: update 0.26.0 bottle.",
     "b216d6c64eeb0dc0d12e52de5bdda513b761ad3a": "ponyc 0.26.0",
     "412c4e8db403d99dad85db7874bef2b2bf6a405b": "ponyc: remove checks for old compilers.",

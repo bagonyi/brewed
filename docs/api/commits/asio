@@ -1,4 +1,6 @@
 {
+    "bda43c7faf3779bda2e47e309f7c349b5e06f4d7": "asio: update 1.12.2 bottle.",
+    "383a5a565b4fce8cd729cf246dbe34f47bc3022b": "asio 1.12.2",
     "72aca701103db5e3d3e57136d3b8b3cf2c21312f": "asio: fix rubocop 0.65.0 style.",
     "e3fb43c0c20dff22e3da5c0ed88af20f9b51510a": "asio: remove checks for old compilers.",
     "47c0808fc4dcc5b5e815d3a4c481e76ebf1c72d8": "asio: remove options",

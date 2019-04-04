@@ -1,4 +1,6 @@
 {
+    "4969d9c02e84a8ca97cafa6c0ad26b3b4803317b": "gtksourceview4: update 4.2.0 bottle.",
+    "9b62fd3ea5c92d3eb92379c855f66b0a7acafe6b": "gtksourceview4 4.2.0",
     "56a5aea75a9fc062f79a3017216cd60c68262697": "gtksourceview4: add 4.0.3 bottle.",
     "163f289a393d0c9d083b4203f45a4e938fdcc053": "gtksourceview4: rename from gtksourceview@4",
     "e7ab388de0992b7763e03f0b88a0c95b6eacd424": "gtksourceview@4: fix dependency order",

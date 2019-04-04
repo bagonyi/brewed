@@ -1,4 +1,6 @@
 {
+    "54536db010c62e55c347addff035b57c23eb857b": "liblcf: update 0.6.0 bottle.",
+    "8aad6074d5c6d574eba7e21ee7c2e01088fe1567": "liblcf 0.6.0",
     "869f5ea594d3048955ed9225ec0bffeab3364e97": "liblcf: update 0.5.4_1 bottle.",
     "b472cffdc2b48117bbda878e2e06de4c512b83fa": "liblcf: bump revision for icu4c",
     "27dd8f6db0969782119d15692fd7ac787a013252": "liblcf: update 0.5.4 bottle.",

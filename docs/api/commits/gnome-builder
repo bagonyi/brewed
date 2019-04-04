@@ -1,4 +1,6 @@
 {
+    "daf695f2d93000bbc275ae975632a19fb5bd00f4": "gnome-builder: update 3.30.3 bottle.",
+    "8ef7e4858f833ea9723e7c6976f8d42297019995": "gnome-builder 3.30.3",
     "a54177eafac095d23219c7f3168b34728d489159": "gnome-builder: remove checks for old compilers.",
     "075d0e3ca571aa3bbb73fc7567bb10b796fda922": "gnome-builder: fix dependency order",
     "e439e50f1055d00ed9cf801f856b3e4d34210af3": "gnome-builder: update 3.28.4 bottle.",

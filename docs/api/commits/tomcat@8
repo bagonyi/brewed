@@ -1,4 +1,5 @@
 {
+    "eeab1f32ce4c5b5f04d1ac70502749b8e46ce6ec": "tomcat@8 8.5.38 (#37876)",
     "81efc07e259bb3519f4344c4088bab0a8d6722da": "tomcat@8 8.5.37 (#35266)",
     "d0851406be9770f0c25db6f54198bf006cb10b8e": "tomcat@8 8.5.35",
     "afd0983eaa266337b9e28999c38d87ed7c8473be": "tomcat@8: remove with-fulldocs option",

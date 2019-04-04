@@ -1,4 +1,6 @@
 {
+    "3573cb58e14364abc3e88652d60cadff098008c3": "libpointing: update 1.0.8 bottle.",
+    "c41929bf41aba38fef86f7e0d2bd30c5138c7a56": "libpointing 1.0.8",
     "f58ba3a9a520cdff78b649e103fb7375544b787c": "libpointing: remove checks for old compilers.",
     "3ba9ab0afb408f0ddbeb1cda139434c28a21477e": "libpointing: secure/fix/follow url(s)",
     "f11fc4413b506f94f5ec4e9973ccfcdf5256f296": "libpointing: update 1.0.7 bottle.",

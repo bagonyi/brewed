@@ -1,4 +1,5 @@
 {
+    "0d035f5271e545f43df08fd5097e4cc73e17652d": "kube-ps1 0.7.0",
     "c31d4f4d699dcbdf26a70129ad77ba2b031a85dc": "kube-ps1: remove options",
     "f593cabc83cbc599467db9ed9ae9bf62bb6b56d9": "kube-ps1: fix instructions in caveats (#29133)",
     "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",

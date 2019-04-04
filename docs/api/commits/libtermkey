@@ -1,4 +1,6 @@
 {
+    "1fa8574a6b1f717356f7bb9e8f312cac1ef5acc3": "libtermkey: update 0.22 bottle.",
+    "c2bdb44bfd446f2228e373ce0cb0c28b9d523148": "libtermkey 0.22",
     "17be8fa8f6c17a3b5c98d0dd66675f86313f5649": "libtermkey: update 0.21.1_1 bottle.",
     "daca575b8e6376bc2faf895f6bd48d494ab76ca7": "libtermkey: depend on unibilium",
     "386ed0eee8f410c75cfc7bb4c30d5635a52bec00": "libtermkey: update 0.21.1 bottle.",

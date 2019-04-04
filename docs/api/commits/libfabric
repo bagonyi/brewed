@@ -1,4 +1,6 @@
 {
+    "25a1d5923caff671a986f20097947891e137b63b": "libfabric: update 1.7.0 bottle.",
+    "f118587152d805313bb353594fcb512d37c1d76c": "libfabric 1.7.0",
     "ed6fdee28da16885bd5762788096a659fc0fb3da": "libfabric: update 1.6.2 bottle.",
     "1f8f48556ec6af2588f738336def407bdb5efc07": "libfabric 1.6.2",
     "9510729c0d0e9c70bc60c1c78257f3ac35b8a737": "libfabric: update 1.6.1 bottle.",

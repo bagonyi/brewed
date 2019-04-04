@@ -1,4 +1,12 @@
 {
+    "590d8331e4585c536633fcee892872ebab12bc53": "erlang: update 21.3.2 bottle.",
+    "0cf17a8231dcf8e4eae473d1e98d7d42c9f74214": "erlang 21.3.2",
+    "608cc8f5a031b50cece7c10f0b9035f25907b924": "erlang: update 21.3 bottle.",
+    "e27b704d33762e33d977b79c2b46d60dcf4b7246": "erlang 21.3",
+    "9fa453df5e2f88ea034ed29ece43bfb3d5f3d50e": "erlang: update 21.2.7 bottle.",
+    "dfdde814e6e27468ee861885bba99c5ce944653c": "erlang 21.2.7",
+    "9166cc6bb0706503e7a0426f771dcef4cd11183d": "erlang: update 21.2.6 bottle.",
+    "26b12600c95b98769f00d7d2915cd1977183cba3": "erlang 21.2.6",
     "94f219002bf30cdc99dd9c39fb8627a55269869b": "erlang: update 21.2.4 bottle.",
     "6b861b56c4f4e9bc3959faf6d48f717f208359b1": "erlang 21.2.4",
     "3f205f4ef38a3305d244d759e9f18597e3c89bf2": "erlang: remove old code.",

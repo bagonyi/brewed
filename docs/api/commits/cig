@@ -1,4 +1,6 @@
 {
+    "d82bc64fc20c6f02ef7888e4bc8a69009238c869": "cig: update 0.1.5 bottle.",
+    "17d62a63c2e2422dd9d46bc72f691d009c5a3a70": "cig: use godep to load dependencies",
     "1a3321f8ffb211e36f2076bdd46b6c5458d97ae2": "cig: update 0.1.5 bottle.",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",
     "91818b35a4fbfecf4f8886ba88128cc0a87d91c1": "cig: update 0.1.5 bottle.",

@@ -1,4 +1,5 @@
 {
+    "41d40b4410f7aef13bbd9e416d63a13430a8ddbf": "libgda: secure url(s)",
     "049501036cc93d621d2216e1f6e408853cc456ad": "libgda: update 5.2.8_2 bottle.",
     "c884bfe5e8354a9472e9e4e8d68871fd2fcf616e": "libgda: use internal sqlite library",
     "7a7b477ce09e2d5d4be622ed518d326502689968": "libgda: update 5.2.8_1 bottle.",

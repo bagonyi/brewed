@@ -1,4 +1,10 @@
 {
+    "95c306fdfc543555bf348cedc235a1798363ae8f": "grafana: update 6.0.2 bottle.",
+    "d32e42def0e9f68cf8f28d083fc726abad6accb4": "grafana 6.0.2",
+    "e7b05c0388e38ad71004e0ef2683fe4ec8e3fb3c": "grafana: update 6.0.1 bottle.",
+    "c2d3cfe9bb3a155eb1a541918713559632487de0": "grafana 6.0.1",
+    "74d910eb2d6323279f884c6f410868e5353e413d": "grafana: update 6.0.0 bottle.",
+    "c30c2f39f61cbf0aa3690336d6733f59a0ad66a6": "grafana 6.0.0",
     "20c1ab432f2527509976b90964248201ffef2574": "grafana: reduce bottle deviations.",
     "2297948c59a22d5e0bd47266da096641fc4d32e5": "grafana: update 5.4.3 bottle.",
     "7f981864c19068ff5f514c5b52da4dca908f3a7d": "grafana 5.4.3",

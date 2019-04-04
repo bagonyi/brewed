@@ -1,4 +1,6 @@
 {
+    "8eb3b6a06163ad4d6ac1a45fba74edcacfcb808a": "dssim: update 2.10.0 bottle.",
+    "9588cd3888a74e8c16b9a2b9011320646ea2a61a": "dssim 2.10.0",
     "df999367872648342e2432a7873332e16a582084": "dssim: avoid cargo deprecated syntax warning",
     "3df060855c7c5825f154d11a5a094d537ee3a296": "dssim: update 2.9.7 bottle.",
     "60d43165a5998b4f295feae34827de97c8591f71": "dssim: use canonical repository URLs",

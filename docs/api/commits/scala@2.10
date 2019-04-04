@@ -1,4 +1,5 @@
 {
+    "6c3fbf76da5bf92c9ef4d9ee80803c1bc5856213": "scala@2.*: test without starting the fsc daemon (#37759)",
     "cb46078da4108aec9b5f7e601c9499906e439c91": "scala@2.10: remove options",
     "d2b14ed44fe2de4aab20828201671a88ec174260": "scala@2.10 2.10.7 (#24048)",
     "d4379b793492806f28171be76edb702969216697": "scala@2.10: require Java 8 specifically (#24041)",

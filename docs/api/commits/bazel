@@ -1,4 +1,10 @@
 {
+    "c029b0e62a3e06d420fe3c7439f3a7c7a275bc88": "bazel: update 0.23.2 bottle.",
+    "3763d4057c33702ecf000c1d5745bb30362beb56": "bazel 0.23.2",
+    "ca6b39ae991c21cb1d535527338dfaeef021d132": "bazel: add bottles",
+    "7a883c546440f6d11e32996fddb449a9d209ff95": "chore: bazel 0.23.1 (#37605)",
+    "bb5c62487b6b34327ff9998269eaabcfcb1bb75d": "bazel: update 0.23.0 bottle.",
+    "60d5556d6c2100b527f0a2ef7ebf850bc7ed1bff": "bazel 0.23.0",
     "9e51ad10547b36aca36e41bdb2b61f975d6f6c80": "bazel: update 0.22.0_1 bottle.",
     "cdea8af819c61e22e18c17c046a1293f91b57a4d": "bazel: fix build",
     "c03d71bbfb07c660d2f1851dfd2e5d06af6c11ae": "bazel: update 0.22.0 bottle.",

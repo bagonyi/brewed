@@ -1,4 +1,8 @@
 {
+    "ddde45fd579ff7b35855cb629d1ba28b386318e0": "dnscrypt-proxy: update 2.0.21 bottle.",
+    "e561d2459459e6f1912a4fe855246b3bf7b3c2f1": "dnscrypt-proxy 2.0.21",
+    "121c69e39b561372c66e1c1027a0c36be856afc8": "dnscrypt-proxy: update 2.0.20 bottle.",
+    "6f208cbbad44143a6d501975d1aa6bddd58b4896": "dnscrypt-proxy 2.0.20",
     "53d5f847a5a5b76af30f5aef3deb4fcd2943905f": "dnscrypt-proxy: update 2.0.19 bottle.",
     "49fa4dfb563bfddd27718f8b946b6f09bfa45cdc": "dnscrypt-proxy 2.0.19",
     "fea8a3733608b0beb9f2667eba5025dcde1d1cce": "dnscrypt-proxy: update 2.0.18 bottle.",

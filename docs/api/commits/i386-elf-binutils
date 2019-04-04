@@ -1,4 +1,6 @@
 {
+    "4eab38437948304f61ae47126591e73d42ea810f": "i386-elf-binutils: update 2.32 bottle.",
+    "fc743a5d7eec912c9f8fcd998ec8617e2e4a0b9e": "i386-elf-binutils 2.32",
     "95f87ac9de77746df28eec7ea66514681c525d74": "i386-elf-binutils: add 2.31.1 bottle.",
     "bdfdfad02a9747815088ab80942faa84511068d3": "i386-elf-binutils 2.31.1 (new formula)"
 }

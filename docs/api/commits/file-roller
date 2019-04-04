@@ -1,4 +1,6 @@
 {
+    "8b8a11f8ece52333e14b06d4079f783102593d54": "file-roller: update 3.32.0 bottle.",
+    "cdf00d1e845acb166e184ea0adc7db20fcb07449": "file-roller 3.32.0",
     "747a09f728fd474d7aa099840c5e6035305f1876": "file-roller: update 3.30.1 bottle.",
     "bc063d7f814012931f12eeb198fb52d437e77e03": "file-roller 3.30.1",
     "c59a7756020d315984ae19d913fadae0bc3821c3": "file-roller: fix dependency order",

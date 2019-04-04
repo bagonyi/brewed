@@ -1,4 +1,10 @@
 {
+    "460786db6ad35c065f40e0880477b28bab3915ee": "serverless: update 1.40.0 bottle.",
+    "f5ad3c5ea72a2c4a14041bae8ebde65407419cc4": "serverless 1.40.0",
+    "e370de23becc95a888875585d1d5f8f0b2d31b18": "serverless: update 1.39.0 bottle.",
+    "644e21551f8ff97ad068f2a1e3dbe06ab810a240": "serverless 1.39.0",
+    "b9b17e10038381716dfcf05b413745e1a83bfcd3": "serverless: update 1.38.0 bottle.",
+    "dfcddf841be49c153c4a975abf08f2510277be3c": "serverless 1.38.0",
     "fa54c366e61be264ed91ec37807201e326199dee": "serverless: update 1.35.1 bottle.",
     "57f323eb08077c5a12a05b4d21ca4e5323ea90fc": "serverless 1.35.1",
     "ffef2b3b72e704e275004c2d5e8dbabbdd7e04ca": "serverless: update 1.33.1 bottle.",

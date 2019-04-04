@@ -1,4 +1,6 @@
 {
+    "838cec95075010f81efe878ab04fdf8b62d1f00b": "rakudo: update 2019.03 bottle.",
+    "5d9f196f8b0a807c3ba8709e42be130adf44fb3a": "rakudo 2019.03",
     "9e6c35ddd4ec3f89edb395555737571c9fce7b68": "rakudo: add 2018.12 bottle.",
     "bb456f81945978274b8054701fdbf4f5da670514": "rakudo 2018.12 (new formula)"
 }

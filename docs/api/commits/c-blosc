@@ -1,4 +1,8 @@
 {
+    "eeac0f7cc63582790930ade3757977d3c97cbda2": "c-blosc: update 1.16.3 bottle.",
+    "a5b4ff60cf9b2245739b69b5790bb13a61e64e08": "c-blosc 1.16.3",
+    "75fa7cfb6255dcf640f151c58dfd42c7a8cf15ef": "c-blosc: update 1.16.2 bottle.",
+    "38aa745e4cdc345d622d1d44cf8871f662cf0156": "c-blosc 1.16.2",
     "0704c364d08f9731263f0d873d67da3595e818cf": "c-blosc: update 1.15.0 bottle.",
     "9ac7fa8793e217261c11e810c63856f4fe79ebd5": "c-blosc 1.15.0",
     "fbf8d7f6e0836632598ccc5a45d71f9b8c331c06": "c-blosc: add 1.14.4 bottle.",

@@ -1,4 +1,9 @@
 {
+    "6918df6d7f2a53ed38b1393820b130a7009785dc": "glib: update 2.60.0_1 bottle.",
+    "c3d2be03721274cb902a97b423b13a0efbf9fdf5": "glib: fix gio-2.0.pc",
+    "0a673c49211b3947a9a07c0355cbd6e425ad6393": "glib: use Homebrew/formula-patches patch url (#37713)",
+    "a834f731787256d6063eb357e325495d45655227": "glib: update 2.60.0 bottle.",
+    "60ad40f072728b50b36222411585fff570660064": "glib 2.60.0",
     "05871cb0394f78ef25a5c1c071456d0f1e4be4fe": "glib: update 2.58.3 bottle.",
     "b27a055812fe620e0d3dbe67f2a424ed3a846ecf": "glib 2.58.3",
     "7809e3468b97bc3901b991f1332cd24431d25cd5": "glib: update 2.58.2 bottle.",

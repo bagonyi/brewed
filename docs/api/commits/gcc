@@ -1,4 +1,6 @@
 {
+    "eac743a50e85aa7d728dd6b80b7bca0b5e881c85": "gcc: update 8.3.0 bottle.",
+    "3a410a0a5170efe3e6dcea20f645c11ab6a5be39": "gcc 8.3.0",
     "9c6d5a061e61ee0dd6f786b5b9f4d9f9971bcdd7": "gcc: reduce bottle deviations.",
     "1c5b1f6d709629fa8a25e954e3f271503931ea91": "gcc: remove D (#35993)",
     "62a67fa76ea3afa09d64d76a08c9a1b2338d95e4": "gcc: update 8.2.0 bottle.",

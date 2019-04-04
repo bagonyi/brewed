@@ -1,4 +1,6 @@
 {
+    "cc1f378b207c3c00f301e68bb67b41d8b33ed169": "ldc: update 1.14.0 bottle.",
+    "07597d7f65505f96f2799cb7c8403d5a6e266a25": "ldc 1.14.0",
     "fee819bcdcb29c39d29aa5e050a9d9f39c416c2f": "ldc: remove checks for old compilers.",
     "1c862ae087667962d387abc2a5b847d89d82a89d": "ldc: update 1.13.0 bottle.",
     "23479bfa0dd67afd577c1320844ab50c7fadbc31": "ldc 1.13.0",

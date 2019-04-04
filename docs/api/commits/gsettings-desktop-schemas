@@ -1,4 +1,6 @@
 {
+    "522502a1295ac02b8f6853ea891e3e9c24d44ad6": "gsettings-desktop-schemas: update 3.32.0 bottle.",
+    "33abccb3b955e8cb8a0b4eec771d8fd8ddc2f02d": "gsettings-desktop-schemas 3.32.0",
     "0ee7c1db8b192142fe3b3f8f518157210e63b7ec": "gsettings-desktop-schemas: fix dependency order",
     "257d8fb102edac1d112da9bf4748aff2b4c97ed7": "gsettings-desktop-schemas: update 3.28.1 bottle.",
     "f3ccd152b3a5cafab967ec8cfd940a1b4e8e767b": "gsettings-desktop-schemas 3.28.1",

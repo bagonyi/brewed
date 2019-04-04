@@ -1,4 +1,12 @@
 {
+    "f39c22d89b44ff49411ce47445108657ab3febc0": "thors-serializer: update 1.13.0 bottle.",
+    "0f90f97601eda892ad94767d5eb239741d17d7f7": "thors-serializer 1.13.0",
+    "fbb6388b50a2a9cf47c52a2518326a12342efebb": "thors-serializer: update 1.10.6 bottle.",
+    "be9edfd2dc9d1ba23e4a2051737393e5015e6648": "thors-serializer 1.10.6",
+    "8441036c61daafdb257eae49568178713419e691": "thors-serializer: update 1.10.4 bottle.",
+    "a1dfb38efcc7126458b0ade953c252c646891584": "thors-serializer 1.10.4",
+    "1c7339c86234b92e73b15072325b5a3ca4d276e2": "thors-serializer: update 1.10.2 bottle.",
+    "63374d9c8461e9d5a017c8a54dd238c7eb86c846": "thors-serializer 1.10.2",
     "025f7a60b3227e7e0024b4a99db48349a7db434a": "thors-serializer: update 1.10.1 bottle.",
     "8218d68771047412e56bba2e29def7ba13ea18db": "thors-serializer 1.10.1",
     "6b4a6e3f51e9ef1e91b8af10509ced18ad44db36": "thors-serializer: update 1.10.0 bottle.",

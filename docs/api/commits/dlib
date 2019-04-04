@@ -1,4 +1,6 @@
 {
+    "1e600dd1749a1ff45377d3f28048c349d0e30bf1": "dlib: update 19.17 bottle.",
+    "69cb488fd711e0f540c07ec386d3db16a8f68fa0": "dlib 19.17",
     "041dc08805650345033e93f7ed66fbb140b1cc31": "dlib: reduce bottle deviations.",
     "cded2baa4c0cb2e7cf23d501a9a8f30f35567504": "dlib: remove checks for old compilers.",
     "9c3e63fa0ee5f3d2784f3e7c7d50ef2ca5dfd823": "dlib: update 19.16_1 bottle.",

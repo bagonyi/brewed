@@ -1,4 +1,8 @@
 {
+    "9f21ccbdc27cf9568035a76511ff420b851bf692": "terraform: update 0.11.13 bottle.",
+    "01ee8603e1ed8f187174458e9cc91b908d6758ba": "terraform 0.11.13",
+    "ec5292177892bed1299b5e41086d6e573ace23a7": "terraform: update 0.11.12 bottle.",
+    "d08fe73fa36c6f026f2262b36cf22d3735cd1d02": "terraform 0.11.12",
     "46a54a2ead4c70b010f47a87e8a2e9bcb365dc41": "terraform: remove deprecated MacOS.prefer_64_bit?",
     "2ca059380136e88b14760dd80c54665a2fa18d7f": "terraform: update 0.11.11 bottle.",
     "6673379befb96c7d9edeabad1d1541460c914663": "terraform 0.11.11",

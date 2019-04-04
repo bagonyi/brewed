@@ -1,4 +1,6 @@
 {
+    "ff27a81d25bd3c6e2305969ea244ea85c0a807ca": "eiffelstudio: update 18.11.10.2592 bottle.",
+    "64600adf68da71e3696cc6883c9fc1ad87788e48": "eiffelstudio 18.11.10.2592",
     "96adf765d457c9d46958ba0cba711c52ce72e3b2": "eiffelstudio: update 17.01.9.9700_2 bottle.",
     "3acbed8a87aef41afcda87fab8b038e3a2b90912": "eiffelstudio: revision bump for ISE_PLATFORM fix.",
     "aaf8c10b09a9d6c002c9920c6e0f0322bbd198e6": "eiffelstudio: Restore ISE_PLATFORM env var",

@@ -1,4 +1,6 @@
 {
+    "a299e273c5316dd6770c10369f3aeb7e9048a53f": "numpy: update 1.16.2 bottle.",
+    "ce483bcc33d775ea80f28df8a43fe99cd41d8a4a": "numpy 1.16.2",
     "f7f74aa89f6d2ac6307fad3bc503a1738aee43dc": "numpy: update 1.16.1 bottle.",
     "d341491ce7178e721b0a269971f9f9f31790b0f8": "numpy 1.16.1",
     "ee07744785e5b82be482bb26a22336c0ccf0598a": "numpy: update 1.16.0 bottle.",

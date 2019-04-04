@@ -1,4 +1,6 @@
 {
+    "410a042ea572448c6cda20c6eece45900ea65e31": "grpcurl: update 1.2.1 bottle.",
+    "1fbc027e7e98a2ff38a3ba4bdf34002fac6f0be9": "grpcurl 1.2.1",
     "eedb4b93c8d8196fe8619a3dd8520c582352c387": "grpcurl: add 1.1.0 bottle.",
     "6554ad4287ada617efdc4b6d303e131292003918": "grpcurl 1.1.0 (new formula)"
 }

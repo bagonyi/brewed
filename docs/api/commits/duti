@@ -1,4 +1,5 @@
 {
+    "b26ddfeff4aad91da2a4615c7bc4f2b0209e5898": "duti: fix audit (#38113)",
     "31b1e0a2b64a3d441abc98591a339ec75b40dc9a": "duti: update 1.5.4 bottle.",
     "dbf9a2816066b227f970728d122498d3a4f07fee": "duti: fix Mojave build",
     "d42cf5169d3150161e0a8cd6cd59aecd74fef48e": "duti: update 1.5.4 bottle.",

@@ -1,4 +1,5 @@
 {
+    "74bdcf80441ea62c162fc0bd97503fc6ff85a63f": "lorem 0.8.0",
     "71576cecdc8bf61550134e56ce837e6fc27dea4a": "Remove whitespace above head urls (#29510)",
     "f2d13ebfa417f1f6885b0612978b5dc59977fefb": "lorem: use /usr/bin/python shebang",
     "5635c20623149b7dc83a5580b4f7f44662c8e6d4": "lorem: use archive tarball",

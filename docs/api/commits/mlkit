@@ -1,4 +1,6 @@
 {
+    "c0bf26b29a0b7021416cb99bb67dd45f4671c01a": "mlkit: update 4.4.2 bottle.",
+    "01ef7bc10b06c51ade340f06706b4e5f3c56f583": "mlkit 4.4.2",
     "c0b67839be66040eec4395a2149febb36d529e07": "mlkit: remove old code.",
     "c04c16119a3c40bf3bf18acf92ce76a778be9453": "mlkit: update 4.3.15 bottle.",
     "0635c7c1989ce82ee1df2ba5425404fbc1d5dd1e": "mlkit 4.3.15",

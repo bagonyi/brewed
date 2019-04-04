@@ -1,4 +1,6 @@
 {
+    "74c9e60f4e4aafec2a8a8c457ed0579d84ac55a3": "gssdp: update 1.2.0 bottle.",
+    "f893e1d81f0283c01372167978d252bac8bc92a6": "gssdp 1.2.0",
     "07841afd7bc7e5377a445055bf424bdace60914f": "gssdp: update 1.0.3 bottle.",
     "16fdf4af892126e68ae290a97b12aa9632637747": "gssdp 1.0.3",
     "68acab48b7336b4f4894ccdd918fb0fd1f0558e4": "gssdp: fix dependency order",

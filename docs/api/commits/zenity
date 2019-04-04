@@ -1,4 +1,6 @@
 {
+    "c781172e9c377ee1be32a80044f68697dbf1e13b": "zenity: update 3.32.0 bottle.",
+    "154aa22bc68554cbe8c8892b41239747ae850b10": "zenity 3.32.0",
     "222f1d546ac2912085793825cf0a71c2d457728c": "zenity: update 3.30.0 bottle.",
     "6efe5e687507ae61640dcf1b3e4b0a20d43d971e": "zenity 3.30.0",
     "6d2727a056ea1ac9e704019ef1fa3ac70be07714": "zenity: fix dependency order",

@@ -1,4 +1,6 @@
 {
+    "24dd53320c321f9273a31c6acc473d05146e9ee0": "libgtop: update 2.40.0 bottle.",
+    "e0d3657217ff1c5eaffb82f1c31886e9f64268c6": "libgtop 2.40.0",
     "2b6d38d9bc2c302929c929033d452b63e50a0951": "libgtop: update 2.38.0_1 bottle.",
     "13e54547f6d87e0b0c8930972faf52b062102dfc": "libgtop: update patch checksum",
     "31e1490074b875037d4b073d69d993c79dd022e0": "libgtop: fix dependency order",

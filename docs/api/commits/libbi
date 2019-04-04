@@ -1,4 +1,10 @@
 {
+    "76ff357235fa0c3a15cd2041e1775b493b64f3ad": "libbi: update 1.4.4_3 bottle.",
+    "5a276b974b06de28f962e1f893eeb2a7ad26bf20": "libbi: revision bump for hdf5",
+    "e563a96ae5837f6bcc943d906bbcb4a82d8a1c96": "libbi: update 1.4.4_2 bottle.",
+    "5176eef226e2748b92ffd8cda4cbc56bdfe579af": "libbi: update thrust link",
+    "4433fd320d4508de8a821ce29f685c57ad2c6d53": "libbi: update 1.4.4_2 bottle.",
+    "b7343f779ac9a0d650734109211aff956638e313": "libbi: fix test",
     "7e67c3f2ff757f1a9e6e85053b1418bebf81912c": "libbi: fix rubocop 0.65.0 style.",
     "4851f31df8a4f5ce3e4b254646a9f9e82dab25e7": "libbi: update 1.4.4_2 bottle.",
     "1a51969a85a5f2d1530e1afc24f801356195b12d": "libbi: revision for test fixes.",

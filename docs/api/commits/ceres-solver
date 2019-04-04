@@ -1,4 +1,6 @@
 {
+    "a957f2d8ae79193e5bdf68122c611d36435d13d0": "ceres-solver: update 1.14.0_5 bottle.",
+    "ea64ed7cb1e318d5c4930004b075b9e16e1265b6": "ceres-solver: revision for glog",
     "049a694fcbb31ef2a32533bda5f0aea37a2d48a2": "ceres-solver: update 1.14.0_4 bottle.",
     "42d4bcb4e33b8b53f6347c331910fcf6332ee7a9": "ceres-solver: update 1.14.0_4 bottle.",
     "bdf217867b259f7d46e411fe6f727fb76158dfa8": "ceres-solver: bump revision for eigen 3.3.7",

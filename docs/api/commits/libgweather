@@ -1,4 +1,10 @@
 {
+    "4125aa502f6bc744af26c43ca7851a6b48b6e8aa": "libgweather: update 3.32.1 bottle.",
+    "8b951b1f8e7095ebf5cbe02d6a2abb4c47f6a399": "libgweather 3.32.1",
+    "2bfe768d83026effbfa94e5182d31f076e2efe89": "libgweather: update 3.32.0 bottle.",
+    "5ce4fa20f7da0211f561a165535ad459b363e3b3": "libgweather 3.32.0",
+    "fde7e51fcfc992e05af237fe0a2c2e63863480a8": "libgweather: update 3.28.3 bottle.",
+    "7f26100faeb75ac33d685ede866860a4177175b1": "libgweather 3.28.3",
     "1ee4c1851c0df5e6062620b0af0992f4c2b9f2cf": "libgweather: update 3.28.2 bottle.",
     "2a534eb1310e7350802bf9ae832fbf23695385d1": "libgweather: remove options",
     "4b1751ad84e853fb1e83c374b32eaeaba02cbebb": "libgweather: fix dependency order",

@@ -1,4 +1,6 @@
 {
+    "54d53c1d4696cca7baeb77fb48572301429bb4ef": "protobuf-swift: update 4.0.6_1 bottle.",
+    "03895b71893d4a9d93cc7df132faded860dfc74a": "protobuf-swift: revision for protobuf",
     "61bcd3ab4de6b286b8da3aef32154835fd7d8f24": "protobuf-swift: remove checks for old compilers.",
     "2a9758e5af91f9a6e963afede207c69f5718f81c": "protobuf-swift: update 4.0.6 bottle.",
     "58e980bd978eb4f066deac33901b5cb0e3ac9631": "protobuf-swift 4.0.6",

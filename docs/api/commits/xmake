@@ -1,4 +1,6 @@
 {
+    "ee0101bbc9caf1b727d03130680a22a054c46829": "xmake: update 2.2.5 bottle.",
+    "21f5ba6e3582d9ae66516e8be268f53c6ede84f7": "xmake 2.2.5",
     "6c170a117817c167bedd96b3784b97b86ca642bf": "xmake: update url and description (#36818)",
     "562e95955cc5aa7a407364f921d4ae48163d1326": "xmake: update 2.2.3 bottle.",
     "973e9aeb68651c2b3c21662f88eb74b28d6cee95": "xmake 2.2.3",

@@ -1,4 +1,6 @@
 {
+    "497fece89045e81531482aa62913049ea8933257": "wesnoth: update 1.12.6_9 bottle.",
+    "969dc85a75ca5ccd411e3a3569d688f4b3f15fe2": "wesnoth: revision for boost",
     "9f95c55aef942ca7385cd69ba2a0abc92df33798": "wesnoth: remove deprecated scons call.",
     "b30490e6ab793efbc5ca50515beff10b44703b52": "wesnoth: update 1.12.6_8 bottle.",
     "637e6d935ac2809b486c2e08645792fae472fa6b": "wesnoth: revision for boost",

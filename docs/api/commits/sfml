@@ -1,4 +1,6 @@
 {
+    "f41ec37d65b415aa5fd60e789e8b53823cba9a06": "sfml: update 2.5.1 bottle.",
+    "26b307a789d2acd7300ff7aa196ec392dc55f964": "sfml 2.5.1",
     "f0e58c1b97e5859a7817607d649ce6e1bf1e5056": "sfml: remove references to pre-Mavericks.",
     "8faa9f6a3920cb98d682834636588eaac67ab448": "sfml: remove options",
     "bee180840c1b3f2a82b9845ff96b6220a76153f7": "sfml: update 2.4.2_1 bottle.",

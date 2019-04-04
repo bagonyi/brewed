@@ -1,4 +1,5 @@
 {
+    "42a8f024aedafd5ae7bc149f01497a1c42505543": "derby 10.15.1.3",
     "612df8400c4842042e4c4ecf1655a54b5ae40efb": "derby: fix RuboCop Layout/AlignHash.",
     "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
     "dcb76279b65c86987b530517104acaeee5045562": "derby 10.14.2.0 (#27472)",

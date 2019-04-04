@@ -1,4 +1,6 @@
 {
+    "26e191464f4dcb9f0ec08bf2c17f3cf5ae593f3c": "osrm-backend: update 5.22.0_1 bottle.",
+    "0550568752b2531db7d330d54ea59bb8a66a27a3": "osrm-backend: revision for boost",
     "f7ce13b31c86904b62d7023b3914bce5fe204871": "osrm-backend: update 5.22.0 bottle.",
     "2af01ddcb62306ffc799ceaf8b2fc97c96e00f8c": "osrm-backend 5.22.0",
     "9a7a936736d28043097ba119d3a0daa8555d8389": "osrm-backend: update 5.21.0 bottle.",

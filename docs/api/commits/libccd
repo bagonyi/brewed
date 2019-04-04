@@ -1,4 +1,5 @@
 {
+    "de9499b234d4da8673f11a7309d588faaba05d0c": "libccd: update cmake argument (#37365)",
     "fd3ddd77143563751d6e0f83e8d51a5f97a95b53": "libccd: update 2.1 bottle.",
     "215f6a1b5daa97de107183da62bf98799f6a4877": "libccd 2.1",
     "eafa48fa6745b231caf2c436e0ffbd8c057f1e0b": "libccd: update 2.0_3 bottle.",

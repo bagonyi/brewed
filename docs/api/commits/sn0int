@@ -1,4 +1,6 @@
 {
+    "20a72c27172465bd8445b5b78e1e2a0f9d026364": "sn0int: update 0.10.0 bottle.",
+    "7a38a9bb0dcbff82059cd1d5358a47be64bbbcae": "sn0int 0.10.0",
     "f0746e345b1d5fa2092d5e6e43cf1c18bb0eedba": "sn0int: add 0.9.0 bottle.",
     "09e2b6bf57fedb862dc7754a7111db8d9a90067d": "sn0int 0.9.0 (new formula)"
 }

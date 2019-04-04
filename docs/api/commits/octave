@@ -1,4 +1,8 @@
 {
+    "33a5454868538fee44e7d398b5259b95a5f53f44": "octave: update 5.1.0 bottle.",
+    "cdb42746e0da8d1f18981ea8e4c9e7cf4601c0ca": "octave 5.1.0",
+    "0bee75d7193b9e8820318196f2026b91e764eae7": "octave: update 4.4.1_6 bottle.",
+    "ccf9804620599fd7c4a0d399045792edc9e89b26": "octave: revision bump for sundials 4.1.0",
     "3652191bbdfe76535a4b642938c74a204aecdcce": "octave: remove the fragile java test",
     "c8323256bd786e8d526758599ea08a1d1ba7fd19": "octave: update 4.4.1_5 bottle.",
     "6035ee19792881c681f65b9705358bc9f26f96a6": "octave: remove options.",

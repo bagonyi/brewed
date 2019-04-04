@@ -1,4 +1,8 @@
 {
+    "6e1d9b7b73eae06a20b1fafab01b98805b6df2aa": "glibmm: update 2.60.0 bottle.",
+    "36d49a6ca0cc4330038c7f714d7bf058e7042af4": "glibmm 2.60.0",
+    "e250af094ae86b743c0d1f329caabcd82b537a95": "glibmm: update 2.58.1 bottle.",
+    "d45ba879fe420233185801dfa768187d626e0c74": "glibmm 2.58.1",
     "048b8a54b6b8ba1040fd9c7028f0ed4899206ffa": "glibmm: remove checks for old compilers.",
     "1f34c1b99387a577320b30bd9aa45e046fc935c5": "glibmm: update 2.58.0 bottle.",
     "27d1efabe718c356bc2941e75ac053dd8fd0eeaa": "glibmm 2.58.0",

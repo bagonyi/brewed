@@ -1,4 +1,6 @@
 {
+    "b4968ca86507b4be1bf8bf615dcc69c3407141c9": "duck: update 6.9.4.30164 bottle.",
+    "c1d022d38bc1d811846fcab6c8e4e4a5d0541dc8": "duck 6.9.4.30164",
     "d2239bd4580564826a2314a81af0f23cfddbc94d": "duck: update 6.8.0.28825 bottle.",
     "dc7b2a3b97faa3aa17bb4d74c1fad3317ce11a63": "duck 6.8.0.28825",
     "f757e7ca9675495c52683e5650b9e07249fdf6ff": "duck: fix dependency order",

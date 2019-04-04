@@ -1,4 +1,6 @@
 {
+    "12254bebf788f7f2975e7d2399865f524ff938a6": "consul: update 1.4.4 bottle.",
+    "4f9e9eb9913e20d9d0b3cbd1e1c1c25d0928bad6": "consul 1.4.4",
     "b8d4a5e33d4d87ee22ad15dcdc87f2075acd5d81": "consul: update 1.4.2 bottle.",
     "3ccbc7cb4d0cd4988f060eeaa762b517240cd307": "consul 1.4.2",
     "e8a803903cfd83ce50903742d81146f994291632": "consul: remove old code.",

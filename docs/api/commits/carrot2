@@ -1,4 +1,5 @@
 {
+    "58cfb7addcc3410c8af80c77c897fcd5753e2000": "carrot2 3.16.1 (#37291)",
     "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",
     "9d82bfa4c532c95a71616ed05ddeb5d131d6e91d": "carrot2 3.16.0 (#28180)",
     "16ebe5f1843e6cb54856311ff0f676be53007329": "Use “squiggly” heredocs.",

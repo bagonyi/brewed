@@ -1,4 +1,6 @@
 {
+    "07b5f69e19f2cda184b7eb1f51c54518d0e1478c": "befunge93: update 2.25 bottle.",
+    "e8f559f141aa3291400e089373b265ef1541bf12": "befunge93 2.25",
     "d86149f8a93e87b7ee4ccf72af911be653f8bd08": "befunge93: update 2.23-2015.0101 bottle.",
     "2e036efc215fa53911f645a5140d2182ae6576e3": "befunge93: update 2.23-2015.0101 bottle.",
     "c7d8d2bbe1ae915287fee06dd4dfe03c82776226": "befunge93: use https for homepage and stable url (#10614)",

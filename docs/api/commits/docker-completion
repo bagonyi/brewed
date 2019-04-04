@@ -1,4 +1,7 @@
 {
+    "f20f52b88f28cadf773407f8524a7ee86c3bfe1f": "docker-completion 18.09.4",
+    "3f65e145eeead3d53599fc4f60fb86dc5b674a9c": "docker-completion 18.09.3",
+    "44262bd3c5067bfb35f8aecb89b0db818b7a3c54": "docker-completion 18.09.2 (#37401)",
     "1ffc80f01bbe562459d151dda605421cbdfa37d7": "docker-completion 18.09.1",
     "c697ea23ee145ad56aaceb1da2a340c2d276bdd8": "docker-completion 18.09.0",
     "db53e4138b36a1bb916e9b3c4c2cbc05dd1c1756": "docker-completion: fix RuboCop Layout/AlignHash.",

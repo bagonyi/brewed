@@ -1,4 +1,8 @@
 {
+    "0751bb8a334ce562fdce38cb19d15df02640ac9d": "docker: update 18.09.4 bottle.",
+    "02ccf6d51c93254666a125474a2d87e2fafa23da": "docker 18.09.4",
+    "deb4489d33511446829c325c2740a20bc598f818": "docker: update 18.09.3 bottle.",
+    "d09a39dbdc5eb45b00d6a5db59212830639327d1": "docker 18.09.3",
     "772bbef582c650aa296b756639c3a765ee3fc7db": "docker: update 18.09.2 bottle.",
     "b7d4725e0ffd41dee700554f7a6479091a7f9c36": "docker 18.09.2",
     "d1fe7f91faf627a661965a94e3588f7c3a1b4bd2": "docker: update 18.09.1 bottle.",

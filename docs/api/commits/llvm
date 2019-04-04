@@ -1,4 +1,6 @@
 {
+    "402d5b2534147acf0b664588775189c2fc572a1d": "llvm: update 8.0.0 bottle.",
+    "d9bc0b89d60e1245b443c785d6f510fb69fe8fbb": "llvm 8.0.0",
     "4a3a0d06fd320af7df33342293b682bb1d263f8b": "llvm: remove references to pre-Mavericks.",
     "f60c413c309b3b73b787af0eb41efc7d253a962b": "llvm: remove checks for old compilers.",
     "e2a5689070d63e1706d56a7b1cbc0567f782dc9c": "llvm: remove options. (#36278)",

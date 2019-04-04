@@ -1,4 +1,6 @@
 {
+    "5ebd023c4177ca2ed7efa0ae93a6d89f5b55b857": "afio: update 2.5.2 bottle.",
+    "1c4296d97f29785df40566a0623a7bba28a4e88a": "afio 2.5.2",
     "0269e764286c45e6e67813364dac6810863095d2": "afio: remove references to pre-Mavericks.",
     "69b55fe8b2eac9b9eac7e5aa86b3dd59cd81fde9": "afio: remove options",
     "7185f5bd43bd4f9ed22a2bd3417cae667a4ec0df": "afio: update 2.5.1 bottle.",

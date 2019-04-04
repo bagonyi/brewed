@@ -1,4 +1,10 @@
 {
+    "db7af62043d2f36160d39c725b6567cd9d5ce2d6": "skaffold: update 0.26.0 bottle.",
+    "1842dbdcb4044f67f749c7ec1e1a1beab96cea9c": "skaffold 0.26.0",
+    "379ff5129c414d2e4c736d2a83398dac45504906": "skaffold: update 0.25.0 bottle.",
+    "9915f686564743ab38a3c62ab34ff906595ea2be": "skaffold 0.25.0",
+    "4ee7b7944e20359b94be3c3ed755461214e05382": "skaffold: update 0.24.0 bottle.",
+    "ba3a4e1dad46fbaba6ad3b3208478d47b7bcb910": "skaffold 0.24.0",
     "3466625a0446c404127ea80919b7518df117c101": "skaffold: update 0.23.0_1 bottle.",
     "e53821c63bb28a7d4a5bd8cbb4aa5099ead629eb": "skaffold: install completion",
     "4ef5c6eab6f80ff0a8d688e68b613c19f5e89496": "skaffold: update 0.23.0 bottle.",

@@ -1,4 +1,6 @@
 {
+    "ef3a4d9d6afe49315d2b9834a8a7ae5960ba5b89": "pypy: update 7.1.0 bottle.",
+    "5cbd0aa3ee176258bef4feee415223db6d9b2727": "pypy 7.1.0",
     "3475e13f84fd10e88e3f81bfa1b390f0f7794224": "pypy: update 7.0.0 bottle.",
     "8f1749b1bd6e01ef692c057dc7f7508d9f44d684": "pypy 7.0.0",
     "aa3f48b997699b897aa3aeef071828a06f8caf21": "pypy: remove checks for old compilers.",

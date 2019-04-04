@@ -1,4 +1,5 @@
 {
+    "0533ba6de8800c22ab65bdf5ae952fb6cf95efb9": "tomcat@7 7.0.93 (#37974)",
     "6758ffecb54d8c2c2a88c49a9debf93186db1aa4": "tomcat@7 7.0.92",
     "36aaa0bceda5f960a9a1020fd53dfac873b1725e": "tomcat@7: remove with-fulldocs option",
     "15c1f58f5628c69223e4455264f9226406be8608": "tomcat@7 7.0.91",

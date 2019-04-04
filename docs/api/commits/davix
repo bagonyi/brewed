@@ -1,4 +1,6 @@
 {
+    "eafd70db3c5f64dbb6f9218a60de14d4e24ed93d": "davix: update 0.7.2 bottle.",
+    "9564bc5535c9b94891d974b57601fb2bef3cc543": "davix 0.7.2",
     "71f299b7cd79993eccbd7b75b2d5024823a1af09": "davix: update 0.7.1 bottle.",
     "b8e7395f6e065c567b07ffb7e863b1bd5b62a6fb": "davix 0.7.1",
     "2cb0a71e9d5efeb0faff04ad432a7aad1a328c15": "davix: fix RuboCop Layout/AlignHash.",

@@ -1,4 +1,6 @@
 {
+    "68f6549369b524e8611d0a9a9c306895ddde4f40": "bgpstream: update 1.2.2 bottle.",
+    "8e57e4b6c7f048d44aa96b131061c2388682d0df": "bgpstream 1.2.2",
     "5f32dab7084cf70239336123cdc109a45b273ac4": "bgpstream: update 1.1.0_1 bottle.",
     "f53b5968044ea26ea796b135bdfba639a4fa7583": "bgpstream: update 1.1.0_1 bottle.",
     "79f6d04ac6bad58fd69a581f72a32a10019f4a48": "bgpstream: revision for wandio",

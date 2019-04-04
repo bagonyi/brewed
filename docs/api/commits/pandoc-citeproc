@@ -1,4 +1,10 @@
 {
+    "12b55b7a549bdab6a1541bea3922b8c72f79501b": "pandoc-citeproc: update 0.16.1.3 bottle.",
+    "9a44c4fca58f3198c85984e11b9329ca9a69070a": "pandoc-citeproc 0.16.1.3",
+    "3e007e8e9fad56b007860d9671b28fe2532c183b": "pandoc-citeproc: update 0.16.1.2 bottle.",
+    "3d40a6e0a60cfa25f430bb244d922256f068f1b0": "pandoc-citeproc 0.16.1.2",
+    "4de1dade8b1d4a70668b97d3a44b4bba99a97ac4": "pandoc-citeproc: update 0.16.1 bottle.",
+    "1621323f97ffb51f05e9270c830ed533ea8d3927": "pandoc-citeproc 0.16.1",
     "fd917a4492bb59daf718469920c08f2df1706fd5": "pandoc-citeproc: update 0.16.0.2 bottle.",
     "02e71f59bc3345f9997d62adf3332a7669cd8e06": "pandoc-citeproc 0.16.0.2",
     "8c52acb06d81c01b165eef83595d028f9fe3154d": "pandoc-citeproc: remove references to pre-Mavericks.",

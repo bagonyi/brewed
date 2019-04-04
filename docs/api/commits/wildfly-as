@@ -1,4 +1,6 @@
 {
+    "08d912d51924434cb0be0bd626a81bcf3a86209b": "wildfly-as 16.0.0.Final",
+    "850c5b7336ab4ba56a747d7ec924bdb5d60f9900": "wildfly-as: secure url(s)",
     "2bf9f3e169be4e9ab39da0941e0b78fdb54839c2": "wildfly-as 14.0.0.Final",
     "a166e9056c24df960ed925d8cf655df243065f4f": "wildfly-as 13.0.0.Final (#29494)",
     "512758e6eb0785043a7fc6c40fb49d8023fe91e3": "Rubocop 0.57.1 style fixes (#28754)",

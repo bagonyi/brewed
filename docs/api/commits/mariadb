@@ -1,4 +1,10 @@
 {
+    "8753bc59fd15899b1d788d09c592ee139641cfe1": "mariadb: update 10.3.14 bottle.",
+    "934fe342f6b7fc70e28fe8f0d0c9a7d5dd5e0ec0": "mariadb 10.3.14",
+    "f788919cca6be80170be2a5db7d9b8cf03e1e3a7": "mariadb: update 10.3.13_1 bottle.",
+    "769007288a77338240ab9379e9bee1d7c282df49": "mariadb: revision to fix test",
+    "0fd918878ceee6ff83e8dbbdd3500cb4f8b3625a": "mariadb: update 10.3.13 bottle.",
+    "d4aaac5222037178f97882a559ad36fd1be026a9": "mariadb 10.3.13",
     "307f6c06360849db99d2d03debe713f6a3d78d2e": "mariadb: update 10.3.12 bottle.",
     "abf2e93b8efc0b7014775f4ee7ccfd7c91435e6d": "mariadb: check for prune file.",
     "09d26c33e04c51c47953f7a015ee82d13fa9b9d2": "mariadb: update 10.3.12 bottle.",

@@ -1,4 +1,5 @@
 {
+    "4083f5caacaf8fe754ad77596157bb1f8ad4d517": "serveit 0.0.3",
     "e4b21cad9367e2d22f2927294b11e33896842287": "serveit: remove references to pre-Mavericks.",
     "3683b3913ad32236a9c20fd407f821906d8d491b": "serveit: depend on ruby instead of :ruby",
     "da80330d2cc0b91e3b9ea129a8827bd29e1023c4": "serveit 0.0.2 (#13379)",

@@ -1,4 +1,12 @@
 {
+    "76022cfa244433de05b7bbb70a5cfdf5afdcbd2f": "apache-arrow: update 0.13.0_1 bottle.",
+    "6431ee4e540e05452d9a0b19f1977604b4c55f17": "apache-arrow: fix rpath in dylib",
+    "a69c42464764b794b1092849b3caa8eeaf6dbbdf": "apache-arrow: update 0.13.0 bottle.",
+    "b985602d32e8a04aebc5ddf36197660ee3b8bd76": "apache-arrow 0.13.0",
+    "7034bed4c997f6a34ee3e48a52085019689260f9": "apache-arrow: update 0.12.1_1 bottle.",
+    "60faa8db38978670402bfec57173ec7a5b3c4e94": "apache-arrow: revision for protobuf",
+    "0fab792a274bf643786a8919aa02f5a2d9191d15": "apache-arrow: update 0.12.1 bottle.",
+    "05f3ec1fb7e5d97b4581921e8b2184904aa28208": "apache-arrow 0.12.1",
     "e59b5cfa5eca67cf8719cc56d524013a3b578d61": "apache-arrow: add head (#37131)",
     "5e2b39583994bcaf8c3ccbaacbb6038a9b2c4371": "apache-arrow: add 0.12.0 bottle.",
     "cbbc174b70a2b39f823fb35e53d3a48fa2e00301": "apache-arrow 0.12.0 (new formula)",

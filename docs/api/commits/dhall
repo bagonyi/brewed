@@ -1,4 +1,6 @@
 {
+    "6d33d0aaac3786daca0f9b4f23d954e3b2a1b28c": "dhall: update 1.21.0 bottle.",
+    "a8dfbe11e808b12648cc7c7321e6a52a5e2dc6b3": "dhall 1.21.0",
     "f281e9f5a0132b68b0bdf392fb65cce229ded647": "dhall: update 1.20.1 bottle.",
     "2ceefde9c5e0016b33bb2e63f3aca03735453451": "dhall 1.20.1",
     "8bad83f83a01e390f8c80e55ba22e81762b94e70": "dhall: add 1.20.0 bottle.",

@@ -1,4 +1,6 @@
 {
+    "1ac5a30d69d7f5d699b14e3bac48245ff3d955df": "treefrog: update 1.23.0 bottle.",
+    "d8bef77bdc8f7ffe639fe769edb2e10b321e6f23": "treefrog 1.23.0",
     "0dee301761c00621eade8e258a6934a104645559": "treefrog: update 1.22.0 bottle.",
     "b0905ad806df3e465774d19064aba839d31259bc": "treefrog: remove options",
     "e4aaa5a3226eec15a1f87cb91709b03f381e7ddf": "treefrog: use consistent :xcode version format.",

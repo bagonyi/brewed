@@ -1,4 +1,6 @@
 {
+    "8a8d69d5cbba6e0de828a11eec1e60ec2e42c799": "wireguard-tools: update 0.0.20190227 bottle.",
+    "699d22a862987e3267edf492b6646513ed30ef04": "wireguard-tools 0.0.20190227",
     "726c9caf43c011a322979aef2ac23eeb6a92df41": "wireguard-tools: update 0.0.20190123 bottle.",
     "28c3c56817b8701d29be90851ea0b8138fc62256": "wireguard-tools 0.0.20190123",
     "e17886a979fa590917802087f36c377e2fbc3dd6": "wireguard-tools: update 0.0.20181218 bottle.",

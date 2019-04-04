@@ -1,4 +1,6 @@
 {
+    "ecd01c25e8734bb5ca7ce94754463f15903b208a": "dmd: update 2.085.0 bottle.",
+    "eace00873ec9a711c3e7900f8c7d46f265e58548": "dmd 2.085.0",
     "5d7f197b488913b10aa08ec022892a2f4002208c": "dmd: update 2.084.1 bottle.",
     "5674d707f2e2fb0a42883f4ede149f0dd28f115c": "dmd 2.084.1",
     "b319ee0bed3f8c7982f7ac892a49dbe3a0a82723": "dmd: only support 64-bit",

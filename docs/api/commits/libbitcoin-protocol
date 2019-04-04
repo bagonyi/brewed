@@ -1,4 +1,6 @@
 {
+    "320ce79e8edab8ee5852cc19cf1a5a129d20d4c5": "libbitcoin-protocol: update 3.5.0_2 bottle.",
+    "bb4b17de76d5b9a314cd736c1aacd2ababf67041": "libbitcoin-protocol: revision for boost",
     "8afefccc95e29a086f7f76aba15011ac0964003b": "libbitcoin-protocol: update 3.5.0_1 bottle.",
     "da6e04cd73fa58dd19058c02d46e257a627248f2": "libbitcoin-protocol: revision for boost",
     "ce441046f044b1cf16e2f90821cfffb03687f7bd": "libbitcoin-protocol: fix test",

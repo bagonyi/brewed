@@ -1,4 +1,6 @@
 {
+    "0200ef547fc68e74e518db309ca934d8ee6e0b3c": "gnome-latex: update 3.32.0 bottle.",
+    "ca0549f0c544e90c7640ba1a2d54b8b4caf988b7": "gnome-latex 3.32.0",
     "98928290c43c32768b91233ae90e40d62df53c68": "gnome-latex: update 3.30.2_2 bottle.",
     "0b4b1c7292fd780ab09b91dc70463961f1b9ecd6": "gnome-latex: remove options",
     "a220f77d5a6b299e63e951c43c5ae8912587a3fe": "gnome-latex: update 3.30.2_1 bottle.",

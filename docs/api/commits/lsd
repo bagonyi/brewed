@@ -1,4 +1,8 @@
 {
+    "20ba739a81a80a17dc6c0ac3ed7eac2e8c5282d0": "lsd: update 0.14.0 bottle.",
+    "7cdf406ec21d87f78f20d6e2c2a21675f9b3e298": "lsd 0.14.0",
+    "2803af17b1cf2823f518f5c49a0f18cb2da81482": "lsd: update 0.13.0 bottle.",
+    "4ab6b2d05ad371e7e4ebb629e45fcd8e8a135b39": "lsd 0.13.0",
     "26d10639f0457a87cfd3539d76c2135e655e5da8": "lsd: update 0.12.0 bottle.",
     "f9196caff26503ff1dbd55b44756e437ad7eb62b": "lsd 0.12.0",
     "27f4a30aaa76649b0825074a294e12d2f84da6d8": "lsd: add 0.11.1 bottle.",

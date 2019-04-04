@@ -1,4 +1,6 @@
 {
+    "7e749b79e82a3d4e3fc8a0231aa41c25ef0be3b6": "osm2pgsql: update 0.96.0_1 bottle.",
+    "73f3e2651e3173777c58d587077820cab6829e4a": "osm2pgsql: revision and fix for proj",
     "8af126648aeb109fa901978e45454dc188046bde": "osm2pgsql: remove options",
     "c7341149bf5a550584f64ff810b890745eb6530a": "osm2pgsql: fix dependency order",
     "0b48616b0fe080894912fdc1280f76daac21c2da": "osm2pgsql: update 0.96.0 bottle.",

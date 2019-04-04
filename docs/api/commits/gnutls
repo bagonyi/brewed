@@ -1,4 +1,8 @@
 {
+    "854a96b9409db46be5fa8644a332f251bc0ef8e5": "gnutls: update 3.6.7 bottle.",
+    "6e23e92812b7f04b8ac4d65651e298be6f6d96ee": "gnutls 3.6.7",
+    "776efae04d38dfc661051463930a373d4ecc92e0": "gnutls: update 3.6.6 bottle.",
+    "2529d3152d1fa038ac58d2b34040b1936c3afb3e": "gnutls: build with unbound/dane support",
     "760e02e6e0ccb3152a0385ddadb3dbfc9d2aaf69": "gnutls: update 3.6.6 bottle.",
     "b8dea228da2d005da76afdff2df0ec54c098390a": "gnutls 3.6.6",
     "e49eb72c14ad0ea8c3d60169aefadbce6156f393": "gnutls: remove options (#35390)",

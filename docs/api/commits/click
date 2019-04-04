@@ -1,4 +1,6 @@
 {
+    "67e87e74eaf2609698714cbfe444cfbd42b6b10d": "click: update 0.4.0 bottle.",
+    "160523da1323ffc0f91519f4ce3e0157035d783f": "click 0.4.0",
     "baef94a51640d5a38740ecc7e7314de29fa6924c": "click: add HEAD (#35015)",
     "1785af5b9c9184f310225af7ba6518edb455d780": "click: avoid cargo deprecated syntax warning",
     "790d17700d335b7a2d718f1e200ceda76ad00595": "click: update 0.3.2 bottle.",

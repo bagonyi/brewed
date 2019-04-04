@@ -1,4 +1,7 @@
 {
+    "1a4ed62cdaf3399efe486e370575069052e689e9": "blastem: secure url(s)",
+    "174197dfc4802d778113664a29d7e743fec3f0ff": "blastem: update 0.6.1 bottle.",
+    "65d389809ab1ff015e023a5ee99e2476bac2e822": "blastem 0.6.1",
     "148bc3583c67032092e9a5170d699df119be754e": "blastem: update 0.5.1 bottle.",
     "c471bf76ecfa34a6c2e74b7d04b91c97d87e9254": "blastem: fix Mojave build",
     "75eed03e511010e9ce1d7327a962e01fd4391beb": "blastem: depend on python@2",

@@ -1,4 +1,10 @@
 {
+    "4d16598fc7192725ed19b2672b34e9f2beb80134": "awscli: update 1.16.130 bottle.",
+    "c967c2c5fe3202b52a2890897f43a9fae320c062": "awscli 1.16.130",
+    "589ccd992cdaab98a4736a90af751e016c717685": "awscli: update 1.16.120 bottle.",
+    "480c5ecdd6fa7e91184f708fe5834d474ed014a0": "awscli 1.16.120",
+    "2ebd8637d6e5db42622c40603e090bddc06d1c4d": "awscli: update 1.16.110 bottle.",
+    "5b38c913dc13e6beac8b8a1b51b68dfb7609ce92": "awscli 1.16.110",
     "662a0601bcbc9bb95c7fa55bbf61fa3de848d764": "awscli: update 1.16.100 bottle.",
     "8ae38353ba19f9e3ad3eef1f143f94d4d4478e90": "awscli 1.16.100",
     "8cc95d7de9021c6bb8515f354ec2dbad5349b138": "awscli: update 1.16.90 bottle.",

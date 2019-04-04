@@ -1,4 +1,6 @@
 {
+    "ec5b9684e831e4b7e88ef0c2620238fd2d58599d": "linkerd: add 2.2.1 bottle.",
+    "c4488ad012006f4ecf30cb5a80d272ec28fa86d8": "linkerd 2.2.1",
     "e4e629501ba34e87bb4413dde5b9f189e881f261": "linkerd 1.6.1",
     "4c5fdffa04cdf3e393d524b0dca2c11d7e44161d": "linkerd 1.6.0 (#35349)",
     "93cdd77c59e59097df25b07449bb3a9406cd9aa2": "linkerd 1.5.2",

@@ -1,4 +1,6 @@
 {
+    "128fa6b0491be2831dbf419cf21b64f40852734a": "backupninja: update 1.1.0 bottle.",
+    "efd9ebfa5b65d10ff897204aaebf61f074e3748d": "backupninja 1.1.0",
     "f0e488796fb376fe40789d07658ccb46ccc51e16": "backupninja: secure/fix url(s)",
     "a89a389f52cc89cdd0776438f6d4beecaad8adc7": "backupninja: update 1.0.2 bottle.",
     "e2d2e4fa82083cb89a5690ee5d944bc114c950da": "backupninja: add mirror",

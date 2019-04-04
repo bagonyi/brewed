@@ -1,4 +1,8 @@
 {
+    "0affc4333e1c50bb92ae66a5fd716a5701e9c87e": "mkl-dnn: update 0.18.1 bottle.",
+    "01152cb7a9de9b9a13e72853755d027089a0ccdd": "mkl-dnn 0.18.1",
+    "366defcddaf9aebddf2c4b164ceba07384157601": "mkl-dnn: update 0.18 bottle.",
+    "66a2942df69f56df0378dc432cfbbf2444cfc090": "mkl-dnn 0.18",
     "dcad5fbbcd5621a961babe875d378638a4abf648": "mkl-dnn: update 0.17.3 bottle.",
     "0b316a4f3dfb7631ae2cd50e17b7a91af60109ad": "mkl-dnn 0.17.3",
     "f81896bf93f6cd4ddb0627bbe56f3b26f9023a45": "mkl-dnn: update 0.17.2 bottle.",

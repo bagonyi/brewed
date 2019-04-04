@@ -1,4 +1,7 @@
 {
+    "bd160e2aec334d2313c4804cecb8e94968f9990a": "libsoup: update 2.66.0 bottle.",
+    "f6e362f71f8f311dc076711361fe1f741abc3cc8": "libsoup 2.66.0",
+    "35e40199a5b20362d9c67a84276f670b6cbb55aa": "libsoup: improve test",
     "b829c5aa316fbf4528f8e743b4f2cdeb0473548d": "libsoup: update 2.64.2 bottle.",
     "209d167c779f540169a875d3cca7931b12839cfe": "libsoup 2.64.2",
     "aaf6721cf81d7bf065124657864df231b23a1675": "libsoup: update 2.64.1 bottle.",

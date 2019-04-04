@@ -1,4 +1,6 @@
 {
+    "c8b8351124421bd35f257b46b3f069a327066c67": "fb-client: update 2.0.4 bottle.",
+    "739608f81645c4acc10cc0f9b28c6c2237786e6a": "fb-client 2.0.4",
     "1b029ae2404884b4cb49e405ab02fd1a47ad95d9": "fb-client: update 2.0.3_5 bottle.",
     "e0b11e182337264819e22aea2e4e64f1febfa548": "fb-client: update resources, depend on curl-openssl",
     "aabf65766b4799c7eb3cc857fe8f9121a1e6b8a3": "fb-client: update 2.0.3_4 bottle.",

@@ -1,4 +1,12 @@
 {
+    "1e0e840aec86866cb6330f221f1839c07cad94ca": "libphonenumber: update 8.10.8 bottle.",
+    "e8b375f2e7c06f718d8ca10e9db229ee35991864": "libphonenumber 8.10.8",
+    "d6a15f4ee2d6a5438f0f6244170be8df7867a2c7": "libphonenumber: update 8.10.7 bottle.",
+    "cbaa291eac54e32302cc4e93b71ea9521eb95733": "libphonenumber 8.10.7",
+    "72ad1c9c077dcdec5bb06da01e32979291eca57e": "libphonenumber: update 8.10.6_1 bottle.",
+    "1de06081cf82a1a39de577e9c514e433b4133ae5": "libphonenumber: revision for protobuf",
+    "53d332922bd55dc9e2621ec47763254919a0e4ca": "libphonenumber: update 8.10.6 bottle.",
+    "e6152a3d2657e4a9a08b2e8c946e453677566b50": "libphonenumber 8.10.6",
     "a7612530b26abc18db9f7b928940a3ee602c3927": "libphonenumber: update 8.10.4 bottle.",
     "f5ae7c8e175abb85e3b0075e64f0481b59c65cd4": "libphonenumber 8.10.4",
     "53466fcc8d4941d743399251f02a0ebc0a075f74": "libphonenumber: remove checks for old compilers.",

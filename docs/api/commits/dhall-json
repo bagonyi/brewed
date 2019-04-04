@@ -1,4 +1,6 @@
 {
+    "c45c16208a19b1d29c8b19d30101a4827f72837d": "dhall-json: update 1.2.7 bottle.",
+    "b0fabc6c85c143fd65eee708caa19a624698e8a7": "dhall-json 1.2.7",
     "df6a60977157e966ae4ea8f5e528cc4a0459c4ec": "dhall-json: update 1.2.6 bottle.",
     "1dfc2e30ac3edc0aec532ef13d804b02e4647d4d": "dhall-json 1.2.6",
     "f30eb1bf8cabbbfbe937d388ab10634dce383613": "dhall-json: update 1.2.4 bottle.",

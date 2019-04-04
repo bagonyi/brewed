@@ -1,4 +1,5 @@
 {
+    "c64047895332d9ad0533ec1423627eca5b6ab49c": "Update debian mirrors to fix audit",
     "1161108ea93a574112ee1753e5f72efe68f559b7": "bazaar: update 2.7.0_1 bottle.",
     "406738b229bf2e0b9a426ff66e1d304c0ca1fce5": "bazaar: update 2.7.0_1 bottle.",
     "0bcdc12af6e59e176fe525d5ca2874e5e961037e": "bazaar: apply patch for CVE-2017-14176",

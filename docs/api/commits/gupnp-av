@@ -1,4 +1,6 @@
 {
+    "bb722a3546c791bf78fdd79e9c7aa5e8a421d681": "gupnp-av: update 0.12.11_1 bottle.",
+    "b45c27ef49b77b177b9644d2946676397cb8e60d": "gupnp-av: fix dependencies",
     "02e152062754def78cd39655b2cc12e41b7433eb": "gupnp-av: update 0.12.11 bottle.",
     "1a8cbb7ae3d387b460703d180eaf4bbd6f13c3db": "gupnp-av 0.12.11",
     "b232a3fb003708b184c3b8a2533e7d1d6579ef79": "gupnp-av: fix dependency order",

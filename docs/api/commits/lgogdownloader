@@ -1,4 +1,6 @@
 {
+    "3966c3669cd2f32485f314364e419bd1d1f4a3f8": "lgogdownloader: update 3.3_6 bottle.",
+    "7e9b3e3ec00e4c9b1943a64e097fb3eb5399a82b": "lgogdownloader: revision for boost",
     "755457104ee7eea98cdc11fee9071756f511aeeb": "lgogdownloader: update 3.3_5 bottle.",
     "bd0d563fd4e2b2d73c7fe3f219c3924b2c48fbd7": "lgogdownloader: bump revision for boost",
     "7b4a9746df225ea8152b360bb3576068cecd745c": "lgogdownloader: update 3.3_4 bottle.",

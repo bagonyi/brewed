@@ -1,4 +1,6 @@
 {
+    "f58082f7eb65a35c6b773faeef95052f590fe077": "mapserver: update 7.2.2 bottle.",
+    "49570f33a50ade515b72dab87006c10fcd3c89d6": "mapserver 7.2.2",
     "c9b22eb3cfd6468b06f3810204e702e71b3f3237": "mapserver: update 7.2.1_1 bottle.",
     "0afcb28765e5bca5094f3fb1d7376d68ce2ae79d": "mapserver: remove options",
     "92e6b270888ecaad08e35fe1960ad1d91a90359d": "mapserver: update 7.2.1 bottle.",

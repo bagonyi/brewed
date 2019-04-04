@@ -1,4 +1,8 @@
 {
+    "45b4f8ea5f57929f46b8d464e167abfe9cde4db2": "dwm: update 6.2_1 bottle.",
+    "ac7a4587a8252a4db3d7b00f61090f8ba4020a45": "dwm: bump revision",
+    "40374f56e80ce80418cc27e98e85c295ae3c3e35": "dwm: update 6.2 bottle.",
+    "eaa61da56eaa85d0790c0b2b48c010e46d4308ff": "dwm 6.2",
     "07dd5f53bee31f82ada8325efacf64393f758adb": "dwm: update 6.1_1 bottle.",
     "0dcec02526a89e2d048fed761dcd8cb460539464": "dwm: remove options",
     "60b6f4cb7da8bacee8cd936761a9a0cf4c30c351": "dwm: update 6.1 bottle.",

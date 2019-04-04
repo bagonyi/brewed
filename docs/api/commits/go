@@ -1,4 +1,8 @@
 {
+    "23fcc8b4aefd31b6041770864bfdd0a0b535c8e9": "go: update 1.12.1 bottle.",
+    "850c03a6e63f6f2e9a2f600200a3c4071c3ba163": "go 1.12.1",
+    "16274021117c276c8fdb343d7c2e640904b88435": "go: update 1.12 bottle.",
+    "a33840c9f01359f7f3686bac32668a102898a7f9": "go 1.12",
     "5b653dba9ce84f275f0ce9a9e5d0310a4a632fcb": "go: update 1.11.5 bottle.",
     "ffb004e3f401275b943d8e67783384d3985340d2": "go 1.11.5",
     "2784fa3e24f411cb8b6755a86b7a51b95b026b1d": "go: update 1.11.4 bottle.",

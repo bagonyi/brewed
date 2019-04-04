@@ -1,4 +1,8 @@
 {
+    "4a2e089554441cf3970bac8364eef5db24d7365a": "amazon-ecs-cli: update 1.13.1 bottle.",
+    "c0677f8bfefc04bb140e8029aa6ab9535aca8574": "amazon-ecs-cli 1.13.1",
+    "14b4fa60f79ff82215802ee2bf26f1384b2012bf": "amazon-ecs-cli: update 1.13.0 bottle.",
+    "cc423871dcbf466a32092e4cc45fd3548513f128": "amazon-ecs-cli 1.13.0",
     "9b732ea8a954275ee8ad11ef29aced3eee78a0c8": "amazon-ecs-cli: update 1.12.1 bottle.",
     "2865fc9b4a856a63dae348136d06b6c826165907": "amazon-ecs-cli 1.12.1",
     "6766ae3ab2cc36f831921e8a790391789d2d9c87": "amazon-ecs-cli: update 1.12.0 bottle.",

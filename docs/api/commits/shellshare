@@ -1,4 +1,5 @@
 {
+    "74d3b0b277bde9d926c276e84de06b78da2418e5": "shellshare 1.0.4",
     "c530296ad66bd9b3f5a411cd34a7ea0e8ebd36be": "shellshare: move to system Python",
     "1ebc5f2f74e4e57cc9db32730d51b01b1d7f4ef0": "shellshare: depend on python@2",
     "61c2bad1271c70b0cf17e70d776cacb2ed68f8cd": "shellshare: rename python@2 dependency",

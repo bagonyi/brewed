@@ -1,4 +1,8 @@
 {
+    "4732b3be1ff37125b99977a8a8a5a960658bf64b": "i2pd: update 2.24.0 bottle.",
+    "2ff056bacc0f266f08dda4534540319a0fe4bbf8": "i2pd 2.24.0",
+    "2b4ff9a668d1d14ccb27b6819581d2e8845a4b85": "i2pd: update 2.23.0_1 bottle.",
+    "91744f282d25c05f924de2d6b5ff8b9d741a4622": "i2pd: revision for boost",
     "64635e0d633d86f3b17060567e60d6ad9be3eff8": "i2pd: remove checks for old compilers.",
     "0933ac32be41ae61fdc437809ae228bc47567d20": "i2pd: update 2.23.0 bottle.",
     "bc2d5b1a22367c39a9b4993400a67b029615b42c": "i2pd 2.23.0",

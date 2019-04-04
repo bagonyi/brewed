@@ -1,4 +1,6 @@
 {
+    "13f7d78c69690373c340a86f3213239e8d69ca06": "libuv: update 1.27.0 bottle.",
+    "d994ca760a2fee58e06bb234aec250b716f5ed08": "libuv 1.27.0",
     "124a98e70716a888e4787421820672c61c8a3983": "libuv: update 1.26.0 bottle.",
     "a282e92f36a817ecc315cfdf620482305eb390bc": "libuv 1.26.0",
     "4568bf37753ab529f84330c3988339df03d39c49": "libuv: update 1.25.0 bottle.",

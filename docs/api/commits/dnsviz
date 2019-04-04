@@ -1,4 +1,6 @@
 {
+    "14fcecd806f4f732bcdbba4f0d21da2af825bbda": "dnsviz: update 0.8.2 bottle.",
+    "292069c16f899a5f973742242c85cfbb00d5f09b": "dnsviz 0.8.2",
     "3ec9133cd3d0122dc14adb9d5e5644e69f0146fd": "dnsviz: fix rubocop 0.65.0 style.",
     "801587c1b892114b93884f476661f51bc5f49efa": "dnsviz: update 0.8.1 bottle.",
     "8bad9905e394d00381e68b5c85d5a22ed7ac64db": "dnsviz 0.8.1",

@@ -1,4 +1,6 @@
 {
+    "4b7d31fffb4bff5b59dcdd8dc47203d1c9df153c": "mandoc: update 1.14.5 bottle.",
+    "fdbbb68d4f9d0fe10eae82045e985dac22fa0c66": "mandoc 1.14.5",
     "4cdada170fdc126d942994397496509f19349229": "mandoc: update 1.14.4 bottle.",
     "43037996b5c393387b545434a3fa188255403088": "mandoc 1.14.4",
     "0daed3c016feda1be1394eff958555237e0ed878": "mandoc: remove options",

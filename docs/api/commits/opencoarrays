@@ -1,4 +1,6 @@
 {
+    "35b9856e0ccea14cca5534b776566e4f1fb54a1e": "opencoarrays: update 2.6.1 bottle.",
+    "928733dbcf3f5ad169122d387a4ec0ccaf3496c8": "opencoarrays 2.6.1",
     "84d8d90969092c852a905aaa9009a7850183ae3f": "opencoarrays: update 2.3.1_1 bottle.",
     "4d6816a45fb4f740301b33ac00a75b66e57b4df5": "opencoarrays: bump revision for open-mpi-4.0.0",
     "a64cf1f6ea56866481900efea8b0602f6f02421f": "opencoarrays: update 2.3.1 bottle.",

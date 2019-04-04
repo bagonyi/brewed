@@ -1,4 +1,7 @@
 {
+    "dd2a20fcbaf1d95547aeb4ea5dc3e675fbf81185": "ipfs: update 0.4.19 bottle.",
+    "753bde5dd6ec33b81110a3a4959ee2ebf0ae3ce0": "ipfs 0.4.19",
+    "460aef47c46683357aa159de6bdcf40a8a48973f": "ipfs: Remove unused dependencies",
     "2a2f2bbf2a00617f9b4be80276907d48412f8be5": "ipfs: update 0.4.18 bottle.",
     "d223e52fd2c67a2b7894231a727d16dabc42c795": "ipfs 0.4.18",
     "34695777626d417b31b6a8e04c0a8a6fd660f792": "ipfs: fix RuboCop Layout/AlignHash.",

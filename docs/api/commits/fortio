@@ -1,4 +1,6 @@
 {
+    "0088fbba34818a9a65b41786a8124cd46ae0101e": "fortio: update 1.3.1 bottle.",
+    "29de5d87c8b864ad68e880ae5e89229e4bd808d6": "fortio 1.3.1",
     "26e4a68fa2b66b2e214e70b388f760358144a366": "fortio: fix RuboCop Layout/AlignHash.",
     "c70e64ffe2ea3218c3d9e7a63e37d8a9e04afc77": "fortio: update 1.3.0 bottle.",
     "30a3c516d0983ba4a2509357900bf9b17e0519d2": "fortio 1.3.0",

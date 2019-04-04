@@ -1,4 +1,6 @@
 {
+    "889905a6922c905bd6e95be497ccdef6960d4a70": "snort: update 2.9.12 bottle.",
+    "2b00a6ade2c1f7ca8f758c8638c125297ada558a": "snort 2.9.12",
     "2b33acc675854f556485e9170f56f77d67e831c0": "snort: remove debug option",
     "8a4540352550e0aefd9f4f17f8071852e5a696ad": "snort: fix dependency order",
     "4059c7b500a809b6e9d0af1c25736e30eb6969c7": "snort: update 2.9.11.1 bottle.",

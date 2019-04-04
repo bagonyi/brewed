@@ -1,4 +1,10 @@
 {
+    "2f4cd9eac57b676f086e84cee47d5ed3b50cafc3": "flow: update 0.95.2 bottle.",
+    "2d74ea9e9793cf4968d7cb83eb8a67c74ab21a8d": "flow 0.95.2",
+    "7110181e45ace7203f6223e18210d56d2ca564bb": "flow: update 0.95.1 bottle.",
+    "ca622983f90384963a10009e1f4efa0bbf5978bd": "flow 0.95.1",
+    "36db665acc72aee94a41decba4725cf60c8c66c4": "flow: update 0.94.0 bottle.",
+    "01a982e5c701f5e2343a756d9ab931f12862a05f": "flow 0.94.0",
     "716efddd193d2ab9a3940beadc2d5bd41ce2fab3": "flow: update 0.81.0 bottle.",
     "1769768183f2d139c7d54c1a7de0c9f4387c91e2": "flow 0.81.0",
     "58792efc650ede7ab15770f6c0f6c451506b7536": "flow: update 0.80.0 bottle.",

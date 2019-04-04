@@ -1,4 +1,6 @@
 {
+    "d033edffe45b0003aec6eb9666dba2b994005250": "ydcv: add 0.6.2 bottle.",
+    "c447bb95c1e0a7006d8a26e9e30f83d69a0b0099": "ydcv 0.6.2",
     "cde9c27483ca51327ffc7fd9896736a142fa2e10": "ydcv 0.6.1 (#35593)",
     "646ebef63fa1b660a4d10c84695c24c572e4e777": "ydcv: use system python",
     "b1c27d2d8f6dc66e8acd605eaab4dbcd2b5a8a79": "ydcv: depend on python@2",

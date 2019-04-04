@@ -1,4 +1,6 @@
 {
+    "51319dc9fe0cda2f57833973aaec792890c857c5": "exim: update 4.92 bottle.",
+    "3d8eee9661976268f3432103585ccd0c41352c0e": "exim 4.92",
     "cdb15116e8244834ca87bdcc76d3ca86bef63868": "exim: update 4.91 bottle.",
     "0595886946712db02ab391d570dafe56fa2f7636": "exim: remove options",
     "9b6cf8ba26274dca8bc9c330360e8ca55d28456a": "exim: fix component order",

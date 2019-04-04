@@ -1,4 +1,6 @@
 {
+    "2d4af2a23b1a43c606c66f14aeb8ebf36d3f5593": "geckodriver: update 0.24.0 bottle.",
+    "cd54ea6059ed326f5a338180d0d345d1aa8d9892": "geckodriver 0.24.0",
     "ea6acbb9679cdfc52477dcd9e7a355a6dea76f31": "geckodriver: update 0.23.0 bottle.",
     "9eed7e6811a41730fc9147c9058393c7d7ed715f": "geckodriver 0.23.0",
     "8117aa6bc61bd3657773ff735620de5b35cf30d1": "geckodriver: update 0.22.0 bottle.",

@@ -1,4 +1,6 @@
 {
+    "ede0fe8b1feefb7f3526fe2e87b2bfa6003d99a0": "widelands: update build19_14 bottle.",
+    "9b5040e544ef023f1a919f3a0c1a2409b0d0ec18": "widelands: revision for boost",
     "6e4a1c62c3e31353151865929fead60762922ac0": "widelands: remove checks for old compilers.",
     "dfc3ce29238bced7ad660e7f911f87cb6e0521ed": "widelands: update build19_13 bottle.",
     "f0359bd4870d63b6a2236b044b9b0c0dcf5ff97e": "widelands: bump revision for icu4c",
