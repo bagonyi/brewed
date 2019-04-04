@@ -2,7 +2,7 @@
 
 HOMEBREW_CORE="${HOME}/Development/homebrew-core"
 HOMEBREW_HISTORY="${HOME}/Development/brewed"
-FORMULA_LIST_INDEX="${HOMEBREW_HISTORY}/public/js/formulas.js"
+FORMULA_LIST_INDEX="${HOMEBREW_HISTORY}/docs/js/formulas.js"
 
 function print-usage () {
     echo "
@@ -93,6 +93,11 @@ while read -r FORMULA_PATH; do
 
     echo -n "Processing ${FORMULA_FILENAME} ... "
 
+    if [[ ! -f "${FORMULA_PATH}" ]]; then
+        echo "Formula not found at ${FORMULA_PATH} - probably got deleted. Skipping."
+        continue
+    fi
+
     if [[ "${START_FOUND}" = false ]]; then
         if [[ -z "${START}" ]]; then
             # START is not set, no need to check for START
@@ -107,7 +112,7 @@ while read -r FORMULA_PATH; do
         fi
     fi
 
-    OUTPUT_FILE="${HOMEBREW_HISTORY}/public/api/commits/${FORMULA_FILENAME_WITHOUT_EXTENSION}"
+    OUTPUT_FILE="${HOMEBREW_HISTORY}/docs/api/commits/${FORMULA_FILENAME_WITHOUT_EXTENSION}"
     GIT_HISTORY=$(git --no-pager log --pretty=oneline --follow -- "${FORMULA_PATH}")
 
     echo "{" > "${OUTPUT_FILE}"
